@@ -1,0 +1,473 @@
+{
+  "id": "2026-06-15",
+  "date": "2026-06-15",
+  "day": "Monday",
+  "weekType": "example",
+  "editions": [
+    {
+      "name": "TLDR",
+      "articles": [
+        {
+          "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/?utm_source=tldrnewsletter",
+          "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+          "summary": "Anthropic has shut off access to its Mythos 5 and Fable 5 models. The US Commerce Department has issued a directive that subjects the new models to export controls restricting their use anywhere outside of the US. Anthropic says the only way to ensure compliance is to completely cut access until the issue is resolved. Access to other Anthropic models is not affected."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/qb1O5j",
+          "title": "Elon Musk becomes the world's first trillionaire",
+          "summary": "Elon Musk became the world's first trillionaire on Friday after shares of SpaceX rose 20% from their initial public offering price of $135. Musk was already the world's richest person, claiming the title from Jeff Bezos in 2021 with a net worth of over $185 billion. His worth is now equivalent to more than 3% of the US gross domestic product. It is five million times as large as that of the typical US family."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/0cxDla",
+          "title": "Nuclear clocks tick for the first time",
+          "summary": "Chinese and European research teams working independently have both achieved building a working nuclear clock. Both exploit the nucleus of a thorium-229 atom to keep time with extraordinary precision. Building a working nuclear clock has so far proven to be challenging, as the required laser light sits in a part of the spectrum that is technically challenging to generate and control. The Chinese team used a more powerful laser, while the European team worked with a crystal containing a higher concentration of the thorium nuclei."
+        },
+        {
+          "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/?utm_source=tldrnewsletter",
+          "title": "New CRISPR technique selectively shreds cancer cells, including \"undruggable\" cancers",
+          "summary": "Researchers have created a new CRISPR-based approach that can selectively destroy cells carrying a mutation in a tumor suppressor found in nearly half of cancers and up to 70% to 90% of cases of some of the most difficult-to-treat cancers. The new approach harnesses CRISPR's ability to find cells with specific mutations and uses its cutting ability to selectively destroy those cells. Making treatments for different cancers using this technique is faster than making a small molecule drug or antibody therapy. Delivery remains a challenge, but a combination of therapies may prove useful for some cancers."
+        },
+        {
+          "url": "https://github.com/DietrichGebert/ponytail?utm_source=tldrnewsletter",
+          "title": "Ponytail (GitHub Repo)",
+          "summary": "Ponytail is an AI senior developer. It produces efficient code at low cost and at fast speeds. Ponytail works with every model. Examples and benchmark comparisons are available in the repository."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/YNZszp",
+          "title": "The log is the agent",
+          "summary": "While the model, runtime, and loop matter, those things aren't the agent. The agent is the history of events that make up its data. This log allows agents to be reconstructed correctly and resumed. The concept of agents as logs unlocks a whole set of capabilities that make even advanced agent use cases easier to reason about and build into everyday applications."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/X5LYSz",
+          "title": "Apple's new Siri is just good enough to ease its AI crisis",
+          "summary": "Apple's Siri now works the way it's supposed to. The latest update doesn't do anything revolutionary or innovative, but it shows how Apple has finally entered the modern AI market. The new Siri is roughly competitive with where the leading chatbots were about six months ago. Apple's preinstalled functionality is now competent enough that many users won't need competing AI services."
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/?utm_source=tldrnewsletter",
+          "title": "Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+          "summary": "Meta employees don't think it's a happy place to work at, especially given the seemingly endless layoffs the company has executed over the last few years. The company's Applied AI team is reportedly on the verge of revolt. One of the group's live-streamed, employee-only presentations was interrupted earlier this week with an expletive-laden meltdown targeting a senior Meta AI executive. Many employees in the group say they were forced into the group with no real choice and that the work inside the unit was soul-crushing."
+        },
+        {
+          "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/?utm_source=tldrnewsletter",
+          "title": "Has AI already killed how-to nonfiction? Sales trends, my personal data, and what it might mean for the future",
+          "summary": "The market for information is collapsing into the chatbot."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/HemVoG",
+          "title": "Inside the room where America's brightest game out how to avoid an AI apocalypse",
+          "summary": "Political polarization makes ambitious changes difficult, but inaction would be far more costly."
+        },
+        {
+          "url": "https://blog.unitedheroes.net/5751?utm_source=tldrnewsletter",
+          "title": "Leaving Mozilla",
+          "summary": "JR Conlin is leaving Mozilla on July 21 after more than 15 years."
+        },
+        {
+          "url": "https://github.com/argyleink/prop-for-that?utm_source=tldrnewsletter",
+          "title": "prop-for-that (GitHub Repo)",
+          "summary": "prop-for-that exposes what JavaScript knows, but CSS can't see as live CSS custom properties."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/Lga7f6",
+          "title": "SpaceX's president is floating a Tesla merger as the company begins trading",
+          "summary": "SpaceX President Gwynne Shotwell declined to rule out a future merger with Tesla while tempering expectations about timing."
+        },
+        {
+          "url": "https://www.davidpoll.com/2026/06/software-is-not-a-single-player-game/?utm_source=tldrnewsletter",
+          "title": "Software is not a single-player game",
+          "summary": "Building dependable software that lasts and grows will always remain a multiplayer game."
+        }
+      ]
+    },
+    {
+      "name": "TLDR DevOps",
+      "articles": [
+        {
+          "url": "https://www.databricks.com/blog/ingesting-milky-way-petabyte-scale-zerobus-ingest?utm_source=tldrdevops",
+          "title": "Ingesting the Milky Way: Petabyte-Scale with Zerobus Ingest",
+          "summary": "Databricks announced general availability of Zerobus Ingest, a serverless streaming service that demonstrated the ability to ingest 1 petabyte of data in under 24 hours—sustaining 12 GB/s throughput to a single Delta table—using NASA's 200 billion data point NEOWISE dataset as a benchmark. The service eliminates the need for Kafka infrastructure by using a push-based API with stream-level ordering guarantees and a custom zero-copy protobuf parser that achieves ~1 GB/s parsing per CPU core."
+        },
+        {
+          "url": "https://www.redhat.com/en/blog/ansible-automation-platform-27-visual-execution-environment-builder-and-content-discovery-guide?utm_source=tldrdevops",
+          "title": "Ansible Automation Platform 2.7: Visual Execution Environment Builder and Content Discovery Guide",
+          "summary": "Red Hat released Ansible Automation Platform 2.7, which introduces a visual execution environment builder and unified content discovery engine that eliminate the need for manual syntax configuration and consolidate scattered automation content from multiple repositories into a single searchable catalog. The new builder features a guided workflow and automated GitHub Actions pipeline that can generate and deploy custom execution environments without requiring command-line expertise."
+        },
+        {
+          "url": "https://motherduck.com/blog/flights-agent-native-ingest/?utm_source=tldrdevops",
+          "title": "Introducing Flights: Agent-Native Ingest in MotherDuck",
+          "summary": "MotherDuck launched Flights, a public-preview feature for building and running agent-native data pipelines inside a general-purpose Python runtime. Flights can be created through MCP-capable agents, SQL table functions, or the MotherDuck UI, letting teams ingest from APIs, warehouses, SaaS tools, S3, or dlt pipelines while keeping secrets inside MotherDuck and moving from raw source data to analytics in a single agent session."
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/devops/diagnose-eks-node-issues-faster-with-aws-devops-agent-and-custom-mcp/?utm_source=tldrdevops",
+          "title": "Diagnose EKS Node Issues Faster with AWS DevOps Agent and Custom MCP",
+          "summary": "AWS released a custom Model Context Protocol (MCP) server that extends its DevOps Agent's autonomous troubleshooting capabilities to EKS worker nodes, giving it structured access to 20+ node-level diagnostic sources like iptables rules, kernel logs, and CNI configuration through AWS Systems Manager automation. The open-source reference implementation successfully diagnosed a fault-injected DNS failure by autonomously collecting node diagnostics, comparing against healthy nodes, and identifying the root cause—iptables DROP rules blocking pod traffic—without requiring manual SSH sessions."
+        },
+        {
+          "url": "https://dropbox.tech/security/dropbox-mcp-dash-design-code-security?utm_source=tldrdevops",
+          "title": "How Dropbox Uses MCP and Dash to Close the Design-to-Code Security Gap",
+          "summary": "Dropbox built a system combining Model Context Protocol, large language models, and its Dash AI to automatically check if code changes align with security threat models during code review, after discovering that only 12% of pull requests linked back to their original security reviews and 54% were created over a month after the review was filed. The system uses Dash's indexing capabilities to retrieve relevant threat models and has already identified missing security controls and contradictions that were invisible without connecting the implementation to original requirements."
+        },
+        {
+          "url": "https://github.com/meshery/meshery?utm_source=tldrdevops",
+          "title": "Meshery (GitHub Repo)",
+          "summary": "Meshery, a Cloud Native Computing Foundation project, is an open-source engineering platform that manages Kubernetes-based infrastructure across multi-cloud environments with support for 380+ integrations and visual GitOps capabilities. The self-service platform offers collaborative design tools, multi-cluster management, performance testing, and multi-tenant support while eliminating the need for manual YAML configuration."
+        },
+        {
+          "url": "https://github.com/andrewyng/aisuite?utm_source=tldrdevops",
+          "title": "Aisuite (GitHub Repo)",
+          "summary": "OpenCoworker is a desktop AI agent built on the aisuite library for macOS and Windows that can perform deep research, manage files, send messages via Slack and email, and create deliverables like PDF reports while keeping all data stored locally on users' machines. The tool requires users to bring their own API keys from providers like OpenAI, Anthropic, or Google, or can run completely offline using Ollama, and supports scheduled automations like daily news summaries."
+        },
+        {
+          "url": "https://www.theregister.com/devops/2026/06/10/github-pulls-pin-on-npms-auto-run-scripts/5253453?utm_source=tldrdevops",
+          "title": "GitHub Pulls Pin on npm's Auto-Run Scripts",
+          "summary": "GitHub will make npm safer by default in npm 12 by disabling install-time scripts, Git-based dependency fetching, and remote URL downloads unless explicitly allowed, reducing common software supply chain attack vectors. Developers can still approve required packages through allowlists, though the changes are breaking and require projects to review and permit legitimate install scripts used by tools such as Playwright, Puppeteer, Electron, and native modules."
+        },
+        {
+          "url": "https://about.gitlab.com/blog/gitlab-transcend-announcements/?utm_source=tldrdevops",
+          "title": "GitLab: Built for the Agentic Engineering Era",
+          "summary": "GitLab unveiled an agent-focused software development platform featuring a next-generation Git engine for massive agent concurrency, the Orbit lifecycle context graph, governance controls for AI agents, and expanded security automation to help organizations scale AI-driven development safely. The company also highlighted strong enterprise AI adoption trends and introduced GitLab Flex, a flexible consumption model that lets customers reallocate spending between seats, AI usage, and platform capabilities as needs evolve."
+        },
+        {
+          "url": "https://www.datadoghq.com/blog/dash-2026-new-feature-roundup-secure/?utm_source=tldrdevops",
+          "title": "DASH 2026 Security & Compliance: Guide to Datadog's Newest Announcements",
+          "summary": "Datadog announced broad security and compliance enhancements, including AI agents for threat hunting, SIEM investigations, code remediation, API security, and sensitive data leak fixes, alongside expanded integrations, FedRAMP High certification, and a new API authentication model."
+        },
+        {
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging/?utm_source=tldrdevops",
+          "title": "Amazon EKS Capabilities Now Supports Amazon CloudWatch Vended Logs",
+          "summary": "Amazon EKS Capabilities now support CloudWatch Vended Logs, allowing customers to collect and route logs from managed controllers for Argo CD, ACK, and kro to CloudWatch Logs, Amazon S3, or Kinesis Data Firehose."
+        },
+        {
+          "url": "https://about.gitlab.com/blog/gitlab-expands-google-model-support/?utm_source=tldrdevops",
+          "title": "GitLab on Google Cloud: Fully Managed, Compliant, and AI-Ready",
+          "summary": "GitLab can now be deployed as a fully managed platform on Google Cloud through certified MSP partners, giving organizations control over data residency, governance, and compliance while integrating Google's latest Gemini and Gemma AI models into GitLab Duo Agent Platform."
+        }
+      ]
+    },
+    {
+      "name": "TLDR Dev",
+      "articles": [
+        {
+          "url": "https://planetscale.com/blog/the-only-scalable-delete?utm_source=tldrdev",
+          "title": "The only scalable delete in Postgres is DROP TABLE",
+          "summary": "Large Postgres DELETEs add work rather than reclaim it. They leave dead tuples, add replication overhead, and don't return disk space, while DROP TABLE and TRUNCATE remove files directly and scale independently of data size. It's best to structure your schema so bulk deletion becomes a DROP or TRUNCATE."
+        },
+        {
+          "url": "",
+          "title": "Formal methods and the future of programming",
+          "summary": ""
+        },
+        {
+          "url": "",
+          "title": "Slightly reducing the sloppiness of AI generated frontend",
+          "summary": ""
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/aszidt",
+          "title": "A frontier without an ecosystem is not stable",
+          "summary": "The transition to an AI-driven economy requires a cognitive loop where human capital and token capital compound to create unique institutional value. To maintain sovereignty, firms must build private learning loops that encode their domain expertise into agentic systems that improve with each use."
+        },
+        {
+          "url": "",
+          "title": "No, everyone is not using AI for everything",
+          "summary": ""
+        },
+        {
+          "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows?utm_source=tldrdev",
+          "title": "Don't trust large context windows",
+          "summary": "LLMs have a reliable \"smart zone\" that typically degrades into a \"dumb zone\" once input exceeds approximately 100,000 tokens. Although developers market context windows reaching into the millions, performance studies show that effective attention is only a small fraction of those advertised figures."
+        },
+        {
+          "url": "https://github.com/DietrichGebert/ponytail?utm_source=tldrdev",
+          "title": "Ponytail (GitHub Repo)",
+          "summary": "Ponytail is a development tool that increases AI agent efficiency by prioritizing minimal, native code over over-engineered solutions. It integrates with major developer environments to reduce code bloat, lower execution costs, and help manage technical debt."
+        },
+        {
+          "url": "",
+          "title": "SQL to ER Diagram (Website)",
+          "summary": ""
+        },
+        {
+          "url": "https://github.com/tamnd/kage?utm_source=tldrdev",
+          "title": "Kage (GitHub Repo)",
+          "summary": "Kage is an open-source tool for creating high-fidelity, script-free mirrors of websites for permanent offline browsing. The tool uses a headless browser to capture the final rendered state of a page, making sure all visual elements are preserved while removing tracking scripts and external dependencies."
+        },
+        {
+          "url": "",
+          "title": "Why AI hasn't replaced software engineers, and won't",
+          "summary": ""
+        },
+        {
+          "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer?utm_source=tldrdev",
+          "title": "Vibe Coder vs Software Engineer",
+          "summary": "Vibe coding focuses on the rapid generation of prototypes to test ideas, whereas software engineering prioritizes the entire development lifecycle and the complexities of long-term maintenance. The main difference is in measurement, as the former focuses on the speed of a first working version while the latter values the \"time to safe merge.\""
+        },
+        {
+          "url": "",
+          "title": "The computer science degree isn't dead",
+          "summary": ""
+        },
+        {
+          "url": "https://paulgraham.com/earn.html?utm_source=tldrdev",
+          "title": "How to earn a billion dollars",
+          "summary": "Becoming a billionaire through a startup is a legitimate process driven by exponential growth."
+        },
+        {
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141?utm_source=tldrdev",
+          "title": "AI is code – and can't be prompted into being smarter",
+          "summary": "Developers and security threats are increasingly exploiting the rigid, non-intelligent nature of AI by embedding hidden instructions in code that force AI to delete work or trigger safety shutdowns."
+        },
+        {
+          "url": "https://github.com/airbnb/visx?utm_source=tldrdev",
+          "title": "Visx (GitHub Repo)",
+          "summary": "A collection of modular, low-level visualization components for React that combine the mathematical power of D3 with a declarative approach to managing the DOM."
+        },
+        {
+          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/?utm_source=tldrdev",
+          "title": "Claude Fable is relentlessly proactive",
+          "summary": "Claude Fable 5 showed an aggressive level of autonomy in a test where it had to resolve a minor CSS bug by engineering complex technical workarounds, such as building custom servers and hijacking system tools."
+        }
+      ]
+    },
+    {
+      "name": "TLDR IT",
+      "articles": [
+        {
+          "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6?utm_source=tldrit",
+          "title": "US orders Anthropic to suspend access to Fable 5 and Mythos 5",
+          "summary": "The US government ordered Anthropic to block foreign nationals from accessing its most advanced models, Fable 5 and Mythos 5, citing national security concerns. Instead of trying to apply the restriction by nationality, Anthropic disabled access to the models globally and is set to meet with White House officials next week to resolve the dispute."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/qHev9Q",
+          "title": "Oracle landed a contract to run HR software for the entire US government",
+          "summary": "Oracle has landed a 10-year contract to provide HR software for the entire US federal government. The deal will replace more than 100 separate agency HR systems with a single cloud-based platform serving about 2 million federal employees, managed for the Office of Personnel Management (OPM)."
+        },
+        {
+          "url": "https://www.cisa.gov/news-events/news/cisa-issues-new-directive-improving-how-federal-agencies-prioritize-mitigation-cyber-vulnerabilities?utm_source=tldrit",
+          "title": "CISA gives federal agencies as little as three days to patch the riskiest bugs",
+          "summary": "CISA's new directive shifts federal vulnerability management toward risk-based deadlines, with the highest-risk flaws needing remediation within three days. The move reflects how quickly automatable and exploited vulnerabilities can turn into broad compromise."
+        },
+        {
+          "url": "https://cloudedjudgement.substack.com/p/systems-of-record-won-the-saas-era?utm_source=tldrit",
+          "title": "Systems of Record Won the SaaS Era - Clearinghouses Will Win the Agents Era",
+          "summary": "Just as durable SaaS companies won by becoming systems of record, durable AI-era moats will come from becoming the \"clearinghouse\" for autonomous agents. That clearinghouse would govern four elements: memory, context, execution, and governance/audit, controlling permissions and policy around agent actions across vendors and data sources."
+        },
+        {
+          "url": "https://softwareanalyst.substack.com/p/why-cisos-must-re-think-identity?utm_source=tldrit",
+          "title": "Why CISOs Must Re-Think Identity Posture Management for AI Agents",
+          "summary": "Most enterprise Identity Security Posture Management (ISPM) programs are structurally mismatched to today's threat environment, especially as AI agents enter workflows with identities and entitlements. An \"Agentic ISPM\" phase would allow posture findings to translate into closed-loop, policy-bounded remediation: propose, approve (if required), execute, verify, and provide auditable evidence without waiting for manual tickets."
+        },
+        {
+          "url": "https://www.phoronix.com/news/Intel-Thermald-2.5.12-Released?utm_source=tldrit",
+          "title": "Intel Thermald 2.5.12 Released... With Initial Support For ARM",
+          "summary": "Intel Thermald 2.5.12 has been released with initial support for ARM platforms. The ARM enablement was done by Qualcomm refactoring the daemon and adding a platform-agnostic backend so it can run beyond Intel-only hardware, while Intel continues expanding support for newer Intel CPUs and improving RAPL handling and security hardening."
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/aws-cloud-financial-management/aws-finops-agent-is-now-public-preview/?utm_source=tldrit",
+          "title": "AWS launches FinOps Agent in public preview",
+          "summary": "AWS introduced an agentic AI tool that investigates cloud cost anomalies and answers cost questions for engineering teams. It is designed to work inside existing workflows rather than requiring teams to manually dig through billing dashboards."
+        },
+        {
+          "url": "https://shiftmag.dev/api-mcp-server-infobip-filip-srnec-10118/?utm_source=tldrit",
+          "title": "Your API Is Already a Hidden MCP Server, You Just Need to Discover It",
+          "summary": "Infobip's team turned existing OpenAPI-described REST APIs into production-grade MCP servers using the OpenAPI MCP Spring Boot Starter. Instead of writing custom MCP integrations, the framework maps OpenAPI operations to MCP tool definitions, updates dynamically from the spec, filters what gets exposed as tools, and forwards authentication to existing API/OAuth mechanisms so agents can safely call real endpoints."
+        },
+        {
+          "url": "https://www.techradar.com/pro/security/microsoft-breaks-patch-tuesday-record-with-fixes-for-over-200-security-flaws?utm_source=tldrit",
+          "title": "Microsoft's June Patch Tuesday fixes roughly 200 security flaws",
+          "summary": "Microsoft's latest Patch Tuesday was unusually large, addressing around 200 vulnerabilities across Windows and related products. The update included multiple zero-days and critical issues, making it a high-priority patch cycle for IT teams."
+        },
+        {
+          "url": "https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm?utm_source=tldrit",
+          "title": "Oracle Cloud halving always free resources",
+          "summary": "Oracle Cloud Infrastructure's Always Free resources are available to all tenancies in the home region for the lifetime of the account labeled as \"Always Free-eligible\" in the Console."
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/?utm_source=tldrit",
+          "title": "Microsoft Build security updates focus on code, agents, and models",
+          "summary": "Microsoft outlined new security capabilities aimed at protecting AI development workflows across code, models, and agents."
+        }
+      ]
+    },
+    {
+      "name": "TLDR InfoSec",
+      "articles": [
+        {
+          "url": "https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/?utm_source=tldrinfosec",
+          "title": "Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)",
+          "summary": "CVE-2026-20253 (CVSS 9.8) allows unauthenticated attackers to access Splunk Enterprise's PostgreSQL Sidecar Service via the main web application proxy at /en-US/splunkd/__raw/v1/postgres/recovery/. This vulnerability converts the loopback-bound service on port 5435 into an attack surface accessible over the network without credentials. The exploit involves injecting a connection string into the database parameter to redirect pg_dump to an attacker-controlled host, resulting in a malicious database dump containing a lo_export function that can write arbitrary files during restore. The attacker then locates a plaintext .pgpass file at /opt/splunk/var/packages/data/postgres/.pgpass to authenticate with the local PostgreSQL instance and overwrites the ssg_enable_modular_input.py script, achieving remote code execution as the splunk user. Out-of-the-box, Splunk Enterprise versions 10.0.0-10.0.6 and 10.2.0-10.2.3 on AWS are vulnerable. To mitigate, update to 10.0.7 or 10.2.4 respectively, restrict external access to the /__raw/ proxy path, and handle .pgpass files in Splunk deployments as secret as sensitive as private keys."
+        },
+        {
+          "url": "https://www.theregister.com/security/2026/06/12/novo-nordisk-says-hackers-stole-clinical-trial-data/5254812?utm_source=tldrinfosec",
+          "title": "Novo Nordisk reports cyberattack as UK gives Wegovy pill the nod",
+          "summary": "Novo Nordisk says attackers accessed pseudonymized clinical trial records, including patient IDs, demographics, biomarkers, and lifestyle data, but not names or direct identifiers. The company reports some internal systems offline and warns trial participants and healthcare partners about targeted phishing via email, phone, and WhatsApp using stolen contact details."
+        },
+        {
+          "url": "https://www.sonatype.com/blog/atomic-arch-npm-campaign-adds-malicious-dependency?utm_source=tldrinfosec",
+          "title": "Atomic Arch: Attackers Hijack Trusted AUR Packages to Deliver Rootkit-Like Malware",
+          "summary": "Attackers are taking over abandoned Arch User Repository packages, changing PKGBUILDs to install a malicious npm dependency called atomic-lockfile that drops a native Linux payload with eBPF-based rootkit behavior, credential and token harvesting, anti-debugging, and HTTP exfiltration. The campaign now appears to touch around 1,500 AUR packages across multiple waves using npm and Bun installers."
+        },
+        {
+          "url": "https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/?utm_source=tldrinfosec",
+          "title": "From SQLi to RCE - Exploiting LangGraph's Checkpointer",
+          "summary": "Check Point Research disclosed three chained vulnerabilities in LangGraph's persistence layer affecting 50M+ monthly downloads: CVE-2025-67644 (SQL injection in SQLite checkpointer when filter parameters lack parameterization), CVE-2026-28277 (unsafe msgpack deserialization via _msgpack_ext_hook that executes arbitrary functions through importlib.import_module and getattr), and CVE-2026-27022 (identical SQL injection in Redis checkpointer). Exploitation requires the application to expose get_state_history() with user-controlled filter input. Attackers inject UNION SELECT statements containing malicious msgpack payloads that deserialize to RCE via os.system() calls during checkpoint processing. Patch to langgraph-checkpoint-sqlite 3.0.1+, langgraph 1.0.10+, and langgraph-checkpoint-redis 1.0.2+. Use parameterized queries for all filter/limit inputs and avoid exposing checkpoint history APIs to untrusted users."
+        },
+        {
+          "url": "",
+          "title": "Banning Mythos Represents a Basic Misunderstanding of AI Cybersecurity",
+          "summary": ""
+        },
+        {
+          "url": "https://recyclebin.zip/posts/2026-05-25-secret-scanning-fleet-bagel/?utm_source=tldrinfosec",
+          "title": "Detecting and Removing Dangerous Secrets on Dev Workstations Before Shai-Hulud Does",
+          "summary": "This post introduces a workflow for detecting plaintext secrets on developer workstations. The tool utilizes bagel, which functions similarly to TruffleHog but for workstations instead of repos, to scan workstations for secrets and output a JSON containing the location and criticality. fleet then uses osquery to determine if the most recent bagel run succeeded and notifies the developer via Slack if it had any findings."
+        },
+        {
+          "url": "https://github.com/sbousseaden/EDRUnChoker?utm_source=tldrinfosec",
+          "title": "EDRUnChoker (GitHub Repo)",
+          "summary": "EDRUnChoker is a fileless WMI-based defensive tool that counters EDRChoker's QoS abuse by registering a permanent root\\subscription event subscription that runs a 5-second VBScript timer to enumerate and remove malicious New-NetQosPolicy throttles targeting known EDR agent processes via WbemContext PolicyStore on both ActiveStore and GPO:localhost, logging each removed policy as Event ID 1002 under source EDRChokerDefense in the Application log."
+        },
+        {
+          "url": "https://cloud.google.com/security/ai-threat-defense?utm_source=tldrinfosec",
+          "title": "Google AI Threat Defense (Product Launch)",
+          "summary": "Google AI Threat Defense is an always-on platform that uses Mandiant telemetry, Wiz cloud scanning, and Gemini-based tools to find exploitable exposures, generate and verify patches in developer workflows, and enforce real-time detection across applications and cloud infrastructure."
+        },
+        {
+          "url": "https://github.com/xuyw-seu/PacketPatch?utm_source=tldrinfosec",
+          "title": "PacketPatch (GitHub Repo)",
+          "summary": "PacketPatch generates adversarial perturbations against byte-feature encrypted traffic classifiers under strict black-box conditions, built on ET-BERT and SpanBERT, adding under 10% bandwidth overhead at roughly 10 ms per packet while keeping packets valid and recoverable through a symmetric proxy."
+        },
+        {
+          "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?utm_source=tldrinfosec",
+          "title": "Formal Methods and the Future of Programming",
+          "summary": "Jane Street has reversed a 25-year stance against formal methods, having long judged the cost prohibitive (seL4 took 25 person-years to verify 8,700 lines of C, roughly 23 proof lines per code line). Agentic coding flipped that calculus: models lower the cost of constructing proofs while raising the payoff, since agent-generated code still trends toward slop that demands heavy review, and type-level universal guarantees kill entire bug classes like data races and XSS in ways tests cannot. The firm's deep control over OxCaml and a user base already primed for aggressive type-system features position it to bake proof-oriented techniques into the language itself, a bet that formal methods shift from niche assurance work to mainstream tooling as agents reshape where verification effort goes."
+        },
+        {
+          "url": "https://blog.hello.coop/2026/06/anthropics-zero-trust-for-ai-agents-sets-the-right-test-the-bearer-token-fails-it/?utm_source=tldrinfosec",
+          "title": "Anthropic's Zero Trust for AI Agents Sets the Right Test. The Bearer Token Fails It",
+          "summary": "Dick Hardt applies Anthropic's own \"impossible vs. tedious\" standard to the Zero Trust for AI Agents framework's baseline credential recommendation and finds short-lived bearer tokens fail it: a stolen token with a shorter TTL still constitutes an exfiltrable secret, making credential theft tedious rather than impossible. Three deeper gaps are identified: authorization scoped to agent-plus-tool relationships rather than specific call parameters, delegation enforced through telemetry after the fact rather than through structurally narrowing authority at each hop, and agent identity assigned without binding to an accountable human principal. The prescribed remedy is proof-of-possession via non-exportable private keys (HTTP Message Signatures), per-call constrained authorization where parameters themselves are the evaluated artifact, and derived authority that narrows as delegation travels, framed not as a better OAuth but as the deletion of bearer primitives entirely."
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/?utm_source=tldrinfosec",
+          "title": "The FBI Built Its Own Replica Small Town to Simulate Real-World Cyberattacks",
+          "summary": "The FBI runs a 22,000-square-foot fake town in Huntsville, Alabama, to train investigators on live cyberattack scenarios using real consumer and enterprise tech. Houses, a hospital, utilities, and businesses are wired with functioning systems so teams can practice ransomware response, handle life-safety decisions, and work in cramped data centers. The range also supports hands-on digital forensics against encrypted devices and undisclosed exploits."
+        },
+        {
+          "url": "https://cyberscoop.com/outsider-cybercrime-network-takedown-china-fbi-google-lumen/?utm_source=tldrinfosec",
+          "title": "FBI Takes Down Massive China-Based Cybercrime Network That Caused $1.9B in Losses",
+          "summary": "The FBI, Google, and Lumen dismantled Outsider, a China-based phishing-as-a-service operation active since July 2023 that drove an estimated $1.9 billion in losses across 55 countries by selling AI-assisted phishing kits for as little as $88 per week."
+        },
+        {
+          "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/?utm_source=tldrinfosec",
+          "title": "Controversial FISA Spying Law Expires Tonight. The Spying Will Continue",
+          "summary": "Title VII's Section 702 of FISA technically sunsets at midnight, but existing FISA Court certifications keep surveillance programs running until March 2027."
+        },
+        {
+          "url": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html?utm_source=tldrinfosec",
+          "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
+          "summary": "INTERPOL's Operation Ramz led to 201 arrests across 13 MENA countries and the takedown of Sniper Dz, a free phishing-as-a-service platform active since at least 2015."
+        }
+      ]
+    },
+    {
+      "name": "TLDR AI",
+      "articles": [
+        {
+          "url": "https://www.anthropic.com/news/fable-mythos-access?utm_source=tldrai",
+          "title": "Anthropic Suspended Access to Fable 5 and Mythos 5",
+          "summary": "Anthropic said it disabled Fable 5 and Mythos 5 for all users after receiving a US government export-control directive tied to national security concerns and reported jailbreak risks."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/7RhdZU",
+          "title": "Amazon CEO's Talks With US Officials Triggered Crackdown on Anthropic Models",
+          "summary": "Conversations between Amazon chief executive Andy Jassy and US officials prompted the Trump administration to halt all foreign use of Anthropic's most capable AI models. Researchers at Amazon had used a series of prompts to get Anthropic's Fable 5 model to provide them with information that could be used to aid cyberattacks. White House officials asked Anthropic to fix the vulnerabilities or take down the model. Anthropic has shut down access to its Mythos and Fable models to comply, but says that the vulnerabilities flagged by Amazon are relatively basic and that other publicly available models are also capable of discovering them."
+        },
+        {
+          "url": "https://threadreaderapp.com/thread/2065704919299235870.html?utm_source=tldrai",
+          "title": "GLM-5.2",
+          "summary": "GLM-5.2, a new flagship model from Z.ai, is now available to all GLM Coding Plan users. It delivers powerful coding capabilities, usable 1M-context support, and continued strengths in long-horizon tasks. API and chatbot services will launch next week. The model will be open-sourced under the MIT License."
+        },
+        {
+          "url": "https://www.testingcatalog.com/google-is-working-on-skills-marketplace-for-gemini-business/?utm_source=tldrai",
+          "title": "Google Is Working on Skills Marketplace for Gemini Business",
+          "summary": "Google is integrating its products under Gemini Enterprise with a new \"Skills Marketplace\" tab for pre-defined, Google-optimized skills. The marketplace, aimed at helping teams develop dashboards and reporting tools without long engineering delays, includes a Skills Management UI, a Skills Builder, and the Marketplace itself."
+        },
+        {
+          "url": "https://injuly.in/blog/napkin-inference-cost/index.html?utm_source=tldrai",
+          "title": "Inference Cost at Scale With Napkin Math",
+          "summary": "You need the following information to work out the dollar price-per-user: GPU hardware specs, context length, active parameter count of the model, and product-specific factors. The specifics of the model architecture matter surprisingly little, unless it's something entirely different, like diffusion. This post shows how to work out the math on paper. The exercise should reveal how various optimizations in inference engines help SaaS products remain profitable."
+        },
+        {
+          "url": "https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies?utm_source=tldrai",
+          "title": "Today's Frontier AI Companies Will Never Exceed the AI Capability Frontier Again",
+          "summary": "Networks of smaller AI models are outperforming every frontier AI system on speed, accuracy, and cost. Everyone in the 1960s was wrong about the mainframe computer, and everyone is now wrong about centralized AI. The future is a network of neural networks."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/SvVmqj",
+          "title": "The Physics of a Fable",
+          "summary": "Rafa Schwinger reverse-engineers Claude Mythos and Fable by arguing the moat is not architecture but the environment foundry, with capability decomposing as base foundation times gradeable signal extracted on top, and verifiable reward becoming the scarce decisive input now that text and raw compute no longer are. The recipe stacks dense pretraining, GRPO-style verifier RL where reward-hacking soundness is the actual binding constraint, long-horizon process rewards with learned context-folding that beats million-token windows at 32K active, plus best-of-N test-time compute exposed as an effort dial."
+        },
+        {
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code?utm_source=tldrai",
+          "title": "Kimi K2.7 Code",
+          "summary": "Kimi K2.7 Code is a coding-focused agentic model that has stronger end-to-end task completion across complex software engineering workflows and improved token efficiency compared to Kimi K2.6. The Mixture-of-Experts model has 1 trillion total parameters. It can be accessed on Moonshot's OpenAI/Anthropic compatible API. The model works best with Kimi Code CLI as its agent framework."
+        },
+        {
+          "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/?utm_source=tldrai",
+          "title": "Introducing the Open Knowledge Format",
+          "summary": "The Open Knowledge Format is an open specification that formalizes the LLM-wiki pattern into a portable, interoperable format. It is vendor-neutral and agent- and human-friendly. The standard can represent the metadata, context, and curated knowledge that modern AI systems need. The specification uses familiar patterns with no complex compression scheme, new runtime, or required SDK."
+        },
+        {
+          "url": "https://huggingface.co/blog/allenai/olmo-eval?utm_source=tldrai",
+          "title": "OLMo-Eval: An Evaluation Workbench for the Model Development Loop",
+          "summary": "olmo-eval is a new evaluation workbench designed for iterative LLM development. Enhancing the OLMES standard, it streamlines adding benchmarks, supports agentic and multi-turn evaluations, and facilitates analysis by comparing changes across model checkpoints. Unlike Harbor, olmo-eval offers flexibility, minimizing resource use and focusing on development rather than public benchmarking."
+        },
+        {
+          "url": "https://github.com/MiniMax-AI/MSA?utm_source=tldrai",
+          "title": "MiniMax Sparse Attention for Million-Token Contexts",
+          "summary": "MiniMax Sparse Attention is a sparse attention architecture that uses group-specific Top-k block selection to scale long-context inference while preserving model quality. On a 109B multimodal model, it matched GQA performance while cutting attention compute by ~30x at 1M tokens."
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.30846?utm_source=tldrai",
+          "title": "Count Anything",
+          "summary": "Object counting is still fragmented across domain-specific data sets and task formulations. Existing counting models are often tailored to specific scenarios and struggle to generalize across categories, visual domains, object scales, and density distributions. This paper presents a generalist model for text-guided object counting that achieves strong accuracy and multi-domain generalization."
+        },
+        {
+          "url": "https://calv.info/the-oracle-and-the-firm?utm_source=tldrai",
+          "title": "The Oracle and the Firm",
+          "summary": "OpenAI and Anthropic have decided on different approaches to context management. OpenAI uses compaction, compressing everything and retaining only the relevant information. This results in one long thread that maintains a lot of coherence. Anthropic splits context windows across various agents, where each agent executes on the sub-problem within its own context window. Sub-agents do a large amount of work, then pass back only the relevant information to the parent agent. Anthropic's approach can result in sub-agents doing duplicate work, forgetting information, and generally wasting more tokens."
+        },
+        {
+          "url": "https://thenextweb.com/news/apple-siri-extensions-third-party-ai-missing-wwdc?utm_source=tldrai",
+          "title": "Why Apple Built a Third-Party AI System for Siri and Then Refused to Show It at WWDC",
+          "summary": "The iOS 27 beta contains an Extensions system for third-party AI. The system includes a settings panel and a dedicated App Store section. Both have been built, but are toggled off in the backend. Apple was in discussions with major AI providers about granting entitlements for the framework, but it appears the company has decided against announcing the feature for now."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/BlJ8Kt",
+          "title": "$10,000,000 on the Line: How We Measure Devin's Engineering Output",
+          "summary": "Devin's engineering system guarantees more output than cost, with $10M pledged per customer. The system's effectiveness is validated using independent data. This bold claim aims to bolster confidence in their engineering productivity."
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/?utm_source=tldrai",
+          "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+          "summary": "NVIDIA's Blackwell Ultra NVL72 platform leads the AgentPerf benchmark by delivering 20x more agent throughput per megawatt than NVIDIA Hopper."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/nl1WTP",
+          "title": "Ramp SWE-Bench: A Private, Production-Grounded Coding Benchmark",
+          "summary": "Ramp released its own private SWE-Bench built from real engineering problems faced at Ramp, giving the team a way to evaluate coding models inside its actual financial software ecosystem."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/h1YDVi",
+          "title": "A Frontier Without an Ecosystem Is Not Stable",
+          "summary": "Microsoft CEO Satya Nadella argues every company needs to build both human capital and token capital."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/9Vbj0g",
+          "title": "DeepSeek's $10 Trillion Long-Term Strategy",
+          "summary": "This thread explores a theory that DeepSeek's focus on open-source models, research sharing, and infrastructure development is part of a broader strategy aimed at becoming foundational AI infrastructure rather than competing directly on consumer products."
+        }
+      ]
+    }
+  ]
+}

@@ -60,3 +60,7 @@ $RECYCLE.BIN/
 # Project-specific
 DevNotes/
 .claude/
+
+# Azure Functions
+api/node_modules/
+api/local.settings.json

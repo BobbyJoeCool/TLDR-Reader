@@ -5,17 +5,55 @@
 }
 
 :root {
-  --bg: #111318;
-  --surface: #1A1D24;
-  --surface2: #22262F;
-  --border: #2C313D;
-  --accent: #F59E0B;
-  --accent-dim: #78500A;
-  --text: #E8EAF0;
-  --text-muted: #8B91A0;
-  --text-dim: #5A6070;
-  --radius: 10px;
-  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  /* Colors */
+  --bg:          #080B18;
+  --surface:     #0D1225;
+  --surface2:    #141930;
+  --surface3:    #1C2240;
+  --border:      #252D4A;
+  --border2:     #2E3760;
+
+  /* Purple family */
+  --purple:      #7C3AED;
+  --purple-lt:   #A78BFA;
+  --purple-dim:  #2D1B69;
+
+  /* Blue family */
+  --blue:        #3B82F6;
+  --blue-lt:     #60A5FA;
+  --blue-dim:    #1E3A6E;
+
+  /* Indigo accent (bridges purple + blue) */
+  --accent:      #818CF8;
+  --accent-dim:  #312E81;
+
+  /* Text */
+  --text:        #E0E7FF;
+  --text-muted:  #A5B4FC;
+  --text-dim:    #4B5693;
+
+  /* Semantic */
+  --success:     #34D399;
+  --danger:      #F87171;
+
+  /* Edition colors */
+  --c-tldr:      #818CF8;   /* indigo */
+  --c-ai:        #60A5FA;   /* blue */
+  --c-dev:       #22D3EE;   /* cyan */
+  --c-devops:    #34D399;   /* emerald */
+  --c-product:   #FBBF24;   /* amber */
+  --c-it:        #FB923C;   /* orange */
+  --c-infosec:   #F87171;   /* red */
+
+  /* Layout */
+  --radius:      10px;
+  --radius-sm:   6px;
+  --nav-height:  60px;
+  --safe-top:    env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+
+  /* Typography */
+  --font-body:    'Inter', system-ui, -apple-system, sans-serif;
   --font-display: 'Georgia', 'Times New Roman', serif;
 }
 
@@ -27,4 +65,14 @@ html, body, #root {
   font-size: 15px;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
+  overflow: hidden;
 }
+
+/* Edition color data attributes */
+[data-edition="TLDR"]         { --edition-color: var(--c-tldr); }
+[data-edition="TLDR AI"]      { --edition-color: var(--c-ai); }
+[data-edition="TLDR Dev"]     { --edition-color: var(--c-dev); }
+[data-edition="TLDR DevOps"]  { --edition-color: var(--c-devops); }
+[data-edition="TLDR Product"] { --edition-color: var(--c-product); }
+[data-edition="TLDR IT"]      { --edition-color: var(--c-it); }
+[data-edition="TLDR InfoSec"] { --edition-color: var(--c-infosec); }

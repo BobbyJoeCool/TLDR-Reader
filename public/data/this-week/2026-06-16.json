@@ -1,0 +1,453 @@
+{
+  "id": "2026-06-16",
+  "date": "2026-06-16",
+  "day": "Tuesday",
+  "weekType": "example",
+  "editions": [
+    {
+      "name": "TLDR AI",
+      "articles": [
+        {
+          "url": "https://factory.ai/news/software-factory?utm_source=tldrai",
+          "title": "FACTORY 2.0: FROM CODING AGENTS TO SOFTWARE FACTORIES",
+          "summary": "Factory has been building software factories with its customers over the last few months. Its software factories are already in production across the world's largest organizations. Organizations that invest in their autonomous software development will see engineering outcomes surge. Engineers in this era are now responsible for building the factories that build the software. This will see engineering responsibilities grow to span across the business itself."
+        },
+        {
+          "url": "https://sakana.ai/marlin-release/#English?utm_source=tldrai",
+          "title": "SAKANA MARLIN",
+          "summary": "Sakana Marlin is an autonomous research assistant streamlining extensive strategic analysis in hours. Users input a research topic, and Marlin autonomously generates a detailed strategy report and summary slides without further human intervention. The tool serves various professionals, offering flexible pricing plans and refined features based on feedback from a beta test with around 300 industry experts."
+        },
+        {
+          "url": "https://www.androidheadlines.com/2026/06/facebook-ai-mode-search-engine-public-posts.html?utm_source=tldrai",
+          "title": "FACEBOOK GETS ITS OWN AI MODE THAT TURNS PUBLIC POSTS AND REELS INTO A SEARCH ENGINE",
+          "summary": "Facebook's new AI Mode transforms the standard search bar into a conversational tool that answers questions by mining public Group discussions, Reels, and Marketplace data. The update aims to increase platform engagement and support Meta's expanding subscription tiers. Critics have raised concerns about data privacy and the accuracy of crowd-sourced AI summaries. The feature is currently rolling out to users in the US."
+        },
+        {
+          "url": "https://thezvi.substack.com/p/the-once-and-future-fable-2?utm_source=tldrai",
+          "title": "THE ONCE AND FUTURE FABLE #2",
+          "summary": "The US government forcing Anthropic to take down all access to Fable and Mythos seems like a stupid decision. However, it is unknown what motivated the government to make the decision, how much they understand the mechanisms of the technology, whether they demanded or are demanding a narrow fix or a global fix, what they intend to do next, and what they are trying to accomplish. This could just be a terrible misunderstanding that can be sorted out quickly."
+        },
+        {
+          "url": "https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/?utm_source=tldrai",
+          "title": "DFLASH AND SPEC V2 DECODING",
+          "summary": "Detailing the latest generation of speculative decoding with DFlash and SGLang's Spec V2 engine. Benchmarks showed substantial throughput gains over baseline inference and native MTP speculation."
+        },
+        {
+          "url": "",
+          "title": "AGENTIC CODE REVIEW",
+          "summary": ""
+        },
+        {
+          "url": "https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering?utm_source=tldrai",
+          "title": "A GUIDE TO AI INFERENCE ENGINEERING",
+          "summary": "Inference engineering is the discipline of running trained AI models in production efficiently. It involves working with low-level GPU code, model serving frameworks, and the cloud infrastructure that ties them together. Engineers need to optimize for a combination of latency, throughput, cost, and quality, depending on the product they're supporting. Inference engineering is now a broad speciality that any company running serious AI workloads invests in."
+        },
+        {
+          "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning?utm_source=tldrai",
+          "title": "ZEN AND THE ART OF MACHINE LEARNING RESEARCH",
+          "summary": "The path to getting started as an AI researcher is pretty simple: read and build stuff. Scientific insights can come seemingly at random. An important trait for success is just putting in the time and effort. To become world-class takes a tremendous amount of discipline."
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.12683?utm_source=tldrai",
+          "title": "GOOGLE DEEPMIND EXPLORES THE PATH TO ASI",
+          "summary": "Google DeepMind examined how AI could progress beyond human-level AGI toward artificial superintelligence. The report outlined four possible pathways to ASI, potential bottlenecks, and the societal implications of continued acceleration in AI-driven progress."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/vGH7Ax",
+          "title": "THE WINDOW HAS CLOSED",
+          "summary": "Fable was special in ways that will not show up in benchmarks. It could perceive the user, infer intent, and think and iterate upon what it was given. The model felt alive. Mythos has changed the shape of the AI race. Other labs will likely eventually be able to replicate the magic of Mythos, but for many, the race is over."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/TbX9KB",
+          "title": "OWNING VS. RENTING INTELLIGENCE",
+          "summary": "Fireworks CEO Lin Qiao uses this week's Mythos shutdown to reframe the open-model conversation from cost to control, arguing a company built on intelligence it didn't own suddenly found itself exposed to decisions it couldn't influence. The playbook Fireworks ran with Ramp, Cursor, and Harvey already proves a tuned open model matches frontier quality at a fraction of the cost, but the deeper question is who owns the intelligence your product runs on."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/9z45Vj",
+          "title": "SHOULD YOU POST-TRAIN YOUR OWN MODEL?",
+          "summary": "General frontier models are the right starting point for 0-to-1 prototypes and understanding workflows, but for the handful of power-law use cases critical to a company's mission, product, and margin, the answer is increasingly to post-train your own model. Those use cases are where the differentiated data lives and where hard constraints on cost, latency, and reliability make a general model's single fixed tradeoff a liability."
+        },
+        {
+          "url": "https://www.bullbear.ninja/board/12?utm_source=tldrai",
+          "title": "SOVEREIGN AI IS NOT A MODEL, BUT A SUPPLY CHAIN PROBLEM",
+          "summary": "Sovereign AI is about how much of the supply chain required to train, operate, validate, and protect foundation models can be secured within one's own country or allied nations."
+        },
+        {
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/16/a-modest-proposal-reformat-everything-to-make-documents-more-palatable-to-ai/",
+          "title": "A MODEST PROPOSAL: REFORMAT EVERYTHING TO MAKE DOCUMENTS MORE PALATABLE TO AI",
+          "summary": "DocLang is an AI-friendly document format that helps enterprises feed their files to AI systems."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/rE3Ybg",
+          "title": "MASTERING CODEX (MOBILE) FOR ENGINEERING",
+          "summary": "Codex Mobile lets developers start, direct, review, and organize work running on their development machines without pretending that a mobile device should be a tiny terminal."
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+          "title": "AWS WAF ADDS AI TRAFFIC MONETIZATION CAPABILITY TO HELP CONTENT OWNERS CHARGE AI BOTS FOR CONTENT ACCESS",
+          "summary": "Content owners and publishers can now set per-request pricing by content path, bot category, or verification tier without modifying their origin infrastructure or writing application code."
+        },
+        {
+          "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+          "title": "ACCELERATING RESEARCHERS AND DEVELOPERS BUILDING MULTILINGUAL AI WITH A NEW OPEN DATASET",
+          "summary": "The GitHub Multilingual Repositories Dataset is a repository-level metadata dataset designed to help researchers and developers discover public GitHub repositories with evidence of non-English natural-language content."
+        },
+        {
+          "url": "https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/?utm_source=tldrai",
+          "title": "AI GPUS PROBABLY LIVE LONGER THAN THREE YEARS",
+          "summary": "Claims about AI GPUs having a lifespan of just three years stem from dubious sources like a tweet quoting an anonymous Google architect."
+        }
+      ]
+    },
+    {
+      "name": "TLDR Information Security",
+      "articles": [
+        {
+          "url": "https://links.tldrnewsletter.com/tiPNiY",
+          "title": "SHINYHUNTERS CLAIM COUNCIL OF EUROPE HACK",
+          "summary": "The ShinyHunters ransomware gang claims to have hacked Europe's leading human rights organization, the Council of Europe. The group says that they have stolen over 429K files, including payroll data, CVs, contract and purchase records, absence and illness reports, bank account information, and performance evaluations. The data includes sensitive information such as employee names, IDs, addresses, phone numbers, dates of birth, tax and social security information, and medical records."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/hOYL1P",
+          "title": "INFINITECAMPUS DATA BREACH AFFECTS 137K SCHOOL STAFF ACCOUNTS",
+          "summary": "The ShinyHunters ransomware gang has stolen and released data of 137k school staff accounts from a Salesforce instance belonging to the InfiniteCampus EdTech company. Have I Been Pwned analyzed the leaked data and found that the breach exposed names, email addresses, employers, job titles, phone numbers, physical addresses, usernames, and support tickets. InfiniteCampus stated that most of the information is publicly available on school directories."
+        },
+        {
+          "url": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html?utm_source=tldrinfosec",
+          "title": "LITELLM VULNERABILITY CHAIN LETS LOW-PRIVILEGE USERS TAKE OVER AI GATEWAY SERVERS",
+          "summary": "A LiteLLM proxy bug chain lets a basic internal user mint overbroad API keys, escalate themselves to proxy admin, and then run arbitrary Python guardrail code for full server takeover. Attackers can dump all AI provider keys, decrypt stored credentials, and read prompts, responses, and other sensitive data flowing through the gateway. With callback hooks, they can silently alter agent responses and spawn reverse shells, and must be stopped by upgrading to v1.83.14-stable or later, auditing admins, callbacks, and rotating exposed secrets."
+        },
+        {
+          "url": "https://www.varonis.com/blog/searchleak?utm_source=tldrinfosec",
+          "title": "SEARCHLEAK: HOW WE TURNED M365 COPILOT INTO A ONE-CLICK DATA EXFILTRATION WEAPON",
+          "summary": "Varonis Threat Labs found a three-stage bug chain in Microsoft 365 Copilot Enterprise Search that lets an attacker steal data with a single malicious link. The q URL parameter is treated as an instruction, so Copilot can be tricked into searching a victim's email, calendar, SharePoint, and OneDrive, then embedding results inside an image URL. While Copilot streams its answer, an injected image tag briefly renders before sanitization and triggers a request to Bing's image search endpoint, which fetches an attacker-controlled URL containing the stolen data. Microsoft fixed the issue as CVE-2026-42824, but the technique shows how AI-powered search can turn old web bugs into practical data-exfiltration paths."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/x3tHpF",
+          "title": "AFTER THE VS CODE SUPPLY CHAIN ATTACK: IS YOUR EXTENSION BLOCKING ACTUALLY WORKING?",
+          "summary": "When a user tries to install a VS Code extension from the marketplace, VS Code first contacts marketplace.visualstudio.com to obtain the CDN URL that actually serves the extension and then it is extracted and installed. Many organizations only blocked the marketplace URL when putting in place extension blocks which could be circumvented by an attacker that knows or can reconstruct the CDN URL. Restricting users from installing extensions can also fall short if an attacker were to directly extract the extension into .vscode/extension/."
+        },
+        {
+          "url": "https://en.cryptonomist.ch/2026/06/13/humanity-protocol-h-token-compromise/?utm_source=tldrinfosec",
+          "title": "HUMANITY PROTOCOL H TOKEN COMPROMISE: ONE EMAIL, $36M LOST, 89% CRASH",
+          "summary": "A phishing email impersonating Korean exchange Bithumb carrying a malicious attachment delivered remote-access malware to the Windows machine of director Chong Yee Wai and extracted the private keys he controlled for on-chain operations. With those keys, the attacker simultaneously replaced the implementation of a Hyperlane warp-route proxy on Ethereum to redirect approximately 141.18 million $H tokens, and used three stolen BSC Safe signer keys to seize ProxyAdmin ownership and mint 100 million additional $H tokens. The attacker liquidated proceeds through Uniswap and PancakeSwap over roughly eight hours, crashing $H by 89% and generating at least $21 million in confirmed ETH proceeds."
+        },
+        {
+          "url": "https://newcore.com/?utm_source=tldrinfosec",
+          "title": "NEWCORE (PRODUCT LAUNCH)",
+          "summary": "NewCore is an identity security platform that protects human, machine, and AI agent accounts through secure split-key technology, hardware-bound verification, and rapid deployment, replacing risky SAML signing setups and legacy identity infrastructure."
+        },
+        {
+          "url": "https://github.com/KeygraphHQ/shannon?utm_source=tldrinfosec",
+          "title": "SHANNON (GITHUB REPO)",
+          "summary": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+        },
+        {
+          "url": "https://docs.cloud.google.com/recaptcha/docs/hand-gesture-verification?utm_source=tldrinfosec",
+          "title": "GOOGLE ADDS HAND GESTURE VERIFICATION FOR RECAPTCHA",
+          "summary": "Google added hand gesture verification to reCAPTCHA as part of its Cloud Fraud Defense suite, prompting users to perform gestures on camera while the system extracts 21 hand-knuckle landmark coordinates to confirm that a live human is present. Google states that the videos remain unlinked to any user identity, do not include audio, are deleted once the challenge completes, and never reach third parties."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/0Lnvyf",
+          "title": "CHINESE HACKERS HIJACKED AUTH FLOW, SPY ON ISOLATED NETWORK FOR A DECADE",
+          "summary": "Sygnia researchers reported that the Chinese Velvet Ant APT breached a critical infrastructure network for 10 years. The APT breached an internet-facing server, deployed a modified GS-Netcat reverse shell, and set up a SOCKS5 proxy to tunnel to air-gapped systems. It also modified an internet-facing Nginx proxy to forward requests to internal systems by establishing SSH connections via HTTP POST request parameters. Recovery from the breach was particularly complex because the attackers replaced many legitimate tools, such as pam_unix and ssh tools, with trojanized versions."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/cxHQiL",
+          "title": "RANSOMWARE ATTACK SHUTS DOWN MILLS OF AUSTRALIA'S SECOND-LARGEST SUGAR PRODUCER",
+          "summary": "Mackay Sugar said a ransomware attack shut down some mills and disrupted cane supply and logistics systems. The company restarted limited manual crushing at one mill, began steam trials, and expected a staged restart later in the week. The Gentlemen claimed the company on its Tor site, but no data leak has appeared and the status of OT systems remains unclear."
+        },
+        {
+          "url": "https://stratechery.com/2026/anthropics-safety-superpower/?utm_source=tldrinfosec",
+          "title": "ANTHROPIC'S SAFETY SUPERPOWER",
+          "summary": "Ben Thompson argues that Anthropic's safety messaging aligns a little too neatly with its commercial interests, walking through the release of Fable alongside its cybersecurity capabilities, the US government's export-control directive suspending access to Fable 5 and Mythos 5 for foreign nationals after a reported jailbreak, and a 30-day data-retention reversal that scrapped zero-retention guarantees even for enterprise plans."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/3uZ3f3",
+          "title": "NEW ATTACK TURNED MICROSOFT 365 COPILOT INTO 1-CLICK DATA THEFT TOOL",
+          "summary": "Varonis researchers chained a parameter-to-prompt injection, an HTML rendering race condition, and a Bing SSRF-driven CSP bypass into SearchLeak (CVE-2026-42824, critical), a one-click attack that let a crafted URL direct Microsoft 365 Copilot Enterprise Search to pull mailbox, OneDrive, and SharePoint data and exfiltrate it through a Bing image fetch, since patched by Microsoft with no user action required."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/fjxqow",
+          "title": "FBI, GOOGLE DISMANTLE 'OUTSIDER ENTERPRISE' PHISHING SERVICE",
+          "summary": "The FBI's Operation Riptide and a Google lawsuit dismantled Outsider Enterprise, a China-based phishing-as-a-service platform active since 2023 that ran over 9,000 sites across 55+ countries to steal roughly 3.8 million credit cards for an estimated $1.9 billion in losses, seizing administrative-server domains, a Shopify storefront, and about $100,000 in crypto in the process."
+        },
+        {
+          "url": "https://decrypt.co/371143/one-indicted-over-crypto-wrench-attack-in-france?utm_source=tldrinfosec",
+          "title": "ONE INDICTED OVER CRYPTO 'WRENCH ATTACK' IN FRANCE",
+          "summary": "A 32-year-old has been indicted in Nancy after three men posing as police officers beat a couple to steal $20,000 in crypto, traced back to January's Waltio breach that exposed emails, 2024 trading P&L, and balances for roughly 50,000 users whose data attackers used to target holders by physical address."
+        }
+      ]
+    },
+    {
+      "name": "TLDR IT",
+      "articles": [
+        {
+          "url": "https://gbhackers.com/palo-alto-warns-globalprotect-vpn-flaw/#google_vignette?utm_source=tldrit",
+          "title": "Palo Alto Warns GlobalProtect VPN Flaw Is Being Actively Exploited",
+          "summary": "Palo Alto Networks (Unit 42) has confirmed active exploitation of a GlobalProtect VPN vulnerability, CVE-2026-0257, on PAN-OS devices with specific configurations. The flaw allows an authentication bypass via improperly handled authentication override cookies, enabling unauthenticated attackers to establish VPN sessions. It has been added to CISA's KEV catalog. Exploitation has been observed in the wild."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/v6aqq5",
+          "title": "Ivanti Sentry flaw is actively exploited in the wild",
+          "summary": "CISA confirmed active exploitation of CVE-2026-10520 and ordered federal agencies to secure affected Ivanti Sentry instances within three days. Shadowserver warned that unpatched exposed instances are likely already compromised."
+        },
+        {
+          "url": "https://www.helpnetsecurity.com/2026/06/05/ai-hallucinations-it-operations-research/?utm_source=tldrit",
+          "title": "AI hallucinations are already affecting IT operations",
+          "summary": "Ivanti's 2026 AI Maturity Report found that 68% of IT professionals have seen AI hallucinations with potential operational impact. AI is already taking actions like restarting services, isolating devices, and applying patches, making human review boundaries more important."
+        },
+        {
+          "url": "https://www.newsletter.swirlai.com/p/stop-monitoring-ai-systems-like-web?utm_source=tldrit",
+          "title": "Stop Monitoring AI Systems Like Web Services",
+          "summary": "LLM-based systems should not be monitored using the same metrics as traditional web services because key failure modes are invisible to uptime, error, and latency dashboards. Monitoring should instead focus on five question groups: speed (latency), scalability (throughput and cost), correctness (quality), reliability, and agent behavior. Many of the required metrics must be built by the AI team rather than emitted by default tooling."
+        },
+        {
+          "url": "https://www.itpro.com/technology/artificial-intelligence/most-enterprises-are-still-unprepared-to-operationalize-it-it-leaders-are-bullish-on-agents-but-keeping-falling-at-the-final-hurdle-heres-why?utm_source=tldrit",
+          "title": "Enterprises are still struggling to operationalize AI agents",
+          "summary": "Many companies are adopting agentic AI, but most remain stuck in pilots or \"agentish\" chatbot deployments. Enterprises need orchestration, governed nonhuman identities, logging, and stronger data foundations before agents can scale."
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/?utm_source=tldrit",
+          "title": "Introducing the MDN MCP server",
+          "summary": "Mozilla has released an experimental \"MDN MCP server\" that uses the Model Context Protocol (MCP) to let AI tools access up-to-date MDN documentation and browser-compatibility data. This post explains how to set up multiple MCP-compatible clients. Tests show more accurate browser support results and faster responses versus running without the MCP."
+        },
+        {
+          "url": "https://www.helpnetsecurity.com/2026/06/15/ci-cd-abuse-detector-open-source/?utm_source=tldrit",
+          "title": "Open-source CI/CD abuse detector flags malicious workflow changes",
+          "summary": "Elastic Security Labs released a prototype tool that uses an LLM to detect suspicious changes in GitHub Actions, GitLab CI, and Azure DevOps configurations. It is designed to catch stolen-credential attacks that modify CI/CD workflows to harvest secrets."
+        },
+        {
+          "url": "https://semiengineering.com/wi-fi-flies-higher-as-edge-ai-build-out-takes-root/?utm_source=tldrit",
+          "title": "Wi-Fi Flies Higher As Edge AI Build-Out Takes Root",
+          "summary": "Edge AI deployments are shifting demand toward Wi-Fi, especially Wi-Fi 7 and upcoming Wi-Fi 8, to provide the reliability, low latency, and security needed for on-prem and industrial use cases. Wi-Fi is increasingly favored over mmWave 5G/6G for local data movement because it better supports mobility within enterprises and factories while reducing data leakage by keeping processing closer to where data is generated."
+        },
+        {
+          "url": "https://www.helpnetsecurity.com/2026/06/15/ai-generated-code-review-issues/?utm_source=tldrit",
+          "title": "Senior engineers are spending more time cleaning up AI-generated code",
+          "summary": "AI-generated code often looks good in review but creates more runtime issues once it reaches production. SRE and DevOps engineers report losing up to a third of their week triaging and refactoring machine-generated output."
+        },
+        {
+          "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them/?utm_source=tldrit",
+          "title": "AI Agent Governance Gap Is Becoming An IT Problem",
+          "summary": "85% of IT teams claim every AI agent has a named owner, but only 42% say ownership is actually clear. The issue is less about whether companies are using AI agents and more about whether IT/security can track who owns them, what access they have, and who is accountable when they act across enterprise systems."
+        },
+        {
+          "url": "https://varoa.net/2026/06/13/ddosing-software-delivery-pipelines.html?utm_source=tldrit",
+          "title": "DDoSing Software Delivery Pipelines",
+          "summary": "Software delivery pipelines collapse when teams ignore bottlenecks and back-pressure, especially as AI-driven productivity increases change volume faster than constrained verification systems can absorb it."
+        },
+        {
+          "url": "https://www.helpnetsecurity.com/2026/06/15/omada-agent-governance/?utm_source=tldrit",
+          "title": "Omada launches Agent Governance",
+          "summary": "Omada Agent Governance helps organizations manage AI agent access, risk, and compliance as nonhuman identities spread."
+        }
+      ]
+    },
+    {
+      "name": "TLDR Dev",
+      "articles": [
+        {
+          "url": "https://tonsky.me/blog/every-frame-perfect/?utm_source=tldrdev",
+          "title": "EVERY FRAME PERFECT",
+          "summary": "The \"every frame perfect\" philosophy says that user interfaces should remain logical and explainable at any point in time, even during rapid transitions or animations. High-quality UI polish acts as a heuristic for code quality, building user trust by demonstrating that developers have invested time into every detail of the experience."
+        },
+        {
+          "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore?utm_source=tldrdev",
+          "title": "TIMESCALEDB COMPRESSION: HYPERCORE AND COLUMNAR STORAGE WITH UP TO 98% RATIO IN POSTGRESQL",
+          "summary": "TimescaleDB uses a hybrid row-columnar engine called Hypercore to achieve up to 98% compression for time-series data within PostgreSQL. This technology uses specialized algorithms like delta encoding, Gorilla XOR, and run-length encoding to optimize cross-row patterns that general-purpose databases often ignore."
+        },
+        {
+          "url": "https://dropbox.tech/security/dropbox-mcp-dash-design-code-security?utm_source=tldrdev",
+          "title": "HOW DROPBOX USES MCP AND DASH TO CLOSE THE DESIGN-TO-CODE SECURITY GAP",
+          "summary": "Dropbox built an agentic system to close the design-to-code security gap. It pairs Dash (which indexes threat models), MCP (giving a review agent access), and a foundational model that compares the threat model against the pull request to flag gaps, surfaced right inside code review."
+        },
+        {
+          "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/?utm_source=tldrdev",
+          "title": "AI DEMANDS MORE ENGINEERING DISCIPLINE. NOT LESS",
+          "summary": "Since AI makes generating code fast and disposable, we're shifting from obsessing over individual lines of code to managing entire systems instead. We need even more engineering discipline to keep everything reliable and predictable rather than just focusing on the code itself."
+        },
+        {
+          "url": "https://mattsayar.com/yes-we-still-need-engineers/?utm_source=tldrdev",
+          "title": "YES, WE STILL NEED ENGINEERS",
+          "summary": "While AI-driven prototyping accelerates initial software design, professional engineers are still needed for transforming these prototypes into secure, scalable, and production-ready systems."
+        },
+        {
+          "url": "https://component-party.dev/?utm_source=tldrdev",
+          "title": "COMPONENT PARTY (WEBSITE)",
+          "summary": "Component Party provides a comparative overview of various JavaScript web component frameworks by showcasing their unique syntaxes and features through clear, educational examples."
+        },
+        {
+          "url": "https://github.com/meshery/meshery?utm_source=tldrdev",
+          "title": "MESHERY (GITHUB REPO)",
+          "summary": "Meshery is an open-source, cloud-native management platform that simplifies the design and operation of Kubernetes-based infrastructure across multi-cloud environments. It has a visual, collaborative GitOps interface that allows users to manage deployments and infrastructure without relying solely on manual YAML configuration."
+        },
+        {
+          "url": "https://roman.pt/posts/linkedin-backdoor/?utm_source=tldrdev",
+          "title": "A BACKDOOR IN A LINKEDIN JOB OFFER",
+          "summary": "A developer was targeted on LinkedIn by a fake recruiter who requested a code review for a malicious GitHub repository. Investigation in a sandboxed environment showed a hidden backdoor designed to execute remote payloads automatically when project dependencies are installed. The scheme used stolen identities of a legitimate journalist and a software engineer to establish trust and lure the victim into running harmful scripts."
+        },
+        {
+          "url": "https://stratechery.com/2026/anthropics-safety-superpower/?utm_source=tldrdev",
+          "title": "ANTHROPIC'S SAFETY SUPERPOWER",
+          "summary": "Anthropic's release of advanced models like Fable and Mythos prompted government-mandated access restrictions due to security risks, leading the company to adopt stricter data policies and defensive competitive safeguards. This strategic shift positions Anthropic to exert significant influence over AI development by aligning its commercial interests with internal control mechanisms."
+        },
+        {
+          "url": "https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering?utm_source=tldrdev",
+          "title": "A GUIDE TO AI INFERENCE ENGINEERING",
+          "summary": "LLM inference engineering can be split into two phases with opposite hardware bottlenecks. Prefill is compute-bound, processes the prompt to emit the first token, and is measured by time-to-first-token. Decode is memory-bandwidth-bound, generates each subsequent token sequentially, and is measured by tokens-per-second. This post walks through six tradeoffs on inference: batching, prefix caching, quantization, speculative decoding, parallelism, and disaggregation."
+        },
+        {
+          "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/?utm_source=tldrdev",
+          "title": "WHAT JOB INTERVIEWS TAUGHT ME ABOUT KUBERNETES",
+          "summary": "Kubernetes has become the industry standard for companies of all sizes because it offers organizational benefits like deployment uniformity, standardized hireable knowledge, and improved traceability."
+        },
+        {
+          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/?utm_source=tldrdev",
+          "title": "RUNNING LOCAL MODELS IS GOOD NOW",
+          "summary": "Recent advancements in open-source architecture, particularly within the Gemma 4 model family, have made running local agentic coding workflows increasingly viable and effective for complex development tasks on personal hardware."
+        },
+        {
+          "url": "https://news.ycombinator.com/item?idH542100&utm_source=tldrdev",
+          "title": "ASK HN: HAS ANYONE REPLACED CLAUDE/GPT WITH A LOCAL MODEL FOR DAILY CODING? (HACKER NEWS THREAD)",
+          "summary": "Some people have been able to replace Claude and ChatGPT with a local model, acknowledging that local models aren't as powerful but allow for unlimited, free coding for getting most work done."
+        },
+        {
+          "url": "https://www.chatprd.ai/how-i-ai/ankur-goyals-playbook-for-agent-driven-benchmarking-and-ai-evals?utm_source=tldrdev",
+          "title": "ANKUR GOYAL'S PLAYBOOK FOR AGENT-DRIVEN BENCHMARKING AND AI EVALS",
+          "summary": "Braintrust CEO Ankur Goyal uses coding agents for infrastructure benchmarking and implements AI evaluations as quantifiable, modern project requirements to systematically scale product quality and technical rigor."
+        }
+      ]
+    },
+    {
+      "name": "TLDR",
+      "articles": [
+        {
+          "url": "https://stratechery.com/2026/anthropics-safety-superpower/?utm_source=tldrnewsletter",
+          "title": "ANTHROPIC'S SAFETY SUPERPOWER",
+          "summary": "Many people think that Anthropic's public statements around its model releases are mostly scare-mongering for the sake of marketing. However, its models are very impressive, and Anthropic's cautious rollout of Mythos was justified. The model is definitely more capable of identifying and exploiting security issues than previous generations."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/27M5rq",
+          "title": "FOX TO BUY ROKU STREAMING SERVICE IN $25 BILLION DEAL",
+          "summary": "Fox is acquiring Roku in a deal valued at around $25 billion. The deal will add scale to Fox's streaming business, subscription-based Fox One, and Fox Nation. The combined company will compete with the likes of Amazon and Netflix for ad dollars. The deal is expected to close in the first half of 2027."
+        },
+        {
+          "url": "https://www.a16z.news/p/spacex-and-the-sentient-sun?utm_source=tldrnewsletter",
+          "title": "SPACEX & THE SENTIENT SUN",
+          "summary": "SpaceX's mission statement to scale to make a sentient sun is more honest than ridiculous. SpaceX is a launch provider with an internet subsidiary and an AI lab. It is the only company on Earth assembling the full prerequisite stack for a transition to a post-scarcity society."
+        },
+        {
+          "url": "https://medicalxpress.com/news/2026-06-brain-interface-enables-independent-accurate.html?utm_source=tldrnewsletter",
+          "title": "BRAIN-COMPUTER INTERFACE ENABLES INDEPENDENT, ACCURATE COMMUNICATION FOR MAN LIVING WITH ALS",
+          "summary": "A brain-computer interface developed at UC Davis has enabled a person with severe paralysis caused by ALS to communicate, work, and interact with the digital world. The device uses an advanced decoding algorithm to translate neural signals into text and enable cursor control. It allows full interaction with a personal computer."
+        },
+        {
+          "url": "https://addyosmani.com/blog/agentic-code-review/?utm_source=tldrnewsletter",
+          "title": "AGENTIC CODE REVIEW",
+          "summary": "Coding agents are good and getting better fast. The hard heart of engineering has moved from writing code to deciding whether to trust it. Code review is the most leveraged skill in software right now. Understanding is still as expensive as it has always been."
+        },
+        {
+          "url": "https://webkit.org/blog/18117/the-golden-rule-of-customizable-select/?utm_source=tldrnewsletter",
+          "title": "THE GOLDEN RULE OF CUSTOMIZABLE SELECT",
+          "summary": "Customizable select, a new feature coming to Safari 27, allows developers to fully control the appearance of select elements without the need for JavaScript libraries or endless div elements. Ensuring this built-in control works well for everyone requires making sure developers always provide text content or accessible text attributes in their option elements."
+        },
+        {
+          "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/?utm_source=tldrnewsletter",
+          "title": "GOOGLE CHROME'S NEXT UPDATE WILL MARK THE END OF POPULAR AD BLOCKERS",
+          "summary": "Google Chrome has been planning its move to Manifest V3 for years. A recent commit in the Chromium repository finally removes support for Manifest V2 extensions. This will stop many Manifest V2-based ad blocker extensions from working. All traces of Manifest V2 will be removed in Chrome 151."
+        },
+        {
+          "url": "https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear?utm_source=tldrnewsletter",
+          "title": "THE WEB WE KNOW IS GOING TO DISAPPEAR",
+          "summary": "The web is now shifting from search engines to AI chat interfaces. The open place where people search, click, read, browse, publish, and discover is being replaced by something more centralized and much harder to escape. Websites are increasingly becoming infrastructure for machines."
+        },
+        {
+          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/?utm_source=tldrnewsletter",
+          "title": "RUNNING LOCAL MODELS IS GOOD NOW",
+          "summary": "Local models may still be slow and resource-intensive, but they can run many tasks competently and can help save on costs."
+        },
+        {
+          "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/?utm_source=tldrnewsletter",
+          "title": "WHY I EMAIL COMPLETE STRANGERS",
+          "summary": "In a networked but still disconnected world, being deliberate in your search for friends is more necessary than ever before."
+        },
+        {
+          "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models?utm_source=tldrnewsletter",
+          "title": "APPLE FOUNDATION MODELS",
+          "summary": "The Claude for Foundation Models Swift package allows developers to use Claude on Apple platforms through the Foundation Models framework."
+        },
+        {
+          "url": "https://www.overcomingbias.com/p/the-promise-of-polymath-llms?utm_source=tldrnewsletter",
+          "title": "THE PROMISE OF POLYMATH LLMS",
+          "summary": "People who learn more fields discover more intersections where they can apply the tools of one field to the problems of another."
+        },
+        {
+          "url": "https://roman.pt/posts/linkedin-backdoor/?utm_source=tldrnewsletter",
+          "title": "A BACKDOOR IN A LINKEDIN JOB OFFER",
+          "summary": "The company asked this developer to review a public GitHub repository that was falsely authored using the name of a real developer."
+        },
+        {
+          "url": "https://apnews.com/article/uk-teen-social-media-ban-starmer-55de428636b586ff5553b604783f6fb3?utm_source=tldrnewsletter",
+          "title": "UK BANS UNDER-16S FROM USING SOCIAL MEDIA APPS INCLUDING TIKTOK AND YOUTUBE",
+          "summary": "The ban is expected to take effect early next year."
+        }
+      ]
+    },
+    {
+      "name": "TLDR Product Management",
+      "articles": [
+        {
+          "url": "https://jeffgothelf.com/blog/training-your-pms-on-ai-tools-is-the-easy-part/?utm_source=tldrproduct",
+          "title": "Training your PMs on AI tools is the easy part",
+          "summary": "Training PMs to use AI is just the start. Without leadership support for experimentation, protected time, and psychological safety, AI merely accelerates unvalidated output rather than creating genuine customer value."
+        },
+        {
+          "url": "https://magnus919.com/2026/06/the-architecture-of-focus/?utm_source=tldrproduct",
+          "title": "The Architecture of Focus",
+          "summary": "Great work requires sustained focus. The best organizations protect attention by designing schedules and environments that make deep work the default."
+        },
+        {
+          "url": "https://www.davidpoll.com/2026/06/software-is-not-a-single-player-game/?utm_source=tldrproduct",
+          "title": "Software Is Not A Single-Player Game",
+          "summary": "Building durable software is a team effort, not a linear process from strategy to implementation. AI makes changes easier to produce, so collaboration should focus on reviewing actual code rather than upstream documents."
+        },
+        {
+          "url": "https://randsinrepose.com/archives/heres-the-rub-we-dont-believe-you/?utm_source=tldrproduct",
+          "title": "Here's The Rub: We Don't Believe You",
+          "summary": "Senior leadership shouldn't blindly trust new leaders' assessments, as they may overlook underlying issues. The author suggests a communication cadence: recurring 1:1s across the ecosystem, weekly staff meetings, extended staff meetings to troubleshoot, and All Hands meetings to share findings."
+        },
+        {
+          "url": "https://www.builder.io/blog/how-to-make-ai-agents-follow-your-design-system?utm_source=tldrproduct",
+          "title": "How to Make AI Agents Follow Your Design System",
+          "summary": "Large rules files don't ensure AI coding agents follow design systems, as prose is often outcompeted by legacy code. Instead, enforce design practices through code so failures appear directly in the agent's feedback loop."
+        },
+        {
+          "url": "https://newsletter.getdx.com/p/augmented-accelerated-autonomized?utm_source=tldrproduct",
+          "title": "How Vanguard is embedding AI across the product lifecycle",
+          "summary": "Vanguard is integrating AI across its entire product development lifecycle, not just in software engineering. They've introduced a maturity model covering six key dimensions, including AI-powered delivery and team autonomy, sharing lessons from their implementation across 800+ product teams."
+        },
+        {
+          "url": "https://www.lesswrong.com/posts/Cisy9STMoFYwboTsy/the-hidden-structures-of-problems?utm_source=tldrproduct",
+          "title": "The Hidden Structures of Problems",
+          "summary": "Problems frequently possess underlying, recurrent structures that clarify their complexity or the reasons they persist when approached without sufficient insight. This article introduces 31 distinct problem archetypes designed to help readers identify these patterns and foresee potential failure modes."
+        },
+        {
+          "url": "https://stratechery.com/2026/anthropics-safety-superpower?utm_source=tldrproduct",
+          "title": "Anthropic's Safety Superpower",
+          "summary": "Anthropic's safety mission strengthens its business while expanding its control over advanced AI. That alignment is powerful, but dangerous when one company believes it should decide what is best for everyone."
+        },
+        {
+          "url": "https://yosefk.com/blog/doing-everyone-elses-job.html?utm_source=tldrproduct",
+          "title": "Doing everyone else's job",
+          "summary": "Doing others' work helps you learn organizational systems, unblock priorities, and earn professional rewards."
+        },
+        {
+          "url": "https://tonsky.me/blog/every-frame-perfect/?utm_source=tldrproduct",
+          "title": "Every Frame Perfect",
+          "summary": "Every frame of an interface should feel intentional."
+        }
+      ]
+    }
+  ]
+}

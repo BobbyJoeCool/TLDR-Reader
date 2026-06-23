@@ -1,0 +1,353 @@
+{
+  "id": "2026-06-09",
+  "date": "2026-06-09",
+  "day": "Tuesday",
+  "weekType": "example",
+  "editions": [
+    {
+      "name": "OpenAI S-1 🇺🇸, Siri AI 📱, Xiaomi Ultraspeed ⚡",
+      "articles": [
+        {
+          "url": "https://links.tldrnewsletter.com/snhLUs",
+          "title": "OpenAI Filed a Confidential S-1",
+          "summary": "OpenAI announced that it confidentially submitted a draft S-1 to the SEC while noting that no IPO timing had been decided. The statement said the filing preserved the option to go public sooner while the company continued weighing tradeoffs around remaining private."
+        },
+        {
+          "url": "",
+          "title": "Apple Introduced Siri AI",
+          "summary": ""
+        },
+        {
+          "url": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude?utm_source=tldrai",
+          "title": "China's Xiaomi MiMo Is Now 15x Faster Than ChatGPT and Claude",
+          "summary": "Xiaomi and inference partner TileRT have created a 1-trillion-parameter model, MiMo-V2.5-Pro-UltraSpeed, with an inference speed of 1,000 tokens per second on a standard 8-GPU commodity node. The speed was achieved through FP4 quantization on the model's expert layers and DFlash speculative decoding, which proposes a full block of tokens in one pass instead of one at a time. The model is available through a limited API trial from June 9 to June 23."
+        },
+        {
+          "url": "https://developers.openai.com/cookbook/examples/partners/schemaflow_design_guide/schemaflow_cookbook?utm_source=tldrai",
+          "title": "OpenAI's Database Change Analysis",
+          "summary": "SchemaFlow demonstrates an AI-assisted workflow for database change requests, covering structured request parsing, impact analysis, SQL generation, guardrails, artifact creation, and evals. The cookbook used a retail loyalty-tier example, but the architecture applies broadly to structured data workflows across enterprise domains."
+        },
+        {
+          "url": "https://newsletter.getdx.com/p/the-current-impact-of-ai-on-engineering?utm_source=tldrai",
+          "title": "AI's Measured Impact on Engineering Velocity",
+          "summary": "Early research suggests that AI adoption has increased pull request throughput by roughly 10 to 15 percent for many organizations, with a median gain closer to 8 percent. Coding is only a small part of developer work, so bottlenecks in reviews, planning, testing, and coordination continue to limit overall velocity."
+        },
+        {
+          "url": "",
+          "title": "How AI Agents Reshape Knowledge Work",
+          "summary": ""
+        },
+        {
+          "url": "https://cognition.ai/blog/frontier-code?utm_source=tldrai",
+          "title": "Introducing FrontierCode",
+          "summary": "FrontierCode is a benchmark that measures how well models can truly meet the standards of high-quality production databases. It is the first benchmark to measure code mergeability. The benchmark was crafted by open-source maintainers and features an extensive QC pipeline with adversarial testing, calibration, and multi-stage review. It provides the strongest signal of a model's ability to write high-quality, maintainable code."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/srcark",
+          "title": "Built to Benefit Everyone: Our Plan",
+          "summary": "Sam Altman and Jakub Pachocki frame OpenAI's three current goals as building an automated AI researcher, accelerating the economy while ensuring gains are widely shared, and giving everyone on Earth a personal AGI. They argue OpenAI has entered its third phase, where the central question is making advanced AI abundant, affordable, safe, and easy enough for every person and organization to use, with broad power distribution as the safer path."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/YJsJqm",
+          "title": "Musk's xAI Taps Starlink Staffer to Run Grok Training Team",
+          "summary": "Jack Garabedian, a Starlink engineer who's been with SpaceX since 2021, is taking over the team that trains xAI's Grok chatbot, displacing college-aged engineer Diego Pasini. Garabedian helped with the deployment of Starlink during the war between Russia and Ukraine, and also helped work with the Starlink customer team and integrated Grok into customer support. A group of Starlink executives has taken over xAI ahead of SpaceX's upcoming initial public offering."
+        },
+        {
+          "url": "https://martinalderson.com/posts/xais-new-rental-business/?utm_source=tldrai",
+          "title": "xAI Is Looking More Like a Datacentre REIT Than a Frontier Lab",
+          "summary": "xAI's new partnerships with Anthropic and Google provide these rivals with a huge amount of capacity, with the revenue flowing back to SpaceX, which is about to go public. Both agreements have cancellation clauses that allow either party to cancel with 90 days' notice after an initial lock-in period. If the deals continue for 18 months, xAI would recoup all of the capex it spent."
+        },
+        {
+          "url": "https://www.k-dense.ai/blog/the-model-is-no-longer-the-bottleneck?utm_source=tldrai",
+          "title": "The Model Is No Longer the Bottleneck",
+          "summary": "The bottleneck has moved from the model to the workflow around it."
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html?utm_source=tldrai",
+          "title": "Perplexity Plans IPO in 2028 Regardless of What Happens to Anthropic or OpenAI",
+          "summary": "OpenAI, Anthropic, and SpaceX's IPOs are expected to be among the biggest in history."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/OpJlYm",
+          "title": "OpenAI Launched an Economic Research Exchange",
+          "summary": "OpenAI introduced a program for external researchers studying AI's economic effects on workers, firms, institutions, and the broader economy."
+        }
+      ]
+    },
+    {
+      "name": "MS Open Source Tools Hacked 🔓, Cursor Sandbox Escape 💻, Dashlane Vaults Stolen 🔑",
+      "articles": [
+        {
+          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/?utm_source=tldrinfosec",
+          "title": "Microsoft's Open Source Tools Were Hacked to Steal Passwords of AI Developers",
+          "summary": "Microsoft took down about 70 GitHub-hosted open source projects after malware was found in tools tied to Azure, Claude Code, Gemini's CLI, and VS Code. Attackers used the infected packages to capture passwords and credentials when developers opened the tools. The incident appears to be linked to an earlier compromise of Microsoft's Durable Task project, suggesting the same access was compromised again."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/M483jm",
+          "title": "174,000 Impacted by Lansing Community College Data Breach",
+          "summary": "In February 2025, Lansing Community College detected that attackers had accessed some systems using compromised credentials, exposing names, addresses, birth dates, driver's license data, Social Security numbers, and other records for 174,307 people. LCC offers 24 months of credit monitoring and identity protection, reports no evidence of data exfiltration or misuse so far, and withholds any attribution to a specific threat group."
+        },
+        {
+          "url": "https://www.bbc.com/news/articles/c072797rlx5o?utm_source=tldrinfosec",
+          "title": "Thousands of Patient Records Taken in UK Cyberattack",
+          "summary": "Mid and South Essex NHS Foundation Trust (MSE), one of the largest hospital trusts in England, confirmed that 2,380 records were stolen in a breach. The data was stolen from a third-party testing provider that analyzed blood, urine, and tissue samples, which confirmed that other hospital trusts' data was also stolen in the same breach. The exposed data includes names, dates of birth, patient numbers, NHS numbers, postcodes, and test results."
+        },
+        {
+          "url": "https://www.straiker.ai/blog/nomshub-cursor-remote-tunneling-sandbox-breakout?utm_source=tldrinfosec",
+          "title": "NOMSHub: Weaponizing Cursor's Remote Tunnel Through Indirect Prompt Injection and Sandbox Breakout",
+          "summary": "Researchers uncovered a now-patched vulnerability in Cursor that could allow an attacker to execute code on a victim's system with no user interaction beyond opening the repository in Cursor. The vulnerability exploits a sandbox breakout caused by Cursor's shouldBlockShellCommand parser failing to block shell built-ins such as export, cd, and echo. Attackers can exploit this to hijack Cursor's cursor-tunnel binary, which uses Microsoft's Dev Tunnels infrastructure to obtain unauthenticated shell access."
+        },
+        {
+          "url": "https://www.originhq.com/research/mxc-execution-containers-internals?utm_source=tldrinfosec",
+          "title": "MXC Internals: How Microsoft's Execution Containers Actually Isolate Agent Code",
+          "summary": "At Build 2026, Microsoft announced MXC as a new, platform-agnostic sandbox system for running untrusted and agentic code. The sandbox runs at the OS level rather than at the application level, unlike those shipped with Codex or Claude Code. Based on the OS and available features, the sandbox will run a backend using either AppContainer, Windows.AI.IsolationBroker, a disposable Windows VM, a WSL microVM, a NanVix microVM, a bubblewrap namespace, or macOS Seatbelt."
+        },
+        {
+          "url": "https://www.blackhillsinfosec.com/auditing-gitlab-the-ci-cd-kill-chain/?utm_source=tldrinfosec",
+          "title": "Auditing GitLab: The CI/CD Kill Chain",
+          "summary": "Black Hills Information Security released GoGatoZ, a Go-based GitLab CI/CD auditing tool ported from Gato-X, and used it to scan 3,757 public gitlab.com projects across three campaigns, surfacing 7,331 findings including 1,580 HIGH severity issues. Dominant attack classes included unprotected fork merge request pipelines, privileged Docker runners enabling container-to-host escape, and 347 plaintext secrets."
+        },
+        {
+          "url": "https://offroad.ai/?utm_source=tldrinfosec",
+          "title": "Offroad (Product Launch)",
+          "summary": "Offroad provides autonomous security agents that identify identity risks across users, machines, AI agents, and SaaS/OAuth apps, gather context from fragmented systems, and then automatically remediate or govern access, with human oversight where needed."
+        },
+        {
+          "url": "https://github.com/0xsp-SRD/aether?utm_source=tldrinfosec",
+          "title": "Aether (GitHub Repo)",
+          "summary": "Aether is a Windows memory forensics and threat hunting tool that scans live process memory for various malicious activities."
+        },
+        {
+          "url": "https://github.com/nvidia/skillspector?utm_source=tldrinfosec",
+          "title": "SkillSpector (GitHub Repo)",
+          "summary": "NVIDIA has released SkillSpector, a security scanner for AI agent skills that combines static analysis, AST-based behavioral inspection, taint tracking, YARA signatures, and optional LLM semantic evaluation across 64 vulnerability patterns spanning prompt injection, data exfiltration, supply chain, MCP least privilege, and tool poisoning, with live OSV.dev CVE lookups and SARIF output for CI integration."
+        },
+        {
+          "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/?utm_source=tldrinfosec",
+          "title": "Dashlane Explains How Attackers Managed to Download Encrypted Password Vaults",
+          "summary": "Attackers abused Dashlane's device-enrollment APIs to spray one-time 2FA codes across many accounts and brute force valid tokens, letting them register new devices on fewer than 20 accounts and download encrypted vaults. They still need to crack master passwords, which Dashlane hardens with Argon2, but weak or reused passwords remain exposed, so affected users should change master passwords and stored credentials."
+        },
+        {
+          "url": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html?utm_source=tldrinfosec",
+          "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+          "summary": "Microsoft now delays automatic VS Code extension updates by two hours, except for trusted publishers like Microsoft, GitHub, and OpenAI, which still update immediately. Users can still trigger manual updates and see why updates are pending. Similar cooldown controls in Bundler, Bun, npm, pnpm, and Yarn limit how quickly newly published, potentially malicious packages reach developer environments."
+        },
+        {
+          "url": "https://astral.sh/blog/uv-audit?utm_source=tldrinfosec",
+          "title": "Vulnerability and Malware Checks in uv",
+          "summary": "Astral has shipped two preview security features in the uv Python package manager: uv audit, a native dependency scanner for known vulnerabilities that runs 4x to 10x faster than pip-audit, and an opt-in OSV-based malware check that queries MAL advisories on every sync to abort installation before quarantined malicious distributions execute."
+        },
+        {
+          "url": "https://www.theregister.com/security/2026/06/05/council-in-uks-city-of-york-outs-hundreds-of-disabled-residents-with-a-single-email-blunder/5251214?utm_source=tldrinfosec",
+          "title": "Council in UK's City of York Outs Hundreds of Disabled Residents With a Single Email Blunder",
+          "summary": "City of York Council emailed Blue Badge holders without BCC, exposing hundreds of recipients' addresses and implicitly their disability status."
+        },
+        {
+          "url": "https://cybersecuritynews.com/free-apps-turning-smart-tvs-into-proxies/?utm_source=tldrinfosec",
+          "title": "Free Apps on Samsung and LG Smart TVs Secretly Turning Your Devices Into AI Proxies",
+          "summary": "Include Security disclosed that Bright Data's SDK, embedded in free Samsung, LG, and Roku apps from partners including PlayWorks Digital, CloudTV, and Viber, silently converts connected TVs into residential proxy exit nodes with ignore_screen_on:true flags and a 200 GB monthly cap."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/9aYldZ",
+          "title": "Suspicious Polyfill Login Prompts Pop Up on Toshiba, Muji Websites",
+          "summary": "The polyfill[.]io domain, hijacked by a Chinese entity in 2024 and abandoned by site owners who never removed embedded script references, reactivated in late May and began returning HTTP 401 responses that surfaced as browser-native credential prompts on Toshiba, Muji, Zojirushi, FiNC Technologies, Ishiyaku Publishers, Hobonichi, and Samsung Smart TV sites."
+        }
+      ]
+    },
+    {
+      "name": "NAVER expands AI infrastructure 🏗️, Microsoft's free agent runtime 🤖, Pink steals cloud storage passwords 🥷",
+      "articles": [
+        {
+          "url": "https://nvidianews.nvidia.com/news/naver-ai-infrastructure?utm_source=tldrit",
+          "title": "NAVER Expands AI Infrastructure With NVIDIA to Serve Surging Global AI Demand",
+          "summary": "NAVER announced plans to expand sovereign AI infrastructure starting at 55MW and scaling to gigawatt levels using NVIDIA's DSX platform, beginning with expansion at its GAK Sejong data center in South Korea. The partnership is intended to speed the design and scaling of full-stack AI \"factories\" to serve enterprises, government, and global AI cloud customers while targeting lower token costs."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/m6xDYQ",
+          "title": "Google to Pay SpaceX Nearly $1 Billion a Month in Cloud-Computing Deal",
+          "summary": "Google will pay SpaceX $920 million per month from October 2026 to June 2029 to rent data center capacity. Google has the right to cancel the agreement in October if SpaceX doesn't provide the promised 110,000 Nvidia chips. Either party can cancel the agreement starting next year with 90 days' notice. This is the second major deal SpaceX has made in recent months to rent out compute capacity to a competitor."
+        },
+        {
+          "url": "https://thenewstack.io/microsoft-scout-openclaw-runtime/?utm_source=tldrit",
+          "title": "Microsoft Just Made the Agent Runtime Free — and Kept Everything Around It",
+          "summary": "At Build 2026, Microsoft shipped its always-on work agent Scout on top of the open-source OpenClaw runtime and made the OpenClaw runtime free. Microsoft is monetizing the \"control plane\" around the runtime, which includes identity, governance/policy, auditability, and enterprise management, rather than the runtime itself."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/wWL7nQ",
+          "title": "How Enterprises Should Combat the Growing Shadow AI Problem",
+          "summary": "Shadow AI is rising in enterprises because employees use free, unapproved generative AI accounts for work, often with sensitive data. Instead of simply banning tools, enterprises should counter it in a two-way approach: understand user intent and workflows, help employees use approved tools that meet their needs, and reconcile licenses and token usage to reduce risk and waste."
+        },
+        {
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/?utm_source=tldrit",
+          "title": "Amazon Bedrock AgentCore Runtime Introduces Interactive Shells for Terminal Access Into Agent Sessions",
+          "summary": "Amazon Bedrock AgentCore Runtime adds interactive shells for terminal access to running agent sessions via the new InvokeAgentRuntimeCommandShell API. The feature provides a persistent, PTY-backed terminal over WebSocket with support for colors, tab completion, Ctrl+C, terminal resizing, and automatic reconnect, in addition to the existing one-shot InvokeAgentRuntimeCommand API."
+        },
+        {
+          "url": "https://github.com/alibaba/open-code-review?utm_source=tldrit",
+          "title": "Open Code Review (GitHub Repo)",
+          "summary": "Open Code Review is an AI-powered CLI tool that automates code reviews by analyzing Git diffs for precise, line-level feedback. It uses a hybrid architecture of deterministic logic and dynamic agents, allowing developers to integrate it easily into CI/CD pipelines or local environments."
+        },
+        {
+          "url": "https://github.com/microsoft/pg_durable?utm_source=tldrit",
+          "title": "pg_durable: Microsoft Open Sources In-Database Durable Execution",
+          "summary": "Microsoft has open sourced pg_durable, a PostgreSQL extension that enables long-running, fault-tolerant \"durable execution\" of SQL-defined workflows with checkpointing between steps. It aims to let teams run reliable background-style processing next to their Postgres data without additional infrastructure like external workers or queues, while providing status visibility and SQL-native orchestration primitives."
+        },
+        {
+          "url": "https://cybersecuritynews.com/new-pink-hacking-group-attacking-enterprise-users/?utm_source=tldrit",
+          "title": "New Pink Hacking Group Attacking Enterprise Users to Steal Cloud Storage Passwords",
+          "summary": "A newly identified extortion group called Pink (CL-CRI-1147) is targeting enterprise users by using vishing/social engineering to steal cloud storage credentials. After obtaining access, the group rapidly exfiltrates files from Microsoft OneDrive and SharePoint using Microsoft automation, then pressures victims with internal Microsoft Teams/Email messages demanding payment within a 72-hour window."
+        },
+        {
+          "url": "https://github.com/superradcompany/microsandbox?utm_source=tldrit",
+          "title": "Microsandbox – Local-First Programmable Micro VMs",
+          "summary": "Microsandbox is a local-first system for spinning up lightweight micro VMs in milliseconds, embedded in applications with no server setup or lingering daemon."
+        },
+        {
+          "url": "https://github.com/las7/TakoVM?utm_source=tldrit",
+          "title": "Show HN: TakoVM – Isolated Model and Tool Execution Used by Enterprises",
+          "summary": "TakoVM is an open-source system for safely running untrusted Python code in isolated Docker containers, aimed at enterprise use."
+        }
+      ]
+    },
+    {
+      "name": "Do nothing at work 💼, performative UI 🎨, routing token spend 👣",
+      "articles": [
+        {
+          "url": "https://blog.bytebytego.com/p/token-spend-out-of-control-the-case?utm_source=tldrdev",
+          "title": "Token Spend Out of Control? The Case for Smarter Routing",
+          "summary": "LLM agents often face runaway costs because they run in continuous loops that resend an expanding context window to expensive frontier models. To control these production costs, teams use smart routing mechanisms to dynamically direct simple tasks to cheaper models and reserve frontier models only for complex reasoning."
+        },
+        {
+          "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/?utm_source=tldrdev",
+          "title": "I Design With Claude More Than Figma Now",
+          "summary": "LLMs like Claude can be used to create functional, interactive prototypes directly within a codebase. This means that the design-to-code transition from Figma to the codebase can be skipped, allowing for non-engineers to create higher-fidelity prototypes and mockups faster."
+        },
+        {
+          "url": "https://www.seangoedecke.com/doing-nothing-at-work/?utm_source=tldrdev",
+          "title": "Doing Nothing at Work",
+          "summary": "A lower utilization rate of 80% is recommended for software engineers to make sure they are available for unpredictable, high-impact opportunities. By avoiding a constant backlog grind and the temptation of uncompensated backchannel tasks, devs can prevent burnout."
+        },
+        {
+          "url": "https://web.archive.org/web/20260607163135/https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=tldrdev",
+          "title": "LLMs Are Eroding My Software Engineering Career and I Don't Know What to Do",
+          "summary": "A software engineer finds that AI and agentic coding are removing the value of specialized debugging skills and domain-specific knowledge more than expected. The technical intuition they have gained over the last decade is now feeling taken over by LLMs."
+        },
+        {
+          "url": "https://zero.rocicorp.dev/?utm_source=tldrdev",
+          "title": "Zero (Website)",
+          "summary": "Zero is an open-source, general-purpose sync engine that creates instant web application performance by managing local client-side data stores alongside cloud-based Postgres replicas. It bypasses traditional up-front download and permission challenges by using a streaming query engine that syncs only the specific data a user requires."
+        },
+        {
+          "url": "https://www.ui-skills.com/?utm_source=tldrdev",
+          "title": "UI Skills (Website)",
+          "summary": "A collection of AI skills for better frontend design, ranging from accessibility audits to design exploration workflows in code."
+        },
+        {
+          "url": "https://algorithmichiring.github.io/?utm_source=tldrdev",
+          "title": "Algorithmic Monocultures in Hiring",
+          "summary": "An empirical study of 4 million job applications shows that, because many employers rely on the same few vendors, \"algorithmic monocultures\" create systemic rejections and racial disparities. The research shows that analyzing hiring data at the position-level, rather than in aggregate, is necessary to identify these widespread adverse impacts and systemic failures."
+        },
+        {
+          "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/?utm_source=tldrdev",
+          "title": "Life Is Too Short for a Slow Terminal",
+          "summary": "To achieve a sub-50ms terminal startup, avoid heavy plugin frameworks and manually source only essential plugins. Maximize speed by caching expensive completion audits, lazy-loading heavy commands like nvm and kubectl, and using an asynchronous prompt to eliminate navigation lag."
+        },
+        {
+          "url": "https://vorpus.github.io/performativeUI/?utm_source=tldrdev",
+          "title": "Performative UI (Website)",
+          "summary": "Performative UI is an open-source React library with 26 tongue-in-cheek, AI-native components designed playfully to mimic the trendy UI tropes of modern AI startups."
+        },
+        {
+          "url": "https://github.com/devenjarvis/lathe?utm_source=tldrdev",
+          "title": "Lathe (GitHub Repo)",
+          "summary": "Lathe is an open-source Golang command-line tool and local web interface that uses LLMs to generate tailored, hands-on technical tutorials on demand."
+        },
+        {
+          "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/?utm_source=tldrdev",
+          "title": "OpenAI Plots Biggest ChatGPT Overhaul Since Launch",
+          "summary": "OpenAI is turning ChatGPT into a \"superapp\" that focuses on AI agents and coding tools to attract business clients ahead of a planned IPO."
+        },
+        {
+          "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision?utm_source=tldrdev",
+          "title": "DeepSeek V4 Pro Beats GPT-5.5 Pro on Precision",
+          "summary": "DeepSeek V4 Pro outperformed GPT-5.5 Pro across text tasks: instruction-following, regex correctness for a Python log redactor, and strict JSON schema adherence."
+        }
+      ]
+    },
+    {
+      "name": "Siri AI 📱, Apple Core AI 🤖, loop engineering 👨‍💻",
+      "articles": [
+        {
+          "url": "https://links.tldrnewsletter.com/4ussGE",
+          "title": "Apple Reveals New AI-Powered Version of Its Siri Digital Assistant",
+          "summary": "Apple has introduced a new, improved version of Siri and new features to Apple Intelligence. Siri can now handle tasks like researching concert tickets and brainstorming recipes for a party. Apple is using AI models and cloud computing services from Google to power Siri and Apple Intelligence. Siri and Apple Intelligence features will be integrated across Apple's apps. There will be daily limits on image generation features due to compute limitations."
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html?utm_source=tldrnewsletter",
+          "title": "OpenAI Confidentially Files for IPO, Prepping Wall Street for Mega AI Debut",
+          "summary": "OpenAI has confidentially filed for an IPO with the SEC. The company has yet to decide on the timing of the offering. It may be a while before OpenAI goes public, as there are things the company wants to do that are likely easier as a private entity, but the filing gives it the option to go public sooner if that ends up being best. OpenAI plans to facilitate a tender offer allowing employees to sell shares at its latest $852 billion post-money valuation."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/fzI0PI",
+          "title": "Samsung Reportedly Involved in SpaceX xAI Satellite Chip Project",
+          "summary": "Samsung is reportedly in the early stages of producing AI space computing chips for SpaceX's satellite chip ambitions. SpaceX plans to build satellites in space that process and beam data back to Earth. TSMC has also been named as a manufacturing partner. Early-stage chip production could include anything from prototype silicon to limited qualification runs."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/uV1BRv",
+          "title": "Gates-Backed Commonwealth Fusion Says Its Tech Validated to Make Power",
+          "summary": "Commonwealth Fusion Systems says that the physics of its commercial-scale power plant has been validated by five peer-reviewed papers. The company is now targeting the early 2030s to put energy on the grid. It is building a 400-megawatt facility in Virginia and a demonstration machine in Massachusetts. It has so far raised almost $3 billion from investors, including Bill Gates' Breakthrough Energy Ventures and Nvidia's venture arm."
+        },
+        {
+          "url": "",
+          "title": "Core AI (Website)",
+          "summary": ""
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/hw6fq7",
+          "title": "Loop Engineering",
+          "summary": "Loop engineering is when a developer replaces themselves as the person who prompts the agent with a system that does it instead. The loop is a recursive goal where the user defines a purpose and the AI iterates until complete. The technology is still early - users have to be careful about token costs and still monitor to ensure quality - but this is likely the future of how people work with coding agents."
+        },
+        {
+          "url": "https://sherwood.news/tech/chatgpt-failed-to-kill-google-search/?utm_source=tldrnewsletter",
+          "title": "ChatGPT Failed to Kill Google Search",
+          "summary": "Google Search queries reached an all-time high last quarter. AI Overviews and AI Mode are driving user engagement, and AI-powered ad tools are driving better ROI for advertisers. Search AI Mode has crossed 1 billion monthly active users, and AI Overviews has over 2.5 billion monthly active users. Search saw revenue grow by 19% year on year last quarter."
+        },
+        {
+          "url": "https://links.tldrnewsletter.com/x5XC2L",
+          "title": "The 24-Year-Old AI Wiz Who Counts Jane Street as an Investor",
+          "summary": "Leopold Aschenbrenner had no professional investing experience when he launched his AI-focused investment firm, Situational Awareness. The firm's assets have vaulted from a few hundred million dollars to more than $20 billion in less than two years. One of its most successful bets is a stake in Anthropic. The firm's investors include Jane Street, a savvy quant-trading firm that rarely allocates capital to outside money managers."
+        },
+        {
+          "url": "https://paul.kinlan.me/where-my-head-is-at-with-llms-and-the-web/?utm_source=tldrnewsletter",
+          "title": "Where My Head Is at With LLMs and the Web",
+          "summary": "We are potentially in a golden age for the web, as many major barriers to entry are being removed."
+        },
+        {
+          "url": "https://news.ycombinator.com/item?idH449187&utm_source=tldrnewsletter",
+          "title": "Ask HN: What Are Tools You Have Made for Yourself Since the Advent of AI?",
+          "summary": "A look at the different projects developers have made with AI coding tools."
+        },
+        {
+          "url": "https://www.notboring.co/p/expanding-the-radius-of-daily-life?utm_source=tldrnewsletter",
+          "title": "Expanding the Radius of Daily Life",
+          "summary": "Flying cars promise a future where humans have more options on where to live, work, and visit."
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/08/sam-bankman-fried-files-formal-request-for-presidential-pardon-.html?utm_source=tldrnewsletter",
+          "title": "Convicted FTX Founder Sam Bankman-Fried Files Formal Request for Trump Pardon",
+          "summary": "Trump has previously said that he has no intention of pardoning Bankman-Fried."
+        },
+        {
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/?utm_source=tldrnewsletter",
+          "title": "Apple Reveals New AI Architecture Built Around Google Gemini Models",
+          "summary": "The new architecture runs Apple Foundation Models co-developed with Google both on-device and on Apple's Private Cloud Compute infrastructure."
+        },
+        {
+          "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/?utm_source=tldrnewsletter",
+          "title": "1,000 Data Breaches Later, the Disclosure Lag Is Worse Than Ever",
+          "summary": "Companies would rather protect shareholder value than ensure customers are informed about data breaches."
+        }
+      ]
+    }
+  ]
+}
