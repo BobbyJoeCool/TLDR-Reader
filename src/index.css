@@ -37,13 +37,27 @@
   --danger:      #F87171;
 
   /* Edition colors */
-  --c-tldr:      #818CF8;   /* indigo */
-  --c-ai:        #60A5FA;   /* blue */
-  --c-dev:       #22D3EE;   /* cyan */
-  --c-devops:    #34D399;   /* emerald */
-  --c-product:   #FBBF24;   /* amber */
-  --c-it:        #FB923C;   /* orange */
-  --c-infosec:   #F87171;   /* red */
+  --c-tldr:      #818CF8;   /* indigo      — TLDR (main) */
+  --c-ai:        #60A5FA;   /* blue        — TLDR AI */
+  --c-dev:       #22D3EE;   /* cyan        — TLDR Dev */
+  --c-devops:    #34D399;   /* emerald     — TLDR DevOps */
+  --c-product:   #FBBF24;   /* amber       — TLDR Product */
+  --c-it:        #FB923C;   /* orange      — TLDR IT */
+  --c-infosec:   #F87171;   /* red         — TLDR InfoSec */
+  --c-founders:  #C084FC;   /* violet      — TLDR Founders */
+  --c-design:    #F472B6;   /* pink        — TLDR Design */
+  --c-marketing: #FB7185;   /* rose        — TLDR Marketing */
+  --c-crypto:    #FACC15;   /* gold        — TLDR Crypto */
+  --c-fintech:   #4ADE80;   /* green       — TLDR Fintech */
+  --c-data:      #2DD4BF;   /* teal        — TLDR Data */
+  --c-hardware:  #94A3B8;   /* slate       — TLDR Hardware */
+
+  /* Day colors (Mon–Fri rainbow, skipping yellow) */
+  --c-mon:       #F87171;   /* soft red */
+  --c-tue:       #FB923C;   /* soft orange */
+  --c-wed:       #34D399;   /* emerald */
+  --c-thu:       #38BDF8;   /* sky blue */
+  --c-fri:       #A78BFA;   /* violet */
 
   /* Layout */
   --radius:      10px;
@@ -69,10 +83,24 @@ html, body, #root {
 }
 
 /* Edition color data attributes */
-[data-edition="TLDR"]         { --edition-color: var(--c-tldr); }
-[data-edition="TLDR AI"]      { --edition-color: var(--c-ai); }
-[data-edition="TLDR Dev"]     { --edition-color: var(--c-dev); }
-[data-edition="TLDR DevOps"]  { --edition-color: var(--c-devops); }
-[data-edition="TLDR Product"] { --edition-color: var(--c-product); }
-[data-edition="TLDR IT"]      { --edition-color: var(--c-it); }
-[data-edition="TLDR InfoSec"] { --edition-color: var(--c-infosec); }
+[data-edition="TLDR"]             { --edition-color: var(--c-tldr); }
+[data-edition="TLDR AI"]          { --edition-color: var(--c-ai); }
+[data-edition="TLDR Dev"]         { --edition-color: var(--c-dev); }
+[data-edition="TLDR DevOps"]      { --edition-color: var(--c-devops); }
+[data-edition="TLDR Product"]     { --edition-color: var(--c-product); }
+[data-edition="TLDR IT"]          { --edition-color: var(--c-it); }
+[data-edition="TLDR InfoSec"]     { --edition-color: var(--c-infosec); }
+[data-edition="TLDR Founders"]    { --edition-color: var(--c-founders); }
+[data-edition="TLDR Design"]      { --edition-color: var(--c-design); }
+[data-edition="TLDR Marketing"]   { --edition-color: var(--c-marketing); }
+[data-edition="TLDR Crypto"]      { --edition-color: var(--c-crypto); }
+[data-edition="TLDR Fintech"]     { --edition-color: var(--c-fintech); }
+[data-edition="TLDR Data"]        { --edition-color: var(--c-data); }
+[data-edition="TLDR Hardware"]    { --edition-color: var(--c-hardware); }
+
+/* Day color data attributes */
+[data-day="Monday"]    { --day-color: var(--c-mon); }
+[data-day="Tuesday"]   { --day-color: var(--c-tue); }
+[data-day="Wednesday"] { --day-color: var(--c-wed); }
+[data-day="Thursday"]  { --day-color: var(--c-thu); }
+[data-day="Friday"]    { --day-color: var(--c-fri); }

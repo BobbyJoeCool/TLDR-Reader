@@ -6,6 +6,13 @@ const EDITION_ORDER = [
   'TLDR Product',
   'TLDR IT',
   'TLDR InfoSec',
+  'TLDR Founders',
+  'TLDR Design',
+  'TLDR Marketing',
+  'TLDR Crypto',
+  'TLDR Fintech',
+  'TLDR Data',
+  'TLDR Hardware',
 ];
 
 export function sortEditions(editions) {
@@ -31,7 +38,8 @@ export default function EditionTabs({ editions, selectedEdition, onSelectEdition
 
   if (layout === 'sidebar') {
     return (
-      <aside className="edition-sidebar">
+      <div className="edition-sidebar-group">
+        <div className="sidebar-section-label">Editions</div>
         {sorted.map((e) => (
           <button
             key={e.name}
@@ -44,7 +52,7 @@ export default function EditionTabs({ editions, selectedEdition, onSelectEdition
             <span className="edition-count">{e.articles.length}</span>
           </button>
         ))}
-      </aside>
+      </div>
     );
   }
 

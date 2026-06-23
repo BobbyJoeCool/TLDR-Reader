@@ -1,42 +1,39 @@
-import { useState, useEffect, useCallback } from 'react';
 import DayTabs from '../components/DayTabs';
-import EditionTabs, { defaultEdition, sortEditions } from '../components/EditionTabs';
+import EditionTabs, { sortEditions } from '../components/EditionTabs';
 import ArticleCard from '../components/ArticleCard';
 
-export default function WeekPage({ label, days, flaggedUrls, onToggleFlag, loading, useSidebar }) {
-  const [selectedDate, setSelectedDate] = useState(null);
-  const [selectedEdition, setSelectedEdition] = useState(null);
+function editionSlug(name) {
+  return 'edition-' + name.replace(/\s+/g, '-').toLowerCase();
+}
 
-  // Pick a default day when data arrives
-  useEffect(() => {
-    if (!days.length) return;
-    const sorted = [...days].sort((a, b) => new Date(b.date) - new Date(a.date));
-    const today = new Date().toLocaleDateString('en-CA'); // YYYY-MM-DD local
-    const todayDoc = days.find((d) => d.date === today);
-    setSelectedDate((prev) => prev ?? (todayDoc ? today : sorted[0].date));
-  }, [days]);
-
-  // Reset edition when day changes
+export default function WeekPage({
+  label,
+  days,
+  flaggedUrls,
+  onToggleFlag,
+  loading,
+  selectedDate,
+  setSelectedDate,
+  isDesktop,
+}) {
   const currentDay = days.find((d) => d.date === selectedDate);
-  const editions = currentDay?.editions ?? [];
+  const editions = sortEditions(currentDay?.editions ?? []);
 
-  useEffect(() => {
-    if (!editions.length) return;
-    setSelectedEdition(defaultEdition(editions));
-  }, [selectedDate]);
-
-  const handleSelectEdition = useCallback((name) => setSelectedEdition(name), []);
-
-  const currentEdition = editions.find((e) => e.name === selectedEdition);
-  const sortedEditions = sortEditions(editions);
+  const scrollToEdition = (name) => {
+    document.getElementById(editionSlug(name))?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  };
 
   if (loading) {
     return (
       <div className="page week-page">
-        <div className="sticky-tabs-area">
-          <div className="week-label">{label}</div>
+        {!isDesktop && (
+          <div className="sticky-tabs-area">
+            <div className="week-label">{label}</div>
+          </div>
+        )}
+        <div className="week-content-area">
+          <div className="empty-state"><div className="spinner" /></div>
         </div>
-        <div className="page-content"><div className="empty-state"><div className="spinner" /></div></div>
       </div>
     );
   }
@@ -44,10 +41,12 @@ export default function WeekPage({ label, days, flaggedUrls, onToggleFlag, loadi
   if (!days.length) {
     return (
       <div className="page week-page">
-        <div className="sticky-tabs-area">
-          <div className="week-label">{label}</div>
-        </div>
-        <div className="page-content">
+        {!isDesktop && (
+          <div className="sticky-tabs-area">
+            <div className="week-label">{label}</div>
+          </div>
+        )}
+        <div className="week-content-area">
           <div className="empty-state">
             <p className="empty-title">No articles yet</p>
             <p className="empty-body">
@@ -63,57 +62,59 @@ export default function WeekPage({ label, days, flaggedUrls, onToggleFlag, loadi
 
   return (
     <div className="page week-page">
-      <div className="sticky-tabs-area">
-        <div className="week-label">{label}</div>
-        <DayTabs days={days} selectedDay={selectedDate} onSelectDay={setSelectedDate} />
-        {!useSidebar && (
-          <EditionTabs
-            editions={sortedEditions}
-            selectedEdition={selectedEdition}
-            onSelectEdition={handleSelectEdition}
+      {!isDesktop && (
+        <div className="sticky-tabs-area">
+          <div className="week-label">{label}</div>
+          <DayTabs
+            days={days}
+            selectedDay={selectedDate}
+            onSelectDay={setSelectedDate}
             layout="row"
           />
-        )}
-      </div>
-
-      <div className={`week-body ${useSidebar ? 'with-sidebar' : ''}`}>
-        {useSidebar && (
           <EditionTabs
-            editions={sortedEditions}
-            selectedEdition={selectedEdition}
-            onSelectEdition={handleSelectEdition}
-            layout="sidebar"
+            editions={editions}
+            onSelectEdition={scrollToEdition}
+            layout="row"
           />
-        )}
+        </div>
+      )}
 
-        <div className="week-content">
-          {currentEdition ? (
-            <>
-              <div className="edition-header" data-edition={currentEdition.name}>
+      <div className="week-content-area">
+        {editions.length === 0 ? (
+          <div className="empty-state">
+            <p className="empty-title">No articles for this day</p>
+          </div>
+        ) : (
+          editions.map((edition) => (
+            <div
+              key={edition.name}
+              id={editionSlug(edition.name)}
+              className="edition-section"
+              data-edition={edition.name}
+            >
+              <div className="edition-header">
                 <div className="edition-header-dot" />
                 <div>
-                  <h2 className="edition-header-name">{currentEdition.name}</h2>
-                  <p className="edition-header-count">
-                    {currentEdition.articles.length} articles
-                  </p>
+                  <h2 className="edition-header-name">{edition.name}</h2>
+                  <p className="edition-header-count">{edition.articles.length} articles</p>
                 </div>
               </div>
-
-              {currentEdition.articles.map((article) => (
+              {edition.articles.map((article) => (
                 <ArticleCard
                   key={article.url}
-                  article={{ ...article, edition: currentEdition.name, date: selectedDate, day: currentDay.day }}
+                  article={{
+                    ...article,
+                    edition: edition.name,
+                    date: selectedDate,
+                    day: currentDay.day,
+                  }}
                   isFlagged={flaggedUrls.has(article.url)}
                   onToggleFlag={onToggleFlag}
                 />
               ))}
-            </>
-          ) : (
-            <div className="empty-state">
-              <p className="empty-title">No articles for this edition</p>
             </div>
-          )}
-        </div>
+          ))
+        )}
       </div>
     </div>
   );

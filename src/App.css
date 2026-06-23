@@ -91,7 +91,7 @@
 }
 @keyframes spin { to { transform: rotate(360deg); } }
 
-/* ─── BOTTOM NAV ─────────────────────────────────────────────── */
+/* ─── BOTTOM NAV (mobile only) ───────────────────────────────── */
 .bottom-nav {
   position: fixed;
   bottom: 0;
@@ -310,7 +310,7 @@
 .read-btn.active { color: var(--success); border-color: var(--success); background: color-mix(in srgb, var(--success) 10%, transparent); }
 .unflag-btn:hover { color: var(--danger); border-color: var(--danger); }
 
-/* ─── WEEK PAGE ──────────────────────────────────────────────── */
+/* ─── WEEK PAGE (shared) ─────────────────────────────────────── */
 .week-page { display: flex; flex-direction: column; }
 
 .sticky-tabs-area {
@@ -331,7 +331,7 @@
   padding: 8px 16px 4px;
 }
 
-/* ─── DAY TABS ───────────────────────────────────────────────── */
+/* ─── DAY TABS (mobile row) ──────────────────────────────────── */
 .day-tabs {
   display: flex;
   gap: 4px;
@@ -343,27 +343,33 @@
 
 .day-tab {
   flex-shrink: 0;
-  padding: 6px 16px;
+  padding: 5px 14px;
   border-radius: 20px;
-  border: 1px solid var(--border);
+  border: 1px solid var(--day-color, var(--border));
   background: var(--surface);
-  color: var(--text-muted);
-  font-size: 13px;
+  color: var(--day-color, var(--text-muted));
+  font-size: 12px;
   font-weight: 500;
   font-family: var(--font-body);
   cursor: pointer;
   transition: background 0.15s, color 0.15s, border-color 0.15s;
   white-space: nowrap;
 }
-.day-tab:hover { background: var(--surface2); color: var(--text); }
+.day-tab:not(.active) {
+  border-color: var(--day-color, var(--border));
+  color: var(--day-color, var(--text-muted));
+  opacity: 0.65;
+}
+.day-tab:not(.active):hover { opacity: 1; }
+.day-tab:hover { background: var(--surface2); }
 .day-tab.active {
-  background: var(--purple-dim);
-  border-color: var(--purple);
-  color: var(--purple-lt);
+  background: color-mix(in srgb, var(--day-color, var(--accent)) 15%, transparent);
+  border-color: var(--day-color, var(--accent));
+  color: var(--day-color, var(--accent));
   font-weight: 600;
 }
 
-/* ─── EDITION TABS (ROW — mobile) ────────────────────────────── */
+/* ─── EDITION TABS (mobile row) ─────────────────────────────── */
 .edition-tabs {
   display: flex;
   gap: 4px;
@@ -390,12 +396,10 @@
   transition: background 0.15s, color 0.15s, border-color 0.15s;
   white-space: nowrap;
 }
-.edition-tab:hover { background: var(--surface2); color: var(--text); }
-.edition-tab.active {
-  background: color-mix(in srgb, var(--edition-color, var(--accent)) 15%, transparent);
-  border-color: var(--edition-color, var(--accent));
-  color: var(--edition-color, var(--accent));
-  font-weight: 600;
+.edition-tab:hover {
+  background: var(--surface2);
+  border-color: var(--edition-color, var(--border2));
+  color: var(--edition-color, var(--text));
 }
 
 .edition-tab-dot {
@@ -406,75 +410,55 @@
   flex-shrink: 0;
   opacity: 0.7;
 }
-.edition-tab.active .edition-tab-dot { opacity: 1; }
 
-/* ─── WEEK BODY ──────────────────────────────────────────────── */
-.week-body {
-  flex: 1;
-  display: flex;
-  overflow: hidden;
-}
-.week-body.with-sidebar { /* sidebar layout handled via media query */ }
-
-.week-content {
+/* ─── WEEK CONTENT (article scroll area) ─────────────────────── */
+.week-content-area {
   flex: 1;
   overflow-y: auto;
   padding: 16px 16px 32px;
   max-width: 720px;
-}
-
-/* ─── EDITION SIDEBAR (tablet/desktop) ───────────────────────── */
-.edition-sidebar {
-  width: 200px;
-  flex-shrink: 0;
-  overflow-y: auto;
-  border-right: 1px solid var(--border);
-  padding: 12px 0;
-}
-.edition-sidebar-item {
-  display: flex;
-  align-items: center;
-  gap: 10px;
   width: 100%;
-  text-align: left;
-  padding: 10px 16px;
-  background: none;
-  border: none;
-  color: var(--text-muted);
-  font-size: 13px;
-  font-family: var(--font-body);
-  cursor: pointer;
-  transition: background 0.15s, color 0.15s;
-}
-.edition-sidebar-item:hover { background: var(--surface2); color: var(--text); }
-.edition-sidebar-item.active {
-  background: color-mix(in srgb, var(--edition-color, var(--accent)) 12%, transparent);
-  color: var(--edition-color, var(--accent));
-  font-weight: 600;
-}
-.edition-dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: var(--edition-color, var(--accent));
-  flex-shrink: 0;
-  opacity: 0.6;
-}
-.edition-sidebar-item.active .edition-dot { opacity: 1; }
-.edition-label { flex: 1; }
-.edition-count {
-  font-size: 11px;
-  color: var(--text-dim);
-  background: var(--surface2);
-  padding: 1px 6px;
-  border-radius: 10px;
-}
-.edition-sidebar-item.active .edition-count {
-  background: color-mix(in srgb, var(--edition-color, var(--accent)) 15%, transparent);
-  color: var(--edition-color, var(--accent));
+  margin: 0 auto;
 }
 
-/* ─── EDITION HEADER CARD ────────────────────────────────────── */
+/* ─── EDITION SECTION (card-within-card) ─────────────────────── */
+.edition-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--edition-color, var(--accent));
+  border-radius: var(--radius);
+  margin-bottom: 20px;
+  overflow: hidden;
+  scroll-margin-top: 120px; /* clears sticky tab area on mobile */
+}
+
+.edition-section .edition-header {
+  border: none;
+  border-bottom: 1px solid var(--border);
+  border-radius: 0;
+  background: color-mix(in srgb, var(--edition-color, var(--accent)) 8%, var(--surface));
+  margin-bottom: 0;
+}
+
+.edition-section .article-card {
+  border: none;
+  border-bottom: 1px solid var(--border);
+  border-radius: 0;
+  margin-bottom: 0;
+  background: transparent;
+}
+.edition-section .article-card:last-child {
+  border-bottom: none;
+}
+.edition-section .article-card:hover {
+  background: var(--surface2);
+  border-color: transparent;
+}
+.edition-section .article-card.flagged {
+  background: color-mix(in srgb, var(--purple) 5%, transparent);
+}
+
+/* ─── EDITION HEADER ─────────────────────────────────────────── */
 .edition-header {
   display: flex;
   align-items: center;
@@ -483,20 +467,20 @@
   border: 1px solid var(--border);
   border-left: 4px solid var(--edition-color, var(--accent));
   border-radius: var(--radius);
-  padding: 16px 18px;
+  padding: 14px 18px;
   margin-bottom: 14px;
 }
 .edition-header-dot {
-  width: 14px;
-  height: 14px;
+  width: 12px;
+  height: 12px;
   border-radius: 50%;
   background: var(--edition-color, var(--accent));
   flex-shrink: 0;
-  box-shadow: 0 0 12px color-mix(in srgb, var(--edition-color, var(--accent)) 50%, transparent);
+  box-shadow: 0 0 10px color-mix(in srgb, var(--edition-color, var(--accent)) 50%, transparent);
 }
 .edition-header-name {
   font-family: var(--font-display);
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 700;
   color: var(--text);
   letter-spacing: -0.3px;
@@ -513,7 +497,7 @@
   border-radius: var(--radius);
   padding: 14px 16px;
   margin-bottom: 10px;
-  transition: border-color 0.15s;
+  transition: background 0.15s, border-color 0.15s;
 }
 .article-card.flagged {
   border-color: var(--purple-dim);
@@ -542,7 +526,6 @@
   line-height: 1.55;
 }
 
-/* Flag button */
 .flag-btn {
   flex-shrink: 0;
   background: none;
@@ -557,47 +540,232 @@
 .flag-btn.flagged { color: var(--purple-lt); }
 .flag-btn.flagged:hover { color: var(--accent); }
 
-/* ─── RESPONSIVE: TABLET / DESKTOP ──────────────────────────── */
-@media (min-width: 768px) and (orientation: landscape),
-       (min-width: 1024px) {
-
-  /* Sidebar layout: week body fills remaining viewport height so
-     sidebar and content scroll independently */
-  .week-page {
-    height: 100%;
-    overflow: hidden;
-  }
-
-  .week-body.with-sidebar {
-    flex-direction: row;
-    flex: 1;
-    overflow: hidden;
-    /* Subtract sticky tabs area (~92px) + bottom nav */
-    max-height: calc(100vh - 92px - var(--nav-height) - var(--safe-bottom));
-  }
-
-  .edition-sidebar {
-    height: 100%;
-  }
-
-  .week-content {
-    padding: 20px 24px 40px;
-    height: 100%;
-  }
-
-  .edition-header-name { font-size: 22px; }
-
-  .page-content {
-    padding: 20px 24px 40px;
-  }
-
-  .bottom-nav-item { font-size: 11px; gap: 5px; }
+/* ─── DESKTOP LAYOUT ─────────────────────────────────────────── */
+.app--desktop {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
 }
 
-/* Wider desktop: center content */
-@media (min-width: 1200px) {
-  .week-body.with-sidebar .week-content {
-    max-width: 800px;
-    margin: 0 auto;
-  }
+/* Top navigation bar */
+.top-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  height: 56px;
+  padding: 0 20px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  position: relative;
+}
+
+.top-bar-brand {
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--purple-lt);
+  letter-spacing: -0.3px;
+  margin-right: 8px;
+}
+
+.top-bar-nav {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex: 1;
+}
+
+.top-nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 16px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 13px;
+  font-weight: 500;
+  font-family: var(--font-body);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+.top-nav-btn:hover { background: var(--surface2); color: var(--text); border-color: var(--border2); }
+.top-nav-btn.active {
+  background: var(--accent-dim);
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Logout is right-aligned in top bar on desktop (not fixed) */
+.app--desktop .logout-btn {
+  position: static;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+/* Main body: sidebar + content */
+.app-body {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* Left sidebar */
+.app-sidebar {
+  width: 200px;
+  flex-shrink: 0;
+  border-right: 1px solid var(--border);
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 0 24px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border2) transparent;
+}
+.app-sidebar::-webkit-scrollbar { width: 4px; }
+.app-sidebar::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 4px; }
+
+/* Sidebar section label */
+.sidebar-section-label {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: var(--text-dim);
+  padding: 14px 16px 6px;
+}
+.day-sidebar-group + .edition-sidebar-group .sidebar-section-label,
+.day-sidebar-group + .sidebar-section-label {
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+  margin-top: 8px;
+}
+
+/* Day sidebar items */
+.day-sidebar-group { padding-bottom: 8px; }
+
+.day-sidebar-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  text-align: left;
+  padding: 9px 16px;
+  background: none;
+  border: none;
+  border-left: 3px solid transparent;
+  color: var(--text-muted);
+  font-size: 13px;
+  font-family: var(--font-body);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.day-sidebar-item:hover {
+  background: color-mix(in srgb, var(--day-color, var(--accent)) 8%, transparent);
+  color: var(--day-color, var(--text));
+}
+.day-sidebar-item.active {
+  background: color-mix(in srgb, var(--day-color, var(--accent)) 14%, transparent);
+  border-left-color: var(--day-color, var(--accent));
+  color: var(--day-color, var(--accent));
+  font-weight: 600;
+}
+
+.day-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--day-color, var(--accent));
+  flex-shrink: 0;
+  opacity: 0.6;
+}
+.day-sidebar-item.active .day-dot { opacity: 1; }
+.day-label { flex: 1; }
+
+/* Edition sidebar items */
+.edition-sidebar-group { padding-bottom: 8px; }
+
+.edition-sidebar-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  text-align: left;
+  padding: 9px 16px;
+  background: none;
+  border: none;
+  border-left: 3px solid transparent;
+  color: var(--text-muted);
+  font-size: 13px;
+  font-family: var(--font-body);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.edition-sidebar-item:hover {
+  background: color-mix(in srgb, var(--edition-color, var(--accent)) 8%, transparent);
+  color: var(--edition-color, var(--text));
+}
+.edition-sidebar-item.active {
+  background: color-mix(in srgb, var(--edition-color, var(--accent)) 14%, transparent);
+  border-left-color: var(--edition-color, var(--accent));
+  color: var(--edition-color, var(--accent));
+  font-weight: 600;
+}
+.edition-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--edition-color, var(--accent));
+  flex-shrink: 0;
+  opacity: 0.6;
+}
+.edition-sidebar-item.active .edition-dot { opacity: 1; }
+.edition-label { flex: 1; }
+.edition-count {
+  font-size: 11px;
+  color: var(--text-dim);
+  background: var(--surface2);
+  padding: 1px 6px;
+  border-radius: 10px;
+}
+.edition-sidebar-item.active .edition-count {
+  background: color-mix(in srgb, var(--edition-color, var(--accent)) 15%, transparent);
+  color: var(--edition-color, var(--accent));
+}
+
+/* Main content area */
+.app-content {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* Desktop week-page: no padding/max-width on the page shell itself */
+.app--desktop .week-page {
+  height: 100%;
+}
+.app--desktop .week-content-area {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 24px 40px;
+  scroll-margin-top: 0;
+}
+.app--desktop .edition-section {
+  scroll-margin-top: 20px;
+}
+
+/* Desktop home page */
+.app--desktop .page-header {
+  padding: 16px 24px;
+}
+.app--desktop .page-content {
+  padding: 20px 24px 40px;
+  max-width: 800px;
+  margin: 0 auto;
 }
