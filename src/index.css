@@ -1,0 +1,30 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #111318;
+  --surface: #1A1D24;
+  --surface2: #22262F;
+  --border: #2C313D;
+  --accent: #F59E0B;
+  --accent-dim: #78500A;
+  --text: #E8EAF0;
+  --text-muted: #8B91A0;
+  --text-dim: #5A6070;
+  --radius: 10px;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-display: 'Georgia', 'Times New Roman', serif;
+}
+
+html, body, #root {
+  height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
