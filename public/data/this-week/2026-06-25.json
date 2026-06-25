@@ -5,307 +5,142 @@
   "weekType": "thisWeek",
   "editions": [
     {
-      "name": "TLDR",
-      "articles": [
-        {
-          "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
-          "title": "OpenAI and Broadcom's Jalapeño Chip",
-          "summary": "OpenAI and Broadcom's Jalapeño chip is designed for inference, the compute-intensive process of serving AI models to users. Jalapeño is the first in a planned family of LLM inference accelerators optimized for performance per watt."
-        },
-        {
-          "url": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
-          "title": "Tesla and Sunrun Announce 16GW Virtual Power Plant",
-          "summary": "Sunrun, Tesla, and Renew Home have announced an agreement to aggregate more than 16 gigawatts of home batteries and solar capacity into virtual power plants that can sell electricity back to the grid, including for AI data centers."
-        },
-        {
-          "url": "https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-respiratory-infections/",
-          "title": "Intercept: Making Respiratory Infections History",
-          "summary": "Intercept is a new $500 million initiative aimed at making respiratory infections like the common cold and flu a thing of the past. The project plans to develop universal vaccines and treatments for a broad range of respiratory viruses."
-        },
-        {
-          "url": "https://robenglander.com/writing/the-case-for-language-native-software",
-          "title": "The Case for Language-Native Software",
-          "summary": "Natural language is becoming an interface. Software is beginning to understand instructions in plain English, and the author argues that leaning into this shift — rather than fighting it — unlocks a new paradigm for building software."
-        },
-        {
-          "url": "https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/",
-          "title": "Amazon Is Selling Software That Does White-Collar Work",
-          "summary": "Amazon is increasingly in the business of selling software that does white-collar work. However, AWS CEO Matt Garman argues that jobs won't disappear — they'll shift, with developers becoming more like managers of AI systems."
-        },
-        {
-          "url": "https://gizmodo.com/anthropics-white-house-negotiations-are-reportedly-messy/",
-          "title": "Dario Amodei Reportedly Difficult in White House Negotiations",
-          "summary": "Dario Amodei was reportedly weird and hard to deal with during the negotiations between the White House and AI labs over compute export controls and safety commitments."
-        },
-        {
-          "url": "https://structural.chat/articles/programming-in-markdown/",
-          "title": "Stop Programming in Markdown",
-          "summary": "People are using LLMs inappropriately in situations where regular code would fare much better. The author argues that using natural language as a specification language for complex systems creates fragile, hard-to-maintain software."
-        },
-        {
-          "url": "https://thenextweb.com/news/qualcomm-dragonfly-meta-ai-data-center-chips-modular",
-          "title": "Qualcomm Announces Dragonfly C1000 Server Chip",
-          "summary": "The Dragonfly C1000 is a general-purpose server processor designed to compete in AI data center workloads. Expected to be available in 2028, it targets a market dominated by Nvidia and AMD."
-        },
-        {
-          "url": "https://links.tldrnewsletter.com/THIHOY",
-          "title": "Middlemen on Messaging Apps",
-          "summary": "Middlemen on messaging apps like Telegram, WeChat, and WhatsApp are offering access to people and services in exchange for fees, creating a shadow economy as messaging apps become infrastructure for commerce in many parts of the world."
-        },
-        {
-          "url": "https://rico.codes/loops-not-prompts",
-          "title": "Writing Loops, Not Prompts",
-          "summary": "Automate the parts of prompting that you keep repeating, and keep judgment close to the parts that require it. Loops compound; prompts don't. The author shows how building small automated feedback cycles outperforms one-shot prompting."
-        },
-        {
-          "url": "https://zackproser.com/blog/build-agents-that-open-prs",
-          "title": "Build Agents That Open PRs",
-          "summary": "A tutorial on building AI coding agents that automate the creation of GitHub pull requests, reducing developer toil on routine code changes."
-        },
-        {
-          "url": "https://posthog.com/blog/sql-parser",
-          "title": "Lessons Learned Rewriting PostHog's SQL Parser",
-          "summary": "Lessons learned when rewriting PostHog's SQL parser using multiple Claude Code sessions running in parallel. The rewrite achieved a massive speed improvement and reduced parser complexity significantly."
-        }
-      ]
-    },
-    {
       "name": "TLDR AI",
       "articles": [
         {
+          "title": "Jalapeño: Openai's NEW Chip",
           "url": "https://links.tldrnewsletter.com/5CNKgV",
-          "title": "OpenAI and Broadcom Unveil Jalapeño Chip",
-          "summary": "OpenAI and Broadcom unveiled Jalapeño, the first accelerator in a planned family of LLM inference chips optimized for performance per watt. The chip is designed specifically for the inference workloads that dominate AI deployment costs."
+          "summary": "OpenAI and Broadcom unveiled Jalapeño, the first accelerator in a planned family of LLM inference chips optimized for performance per watt and rapid deployment. The companies said the processor was designed in nine months with AI-assisted development and is intended for gigawatt-scale data center deployments."
         },
         {
-          "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals",
-          "title": "AI Researchers Continue to Leave Google for Its Rivals",
-          "summary": "Bloomberg reported that Gemini researchers Jonas Adler and Alexander Pritzel left Google for Anthropic, continuing a trend of top AI talent departures from the search giant. The departures underscore the competitive pressure Google faces in retaining researchers who can command significant packages elsewhere."
+          "title": "Gemini Researchers Join Anthropic",
+          "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/?utm_source=tldrai",
+          "summary": "Bloomberg reported that Gemini researchers Jonas Adler and Alexander Pritzel left Google for Anthropic, continuing a wave of high-profile AI talent departures. The trend followed recent exits by Noam Shazeer and DeepMind director John Jumper amid increasing competition between leading AI companies."
         },
         {
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-model-updates-june-2026/",
-          "title": "Gemini 3.5 Flash Gets Native Computer Use",
-          "summary": "Google launched native computer-use capabilities for Gemini 3.5 Flash, allowing the lightweight model to interact with computer interfaces directly. The feature enables Gemini to complete agentic tasks by controlling browsers and desktop applications."
+          "title": "Introducing Computer USE on Gemini 3.5 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=tldrai",
+          "summary": "Google launched native computer-use capabilities for Gemini 3.5 Flash, allowing the lightweight model to interact directly with digital desktop interfaces. The model processes continuous screenshots to execute click, scroll, and typing actions seamlessly across varied software environments."
         },
         {
-          "url": "https://educatedguesswork.org/posts/notes-amazon-perplexity/",
-          "title": "Notes on Amazon and Perplexity",
-          "summary": "Amazon is suing Perplexity for breaking the Amazon Store's Conditions of Use as Perplexity's Comet browser circumvented Amazon's anti-scraping protections. The lawsuit highlights growing tension between AI-powered browsers that reformat the web and the platforms that depend on controlling their interfaces."
+          "title": "Notes on Amazon V. Perplexity",
+          "url": "https://educatedguesswork.org/posts/notes-amazon-perplexity/?utm_source=tldrai",
+          "summary": "Amazon is suing Perplexity for breaking the Amazon Store's Conditions of Use as Perplexity's Comet browser circumvents the requirement to clearly identify itself as an agent and instead identifies itself as Chrome. The idea that Perplexity's client needs to behave in a certain way goes against the basic principles of the open Web, which are about user control. The increased user agency of the open Web is what distinguishes it from downloadable apps. Sites have historically attempted all kinds of technical measures to prevent users from experiencing their content on their terms, but at the end of the day, the site is rendered on the client, so users mostly have the ability to download a client that renders the site in the way they prefer. Agentic browsing is just another browser feature that lets users engage with the Web on their terms."
         },
         {
-          "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-          "title": "GLM-5.2 Is the Step Change for Open Agents",
-          "summary": "GLM-5.2 seemed like an incremental update, but the small change in benchmarks and training approaches opens the door for real open-source agent systems that can match proprietary alternatives on agentic tasks."
+          "title": "Glm-5.2 is the Step Change for Open Agents",
+          "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open?utm_source=tldrai",
+          "summary": "GLM-5.2 seemed like an incremental update, but the small change in benchmarks and training opened up a wide range of new use-cases. It feels right at home in coding harnesses as a general agent. Many in the AI community have praised the model after using it personally."
         },
         {
-          "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-          "title": "Nvidia Launches NeMo AutoModel on Hugging Face",
-          "summary": "NVIDIA launched NeMo AutoModel on Hugging Face to optimize the fine-tuning pipelines of massive AI models. The tool automates hyperparameter selection and training configuration, reducing the expertise required to fine-tune large language models."
+          "title": "Accelerating Transformers Fine-Tuning with Nvidia Nemo Automodel",
+          "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel?utm_source=tldrai",
+          "summary": "NVIDIA launched NeMo AutoModel on Hugging Face to optimize the fine-tuning pipelines of massive Mixture-of-Experts (MoE) architectures like Qwen3 and DeepSeek V3. The framework introduces Expert Parallelism and DeepEP fused communication kernels to distribute specialized expert weights dynamically across GPU clusters. Benchmark results demonstrate up to a 3.7x increase in training throughput alongside a 32% reduction in peak GPU memory usage compared to native Transformers v5 libraries."
         },
         {
-          "url": "https://flat-splat.github.io/",
-          "title": "FLAT: Triangle Splats From Video Diffusion Latents",
-          "summary": "Google's FLAT introduces a feedforward method that decodes triangle splats directly from video diffusion latents, enabling fast 3D reconstruction from video without per-scene optimization."
+          "title": "Triangle Splats from Video Diffusion Latents",
+          "url": "https://flat-splat.github.io/?utm_source=tldrai",
+          "summary": "Google's FLAT introduces a feedforward method that decodes triangle splats directly from video diffusion latents, improving geometric accuracy over 3D Gaussian-based approaches."
         },
         {
-          "url": "https://arxiv.org/abs/2606.24597",
-          "title": "Qwen-AgentWorld",
-          "summary": "Alibaba introduced Qwen-AgentWorld, a family of language world models trained on more than 100 million agent trajectories. The models are designed to simulate environment dynamics and serve as world models for training AI agents."
+          "title": "Qwen-Agentworld",
+          "url": "https://arxiv.org/abs/2606.24597?utm_source=tldrai",
+          "summary": "Alibaba introduced Qwen-AgentWorld, a family of language world models trained on more than 10 million environment interaction trajectories to simulate agentic environments across multiple domains."
         },
         {
-          "url": "https://github.com/stablyai/orca",
-          "title": "Orca: AI Coding Agent",
-          "summary": "An open-source AI coding agent by Stably AI that assists with software development tasks directly in the terminal."
-        },
-        {
+          "title": "As AI Companies Race for Power, Amazon and Google Have the Lead",
           "url": "https://links.tldrnewsletter.com/qn992D",
-          "title": "Amazon's Nuclear Energy Advantage",
-          "summary": "Amazon has an incumbent advantage in the race for hyperscalers to get their hands on more electricity from nuclear sources, thanks to early deals and existing relationships with nuclear operators that competitors are now scrambling to replicate."
+          "summary": "Amazon has an incumbent advantage in the race for hyperscalers to get their hands on more electricity. It has been building tons of data centers over the past two decades. The company is expected to add the most data center and power capacity in the US through 2030. However, Google will have significantly closed its gap with Amazon by that time."
         },
         {
-          "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
-          "title": "Anthropic and Alibaba Collaborate on Distillation",
-          "summary": "Anthropic and Alibaba have initiated a collaborative open-source framework focused on distilling large AI models into smaller, more efficient versions that can run on commodity hardware without sacrificing significant capability."
+          "title": "Anthropic and Alibaba Launch Joint AI Model Distillation Campaign",
+          "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html?utm_source=tldrai",
+          "summary": "Anthropic and Alibaba have initiated a collaborative open-source framework focused on distilling advanced reasoning intelligence from frontier models into hyper-efficient edge models. The partnership leverages Anthropic's safety-alignment techniques alongside Alibaba's massive cloud infrastructure to compress compute footprints without severe capability degradation."
         },
         {
-          "url": "https://threadreaderapp.com/thread/2069822346781761813.html",
-          "title": "Claude Code Hints at Memory Return",
-          "summary": "Claude Code v2.2.190 introduces several string changes that hint at preparations for the return of memory features. The changes suggest Anthropic is working on persistent memory capabilities that would allow Claude Code to remember context across sessions."
+          "title": "Fable 5 has now Reportedly also Reappeared in Amazon Bedrock",
+          "url": "https://threadreaderapp.com/thread/2069822346781761813.html?utm_source=tldrai",
+          "summary": "Claude Code v2.2.190 introduces several string changes that hint at preparations for the return of Fable 5."
         },
         {
+          "title": "Anthropic Veterans' Startup Seeks to Help Scientists Develop their OWN AI",
           "url": "https://links.tldrnewsletter.com/mIKj9L",
-          "title": "Mirendil Raises $200M to Fund Own AI Research",
-          "summary": "Mirendil has raised $200 million in seed funding to make and distribute AI that accelerates AI research itself. The company's thesis is that AI can dramatically compress the timeline for fundamental AI discoveries."
+          "summary": "Mirendil has raised $200 million in seed funding to make and distribute AI that accelerates AI research for everyone."
         },
         {
+          "title": "Openai Updates GPT-5.5 Instant to Make Chatgpt More Natural and Useful",
           "url": "https://links.tldrnewsletter.com/BN2kzt",
-          "title": "GPT-5.5 Instant Rollout",
-          "summary": "OpenAI has initiated the rollout of an upgraded GPT-5.5 Instant model directly inside ChatGPT, offering faster response times and improved performance on everyday tasks compared to the previous Instant tier."
+          "summary": "OpenAI has initiated the rollout of an upgraded GPT-5.5 Instant model directly inside ChatGPT for both paid and free tiers."
         },
         {
-          "url": "https://www.perplexity.ai/hub/blog/introducing-computer-for-counsel",
           "title": "Perplexity Computer for Counsel",
-          "summary": "Perplexity launched Computer for Counsel, an AI-driven legal operations tool designed to automate legal research and document workflows for law firms and corporate legal departments."
+          "url": "https://www.perplexity.ai/hub/blog/introducing-computer-for-counsel?utm_source=tldrai",
+          "summary": "Perplexity launched Computer for Counsel, an AI-driven legal operations tool designed to automate administrative research, document gathering, and contract triage."
         }
       ]
     },
     {
-      "name": "TLDR Information Security",
+      "name": "TLDR InfoSec",
       "articles": [
         {
-          "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
-          "title": "Fortibleed Credential Harvesting Campaign",
-          "summary": "A Russian-speaking initial access broker has run FortiBleed since February, brute-forcing over 430,000 FortiGate firewalls to harvest credentials. The campaign targets unpatched devices and sells access to ransomware groups."
+          "title": "Fortibleed Targeted Fortigate Firewalls in 110 Million-Credential Harvesting Operation",
+          "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html?utm_source=tldrinfosec",
+          "summary": "A Russian-speaking initial access broker has run FortiBleed since February, brute-forcing over 430,000 FortiGate firewalls and deploying FortigateSniffer to capture credentials across 24 protocols, feeding a Golang-based CyberStrike Harvester pipeline that cracks hashes via Hashcat/Hashtopolis, ranks targets by economic value, and resells access while repeating planted username/password pairs across thousands of devices."
         },
         {
+          "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
           "url": "https://links.tldrnewsletter.com/1F9KfQ",
-          "title": "Zafran Discloses DifyTap Vulnerabilities in Dify",
-          "summary": "Zafran Security disclosed DifyTap, four flaws in the open-source LLMOps platform Dify. The vulnerabilities could allow attackers to compromise AI pipelines built on the platform and exfiltrate model data."
+          "summary": "Zafran Security disclosed DifyTap, four flaws in the open-source LLMOps platform Dify (CVE-2026-41947, CVSS 9.1, in tracing config lacking tenant validation; CVE-2026-41948, CVSS 9.4, in the plugin daemon enabling arbitrary API access and path traversal; and high-severity CVE-2026-41949 and CVE-2026-41950 in file identification and permissions) that let any signed-up console user read other tenants' chats, files, and internal APIs across multi-tenant cloud deployments, fixed in Dify 1.14.2 with a WAF rule recommended for CVE-2026-41948."
         },
         {
-          "url": "https://gbhackers.com/modelorat-and-mistic-backdoor/",
-          "title": "ModeloRAT and Mistic Backdoor",
-          "summary": "Symantec and Zscaler tie the Python-based ModeloRAT, delivered via WinPython and run via a signed Python binary, to a suspected Chinese APT. The backdoor uses the Mistic framework for command and control evasion."
+          "title": "Modelorat and Mistic Backdoor Activity Linked to Ransomware Initial Access Broker",
+          "url": "https://gbhackers.com/modelorat-and-mistic-backdoor/?utm_source=tldrinfosec",
+          "summary": "Symantec and Zscaler tie the Python-based ModeloRAT (WinPython-delivered, run via signed pythonw[.]exe with RC4 C2) and the new in-memory, disk-less Backdoor.Mistic (DLL-sideloaded as EndpointDlp.dll via MpExtMs[.]exe, hooking GetModuleFileNameW and LoadLibraryW, with a self-delete kill switch) to financially motivated access-broker Woodgnat (aka KongTuke), whose ClickFix/FileFix/CrashFix and Microsoft Teams helpdesk \"paste-and-run\" lures have seeded Qilin, Interlock, Rhysida, Akira, 8Base, and Black Basta ransomware, so defenders should hunt EndpointDlp.dll loads by MpExtMs.exe, remote-tool-named Run-key persistence, and signed pythonw.exe executing unknown scripts."
         },
         {
-          "url": "https://novee.security/blog/cordyceps/",
-          "title": "Cordyceps Malware",
-          "summary": "A technical analysis of the Cordyceps malware family, detailing its infection mechanisms and persistence techniques used in recent enterprise intrusions."
+          "title": "Cordyceps: the Silent Parasite Consuming Your Supply Chain",
+          "url": "https://novee.security/blog/cordyceps/?utm_source=tldrinfosec",
+          "summary": "Novee's team mapped CI/CD workflow bugs across roughly 30,000 prominent open‑source repositories and confirmed over 300 exploitable chains in GitHub Actions pipelines used by Microsoft, Google, Apache, Cloudflare, and the Python Software Foundation. Attackers with a free GitHub account can trigger workflows via pull requests or comments to run arbitrary code, steal long‑lived tokens, and push modified artifacts into production paths such as Azure Sentinel content, Google Cloud projects, Apache Doris builds, Cloudflare Workers tooling, and Black's Docker images, reaching thousands of downstream environments."
         },
         {
-          "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
-          "title": "J&J Web App Hacks",
-          "summary": "A detailed breakdown of security vulnerabilities discovered in Johnson & Johnson web applications, covering the research methodology and disclosure process."
+          "title": "Exploiting Vulnerabilities in Johnson & Johnson WEB Apps",
+          "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/?utm_source=tldrinfosec",
+          "summary": "Johnson & Johnson's campus recruiting site exposed nearly 1,000 students because client-side Microsoft Authentication Library (MSAL) checks could be bypassed and AWS APIs accepted a hardcoded key. The Audit Tracking Management System (ATMS) app exposed user lists, session creation, and admin access via unauthenticated APIs and local-storage spoofing. The reporter says the ATMS was fixed only after a journalist contacted JnJ, and the published timeline shows delays from October 2025 to April 2026."
         },
         {
-          "url": "https://www.papermtn.co.uk/detecting-misuse-with-the-claude-compliance-api/",
-          "title": "Detecting Misuse With Claude Compliance API",
-          "summary": "In a previous post in this series, the author introduced an SDK to ingest Claude Compliance API events into a SIEM. This post extends that work to build detection rules for identifying misuse patterns in Claude API traffic."
+          "title": "Detecting Misuse with the Claude Compliance API: the Threat is in the Content",
+          "url": "https://www.papermtn.co.uk/detecting-misuse-with-the-claude-compliance-api-the-threat-is-in-the-content/?utm_source=tldrinfosec",
+          "summary": "In a previous post in this series, the author introduced an SDK to ingest Claude Compliance API events into a SIEM. When teams map these events to a common data model, they can leverage existing detections they've built that operate on that model. The post then suggests some specific detections to write for Claude. However, the tricky part is that the alerts need to detect intent rather than just rely on regexes. The author proposes a workflow that prefilters content and then sends it to an LLM-as-judge before creating a SIEM event."
         },
         {
+          "title": "Anthropic's Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says",
           "url": "https://links.tldrnewsletter.com/eapkBa",
-          "title": "Anthropic's Mythos Model Finds Government Vulnerabilities",
-          "summary": "A US official says Anthropic's Mythos model, tested with intelligence agencies under a classified project, was able to identify cybersecurity vulnerabilities in government systems at a rate that impressed analysts."
+          "summary": "A US official says Anthropic's Mythos model, tested with intelligence agencies under Project Glasswing, quickly found vulnerabilities in classified systems but was not shown to exploit them. The Trump administration responded with directives limiting Anthropic's latest models, including export controls and access restrictions for foreign users, prompting the company to take models offline and cybersecurity leaders to argue that removing these tools may weaken US defenses against adversaries."
         },
         {
-          "url": "https://www.wiz.io/blog/ai-rewriting-secops-playbook",
-          "title": "How AI Is Rewriting the SecOps Playbook",
-          "summary": "As AI compresses the gap between vulnerability disclosure and exploitation to minutes, the SecOps playbook must change. Wiz outlines how security operations teams need to rethink detection, response, and remediation timelines."
+          "title": "IBM, RED HAT, Palo Alto Team to Secure Open-Source Software",
+          "url": "https://www.networkworld.com/article/4189077/ibm-red-hat-palo-alto-team-to-secure-open-source-software.html?utm_source=tldrinfosec",
+          "summary": "IBM, its Red Hat subsidiary, and Palo Alto Networks are pairing Palo Alto's network-based virtual patching from Prisma with IBM/Red Hat's Project Lightwell remediation effort, enabling enterprises to receive preemptive virtual patches before official fixes ship and to deploy network-level protections the same day a vulnerability surfaces. The pitch leans on Nikesh Arora's framing that AI has collapsed the discovery-to-exploit window from weeks to minutes, positioning network-layer defense as the answer when traditional patching cannot keep pace, with early adopters concentrated among major banks and payment networks (Bank of America, Citi, Goldman Sachs, JPMorgan Chase, Mastercard, Visa, and others). The strategic signal: vulnerability intelligence and anonymized exploitation telemetry are becoming a subscription-monetized security coordination layer, extending the existing IBM/Palo Alto alliance that already spans quantum-safe readiness and AI risk assessment."
         },
         {
-          "url": "https://www.csoonline.com/article/4188623/meta-pauses-employee-monitoring-initiative.html",
-          "title": "Meta Pauses Employee Monitoring Initiative",
-          "summary": "Meta halted its April Model Compatibility Initiative, which captured employee keystrokes, screen activity, and browsing behavior. The pause came after internal backlash and questions about the legality of the data collection program."
+          "title": "How AI is Rewriting the Secops Playbook",
+          "url": "https://www.wiz.io/blog/ai-rewriting-secops-playbook?utm_source=tldrinfosec",
+          "summary": "As AI compresses the gap between vulnerability disclosure and exploitation to minutes, the SecOps model of gathering context after an alert fires becomes untenable, so context must be assembled continuously and beforehand across three layers: model (invocation logs surfacing prompt injection and data exposure), workload (runtime telemetry), and cloud (machine identities and delegated permissions used by AI agents). AI asymmetrically favors defenders, who can reason over inside-out context (asset inventories, identity relationships, source code, and business function) that attackers operating outside-in cannot replicate, shifting investigation from \"did something unusual happen?\" to \"did this workload do something it was never designed to do?\""
         },
         {
-          "url": "https://www.defenseone.com/policy/2026/06/nsa-mythos-anthropic-supply-chain/823694/",
-          "title": "NSA Employees Lose Access to Anthropic's Mythos 5",
-          "summary": "Parts of the NSA lost access to Anthropic's Mythos 5 after the Trump administration imposed export controls on advanced AI models. The restrictions complicate ongoing efforts to use commercial AI tools for signals intelligence work."
-        }
-      ]
-    },
-    {
-      "name": "TLDR Web Dev",
-      "articles": [
-        {
-          "url": "https://posthog.com/blog/sql-parser",
-          "title": "Rewriting PostHog's SQL Parser With AI",
-          "summary": "A new SQL parser for PostHog was developed using AI, with a huge speed improvement compared to the previous system. The author describes using Claude Code to generate and iterate on parser code, significantly cutting development time."
+          "title": "Indian Auto Giant Bajaj Auto HIT by Ransomware Incident",
+          "url": "https://therecord.media/indian-auto-giant-bajaj-auto-hit-by-ransomware?utm_source=tldrinfosec",
+          "summary": "Bajaj Auto, India's largest vehicle maker and the world's biggest three-wheeler manufacturer, disclosed in a regulatory filing that ransomware hit systems at the company and its Bajaj Auto Technology Limited subsidiary."
         },
         {
-          "url": "https://www.skovhus.dev/blog/moving-linear-from-styled-components-to-stylex",
-          "title": "Linear Moves From styled-components to StyleX",
-          "summary": "Linear is transitioning from styled-components to StyleX for its React apps primarily to improve performance. The post covers the migration strategy and the measurable gains in bundle size and runtime CSS application."
+          "title": "Meta Pauses Employee Monitoring Program after Data Protections Fail",
+          "url": "https://www.csoonline.com/article/4188623/meta-pauses-employee-monitoring-program-after-data-protections-fail.html?utm_source=tldrinfosec",
+          "summary": "Meta halted its April Model Compatibility Initiative, which captured employee keystrokes, screen content, full prompts, private conversations, and performance data for AI training, after unauthorized staff accessed the restricted dataset twice (including after a claimed four-hour fix)."
         },
         {
-          "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
-          "title": "Lies, Damn Lies, and Database Benchmarks",
-          "summary": "QuestDB is an open-source time-series database designed for high-performance applications, known for pushing benchmarks. This post unpacks how database benchmarks can mislead, covering the common tricks vendors use to inflate numbers."
-        },
-        {
-          "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-          "title": "Stealing Is a Skill",
-          "summary": "Stealing, or creatively borrowing from others, is a skill. Learning from others' creations can improve one's own perspective, and the best designers and engineers systematically study the work they admire."
-        },
-        {
-          "url": "https://adamtornhill.substack.com/p/an-opinionated-and-mainly-correct",
-          "title": "An Opinionated and Mainly Correct Guide",
-          "summary": "An opinionated guide to software engineering practices, covering code organization, team dynamics, and how to make decisions that hold up over time."
-        },
-        {
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-model-updates-june-2026/",
-          "title": "Gemini 3.5 Flash Computer Use",
-          "summary": "Gemini 3.5 Flash now has integrated computer use capabilities that improve agentic tasks and enable developers to automate browser workflows. The feature is available via the Gemini API and is designed to be efficient enough for production use."
-        },
-        {
-          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection",
-          "title": "Prompt Injection Explained",
-          "summary": "Prompt injection is a vulnerability in LLMs coming from their inability to effectively distinguish between instructions and data. The post gives a mechanistic explanation of why current architectures are fundamentally susceptible to this attack."
-        },
-        {
-          "url": "https://archive.is/T1FJG",
-          "title": "Why Big AI Labs Are Hiring So Many Philosophers",
-          "summary": "Major AI labs are increasingly hiring philosophers to address the complex ethical and operational challenges inherent in AI development. The piece examines what philosophers actually do at these companies and whether it changes the products they ship."
-        },
-        {
-          "url": "https://expo.dev/blog/how-to-apply-professional-design-principles-in-ai-apps",
-          "title": "How to Apply Professional Design Principles in AI Apps",
-          "summary": "In AI app development, applying professional design principles is crucial for creating visually appealing and user-friendly interfaces. The post covers typography, spacing, hierarchy, and how to handle AI's inherently unpredictable output within a polished UI."
-        },
-        {
-          "url": "https://datatracker.ietf.org/doc/rfc10008/",
-          "title": "The HTTP QUERY Method",
-          "summary": "The newly proposed HTTP QUERY method is a safe and idempotent request method allowing clients to make complex queries with a request body. It fills a gap in HTTP semantics that previously forced developers to use POST for read-only search operations."
-        },
-        {
-          "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/",
-          "title": "The Invention of Spell Checkers",
-          "summary": "Tony Krueger, who improved spelling and grammar checking in word processors by introducing the red underline feature, shares the history of how real-time spell checking was invented and how it became universal in software."
-        }
-      ]
-    },
-    {
-      "name": "TLDR Marketing",
-      "articles": [
-        {
-          "url": "https://theconversation.com/the-hidden-burnout-crisis-facing-social-media-marketers-283261",
-          "title": "The Hidden Burnout Crisis Facing Social Media Marketers",
-          "summary": "More than 40% of social media marketers plan to leave their jobs within two years, and nearly half say they get little supervisor support. The research points to always-on expectations and the emotional labor of managing brand presence as primary drivers."
-        },
-        {
-          "url": "https://forbusiness.snapchat.com/blog/how-snapchat-builds-brands",
-          "title": "How Snapchat Builds Brands",
-          "summary": "Meaningful engagement matters more than raw reach. Snapchat's research found that users who view their time on a platform as quality time engage more deeply with ads and develop stronger brand recall than users on platforms they feel are wasting their time."
-        },
-        {
-          "url": "https://app.sciencesays.com/p/gamify-your-product-promotions",
-          "title": "Gamify Your Product Promotions",
-          "summary": "Gamified promotions can increase purchase intent for fun and hedonic products by turning discounts into a playful challenge. The research shows that effort-based rewards feel more earned and drive stronger positive brand associations."
-        },
-        {
-          "url": "https://www.linkedin.com/posts/lukeshalom_reach-is-a-vanity-metric/",
-          "title": "Reach Is Not a Vanity Metric",
-          "summary": "The 'reach is a vanity metric' idea is challenged here. Reach matters when it's intentional and tied to funnel design — broad reach to the right audience at the top of the funnel drives compounding returns that engagement metrics alone can't capture."
-        },
-        {
-          "url": "https://www.linkedin.com/posts/dbusta_you-dont-need-to-spend-hours-on-a-weekly-email/",
-          "title": "You Don't Need to Spend Hours on a Weekly Email",
-          "summary": "A short weekly email can be written in 15 minutes by curating 3-5 of the best social posts from the week. The post makes the case that consistency beats production value for most newsletters, and that over-engineering your email is a reason people don't start."
-        },
-        {
-          "url": "https://userevidence.com/vibe-coding-marketing-report/",
-          "title": "Vibe Coding Marketing Report",
-          "summary": "AI code generation has gone mainstream in marketing fast. 41% of marketers say it's already embedded in their workflows, primarily for building landing pages, internal tools, and campaign automations without engineering support."
-        },
-        {
-          "url": "https://www.chiefmarketer.com/gartner-cmo-spend-survey-budgets-reflect-martech-at-five-year-low/",
-          "title": "Martech Spend Hits 5-Year Low",
-          "summary": "Martech spending hit a 5-year low as a share of marketing budgets in 2026, dropping to 19% from previous highs. CMOs are consolidating tools rather than expanding stacks, with AI features folded into existing platforms reducing the case for new point solutions."
-        },
-        {
-          "url": "https://www.marketingbrew.com/stories/harris-poll-ai-fatigue-less-trust-ai-generated-ads",
-          "title": "AI Fatigue in Consumers",
-          "summary": "65% of consumers wish brands would stop mentioning AI in their marketing, and 63% say they'd be less likely to trust AI-generated ads. The Harris Poll findings suggest AI as a marketing message has peaked and is now actively hurting brand perception for many audiences."
+          "title": "Parts of NSA Lose Mythos 5 Access after White House Imposes Limits",
+          "url": "https://www.defenseone.com/policy/2026/06/nsa-mythos-anthropic-supply-chain/414371/?utm_source=tldrinfosec",
+          "summary": "Parts of the NSA lost access to Anthropic's Mythos 5 after the Trump administration imposed export controls citing national-security concerns."
         }
       ]
     },
@@ -313,59 +148,264 @@
       "name": "TLDR Design",
       "articles": [
         {
-          "url": "https://www.creativebloq.com/art/animation/new-warner-bros-animation-logo-annecy-2026",
-          "title": "Warner Bros. Unveils New Animation Logo",
-          "summary": "Warner Bros. unveiled a new flat-design Animation logo at Annecy, featuring a simplified WB shield and Tweety flying alongside it. The redesign modernizes the brand while retaining enough nostalgia to feel familiar to audiences who grew up with the classic logo."
+          "title": "Delightful NEW Warner Bros Animation Logo Reveal is the Perfect Antidote to CGI Saturation",
+          "url": "https://www.creativebloq.com/art/animation/new-warner-bros-animation-logo-reveal-is-the-perfect-antidote-to-cgi-saturation?utm_source=tldrdesign",
+          "summary": "Warner Bros. unveiled a new flat-design Animation logo at Annecy, featuring a simplified WB shield and Tweety flying alongside it, inspired by traditional hand-drawn animation rather than CGI aesthetics. The logo, which debuted in an animated reveal celebrating the animation process, has been well-received by fans. It accompanies Warner Bros. Animation's upcoming 2026–2028 slate that includes projects such as Tom & Jerry, ThunderCats, Meerkats, and The Cat in the Hat."
         },
         {
-          "url": "https://9to5mac.com/2026/06/24/iphone-ultra-3d-printed-hinge-problem-resolved/",
-          "title": "Foldable iPhone Ultra Back on Track for September",
-          "summary": "Reports suggest Apple's foldable iPhone Ultra is back on track for a September unveiling after resolving 3D-printed hinge problems that had threatened to delay mass production."
+          "title": "Iphone Ultra 3d-Printed Hinge Problems Reportedly Solved, Ready for September Launch",
+          "url": "https://9to5mac.com/2026/06/24/iphone-ultra-3d-printed-hinge-problems-reportedly-solved-ready-for-september-launch/?utm_source=tldrdesign",
+          "summary": "Reports suggest Apple's foldable iPhone Ultra is back on track for a September unveiling after engineers resolved durability and manufacturing issues with its 3D-printed hinge, including noise during stress testing and assembly tolerance problems. The device has now entered test production. Recent supply-chain sources indicate Apple remains on schedule to launch its first foldable iPhone shortly after its expected September announcement."
         },
         {
-          "url": "https://www.computerworld.com/article/4186410/adobe-new-firefly-graph-can-turn-creative-cloud-into-a-workflow-engine.html",
-          "title": "Adobe Launches Firefly Graph for Creative Cloud",
-          "summary": "Adobe has launched Firefly Graph for Creative Cloud customers, a node-based workflow tool that connects creative assets with AI generation steps. It lets designers build repeatable production pipelines that combine Photoshop, Illustrator, and Firefly in automated sequences."
+          "title": "Adobe: NEW Firefly Graph CAN Turn Creative Workflows into Reusable Assets",
+          "url": "https://www.computerworld.com/article/4186410/adobe-new-firefly-graph-can-turn-creative-workflows-into-reusable-assets.html?utm_source=tldrdesign",
+          "summary": "Adobe has launched Firefly Graph for Creative Cloud customers, a node-based workflow tool that lets users chain AI-powered tasks — such as image generation, background removal, and upscaling — into reusable, shareable processes. With access to over 300 node types spanning Adobe and third-party tools from Google and OpenAI, it aims to solve the problem of complex creative workflows that are hard to replicate. Unlike standalone tools such as ComfyUI, Adobe's advantage lies in deep integration across its product suite, from Creative Cloud apps to Firefly Boards and Firefly Creative Production."
         },
         {
-          "url": "https://southleft.substack.com/p/my-beef-with-agentic-design-systems",
-          "title": "My Beef With Agentic Design Systems",
-          "summary": "A critique of the emerging wave of AI-driven design systems that claim to generate and maintain components autonomously, arguing they create more fragility than they solve."
+          "title": "MY Beef with Agentic Design Systems",
+          "url": "https://southleft.substack.com/p/my-beef-with-agentic-design-systems?utm_source=tldrdesign",
+          "summary": "\"Agentic design systems\" promise autonomous AI loops that self-heal and generate components — but the real danger isn't the agents, it's removing human ownership from the judgment layer. Design systems are fundamentally governance technologies encoding collective decisions that organizations remain accountable for, meaning no agent loop can replace the human who owns what \"pass\" means. Agents belong between the gates, handling generation and conformance checking, while humans must own every gate — otherwise the result is just confident, unowned drift dressed in system authority."
         },
         {
-          "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
-          "title": "Organising Documentation for Humans and AI",
-          "summary": "As AI agents increasingly read and act on documentation alongside humans, the structure, naming conventions, and metadata of docs need to serve two very different audiences at once."
+          "title": "Your Documentation is Still in Your Mum's Filing Cabinet",
+          "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/?utm_source=tldrdesign",
+          "summary": "Traditional folder-based documentation systems — inherited from physical filing cabinets and unchanged for 50 years — force knowledge into single locations, making it hard to find. People naturally forage for information through search, links, and colleagues rather than navigating hierarchies, while AI retrieves content by meaning and context, not file location. The solution isn't better-labeled folders, but interconnected, multi-path knowledge systems discoverable through search, tagging, metadata, and semantic relationships."
         },
         {
-          "url": "https://thedesignersfieldguide.substack.com/p/how-accepting-just-build-this-thing",
-          "title": "How Accepting 'Just Build This Thing' Changed Design",
-          "summary": "As AI tools make it easier for stakeholders to arrive with polished solutions already in hand, designers risk being sidelined. The author argues for a new kind of design advocacy that engages earlier and reframes the designer's role around judgment rather than execution."
+          "title": "How Accepting “just Build this Thing” CAN Hurt Your Design Career",
+          "url": "https://thedesignersfieldguide.substack.com/p/how-accepting-just-build-this-thing?utm_source=tldrdesign",
+          "summary": "As AI tools make it easier for stakeholders to arrive with polished solutions already in hand, designers risk being reduced to executors unless they actively challenge assumptions, clarify business goals, and help define the problem before designing the solution. Long-term career success increasingly depends on demonstrating strategic thinking—understanding outcomes, questioning briefs, and bringing independent judgment, rather than simply producing high-quality design outputs."
         },
         {
-          "url": "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/",
-          "title": "A Consistency of Excellence",
-          "summary": "Modern design systems have made visual consistency an end in itself, sacrificing the individual excellence of components. The author argues that the best design work achieves a different kind of consistency — one built from the inside out through shared craft values rather than shared tokens."
+          "title": "Consistency, but in Excellence not Appearance",
+          "url": "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/?utm_source=tldrdesign",
+          "summary": "Modern design systems have made visual consistency an end in itself, sacrificing the individual excellence that makes icons truly iconic. Rules about shapes, gradients, and lighting are easy to enforce but cap each element's potential, while genuine excellence demands judgment, taste, and sensitivity to context. Flipping the priority — pursuing excellence for each individual element — produces a richer, more meaningful consistency of quality and intention."
         },
         {
-          "url": "https://penpot.app/blog/designing-with-ai-why-claude-design-is-not-the-future-of-enterprise/",
-          "title": "Designing With AI: Why Claude Design Is Not the Future of Enterprise",
-          "summary": "Claude Design accelerates early-stage UI generation but lacks the depth enterprise teams need for production work. The post evaluates where AI design tools currently fall short on component consistency, design token handling, and handoff quality."
+          "title": "Designing with AI: why Claude Design is not the Future of Enterprise Design",
+          "url": "https://penpot.app/blog/designing-with-ai-why-claude-design-is-not-the-future-of-enterprise-design/?utm_source=tldrdesign",
+          "summary": "Claude Design accelerates early-stage UI generation but lacks the depth enterprise teams need for governance, scalability, and design system consistency. Its data living in Anthropic's proprietary ecosystem raises serious compliance concerns for industries like health and finance, while limited interoperability complicates handoffs between designers and developers. Enterprise AI design tools should instead prioritize open standards, data ownership, self-hosting, and MCP integration to maintain control and avoid vendor lock-in."
         },
         {
-          "url": "https://the-brandidentity.com/project/studio-gruhls-identity-for-rerun-is-hard-and-human/",
-          "title": "Studio Gruhl's Identity for Rerun",
-          "summary": "Studio Gruhl created a new identity for Rerun by rejecting the polished, futuristic aesthetic typically associated with tech brands. The result is a deliberately rough and human visual language that communicates authenticity in a space saturated with sameness."
+          "title": "Studio Gruhl's Identity for Rerun is Hard and Human at the Same Time",
+          "url": "https://the-brandidentity.com/project/studio-gruhls-identity-for-rerun-is-hard-and-human-at-the-same-time?utm_source=tldrdesign",
+          "summary": "Studio Gruhl created a new identity for Rerun by rejecting the polished, futuristic aesthetic typically associated with robotics and instead embracing the hands-on, workshop-like reality of building robots, reflected in a bolt-inspired wordmark and tactile visual details. The brand balances technical precision with human creativity through expressive data-driven gradients, restrained typography, and a design system intended to feel both systematic and playful, resonating with developers while remaining approachable."
         },
         {
-          "url": "https://webdesignerdepot.com/moving-beyond-ux-the-rise-of-the-agentic-experience-ax-designer/",
-          "title": "Moving Beyond UX: The Rise of Agentic Experience Design",
-          "summary": "Agentic Experience (AX) Design is an emerging discipline focused not on human-facing interfaces, but on designing for AI agents acting on behalf of users. The post outlines what AX designers need to think about: agent goals, failure modes, trust signals, and handoff points."
+          "title": "Moving Beyond UX: the Rise of the Agentic Experience (AX) Designer",
+          "url": "https://webdesignerdepot.com/moving-beyond-ux-the-rise-of-the-agentic-experience-ax-designer/?utm_source=tldrdesign",
+          "summary": "Agentic Experience (AX) Design is an emerging discipline focused not on human-facing interfaces, but on structuring the environments where autonomous AI agents operate — handling tasks across inboxes, CRMs, and databases without needing a traditional UI."
         },
         {
-          "url": "https://designyoutrust.com/2026/06/the-artist-perfectly-reimagining-movie-scenes-through-art-history/",
-          "title": "The Artist Perfectly Reimagining Movie Scenes Through Art History",
-          "summary": "Pop culture meets art history in the work of Norro Bey, who blends iconic movie scenes with classical painting styles. The series reimagines moments from blockbusters through the visual language of Renaissance, Baroque, and Impressionist masters."
+          "title": "The Artist Perfectly Reimagining Movie Scenes Through Classic Painting References",
+          "url": "https://designyoutrust.com/2026/06/the-artist-perfectly-reimagining-movie-scenes-through-classic-painting-references/?utm_source=tldrdesign",
+          "summary": "Pop culture meets art history in the work of Norro Bey, who blends iconic movie scenes with classic painting references into collage-style compositions."
+        },
+        {
+          "title": "Shunpei Kamiya Finds the Surreal, and the Funny, in Everyday Tokyo",
+          "url": "https://www.creativeboom.com/inspiration/shunpei-kamiya-turns-ordinary-tokyo-scenes-into-images-that-feel-slightly-wrong/?utm_source=tldrdesign",
+          "summary": "Tokyo-based illustrator Shunpei Kamiya transforms everyday Japanese scenes into surreal, thought-provoking images, blending manga influences, humor, and observations about modern life while championing the unique value of human-made illustration."
+        }
+      ]
+    },
+    {
+      "name": "TLDR Dev",
+      "articles": [
+        {
+          "title": "I Wrote a 70x Faster SQL Parser while Barely Looking at the Code",
+          "url": "https://posthog.com/blog/sql-parser?utm_source=tldrdev",
+          "summary": "A new SQL parser for PostHog was developed using AI, with a huge speed improvement compared to the previous C++ based ANTLR parser. The process involved using property-based testing for generating and validating test cases, alongside prompt engineering to guide the AI in implementing the parser. The resulting parser is a recursive-descent structure designed to handle SQL queries while maintaining compatibility with existing query structures."
+        },
+        {
+          "title": "Moving Linear from Styled‑components to Stylex",
+          "url": "https://www.skovhus.dev/blog/moving-linear-from-styled-components-to-stylex?utm_source=tldrdev",
+          "summary": "Linear is transitioning from styled-components to StyleX for its React apps primarily to improve performance, as styled-components has entered maintenance mode and does not support modern React features properly. The migration focuses on minimizing runtime style generation, enforcing stricter styling contracts, and guaranteeing predictable style merging."
+        },
+        {
+          "title": "Lies, Damn Lies, and Database Benchmarks",
+          "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/?utm_source=tldrdev",
+          "summary": "QuestDB is an open-source time-series database designed for high-performance applications, known for its ultra-low latency and considerable throughput capabilities. Benchmarking databases can often yield misleading results due to factors such as process persistence and the nature of query execution. Adjustments to benchmarking methods, such as allowing processes to remain active during queries or increasing iteration counts, can alter performance rankings."
+        },
+        {
+          "title": "Stealing is a Skill",
+          "url": "https://ben-mini.com/2026/stealing-is-a-skill?utm_source=tldrdev",
+          "summary": "Stealing, or creatively borrowing from others, is a skill. Learning from others' creations can improve one's own perspective and problem-solving abilities."
+        },
+        {
+          "title": "An Opinionated (and Mainly Correct) Guide to Naming",
+          "url": "https://adamtornhill.substack.com/p/an-opinionated-and-mainly-correct?utm_source=tldrdev",
+          "summary": "Good naming in software improves communication across teams, reduces debugging time, and supports both human understanding and AI code comprehension."
+        },
+        {
+          "title": "Introducing Computer USE in Gemini 3.5 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=tldrdev",
+          "summary": "Gemini 3.5 Flash now has integrated computer use capabilities that improve agentic tasks and enable developers to build custom automation agents."
+        },
+        {
+          "title": "A Mechanistic Explanation of Prompt Injection (and why YOU Should Study Roles)",
+          "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you?utm_source=tldrdev",
+          "summary": "Prompt injection is a vulnerability in LLMs coming from their inability to effectively distinguish between various roles, like user commands and internal reasoning, within the input token stream. Role tags such as 'user', 'assistant', and 'think' are intended to provide structure, but models tend to incorrectly assess authority based on the style of the text rather than the assigned tags, leading to situations where harmful commands are executed due to role confusion."
+        },
+        {
+          "title": "Why BIG AI Labs are Hiring so Many Philosophers",
+          "url": "https://archive.is/T1FJG?utm_source=tldrdev",
+          "summary": "Major AI labs are increasingly hiring philosophers to address the complex ethical and operational challenges inherent in artificial intelligence. By applying frameworks like deontology and fostering critical reasoning, these experts improve AI decision-making while creating new career opportunities for individuals with philosophical backgrounds."
+        },
+        {
+          "title": "How to Apply Professional Design Principles in AI APP Development",
+          "url": "https://expo.dev/blog/how-to-apply-professional-design-principles-in-ai-app-development?utm_source=tldrdev",
+          "summary": "In AI app development, applying professional design principles is crucial for creating visually distinctive and engaging applications. Key design principles such as contrast, hierarchy, alignment, and white space can significantly enhance usability and aesthetic appeal, helping apps stand out in a crowded market dominated by simplistic, template-based designs. By combining persistent effort and design expertise, developers can refine AI-generated designs, ensuring a more polished and unique user experience."
+        },
+        {
+          "title": "Openai Unveils its First Custom Chip, Built by Broadcom",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/?utm_source=tldrdev",
+          "summary": "OpenAI has introduced its first custom AI inference processor, named Jalapeño, developed in collaboration with Broadcom."
+        },
+        {
+          "title": "The HTTP Query Method",
+          "url": "https://datatracker.ietf.org/doc/rfc10008/?utm_source=tldrdev",
+          "summary": "The newly proposed HTTP QUERY method is a safe and idempotent request method allowing clients to send requests for processing data without modifying the state of the target resource."
+        },
+        {
+          "title": "In Memory of the MAN who PUT RED and Green Squiggles Under Words",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p\u00112451&utm_source=tldrdev",
+          "summary": "Tony Krueger, who improved spelling and grammar checking in word processors by introducing the now ubiquitous red and green squiggles for errors, is remembered for his impactful but often unrecognized contributions to software development."
+        },
+        {
+          "title": "Stubzero: $148,337 RCE in Google Cloud Production",
+          "url": "https://brutecat.com/articles/google-cloud-rce/?utm_source=tldrdev",
+          "summary": "A debugging endpoint info leak in Google Cloud escalated into full remote code execution vulnerabilities."
+        }
+      ]
+    },
+    {
+      "name": "TLDR Marketing",
+      "articles": [
+        {
+          "title": "The Hidden Burnout Crisis Facing Social Media Marketers",
+          "url": "https://theconversation.com/the-hidden-burnout-crisis-facing-social-media-marketers-283216?utm_source=tldrmarketing",
+          "summary": "More than 40% of social media marketers plan to leave their jobs within two years, and nearly half say they get little supervisor support for their mental health. The structure of the role is the cause, since these positions bundle strategy, design, customer service, and crisis management. At the same time, the same apps used for work also serve as leisure and social connection, making real disconnection impossible. Doom scrolling for trend research blurs into personal social comparison, and AI scheduling tools reduce workload without eliminating the always-on expectation that made them necessary."
+        },
+        {
+          "title": "How Snapchat Builds Brands Like no Other",
+          "url": "https://forbusiness.snapchat.com/blog/how-snapchat-builds-brands?utm_source=tldrmarketing",
+          "summary": "Meaningful engagement matters more than raw reach. Snapchat's research found that users who view their time on a platform as meaningful are 85% more open to ads and 74% more likely to take action on relevant ads. Format diversity outperformed frequency in brand building. Combining video, AR Lenses, and Sponsored Snaps increased unaided ad recall from 16% to 36% and raised simulated purchases from 19% to 33% at the same frequency. Cross-platform campaigns also benefited from channel variety, as replacing one Facebook video exposure with a Snapchat Sponsored Snap increased purchase intent by 16 points and unaided recall by 11 points."
+        },
+        {
+          "title": "Gamify Your Product Promotions",
+          "url": "https://app.sciencesays.com/p/gamify-your-product-promotions?utm_source=tldrmarketing",
+          "summary": "Gamified promotions can increase purchase intent for fun and hedonic products by turning discounts into a playful experience rather than a standard offer. In 13 experiments, promotions framed as chance-based made people 67% more likely to click for more information and 24.3% more interested in buying, while also making the product and brand feel more fun. Instead of simply discounting products, brands can use tools like spinning wheels or dice rolls to randomly select which item gets the promotion. This approach works best for categories like fashion, snacks, and entertainment, but it can hurt performance for functional products because shoppers expect those promotions to be chosen intentionally."
+        },
+        {
+          "title": "Reach that Drives Pipeline",
+          "url": "https://www.linkedin.com/posts/lukeshalom_reach-is-a-vanity-metric-i-used-to-believe-share-7475571867089518592-tkS4/?utm_source=tldrmarketing",
+          "summary": "The “reach is a vanity metric” idea is challenged here. Reach matters when it's intentional and tied to funnel design. The tactic is a full funnel post that turns reach into pipeline in the same asset. It starts with a story-driven hook for awareness, adds an insight-based middle that builds authority and curiosity, then ends with a direct CTA to convert interest. Visuals reinforce the narrative and improve distribution. The point is reach only feels useless when it is separated from conversion, not when it is structured to feed it."
+        },
+        {
+          "title": "How to Write Your Weekly Roundup Email",
+          "url": "https://www.linkedin.com/posts/dbusta_you-dont-need-to-spend-hours-writing-every-share-7475547524309782528-5uYa/?utm_source=tldrmarketing",
+          "summary": "A short weekly email can be written in 15 minutes by curating 3-5 of the best social posts from the past week into a 200-300 word recap. Each post gets a 1-2 sentence intro that adds context or a takeaway, with a brief personal note at the top to set tone. The format's simple to repeat on a weekly cadence and works by extending the life of existing content."
+        },
+        {
+          "title": "How to Make Performance MAX Focus on NET NEW Customers",
+          "url": "https://searchengineland.com/performance-max-net-new-customers-480802?utm_source=tldrmarketing",
+          "summary": "Performance Max has long defaulted to easy conversions over incremental ones, routing spend toward branded search, site visitors, and existing buyers rather than true prospects. Google's recent first-party audience exclusions change this for the first time. Stacking brand exclusions, audience exclusions for site visitors and email subscribers, Customer Match exclusions for existing purchasers, and a \"new customers only\" bidding mode can finally push PMax into prospecting mode. Reported ROAS will drop, but the new-to-returning customer split will more accurately reflect what's actually being acquired."
+        },
+        {
+          "title": "Vibe Code Check: 300+ Marketing Leaders on how AI Code Generation is Empowering their Teams",
+          "url": "https://userevidence.com/vibe-coding-marketing-report/?utm_source=tldrmarketing",
+          "summary": "AI code generation has gone mainstream in marketing fast. 41% say it's already embedded in workflows and 70% report structured adoption, even though most have used it for under a year. Teams are using it mainly for behind-the-scenes work like automations and integrations, while only 17% have built customer-facing tools. The catch is skill gaps and training, which only 21% prioritize, yet those who invest there see higher confidence and better results."
+        },
+        {
+          "title": "Budgets Reflect Increase in Consumption-Based Martech, Paid Media Spend",
+          "url": "https://www.chiefmarketer.com/gartner-cmo-spend-survey-budgets-reflect-increase-in-consumption-based-martech-paid-media-spend/?utm_source=tldrmarketing",
+          "summary": "Martech spending hit a 5-year low as a share of marketing budgets in 2026, dropping to 19% from 27% in 2021, even as 62% of CMOs planned to invest more in marketing technology. Paid media filled the gap, reaching a five-year high of 31% of marketing expenses, driven by AI-powered targeting and automated bidding. Performance declined across every major objective year-over-year, with 46% of CMOs exceeding campaign impact goals this year versus 58% last year, and 62% say missing this year's growth targets will trigger budget cuts."
+        },
+        {
+          "title": "It's Okay to LET Creators GET Experimental with Your ADS",
+          "url": "https://www.businessinsider.com/creator-influencer-marketing-creative-freedom-ads-2026-6?utm_source=tldrmarketing",
+          "summary": "Brands that stop trying to control creator messaging get better performance, not worse."
+        },
+        {
+          "title": "Consumers are Sick and Tired of Hearing about AI ALL the Time",
+          "url": "https://www.marketingbrew.com/stories/harris-poll-ai-fatigue-less-trust-ai-generated-ads-cannes-lions?utm_source=tldrmarketing",
+          "summary": "65% of consumers wish brands would stop mentioning AI in their marketing, and 63% say they'd be less likely to buy from a brand using AI-generated ads."
+        }
+      ]
+    },
+    {
+      "name": "TLDR",
+      "articles": [
+        {
+          "title": "Openai Unveils First Chip as Part of Broadcom Deal in Effort to ‘Build the Full Stack'",
+          "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html?utm_source=tldrnewsletter",
+          "summary": "OpenAI and Broadcom's Jalapeño chip is designed for inference, the compute-intensive process of serving AI models to users. It took nine months for the companies to design the chips end-to-end. The use of OpenAI's AI models helped accelerate the process. Jalapeño is a major step in OpenAI's plan to build the full-stack behind its models and products."
+        },
+        {
+          "title": "Tesla, Sunrun Team up on 16 GW Virtual Power Plant for Data Centers",
+          "url": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/?utm_source=tldrnewsletter",
+          "summary": "Sunrun, Tesla, and Renew Home have announced an agreement to aggregate more than 16 gigawatts of home batteries and other devices into the largest distributed power plant in the US. The project aims to address the surging electricity demand from data centers. The companies already have more than 300 megawatts of capacity ready for immediate deployment in Virginia. They expect capacity to grow to at least 500 megawatts by 2030 as more home batteries and thermostats come online."
+        },
+        {
+          "title": "A NEW $500 Million Fund is Trying to Eliminate the Common Cold",
+          "url": "https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-common-cold/?utm_source=tldrnewsletter",
+          "summary": "Intercept is a project aimed at making respiratory infections like the common cold and flu a thing of the past. Launched on June 24, it will support research into the adoption of technologies like air filtration to remove pathogens from the air directly. The project has received $500 million in investments from a variety of sources, including Stripe and Anthropic. The funds will be used to back the development of treatments that could protect people from many viruses at once."
+        },
+        {
+          "title": "The Roomba Guy's Second ACT: a Robot You'll Want to Snuggle",
+          "url": "https://links.tldrnewsletter.com/nFeSKW",
+          "summary": "Colin Angle, who led iRobot for nearly three decades, has a new startup called Familiar Machines & Magic that is selling a robot designed to help people monitor their loved ones. The robot, called the Familiar, is an expressive, furry creature that can react to people's actions and feelings in an emotionally intelligent way. It is still in an early prototype stage, so there's no information about price or availability, but videos of the current iteration of the product are available in the article. The Familiar will use local small models to process requests and won't send any data to the cloud."
+        },
+        {
+          "title": "What I'm Finding about LLM Code Style and Token Costs",
+          "url": "https://www.jimmont.com/llm-style-token-costs?utm_source=tldrnewsletter",
+          "summary": "Large language models will code from scratch unless you explicitly tell them about existing functionalities. They don't know to use existing code unless you tell them to. Letting them know what already exists can result in significant token savings. It can also help remove entire categories of security and reliability issues."
+        },
+        {
+          "title": "The Case for Language-Native Software",
+          "url": "https://robenglander.com/writing/the-case-for-language-native-software/?utm_source=tldrnewsletter",
+          "summary": "Natural language is becoming an interface. Software is beginning to understand instructions in human language. Language-native software will accept intent in the language users already speak, translate it into structured operations, and execute them deterministically. This makes language the interface itself."
+        },
+        {
+          "title": "The CEO of AWS on why Amazon is Hiring 11,000 Interns and Junior Employees",
+          "url": "https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/?utm_source=tldrnewsletter",
+          "summary": "Amazon is increasingly in the business of selling software that does white-collar work. However, Matt Garman, the CEO of AWS, says he isn't worried about AI destroying a huge number of jobs. He believes that jobs might change, but they're not going away. This article features highlights from an interview with Garman where he discusses how technology changes work."
+        },
+        {
+          "title": "Anthropic's White House Negotiations are Reportedly on Track after ‘Weirdo' Dario Amodei was Replaced",
+          "url": "https://gizmodo.com/anthropics-white-house-negotiations-are-reportedly-on-track-after-weirdo-dario-amodei-was-replaced-2000777207?utm_source=tldrnewsletter",
+          "summary": "Dario Amodei was reportedly weird and hard to deal with during the negotiations between the White House and Anthropic. Talks are now on track now that his role in the discussions has been replaced by Tom Brown, another Anthropic co-founder. Brown's manner is warmer and more traditionally personable. He is working on the talks alongside Sarah Heck, Anthropic's Head of Public Policy, who is quite disciplined and cautious but comes across as enthusiastic and on-message."
+        },
+        {
+          "title": "Stop Programming in Markdown",
+          "url": "https://structural.chat/articles/programming-in-markdown/?utm_source=tldrnewsletter",
+          "summary": "People are using LLMs inappropriately in situations where regular code would fare much better."
+        },
+        {
+          "title": "Qualcomm Lands Meta as First Named Customer for its Dragonfly Data Centre Chips",
+          "url": "https://thenextweb.com/news/qualcomm-dragonfly-meta-ai-data-center-chips-modular?utm_source=tldrnewsletter",
+          "summary": "The Dragonfly C1000 is a general-purpose server processor expected to be available in 2028."
+        },
+        {
+          "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
+          "url": "https://links.tldrnewsletter.com/THIHOY",
+          "summary": "Middlemen on messaging apps like Telegram, WeChat, and WhatsApp are offering access to people inside Amazon who can get things done for a price."
+        },
+        {
+          "title": "Writing Loops, not Prompts, Explained",
+          "url": "https://rico.codes/loops-not-prompts?utm_source=tldrnewsletter",
+          "summary": "Automate the parts of prompting that you keep repeating, and keep judgment close to the parts that matter."
+        },
+        {
+          "title": "Stop Building Chatbots. Build Agents that Open PRS",
+          "url": "https://zackproser.com/blog/build-agents-that-open-prs?utm_source=tldrnewsletter",
+          "summary": "PRs are an artifact that can be reviewed or rejected by a human."
+        },
+        {
+          "title": "I Wrote a 70x Faster SQL Parser while Barely Looking at the Code",
+          "url": "https://posthog.com/blog/sql-parser?utm_source=tldrnewsletter",
+          "summary": "Lessons learned when rewriting PostHog's SQL parser using multiple Claude Code sessions running in parallel."
         }
       ]
     },
@@ -373,124 +413,59 @@
       "name": "TLDR Fintech",
       "articles": [
         {
+          "title": "Stablecore Launches Stablecoin and Digital Asset Programme for Credit Unions",
           "url": "https://links.tldrnewsletter.com/Ai29g9",
-          "title": "Stablecore Launches Stablecoin Program for Credit Unions",
           "summary": "The programme is put together by Stablecore, a platform that helps community banks and credit unions offer stablecoins, tokenised deposits, and digital asset products, and Circuit, a research and development Credit Union Service Organisation."
         },
         {
+          "title": "Mastercard and PrivatBank Complete Ukraine's First Payment Executed by an AI Agent",
           "url": "https://links.tldrnewsletter.com/EB4gTy",
-          "title": "Mastercard and PrivatBank Complete Ukraine's First AI Agent Payment",
-          "summary": "Agentic commerce — where AI-powered agents act on behalf of consumers to shop, manage subscriptions, and complete everyday tasks — is poised to transform the way Ukrainians shop online. By enabling fully recognized and authenticated agentic transactions, Mastercard's agentic framework brings AI agents into the payment flow as visible, governed participants, ensuring that every transaction is secure, transparent, and trusted."
+          "summary": "Agentic commerce - where AI-powered agents act on behalf of consumers to shop, manage subscriptions, and complete everyday tasks - is poised to transform the way Ukrainians shop online. By enabling fully recognized and authenticated agentic transactions, Mastercard's agentic framework process brings AI agents into the payment flow as visible, governed participants - ensuring that every transaction is secure, transparent, and trusted."
         },
         {
+          "title": "Modern Treasury Partners Sardine to Help Businesses Detect Fraud Earlier",
           "url": "https://links.tldrnewsletter.com/mAjRcl",
-          "title": "Modern Treasury Partners Sardine to Detect Fraud Earlier",
           "summary": "Modern Treasury today announced a partnership with Sardine to enhance transaction monitoring and fraud prevention capabilities for businesses moving money across the US and globally."
         },
         {
-          "url": "https://robonomics.substack.com/p/spacex-s-1-full-analysis",
           "title": "SpaceX S-1 Full Analysis",
+          "url": "https://robonomics.substack.com/p/spacex-s-1-full-analysis?utm_source=tldrfintech",
           "summary": "This analysis breaks down SpaceX's revised S-1, focusing on major AI compute deals with Anthropic, Google, and Reflection AI, including implied GPU lease rates, power capacity, and revenue per gigawatt. The piece also examines SpaceX's IPO float dynamics, arguing that limited initial supply, index demand, and staged lockup expirations could create a near-term squeeze followed by later digestion as more shares unlock."
         },
         {
+          "title": "UPI, Pix, and the Rise of Public Payment Rails",
           "url": "https://links.tldrnewsletter.com/d9KSTm",
-          "title": "UPI, PIX, and the Rise of Public Payment Rails",
-          "summary": "For many years, digital payment innovation was associated mainly with private networks, card schemes, wallets, and technology platforms. That story is still important, but it is no longer complete — some of the most significant recent payment developments have come from public or public-supported payment rails like UPI in India and PIX in Brazil."
+          "summary": "For many years, digital payment innovation was associated mainly with private networks, card schemes, wallets, apps, banks, processors, and technology platforms. The dominant story was one of private-sector competition: who could build the better checkout, the better wallet, the better merchant solution, or the better consumer experience. That story is still important, but it is no longer complete. Some of the most significant recent payment developments have come from a different direction: public or public-supported payment rails."
         },
         {
-          "url": "https://docs.stripe.com/directory",
           "title": "Stripe Directory Public Preview",
-          "summary": "Stripe Directory is a searchable network directory that lets developers and AI agents discover businesses, services, Stripe Apps, and machine payment endpoints. The product positions Stripe as infrastructure for agentic commerce by allowing agents to search for providers, parse structured results, and programmatically pay for services through machine payment rails."
+          "url": "https://docs.stripe.com/directory?utm_source=tldrfintech",
+          "summary": "Stripe Directory is a searchable network directory that lets developers and AI agents discover businesses, services, Stripe Apps, Stripe Projects providers, and machine payment endpoints. The product positions Stripe as infrastructure for agentic commerce by allowing agents to search for providers, parse structured results, provision integrations, and programmatically pay for services through machine payment rails."
         },
         {
-          "url": "https://links.tldrnewsletter.com/cvNfoc",
           "title": "Thredd Rolls Out Visa Cloud Connect in Asia Pacific",
-          "summary": "Thredd, an AI-first issuer processing platform, announced the implementation of Visa Cloud Connect in the Asia Pacific, marking a significant regional milestone in the company's broader cloud transformation strategy."
+          "url": "https://links.tldrnewsletter.com/cvNfoc",
+          "summary": "Thredd, an AI-first issuer processing platform, today announced the implementation of Visa Cloud Connect (VCC) in the Asia Pacific, marking a significant regional milestone in the company's broader cloud transformation strategy."
         },
         {
-          "url": "https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/",
           "title": "Visa, Mastercard Fend Off Fee Foes",
-          "summary": "Visa and Mastercard scored a series of wins against merchant efforts to curb card fees, as state-level fee restrictions in Colorado and Illinois stalled and a federal court approved a contested merchant settlement. The long-running fight over swipe fees will continue, but the card networks have largely maintained their grip."
+          "url": "https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/?utm_source=tldrfintech",
+          "summary": "Visa and Mastercard scored a series of wins against merchant efforts to curb card fees, as state-level fee restrictions in Colorado and Illinois stalled and a federal court approved a contested merchant settlement. Despite continued pressure from retailers, restaurants, and lawmakers, the card networks and issuing banks have largely maintained their grip on interchange and network fees, ensuring the long-running fight over swipe fees will continue."
         },
         {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/ice-okx-50-50-joint-venture-tokenized-nyse-equities-cuomo-co-chair",
           "title": "NYSE Parent ICE and OKX Form Tokenized Equities Joint Venture",
-          "summary": "Intercontinental Exchange and OKX are forming a 50-50 joint venture to build a regulated US broker-dealer and futures commission merchant for tokenized NYSE equities and ICE futures, pending regulatory approval."
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/ice-okx-50-50-joint-venture-tokenized-nyse-equities-cuomo-co-chair?utm_source=tldrfintech",
+          "summary": "Intercontinental Exchange and OKX are forming a 50-50 joint venture to build a regulated US broker-dealer and futures commission merchant for tokenized NYSE equities and ICE futures, pending regulatory approval. The move signals accelerating Wall Street adoption of on-chain market infrastructure, pairing ICE's regulated exchange footprint with OKX's global crypto customer base as tokenized securities become a larger institutional focus."
         },
         {
-          "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
           "title": "Polymarket Reportedly Paid Creators to Post Deceptive Videos About Fake Bets",
+          "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/?utm_source=tldrfintech",
           "summary": "Polymarket reportedly paid online creators to post promotional videos showing fake trades and winnings on near-identical copies of its prediction market site, according to a Wall Street Journal investigation."
         },
         {
+          "title": "Meta Taps New WhatsApp Boss in $900 Million Bet on India's Cred",
           "url": "https://links.tldrnewsletter.com/IlBoIZ",
-          "title": "Meta Taps New WhatsApp Boss in $900M Bet on India's Cred",
-          "summary": "Meta is investing $900 million in Indian fintech Cred for a roughly 20% stake while appointing Cred founder Kunal Shah to lead WhatsApp. The deal signals Meta's intent to expand WhatsApp payments and financial services in the world's most populous country."
-        }
-      ]
-    },
-    {
-      "name": "TLDR Crypto",
-      "articles": [
-        {
-          "url": "https://threadreaderapp.com/thread/2069408300148388113.html",
-          "title": "Ethereum Foundation Cuts 54 Staff in Largest Restructuring",
-          "summary": "The Ethereum Foundation cut 54 staff on June 23, representing roughly 20% of the organization and concluding a months-long restructuring process tied to its newly adopted Mandate and Treasury Management Policy."
-        },
-        {
-          "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-slips-toward-usd63-000-as-a-tech-selloff-drags-risk-assets-lower",
-          "title": "Bitcoin Slips Toward $63,000 as Tech Selloff Drags Risk Assets Lower",
-          "summary": "A rotation out of chip and AI-focused equities pulled Bitcoin to $62,840 (-1.1% daily, -3.5% weekly) and Ether to $1,719, as South Korea's Kospi fell over 6% and Nasdaq 100 futures dropped 1.3%, reinforcing crypto's tightening correlation with the tech trade."
-        },
-        {
-          "url": "https://thedefiant.io/news/defi/0x-swap-api-ai-agents-usdc-payment-x402",
-          "title": "0x Opens Swap API to AI Agents Paying $0.01 per Request in USDC",
-          "summary": "0x Protocol opened its Swap API to AI agents charging $0.01 per request in USDC, paid directly from agent-controlled wallets with no API key required. The integration runs on the x402 standard (HTTP 402 Payment Required) with Alchemy AgentPay providing payment rails."
-        },
-        {
-          "url": "https://thedefiant.io/news/defi/synthetix-governance-retire-susd-sip-423-vested-snx",
-          "title": "Synthetix Governance Votes to Retire sUSD, Pay Holders in Vested SNX",
-          "summary": "Synthetix governance approved SIP-423 to freeze the sUSD stablecoin contract and retire it entirely, compensating holders at 4 SNX per sUSD in vested tokens rather than a dollar-pegged alternative."
-        },
-        {
-          "url": "https://threadreaderapp.com/thread/2069786654022287755.html",
-          "title": "The Case for an AI-Exposure Investment Product",
-          "summary": "There is no investment product that gives regular people true asymmetric exposure to AI — current options top out at Nvidia and AI ETFs, with pre-IPO, early-stage venture, and sovereign fund allocations gated behind wealth and access."
-        },
-        {
-          "url": "https://threadreaderapp.com/thread/2069819389994750120.html",
-          "title": "David Marcus on Lightspark Reaching Escape Velocity in Global Payments",
-          "summary": "Lightspark CEO David Marcus reflects on four years of methodically building payment infrastructure, describing the company as having finally reached the sweet spot where capabilities, licensing, and partnerships converge to enable global real-time payments at scale."
-        },
-        {
-          "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
-          "title": "Taiko Halts Its Network After a Bridge Exploit",
-          "summary": "Taiko halted its Ethereum L2 on June 22 after an attacker forged cross-chain withdrawal proofs to drain approximately $1.7 million from the bridge and token vault."
-        },
-        {
-          "url": "https://links.tldrnewsletter.com/XfJCwD",
-          "title": "Tom Lee Says 'Best Years for Crypto Remain Ahead' as Bitmine Buys 52,203 ETH",
-          "summary": "Bitmine Immersion Technologies acquired 52,203 ETH last week, bringing its treasury to 5.67 million ETH representing 4.7% of total ether supply, valued at $9.8 billion. Fundstrat's Tom Lee argues the accumulation reflects a broader institutional conviction that crypto's best returns are still ahead."
-        },
-        {
-          "url": "https://threadreaderapp.com/thread/2069798489588908207.html",
-          "title": "Xapo Bank Updates BTC-Backed Loans",
-          "summary": "Xapo Bank announced an updated Bitcoin-backed loan product allowing members to unlock up to $5 million in USD liquidity instantly while keeping their BTC, with improved loan-to-value ratios and automated margin call management."
-        },
-        {
-          "url": "https://threadreaderapp.com/thread/2069986084679794801.html",
-          "title": "Chinese Bitcoin Miner Jiang Zhuoer Calls BTC Bear Market Bottom",
-          "summary": "Jiang Zhuoer, one of China's most prominent Bitcoin miners, predicts the current bear market will bottom between October and December in the $42,000–$44,000 range, citing miner profitability curves and historical halving cycle patterns."
-        },
-        {
-          "url": "https://threadreaderapp.com/thread/2069916670202978659.html",
-          "title": "ETH Exchange Reserves Hit All-Time Low",
-          "summary": "ETH exchange reserves have fallen to an all-time low, a confluence of supply and development signals that analyst aixbt argues points to reduced sell pressure and a structurally tighter market for ether."
-        },
-        {
-          "url": "https://threadreaderapp.com/thread/2069785416970957283.html",
-          "title": "Tokenized Stocks Are a Net Positive for Crypto, Not a Threat",
-          "summary": "Bringing tokenized equities onchain raises the quality bar for crypto tokens, drives more onchain activity, and introduces more people to crypto's core value proposition of programmable, permissionless ownership."
+          "summary": "Meta is investing $900 million in Indian fintech Cred for a roughly 20% stake while appointing Cred founder Kunal Shah to lead WhatsApp."
         }
       ]
     },
@@ -498,114 +473,199 @@
       "name": "TLDR IT",
       "articles": [
         {
-          "url": "https://www.theregister.com/ai-and-ml/2026/06/23/anthropic-reimagines-claude-in-slack-as-nosy-always-on-agentic-ai-coworker/5260422",
-          "title": "Anthropic Reimagines Claude in Slack as Always-On Agentic AI Coworker",
+          "title": "Anthropic Reimagines Claude in Slack as Nosy, Always-On Agentic AI Coworker",
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/23/anthropic-reimagines-claude-in-slack-as-nosy-always-on-agentic-ai-coworker/5260422?utm_source=tldrit",
           "summary": "Anthropic is retiring its existing Claude in Slack connector in favor of an always-on, agentic Slack coworker called Claude Tag. Claude Tag can join Slack organizations as a shared team member, learn from channel context and permitted data sources, and be delegated tasks via @Claude, with options like ambient updates and scheduled multi-hour or multi-day work."
         },
         {
-          "url": "https://www.networkworld.com/article/4189098/qualcomms-3-9-billion-purchase-of-modular-aims-to-change-the-data-center-dynamic.html",
           "title": "Qualcomm Buys Modular to Challenge Nvidia's AI Software Moat",
+          "url": "https://www.networkworld.com/article/4189098/qualcomms-3-9-billion-purchase-of-modular-aims-to-change-the-data-center-dynamic.html?utm_source=tldrit",
           "summary": "Qualcomm is buying Modular for about $3.9B to strengthen its AI software layer across data centers, edge environments, and heterogeneous hardware. Modular gives Qualcomm a better shot at competing with Nvidia's CUDA ecosystem by helping AI workloads run across different chips without teams rewriting software for every processor."
         },
         {
-          "url": "https://www.ciodive.com/news/ai-spending-outpacing-human-developers/823690/",
           "title": "AI Coding Costs Could Outrun Developer Salaries",
-          "summary": "Gartner says AI coding could become more expensive than the average developer salary by 2028 as token-based pricing overtakes flat subscriptions and usage grows across coding tools, agents, cloud platforms, and team experiments. The takeaway for IT leaders is that AI needs FinOps-style governance: usage tracking, ownership, throttling, and clear business value before costs quietly compound."
+          "url": "https://www.ciodive.com/news/ai-spending-outpacing-human-developers/823690/?utm_source=tldrit",
+          "summary": "Gartner says AI coding could become more expensive than the average developer salary by 2028 as token-based pricing overtakes flat subscriptions and usage grows across coding tools, agents, cloud platforms, and team experiments. The takeaway for IT leaders is that AI needs FinOps-style governance: usage tracking, ownership, throttling, and clear business value before costs quietly compound inside workflows."
         },
         {
-          "url": "https://www.cio.com/article/4184051/data-lakehouses-are-becoming-foundations-for-enterprise-ai.html",
           "title": "Data Lakehouses Are Becoming the Foundation for Enterprise AI",
-          "summary": "Data lakehouses are becoming the enterprise foundation for AI because they combine broad data access with governance, security, auditability, and structure. Agentic AI makes the data layer much more strategic — companies now need semantic context, agent identities, access controls, and audit trails before letting AI systems autonomously query business data."
+          "url": "https://www.cio.com/article/4184051/data-lakehouses-are-becoming-foundations-for-enterprise-ai.html?utm_source=tldrit",
+          "summary": "Data lakehouses are becoming the enterprise foundation for AI because they combine broad data access with governance, security, auditability, and structure. Agentic AI makes the data layer much more strategic: companies now need semantic context, agent identities, access controls, audit trails, and cost controls before letting AI systems autonomously query business data."
         },
         {
-          "url": "https://workspaceupdates.googleblog.com/2026/06/google-apps-script-workspace-core-service.html",
           "title": "Google Apps Script Becomes a Core Workspace Service",
-          "summary": "Google Apps Script is now an official Google Workspace core service, meaning it gets enterprise-grade data protection, admin controls, standard technical support, and Workspace terms coverage."
+          "url": "https://workspaceupdates.googleblog.com/2026/06/google-apps-script-workspace-core-service.html?utm_source=tldrit",
+          "summary": "Google Apps Script is now an official Google Workspace core service, meaning it gets enterprise-grade data protection, admin controls, standard technical support, and Workspace terms coverage. Apps Script is often used for internal automations, lightweight workflows, and admin glue code that previously felt harder to justify from a support and compliance standpoint."
         },
         {
-          "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-          "title": "Bunny Makes DNS Free to Pull More Apps Onto Its Edge Platform",
-          "summary": "Bunny.net is eliminating DNS query fees and offering free DNS hosting for up to 500 domains per account, with no query limits, no per-request billing, and features like smart records and health monitoring included."
+          "title": "Bunny Makes DNS Free to Pull More Apps onto Its Edge Platform",
+          "url": "https://bunny.net/blog/were-making-bunny-dns-free/?utm_source=tldrit",
+          "summary": "Bunny.net is eliminating DNS query fees and offering free DNS hosting for up to 500 domains per account, with no query limits, no per-request billing, and features like smart records and health monitoring included. The strategic angle is that DNS is becoming the entry point for edge platforms: Bunny is using free DNS to make CDN acceleration, edge security, routing, DNSSEC, IPv6, and modern record management easier to adopt from one place."
         },
         {
-          "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
           "title": "New Site Calls Out Companies Without Passkey Support",
-          "summary": "A new site from security researcher Scott Helme tracks major apps and services that still do not offer passkey login, including Instagram, Netflix, and Spotify."
+          "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/?utm_source=tldrit",
+          "summary": "A new site from security researcher Scott Helme tracks major apps and services that still do not offer passkey login, including Instagram, Netflix, and Spotify. Passkeys are shifting from a security upgrade to a public trust signal for consumer and enterprise apps."
         },
         {
-          "url": "https://blogs.cisco.com/industrial-iot/maximizing-uptime-the-power-of-ai-troubleshooting-for-industrial-networks",
           "title": "Cisco Adds AI Troubleshooting for Industrial Networks",
-          "summary": "Cisco is introducing AI Troubleshooting for Industrial Networks, an always-on agent in Cisco Cloud Control that monitors factory-floor network signals, clusters related alerts, diagnoses root causes, and recommends fixes for OT teams."
+          "url": "https://blogs.cisco.com/industrial-iot/maximizing-uptime-the-power-of-ai-troubleshooting-for-industrial-networks?utm_source=tldrit",
+          "summary": "Cisco is introducing AI Troubleshooting for Industrial Networks, an always-on agent in Cisco Cloud Control that monitors factory-floor network signals, clusters related alerts, diagnoses root causes, and recommends fixes for OT teams. It is designed to reduce escalations from maintenance teams to scarce network experts by helping identify issues like bad cables, SFP degradation, VLAN mismatches, PoE failures, power supply faults, and switch stability problems faster."
         },
         {
-          "url": "https://www.jamf.com/blog/mac-fleet-visibility-ddm-proactive-status-reporting/",
           "title": "Jamf Highlights DDM for Real-Time Mac Fleet Visibility",
-          "summary": "Apple's Declarative Device Management gives IT teams faster Mac fleet visibility by letting devices proactively report status changes instead of waiting for traditional MDM command polling."
+          "url": "https://www.jamf.com/blog/mac-fleet-visibility-ddm-proactive-status-reporting/?utm_source=tldrit",
+          "summary": "Apple's Declarative Device Management gives IT teams faster Mac fleet visibility by letting devices proactively report status changes instead of waiting for traditional MDM command polling. This leads to better compliance tracking, faster update visibility, and less manual follow-up for lean Apple admin teams."
         },
         {
-          "url": "https://siliconangle.com/2026/06/24/grammarly-parent-superhuman-buys-ai-detector-gptzero/",
           "title": "Superhuman Buys GPTZero to Add an AI Authenticity Layer",
+          "url": "https://siliconangle.com/2026/06/24/grammarly-parent-superhuman-buys-ai-detector-gptzero/?utm_source=tldrit",
           "summary": "Superhuman, formerly Grammarly, is acquiring GPTZero to add AI detection, plagiarism checks, citation verification, source validation, and writing-origin tools into its productivity platform."
         },
         {
-          "url": "https://workspaceupdates.googleblog.com/2026/06/room-codes-google-meet-hardware-early-preview.html",
           "title": "Google Meet Hardware Adds Room Codes in Early Preview",
-          "summary": "Google Meet hardware admins can join the early preview for room codes, letting users join meetings from conference rooms with a short code instead of manually finding the meeting invite or calendar event."
+          "url": "https://workspaceupdates.googleblog.com/2026/06/room-codes-google-meet-hardware-early-preview.html?utm_source=tldrit",
+          "summary": "Google Meet hardware admins can join the early preview for room codes, letting users join meetings from rooms with a short code instead of manually finding the meeting invite or calendar event."
         }
       ]
     },
     {
-      "name": "TLDR Data Science",
+      "name": "TLDR Crypto",
       "articles": [
         {
-          "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c",
-          "title": "How Netflix Simplified Batch Compute With Kueue",
-          "summary": "Netflix simplified its batch compute platform by replacing its Compute Managed Batch system with Kueue, a Kubernetes-native job queuing and scheduling system. The migration was done by maintaining full API compatibility, converting their tenant hierarchy into Kueue Cohorts and ClusterQueues, and adding powerful features like preemption-based fair sharing."
+          "title": "Ethereum Foundation Cuts 54 Staff in Largest Restructuring",
+          "url": "https://threadreaderapp.com/thread/2069408300148388113.html?utm_source=tldrcrypto",
+          "summary": "The Ethereum Foundation cut 54 staff on June 23, representing roughly 20% of the organization and concluding a months-long restructuring process tied to its newly adopted Mandate and Treasury Management Policy. This is one of the largest headcount reductions in the EF's history as a Switzerland-based nonprofit supporting Ethereum protocol and ecosystem development. Foundation leadership stated the remaining team has the structure and personnel needed to execute on critical protocol tasks going forward. Several departing contributors are expected to continue Ethereum-related work outside the EF, a shift that may accelerate decentralization of core ecosystem development across independent teams."
         },
         {
-          "url": "https://careersatdoordash.com/blog/engineers-journey-long-running-ai-agents/",
+          "title": "Bitcoin Slips Toward $63,000 as a Tech Selloff Drags Risk Assets Lower",
+          "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-slips-toward-usd63-000-as-a-tech-selloff-drags-risk-assets-lower?utm_source=tldrcrypto",
+          "summary": "A rotation out of chip and AI-focused equities pulled Bitcoin to $62,840 (-1.1% daily, -3.5% weekly) and Ether to $1,719, as South Korea's Kospi fell over 6% and Nasdaq 100 futures dropped 1.3%, reinforcing crypto's tightening correlation with the tech trade. XRP led major-cap losses at -9% weekly while Solana shed 3.4% daily to $71, though Tron diverged with a 4.6% weekly gain. Two crypto-specific signals flag additional weakness: the Coinbase premium has flipped negative, pointing to soft US institutional demand, and Strategy's STRC preferred stock fell below $84, adding overhead sentiment pressure. Bitcoin's $59,000-$60,000 zone is the critical support floor, with Micron earnings Wednesday, the June jobs report on July 2, and CPI on July 14 serving as near-term tests for risk appetite."
+        },
+        {
+          "title": "0x Opens Swap API to AI Agents Paying $0.01 Per Request in USDC",
+          "url": "https://thedefiant.io/news/defi/0x-swap-api-ai-agents-usdc-payment-x402?utm_source=tldrcrypto",
+          "summary": "0x Protocol opened its Swap API to AI agents charging $0.01 per request in USDC, paid directly from agent-controlled wallets with no API key required. The integration runs on the x402 standard (HTTP 402 Payment Required) with Alchemy AgentPay providing payment rails, enabling machine-to-machine micropayments at the protocol call layer. Agents can now access 0x's DEX aggregation routing autonomously without human-managed credentials, removing centralized gatekeeping from on-chain swap infrastructure for agentic workflows."
+        },
+        {
+          "title": "Synthetix Governance Votes to Retire sUSD, Pay Holders in Vested SNX",
+          "url": "https://thedefiant.io/news/defi/synthetix-governance-retire-susd-sip-423-vested-snx?utm_source=tldrcrypto",
+          "summary": "Synthetix governance approved SIP-423, introduced June 12, to freeze the sUSD stablecoin contract and retire it entirely, compensating holders at 4 SNX per sUSD in vested tokens rather than a dollar-pegged alternative. Holders receive vested SNX rather than liquid proceeds, so their effective recovery depends on SNX price at the time of vesting, introducing market exposure where holders previously held a stablecoin position. A companion proposal, SIP-424, covering technical implementation details remains pending before the retirement can be executed on-chain. The vote marks a full exit from stablecoin issuance for Synthetix, consolidating the protocol's capital structure entirely around SNX rather than maintaining a synthetic dollar layer."
+        },
+        {
+          "title": "The Case for an AI-Exposure Investment Product Leveraging AI",
+          "url": "https://threadreaderapp.com/thread/2069786654022287755.html?utm_source=tldrcrypto",
+          "summary": "There is no investment product that gives regular people true asymmetric exposure to AI as current options top out at Nvidia and AI ETFs, with pre-IPO, early-stage venture, and sovereign fund allocations gated behind wealth and access, which is precisely the problem crypto rails are supposed to solve. Combining public stocks, pre-IPO names, venture allocations, and derivatives that track AI's actual share of GDP, white-collar job displacement, and sector growth, with a composable crypto structure would pay out most aggressively if AI accelerates faster than expected. The key constraint is counterparty risk as the structure only works if it's issued by someone with a real balance sheet who can actually pay at settlement."
+        },
+        {
+          "title": "David Marcus on Lightspark Reaching Escape Velocity in Global Payments",
+          "url": "https://threadreaderapp.com/thread/2069819389994750120.html?utm_source=tldrcrypto",
+          "summary": "Lightspark CEO David Marcus reflects on four years of methodically building payment infrastructure, describing the company as having finally reached the \"sweet spot where capabilities, licensing, and partnerships converge.\" That now includes nearly 70 countries' payment systems integrated in real-time, every major stablecoin and blockchain live, a global dollar account product for banks and platforms, a full Visa vertical stack integration for global card issuance, and an at-scale stablecoin and Bitcoin settlement rail via Spark. Payments always rewards the team willing to accumulate licenses, capabilities, and partnerships one by one, and most companies bail before reaching escape velocity."
+        },
+        {
+          "title": "Taiko Halts Its Network After a Bridge Exploit",
+          "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10?utm_source=tldrcrypto",
+          "summary": "Taiko halted its Ethereum L2 on June 22 after an attacker forged cross-chain withdrawal proofs to drain approximately $1.7 million from the bridge and token vault. BlockSec traced the root cause to an exposed Raiko SGX enclave signing key committed to GitHub, which allowed the attacker to generate fabricated proofs the verifier accepted. The TAIKO token dropped over 20% as the team froze withdrawals, halted block production, and urged exchanges to suspend deposits, with approximately $170,000 in tokens moving to MEXC before containment. The incident adds to a 2026 tally of 14+ bridge exploits totaling over $340 million in losses, following forged cross-chain messaging attacks against Kelp DAO ($292 million) and the Verus-Ethereum bridge ($11.4 million) earlier this year."
+        },
+        {
+          "title": "Tom Lee Says 'Best Years for Crypto Remain Ahead' as Bitmine Buys Another 52,203 ETH",
+          "url": "https://links.tldrnewsletter.com/XfJCwD",
+          "summary": "Bitmine Immersion Technologies acquired 52,203 ETH last week, bringing its treasury to 5.67 million ETH representing 4.7% of total ether supply, valued at $9.8 billion at $1,733 per token and placing the company 94% toward its stated goal of controlling 5% of the network's supply. The position makes Bitmine the largest corporate ETH holder globally and the second-largest corporate crypto treasury overall, behind Strategy Inc.'s $54 billion bitcoin portfolio. Over 83% of its ETH stack is actively staked through MAVAN validator infrastructure, generating projected annual revenue of $223 million with capacity to scale to $268 million. Chairman Tom Lee described the current period as \"early stages of crypto spring,\" citing tokenization and AI adoption as the forces expected to drive exponential blockchain demand growth."
+        },
+        {
+          "title": "Xapo Bank Updates BTC-Backed Loans",
+          "url": "https://threadreaderapp.com/thread/2069798489588908207.html?utm_source=tldrcrypto",
+          "summary": "Xapo Bank announced an updated Bitcoin-backed loan product allowing members to unlock up to $5 million in USD liquidity instantly while keeping their BTC."
+        },
+        {
+          "title": "Chinese Bitcoin Miner Jiang Zhuoer Calls BTC Bear Market Bottom",
+          "url": "https://threadreaderapp.com/thread/2069986084679794801.html?utm_source=tldrcrypto",
+          "summary": "Jiang Zhuoer, one of China's most prominent Bitcoin miners, predicts the current bear market will bottom between October and December in the $42,000-$44,000 range, drawing on the observation that Strategy's mNAV has already fallen to 0.72, near the 0.7 low seen at the May 2022 bull-to-bear transition."
+        },
+        {
+          "title": "ETH Exchange Reserves Hit All-Time Low",
+          "url": "https://threadreaderapp.com/thread/2069916670202978659.html?utm_source=tldrcrypto",
+          "summary": "aixbt flags a confluence of supply and development signals around Ethereum."
+        },
+        {
+          "title": "Tokenized Stocks Are a Net Positive for Crypto, Not a Threat to It",
+          "url": "https://threadreaderapp.com/thread/2069785416970957283.html?utm_source=tldrcrypto",
+          "summary": "Bringing tokenized equities onchain raises the quality bar for crypto tokens, drives more onchain activity, and introduces more people to crypto's core value proposition."
+        }
+      ]
+    },
+    {
+      "name": "TLDR Data",
+      "articles": [
+        {
+          "title": "How Netflix Simplified Batch Compute with Kueue",
+          "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?utm_source=tldrdata",
+          "summary": "Netflix simplified its batch compute platform by replacing its Compute Managed Batch system with Kueue, a Kubernetes-native job queuing and scheduling system. The migration was done by maintaining full API compatibility, converting their tenant hierarchy into Kueue Cohorts + ClusterQueues/LocalQueues, and adding powerful features like preemption-based fair sharing."
+        },
+        {
           "title": "Inside One Engineer's Journey to Master Long-Running Agents",
-          "summary": "Long-running coding agents work better when they are grounded in structured context and persistent artifacts: repo research, knowledge bases, plans, progress files, and review notes. DoorDash's Agentic Orchestrator turns those handoffs into a state-machine workflow, giving agents enough shared state to tackle bigger tasks without losing coherence."
+          "url": "https://careersatdoordash.com/blog/engineers-journey-long-running-ai-agents/?utm_source=tldrdata",
+          "summary": "Long-running coding agents work better when they are grounded in structured context and persistent artifacts: repo research, knowledge bases, plans, progress files, verification reports, and review notes. Agentic Orchestrator turns those handoffs into a state-machine workflow, giving agents enough shared \"data\" to tackle bigger tasks without losing coherence."
         },
         {
-          "url": "https://blog.zepto.com/real-time-personalisation-at-scale-how-zepto-understands-what-you-want-right-now-d743b13367c8",
           "title": "Real-Time Personalisation at Scale: How Zepto Understands What You Want, Right Now",
-          "summary": "Zepto built a Dual Sequence ReRanker for real-time personalisation that combines a user's long-term history with their current in-session behavior using separate transformer encoders, target-aware pooling, a learned fusion gate, and real-time signals."
+          "url": "https://blog.zepto.com/real-time-personalisation-at-scale-how-zepto-understands-what-you-want-right-now-d743b13367c8?utm_source=tldrdata",
+          "summary": "Zepto built a Dual Sequence ReRanker for real-time personalisation that combines a user's long-term history with their current in-session behavior using separate transformer encoders for history and session sequences, target-aware pooling (dynamically rebuilding the user profile per candidate item), a learned fusion gate, and real-time signals (trending counters, calendar context)."
         },
         {
-          "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
-          "title": "Client-Side Load Balancing at a Million Requests per Second",
-          "summary": "Zalando built a high-performance client-side load balancer in-process for their Product Read API to handle over a million requests per second of internal fan-out traffic, implementing consistent hashing, Kubernetes watch-based discovery, N-ring fade-in for smooth scale-ups, and AZ-aware routing."
+          "title": "Client-Side Load Balancing at a Million Requests Per Second",
+          "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?utm_source=tldrdata",
+          "summary": "Zalando built a high-performance client-side load balancer in-process for their Product Read API to handle over a million requests per second of internal fan-out traffic, replacing the shared edge ingress Skipper for batch requests. They implemented consistent hashing matching Skipper, Kubernetes watch-based discovery, N-ring fade-in for smooth scale-ups, and AZ-aware routing."
         },
         {
-          "url": "https://links.tldrnewsletter.com/KMPBhY",
           "title": "Broken Windows of Data",
-          "summary": "Data warehouse quality needs to be built into the full development lifecycle, not left to final review. Teams can stop small inconsistencies from spreading into shared definitions, dashboards, and business logic by shifting checks earlier through modeling reviews, local validation, CI/CD, AI-assisted review, and monitoring."
+          "url": "https://links.tldrnewsletter.com/KMPBhY",
+          "summary": "Data warehouse quality needs to be built into the full development lifecycle, not left to final review. Teams can stop small inconsistencies from spreading into shared definitions, dashboards, and business logic by shifting checks earlier through modeling reviews, local validation, CI/CD, AI-assisted review, human judgment, and monitoring."
         },
         {
-          "url": "https://practicaldatacommunity.substack.com/p/why-technically-excellent-data-teams",
           "title": "Why Technically Excellent Data Teams Still Fail",
-          "summary": "Many technically excellent data teams remain irrelevant because strong execution is no longer enough. The real value comes from moving beyond just delivering data to actively driving decisions through opinionated analysis and influencing business outcomes."
+          "url": "https://practicaldatacommunity.substack.com/p/why-technically-excellent-data-teams?utm_source=tldrdata",
+          "summary": "Many technically excellent data teams remain irrelevant because strong execution is no longer enough. The real value comes from moving beyond just delivering data to actively driving decisions through clear perspective (opinionated analysis) and action (influencing business outcomes)."
         },
         {
-          "url": "https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy",
           "title": "Can We Agree on a Storage/Workload Architecture Taxonomy?",
-          "summary": "Data storage architectures (OLTP, OLAP, HTAP, and LTAP) can be classified into a taxonomy evaluated by system count, workloads, data visibility, and durable copies. This framework organizes modern data systems into Single Tier, Internal Tiering, Hybrid, Materializing, and Shared Tiering models."
+          "url": "https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy?utm_source=tldrdata",
+          "summary": "Data storage architectures (OLTP, OLAP, HTAP, and LTAP) can be classified into a taxonomy evaluated by system count, workloads, data visibility, and durable copies. This framework organizes modern data systems into Single Tier, Internal Tiering, Hybrid, Materializing, and Shared Tiering models like Databricks LTAP and Apache Fluss."
         },
         {
-          "url": "https://oluies.github.io/sql-concepts-lab/",
           "title": "SQL Concepts Lab",
-          "summary": "SQL Concepts Lab is an interactive, browser-based tutorial built with DuckDB-WASM that lets you learn and experiment with core SQL concepts directly in your browser without any setup."
+          "url": "https://oluies.github.io/sql-concepts-lab/?utm_source=tldrdata",
+          "summary": "SQL Concepts Lab is an interactive, browser-based tutorial built with DuckDB-WASM that lets you learn and experiment with core SQL concepts directly in your browser without any setup. It provides hands-on exercises covering fundamental SQL in a live environment, making it a practical way to understand SQL through immediate feedback and experimentation."
         },
         {
-          "url": "https://github.com/dbtrail/dbtrail",
           "title": "dbtrail",
-          "summary": "dbtrail gives MySQL point-in-time recovery by streaming binlogs and indexing row changes with before-and-after images. Teams can inspect changes, create reversal SQL, browse history, or run time-travel queries, with MCP support for AI-assisted recovery."
+          "url": "https://github.com/dbtrail/dbtrail?utm_source=tldrdata",
+          "summary": "dbtrail gives MySQL point-in-time recovery by streaming binlogs and indexing row changes with before-and-after images. Teams inspect changes, create reversal SQL, browse history, or run time-travel queries, with MCP for AI recovery."
         },
         {
-          "url": "https://github.com/chio-labs/sqlbuild",
           "title": "SQLBuild",
-          "summary": "SQLBuild adds change-aware execution to dbt by fingerprinting SQL transformations and only rerunning models whose logic has actually changed, reducing dbt run times significantly for large data warehouses."
+          "url": "https://github.com/chio-labs/sqlbuild?utm_source=tldrdata",
+          "summary": "SQLBuild adds change-aware execution to dbt by fingerprinting models and reusing production tables. It stores warehouse state and supports audits, incremental jobs, Python nodes, lineage, contracts, adapters, and DuckDB CI support."
+        },
+        {
+          "title": "Clustering Unstructured Text with LLM Embeddings and HDBSCAN",
+          "url": "https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/?utm_source=tldrdata",
+          "summary": "Clustering unstructured text helps automatically discover topics in unlabeled text documents by combining sentence-transformers embeddings with UMAP for dimensionality reduction and HDBSCAN for density-based clustering. This modern pipeline captures semantic meaning far better than traditional methods, automatically determines the number of clusters, and handles noise/outliers gracefully."
+        },
+        {
+          "title": "Uniting Analytics with AI Agents as Work and Roles Shift in the GenAI Era",
+          "url": "https://techblog.lycorp.co.jp/en/techverse2026-105?utm_source=tldrdata",
+          "summary": "PJ One Piece cuts analytics lead time from 2 weeks to 10 minutes with a generative AI agent, enabling hundreds of analyses. It uses staged metadata, SQL guardrails, wide analysis tables, and supervisor agents, freeing data scientists for discovery and reusable Skills."
+        },
+        {
+          "title": "British Columbia, Time Zones, and Postgres",
+          "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes?utm_source=tldrdata",
+          "summary": "Future calendar events should store the user's intended local time and timezone, not just UTC, because timezone rule changes can make UTC-based timestamptz appointments show up an hour wrong later."
+        },
+        {
+          "title": "Running AI Agents Safely Inside Kubernetes",
+          "url": "https://kodekloud.com/blog/running-ai-agents-safely-inside-kubernetes/?utm_source=tldrdata",
+          "summary": "A hands-on security checklist for isolating prompt-driven workloads via NetworkPolicies, gVisor/Kata, and least-privilege RBAC."
         }
       ]
     }
