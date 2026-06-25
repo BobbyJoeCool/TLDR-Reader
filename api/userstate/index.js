@@ -11,15 +11,14 @@ module.exports = async function (context, req) {
 
   if (req.method === 'GET') {
     try {
-      const { resource } = await userState.item(userId, userId).read();
-      context.res = { status: 200, body: resource || { id: userId, userId, flagged: [] } };
+      const { resources } = await userState.items.query({
+        query: 'SELECT * FROM c WHERE c.userId = @userId',
+        parameters: [{ name: '@userId', value: userId }],
+      }).fetchAll();
+      context.res = { status: 200, body: resources[0] || { id: userId, userId, flagged: [] } };
     } catch (err) {
-      if (err.code === 404) {
-        context.res = { status: 200, body: { id: userId, userId, flagged: [] } };
-      } else {
-        context.log.error('GET userstate failed:', err.message);
-        context.res = { status: 500, body: 'Failed to fetch user state' };
-      }
+      context.log.error('GET userstate failed:', err.message);
+      context.res = { status: 500, body: 'Failed to fetch user state' };
     }
     return;
   }
@@ -30,16 +29,15 @@ module.exports = async function (context, req) {
     // Load existing state
     let state;
     try {
-      const { resource } = await userState.item(userId, userId).read();
-      state = resource || { id: userId, userId, flagged: [] };
+      const { resources } = await userState.items.query({
+        query: 'SELECT * FROM c WHERE c.userId = @userId',
+        parameters: [{ name: '@userId', value: userId }],
+      }).fetchAll();
+      state = resources[0] || { id: userId, userId, flagged: [] };
     } catch (err) {
-      if (err.code === 404) {
-        state = { id: userId, userId, flagged: [] };
-      } else {
-        context.log.error('Read userstate failed:', err.message);
-        context.res = { status: 500, body: 'Failed to read user state' };
-        return;
-      }
+      context.log.error('Read userstate failed:', err.message);
+      context.res = { status: 500, body: 'Failed to read user state' };
+      return;
     }
 
     if (action === 'flag' && article) {

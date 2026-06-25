@@ -1,6 +1,6 @@
 import FlaggedArticleCard from '../components/FlaggedArticleCard';
 
-export default function HomePage({ flagged, onToggleRead, onUnflag, loading }) {
+export default function HomePage({ flagged, onToggleRead, onUnflag, loading, error }) {
   const unread = flagged.filter((a) => !a.isRead);
   const read = flagged.filter((a) => a.isRead);
 
@@ -17,6 +17,9 @@ export default function HomePage({ flagged, onToggleRead, onUnflag, loading }) {
       </header>
 
       <main className="page-content">
+        {error && (
+          <div className="error-banner">{error}</div>
+        )}
         {loading ? (
           <div className="empty-state">
             <div className="spinner" />

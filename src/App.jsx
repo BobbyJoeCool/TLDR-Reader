@@ -23,7 +23,7 @@ export default function App() {
   const { user, login, logout } = useAuth();
   const { days: thisWeekDays, loading: twLoading } = useArticles('thisWeek');
   const { days: lastWeekDays, loading: lwLoading } = useArticles('lastWeek');
-  const { flagged, flaggedUrls, loading: usLoading, toggleFlag, toggleRead } = useUserState(user);
+  const { flagged, flaggedUrls, loading: usLoading, error: usError, toggleFlag, toggleRead } = useUserState(user);
 
   const currentDays = page === 'thisWeek' ? thisWeekDays : page === 'lastWeek' ? lastWeekDays : [];
   const weekLoading = page === 'thisWeek' ? twLoading : lwLoading;
@@ -123,6 +123,7 @@ export default function App() {
                 onToggleRead={toggleRead}
                 onUnflag={handleUnflag}
                 loading={usLoading}
+                error={usError}
               />
             )}
             {page !== 'home' && (

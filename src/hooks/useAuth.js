@@ -4,6 +4,10 @@ export function useAuth() {
   const [user, setUser] = useState(undefined); // undefined = loading
 
   useEffect(() => {
+    if (import.meta.env.DEV) {
+      setUser({ userId: 'dev-user', userDetails: 'dev@local' });
+      return;
+    }
     fetch('/.auth/me')
       .then((r) => r.json())
       .then((data) => setUser(data.clientPrincipal || null))

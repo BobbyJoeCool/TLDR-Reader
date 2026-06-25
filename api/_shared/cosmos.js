@@ -8,7 +8,12 @@ const userState = db.container(process.env.COSMOS_USERSTATE_CONTAINER || 'userSt
 
 function getUser(req) {
   const header = req.headers['x-ms-client-principal'];
-  if (!header) return null;
+  if (!header) {
+    if (process.env.LOCAL_DEV === 'true') {
+      return { userId: 'dev-user', userDetails: 'dev@local' };
+    }
+    return null;
+  }
   try {
     const decoded = Buffer.from(header, 'base64').toString('ascii');
     const principal = JSON.parse(decoded);
