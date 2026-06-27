@@ -148,6 +148,26 @@
 }
 .logout-btn:hover { color: var(--text); border-color: var(--border2); }
 
+.home-btn {
+  position: fixed;
+  top: calc(var(--safe-top) + 10px);
+  right: calc(14px + 32px + 8px); /* 8px gap to the right of logout */
+  z-index: 300;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+.home-btn:hover { color: var(--text); border-color: var(--border2); }
+.app--desktop .home-btn { display: none; }
+
 /* ─── PAGE SHELL ─────────────────────────────────────────────── */
 .page {
   min-height: 100%;
@@ -924,6 +944,195 @@
   max-width: 800px;
   margin: 0 auto;
 }
+
+/* ─── MOBILE BRAND BAR ───────────────────────────────────────── */
+.mobile-brand-bar {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 42px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+
+.mobile-brand-btn {
+  background: none;
+  border: none;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text);
+  cursor: pointer;
+  font-family: var(--font-body);
+  letter-spacing: -0.2px;
+  padding: 4px 12px;
+  border-radius: var(--radius-sm);
+  transition: color 0.15s;
+}
+.mobile-brand-btn:hover { color: var(--purple-lt); }
+
+/* ─── LANDING PAGE ───────────────────────────────────────────── */
+.landing-page {
+  padding-bottom: 32px;
+}
+
+.landing-hero {
+  padding: 36px 20px 28px;
+  text-align: center;
+}
+
+.landing-brand {
+  font-family: var(--font-display);
+  font-size: 30px;
+  font-weight: 700;
+  color: var(--purple-lt);
+  letter-spacing: -0.5px;
+  margin: 0 0 8px;
+}
+
+.landing-greeting {
+  font-size: 15px;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.landing-tiles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  padding: 0 16px 28px;
+}
+
+/* 5th tile spans full width */
+.landing-tile:last-child {
+  grid-column: 1 / -1;
+  flex-direction: row;
+  align-items: center;
+  gap: 14px;
+}
+.landing-tile:last-child .landing-tile-label { font-size: 15px; }
+.landing-tile:last-child .landing-tile-sub { margin-left: auto; }
+
+.landing-tile {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 18px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s, border-color 0.15s, transform 0.1s;
+}
+.landing-tile:hover {
+  background: var(--surface2);
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+.landing-tile:active { transform: scale(0.98); }
+
+.landing-tile-icon {
+  color: var(--accent);
+  line-height: 1;
+}
+
+.landing-tile-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.2;
+}
+
+.landing-tile-sub {
+  font-size: 11px;
+  color: var(--text-dim);
+  line-height: 1.3;
+}
+
+.landing-guide {
+  padding: 0 16px;
+}
+
+.landing-guide-heading {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--text-dim);
+  margin: 0 0 14px;
+}
+
+.landing-guide-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.landing-guide-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+
+.guide-icon {
+  flex-shrink: 0;
+  color: var(--accent);
+  line-height: 1;
+  margin-top: 1px;
+}
+
+/* Desktop landing adjustments */
+.app--desktop .landing-page {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 24px 40px;
+}
+
+.app--desktop .landing-hero {
+  padding: 48px 0 32px;
+}
+
+.app--desktop .landing-tiles {
+  padding: 0 0 32px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+/* On 3-col grid: 4th and 5th tiles form the second row. Reset last-child span. */
+.app--desktop .landing-tile:last-child {
+  grid-column: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+.app--desktop .landing-tile:last-child .landing-tile-sub { margin-left: 0; }
+
+.app--desktop .landing-guide {
+  padding: 0;
+}
+
+/* Make top-bar-brand a button */
+.top-bar-brand {
+  background: none;
+  border: none;
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--purple-lt);
+  cursor: pointer;
+  padding: 0;
+  letter-spacing: -0.3px;
+  transition: color 0.15s;
+}
+.top-bar-brand:hover { color: var(--text); }
 
 /* ─── ARTICLE CARD ACTIONS (save + flag buttons) ─────────────── */
 .article-card-actions {

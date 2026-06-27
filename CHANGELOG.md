@@ -2,6 +2,17 @@
 
 All notable changes to TLDR Reader are documented here.
 
+## [2.0.0] — 2026-06-27
+
+### Added
+
+- **Landing page**: The app now opens on a hub screen with a personalized greeting, large navigation tiles for all five sections, and a quick guide explaining how to flag, read, and save articles.
+- **Home button (mobile)**: A home icon button sits beside the logout button on every screen, returning the user to the landing page from anywhere.
+- **Desktop home navigation**: The "TLDR Reader" brand name in the desktop top bar is now a clickable home button.
+- **Mobile brand bar**: A persistent "TLDR Reader" bar appears at the top of every non-landing page on mobile, serving as a secondary home button.
+
+---
+
 ## [1.4.0] — 2026-06-26
 
 ### Added

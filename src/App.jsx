@@ -13,9 +13,10 @@ import HomePage from './pages/HomePage';
 import WeekPage from './pages/WeekPage';
 import ArchivePage from './pages/ArchivePage';
 import SavedArticlesPage from './pages/SavedArticlesPage';
+import LandingPage from './pages/LandingPage';
 
 export default function App() {
-  const [page, setPage] = useState('home');
+  const [page, setPage] = useState('landing');
   const [selectedDate, setSelectedDate] = useState(null);
   const [selectedEdition, setSelectedEdition] = useState(null);
 
@@ -78,7 +79,7 @@ export default function App() {
     return (
       <div className="app app--desktop">
         <header className="top-bar">
-          <span className="top-bar-brand">TLDR Reader</span>
+          <button className="top-bar-brand" onClick={() => setPage('landing')}>TLDR Reader</button>
           <nav className="top-bar-nav">
             <button
               className={`top-nav-btn ${page === 'home' ? 'active' : ''}`}
@@ -116,7 +117,18 @@ export default function App() {
           </button>
         </header>
 
-        {page === 'archive' ? (
+        {page === 'landing' ? (
+          <div className="app-body">
+            <main className="app-content">
+              <LandingPage
+                user={user}
+                onNavigate={setPage}
+                flaggedCount={flagged.length}
+                savedCount={saved.length}
+              />
+            </main>
+          </div>
+        ) : page === 'archive' ? (
           <ArchivePage
             availableDates={availableDates}
             getDay={getDay}
@@ -196,7 +208,22 @@ export default function App() {
 
   return (
     <div className="app">
+      {page !== 'landing' && (
+        <div className="mobile-brand-bar">
+          <button className="mobile-brand-btn" onClick={() => setPage('landing')}>
+            TLDR Reader
+          </button>
+        </div>
+      )}
       <div className="page-container">
+        {page === 'landing' && (
+          <LandingPage
+            user={user}
+            onNavigate={setPage}
+            flaggedCount={flagged.length}
+            savedCount={saved.length}
+          />
+        )}
         {page === 'home' && (
           <HomePage
             flagged={flagged}
@@ -245,6 +272,12 @@ export default function App() {
       </div>
 
       <BottomNav page={page} onNavigate={setPage} />
+
+      {page !== 'landing' && (
+        <button className="home-btn" onClick={() => setPage('landing')} title="Home">
+          <HomeIcon />
+        </button>
+      )}
 
       <button className="logout-btn" onClick={logout} title="Sign out">
         <LogoutIcon />
@@ -296,6 +329,15 @@ function ArchiveIcon() {
       <polyline points="21 8 21 21 3 21 3 8" />
       <rect x="1" y="3" width="22" height="5" />
       <line x1="10" y1="12" x2="14" y2="12" />
+    </svg>
+  );
+}
+
+function HomeIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+      <polyline points="9 22 9 12 15 12 15 22" />
     </svg>
   );
 }
