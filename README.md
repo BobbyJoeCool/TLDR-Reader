@@ -82,8 +82,53 @@ Greyed-out dates have no articles (weekends, gaps in the data, future dates).
 | Database | Azure Cosmos DB (NoSQL) |
 | Auth | Microsoft (Azure AD) via Azure SWA built-in auth |
 | Article data | Static JSON files served from `public/data/archive/` |
+| Ingestion | Node.js + Cheerio scraper (`scripts/jobs/ingestToday.ts`) |
 
 User state (flagged articles, saved articles) is stored per-user in Cosmos DB. Article content is served as static JSON — no database read required for browsing.
+
+---
+
+## Data Ingestion Pipeline
+
+Article content is scraped directly from [tldr.tech](https://tldr.tech) using a deterministic Node.js pipeline — no email, no LLM, no manual steps.
+
+### How it works
+
+1. **Fetch** — Each of the 14 TLDR editions is requested at `https://tldr.tech/{slug}/{date}`. If TLDR redirects to the newsletter root (their signal for "no issue today"), the edition is skipped.
+2. **Parse** — Cheerio extracts every `<h3>` + following `<p>` pair. Sponsored and hiring items are filtered out.
+3. **Write** — Each edition is written as a JSON file to `public/data/archive/{year}/{date}/`.
+4. **Manifests** — The day's `manifest.json` (which tabs React renders) and the year-level `manifest-{year}.json` (which dates the calendar highlights) are both updated.
+5. **Publish** — All new files are committed and pushed to `main` in a single git commit. Azure Static Web Apps picks up the push automatically.
+
+### Running manually
+
+```bash
+npm run ingest                   # scrape today's date
+npm run ingest 2026-06-27        # scrape a specific date
+npx tsx scripts/jobs/ingestToday.ts 2026-06-27   # equivalent longform
+```
+
+### Module layout
+
+```text
+scripts/
+  config/
+    newsletters.ts         # all 14 editions — slug, display name, filename
+  scraper/
+    fetchIssue.ts          # fetch HTML for one edition/date
+    parseIssue.ts          # Cheerio parser → Article[]
+    isSponsored.ts         # filter predicate for sponsored items
+  archive/
+    writeEdition.ts        # write one edition JSON file
+    writeDailyManifest.ts  # write/overwrite manifest.json for a day
+    writeYearManifest.ts   # update the rolling year-level index
+  jobs/
+    ingestToday.ts         # CLI entry point; orchestrates the full pipeline
+```
+
+### Automation
+
+The pipeline runs daily at 2:00 PM via a scheduled Claude Cowork agent. On completion it sends a push notification — success with edition count, or the specific failure reason if something went wrong.
 
 ---
 
