@@ -2,7 +2,7 @@
 
 All notable changes to TLDR Reader are documented here.
 
-## [2.1.0] — Planned
+## [2.2.0] — Planned
 
 ### Planned
 
@@ -11,6 +11,22 @@ All notable changes to TLDR Reader are documented here.
 - **Keyword search** across Saved Articles — full-text search on title and summary.
 
 > These features were deferred from the initial Saved Articles implementation (see refactorInstructions.md §4–5). No implementation timeline set.
+
+---
+
+## [2.1.0] — 2026-06-27
+
+### Changed
+
+- **Ingestion pipeline refactor**: Replaced the monolithic `scripts/scrape-tldr.ts` with a proper multi-module architecture under `scripts/`. The single file is now split into eight focused modules — `config/newsletters.ts`, `scraper/isSponsored.ts`, `scraper/fetchIssue.ts`, `scraper/parseIssue.ts`, `archive/writeEdition.ts`, `archive/writeDailyManifest.ts`, `archive/writeYearManifest.ts`, and `jobs/ingestToday.ts`. Behavior is identical; structure is now testable and extensible.
+- **Redirect detection**: `fetchIssue` now detects TLDR's no-issue redirect signal (response URL no longer contains the requested date) and returns `null` immediately, matching the documented spec behavior.
+- **Cowork prompt**: `DevNotes/CoworkPrompt.txt` replaced the old 480-line Gmail/LLM pipeline with a 7-line script trigger. Added error-handling guidance covering all three failure modes and push notification instructions for success, no-editions, git failure, and script crash outcomes.
+
+### Added
+
+- **`npm run ingest`**: Shorthand script in `package.json` for running the ingestion pipeline — equivalent to `npx tsx scripts/jobs/ingestToday.ts`.
+- **Full script documentation**: Every module has a file-level JSDoc header, `@param`/`@returns` docs on all exported functions, and inline comments explaining all non-obvious logic — regex patterns, timezone anchoring, week-offset arithmetic, and git scoping.
+- **Push notifications on cowork runs**: The scheduled cowork agent now sends a push notification on every outcome — success with edition count, expected no-edition days, git failures, and script crashes — so results are visible without checking the session transcript.
 
 ---
 

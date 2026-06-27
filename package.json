@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist",
+    "ingest": "npx tsx scripts/jobs/ingestToday.ts"
   },
   "dependencies": {
     "react": "^18.2.0",
