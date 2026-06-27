@@ -2,6 +2,18 @@
 
 All notable changes to TLDR Reader are documented here.
 
+## [2.1.0] — Planned
+
+### Planned
+
+- **Filter by edition** on the Saved Articles page — narrow the list to a specific newsletter.
+- **Filter by date range** on the Saved Articles page — show only articles saved within a given window.
+- **Keyword search** across Saved Articles — full-text search on title and summary.
+
+> These features were deferred from the initial Saved Articles implementation (see refactorInstructions.md §4–5). No implementation timeline set.
+
+---
+
 ## [2.0.0] — 2026-06-27
 
 ### Added
