@@ -1,6 +1,6 @@
 import FlaggedArticleCard from '../components/FlaggedArticleCard';
 
-export default function HomePage({ flagged, onToggleRead, onUnflag, loading, error }) {
+export default function HomePage({ flagged, onToggleRead, onUnflag, savedUrls, onToggleSave, loading, error }) {
   const unread = flagged.filter((a) => !a.isRead);
   const read = flagged.filter((a) => a.isRead);
 
@@ -29,7 +29,7 @@ export default function HomePage({ flagged, onToggleRead, onUnflag, loading, err
             <p className="empty-icon">★</p>
             <p className="empty-title">Nothing saved yet</p>
             <p className="empty-body">
-              Star articles in This Week or Last Week to add them here.
+              Flag articles in This Week, Last Week, or Archive to add them here.
             </p>
           </div>
         ) : (
@@ -43,6 +43,8 @@ export default function HomePage({ flagged, onToggleRead, onUnflag, loading, err
                     article={article}
                     onToggleRead={onToggleRead}
                     onUnflag={onUnflag}
+                    isSaved={savedUrls?.has(article.url)}
+                    onToggleSave={onToggleSave}
                   />
                 ))}
               </section>
@@ -57,6 +59,8 @@ export default function HomePage({ flagged, onToggleRead, onUnflag, loading, err
                     article={article}
                     onToggleRead={onToggleRead}
                     onUnflag={onUnflag}
+                    isSaved={savedUrls?.has(article.url)}
+                    onToggleSave={onToggleSave}
                   />
                 ))}
               </section>

@@ -11,6 +11,8 @@ export default function WeekPage({
   days,
   flaggedUrls,
   onToggleFlag,
+  savedUrls,
+  onToggleSave,
   loading,
   dayLoading,
   selectedDate,
@@ -114,6 +116,8 @@ export default function WeekPage({
                   }}
                   isFlagged={flaggedUrls.has(article.url)}
                   onToggleFlag={onToggleFlag}
+                  isSaved={savedUrls?.has(article.url)}
+                  onToggleSave={onToggleSave}
                 />
               ))}
             </div>

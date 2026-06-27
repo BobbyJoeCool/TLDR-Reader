@@ -16,4 +16,10 @@ export const api = {
     apiFetch('/api/userstate', { method: 'POST', body: { action: 'unflag', url } }),
   setRead: (url, isRead) =>
     apiFetch('/api/userstate', { method: 'POST', body: { action: 'read', url, isRead } }),
+
+  getSavedArticles: () => apiFetch('/api/savedarticles'),
+  saveArticle: (article) =>
+    apiFetch('/api/savedarticles', { method: 'POST', body: { action: 'save', article } }),
+  unsaveArticle: (url) =>
+    apiFetch('/api/savedarticles', { method: 'POST', body: { action: 'unsave', url } }),
 };

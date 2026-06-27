@@ -1,9 +1,10 @@
 export default function BottomNav({ page, onNavigate }) {
   const items = [
-    { id: 'home', label: 'Reading List', icon: <BookmarkIcon /> },
+    { id: 'home', label: 'Reading', icon: <FlagIcon /> },
     { id: 'thisWeek', label: 'This Week', icon: <CalendarIcon /> },
     { id: 'lastWeek', label: 'Last Week', icon: <HistoryIcon /> },
     { id: 'archive', label: 'Archive', icon: <ArchiveIcon /> },
+    { id: 'saved', label: 'Saved', icon: <StarIcon /> },
   ];
 
   return (
@@ -22,10 +23,19 @@ export default function BottomNav({ page, onNavigate }) {
   );
 }
 
-function BookmarkIcon() {
+function FlagIcon() {
   return (
     <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+      <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" />
+      <line x1="4" y1="22" x2="4" y2="15" />
+    </svg>
+  );
+}
+
+function StarIcon() {
+  return (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
     </svg>
   );
 }

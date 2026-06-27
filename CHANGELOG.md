@@ -2,6 +2,23 @@
 
 All notable changes to TLDR Reader are documented here.
 
+## [1.4.0] — 2026-06-26
+
+### Added
+
+- **Saved Articles**: Star any article in This Week, Last Week, Archive, or the Reading List to save it permanently. Saved articles persist to Azure Cosmos DB in a dedicated `savedArticles` container.
+- **Saved Articles page**: New page (bottom nav on mobile, top nav on desktop) displays all saved articles grouped by newsletter edition in canonical TLDR order, with articles within each edition sorted newest-to-oldest.
+- **Star button on article cards**: All article cards (week views, archive, reading list) now show a star icon that toggles save state. Filled star = saved; optimistic update with rollback on failure.
+- **Azure Function — `api/savedarticles`**: New serverless endpoint handles GET (fetch saved list by user), POST action=`save` (add article), and POST action=`unsave` (remove by URL). Stored as a `saved` array on the existing `userState` document — no additional Cosmos DB container required.
+
+### Changed
+
+- **Reading List flag icon**: The bookmark icon on the Reading List nav item and article cards has been replaced with a flag icon to better represent "flagged for reading."
+- **Nav label**: "Reading List" renamed to "Reading" on the mobile bottom nav to fit the wider 5-item layout.
+- **5-item bottom nav**: Mobile navigation now has five items — Reading, This Week, Last Week, Archive, Saved.
+
+---
+
 ## [1.2.0] — 2026-06-26
 
 ### Added

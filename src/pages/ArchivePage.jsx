@@ -21,6 +21,8 @@ export default function ArchivePage({
   isDayLoading,
   flaggedUrls,
   onToggleFlag,
+  savedUrls,
+  onToggleSave,
   isDesktop,
 }) {
   const [selectedDate, setSelectedDate] = useState(null);
@@ -73,6 +75,8 @@ export default function ArchivePage({
                 dayLoading={dayLoading}
                 flaggedUrls={flaggedUrls}
                 onToggleFlag={onToggleFlag}
+                savedUrls={savedUrls}
+                onToggleSave={onToggleSave}
               />
             </div>
           )}
@@ -126,13 +130,15 @@ export default function ArchivePage({
           dayLoading={dayLoading}
           flaggedUrls={flaggedUrls}
           onToggleFlag={onToggleFlag}
+          savedUrls={savedUrls}
+          onToggleSave={onToggleSave}
         />
       </div>
     </div>
   );
 }
 
-function DayContent({ selectedDate, editions, dayLoading, flaggedUrls, onToggleFlag }) {
+function DayContent({ selectedDate, editions, dayLoading, flaggedUrls, onToggleFlag, savedUrls, onToggleSave }) {
   if (dayLoading) {
     return <div className="empty-state"><div className="spinner" /></div>;
   }
@@ -163,6 +169,8 @@ function DayContent({ selectedDate, editions, dayLoading, flaggedUrls, onToggleF
           article={{ ...article, edition: edition.name, date: selectedDate }}
           isFlagged={flaggedUrls.has(article.url)}
           onToggleFlag={onToggleFlag}
+          isSaved={savedUrls?.has(article.url)}
+          onToggleSave={onToggleSave}
         />
       ))}
     </div>

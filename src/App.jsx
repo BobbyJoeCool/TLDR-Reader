@@ -3,6 +3,7 @@ import './App.css';
 import { useAuth } from './hooks/useAuth';
 import { useArchive } from './hooks/useArchive';
 import { useUserState } from './hooks/useUserState';
+import { useSavedArticles } from './hooks/useSavedArticles';
 import { useMediaQuery } from './hooks/useMediaQuery';
 import AuthGate from './components/AuthGate';
 import BottomNav from './components/BottomNav';
@@ -11,6 +12,7 @@ import EditionTabs, { sortEditions } from './components/EditionTabs';
 import HomePage from './pages/HomePage';
 import WeekPage from './pages/WeekPage';
 import ArchivePage from './pages/ArchivePage';
+import SavedArticlesPage from './pages/SavedArticlesPage';
 
 export default function App() {
   const [page, setPage] = useState('home');
@@ -24,6 +26,7 @@ export default function App() {
   const { user, login, logout } = useAuth();
   const { loading, thisWeekDays, lastWeekDays, availableDates, loadDay, getDay, isDayLoading } = useArchive();
   const { flagged, flaggedUrls, loading: usLoading, error: usError, toggleFlag, toggleRead } = useUserState(user);
+  const { saved, savedUrls, loading: savedLoading, error: savedError, toggleSave } = useSavedArticles(user);
 
   const currentDays = page === 'thisWeek' ? thisWeekDays : page === 'lastWeek' ? lastWeekDays : [];
   const weekLoading = loading;
@@ -69,6 +72,7 @@ export default function App() {
   }
 
   const weekLabel = page === 'thisWeek' ? 'This Week' : 'Last Week';
+  const isWeekPage = page === 'thisWeek' || page === 'lastWeek';
 
   if (isDesktop) {
     return (
@@ -80,7 +84,7 @@ export default function App() {
               className={`top-nav-btn ${page === 'home' ? 'active' : ''}`}
               onClick={() => setPage('home')}
             >
-              <BookmarkIcon /> Reading List
+              <FlagNavIcon /> Reading List
             </button>
             <button
               className={`top-nav-btn ${page === 'thisWeek' ? 'active' : ''}`}
@@ -100,6 +104,12 @@ export default function App() {
             >
               <ArchiveIcon /> Archive
             </button>
+            <button
+              className={`top-nav-btn ${page === 'saved' ? 'active' : ''}`}
+              onClick={() => setPage('saved')}
+            >
+              <StarNavIcon /> Saved Articles
+            </button>
           </nav>
           <button className="logout-btn" onClick={logout} title="Sign out">
             <LogoutIcon />
@@ -114,11 +124,13 @@ export default function App() {
             isDayLoading={isDayLoading}
             flaggedUrls={flaggedUrls}
             onToggleFlag={toggleFlag}
+            savedUrls={savedUrls}
+            onToggleSave={toggleSave}
             isDesktop
           />
         ) : (
           <div className="app-body">
-            {page !== 'home' && (
+            {isWeekPage && (
               <aside className="app-sidebar">
                 {currentDays.length > 0 && selectedDate && (
                   <DayTabs
@@ -145,22 +157,34 @@ export default function App() {
                   flagged={flagged}
                   onToggleRead={toggleRead}
                   onUnflag={handleUnflag}
+                  savedUrls={savedUrls}
+                  onToggleSave={toggleSave}
                   loading={usLoading}
                   error={usError}
                 />
               )}
-              {page !== 'home' && (
+              {isWeekPage && (
                 <WeekPage
                   key={page}
                   label={weekLabel}
                   days={currentDays}
                   flaggedUrls={flaggedUrls}
                   onToggleFlag={toggleFlag}
+                  savedUrls={savedUrls}
+                  onToggleSave={toggleSave}
                   loading={weekLoading}
                   dayLoading={isDayLoading(selectedDate)}
                   selectedDate={selectedDate}
                   setSelectedDate={handleDaySelect}
                   isDesktop
+                />
+              )}
+              {page === 'saved' && (
+                <SavedArticlesPage
+                  saved={saved}
+                  onToggleSave={toggleSave}
+                  loading={savedLoading}
+                  error={savedError}
                 />
               )}
             </main>
@@ -178,16 +202,20 @@ export default function App() {
             flagged={flagged}
             onToggleRead={toggleRead}
             onUnflag={handleUnflag}
+            savedUrls={savedUrls}
+            onToggleSave={toggleSave}
             loading={usLoading}
           />
         )}
-        {(page === 'thisWeek' || page === 'lastWeek') && (
+        {isWeekPage && (
           <WeekPage
             key={page}
             label={weekLabel}
             days={currentDays}
             flaggedUrls={flaggedUrls}
             onToggleFlag={toggleFlag}
+            savedUrls={savedUrls}
+            onToggleSave={toggleSave}
             loading={weekLoading}
             dayLoading={isDayLoading(selectedDate)}
             selectedDate={selectedDate}
@@ -202,6 +230,16 @@ export default function App() {
             isDayLoading={isDayLoading}
             flaggedUrls={flaggedUrls}
             onToggleFlag={toggleFlag}
+            savedUrls={savedUrls}
+            onToggleSave={toggleSave}
+          />
+        )}
+        {page === 'saved' && (
+          <SavedArticlesPage
+            saved={saved}
+            onToggleSave={toggleSave}
+            loading={savedLoading}
+            error={savedError}
           />
         )}
       </div>
@@ -215,10 +253,19 @@ export default function App() {
   );
 }
 
-function BookmarkIcon() {
+function FlagNavIcon() {
   return (
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+      <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" />
+      <line x1="4" y1="22" x2="4" y2="15" />
+    </svg>
+  );
+}
+
+function StarNavIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
     </svg>
   );
 }
