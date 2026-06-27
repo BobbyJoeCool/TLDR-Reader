@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-06-26",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?utm_source=tldrnewsletter",
+      "title": "Apple Raises Prices on Macs, iPads by $200 or More on Some Models",
+      "summary": "Apple has raised the prices of its Macs and iPads. Price tags for Mac computers rose roughly 15% to 20%, and iPad prices rose 15% to 25%. iPhone prices were unchanged, but price increases are likely coming. The increase in pricing has been attributed to rises in component prices — the price of memory and storage chips has quadrupled over the past year due to surging demand from AI hyperscalers."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model?utm_source=tldrnewsletter",
+      "title": "Trump Administration Asks OpenAI to Stagger AI Model Release",
+      "summary": "The US government has requested that OpenAI release GPT-5.6 to a short list of trusted partners before a wider release. GPT-5.6 will initially be released to 20 partners through Amazon's Bedrock software platform. The Trump administration is continuing to collaborate with frontier AI labs to develop a shared approach for addressing the challenges of scaling the technology."
+    },
+    {
+      "url": "https://www.teslarati.com/spacex-starmind-ai-satellite-vs-starlink/?utm_source=tldrnewsletter",
+      "title": "SpaceX's Newest Starmind Will Make Earth Data Centers Obsolete",
+      "summary": "SpaceX's planned AI satellite constellation will be called Starmind. Starmind will compute data directly in orbit using onboard processors powered by large solar arrays, allowing AI models to run inference, process queries, and generate outputs from space. Starship will be able to carry 30 to 50 Starmind AI1 satellites per launch."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/?utm_source=tldrnewsletter",
+      "title": "IBM Claims World's First Sub-1 Nanometer Chip Technology",
+      "summary": "IBM claims to have created sub-1-nanometer chip technology using a nanostack architecture that stacks transistors in a staggered layout to pack more computing performance in the same space. IBM describes its new chip technology as being built at the 0.7-nanometer node."
+    },
+    {
+      "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/?utm_source=tldrnewsletter",
+      "title": "Repricing of Software Engineering Labor",
+      "summary": "The AI-native tooling layer is multiplying fast and is crowded already. Being an 'AI engineer' is not a moat. AI can help build prototypes, but production requires engineers who understand reliability, scale, security, performance, observability, and operational trade-offs. The biggest returns may actually come from knowing one hard thing exceptionally well."
+    },
+    {
+      "url": "https://www.philschmid.de/gemini-android-use?utm_source=tldrnewsletter",
+      "title": "Control an Android Phone with Gemini 3.5 Flash Computer Use",
+      "summary": "Gemini 3.5 Flash has a built-in tool called Computer Use that lets the model look at a screenshot and a goal and return structured actions. Users can choose to execute those actions and repeat the process until tasks are complete. Gemini supports desktop, mobile, and browser automation."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html?utm_source=tldrnewsletter",
+      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+      "summary": "A series of recent developments has caused OpenAI's executives to lean towards holding off the company's initial public offering until next year. SpaceX's IPO stock value dropped quickly after launch, global markets have been choppy, and tech stocks have dragged down indexes — factors that may mean retail investors might not have much enthusiasm for OpenAI's shares."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html?utm_source=tldrnewsletter",
+      "title": "Chinese AI Models Close the Gap With Anthropic and OpenAI",
+      "summary": "Z.ai released GLM-5.2 just days after Anthropic was forced to shut down its most powerful AI systems due to a demand from the US government. GLM-5.2 is nearly as powerful as Anthropic's Fable and Mythos models, but it costs much less to use. The model is currently one of the world's top 10 most popular models and is open source."
+    },
+    {
+      "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/?utm_source=tldrnewsletter",
+      "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+      "summary": "Figma co-founder and CEO Dylan Field discusses Figma's almost acquisition, its IPO, the company's differentiation discovery process, the nature of creativity versus design, and AI."
+    },
+    {
+      "url": "https://borretti.me/article/no-one-escapes-the-permanent-underclass?utm_source=tldrnewsletter",
+      "title": "No-One Escapes the Permanent Underclass",
+      "summary": "AI taking over will mean most workers will be replaced and the permanent overclass and government will be disempowered."
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats?utm_source=tldrnewsletter",
+      "title": "Linux Foundation Launches Akrites to Defend Open Source Software Against AI-Enabled Cyber Threats",
+      "summary": "Akrites provides a single, standardized Coordinated Vulnerability Disclosure process built on confidentiality-first principles and the industry's established standards and tooling."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?utm_source=tldrnewsletter",
+      "title": "Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line",
+      "summary": "The M7 Pro and M7 Max are scheduled for as early as the end of 2027, while the M7 Ultra is on track for 2028. Apple is skipping the high-end M6 variants entirely to focus on the AI-optimized M7 line."
+    },
+    {
+      "url": "https://x.com/bentlegen/status/2069876565110898920?utm_source=tldrnewsletter",
+      "title": "A Short Story About Deferring Tech Choices to Thought Leaders",
+      "summary": "Thought leaders put their energy into promoting new stuff, not running it."
+    },
+    {
+      "url": "https://singularityhub.com/2026/06/25/companies-could-soon-staff-stubbornly-local-jobs-with-workers-4000-miles-away/?utm_source=tldrnewsletter",
+      "title": "Companies Could Soon Staff 'Stubbornly Local' Jobs With Workers 4,000 Miles Away",
+      "summary": "Chinese tech company BuilderX Robotics' technology allows remote operators to control physical machines with a 5G or satellite connection, potentially enabling remote operation of jobs that previously required physical presence."
+    }
+  ]
+}

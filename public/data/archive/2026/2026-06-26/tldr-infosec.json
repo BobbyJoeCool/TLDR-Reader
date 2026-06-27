@@ -1,0 +1,68 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-06-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cryptonews.net/news/security/33065348/?utm_source=tldrinfosec",
+      "title": "Polymarket users lose $3 million after frontend hack",
+      "summary": "A compromised third-party vendor allowed attackers to inject a malicious script into Polymarket's frontend for some users, leading to a phishing-style drain of about $3 million from at least 11 wallets holding PUSD, with the stolen funds swapped to ETH and sent to a single address. Polymarket removed the bad dependency, contained the issue, and says it will issue a full refund to affected users."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/?utm_source=tldrinfosec",
+      "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+      "summary": "Klue says it is in contact with the Icarus hacking group and believes Icarus is deleting customer data stolen in the June 12 breach, which hit at least 11 security-focused customers. A second, unnamed group now claims to have copied that data from an Icarus operator's server, is listing 195 affected customers, and is trying to extort them directly. Klue is telling customers to verify any claims with random data samples and not pay the second group."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mNbI72",
+      "title": "New macOS Malware Embeds Fake Errors to Confuse AI Analysis Tools",
+      "summary": "SentinelOne researchers discovered a new macOS malware, dubbed GasLight, that includes embedded prompt-injection strings to mislead AI analysis tools. The malware includes a 3.5KB payload that contains 38 fake \"system\" messages alerting to issues such as out-of-memory errors, token expiry, and disk exhaustion, to confuse AI tools into stopping analysis of the binary. The malware itself is an infostealer and backdoor."
+    },
+    {
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-213r1.ipd.pdf?utm_source=tldrinfosec",
+      "title": "IoT Product Cybersecurity Guidelines for the Federal Government",
+      "summary": "NIST is seeking public comments on the initial public draft of SP 800-213 Revision 1, which sets IoT product cybersecurity requirements for federal use and aligns them with existing NIST risk and control frameworks. The draft shifts focus from standalone devices to full IoT products and asks reviewers to validate the terminology, scope, and the extent to which the guidance supports current risk assessment practices."
+    },
+    {
+      "url": "https://securelist.com/smb-threat-report-2026/120357/",
+      "title": "Inside the 2026 SMB threat landscape: From phishing and scams to fake AI tools",
+      "summary": "Kaspersky's annual SMB threat analysis reports 33,352 attacks between January and April in which malware or PUAs, mostly Trojware capable of pulling additional payloads, masqueraded as five popular AI services, nearly five times the prior year and outpacing fake office tools, with Claude and OpenClaw among the leading lures alongside roughly 415,000 attacks impersonating messengers and 24,000 impersonating office software. The credential-theft chain leans on legitimate-platform abuse, with phishing kits spoofing OneDrive document shares, fake Facebook policy-violation appeals, two-stage lures staged through Zoom Docs pages, and dark web initial-access listings that disproportionately advertise SMBs as soft entry points into larger partners via trusted-relationship attacks, which rose from 12.7 percent of initial vectors in 2024 to 15.5 percent in 2025. Defenders should restrict and promptly revoke access to corporate resources, enforce account and password hygiene with email-borne threat filtering, run phishing-simulation awareness training, and install software only from official sources after verifying platform availability."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/fn7bYL",
+      "title": "Malicious Edge Extension Abuses Native Messaging as Bridge to Malware",
+      "summary": "Zscaler researchers are warning of a malicious Microsoft Edge extension dubbed Edgecution that utilizes the Chrome Native Messaging protocol to communicate with a Python-based backdoor. The attackers pose as IT support personnel on Microsoft Teams and direct a user to a fake Microsoft \"Outlook Updates Management Console,\" which the attacker can use to install the malware via an AutoHotkey, batch, or PowerShell script. The malware resembles the tradecraft of an initial access broker connected with the Payouts Kings ransomware operation."
+    },
+    {
+      "url": "https://blog.cloudflare.com/oauth-for-all/?utm_source=tldrinfosec",
+      "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+      "summary": "Cloudflare's June 3 self-managed OAuth release lets any customer register and manage their own OAuth clients for scoped, delegated access to the Cloudflare API, replacing the API tokens that previously gated SaaS integrations, internal developer platforms, and agentic tooling. This is Cloudflare's own launch write-up, and much of it reads as an engineering retrospective on migrating the underlying Hydra engine via sequential 1.X and 2.X blue-green upgrades, alongside clearer consent prompts, dashboard revocation, and visible app ownership to curb OAuth phishing."
+    },
+    {
+      "url": "https://www.runlayer.com/?utm_source=tldrinfosec",
+      "title": "Runlayer",
+      "summary": "Runlayer runs a control layer for enterprise AI agents, monitoring access and usage, enforcing identity and permissions policies, and blocking prompt injection, data exfiltration, tool poisoning, and unmanaged agents across company systems."
+    },
+    {
+      "url": "https://github.com/MemNixFS/MemNixFS?utm_source=tldrinfosec",
+      "title": "MemNixFS",
+      "summary": "MemNixFS mounts Linux memory dumps as a browsable filesystem, exposing processes, the page cache, reconstructed root filesystem, threat-hunt verdicts, and a UTC forensic timeline as ordinary files you can grep, cat, or feed to existing scripts on Windows or Linux. It runs without a matching debug profile by generating types from the dump's embedded BTF information, and ships a stable C ABI so other languages can drive the same engine."
+    },
+    {
+      "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html?utm_source=tldrinfosec",
+      "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+      "summary": "Law enforcement and vendors disrupted Amadey and StealC infrastructure, seizing 326 servers, 142 domains, and restricting around $47 million in crypto tied to 27 million stolen credentials. Amadey and StealC operated as MaaS loaders and stealers, with affiliates using self-hosted panels and broad payload delivery. Microsoft and partners shut down over 200 C2 endpoints and cut control over thousands of infected machines."
+    },
+    {
+      "url": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/?utm_source=tldrinfosec",
+      "title": "CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure",
+      "summary": "Unit 42 attributes a sustained 2025 campaign against Southeast Asian government and state-owned energy entities to CL-STA-1062, a Chinese-speaking cluster active since at least March 2022 that it assesses with high confidence to be the same actor Cisco Talos tracks as UAT-7237. The group pairs commodity tooling such as SoftEther VPN, Mimikatz, VNT, and JuicyPotato with TinyRCT, a previously undocumented C#/.NET backdoor delivered via AppDomainManager injection that supports arbitrary command execution, file exfiltration, screen capture, and a self-destruct routine that scrubs forensic artifacts. The progression from Taiwanese web hosting infrastructure to regional critical energy and government targets signals a broadening Asia-Pacific espionage focus, and the shift toward bespoke malware suggests CL-STA-1062 will remain a durable threat to the region's strategic sectors."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/?utm_source=tldrinfosec",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "summary": "The Trump administration has reportedly pressed OpenAI to limit GPT 5.6 to a vetted, customer-by-customer preview rather than a public launch, mirroring Anthropic's Project Glasswing restrictions on its Claude Mythos cyber model, over concerns that frontier models capable of autonomously finding and exploiting software vulnerabilities pose an outsized risk in the wrong hands."
+    }
+  ]
+}

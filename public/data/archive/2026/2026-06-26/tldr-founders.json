@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-06-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.elenaverna.com/p/the-ai-era-requires-a-different-kind?utm_source=tldrfounders",
+      "title": "The AI Era Requires a Different Kind of Experimentation",
+      "summary": "Traditional experimentation had its limits, but some of them made sense because product development was slow. Most experiments focus on pulling up revenue but don't deliver incremental progress. Things are now different, so founders should skip minor optimizations, take bigger swings, and let tests run longer."
+    },
+    {
+      "url": "https://www.stripeeconomics.com/p/the-age-of-the-solopreneur?utm_source=tldrfounders",
+      "title": "The Age of the Solopreneur",
+      "summary": "The one-person company is having a real moment. Solopreneurs clearing $1M a year doubled from 2023 to 2025, and roughly three times as many crossed $5M and $10M. Newer cohorts ramp faster too — 2025 sign-ups hit $1M about 30% quicker than 2023 and three times quicker than 2019."
+    },
+    {
+      "url": "https://www.tanayj.com/p/build-the-agent-or-power-the-agent?utm_source=tldrfounders",
+      "title": "Build the Agent or Power the Agent",
+      "summary": "Technology analyst Tanay Jaipuria broke down the primary market map split emerging within the agentic software landscape, contrasting end-to-end applications against backend infrastructure tooling. While bespoke vertical agents capture high initial contract values by replacing human service labor, infrastructure platforms gain long-term defensibility by providing essential orchestration layers."
+    },
+    {
+      "url": "https://newsletter.notablecap.com/p/how-the-smartest-startups-are-building-moats-right-now?utm_source=tldrfounders",
+      "title": "How the Smartest Startups Are Building Moats Right Now",
+      "summary": "As foundational model access commoditizes pure software functionality, early-stage technology startups are pivoting toward proprietary data loops and deeply embedded operational workflows to secure defensible moats. Successful teams are focusing heavily on capturing high-fidelity enterprise interaction data that cannot be scraped or simulated by generalized frontier systems."
+    },
+    {
+      "url": "https://x.com/jakecastilloooo/status/2069417525947912540?utm_source=tldrfounders",
+      "title": "The Ultimate Guide to Build and Scale Consumer Apps",
+      "summary": "Cal AI went from nothing to the number one health app in 18 months on the back of influencers. Judge creators on their baseline views and a live comment section, not follower count, and pay flat rates so a viral video never costs you more. The money is in mid-sized creators — four people ran hundreds of partnerships by automating the entire pipeline, because the only moat left is speed."
+    },
+    {
+      "url": "https://x.com/parkerconrad/status/2070169982827192525?utm_source=tldrfounders",
+      "title": "Introducing Rippling Data Cloud: AI-Powered BI That Understands Your Workforce",
+      "summary": "Rippling Data Cloud aggregates data from across companies, connects it to worker identity, and makes it available for analysis, visualization, and action. Together with Rippling AI, it allows founders to better understand company performance dynamics across sales, engineering, and operations using only a conversational interface."
+    },
+    {
+      "url": "https://github.com/deepset-ai/haystack?utm_source=tldrfounders",
+      "title": "Haystack (GitHub Repo)",
+      "summary": "Haystack is an AI orchestration framework for building production-ready LLM applications in Python. Its transparent architecture lets developers experiment, customize deeply, and deploy with confidence. It can be used to build scalable RAG systems, multimodal applications, semantic search, and more."
+    },
+    {
+      "url": "https://x.com/nikunj/status/2070268106564587840?utm_source=tldrfounders",
+      "title": "The Series A Squeeze",
+      "summary": "VCs follow in flocks into the hot categories. Founders without heat in those areas get ignored. This does not mean they have a bad business — it just means the business is not interesting to VCs right now."
+    },
+    {
+      "url": "https://claude.com/blog/building-effective-human-agent-teams?utm_source=tldrfounders",
+      "title": "Building Effective Human-Agent Teams",
+      "summary": "Anthropic outlined a production framework detailing structural design patterns required to optimize collaborative workflows between human operators and autonomous agents. The design principles emphasize continuous state synchronization and explicit handover protocols to ensure seamless execution across long-horizon business logic tasks."
+    },
+    {
+      "url": "https://openai.com/index/how-agents-are-transforming-work/?utm_source=tldrfounders",
+      "title": "How Agents Are Transforming Work",
+      "summary": "Agentic AI changes the unit of knowledge work from single interactions to delegated, long-horizon tasks. The ability to operate independently for long periods while orchestrating tool calls, interacting with environments, and iterating towards solutions makes agents one of the most powerful AI tools for work."
+    },
+    {
+      "url": "https://x.com/mhdempsey/status/2069535232278343877?utm_source=tldrfounders",
+      "title": "It's My Life's Work, I'm Not in a Hurry",
+      "summary": "A quiet antidote to the opportunity-cost panic so many young founders carry."
+    },
+    {
+      "url": "https://tremendous.blog/2026/06/24/fundraising-friction-is-killing-your-round-heres-how-to-remove-it/?utm_source=tldrfounders",
+      "title": "Fundraising Friction is Killing Your Round: Here's How to Remove It",
+      "summary": "By proactively removing administrative roadblocks before launching a round, founders can significantly compress closing timelines and maintain critical competitive momentum between syndicates."
+    }
+  ]
+}

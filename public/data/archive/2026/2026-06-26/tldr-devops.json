@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-06-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.argoproj.io/argo-cd-v3-5-release-candidate-02b1fbf7b419",
+      "title": "Argo CD v3.5 Release Candidate",
+      "summary": "Argo CD 3.5 introduces major enhancements, including ApplicationSet UI support with deployment previews, beta status for impersonation and Source Hydrator, Helm 4 compatibility, repo-server mTLS, source integrity validation, and expanded multi-tenant capabilities for large-scale GitOps environments. The release also improves Azure integration, Gateway API visualization, CLI namespace support, application search, reliability, performance, and documentation."
+    },
+    {
+      "url": "https://grafana.com/blog/grafana-13-1-release-all-the-latest-features/",
+      "title": "Grafana 13.1 release: observability as code updates, extending Grafana Assistant across more data sources, and more",
+      "summary": "Grafana has expanded its observability-as-code capabilities with Git Sync reaching general availability, adding support for GitLab, BitBucket, and signed commits, while Grafana Assistant now supports eight additional data sources, including Snowflake, Oracle, and Elasticsearch. The 13.1 release also introduced section-level variables for more granular dashboard control and extended Private Data Source Connect to MQTT, GitHub Enterprise Server, and IBM Db2 for secure connections to private networks."
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+      "title": "Getting more from each token: How Copilot improves context handling and model routing",
+      "summary": "GitHub Copilot is improving agent efficiency by reducing redundant context through prompt caching, deferred tool loading, and cache-aware routing, while introducing Auto model selection to match tasks with appropriate models dynamically. These changes aim to optimize cost, performance, and quality across long agentic sessions by minimizing repeated computation and improving model-task alignment."
+    },
+    {
+      "url": "https://blog.crossplane.io/building-modelplane/",
+      "title": "Building Modelplane on Crossplane",
+      "summary": "Nic Cope, a longtime Crossplane engineer, built Modelplane—an open-source control plane that unifies scattered GPU clusters across clouds into a single inference fleet for serving AI models—entirely using Crossplane compositions and functions without writing custom operators. The project pushed Crossplane's capabilities to their limits, revealing and helping fix several framework bugs, including Python keyword conflicts in schema generation, match-all resource selectors for the fleet scheduler, and discrepancies between the `crossplane render` testing tool and actual runtime behavior."
+    },
+    {
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "title": "How to Write an Effective Software Design Document",
+      "summary": "Effective design docs help teams make expensive technical decisions before implementation, especially when a project is complex, risky, cross-team, ambiguous, or likely to live in production for years. A good doc should focus on decisions where being wrong is costly, then clearly lay out the objective, background, goals, non-goals, scenarios, diagrams, constraints, SLOs, monitoring, interfaces, dependencies, security, privacy, open questions, and alternatives so reviewers can give useful feedback before the team commits to the wrong path."
+    },
+    {
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "title": "No-mistakes (GitHub Repo)",
+      "summary": "no-mistakes is an open-source tool that acts as a local git proxy that intercepts pushes, runs AI-driven validation checks in a disposable worktree, and only forwards code to the remote repository after all checks pass, automatically opening a pull request with safe fixes applied. The tool offers both an interactive terminal UI for manual approval of changes and a headless \"/no-mistakes\" skill that integrates with coding agents like Claude Code, ensuring no unvalidated code reaches the target repository."
+    },
+    {
+      "url": "https://github.com/stablyai/orca",
+      "title": "Orca (GitHub Repo)",
+      "summary": "Orca, a new open-source \"AI Orchestrator\" tool, lets developers run multiple AI coding agents, like Claude Code, Codex, and OpenCode, simultaneously in isolated environments to compare their outputs and manage them from desktop or mobile devices. The MIT-licensed platform includes features like side-by-side agent comparison, remote execution capabilities, integrated code review tools, and support for over 30 different AI coding assistants."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/devops/production-ready-autonomous-incident-resolution-with-aws-devops-agent-now-ga-and-datadog-mcp-server/",
+      "title": "Production-Ready Autonomous Incident Resolution with AWS DevOps Agent (now GA) and Datadog MCP Server",
+      "summary": "Datadog MCP Server and AWS DevOps Agent are now generally available, enabling autonomous incident investigation and resolution by correlating Datadog observability data with AWS, multicloud, and on-premises telemetry, deployments, and code. The integration automates root cause analysis, mitigation planning, stakeholder coordination, and incident prevention recommendations, helping teams reduce resolution times from hours to minutes while improving reliability and operational efficiency."
+    },
+    {
+      "url": "https://blog.cloudflare.com/agents-platform-flue-sdk/",
+      "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
+      "summary": "Agent harnesses are becoming production infrastructure layers that sit between models and real-world systems, but they struggle with distributed systems problems like interruption recovery, secure code execution, and persistent state. Cloudflare's Agents SDK addresses this with primitives for durable execution, sandboxed code runs, virtual filesystems, and dynamic workflows, enabling frameworks like Flue and Pi to build resilient, scalable agents across cloud environments."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/",
+      "title": "Building and running custom code transformations without leaving your editor",
+      "summary": "AWS Transform custom is an AI-powered service that lets developers describe code transformations in natural language and automatically apply them across repositories—handling up to 3 repos in parallel locally or scaling to hundreds simultaneously via AWS Batch with Fargate. The service integrates with popular IDEs through a Kiro power, an agent skill compatible with 40+ tools like Claude Code and Cursor, and a VS Code plugin, allowing teams to tackle custom migration work like updating internal libraries or standardizing logging without writing manual transformation scripts."
+    },
+    {
+      "url": "https://www.devopsdigest.com/ai-has-outpaced-how-engineering-organizations-measure-developer-productivity",
+      "title": "AI Has Outpaced How Engineering Organizations Measure Developer Productivity",
+      "summary": "While most engineering leaders report significant productivity and satisfaction gains from AI coding tools, organizations are simultaneously losing visibility into real costs, with much developer time shifting into untracked work like code review and validation."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/06/23/building-jaegers-clickhouse-backend-8-6x-compression-on-10-million-spans/",
+      "title": "Building Jaeger's ClickHouse backend: 8.6× compression on 10 million spans",
+      "summary": "Jaeger v2.18.0 introduces ClickHouse as a new storage backend for distributed tracing, achieving an 8.6× compression ratio and sustaining over 50,000 spans per second in benchmarks with 10 million spans."
+    }
+  ]
+}

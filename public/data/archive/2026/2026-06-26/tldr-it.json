@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/media-telecom/us-fcc-toughens-submarine-communication-cable-rules-2026-06-25/?utm_source=tldrit",
+      "title": "FCC Tightens Rules For Submarine Internet Cables",
+      "summary": "The FCC voted to increase oversight of submarine communications cables, which carry nearly all international internet traffic, with new licensing requirements for critical terminal equipment and stricter security standards for operators. Undersea cables are becoming a national security, cloud capacity, and internet resilience concern as AI and global traffic keep growing."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4189077/ibm-red-hat-palo-alto-team-to-secure-open-source-software.html?utm_source=tldrit",
+      "title": "IBM, Red Hat, Palo Alto Team to Secure Open-Source Software",
+      "summary": "IBM, Red Hat, and Palo Alto Networks are collaborating to help enterprises identify vulnerabilities in open-source software and deploy protections, especially against AI-driven threats. The effort combines Palo Alto's network-based virtual patching with IBM/Red Hat's Project Lightwell remediation initiative, using shared vulnerability intelligence and secure processes for faster, preemptive defense."
+    },
+    {
+      "url": "https://www.axios.com/2026/06/25/water-energy-ai-flashpoint?utm_source=tldrit",
+      "title": "Water Joins Energy As The Next AI Data Center Flashpoint",
+      "summary": "AI infrastructure is facing growing scrutiny over water use, not just power consumption, as hyperscale data centers expand and communities push back on local resource impact. AI infrastructure planning is becoming a real estate, utilities, policy, and reputation problem, not just a cloud capacity problem."
+    },
+    {
+      "url": "https://www.cio.com/article/4184159/what-cios-must-do-after-the-board-meeting.html?utm_source=tldrit",
+      "title": "What CIOs Must Do After The Board Meeting",
+      "summary": "CIOs often over-focus on the board presentation itself, but the real value comes from what happens after: following up on questions, understanding what resonated, building ongoing relationships with directors, and tying technology updates back to business impact. Board engagement should be treated as an ongoing dialogue, not a quarterly performance, especially as boards dig deeper into AI governance, cyber risk, and resilience."
+    },
+    {
+      "url": "https://jfrog.com/blog/why-uniform-governance-fails-with-enterprise-ai-agents/?utm_source=tldrit",
+      "title": "Why Uniform Governance Fails with Enterprise AI Agents (And How to Fix It)",
+      "summary": "Blanket governance policies are unlikely to work for enterprise AI agents as they become more autonomous, capable of planning workflows, calling APIs, generating runtime code, and modifying databases. Instead of treating all agents the same, organizations should apply proportional controls to individual components such as MCPs, tools, plugins, and skills."
+    },
+    {
+      "url": "https://www.implicator.ai/mistral-makes-ocr-a-map-for-enterprise-search/?utm_source=tldrit",
+      "title": "Mistral Makes OCR a Map for Enterprise Search",
+      "summary": "Mistral's OCR 4 changes enterprise document AI by returning not just extracted text, but page-aware structure: bounding boxes, block labels, and confidence scores tied to page coordinates. The update supports 170 languages and enables enterprise search and compliance/audit workflows to cite the exact chart, signature, or table used rather than relying on flattened text."
+    },
+    {
+      "url": "https://www.ciodive.com/news/magnum-ice-cream-company-enlists-six-vendors-build-tech-stack/823816/?utm_source=tldrit",
+      "title": "Magnum Taps Six Vendors To Build Its Post-Unilever Tech Stack",
+      "summary": "The Magnum Ice Cream Company selected Accenture, HCLTech, Kinaxis, Microsoft, Salesforce, and SAP to build its standalone technology stack as it exits Unilever's IT systems by the end of 2027. Large companies are using separations as a chance to avoid legacy customization and build AI-ready foundations across ERP, CRM, supply chain, and cloud infrastructure."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/06/stricter-classifications-for-google-groups-to-enhance-data-security-and-privacy.html?utm_source=tldrit",
+      "title": "Google Groups Gets Stricter Classifications For Data Security",
+      "summary": "Google is rolling out stricter Google Groups classifications to improve data security and privacy, continuing its push to reduce risky group configurations and protect sensitive collaboration spaces. Group misconfiguration is one of the easiest ways companies accidentally expose internal data."
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/?utm_source=tldrit",
+      "title": "The Emergence of the Web Data Infrastructure Layer for AI",
+      "summary": "AI adoption is increasing demand for fresh, reliable web data, creating challenges for enterprises that need current information at scale. A new generation of web data infrastructure aims to discover and map web content in near real time, helping AI systems ground outputs in up-to-date information while meeting governance and compliance requirements."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4188967/making-windows-a-developer-platform-again.html?utm_source=tldrit",
+      "title": "Microsoft Wants Windows To Be A Developer Platform Again",
+      "summary": "Microsoft is pushing Windows back toward a serious developer workstation platform with Coreutils for Windows, Windows Developer Config, WSL Comfort scripts, and repeatable setup tooling built around winget and desired-state configuration."
+    },
+    {
+      "url": "https://www.salesforce.com/blog/baca-systems-customer-story/?utm_source=tldrit",
+      "title": "BACA Systems Uses Salesforce AI To Double Sales Productivity",
+      "summary": "BACA Systems uses Salesforce Einstein and Flow to automate sales, licensing, inventory, manufacturing, and service workflows, showing how smaller companies can use CRM plus AI plus automation as a broader business operating layer."
+    },
+    {
+      "url": "https://www.redhat.com/en/blog/why-automated-network-configuration-assurance-matters-enterprise-netops?utm_source=tldrit",
+      "title": "Red Hat Explains Network Configuration Assurance With NetBox And Ansible",
+      "summary": "Red Hat argues that network teams need a source-of-truth-plus-automation model to fight configuration drift, using NetBox for intended state and Ansible Automation Platform to compare, report, and remediate differences against live network devices."
+    }
+  ]
+}

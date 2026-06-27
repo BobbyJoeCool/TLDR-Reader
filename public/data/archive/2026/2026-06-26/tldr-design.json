@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-06-26",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.figma.com/blog/config-2026-recap/?utm_source=tldrdesign",
+      "title": "Config 2026: New Materials, New Tools, and a More Expressive Canvas",
+      "summary": "Figma introduced a suite of new creative materials and tools at Config 2026, including code layers, Figma Motion, shader fills, generative plugins, and Weave tools, all aimed at eliminating the boundaries between design and other disciplines. Rather than positioning AI as the ceiling-raiser, CEO Dylan Field frames these tools as a foundation for designers to push creative expression further."
+    },
+    {
+      "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license?utm_source=tldrdesign",
+      "title": "Enterprise-Grade AI Image Generation in 2 Seconds: Krea 2 Raw and Turbo",
+      "summary": "Krea released two open-weight AI image models — Krea 2 Raw and Krea 2 Turbo — with Turbo generating images in just 2 seconds. Backed by $83 million in venture capital, Krea has grown to 30 million users across 191 countries, marking its evolution from an AI tools aggregator into an independent model provider."
+    },
+    {
+      "url": "https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/?utm_source=tldrdesign",
+      "title": "iPhone Ultra 2 Already Given Go-Ahead, iPhone Air 3 Not, Says Leaker",
+      "summary": "Apple has reportedly green-lit development of a second-generation iPhone Ultra, signaling confidence in its foldable iPhone plans, while delaying a decision on an iPhone Air 3 until it sees how well the upcoming iPhone Air 2 sells."
+    },
+    {
+      "url": "https://uxmag.com/articles/beyond-vibe-coding-a-designers-case-for-directed-generation?utm_source=tldrdesign",
+      "title": "Beyond Vibe Coding: A Designer's Case for Directed Generation",
+      "summary": "Designers should avoid describing intentional AI-assisted workflows as 'vibe coding,' since the term implies passive, low-accountability generation rather than deliberate creative direction. Terms like 'directed generation' better reflect a process where human authorship remains central."
+    },
+    {
+      "url": "https://learn.thedesignsystem.guide/p/50-design-token-files-one-problem?utm_source=tldrdesign",
+      "title": "50 Design Token Files, One Problem: Your Agents Can't Read the Meaning",
+      "summary": "An analysis of 50 public design systems found that while design tokens are well-structured for build pipelines, most lack the semantic metadata AI agents need to use them reliably. Adding descriptions, deprecation flags, and machine-readable rules directly to token files can significantly improve AI-generated design decisions."
+    },
+    {
+      "url": "https://tonsky.me/blog/every-frame-perfect/?utm_source=tldrdesign",
+      "title": "Every Frame Perfect",
+      "summary": "UI quality is often judged by its weakest moment — any screenshot taken mid-animation should be explainable, not glitchy. Poorly synced animations erode user trust by signaling lack of polish. Developers should treat in-between animation states with the same care as start and end states."
+    },
+    {
+      "url": "https://cavalry.studio/?utm_source=tldrdesign",
+      "title": "Cavalry Studio: Motion Design Reinvented",
+      "summary": "Real-time 2D animation, motion design, and data-driven workflows built for animators and motion designers."
+    },
+    {
+      "url": "https://www.maxon.net/en/autograph?utm_source=tldrdesign",
+      "title": "Autograph: Free 2D/3D Motion Graphics and VFX Software",
+      "summary": "Autograph is a software solution that combines professional tools for motion graphics, VFX/compositing, and 2D/3D projects across industries."
+    },
+    {
+      "url": "https://vercel.com/design/engineer?utm_source=tldrdesign",
+      "title": "Design Engineer Principles",
+      "summary": "Vercel's Design Engineer principles center on owning the full product experience — from shaping interfaces to shipping code — while solving real problems for users and teammates. True excellence requires understanding users, constraints, and tradeoffs, then scoping work small enough to execute with clarity, craft, and trust."
+    },
+    {
+      "url": "https://the-brandidentity.com/project/fable-co-gives-lignin-pioneer-nova-biochem-its-first-real-identity?utm_source=tldrdesign",
+      "title": "Fable&Co. Gives Lignin Pioneer Nova Biochem Its First Real Identity",
+      "summary": "Fable&Co. created Nova Biochem's first complete brand identity around the concept of 'Matter,' combining molecular-inspired visuals, a distinctive yellow accent, and a science-led website to present the deep-tech startup as a credible, scalable industrial business."
+    },
+    {
+      "url": "https://smart-interface-design-patterns.com/articles/ai-productivity/?utm_source=tldrdesign",
+      "title": "The Illusion of AI Productivity",
+      "summary": "Despite widespread excitement about AI boosting productivity, a study of 163,000 employees found people are working more — including on weekends — while spending less time in focused, deep work. Rather than automating everything, use AI only on repetitive, low-value tasks, preserving the slow, challenging work that brings genuine meaning and accomplishment."
+    },
+    {
+      "url": "https://www.creativeboom.com/inspiration/the-naturally-refreshing-visual-language-of-sour-soda-studio/?utm_source=tldrdesign",
+      "title": "The Naturally Refreshing Visual Language of Sour Soda Studio",
+      "summary": "Sour Soda Studio is an anonymous side project built over four years through experimentation with freehand vector brushes in Adobe Fresco, resulting in a soft, rubber-like visual language of organic lines and flat colors."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/branding/ikea-turns-everyday-objects-into-ingenious-world-cup-guessing-game?utm_source=tldrdesign",
+      "title": "Ikea Turns Everyday Objects Into Ingenious World Cup Guessing Game",
+      "summary": "Ikea Canada's 'Assemble the World' campaign celebrates the 2026 World Cup by using everyday Ikea products to recreate national flags, blending interactive marketing with the brand's signature design aesthetic."
+    }
+  ]
+}

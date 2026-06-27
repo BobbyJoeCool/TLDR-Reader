@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-06-26",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/405578/tokenized-rwa-market-cap-rises-51-billion-industry-races-define-equity-tokenization-model-bernstein?utm_source=tldrcrypto",
+      "title": "Tokenized RWA Market Cap Rises 40% to Top $51 Billion",
+      "summary": "The tokenized RWA market reached $51 billion in market cap, a 40% year-to-date gain while the broader crypto market fell about 20%, with private credit comprising 47% of total value. The sector is bifurcating around two structural models: broker-dealer custody arrangements that enable 24/7 trading but strip registered shareholder status, versus the settlement infrastructure model pursued by Figure, Securitize, and Coinbase that confers full on-chain ownership rights."
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound?utm_source=tldrcrypto",
+      "title": "Bitcoin Back Above $60,000, ETH and SOL Recoup Losses as AI Stocks Stage Rebound",
+      "summary": "Bitcoin bounced above $60,000 after a dip to $59,200, but weekly losses remain steep: BTC off 5.4%, ETH down 7.9% to $1,616, XRP down 9.2% to $1.07, and SOL, HYPE, and DOGE posting double-digit weekly declines. Bitcoin's proximity to its 200-week moving average mirrors setups from 2015, 2018, and 2022, each of which preceded crypto winters lasting six months to nearly two years."
+    },
+    {
+      "url": "https://www.theblock.co/post/406054/kraken-expands-otc-lending-onchain-warehouse-facility-maple?utm_source=tldrcrypto",
+      "title": "Kraken Expands OTC Lending Through On-Chain Warehouse Facility",
+      "summary": "Kraken and Maple Finance have launched an on-chain OTC lending warehouse facility modeled on asset-backed securitization, with Maple providing senior financing via a bankruptcy-remote SPV and Kraken serving as loan originator, servicer, and junior lender taking the first-loss position."
+    },
+    {
+      "url": "https://ethresear.ch/t/towards-native-post-quantum-private-eth/25291?utm_source=tldrcrypto",
+      "title": "Towards Native Post-Quantum Private ETH",
+      "summary": "Harvest-now-decrypt-later vulnerabilities make reactive quantum-resistance approaches insufficient for private ETH. A proposal on ethresear.ch calls for proactive, L1-native quantum-resistant cryptography using hash-based proof systems. ML-KEM (Kyber) replaces traditional key agreement, SPHINCS+ covers stateless spending authorization, and a phased progressive pool uncapping mechanism would expand deposit limits during early deployment."
+    },
+    {
+      "url": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered?utm_source=tldrcrypto",
+      "title": "Aave Token Could Climb 50x by End of 2030",
+      "summary": "Standard Chartered analysts project Aave reaching $3,500 by end-2030, alongside forecasts of $500,000 for Bitcoin and $40,000 for Ethereum. The Aave thesis rests on a projected 37-fold expansion of tokenized assets deployed in DeFi to $2.7 trillion by 2030, with Aave capturing revenue through lending spread fees."
+    },
+    {
+      "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=tldrcrypto",
+      "title": "Fed Proposes Payment Accounts for Crypto and Fintech Firms",
+      "summary": "The Federal Reserve has proposed a new payment accounts category for non-bank fintech and crypto firms, offering Fed access without discount window privileges, interest, or intraday credit, and capped at $1 billion. Public comments close July 27 and Congress is debating whether to legislate the framework."
+    },
+    {
+      "url": "https://x.com/mywebacy/status/2070067071367401592?utm_source=tldrcrypto",
+      "title": "What Should Exist on HyperEVM?",
+      "summary": "HyperEVM is the programmable layer over HyperCore, where read precompiles let contracts query the exchange state and CoreWriter lets contracts submit actions back to the exchange. The long-term thesis is a unified financial account where a single balance moves across trading, borrowing, yield, hedging, and payments, with HyperCore serving as the underlying balance sheet."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069952037304091133.html?utm_source=tldrcrypto",
+      "title": "Brian Armstrong Signals More Coinbase Acquisitions After Deribit Deal",
+      "summary": "Coinbase CEO Brian Armstrong said further acquisitions are on the table following the $2.9B Deribit deal."
+    },
+    {
+      "url": "https://www.theblock.co/post/406105/sbi-holdings-agrees-to-acquire-japanese-crypto-exchange-bitbank-in-288-6-million-deal?utm_source=tldrcrypto",
+      "title": "SBI Holdings to Acquire Bitbank for $288.6M",
+      "summary": "SBI Holdings has agreed to acquire all shares of Japanese crypto exchange Bitbank for approximately 46.7 billion yen (~$288.6M), expected to close in October."
+    },
+    {
+      "url": "https://www.theblock.co/post/406099/half-of-uk-wealth-advisors-say-most-clients-crypto-sits-outside-their-oversight-as-61-of-european-peers-face-firm-restrictions-coinshares?utm_source=tldrcrypto",
+      "title": "50% of UK Wealth Advisors Say Client Crypto Sits Outside Their Visibility",
+      "summary": "A CoinShares survey of 261 European wealth management professionals found that 50% of UK advisors say most of their clients' crypto holdings sit outside their oversight."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2070092245139870011.html?utm_source=tldrcrypto",
+      "title": "Crypto Exchanges Are Becoming RWA Venues",
+      "summary": "Binance's USDT-margined perpetuals data shows metals, oil, and equities now outpacing altcoins (excluding the top 10) by average single-asset volume."
+    }
+  ]
+}
