@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-06-25",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://threadreaderapp.com/thread/2069408300148388113.html?utm_source=tldrcrypto",
+      "title": "Ethereum Foundation Cuts 54 Staff in Largest Restructuring",
+      "summary": "The Ethereum Foundation cut 54 staff on June 23, representing roughly 20% of the organization and concluding a months-long restructuring process tied to its newly adopted Mandate and Treasury Management Policy. This is one of the largest headcount reductions in the EF's history as a Switzerland-based nonprofit supporting Ethereum protocol and ecosystem development. Foundation leadership stated the remaining team has the structure and personnel needed to execute on critical protocol tasks going forward. Several departing contributors are expected to continue Ethereum-related work outside the EF, a shift that may accelerate decentralization of core ecosystem development across independent teams."
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-slips-toward-usd63-000-as-a-tech-selloff-drags-risk-assets-lower?utm_source=tldrcrypto",
+      "title": "Bitcoin Slips Toward $63,000 as a Tech Selloff Drags Risk Assets Lower",
+      "summary": "A rotation out of chip and AI-focused equities pulled Bitcoin to $62,840 (-1.1% daily, -3.5% weekly) and Ether to $1,719, as South Korea's Kospi fell over 6% and Nasdaq 100 futures dropped 1.3%, reinforcing crypto's tightening correlation with the tech trade. XRP led major-cap losses at -9% weekly while Solana shed 3.4% daily to $71, though Tron diverged with a 4.6% weekly gain. Two crypto-specific signals flag additional weakness: the Coinbase premium has flipped negative, pointing to soft US institutional demand, and Strategy's STRC preferred stock fell below $84, adding overhead sentiment pressure. Bitcoin's $59,000-$60,000 zone is the critical support floor, with Micron earnings Wednesday, the June jobs report on July 2, and CPI on July 14 serving as near-term tests for risk appetite."
+    },
+    {
+      "url": "https://thedefiant.io/news/defi/0x-swap-api-ai-agents-usdc-payment-x402?utm_source=tldrcrypto",
+      "title": "0x Opens Swap API to AI Agents Paying $0.01 Per Request in USDC",
+      "summary": "0x Protocol opened its Swap API to AI agents charging $0.01 per request in USDC, paid directly from agent-controlled wallets with no API key required. The integration runs on the x402 standard (HTTP 402 Payment Required) with Alchemy AgentPay providing payment rails, enabling machine-to-machine micropayments at the protocol call layer. Agents can now access 0x's DEX aggregation routing autonomously without human-managed credentials, removing centralized gatekeeping from on-chain swap infrastructure for agentic workflows."
+    },
+    {
+      "url": "https://thedefiant.io/news/defi/synthetix-governance-retire-susd-sip-423-vested-snx?utm_source=tldrcrypto",
+      "title": "Synthetix Governance Votes to Retire sUSD, Pay Holders in Vested SNX",
+      "summary": "Synthetix governance approved SIP-423, introduced June 12, to freeze the sUSD stablecoin contract and retire it entirely, compensating holders at 4 SNX per sUSD in vested tokens rather than a dollar-pegged alternative. Holders receive vested SNX rather than liquid proceeds, so their effective recovery depends on SNX price at the time of vesting, introducing market exposure where holders previously held a stablecoin position. A companion proposal, SIP-424, covering technical implementation details remains pending before the retirement can be executed on-chain. The vote marks a full exit from stablecoin issuance for Synthetix, consolidating the protocol's capital structure entirely around SNX rather than maintaining a synthetic dollar layer."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069786654022287755.html?utm_source=tldrcrypto",
+      "title": "The Case for an AI-Exposure Investment Product Leveraging AI",
+      "summary": "There is no investment product that gives regular people true asymmetric exposure to AI as current options top out at Nvidia and AI ETFs, with pre-IPO, early-stage venture, and sovereign fund allocations gated behind wealth and access, which is precisely the problem crypto rails are supposed to solve. Combining public stocks, pre-IPO names, venture allocations, and derivatives that track AI's actual share of GDP, white-collar job displacement, and sector growth, with a composable crypto structure would pay out most aggressively if AI accelerates faster than expected. The key constraint is counterparty risk as the structure only works if it's issued by someone with a real balance sheet who can actually pay at settlement."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069819389994750120.html?utm_source=tldrcrypto",
+      "title": "David Marcus on Lightspark Reaching Escape Velocity in Global Payments",
+      "summary": "Lightspark CEO David Marcus reflects on four years of methodically building payment infrastructure, describing the company as having finally reached the \"sweet spot where capabilities, licensing, and partnerships converge.\" That now includes nearly 70 countries' payment systems integrated in real-time, every major stablecoin and blockchain live, a global dollar account product for banks and platforms, a full Visa vertical stack integration for global card issuance, and an at-scale stablecoin and Bitcoin settlement rail via Spark. Payments always rewards the team willing to accumulate licenses, capabilities, and partnerships one by one, and most companies bail before reaching escape velocity."
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10?utm_source=tldrcrypto",
+      "title": "Taiko Halts Its Network After a Bridge Exploit",
+      "summary": "Taiko halted its Ethereum L2 on June 22 after an attacker forged cross-chain withdrawal proofs to drain approximately $1.7 million from the bridge and token vault. BlockSec traced the root cause to an exposed Raiko SGX enclave signing key committed to GitHub, which allowed the attacker to generate fabricated proofs the verifier accepted. The TAIKO token dropped over 20% as the team froze withdrawals, halted block production, and urged exchanges to suspend deposits, with approximately $170,000 in tokens moving to MEXC before containment. The incident adds to a 2026 tally of 14+ bridge exploits totaling over $340 million in losses, following forged cross-chain messaging attacks against Kelp DAO ($292 million) and the Verus-Ethereum bridge ($11.4 million) earlier this year."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/XfJCwD",
+      "title": "Tom Lee Says 'Best Years for Crypto Remain Ahead' as Bitmine Buys Another 52,203 ETH",
+      "summary": "Bitmine Immersion Technologies acquired 52,203 ETH last week, bringing its treasury to 5.67 million ETH representing 4.7% of total ether supply, valued at $9.8 billion at $1,733 per token and placing the company 94% toward its stated goal of controlling 5% of the network's supply. The position makes Bitmine the largest corporate ETH holder globally and the second-largest corporate crypto treasury overall, behind Strategy Inc.'s $54 billion bitcoin portfolio. Over 83% of its ETH stack is actively staked through MAVAN validator infrastructure, generating projected annual revenue of $223 million with capacity to scale to $268 million. Chairman Tom Lee described the current period as \"early stages of crypto spring,\" citing tokenization and AI adoption as the forces expected to drive exponential blockchain demand growth."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069798489588908207.html?utm_source=tldrcrypto",
+      "title": "Xapo Bank Updates BTC-Backed Loans",
+      "summary": "Xapo Bank announced an updated Bitcoin-backed loan product allowing members to unlock up to $5 million in USD liquidity instantly while keeping their BTC."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069986084679794801.html?utm_source=tldrcrypto",
+      "title": "Chinese Bitcoin Miner Jiang Zhuoer Calls BTC Bear Market Bottom",
+      "summary": "Jiang Zhuoer, one of China's most prominent Bitcoin miners, predicts the current bear market will bottom between October and December in the $42,000-$44,000 range, drawing on the observation that Strategy's mNAV has already fallen to 0.72, near the 0.7 low seen at the May 2022 bull-to-bear transition."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069916670202978659.html?utm_source=tldrcrypto",
+      "title": "ETH Exchange Reserves Hit All-Time Low",
+      "summary": "aixbt flags a confluence of supply and development signals around Ethereum."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069785416970957283.html?utm_source=tldrcrypto",
+      "title": "Tokenized Stocks Are a Net Positive for Crypto, Not a Threat to It",
+      "summary": "Bringing tokenized equities onchain raises the quality bar for crypto tokens, drives more onchain activity, and introduces more people to crypto's core value proposition."
+    }
+  ]
+}

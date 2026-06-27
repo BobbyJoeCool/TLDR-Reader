@@ -12,6 +12,7 @@ export default function WeekPage({
   flaggedUrls,
   onToggleFlag,
   loading,
+  dayLoading,
   selectedDate,
   setSelectedDate,
   isDesktop,
@@ -82,7 +83,10 @@ export default function WeekPage({
       <div className="week-content-area">
         {editions.length === 0 ? (
           <div className="empty-state">
-            <p className="empty-title">No articles for this day</p>
+            {dayLoading
+              ? <div className="spinner" />
+              : <p className="empty-title">No articles for this day</p>
+            }
           </div>
         ) : (
           editions.map((edition) => (

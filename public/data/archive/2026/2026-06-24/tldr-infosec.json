@@ -1,0 +1,38 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-06-24",
+  "articleCount": 6,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/NOXz7v",
+      "title": "India's Tata Electronics Hit By Cybersecurity Breach Claiming to Expose Apple, Tesla Trade Secrets",
+      "summary": "The World Leaks ransomware group published more than 200k files allegedly belonging to Indian electronics manufacturer Tata Electronics. The documents include confidential documents from Tesla and Apple, such as product specifications and technical details. The documents also contain emails, event logs, and paper copies of employees, including foreign nationals."
+    },
+    {
+      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6?utm_source=tldrinfosec",
+      "title": "Meta Pauses an AI Training Program that Tracks Employees' Keystrokes After an Internal Leak",
+      "summary": "Meta has paused an internal AI training program after discovering that sensitive data was accessible across the entire company. The controversial Model Capability Initiative was a mandatory program designed to improve Meta's AI models by training on employees' keystrokes and mouse movements. The leaked data includes employees' private conversations, performance data, and transcripts."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nO9lcG",
+      "title": "FFmpeg Fixes PixelSmash Flaw in Widely Used Video Decoder",
+      "summary": "Researchers from JFrog discovered a new vulnerability in FFmpeg that could be used to achieve remote code execution in applications running without ASLR, or to cause denial of service in others. The vulnerability stems from a heap buffer overflow in the MagicYUV decoder's slice handling and can be triggered when the user opens AVI, MKV, or MOV video files, browses a directory containing the file, or runs an automated media ingestion workflow."
+    },
+    {
+      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/?utm_source=tldrinfosec",
+      "title": "How Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
+      "summary": "A local privilege escalation bug in the Linux kernel's AF_ALG crypto interface let unprivileged users corrupt cached binaries like /usr/bin/su via a 4-byte out-of-bounds write and gain root. Cloudflare checked which kernel versions were exposed, confirmed that existing behavioral detection caught exploit attempts within minutes, and hunted logs 48 hours back for any signs of use, finding none. They then deployed an eBPF-based bpf-lsm policy to gate AF_ALG socket binds to an allow-list, used fleet-wide AF_ALG tracing to avoid breaking legitimate users, and rolled out patched LTS kernels through their normal reboot automation."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/?utm_source=tldrinfosec",
+      "title": "Prompt Injection as Role Confusion",
+      "summary": "Charles Ye, Jasmine Cui, and Dylan Hadfield-Menell showed that LLMs cannot reliably distinguish their own privileged text in role tags such as system and assistant from untrusted user input, and that models place greater weight on writing style than on actual content. Attackers exploit this role confusion by appending user instructions styled to mimic a model's internal reasoning blocks, a technique that drove average jailbreak success to 61% against models like gpt-oss-20b. Defenders can blunt it through destyling, rewriting incoming text so it no longer matches the expected role-tag format, which dropped attack success from 61% to 10%."
+    },
+    {
+      "url": "https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/?utm_source=tldrinfosec",
+      "title": "OpenClaw's Skill Marketplace and the Emerging AI Supply Chain Threat",
+      "summary": "Unit 42 documented five malicious ClawHub skills that survived VirusTotal and ClawScan screening between February and May 2026, abusing OpenClaw's natural-language execution model to bypass conventional runtime constraints through semantic instruction hijacking rather than conventional memory-safe code boundaries."
+    }
+  ]
+}

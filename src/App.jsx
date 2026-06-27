@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 import { useAuth } from './hooks/useAuth';
-import { useArticles } from './hooks/useArticles';
+import { useArchive } from './hooks/useArchive';
 import { useUserState } from './hooks/useUserState';
 import { useMediaQuery } from './hooks/useMediaQuery';
 import AuthGate from './components/AuthGate';
@@ -10,6 +10,7 @@ import DayTabs from './components/DayTabs';
 import EditionTabs, { sortEditions } from './components/EditionTabs';
 import HomePage from './pages/HomePage';
 import WeekPage from './pages/WeekPage';
+import ArchivePage from './pages/ArchivePage';
 
 export default function App() {
   const [page, setPage] = useState('home');
@@ -21,12 +22,11 @@ export default function App() {
   );
 
   const { user, login, logout } = useAuth();
-  const { days: thisWeekDays, loading: twLoading } = useArticles('thisWeek');
-  const { days: lastWeekDays, loading: lwLoading } = useArticles('lastWeek');
+  const { loading, thisWeekDays, lastWeekDays, availableDates, loadDay, getDay, isDayLoading } = useArchive();
   const { flagged, flaggedUrls, loading: usLoading, error: usError, toggleFlag, toggleRead } = useUserState(user);
 
   const currentDays = page === 'thisWeek' ? thisWeekDays : page === 'lastWeek' ? lastWeekDays : [];
-  const weekLoading = page === 'thisWeek' ? twLoading : lwLoading;
+  const weekLoading = loading;
 
   // Auto-select the most relevant date when page or data changes
   useEffect(() => {
@@ -41,6 +41,12 @@ export default function App() {
     });
     setSelectedEdition(null);
   }, [page, thisWeekDays, lastWeekDays]);
+
+  useEffect(() => {
+    if (selectedDate && (page === 'thisWeek' || page === 'lastWeek')) {
+      loadDay(selectedDate);
+    }
+  }, [selectedDate, page, loadDay]);
 
   const currentDay = currentDays.find((d) => d.date === selectedDate);
   const currentEditions = sortEditions(currentDay?.editions ?? []);
@@ -88,59 +94,78 @@ export default function App() {
             >
               <HistoryIcon /> Last Week
             </button>
+            <button
+              className={`top-nav-btn ${page === 'archive' ? 'active' : ''}`}
+              onClick={() => setPage('archive')}
+            >
+              <ArchiveIcon /> Archive
+            </button>
           </nav>
           <button className="logout-btn" onClick={logout} title="Sign out">
             <LogoutIcon />
           </button>
         </header>
 
-        <div className="app-body">
-          {page !== 'home' && (
-            <aside className="app-sidebar">
-              {currentDays.length > 0 && selectedDate && (
-                <DayTabs
-                  days={currentDays}
-                  selectedDay={selectedDate}
-                  onSelectDay={handleDaySelect}
-                  layout="sidebar"
-                />
-              )}
-              {currentEditions.length > 0 && (
-                <EditionTabs
-                  editions={currentEditions}
-                  selectedEdition={selectedEdition}
-                  onSelectEdition={scrollToEdition}
-                  layout="sidebar"
-                />
-              )}
-            </aside>
-          )}
-
-          <main className="app-content">
-            {page === 'home' && (
-              <HomePage
-                flagged={flagged}
-                onToggleRead={toggleRead}
-                onUnflag={handleUnflag}
-                loading={usLoading}
-                error={usError}
-              />
-            )}
+        {page === 'archive' ? (
+          <ArchivePage
+            availableDates={availableDates}
+            getDay={getDay}
+            loadDay={loadDay}
+            isDayLoading={isDayLoading}
+            flaggedUrls={flaggedUrls}
+            onToggleFlag={toggleFlag}
+            isDesktop
+          />
+        ) : (
+          <div className="app-body">
             {page !== 'home' && (
-              <WeekPage
-                key={page}
-                label={weekLabel}
-                days={currentDays}
-                flaggedUrls={flaggedUrls}
-                onToggleFlag={toggleFlag}
-                loading={weekLoading}
-                selectedDate={selectedDate}
-                setSelectedDate={handleDaySelect}
-                isDesktop
-              />
+              <aside className="app-sidebar">
+                {currentDays.length > 0 && selectedDate && (
+                  <DayTabs
+                    days={currentDays}
+                    selectedDay={selectedDate}
+                    onSelectDay={handleDaySelect}
+                    layout="sidebar"
+                  />
+                )}
+                {currentEditions.length > 0 && (
+                  <EditionTabs
+                    editions={currentEditions}
+                    selectedEdition={selectedEdition}
+                    onSelectEdition={scrollToEdition}
+                    layout="sidebar"
+                  />
+                )}
+              </aside>
             )}
-          </main>
-        </div>
+
+            <main className="app-content">
+              {page === 'home' && (
+                <HomePage
+                  flagged={flagged}
+                  onToggleRead={toggleRead}
+                  onUnflag={handleUnflag}
+                  loading={usLoading}
+                  error={usError}
+                />
+              )}
+              {page !== 'home' && (
+                <WeekPage
+                  key={page}
+                  label={weekLabel}
+                  days={currentDays}
+                  flaggedUrls={flaggedUrls}
+                  onToggleFlag={toggleFlag}
+                  loading={weekLoading}
+                  dayLoading={isDayLoading(selectedDate)}
+                  selectedDate={selectedDate}
+                  setSelectedDate={handleDaySelect}
+                  isDesktop
+                />
+              )}
+            </main>
+          </div>
+        )}
       </div>
     );
   }
@@ -156,7 +181,7 @@ export default function App() {
             loading={usLoading}
           />
         )}
-        {page !== 'home' && (
+        {(page === 'thisWeek' || page === 'lastWeek') && (
           <WeekPage
             key={page}
             label={weekLabel}
@@ -164,8 +189,19 @@ export default function App() {
             flaggedUrls={flaggedUrls}
             onToggleFlag={toggleFlag}
             loading={weekLoading}
+            dayLoading={isDayLoading(selectedDate)}
             selectedDate={selectedDate}
             setSelectedDate={setSelectedDate}
+          />
+        )}
+        {page === 'archive' && (
+          <ArchivePage
+            availableDates={availableDates}
+            getDay={getDay}
+            loadDay={loadDay}
+            isDayLoading={isDayLoading}
+            flaggedUrls={flaggedUrls}
+            onToggleFlag={toggleFlag}
           />
         )}
       </div>
@@ -203,6 +239,16 @@ function HistoryIcon() {
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
       <polyline points="1 4 1 10 7 10" />
       <path d="M3.51 15a9 9 0 1 0 .49-4.95" />
+    </svg>
+  );
+}
+
+function ArchiveIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="21 8 21 21 3 21 3 8" />
+      <rect x="1" y="3" width="22" height="5" />
+      <line x1="10" y1="12" x2="14" y2="12" />
     </svg>
   );
 }

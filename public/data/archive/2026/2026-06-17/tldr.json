@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-06-17",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+      "title": "SpaceX to acquire the AI coding startup Cursor for $60 billion",
+      "summary": "SpaceX is buying AI startup Cursor for $60 billion worth of stock. Cursor, which has a popular AI coding tool that has experienced explosive growth since the company's founding in 2022, crossed $1 billion in ARR. The deal will improve SpaceX's presence in the enterprise AI market and narrow the gap with industry leaders like OpenAI and Anthropic."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/2onbhd",
+      "title": "Apple Plans Camera AirPods Alongside Upgraded Foldable iPhone in 2027",
+      "summary": "Apple's camera-equipped AirPods are scheduled to launch in late 2027. The device will be released around the same time as the foldable iPhone and a 20th anniversary iPhone model. All three products have reached advanced stages of development. Apple intends the release to be its biggest wave of new products yet."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/IvOWmK",
+      "title": "Startup Backed by Ex-Google CEO Debuts Robot, LG Partnership",
+      "summary": "Genesis AI, a startup backed by former Google CEO Eric Schmidt, has unveiled a general-purpose robot called Eno. The robot can reason, adapt, and own outcomes beyond predefined tasks. Genesis AI is working with LG Group's consulting and services arm to deploy the robot to industrial customers by the end of the year. The startup is currently raising funds to finance its next steps."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html",
+      "title": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
+      "summary": "Snap's Specs, at $2,195 with a $200 refundable deposit, are expected to ship later this year in the US, UK, and France. The augmented reality glasses bring digital visuals into a user's field of vision, with Spiegel positioning them as the next major computing platform."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+      "summary": "AWS has a new metadata capability for Amazon Simple Storage Service (S3) that enables users to attach rich, large-scale business context directly to their objects. The annotations feature allows users to add structured, queryable metadata that goes beyond the existing 2KB tag limit, making it easier to organize, search, and manage data at scale."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "title": "Why is Meta destroying its engineering organization?",
+      "summary": "Meta has been known over the last two decades for being a unique, high-performance engineering organization. It had a 'move-fast-and-break-things' culture where engineers were empowered to do good work. Meta has quickly dismantled this historically strong engineering culture by aggressively prioritizing AI initiatives, such as forcing engineers into data-labeling work, tracking employee activity, and tying promotions to AI output metrics."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "summary": "Audited financial statements obtained by an independent journalist show that OpenAI's reported revenue grew from $3.7 billion in 2024 to $13.07 billion in 2025. However, its expenses grew from $7.81 billion to $26.8 billion over the same period, resulting in a net loss of approximately $13.7 billion in 2025."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/FMoz6v",
+      "title": "Anthropic, Trump Officials Seek Deal on Restoring Powerful Model Access",
+      "summary": "Anthropic and Trump administration officials are still in talks to resolve the security concerns that pushed the White House to restrict access to its latest models. Both parties are working quickly to reach an agreement that would restore access while addressing national security requirements."
+    },
+    {
+      "url": "https://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
+      "title": "Reviews have become expensive, rewrites have become cheap",
+      "summary": "Preparation is more valuable, and the cost of iterating is lower. The tendency of AI to produce over-engineered code has made manual reviews more costly, so upfront planning is more necessary now."
+    },
+    {
+      "url": "https://www.osnews.com/story/145322/apple-adds-keylogger-to-ios-app-store-for-targeted-advertising-tied-to-your-account-and-unencrypted/",
+      "title": "Apple adds keylogger to iOS App Store for targeted advertising: tied to your account and unencrypted",
+      "summary": "The iOS App Store now records every tap users make (and a lot of other information) and then sends it unencrypted to Apple, with all information fully tied to user accounts."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview/",
+      "title": "AWS announces AWS Blocks, an open-source framework for composing application backends on AWS (Preview)",
+      "summary": "AWS Blocks is an open-source TypeScript framework for application developers who want backend capabilities on AWS that removes the need to learn infrastructure tools."
+    },
+    {
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "title": "Apple is about to make Hide My Email useless",
+      "summary": "Both Sign in with Apple and Hide My Email aliases will soon be issued on the @private.icloud.com subdomain, making it easier for services to ban them."
+    },
+    {
+      "url": "https://dri.es/ai-and-the-great-cms-unbundling",
+      "title": "AI and the great CMS unbundling",
+      "summary": "AI is unbundling creation from control, making CMS more important wherever content is shared, reused, approved, or trusted across systems."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+      "title": "Android 17 starts hitting Pixel phones and watches today",
+      "summary": "Android 17 adds a small set of features and lays the groundwork for the future."
+    }
+  ]
+}

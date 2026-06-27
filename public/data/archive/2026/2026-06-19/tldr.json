@@ -1,0 +1,68 @@
+{
+  "name": "TLDR",
+  "date": "2026-06-19",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/wMh7p6",
+      "title": "AI Startup Midjourney Pivots to Health With Ultrasound Machine",
+      "summary": "AI startup Midjourney has announced a hardware project in the personal health and medical sector. Its full-body ultrasound machine, the Midjourney Scanner, requires users to be partially submerged in water. The company plans to build a fleet of 50,000 scanners, with the first to debut in a \"Midjourney Spa\" location in San Francisco."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "summary": "AWS is in talks to sell its Trainium AI chips to other companies for use in data centers. The company has so far resisted selling its chips as compute capacity for the current chips in its data centers is already sold out."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+      "title": "NASA picks Eric Schmidt's rocket company for Mars mission, setting up a race with SpaceX",
+      "summary": "NASA has hired Relativity Space to build a spacecraft to house a suite of scientific instruments, launch it into space, and fly it to Mars. The Aeolus mission will contain four instruments to measure and image Mars from orbit."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/3zduJz",
+      "title": "How Meter Pricing Is Testing the Economics of AI",
+      "summary": "A growing number of tech firms have started introducing usage-based pricing options for AI services rather than charging a flat subscription fee. The shift to this pricing model may lead to more selective use of the technology."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/8ngZvj",
+      "title": "The Agent Loop Architecture",
+      "summary": "Durability is a property of the entire execution layer underneath a loop. Durable orchestration is fundamental to building an agent loop architecture. This article breaks down the agent loop architecture, explains where loops commonly break, what happens when things break, and how to build an agent that builds its own skills."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/SwCbyR",
+      "title": "Intel Shares Surge After Trump Announces Apple Partnership",
+      "summary": "Intel shares jumped after President Donald Trump and Apple announced an agreement to work with the company to design and build chips in the US. Intel was underperforming for years until Lip-Bu Tan became CEO in March 2025."
+    },
+    {
+      "url": "https://www.theatlantic.com/technology/2026/06/ai-agents-jobs-exhaustion/687596/",
+      "title": "America Is Headed Toward the Infinite Workweek",
+      "summary": "Coding agents, in theory, should free up time, allowing for larger blocks of deep work and rest. However, some developers are having the opposite experience. Agents can do more work, but they still need human oversight. Left unsupervised, they could potentially make a huge mess."
+    },
+    {
+      "url": "https://devanshpanda.com/writing/volatility/",
+      "title": "The value of employee equity depends a lot on volatility",
+      "summary": "Standard vesting gives employees an embedded call option on startup equity that's worth multiple times more than what investors are willing to pay for."
+    },
+    {
+      "url": "https://thenextweb.com/news/meta-ai-for-work-chief-departs",
+      "title": "Meta executive leading internal AI overhaul departs after two months",
+      "summary": "Emily Dalton Smith will continue to stay on to work with Andrew Bosworth until the handover to a replacement is complete."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+      "title": "A bold satellite rescue mission came together in record time, but will it work?",
+      "summary": "Katalyst's spacecraft will attach to the Swift satellite, latch onto it, then boost its orbit back to a safe operating altitude."
+    },
+    {
+      "url": "https://www.quantamagazine.org/why-the-human-genomes-tangled-physicality-may-confound-ai-20260618/",
+      "title": "Why the Human Genome's Tangled Physicality May Confound AI",
+      "summary": "The human genome might not submit to the kind of straightforward input-output approach that AI models ultimately assume because the genome isn't a blueprint or algorithm."
+    },
+    {
+      "url": "https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html",
+      "title": "Open Source vs the Invisible Hand",
+      "summary": "The economics of open source don't add up."
+    }
+  ]
+}

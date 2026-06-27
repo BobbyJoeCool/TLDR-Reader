@@ -1,0 +1,73 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-19",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.techmonitor.ai/news/databricks-targets-ai-driven-threat-detection-with-panther-deal",
+      "title": "Databricks targets AI-driven threat detection with Panther deal",
+      "summary": "Databricks plans to acquire Panther, an AI-driven security operations (SOC) platform, to advance its security software strategy. The deal is positioned as a way to further develop Databricks' approach to security using AI threat detection capabilities."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-continuum/",
+      "title": "Introducing AWS Continuum for security at machine speed",
+      "summary": "AWS Continuum is a security service that discovers, prioritizes, validates, and remediates code vulnerabilities at machine speed within user-defined guardrails. It prioritizes findings using an environment/business context graph, validates exploitability in an isolated sandbox, applies fast reversible mitigations, and then routes durable fixes through the customer's existing review and deployment process."
+    },
+    {
+      "url": "https://webhosting.today/2026/06/17/is-cloudflare-silently-killing-the-web-hosting-industry/",
+      "title": "Is Cloudflare Silently Killing the Web Hosting Industry?",
+      "summary": "Cloudflare is reshaping the web hosting industry by aligning with AI-assisted development and modern deployment workflows. As it moves away from legacy hosting services, products such as Pages, Workers, and R2 enable developers to build and deploy websites without traditional shared hosting."
+    },
+    {
+      "url": "https://www.ciodive.com/news/gartner-operating-model-AI-software/823290/",
+      "title": "IT Operating Models Remain Unfit For The AI Era",
+      "summary": "Gartner says only 24% of CIOs believe their current IT operating model can adapt effectively to changing business needs, as AI, distributed tech ownership, and faster business expectations expose how outdated central IT structures have become."
+    },
+    {
+      "url": "https://www.sdxcentral.com/news/hpe-networking-chief-touts-force-multiplier-advantages-for-ai-data-centers/",
+      "title": "HPE Says Connectivity Is The Overlooked AI Data Center Bottleneck",
+      "summary": "AI data center builders are focusing on space and power, but connectivity is becoming the third major bottleneck as GPU clusters, distributed workloads, and high-throughput AI traffic put more pressure on the network."
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-vercel-connect",
+      "title": "Introducing Vercel Connect",
+      "summary": "Vercel Connect helps applications and agents securely access external data and systems. It provides short-lived tokens with precise scopes to control permissions for that access."
+    },
+    {
+      "url": "https://www.iru.com/blog/config-as-code-for-device-management",
+      "title": "Iru Brings Config As Code To Device Management",
+      "summary": "Iru introduced Config as Code for device management, letting IT teams manage Mac custom profiles, scripts, and apps through Git repos, pull requests, GitHub Actions, and iructl instead of relying only on console changes."
+    },
+    {
+      "url": "https://blogs.cisco.com/datacenter/powering-the-future-of-ai-ciscos-breakthroughs-in-secure-ai-networking-with-nvidia",
+      "title": "Cisco + NVIDIA Push Secure AI Networking For The AI Factory",
+      "summary": "Cisco is expanding its NVIDIA partnership around Secure AI Factory, combining AI networking, validated infrastructure, observability, and security controls for enterprises building production AI workloads."
+    },
+    {
+      "url": "https://proton.me/business/blog/supply-chain-attack",
+      "title": "Supply chain attacks: how to protect your business from third-party risks",
+      "summary": "Supply chain attacks occur when attackers compromise trusted vendors, software providers, or third-party integrations to gain access to customer systems. SMBs are particularly vulnerable due to weaker vendor oversight and excessive third-party access. To reduce risk, organizations should inventory vendors, review access permissions, and enforce stronger credential and access controls."
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/agentic-resource-discovery-specification/",
+      "title": "Snowflake and the Agentic Resource Discovery Specification",
+      "summary": "Snowflake announced support for the Agentic Resource Discovery (ARD) Specification, an open protocol for standardizing how enterprise AI agents/tools are cataloged, searched, and discovered. ARD defines a four-step flow (describe, curate, search, and execute) and is designed to let AI clients automatically find and invoke the right approved capability across interfaces without manual wiring."
+    },
+    {
+      "url": "https://gist.github.com/SuyashDive2005/be5865a9755ca1dd50523f7aeeae4417",
+      "title": "System Design Cheatsheet",
+      "summary": "A technical reference that outlines a structured approach to designing scalable systems, covering basic steps and common scalability techniques."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "title": "AI Data Centers Get A Fast Lane To The Grid",
+      "summary": "FERC ordered US grid operators to accelerate AI data center interconnection reviews and disclose spare generation capacity, creating a faster path to power even as electricity availability remains the real constraint."
+    },
+    {
+      "url": "https://www.ciodive.com/news/software-pricing-changes-SaaS-AI/823170/",
+      "title": "SaaS Pricing Gets Messier In The AI Era",
+      "summary": "SaaS vendors are shifting AI features away from simple per-seat pricing toward usage-, token-, and outcome-based models, forcing CIOs to rethink forecasting, budgeting, and vendor negotiations around actual consumption."
+    }
+  ]
+}

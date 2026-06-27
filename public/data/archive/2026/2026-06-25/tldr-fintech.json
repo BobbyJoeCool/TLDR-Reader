@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-06-25",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/Ai29g9",
+      "title": "Stablecore Launches Stablecoin and Digital Asset Programme for Credit Unions",
+      "summary": "The programme is put together by Stablecore, a platform that helps community banks and credit unions offer stablecoins, tokenised deposits, and digital asset products, and Circuit, a research and development Credit Union Service Organisation."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/EB4gTy",
+      "title": "Mastercard and PrivatBank Complete Ukraine's First Payment Executed by an AI Agent",
+      "summary": "Agentic commerce - where AI-powered agents act on behalf of consumers to shop, manage subscriptions, and complete everyday tasks - is poised to transform the way Ukrainians shop online. By enabling fully recognized and authenticated agentic transactions, Mastercard's agentic framework process brings AI agents into the payment flow as visible, governed participants - ensuring that every transaction is secure, transparent, and trusted."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/mAjRcl",
+      "title": "Modern Treasury Partners Sardine to Help Businesses Detect Fraud Earlier",
+      "summary": "Modern Treasury today announced a partnership with Sardine to enhance transaction monitoring and fraud prevention capabilities for businesses moving money across the US and globally."
+    },
+    {
+      "url": "https://robonomics.substack.com/p/spacex-s-1-full-analysis?utm_source=tldrfintech",
+      "title": "SpaceX S-1 Full Analysis",
+      "summary": "This analysis breaks down SpaceX's revised S-1, focusing on major AI compute deals with Anthropic, Google, and Reflection AI, including implied GPU lease rates, power capacity, and revenue per gigawatt. The piece also examines SpaceX's IPO float dynamics, arguing that limited initial supply, index demand, and staged lockup expirations could create a near-term squeeze followed by later digestion as more shares unlock."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/d9KSTm",
+      "title": "UPI, Pix, and the Rise of Public Payment Rails",
+      "summary": "For many years, digital payment innovation was associated mainly with private networks, card schemes, wallets, apps, banks, processors, and technology platforms. The dominant story was one of private-sector competition: who could build the better checkout, the better wallet, the better merchant solution, or the better consumer experience. That story is still important, but it is no longer complete. Some of the most significant recent payment developments have come from a different direction: public or public-supported payment rails."
+    },
+    {
+      "url": "https://docs.stripe.com/directory?utm_source=tldrfintech",
+      "title": "Stripe Directory Public Preview",
+      "summary": "Stripe Directory is a searchable network directory that lets developers and AI agents discover businesses, services, Stripe Apps, Stripe Projects providers, and machine payment endpoints. The product positions Stripe as infrastructure for agentic commerce by allowing agents to search for providers, parse structured results, provision integrations, and programmatically pay for services through machine payment rails."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/cvNfoc",
+      "title": "Thredd Rolls Out Visa Cloud Connect in Asia Pacific",
+      "summary": "Thredd, an AI-first issuer processing platform, today announced the implementation of Visa Cloud Connect (VCC) in the Asia Pacific, marking a significant regional milestone in the company's broader cloud transformation strategy."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/?utm_source=tldrfintech",
+      "title": "Visa, Mastercard Fend Off Fee Foes",
+      "summary": "Visa and Mastercard scored a series of wins against merchant efforts to curb card fees, as state-level fee restrictions in Colorado and Illinois stalled and a federal court approved a contested merchant settlement. Despite continued pressure from retailers, restaurants, and lawmakers, the card networks and issuing banks have largely maintained their grip on interchange and network fees, ensuring the long-running fight over swipe fees will continue."
+    },
+    {
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/ice-okx-50-50-joint-venture-tokenized-nyse-equities-cuomo-co-chair?utm_source=tldrfintech",
+      "title": "NYSE Parent ICE and OKX Form Tokenized Equities Joint Venture",
+      "summary": "Intercontinental Exchange and OKX are forming a 50-50 joint venture to build a regulated US broker-dealer and futures commission merchant for tokenized NYSE equities and ICE futures, pending regulatory approval. The move signals accelerating Wall Street adoption of on-chain market infrastructure, pairing ICE's regulated exchange footprint with OKX's global crypto customer base as tokenized securities become a larger institutional focus."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/?utm_source=tldrfintech",
+      "title": "Polymarket Reportedly Paid Creators to Post Deceptive Videos About Fake Bets",
+      "summary": "Polymarket reportedly paid online creators to post promotional videos showing fake trades and winnings on near-identical copies of its prediction market site, according to a Wall Street Journal investigation."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/IlBoIZ",
+      "title": "Meta Taps New WhatsApp Boss in $900 Million Bet on India's Cred",
+      "summary": "Meta is investing $900 million in Indian fintech Cred for a roughly 20% stake while appointing Cred founder Kunal Shah to lead WhatsApp."
+    }
+  ]
+}

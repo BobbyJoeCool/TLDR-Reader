@@ -1,0 +1,78 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-06-19",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.testingcatalog.com/openai-prepares-gpt-5-6-models-for-the-upcoming-release/",
+      "title": "OpenAI prepares GPT-5.6 models for the upcoming release",
+      "summary": "OpenAI plans to launch GPT-5.6, potentially including Mini and Pro variants, next week. Key enhancements include a larger 1.5 million token context window, improved long-horizon coding, and faster Codex response times. Competitive pricing aims to undercut Anthropic, especially as US regulatory issues impact Anthropic's Claude Fable 5 availability."
+    },
+    {
+      "url": "https://www.engadget.com/2196998/midjourney-full-body-ultrasonic-scanner/",
+      "title": "Midjourney, the AI image generator, is developing a full-body ultrasonic scanner",
+      "summary": "Midjourney's new project is a medical machine that can scan a person's whole body in just 60 seconds. It can create a 3D map of users' bodies, down to a fraction of a millimeter, that looks similar to an MRI but at nearly a hundred times the speed."
+    },
+    {
+      "url": "https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents",
+      "title": "Self-Improving Memory for Agents",
+      "summary": "Perplexity Brain is a memory system that builds a persistent context graph across tasks, projects, decisions, files, and sources so agents can start with relevant context instead of starting from scratch. Brain links every memory to its sources and tracks why it was stored, creating a rich, queryable knowledge base that improves over time."
+    },
+    {
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "summary": "MosaicLeaks highlights the privacy risks of deep research agents, demonstrating how agentic AI systems can inadvertently leak sensitive information when performing research tasks."
+    },
+    {
+      "url": "https://alignment.openai.com/beneficial-rl/",
+      "title": "Reinforcement learning towards broadly and persistently beneficial models",
+      "summary": "Reinforcement learning on realistic scenarios targeting beneficial traits can produce broad improvements across dozens of benchmarks measuring aligned and beneficial behaviors."
+    },
+    {
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "title": "Claude Code now supports artifacts",
+      "summary": "Claude Code now supports \"artifacts,\" turning work sessions into live, shareable visual pages for tasks like PR walkthroughs and system explainers. Artifacts refresh automatically with updates and offer features like version history and privacy controls. Available in beta for Claude Team and Enterprise."
+    },
+    {
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "title": "Securing the future of AI agents",
+      "summary": "AI agents are improving productivity across various sectors, with projections suggesting they could generate $2.9 trillion in economic value in the US by 2030. Google DeepMind created an AI Control Roadmap, focusing on security measures that go beyond standard alignment techniques."
+    },
+    {
+      "url": "https://byungkwanlee.github.io/ZPPO-page/",
+      "title": "Revisiting Hard Questions with Replay Buffers",
+      "summary": "ZPPO stores difficult questions in a replay buffer so the model can repeatedly train on them rather than seeing them only once. The method is designed to strengthen learning on challenging examples and improve rollout accuracy."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/18/yann-lecun-elon-musk-xai-failure-ai-labs-bubble-risk.html",
+      "title": "Godfather of AI blasts Musk's xAI as 'failure,' says labs are risking a 'big bubble explosion'",
+      "summary": "Yann LeCun criticized Elon Musk's xAI as a failure unable to compete with AI leaders like OpenAI and Anthropic. LeCun highlighted that Musk struggles to hire top talent due to past behaviors and must rent infrastructure to recover costs. He warned that AI labs must increase prices or cut costs to avoid a \"big bubble explosion.\""
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/jyH9oA",
+      "title": "Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business",
+      "summary": "Google is building its own AI chip business using strategies similar to Nvidia's approach, developing custom silicon to reduce dependence on third-party chips."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/W8kIQc",
+      "title": "OpenAI Introduced Enterprise Usage Analytics",
+      "summary": "OpenAI introduced new credit usage analytics and expanded spend controls for ChatGPT Enterprise."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/UVgEMm",
+      "title": "The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic",
+      "summary": "Baseten specializes in providing software and computing capacity to companies tapping into lower-cost AI models."
+    },
+    {
+      "url": "https://www.hyperdimensional.co/p/that-untravelld-world",
+      "title": "That Untravell'd World",
+      "summary": "A new and more difficult phase of the AI governance race with more politics and higher stakes has begun."
+    },
+    {
+      "url": "https://www.testingcatalog.com/mistral-ai-to-get-code-and-apps-features-on-vibe/",
+      "title": "Mistral AI to get Code and Apps features on Vibe",
+      "summary": "Mistral AI is enhancing Vibe with a CODE section for browser-based coding and an APPS area for building and sharing apps, moving beyond basic chat functionalities."
+    }
+  ]
+}

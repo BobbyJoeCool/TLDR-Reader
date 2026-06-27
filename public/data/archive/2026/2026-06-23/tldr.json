@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-06-23",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/NwTThb",
+      "title": "Nvidia Seeks to Make Humanoid AI Robots Safer Around Humans (3 minute read)",
+      "summary": "Nvidia has created a lab where robot makers and customers can run safety tests before going to regulators to receive the necessary certifications. Engineers at the lab can help with pre-inspection work and engineering tweaks as needed. Robot safety design is much more complicated than safety design for autonomous vehicles, which generally just involves avoiding contact with people and other objects. Robots need to be able to know what things they can or can't touch, move, or exert force on."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/?utm_source=tldrnewsletter",
+      "title": "Instagram looks to take on streaming services with longer-form, episodic, and live formats for its TV app (2 minute read)",
+      "summary": "Instagram is experimenting with longer-form content, episodic series, and Live TV. It is testing a Series feature for Reels designed to make it easier to keep up with serialized content. Instagram's TV app is being rolled out to Samsung TVs. The app has received several new features, including channels, the ability to cast from a mobile device, and support for horizontal videos and stories."
+    },
+    {
+      "url": "https://www.teslarati.com/spacex-starfall-spacecraft-demo-launch/?utm_source=tldrnewsletter",
+      "title": "SpaceX is launching a secret spacecraft that could change how things are made in space (3 minute read)",
+      "summary": "SpaceX's Starfall is a reentry capsule that is capable of returning up to 2,200 pounds of payload from orbit. Its disk-shaped geometry maximizes structural efficiency and payload volume relative to mass. Starfall is designed to be mass-produced and launched on either Falcon 9 or Starship. SpaceX plans to launch the first flight of Starfall today from Space Launch Complex 40."
+    },
+    {
+      "url": "https://www.a16z.news/p/how-to-win-a-space-war?utm_source=tldrnewsletter",
+      "title": "How to Win a Space War (73 minute read)",
+      "summary": "Wars are now being fought in space. Russia is jamming GPS satellite receivers across most of Eastern Europe, Iran has launched hundreds of ballistic missiles through outer space, and China has openly contemplated destroying Starlink satellites. This post takes a practical look at the ways, means, and ends that are necessary to win a space war."
+    },
+    {
+      "url": "https://www.slater.dev/2026/06/the-optimal-amount-of-slop-is-non-zero/?utm_source=tldrnewsletter",
+      "title": "The Optimal Amount of Slop is Non-zero (19 minute read)",
+      "summary": "Software requires different levels of verification depending on its use case. Casual software has limited distribution and loose quality constraints. Business software needs to work, or organizations suffer losses. Acute software is mission-critical and merits the highest levels of scrutiny. The amount of permissible AI-slop decreases as the risks of the software failing increase."
+    },
+    {
+      "url": "https://simianwords.bearblog.dev/you-should-use-ai-for-reviewing-code-especially-when-the-diff-is-huge/?utm_source=tldrnewsletter",
+      "title": "You should use AI for reviewing code especially when the diff is huge (2 minute read)",
+      "summary": "It's a mistake to use AI to nitpick a few lines of code here and there. LLMs now catch high-severity vulnerabilities, so individual line reviews aren't needed. A human code reviewer's role is now to transfer knowledge to the AI that it doesn't know. This workflow is best in places where each line of code isn't sacred."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/yWaFTd",
+      "title": "Google Investing in 'Backrooms' Studio A24 (5 minute read)",
+      "summary": "Google is investing in A24, the independent movie studio that released the hit, 'Backrooms'. The investment is part of a new AI research partnership between the two companies aimed at creating new tools for movie production and distribution. The multiyear, nonexclusive deal will likely involve the studio's roster of artists, but it won't give Google access to A24's data. A24 is already developing an application for AI-generated storyboards."
+    },
+    {
+      "url": "https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/?utm_source=tldrnewsletter",
+      "title": "Meta Is 'Pausing' Employee Tracking Program After It Let The Whole Company See Sensitive Data (1 minute read)",
+      "summary": "Meta has suspended its Model Capability Initiative, the AI training program that tracks its employees' key strokes and mouse movements. The program caused private conversations, performance data, and transcriptions to be made available to the entire Meta staff. Meta says there's no indication that the data was improperly accessed."
+    },
+    {
+      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks?utm_source=tldrnewsletter",
+      "title": "Nearly Half of LG Smart TV Apps Are Laced with Proxies (12 minute read)",
+      "summary": "Residential proxies are being embedded within screensavers, games, clocks, and novelty apps."
+    },
+    {
+      "url": "https://thenextweb.com/news/cloudflare-pact-browser-privacy-bot-traffic-protocol?utm_source=tldrnewsletter",
+      "title": "Cloudflare teams up with Chrome, Firefox, and Edge on a privacy-first anti-bot protocol (4 minute read)",
+      "summary": "PACT is an internet protocol that verifies whether web traffic is legitimate without tracking users."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/22/meta-kunal-shah-whatsapp-will-cathcart.html?utm_source=tldrnewsletter",
+      "title": "Meta's WhatsApp head to step down, will be replaced by Indian fintech founder Kunal Shah (2 minute read)",
+      "summary": "Kunal Shah founded Cred, a credit card payments platform that rewards users who pay their bills on time."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/amPhzj",
+      "title": "Trump Seeks to Boost Quantum Computing With New Executive Orders (3 minute read)",
+      "summary": "President Donald Trump has signed a pair of executive orders aimed at speeding up the development of advanced quantum computers and mitigating the security threats they present."
+    },
+    {
+      "url": "https://samihonkonen.com/posts/an-agent-capability-library/?utm_source=tldrnewsletter",
+      "title": "An agent capability library (2 minute read)",
+      "summary": "An AI capability index lists the things agents can do, each with a short description of when to use it and a pointer to a doc that explains how."
+    },
+    {
+      "url": "https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/?utm_source=tldrnewsletter",
+      "title": "Why American data centers can't plug in (23 minute read)",
+      "summary": "The US has the energy to power the AI infrastructure buildout, but grid operators are significantly backlogged."
+    }
+  ]
+}

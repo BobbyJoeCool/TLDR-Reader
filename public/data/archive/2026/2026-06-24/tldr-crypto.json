@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-06-24",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/22/as-bitcoin-altcoin-prices-gain-derivatives-signal-skepticism-over-a-sustained-rally?utm_source=tldrcrypto",
+      "title": "As Spot Prices Gain, Derivatives Signal Skepticism Over a Sustained Rally",
+      "summary": "Bitcoin gained 1.4% to $62,310 and ether rose 2.4%, with the move driven by easing oil prices and Iran-US diplomatic hopes lifting risk appetite, though analysts place near-term resistance at $66,000-$68,000 and flag a bearish formation targeting $54,000 on a breakdown of $60,000 support. Options markets continue pricing more downside protection than upside exposure, with analysts framing the current range as a buy-near-the-200-week, sell-into-resistance posture rather than trend conviction."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iFJQdy",
+      "title": "US Senate passes housing bill carrying a four-year ban on a CBDC",
+      "summary": "The Senate passed the 21st Century ROAD to Housing Act 85-5, with a provision embedded in the bill that prohibits the Federal Reserve or any Federal Reserve bank from issuing or creating a CBDC, directly or indirectly through an intermediary, for four years. Republican lawmakers pushed for the ban's inclusion as a symbolic anti-surveillance measure, and the bill is expected to move quickly through the House toward becoming law."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069104073245159573.html?utm_source=tldrcrypto",
+      "title": "Ethlabs Launches as Non-Profit R&D Lab for Ethereum Infrastructure",
+      "summary": "Ethlabs has launched as a non-profit R&D organization with the mission of establishing Ethereum as the neutral settlement layer for global finance. The lab will operate as a bridge between application-layer stakeholders and core protocol developers, converting real-world usage requirements into protocol work, shared standards, and shipped products."
+    },
+    {
+      "url": "https://ethresear.ch/t/the-ethgent-testnet-officially-launches-today/25279?utm_source=tldrcrypto",
+      "title": "The ETHgent Testnet",
+      "summary": "The ETHgent testnet launched today as an EVM-compatible application chain built on ICP infrastructure, targeting developers who need cheap, geo-distributed execution with built-in cryptographic primitives including on-chain randomness generation, HTTP outcalls, and threshold ECDSA. The platform ships with Hardhat support, code samples, and agent deployment skill files, reducing friction for teams building on-chain agents."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/NORIkG",
+      "title": "Proof of Nothing",
+      "summary": "Proof of reserves confirms that a pool of assets exists but does not establish whether tokenholders hold an enforceable legal claim on those assets, a gap that becomes critical when issuers, custodians, or legal wrappers fail. One solution is replacing binary proof-of-reserves with a composite standard covering proof of solvency plus proof of rights, adding legal-claim attestation, encumbrance reporting, feed degradation states, and circuit breakers in lending markets."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069138527493747139.html?utm_source=tldrcrypto",
+      "title": "Coalition of organizations building Ethereum's future",
+      "summary": "The Ethereum Foundation published a thread spotlighting four independent organizations that have emerged to strengthen Ethereum's resilience: Ethlabs (non-profit R&D lab), the Ethereum Applications Guild (pushing Ethereum-native apps in emerging markets), the Ethereum Economic Zone (building synchronously composable rollup infrastructure), and the Argot Collective (maintaining Solidity and open-source compiler tooling)."
+    },
+    {
+      "url": "https://www.cryptopolitan.com/goldfinch-shuts-down-credit-platform/?utm_source=tldrcrypto",
+      "title": "Goldfinch Finance Winds Down After Originating $100M in Loans",
+      "summary": "Warbler Labs submitted a governance proposal to wind down Goldfinch Prime, placing the a16z-backed RWA lending protocol into maintenance mode. Goldfinch originated over $100 million in loans to emerging market borrowers before serial defaults eroded depositor capital, pushing GFI to 99.8% below its January 2022 peak. Depositors face a two-or-more-year recovery horizon, a direct consequence of an undercollateralized credit model that depended on off-chain enforcement in markets with limited legal recourse."
+    },
+    {
+      "url": "https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw?utm_source=tldrcrypto",
+      "title": "Secret Network's Axelar Bridge Drained $4.67M via Infinite-Mint Flaw",
+      "summary": "An attacker exploited a years-old infinite-mint flaw in Secret Network's CW20-ICS20 contract, draining $4.67M in Axelar-wrapped tokens across seven assets between June 10 and June 17. The exploit ran undetected for seven days. The contract flaw permitted minting of wrapped tokens without collateral backing, allowing the attacker to draw down bridge reserves without triggering alerts."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/f43KRZ",
+      "title": "THORChain resumes trading after $10.7 million exploit",
+      "summary": "THORChain halted trading in May after a newly churned node operator exploited a vulnerability in the GG20 Threshold Signature Scheme to drain roughly $10.7 million from one of the protocol's five vaults."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069223862655492407.html?utm_source=tldrcrypto",
+      "title": "SoFi Launches SOFIUSD Stablecoin on Solana",
+      "summary": "Publicly traded fintech SoFi has deployed its stablecoin SOFIUSD on Solana, marking the company's first onchain dollar-denominated asset."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2069164451388133700.html?utm_source=tldrcrypto",
+      "title": "Bitmine holds 4.72 million staked ETH, generating $223M in annual yield",
+      "summary": "Bitmine now holds 4.72 million staked ETH, roughly 4.7% of total supply, at a cost basis of $3,440 per ETH, sitting $9.5 billion underwater on an unrealized basis, while generating $223 million in annual staking yield."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/ONxWtb",
+      "title": "Hut 8 agrees to $2.35 million settlement in investor suit tied to US Bitcoin merger",
+      "summary": "Hut 8 filed a proposed $2.35 million settlement in the Southern District of New York to resolve a securities class action brought by investors who bought shares between February 2023 and January 2024, covering the period around the miner's all-stock merger with US Bitcoin Corp."
+    }
+  ]
+}

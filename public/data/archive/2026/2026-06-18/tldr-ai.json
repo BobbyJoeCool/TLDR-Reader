@@ -1,0 +1,73 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-06-18",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/?utm_source=tldrai",
+      "title": "ChatGPT's Market Share Slips Below 50% For First Time (4 minute read)",
+      "summary": "ChatGPT's market share has dipped below 50% for the first time. Users are migrating to other assistants like Google's Gemini, Anthropic's Claude, and xAI's Grok. ChatGPT was the fastest app to ever reach a billion monthly users, and it still remains the most popular AI assistant worldwide. Users are increasingly willing to switch between assistants."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/p8SpjI",
+      "title": "ChatGPT Improves Scheduled Tasks And Retires Pulse (1 minute read)",
+      "summary": "ChatGPT has introduced an improved task scheduling feature, enhancing speed and reliability. It is accessible via the new Scheduled page and available to Go, Plus, Pro, Business, and Enterprise users."
+    },
+    {
+      "url": "https://parsiya.net/blog/llm-thonking/?utm_source=tldrai",
+      "title": "Brain The Size Of A Planet: Are LLMs Thonking Too Hard? (30 minute read)",
+      "summary": "Earlier studies showed that Opus 4.6, GPT 5.4, Gemini 3.1-pro-preview, Deepseek R1-0528, and Qwen 3.6-plus were unable to find two vulnerabilities without extremely revealing hints. This study continues the experiments with 26 distinct model combinations and different context window sizes and reasoning efforts. It found that higher reasoning effort, and even later models, are not always better for triaging security results."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/vVmu2l",
+      "title": "Kimi K2.7 Code vs Claude Fable 5: Landing Pages That Cost 94% Less (6 minute read)",
+      "summary": "An experiment compared Kimi K2.7 Code with Claude Fable 5 to generate 12 landing pages each. Kimi K2.7 Code cut costs by 94%, being 16 times cheaper than Claude Fable 5."
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-vercel-connect?utm_source=tldrai",
+      "title": "Vercel Connect (8 minute read)",
+      "summary": "Vercel launched Connect in public beta, replacing long-lived provider tokens with runtime credential exchange that issues short-lived, task-scoped credentials for agents. The approach reduces the risk associated with shared, persistent access tokens."
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-eve?utm_source=tldrai",
+      "title": "Production Infrastructure For AI Agents (19 minute read)",
+      "summary": "Vercel introduced eve, an open-source agent framework with built-in capabilities such as durable execution, sandboxed compute, approvals, subagents, and evaluations. It aims to let developers focus on agent behavior while the framework handles production concerns."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/?utm_source=tldrai",
+      "title": "Building AI Agents For AR Glasses And XR Devices With NVIDIA XR AI (12 minute read)",
+      "summary": "Nvidia XR AI provides a reusable foundation for connecting extended reality devices to GPU-accelerated AI services running in the cloud, data center, workstation, or edge. It gives developers access to an open source library for building intelligent agents for AI glasses, AR glasses, and XR headsets. These agents will be able to see what users see, understand token or typed intent, call enterprise tools, and respond within the same XR session. XR AI is now available in public beta."
+    },
+    {
+      "url": "https://huggingface.co/blog/allenai/molmomotion?utm_source=tldrai",
+      "title": "MolmoMotion: Language-Guided 3D Motion Forecasting (9 minute read)",
+      "summary": "MolmoMotion, a new motion forecasting model, predicts future 3D point trajectories in videos using language instructions and initial object positions, outperforming existing methods. The model and its dataset, MolmoMotion-1M, feature vast datasets of 3D point trajectories from 1.16M videos, with a benchmark for accuracy testing."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2066946225837109735.html?utm_source=tldrai",
+      "title": "Cursor's New Model (1 minute read)",
+      "summary": "Cursor's new model will push agentic software development far beyond autocomplete and pair programming. The massive model was trained from scratch on over 100,000 GPUs. It has more than 1.5 trillion parameters and delivers intelligence beyond coding tasks. The model will be released in the coming weeks."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2067400851438932297.html?utm_source=tldrai",
+      "title": "Noam Shazeer Is Joining OpenAI (1 minute read)",
+      "summary": "Noam Shazeer is leaving Google to join OpenAI. Shazeer was one of the co-authors of the 2017 paper \"Attention Is All You Need\" that transformed the AI world. He also improved search spelling correction and created the core algorithm for AdSense."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2066913356548542827.html?utm_source=tldrai",
+      "title": "Mistral Has A New Model Coming This Summer (2 minute read)",
+      "summary": "An early access program will be opened in July for key partners in research, government, and the industry."
+    },
+    {
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "title": "Introducing LifeSciBench (7 minute read)",
+      "summary": "OpenAI introduced LifeSciBench, an expert-judged benchmark that evaluates AI systems on end-to-end life sciences workflows such as evidence analysis, experimental design, scientific reasoning, and research communication rather than isolated biology tasks."
+    },
+    {
+      "url": "https://replit.com/blog/replit-claude?utm_source=tldrai",
+      "title": "Replit Is Now Available In Claude (2 minute read)",
+      "summary": "Replit is now integrated into Claude, allowing seamless transitions from design to development."
+    }
+  ]
+}

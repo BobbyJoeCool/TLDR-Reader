@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-06-16",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://tonsky.me/blog/every-frame-perfect/?utm_source=tldrdev",
+      "title": "EVERY FRAME PERFECT",
+      "summary": "The \"every frame perfect\" philosophy says that user interfaces should remain logical and explainable at any point in time, even during rapid transitions or animations. High-quality UI polish acts as a heuristic for code quality, building user trust by demonstrating that developers have invested time into every detail of the experience."
+    },
+    {
+      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore?utm_source=tldrdev",
+      "title": "TIMESCALEDB COMPRESSION: HYPERCORE AND COLUMNAR STORAGE WITH UP TO 98% RATIO IN POSTGRESQL",
+      "summary": "TimescaleDB uses a hybrid row-columnar engine called Hypercore to achieve up to 98% compression for time-series data within PostgreSQL. This technology uses specialized algorithms like delta encoding, Gorilla XOR, and run-length encoding to optimize cross-row patterns that general-purpose databases often ignore."
+    },
+    {
+      "url": "https://dropbox.tech/security/dropbox-mcp-dash-design-code-security?utm_source=tldrdev",
+      "title": "HOW DROPBOX USES MCP AND DASH TO CLOSE THE DESIGN-TO-CODE SECURITY GAP",
+      "summary": "Dropbox built an agentic system to close the design-to-code security gap. It pairs Dash (which indexes threat models), MCP (giving a review agent access), and a foundational model that compares the threat model against the pull request to flag gaps, surfaced right inside code review."
+    },
+    {
+      "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/?utm_source=tldrdev",
+      "title": "AI DEMANDS MORE ENGINEERING DISCIPLINE. NOT LESS",
+      "summary": "Since AI makes generating code fast and disposable, we're shifting from obsessing over individual lines of code to managing entire systems instead. We need even more engineering discipline to keep everything reliable and predictable rather than just focusing on the code itself."
+    },
+    {
+      "url": "https://mattsayar.com/yes-we-still-need-engineers/?utm_source=tldrdev",
+      "title": "YES, WE STILL NEED ENGINEERS",
+      "summary": "While AI-driven prototyping accelerates initial software design, professional engineers are still needed for transforming these prototypes into secure, scalable, and production-ready systems."
+    },
+    {
+      "url": "https://component-party.dev/?utm_source=tldrdev",
+      "title": "COMPONENT PARTY (WEBSITE)",
+      "summary": "Component Party provides a comparative overview of various JavaScript web component frameworks by showcasing their unique syntaxes and features through clear, educational examples."
+    },
+    {
+      "url": "https://github.com/meshery/meshery?utm_source=tldrdev",
+      "title": "MESHERY (GITHUB REPO)",
+      "summary": "Meshery is an open-source, cloud-native management platform that simplifies the design and operation of Kubernetes-based infrastructure across multi-cloud environments. It has a visual, collaborative GitOps interface that allows users to manage deployments and infrastructure without relying solely on manual YAML configuration."
+    },
+    {
+      "url": "https://roman.pt/posts/linkedin-backdoor/?utm_source=tldrdev",
+      "title": "A BACKDOOR IN A LINKEDIN JOB OFFER",
+      "summary": "A developer was targeted on LinkedIn by a fake recruiter who requested a code review for a malicious GitHub repository. Investigation in a sandboxed environment showed a hidden backdoor designed to execute remote payloads automatically when project dependencies are installed. The scheme used stolen identities of a legitimate journalist and a software engineer to establish trust and lure the victim into running harmful scripts."
+    },
+    {
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/?utm_source=tldrdev",
+      "title": "ANTHROPIC'S SAFETY SUPERPOWER",
+      "summary": "Anthropic's release of advanced models like Fable and Mythos prompted government-mandated access restrictions due to security risks, leading the company to adopt stricter data policies and defensive competitive safeguards. This strategic shift positions Anthropic to exert significant influence over AI development by aligning its commercial interests with internal control mechanisms."
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering?utm_source=tldrdev",
+      "title": "A GUIDE TO AI INFERENCE ENGINEERING",
+      "summary": "LLM inference engineering can be split into two phases with opposite hardware bottlenecks. Prefill is compute-bound, processes the prompt to emit the first token, and is measured by time-to-first-token. Decode is memory-bandwidth-bound, generates each subsequent token sequentially, and is measured by tokens-per-second. This post walks through six tradeoffs on inference: batching, prefix caching, quantization, speculative decoding, parallelism, and disaggregation."
+    },
+    {
+      "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/?utm_source=tldrdev",
+      "title": "WHAT JOB INTERVIEWS TAUGHT ME ABOUT KUBERNETES",
+      "summary": "Kubernetes has become the industry standard for companies of all sizes because it offers organizational benefits like deployment uniformity, standardized hireable knowledge, and improved traceability."
+    },
+    {
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/?utm_source=tldrdev",
+      "title": "RUNNING LOCAL MODELS IS GOOD NOW",
+      "summary": "Recent advancements in open-source architecture, particularly within the Gemma 4 model family, have made running local agentic coding workflows increasingly viable and effective for complex development tasks on personal hardware."
+    },
+    {
+      "url": "https://news.ycombinator.com/item?idH542100&utm_source=tldrdev",
+      "title": "ASK HN: HAS ANYONE REPLACED CLAUDE/GPT WITH A LOCAL MODEL FOR DAILY CODING? (HACKER NEWS THREAD)",
+      "summary": "Some people have been able to replace Claude and ChatGPT with a local model, acknowledging that local models aren't as powerful but allow for unlimited, free coding for getting most work done."
+    },
+    {
+      "url": "https://www.chatprd.ai/how-i-ai/ankur-goyals-playbook-for-agent-driven-benchmarking-and-ai-evals?utm_source=tldrdev",
+      "title": "ANKUR GOYAL'S PLAYBOOK FOR AGENT-DRIVEN BENCHMARKING AND AI EVALS",
+      "summary": "Braintrust CEO Ankur Goyal uses coding agents for infrastructure benchmarking and implements AI evaluations as quantifiable, modern project requirements to systematically scale product quality and technical rigor."
+    }
+  ]
+}

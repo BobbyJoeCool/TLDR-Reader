@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-06-19",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "title": "How we built a persistent agent memory layer on Elasticsearch with 0.89 recall and zero tenant leaks",
+      "summary": "A persistent agent memory layer built on Elasticsearch uses a multi-index system to improve long-term memory capabilities for agents, leading to high recall accuracy and tenant isolation. With separate indices for episodic, semantic, and procedural memory, the architecture efficiently manages various memory types while addressing challenges like memory decay and data contradiction through a consistent update process."
+    },
+    {
+      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+      "title": "Cell-Based Architecture for Resilient Payment Systems",
+      "summary": "American Express uses a cell-based architecture for its core payments ecosystem to improve resiliency and maintain high availability. This architecture isolates failures within independent units, allowing each cell to operate autonomously and contain issues without affecting the broader system."
+    },
+    {
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "title": "Securing the future of AI agents",
+      "summary": "AI agents are improving productivity across various sectors, with projections suggesting they could generate $2.9 trillion in economic value in the US by 2030. To address the challenges posed by increasingly capable and misaligned AI, Google DeepMind created an AI Control Roadmap, focusing on security measures that go beyond standard alignment techniques."
+    },
+    {
+      "url": "https://xvw.lol/en/articles/emacs-start.html",
+      "title": "Emacs, how it all started (for me)",
+      "summary": "This journey to embracing Emacs as a primary text and code editor began with clumsy early experiences in programming, including misguided choices like using Microsoft Word for coding instead of a proper text editor. After exploring various editors like Notepad++, Sublime Text, and different programming languages, the author ultimately found that Emacs offered great support and functionality."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/why-were-bullish-on-loops",
+      "title": "Why we're bullish on loops",
+      "summary": "Loops let agents autonomously complete tasks rather than relying on manual prompts from engineers. The four components for constructing a loop include a clear goal, sufficient context, evaluation mechanisms, and operational agents. Critics may view loops as a threat to engineering roles, but they actually represent a shift towards self-driving products."
+    },
+    {
+      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "title": "I hate compilers",
+      "summary": "The complexities of compiler behavior can lead to unexpected nondeterministic outputs, even when given the same input bytes, which complicates the goal of achieving reproducible builds. As part of developing Anubis, challenges arose with ensuring that output from the WebAssembly compiler was consistent across different environments and versions of tools."
+    },
+    {
+      "url": "https://github.com/withastro/flue",
+      "title": "Flue (GitHub Repo)",
+      "summary": "Flue is a framework designed for building autonomous agents that efficiently perform complex tasks using a programmable TypeScript environment. It allows developers to create agents that can maintain context, execute workflows, and operate securely in a sandbox environment."
+    },
+    {
+      "url": "https://github.com/BuilderIO/agent-native",
+      "title": "Agent-Native (GitHub Repo)",
+      "summary": "Agent-Native is an open-source framework designed for building interconnected applications where agents and user interfaces operate seamlessly together. The framework offers support for creating versatile agents that function as either headless APIs, rich chat experiences, or full applications."
+    },
+    {
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "title": "I discovered a large-scale malware distribution on GitHub",
+      "summary": "A large-scale malware distribution campaign has been uncovered on GitHub, involving 10,000 repositories that contain Trojan malware disguised under various names by different contributors."
+    },
+    {
+      "url": "https://nekuda.substack.com/p/is-agent-readiness-a-real-category",
+      "title": "Is \"Agent Readiness\" a Real Category - or Just Snake Oil?",
+      "summary": "The concept of \"agent readiness\" has gained traction, with platforms like Cloudflare and Google introducing scoring systems to evaluate websites for AI agent compatibility, though much of this hype may not translate into tangible benefits."
+    },
+    {
+      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+      "title": "I told them forced consent was unlawful. Five years later, it cost Elkjop €1.8 million",
+      "summary": "Elkjop was fined €1.8 million for violating GDPR and ePrivacy regulations by forcing customers to accept marketing communications in exchange for membership benefits. This ruling by the Norwegian Data Protection Authority reinforces that consent must be freely given."
+    },
+    {
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "title": "Enterprise-Managed Authorization: Zero-touch OAuth for MCP",
+      "summary": "The Enterprise-Managed Authorization extension for MCP enables organizations to streamline security and improve user experience by providing centralized, zero-touch single sign-on access to MCP servers via identity providers."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/sjjSxV",
+      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
+      "summary": "Noam Shazeer, one of the main authors of the Transformers paper that kicked off the LLM era and co-lead of Google's Gemini project, is leaving the company to join OpenAI ahead of its initial public offering."
+    },
+    {
+      "url": "https://www.jakeworth.com/tils/the-outbox-pattern/",
+      "title": "The Outbox Pattern",
+      "summary": "The Outbox Pattern in microservices allows for independent processing of events by recording messages in an outbox table, making sure the transaction can succeed without waiting for downstream delivery."
+    },
+    {
+      "url": "https://www.oreilly.com/radar/kubernetes-in-the-age-of-ai/",
+      "title": "Kubernetes in the Age of AI",
+      "summary": "Kubernetes has evolved from a container orchestration tool to a fundamental AI infrastructure platform, allowing organizations to efficiently manage generative and agentic AI workloads."
+    }
+  ]
+}

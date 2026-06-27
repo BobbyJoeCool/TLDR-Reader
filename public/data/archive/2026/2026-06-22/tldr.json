@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-06-22",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/6XNbkk",
+      "title": "Apple's New CEO Must Rebuild a Design Team That Lost Its Way",
+      "summary": "Apple's industrial design organization used to be the heart and soul of the company. Today, the organization no longer has a true seat at Apple's executive table. It has become a place where other teams come to get what they need before promptly leaving. This article tells the story of the group's decline, its impact on the company, and Apple's plans to restore the design studio's prowess."
+    },
+    {
+      "url": "https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/",
+      "title": "Tesla plans to sell modular AI data center hardware called 'Megapod'",
+      "summary": "Tesla has filed a trademark application for a product called 'Megapod'. The filing describes a complete, self-contained computing system for AI workloads. The product appears to be a turnkey AI data center building block that includes the full rack-and-room of servers, networking, power, and cooling. It would compete with Nvidia's already dominant platform."
+    },
+    {
+      "url": "https://dayafter.substack.com/p/the-universe-just-wants-to-learn",
+      "title": "The Universe just wants to learn",
+      "summary": "DNA doesn't do anything by itself. The information only becomes something when an enzyme unzips the helix and copies a stretch into messenger RNA, after which its instructions are decoded to create chains of amino acids. Similarly, the weights of a neural network don't mean anything on their own. They only become meaningful during the forward pass, activated during inference. In both cases, a passive informational substrate is brought to life only by a process outside of it."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "title": "Founders Fund's outlier bet on humanely killed fish",
+      "summary": "Shinkei is a startup that makes a refrigerator-sized robot that scans fish with computer vision, identifies the species, locates the brain, then pierces the brain and severs the gills so the fish dies before it can thrash or suffocate. The system prevents the fish from experiencing a slow death, which floods the meat with stress hormones and lactic acid, dulling the flavor and shortening shelf life. The process delays decomposition long enough for the flesh to be safely aged for days or longer before it is served."
+    },
+    {
+      "url": "https://octet-stream.net/b/scb/2026-06-22-when-its-the-maintainer-whos-ai-pilled.html",
+      "title": "When it's the maintainer who's AI-pilled",
+      "summary": "A well-supervised agent can offer dramatic speedups when paired with someone who cares about software, cares about the craft, and has specific goals they want to achieve. Agents can turn open issues into prompts, generate solutions, edit the output to meet standards for mergeability, and then commit as soon as it's ready, all on their own. This means issues can be fixed just hours after being identified."
+    },
+    {
+      "url": "https://zarar.dev/agent-hooks-deterministic-guardrails-for-ai-generated-code/",
+      "title": "Don't rely on instructions, use Agent Hooks to enforce guardrails",
+      "summary": "Agent Hooks allow developers to interject themselves into an agent's workflow while they are doing work rather than after the work is done. They can stop agents from ignoring rules. This means agents can be used for deterministic checks that work 100% of the time. This article discusses how to create two agent hooks: one that ensures agents never use an 'input' tag directly, and another that ensures agents never claim work is done while tests are still failing."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/36JvDA",
+      "title": "Secretive Wall Street Powerhouse Jane Street Seizes the AI Spotlight",
+      "summary": "Jane Street is looking to hire more than 500 employees this year. The previously secretive firm is starting to edge more into the spotlight to catch the attention of AI startups and talent. It is aiming to become a major AI investor and supercharge its trading with the technology. Jane Street is eager to make new AI investments and deals for computing power."
+    },
+    {
+      "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+      "title": "The Flat Curve Society",
+      "summary": "Anthropic claims that AI model intelligence has become dangerous. AI will continue to grow exponentially in capability, but most people will stop seeing progress. Only a few will have access to superintelligence above the classes of models seen this year. Open models are not likely to improve past Fable class due to huge compute requirements and government lockdowns."
+    },
+    {
+      "url": "https://www.seangoedecke.com/big-tech-needs-big-egos/",
+      "title": "Big tech engineers need big egos",
+      "summary": "The most effective engineers are simultaneously high-ego in some situations and surprisingly low-ego in others."
+    },
+    {
+      "url": "https://spyglass.org/failed-hackquisitions/",
+      "title": "About Those \"Hackquisitions\"...",
+      "summary": "Google paid $2.7 billion to bring Noam Shazeer back to the company, just for him to leave for OpenAI in less than two years."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
+      "title": "Why Amazon hates 'human-in-the-loop' AI governance",
+      "summary": "Humans aren't consistent, they make mistakes, and their performance drops over time."
+    },
+    {
+      "url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+      "title": "Lighthouse agentic browsing scoring",
+      "summary": "The Lighthouse Agentic Browsing category evaluates how well sites are constructed for machine interaction through a set of deterministic audits."
+    },
+    {
+      "url": "https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview",
+      "title": "Trump says he no longer views Anthropic as a national security threat after G7 meeting with CEO",
+      "summary": "The restrictions on Anthropic have yet to be formally rescinded, and Anthropic has not publicly indicated whether it plans to modify its guardrail policies."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney",
+      "title": "Preliminary Thoughts On The Midjourney Scanner",
+      "summary": "The technology is cool, but it likely isn't useful for most current serious medical applications."
+    }
+  ]
+}

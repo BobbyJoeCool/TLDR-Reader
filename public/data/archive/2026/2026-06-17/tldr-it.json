@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-17",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "summary": "Microsoft is turning to AWS to address AI capacity constraints affecting GitHub. With demand for AI-driven features straining available compute, Microsoft is adjusting its infrastructure sourcing to keep services running."
+    },
+    {
+      "url": "https://www.businessinsider.com/microsoft-was-in-talks-to-lease-oracle-compute-capacity-2026-6",
+      "title": "Microsoft walked away from $3B Oracle cloud deal over compliance concerns",
+      "summary": "Microsoft reportedly ended talks to lease Oracle Cloud capacity, showing how AI compute demand is pushing hyperscalers to consider unusual infrastructure partnerships. The deal also highlights how compliance and operational requirements can still block even high-demand cloud capacity plans."
+    },
+    {
+      "url": "https://kingy.ai/news/openai-partner-network-guide/",
+      "title": "OpenAI Partner Network: What the Launch Means for AI Product Teams",
+      "summary": "OpenAI launched the OpenAI Partner Network to help firms build, sell, deploy, and support enterprise AI solutions using OpenAI technology. The question is whether the partner tiers, specializations, and the Forward Deployed Experts pilot are practically valuable, especially given that pricing and free-plan details are not fully clear in the write-up."
+    },
+    {
+      "url": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
+      "title": "The Agentic Reckoning: enterprise AI has a runtime problem, not a model problem",
+      "summary": "Many agentic AI failures happen after deployment, when agents interact with tools, data, permissions, and workflows. Runtime governance, observability, and execution control are the real bottlenecks for production AI."
+    },
+    {
+      "url": "https://www.implicator.ai/google-open-sources-a-knowledge-format-and-wires-it-into-its-catalog/",
+      "title": "Google Open-Sources a Knowledge Format and Wires It Into Its Catalog",
+      "summary": "Google has published an Open Knowledge Format (OKF) spec that defines how AI agents can represent knowledge as a directory of plain Markdown files with a single required frontmatter field. It also updated its Knowledge Catalog to ingest OKF and serve it to agents, while leaving storage, serving, querying, and access control as the paid layer it sells."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/06/15/ltms-blueverse-for-irun-applies-agentic-ai-to-managed-it-operations/",
+      "title": "LTM's BlueVerse for iRun applies agentic AI to managed IT operations",
+      "summary": "BlueVerse for iRun is an AI-native managed services offering aimed at making IT operations more resilient, intelligent, and outcome-driven. The platform uses agentic AI plus a unified \"intelligence layer\" (data, telemetry, workflows, and context) with governed guardrails to shift operations from reactive incident handling to pre-emptive, automated resolution."
+    },
+    {
+      "url": "https://siliconangle.com/2026/06/16/okta-expands-google-cloud-partnership-secure-ai-agents-browser/",
+      "title": "Okta Expands Google Cloud Partnership To Secure AI Agents And Chrome",
+      "summary": "Okta is expanding its Google Cloud partnership with integrations across Gemini Enterprise Agent Platform and Chrome Enterprise. The new capabilities bring authentication, token handling, human approval checkpoints, agent ownership, device assurance, and session hijacking protections into the identity layer as companies start treating AI agents more like managed users."
+    },
+    {
+      "url": "https://engineering.salesforce.com/how-data-360-segmentation-processes-a-quadrillion-records-across-arbitrary-customer-data-models/",
+      "title": "How Data 360 Segmentation Processes a Quadrillion Records Across Arbitrary Customer Data Models",
+      "summary": "Data 360's segmentation engine processes around a quadrillion records per month despite customer data being modeled across thousands of tables, relationships, and storage systems. It uses runtime interpretation of customer-defined schemas and relationship graphs, along with workload size estimation, SLA-aware retries, rate limiting, adaptive compute allocation, and production telemetry to maintain reliability at extreme Spark job counts."
+    },
+    {
+      "url": "https://www.ciodive.com/news/agents-change-cybersecurity-frameworks/821801/",
+      "title": "AI agents put cybersecurity frameworks to the test",
+      "summary": "Enterprise agent deployments are forcing IT teams to rethink identity, access, governance, and runtime controls. The challenge is that agents can act across business systems in ways traditional human-user frameworks were not designed to handle."
+    },
+    {
+      "url": "https://fusionauth.io/docs/dev-tools/jwt-decoder",
+      "title": "JWT Decoder",
+      "summary": "The FusionAuth \"JWT Decoder\" tool lets you inspect a JSON Web Token by pasting it in, automatically decoding the header and payload to confirm expected claims."
+    },
+    {
+      "url": "https://www.investors.com/news/technology/hpe-stock-discover-conference-juniper-artificial-intelligence/",
+      "title": "HPE highlights Juniper integration at Discover",
+      "summary": "HPE used its Discover event to show how Juniper networking hardware and AI capabilities fit into its broader data center and cloud strategy."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/06/AI-note-taking-in-google-voice.html",
+      "title": "Google Voice Adds Gemini AI Note-Taking",
+      "summary": "Google Voice's new \"Take notes for me\" feature records and transcribes calls, summarizes key points, and sends action items via Gmail."
+    }
+  ]
+}

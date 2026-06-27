@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-10",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/agVKBO",
+      "title": "Check Point VPN Flaw Is Being Exploited in the Wild",
+      "summary": "CISA ordered federal agencies to patch a Check Point VPN authentication bypass within three days after evidence of active exploitation. The flaw affects gateways using deprecated IKEv1 configurations and can let unauthenticated attackers establish remote access VPN connections."
+    },
+    {
+      "url": "https://www.itpro.com/technology/artificial-intelligence/cios-and-ctos-are-making-high-stakes-decisions-with-incomplete-information-ibm-survey-reveals?utm_source=tldrit",
+      "title": "CIOs Are Responsible for AI Systems They Do Not Fully Control",
+      "summary": "A survey by IBM found that two-thirds of CIOs and CTOs are accountable for AI systems they do not fully control, while only 11% feel fully prepared for large-scale AI deployment. AI agent use is expected to rise sharply, but most leaders say their governance frameworks are not ready."
+    },
+    {
+      "url": "https://thenewstack.io/azure-repos-github-migration/?utm_source=tldrit",
+      "title": "Microsoft's Pitch to Enterprises: Ditch Azure Repos for GitHub, Despite Its Rocky Reliability Record",
+      "summary": "Microsoft is urging enterprise customers to migrate from Azure Repos to GitHub, arguing that GitHub is the AI-native home for Copilot and agentic development workflows. It points to Enterprise Live Migrations (ELM) as a way to reduce downtime, keeping repos in sync and aiming for cutovers typically under 30 minutes, while acknowledging that migration involves more than just Git history and branches."
+    },
+    {
+      "url": "https://www.techradar.com/pro/the-ai-roi-gap-why-enterprise-intelligence-is-stalling-at-the-infrastructure-level?utm_source=tldrit",
+      "title": "The Enterprise AI ROI Gap Is Becoming an Infrastructure Problem",
+      "summary": "Many AI projects get stuck after proof-of-concept because companies underestimate the infrastructure, cost, data location, and skills needed to scale them. Enterprise AI needs to be treated more like a secure utility than a one-off cloud experiment."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment/?utm_source=tldrit",
+      "title": "PostgreSQL 19 Beta 1 Is Now Available in Amazon RDS Database Preview Environment",
+      "summary": "Amazon has added PostgreSQL 19 Beta 1 to the Amazon RDS Database Preview Environment, so users can evaluate the pre-release PostgreSQL 19 on a fully managed service. The preview includes PostgreSQL 19 features such as native graph query support (SQL/PGQ), concurrent table repacking, and improvements to logical replication (including sequence synchronization and dynamic enabling)."
+    },
+    {
+      "url": "https://news.microsoft.com/source/2026/06/09/kpmg-and-microsoft-scale-trusted-enterprise-ai-agents-globally-through-deployment-of-agent-365-and-copilot/?utm_source=tldrit",
+      "title": "KPMG and Microsoft Expand Partnership Around Agent 365 and Copilot",
+      "summary": "KPMG will use Microsoft Agent 365 to help clients manage, monitor, and secure AI agents across their organizations. The firm will also deploy Microsoft 365 Copilot globally across its workforce."
+    },
+    {
+      "url": "https://www.salesforce.com/blog/salesforce-headless-it-operations/?utm_source=tldrit",
+      "title": "Why Salesforce Shifted to Headless IT Operations",
+      "summary": "Salesforce's IT and engineering teams moved away from browser-bound workflows by adopting \"Salesforce Headless 360,\" which decouples backend logic from the standard Salesforce UI. This resulted in headless, omnichannel operations embedded directly in tools like Slack for faster access requests, ticket support, and real-time infrastructure triage with reduced manual overhead."
+    },
+    {
+      "url": "https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html?utm_source=tldrit",
+      "title": "Introducing Lightstep UQL to PromQL Translator",
+      "summary": "Zalando is sunsetting Lightstep as it transitions its telemetry infrastructure to Dash0 (a PromQL-based vendor). To migrate thousands of Lightstep UQL queries reliably, the team built a production-ready Go translator that converts Lightstep UQL into PromQL with a full lexer → parser → AST → optimizer → codegen pipeline."
+    },
+    {
+      "url": "https://cilium.io/blog/2026/06/07/kubernetes-runtime-security-the-guide/?utm_source=tldrit",
+      "title": "Kubernetes Runtime Security: The Guide",
+      "summary": "A technical guide to Kubernetes runtime security that describes how to continuously protect workloads while they are actively running."
+    },
+    {
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog?utm_source=tldrit",
+      "title": "CISA Adds Two Exploited Vulnerabilities to KEV Catalog",
+      "summary": "CISA has added two actively exploited vulnerabilities to its Known Exploited Vulnerabilities catalog, giving federal agencies new remediation deadlines."
+    }
+  ]
+}

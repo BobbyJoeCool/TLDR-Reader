@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-06-22",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/CigtyQ",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "summary": "ChatGPT Enterprise introduces credit usage analytics and expanded spend controls that unify ChatGPT and Codex usage data in the Global Admin Console, enabling visibility into adoption, model-level consumption, and top users. Administrators can set workspace, group, and individual limits with overrides and requests, improving cost governance while preserving flexible access for high-usage teams."
+    },
+    {
+      "url": "https://blog.cloudflare.com/cloudflare-one-stack/",
+      "title": "Introducing the Cloudflare One stack: agent-powered deployment",
+      "summary": "Cloudflare One stack provides agent-ready skills that encode Zero Trust expertise to automate planning, migration, configuration, and troubleshooting of Cloudflare security services, including Access, Gateway, Tunnel, and WAN. It enables vendor-to-vendor migration, live API-driven management via MCP integration, and structured translation of existing network and SASE configurations into Cloudflare deployments."
+    },
+    {
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "summary": "Cloudflare launched Temporary Accounts for Agents, allowing AI coding agents to deploy websites and APIs instantly using the command `wrangler deploy --temporary` without signing up or going through authentication flows. The deployments stay live for 60 minutes and can be claimed by developers to make them permanent, enabling agents to iterate through multiple code changes and verify their work without human intervention."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/devops/production-ready-autonomous-incident-resolution-with-aws-devops-agent-now-ga-and-datadog-mcp-server/",
+      "title": "Production-Ready Autonomous Incident Resolution with AWS DevOps Agent (now GA) and Datadog MCP Server",
+      "summary": "AWS DevOps Agent reached general availability alongside Datadog MCP Server, enabling autonomous incident resolution that reduces response times from hours to minutes by automatically correlating monitoring data with infrastructure across AWS, multicloud, and on-premises environments. The integration now includes automatic incident coordination through Slack, PagerDuty, and ServiceNow, plus AI-generated mitigation plans and proactive prevention recommendations."
+    },
+    {
+      "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
+      "title": "I am dreading our LLM-written incident report future",
+      "summary": "LLMs can reduce the toil of gathering incident data, but using them to write the actual incident report bypasses the human synthesis that forces teams to test whether their explanation matches the evidence. The danger is that AI-written reports may look plausible while inventing or missing key system interactions, reducing organizational learning."
+    },
+    {
+      "url": "https://github.com/tursodatabase/turso",
+      "title": "Turso",
+      "summary": "Turso Database, an in-process SQL database written in Rust that's compatible with SQLite, has launched in beta with experimental features including native async support and vector search capabilities. The open-source project aims to become the next evolution of SQLite and already powers production applications like Turso Cloud and Kin AI assistant."
+    },
+    {
+      "url": "https://github.com/1jehuang/jcode",
+      "title": "Jcode",
+      "summary": "Jcode, a new open-source coding agent framework, launched with extreme performance optimizations (10x faster boot times than competitors) and a unique 'self-dev mode' that lets AI agents modify their own source code in real-time. The tool features human-like semantic memory retrieval, native multi-agent collaboration with automatic conflict resolution, and support for multiple AI providers including local models."
+    },
+    {
+      "url": "https://about.gitlab.com/blog/one-vulnerability-view/",
+      "title": "One vulnerability view: From scanner coverage to AI governance",
+      "summary": "GitLab 19.1 adds centralized enforcement of third-party security scanners with unified vulnerability management and AI-driven remediation, while improving secret detection through full branch scanning and false positive reduction. The release also introduces AI governance features, including agent action audit streaming and approval guardrails, giving organizations visibility and control over AI agent activities with complete audit trails."
+    },
+    {
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "title": "Ten years of ClickHouse in open source",
+      "summary": "ClickHouse marks ten years as an open-source project, growing from an internal analytics system built for real-time web-scale reporting into one of the most popular open-source analytical databases with more than 2,000 contributors. ClickHouse was built from scratch around columnar storage, streaming query pipelines, MergeTree storage, and replicated multi-DC production needs."
+    },
+    {
+      "url": "https://www.fastly.com/blog/deploying-fastly-next-gen-waf-google-cloud-service-extensions-secure-traffic",
+      "title": "Deploying Fastly's Next-Gen WAF with Google Cloud Service Extensions to Help Secure Traffic at Scale",
+      "summary": "Fastly's Next Gen WAF integrates with Google Cloud Service Extensions to inspect and block malicious traffic directly within the load balancer pipeline, delivering real-time protection against threats such as bots, credential stuffing, and SQL injection without impacting application performance."
+    },
+    {
+      "url": "https://newrelic.com/blog/news/new-relic-ai-aws",
+      "title": "Accelerating agentic development and incident resolution with New Relic AI + AWS",
+      "summary": "New Relic has launched a one-click integration between its MCP Server and AWS Kiro, bringing real-time observability data such as metrics, logs, events, and traces directly into AI-driven development workflows to improve code quality, accelerate troubleshooting, and reduce MTTR."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+      "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
+      "summary": "AWS launched its EC2 G7 instances to general availability, making it the first major cloud provider to support NVIDIA's RTX PRO 4500 Blackwell Server Edition GPUs."
+    }
+  ]
+}

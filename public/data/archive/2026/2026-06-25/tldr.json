@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-06-25",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html?utm_source=tldrnewsletter",
+      "title": "Openai Unveils First Chip as Part of Broadcom Deal in Effort to ‘Build the Full Stack'",
+      "summary": "OpenAI and Broadcom's Jalapeño chip is designed for inference, the compute-intensive process of serving AI models to users. It took nine months for the companies to design the chips end-to-end. The use of OpenAI's AI models helped accelerate the process. Jalapeño is a major step in OpenAI's plan to build the full-stack behind its models and products."
+    },
+    {
+      "url": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/?utm_source=tldrnewsletter",
+      "title": "Tesla, Sunrun Team up on 16 GW Virtual Power Plant for Data Centers",
+      "summary": "Sunrun, Tesla, and Renew Home have announced an agreement to aggregate more than 16 gigawatts of home batteries and other devices into the largest distributed power plant in the US. The project aims to address the surging electricity demand from data centers. The companies already have more than 300 megawatts of capacity ready for immediate deployment in Virginia. They expect capacity to grow to at least 500 megawatts by 2030 as more home batteries and thermostats come online."
+    },
+    {
+      "url": "https://time.com/article/2026/06/24/500-million-intercept-fund-eliminate-common-cold/?utm_source=tldrnewsletter",
+      "title": "A NEW $500 Million Fund is Trying to Eliminate the Common Cold",
+      "summary": "Intercept is a project aimed at making respiratory infections like the common cold and flu a thing of the past. Launched on June 24, it will support research into the adoption of technologies like air filtration to remove pathogens from the air directly. The project has received $500 million in investments from a variety of sources, including Stripe and Anthropic. The funds will be used to back the development of treatments that could protect people from many viruses at once."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/nFeSKW",
+      "title": "The Roomba Guy's Second ACT: a Robot You'll Want to Snuggle",
+      "summary": "Colin Angle, who led iRobot for nearly three decades, has a new startup called Familiar Machines & Magic that is selling a robot designed to help people monitor their loved ones. The robot, called the Familiar, is an expressive, furry creature that can react to people's actions and feelings in an emotionally intelligent way. It is still in an early prototype stage, so there's no information about price or availability, but videos of the current iteration of the product are available in the article. The Familiar will use local small models to process requests and won't send any data to the cloud."
+    },
+    {
+      "url": "https://www.jimmont.com/llm-style-token-costs?utm_source=tldrnewsletter",
+      "title": "What I'm Finding about LLM Code Style and Token Costs",
+      "summary": "Large language models will code from scratch unless you explicitly tell them about existing functionalities. They don't know to use existing code unless you tell them to. Letting them know what already exists can result in significant token savings. It can also help remove entire categories of security and reliability issues."
+    },
+    {
+      "url": "https://robenglander.com/writing/the-case-for-language-native-software/?utm_source=tldrnewsletter",
+      "title": "The Case for Language-Native Software",
+      "summary": "Natural language is becoming an interface. Software is beginning to understand instructions in human language. Language-native software will accept intent in the language users already speak, translate it into structured operations, and execute them deterministically. This makes language the interface itself."
+    },
+    {
+      "url": "https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/?utm_source=tldrnewsletter",
+      "title": "The CEO of AWS on why Amazon is Hiring 11,000 Interns and Junior Employees",
+      "summary": "Amazon is increasingly in the business of selling software that does white-collar work. However, Matt Garman, the CEO of AWS, says he isn't worried about AI destroying a huge number of jobs. He believes that jobs might change, but they're not going away. This article features highlights from an interview with Garman where he discusses how technology changes work."
+    },
+    {
+      "url": "https://gizmodo.com/anthropics-white-house-negotiations-are-reportedly-on-track-after-weirdo-dario-amodei-was-replaced-2000777207?utm_source=tldrnewsletter",
+      "title": "Anthropic's White House Negotiations are Reportedly on Track after ‘Weirdo' Dario Amodei was Replaced",
+      "summary": "Dario Amodei was reportedly weird and hard to deal with during the negotiations between the White House and Anthropic. Talks are now on track now that his role in the discussions has been replaced by Tom Brown, another Anthropic co-founder. Brown's manner is warmer and more traditionally personable. He is working on the talks alongside Sarah Heck, Anthropic's Head of Public Policy, who is quite disciplined and cautious but comes across as enthusiastic and on-message."
+    },
+    {
+      "url": "https://structural.chat/articles/programming-in-markdown/?utm_source=tldrnewsletter",
+      "title": "Stop Programming in Markdown",
+      "summary": "People are using LLMs inappropriately in situations where regular code would fare much better."
+    },
+    {
+      "url": "https://thenextweb.com/news/qualcomm-dragonfly-meta-ai-data-center-chips-modular?utm_source=tldrnewsletter",
+      "title": "Qualcomm Lands Meta as First Named Customer for its Dragonfly Data Centre Chips",
+      "summary": "The Dragonfly C1000 is a general-purpose server processor expected to be available in 2028."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/THIHOY",
+      "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
+      "summary": "Middlemen on messaging apps like Telegram, WeChat, and WhatsApp are offering access to people inside Amazon who can get things done for a price."
+    },
+    {
+      "url": "https://rico.codes/loops-not-prompts?utm_source=tldrnewsletter",
+      "title": "Writing Loops, not Prompts, Explained",
+      "summary": "Automate the parts of prompting that you keep repeating, and keep judgment close to the parts that matter."
+    },
+    {
+      "url": "https://zackproser.com/blog/build-agents-that-open-prs?utm_source=tldrnewsletter",
+      "title": "Stop Building Chatbots. Build Agents that Open PRS",
+      "summary": "PRs are an artifact that can be reviewed or rejected by a human."
+    },
+    {
+      "url": "https://posthog.com/blog/sql-parser?utm_source=tldrnewsletter",
+      "title": "I Wrote a 70x Faster SQL Parser while Barely Looking at the Code",
+      "summary": "Lessons learned when rewriting PostHog's SQL parser using multiple Claude Code sessions running in parallel."
+    }
+  ]
+}

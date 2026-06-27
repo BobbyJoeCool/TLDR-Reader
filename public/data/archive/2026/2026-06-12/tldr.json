@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-06-12",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/0TwxBA",
+      "title": "Jeff Bezos Wants to Build an 'Artificial General Engineer'",
+      "summary": "Jeff Bezos' new startup, Prometheus, intends to create new engineering tools to improve the design and manufacture of practically any device. It aims to improve the efficiency of companies that design and build computers, automobiles, spacecraft, and other physical products. The tools it will create will accelerate the invention loop. The work done at Prometheus could benefit Bezos' other companies."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/vnDRq0",
+      "title": "SpaceX IPO Raises $75 Billion in Biggest Debut of All Time",
+      "summary": "SpaceX raised $75 billion in its IPO. The IPO, the biggest so far, drew demand more than four times the available shares. SpaceX's shares will debut on the Nasdaq and Nasdaq Texas on Friday. A successful showing in the public markets could tip the scales and make Elon Musk a trillionaire."
+    },
+    {
+      "url": "",
+      "title": "House Robots Are Coming—and They Will Be Dangerously Cute",
+      "summary": ""
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/?utm_source=tldrnewsletter",
+      "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
+      "summary": "NASA's Deep Space Network couldn't keep up with the routine demands of its science missions during the Artemis I mission nearly four years ago. The network reduced or delayed downlinks from several high-profile science missions. As a result, NASA put in new processes focused around coordination and scheduling. This produced better results during Artemis II, which had an even higher data requirement than the previous mission, but the limitations of the network and high demand continue to be an issue."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/pmphV4",
+      "title": "Building a Good Vertical Agent",
+      "summary": "Earlier models needed custom tools and everything spelled out to work. Today's models can absorb a ton of context and reason over raw data without choking. Bigger context windows tempt people to throw in more data, but noise causes accuracy to drop. Increase accuracy by building context like a memory hierarchy."
+    },
+    {
+      "url": "",
+      "title": "Homebrew 6.0.0",
+      "summary": ""
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/my-ai-opinions?utm_source=tldrnewsletter",
+      "title": "My AI Opinions",
+      "summary": "Scott Alexander is a doctor on the US West Coast. He is currently working on new models for mental health care at Lorien Psychiatry. This post contains his thoughts on AI timelines, AI safety, geopolitics, and more."
+    },
+    {
+      "url": "",
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "summary": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/11/waymo-launches-premier-subscription-tier-for-29point99-a-month.html?utm_source=tldrnewsletter",
+      "title": "Waymo launches premier subscription tier for $29.99 a month, starting in select cities",
+      "summary": "Waymo Premier subscribers will get prioritized matching, up to five free cancellations per month, and 10% back in loyalty credits for each trip."
+    },
+    {
+      "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life?utm_source=tldrnewsletter",
+      "title": "A Greyscale iPhone Setup that Works in Everyday Life",
+      "summary": "Setting your phone to greyscale can help significantly reduce screen time."
+    },
+    {
+      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/?utm_source=tldrnewsletter",
+      "title": "How Terry Tao Became an Evangelist for AI in Math",
+      "summary": "Terrence Tao didn't think AI would replace human mathematicians any time soon, but he thought the technology was well-suited to helping solve mathematical problems that could be broken into thousands of small, manageable subproblems."
+    },
+    {
+      "url": "https://www.seangoedecke.com/doing-nothing-at-work/?utm_source=tldrnewsletter",
+      "title": "Doing nothing at work",
+      "summary": "Performance at tech companies is dominated by outlier work, so instead of grinding at 100% effort all the time, save some energy and time and use it to find these opportunities."
+    },
+    {
+      "url": "https://zed.dev/blog/introducing-deltadb?utm_source=tldrnewsletter",
+      "title": "Software Is Made Between Commits",
+      "summary": "DeltaDB is a version control system built on a single coherent abstraction that transforms conversations with agents and the worktrees they edit into shared artifacts."
+    },
+    {
+      "url": "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/?utm_source=tldrnewsletter",
+      "title": "First Drive: The 2027 Rivian R2 entirely changes the EV game",
+      "summary": "Customer deliveries of the highly anticipated Rivian R2 started this month."
+    }
+  ]
+}

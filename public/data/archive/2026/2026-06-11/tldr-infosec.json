@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Information Security",
+  "date": "2026-06-11",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theregister.com/patches/2026/06/10/ivanti-urges-sentry-users-to-patch-two-critical-bugs/5253428?utm_source=tldrinfosec",
+      "title": "Ivanti Tells Sentry Customers to Patch Now as Critical Bugs Hit 10.0 and 9.9",
+      "summary": "Ivanti warns that two critical Ivanti Sentry bugs allow remote, unauthenticated attackers to gain root or create admin accounts on affected gateways. One flaw abuses an exposed Tomcat API to run injected MICS commands as root. Ivanti blocks unauthenticated access and hard-codes commands, and tells customers to upgrade Sentry to 10.5.2, 10.6.2, or 10.7.1 immediately."
+    },
+    {
+      "url": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html?utm_source=tldrinfosec",
+      "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
+      "summary": "ServiceNow fixed a misconfigured endpoint that allowed unauthenticated users to query certain customer instances in its Australia release and in some earlier custom setups. Attackers used the bug to run table queries against a subset of tenants starting June 2. ServiceNow traced the issue back to reports received through its bug bounty program in April and early June and directly notified affected customers."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/amXvda",
+      "title": "Path Traversal Flaw in AI Dev Platform Langflow Exploited in Attacks",
+      "summary": "Security researchers warn that a path traversal vulnerability in Langflow, disclosed in March, is now being exploited by attackers. The vulnerability stems from the POST /api/v2/files endpoint not properly sanitizing paths, allowing attackers to upload arbitrary files to Langflow servers. Langflow enables unauthenticated, auto-login by default, meaning that this vulnerability can be exploited by unauthenticated attackers in default configurations."
+    },
+    {
+      "url": "https://red.anthropic.com/2026/attack-navigator/?utm_source=tldrinfosec",
+      "title": "Mapping AI-Enabled Cyber Threats: Insights from the LLM ATT&CK Navigator",
+      "summary": "Anthropic mapped 13,873 technique observations from 832 banned accounts onto MITRE ATT&CK and found that medium-or-higher-risk actors climbed from 33% to 56% in a year, with most actors leaning on AI for early-stage capability development (T1587 malware, used by 69%) and defense evasion (T1027, T1562, and T1055) while the highest-risk actors instead drove AI into post-compromise, hands-on-keyboard work like lateral movement (T1021), OS credential dumping (T1003), and web shell deployment (T1505.003). The standout case, GTG-1002, hit the maximum risk score of 100 not through technique breadth (30 techniques, comparable to medium-risk actors) but by weaponizing Claude Code on a Kali host with pentest tools wired in as MCP servers, turning the model into an autonomous operator that chained reconnaissance through SSRF exploitation, SSH key and cloud-secret harvesting, and lateral movement with minimal human input. Defenders should treat agentic orchestration rather than raw skill or technique count as the new high-risk signal, build detections for multistep autonomous execution and AI-directed pivots that MITRE does not yet enumerate, and compress vulnerability-to-patch timelines while applying AI defensively at matching urgency."
+    },
+    {
+      "url": "https://sumsub.com/blog/how-fraudsters-bypass-facial-recognition/?utm_source=tldrinfosec",
+      "title": "How Fraudsters Bypass Facial Recognition and Stay Hidden in 2026",
+      "summary": "Fraud rings now combine deepfakes, silicone or paper masks, stolen photos, and pre-recorded or injected video to bypass facial verification in banking, crypto, and remote hiring flows. Recent cases include North Korean IT workers using deepfake job interviews, a Vietnamese ring laundering about 38.4 million dollars, and scams impersonating leaders in Singapore, Indonesia, and the United States. Defenses focus on liveness checks that read depth, micro-movements, rPPG signals, and camera integrity, plus hardened apps, encrypted pipelines, and device and session fingerprinting."
+    },
+    {
+      "url": "https://brainoverflow.blog/posts/claude-code-security-review-bias/?utm_source=tldrinfosec",
+      "title": "Hidden Gaps in Claude Code Security Reviews",
+      "summary": "To address a potential issue of model bias when running /security-review in the same session that authored the code, Anthropic introduced a new plugin that runs a separate session to review the diff. The author hypothesized and proved that the /security-review skill suffers from model bias, ignoring legitimate findings due to existing context from the authoring process, and that the plugin misses complex attack chains because it is limited to changes in the specific diff. The author suggests running /security-review manually in a new session to force a full code review without model bias and avoid these issues."
+    },
+    {
+      "url": "https://www.aryon.security/?utm_source=tldrinfosec",
+      "title": "Aryon Security",
+      "summary": "Aryon Security provides a technology-agnostic cloud security platform that scans assets for misconfigurations, enforces organization-defined policies, supports secure-by-design cloud migration, and applies preventive controls continuously across customers' cloud environments."
+    },
+    {
+      "url": "https://github.com/Cisco-Talos/EvidenceForge?utm_source=tldrinfosec",
+      "title": "EvidenceForge",
+      "summary": "EvidenceForge is a new tool from Cisco Talos that generates realistic-looking synthetic security logs for threat hunting training and research."
+    },
+    {
+      "url": "https://github.com/microsoft/agent-governance-toolkit?utm_source=tldrinfosec",
+      "title": "Agent Governance Toolkit",
+      "summary": "The AI Agent Governance Toolkit provides policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents."
+    },
+    {
+      "url": "https://trustedsec.com/blog/the-privileged-roles-nobody-talks-about?utm_source=tldrinfosec",
+      "title": "The Privileged Roles Nobody Talks About",
+      "summary": "MDM and platform-administration roles like Intune Administrator are functionally Tier 0 yet are routinely left out of threat models, run from general-purpose laptops on permanently assigned accounts, and exposed through forgotten Graph API app registrations holding DeviceManagement*.ReadWrite.All, any one of which lets a single compromised credential push SYSTEM-context scripts or wipe an entire device fleet. The piece traces a recurring kill chain (infostealer to Intune admin compromise to mass wipe) mapped to MITRE techniques such as T1072, T1059.001, T1098, and T1578, and prescribes treating these roles with the same rigor as Domain Admin: PIM-gated just-in-time activation, phishing-resistant MFA, Multi-Admin Approval on destructive actions, scoped custom RBAC, dedicated redundant PAWs, and Sentinel detections that flag service-principal (Graph API) abuse via the IsApiActor pattern. The broader point lands as governance rather than novelty, since the attack needs no zero-day, just one underprotected console and an incomplete definition of privileged access."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/?utm_source=tldrinfosec",
+      "title": "Locked in Heated Rivalry with Researcher, Microsoft Fixes 0-Day They Disclosed",
+      "summary": "Microsoft patched two high‑severity Windows zero‑days disclosed by researcher Nightmare Eclipse, including GreenPlasma (CVE-2026-45586) and a regressed bug dubbed MiniPlasma tied to CVE-2020-17103. The company also shared manual mitigation steps for the YellowKey BitLocker bypass, while unpatched flaws like RedSun and BlueHammer remain pending as the dispute over disclosure practices continues."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/?utm_source=tldrinfosec",
+      "title": "Cybersecurity Researchers Aren't Happy About the Guardrails on Anthropic's Fable",
+      "summary": "Anthropic's public Fable model, based on Mythos, blocks many prompts that mention cybersecurity, even simple code review or blog analysis requests. Researchers report frequent shutdowns, keyword-style filtering, and fallback to Claude Opus 4.8. Anthropic instead directs high‑trust users into a Cyber Verification Program with looser limits."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/Pz3Owp",
+      "title": "Infostealers Turn Millions of Devices into Credential Theft Machines",
+      "summary": "Attackers now lean on infostealers to grab credentials, browser data, crypto wallets, and system metadata, then bundle everything into encrypted logs for sale."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/tm3wz1",
+      "title": "CISA Rewrites Federal Patching Requirements for AI Threat Era",
+      "summary": "CISA's new Binding Operational Directive BOD 26-04 replaces prior mandates with a tiered, risk-based model that gives federal civilian agencies three days to remediate and forensically triage the most dangerous flaws."
+    },
+    {
+      "url": "https://www.hashicorp.com/en/blog/hcp-packer-adds-enforced-provisioners?utm_source=tldrinfosec",
+      "title": "HCP Packer Adds Enforced Provisioners",
+      "summary": "HCP Packer now lets platform and security teams centrally define mandatory provisioning logic that runs automatically on every downstream image build tied to a Packer bucket."
+    }
+  ]
+}

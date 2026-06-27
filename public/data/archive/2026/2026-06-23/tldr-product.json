@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-06-23",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.antmurphy.me/newsletter/the-most-demanding-role-in-product?utm_source=tldrproduct",
+      "title": "The Most Demanding Role in Product (6 minute read)",
+      "summary": "Platform PMs manage multiple audiences, invisible work, delayed outcomes, and complex dependencies. Success requires strong storytelling, adoption, measurement, and stakeholder management."
+    },
+    {
+      "url": "https://www.a16z.news/p/how-to-win-a-space-war?utm_source=tldrproduct",
+      "title": "How to Win a Space War (28 minute read)",
+      "summary": "Winning in space requires resilient satellites, unmatched launch capacity, and credible deterrence. America must defend its orbital advantage without destroying the environment it depends on."
+    },
+    {
+      "url": "https://longform.asmartbear.com/confidence/?utm_source=tldrproduct",
+      "title": "Lost confidence (13 minute read)",
+      "summary": "Confidence scores create false precision and favor safe ideas. Prioritize observable impact and bounded bets with meaningful upside."
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops?utm_source=tldrproduct",
+      "title": "How to design AI agent loops (29 minute video)",
+      "summary": "Effective AI agents need clear goals, rigorous verification, and human oversight. Mozilla used this approach to find and fix hundreds of Firefox security bugs."
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-product-management-can-fix-your-ai-integration-problems/?utm_source=tldrproduct",
+      "title": "How product management can fix your AI integration problems (6 minute read)",
+      "summary": "Most enterprise AI pilots fail to produce ROI by focusing on tool deployment rather than redesigning workflows. Since pilot teams often lack the authority to change work processes, these integrations often become expensive demos. Instead, teams should have the autonomy to redesign workflows and measure success based on outcomes."
+    },
+    {
+      "url": "https://www.davesresearch.com/timescales/?utm_source=tldrproduct",
+      "title": "Timescales of play (6 minute read)",
+      "summary": "Effective product collaboration requires recognizing that different stakeholders perceive the same situation through different “backgrounds,” which are shaped by timescales. This piece proposes three timescales to consider and recommends using visual models to expose shared context and bridge timescale barriers."
+    },
+    {
+      "url": "https://bakadesuyo.com/2026/06/self-sabotage/?utm_source=tldrproduct",
+      "title": "The Uncomfortable Reason You Keep Self-Sabotaging (7 minute read)",
+      "summary": "Self-sabotage often hides an emotional reward. Change begins when we face reality, take meaningful action, and stop mistaking the appearance of living for life itself."
+    },
+    {
+      "url": "https://benn.substack.com/p/can-ai-make-an-iphone?utm_source=tldrproduct",
+      "title": "Can AI make an iPhone? (5 minute read)",
+      "summary": "AI can generate ideas, but great products require judgment and restraint. Taste is the discipline to protect a clear vision by repeatedly saying no."
+    },
+    {
+      "url": "https://spin.atomicobject.com/ai-knowledge-base/?utm_source=tldrproduct",
+      "title": "The Knowledge That Dies When the Project Goes Live (2 minute read)",
+      "summary": "Project documentation often goes stale by production, trapping the “why” behind system behavior in an architect's head."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/10VheK",
+      "title": "Owning vs. Renting Intelligence (2 minute read)",
+      "summary": "Companies that rent intelligence remain vulnerable to decisions beyond their control."
+    }
+  ]
+}

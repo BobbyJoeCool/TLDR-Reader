@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-22",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.helpnetsecurity.com/2026/06/19/accenture-dragos-runzero-netrise-acquisition/",
+      "title": "Accenture to buy Dragos, runZero, and NetRise in $4.2 billion cybersecurity deal",
+      "summary": "Accenture will acquire a majority stake in Dragos and buy 100% of runZero and NetRise in a combined cybersecurity deal valued at about $4.2B. The goal is to expand end-to-end operational technology (OT) security capabilities for critical infrastructure and industrial environments, with Dragos retaining independence and serving as the operating unit."
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/popular-free-vpn-streaming-apps-bombard-business-networks-with-laundered-traffic-used-by-criminals-to-blend-into-normal-consumer-noise-heres-how-to-keep-safe",
+      "title": "Free VPN And Streaming Apps Are Polluting Business Networks With Residential Proxy Traffic",
+      "summary": "Infoblox Threat Intel says more than 65% of its cloud customers made DNS queries to residential-proxy domains in 2026, totaling more than 500 billion queries per month. Free VPNs, streaming apps, and browser extensions can quietly turn employee or unmanaged devices into proxy infrastructure, creating legal, reputational, and security risks."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
+      "title": "Why Amazon hates 'human-in-the-loop' AI governance",
+      "summary": "Amazon Security VP argues that 'human-in-the-loop' AI governance is not a reliable or scalable approach for agentic systems, because repeated approval decisions lead to deteriorating judgment. Instead, Amazon favors end-to-end accountability tied to agent identities and scoped, risk-based permissions to reduce 'goal-seeking behavior.'"
+    },
+    {
+      "url": "https://blogs.cisco.com/cisco-on-cisco/engineering-resilience-lessons-from-the-front-lines-of-ciscos-sse-deployment",
+      "title": "Cisco's SSE Rollout Shows The Real Work Behind Zero Trust",
+      "summary": "Cisco shared lessons from its internal Security Service Edge deployment, where it moved from a fragmented, hardware-heavy VPN/security infrastructure to a unified cloud-delivered SSE model. The rollout reduced help desk cases by 18%, eliminated 20+ legacy VPN options, expanded certificate-based Zero Trust Access, and added GenAI traffic inspection for DLP."
+    },
+    {
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "title": "Enterprise-Managed Authorization: Zero-touch OAuth for MCP",
+      "summary": "The Model Context Protocol (MCP) 'Enterprise-Managed Authorization' (EMA) extension is now stable, enabling organizations to centrally manage which users can access which MCP servers. With EMA, users log in once via their enterprise identity provider and automatically gain access to the servers admins enabled, avoiding per-server OAuth consent prompts. The extension is being adopted across major identity providers, clients, and servers, including Okta, Anthropic, Visual Studio Code, and products like Asana, Atlassian, and Slack."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/hrenZS",
+      "title": "ChatGPT: New usage analytics and updated spend controls for enterprises",
+      "summary": "OpenAI introduced spend controls and improved usage analytics for ChatGPT Enterprise. The tools are designed for administrators to monitor AI adoption, track consumption by team, and set budgets, with centralized dashboards for visibility."
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+      "title": "How we built an internal data analytics agent",
+      "summary": "Qubot is an internal GitHub Copilot-powered data analytics agent that lets employees ask exploratory questions in plain language and get answers within seconds. It uses a context layer that's federated across raw/bronze, conformed/silver, and curated/gold data, and a query engine that connects to Kusto and Trino via an MCP server, switching automatically based on the question."
+    },
+    {
+      "url": "https://www.windowscentral.com/microsoft/microsofts-ai-strategy-feels-like-a-beta-test-at-the-expense-of-windows-and-office",
+      "title": "Microsoft's AI Push Is Starting To Feel Like A Beta Test For IT Teams",
+      "summary": "Microsoft's aggressive AI strategy is creating friction across Windows and Office, with Copilot being pushed deeper into products while core user and admin concerns remain unresolved. Enterprise AI is arriving as default behavior, not a cleanly governed rollout."
+    },
+    {
+      "url": "https://www.saastr.com/lightfield-just-assembled-a-working-crm-live-on-stage-then-unstuck-a-stalled-deal-in-3-minutes/",
+      "title": "Lightfield Just Assembled a Working CRM Live On Stage, Then Unstuck a Stalled Deal in 3 Minutes",
+      "summary": "Lightfield founder delivered a live, end-to-end CRM demo on real data, showing how an AI-native CRM can assemble records, diagnose a stalled deal, and then codify the fix as an automation."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/PrbXch",
+      "title": "Samsung Rolls Out ChatGPT and Codex Across the Enterprise",
+      "summary": "Samsung Electronics is deploying ChatGPT Enterprise and Codex to all employees in Korea and all Device eXperience employees worldwide, making it one of OpenAI's largest enterprise deployments to date."
+    }
+  ]
+}

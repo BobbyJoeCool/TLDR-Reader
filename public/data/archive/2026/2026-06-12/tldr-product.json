@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-06-12",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://jennywanger.com/articles/what-i-tell-ceos-who-want-a-product-team-scorecard/?utm_source=tldrproduct",
+      "title": "What I tell CEOs who want a product team scorecard",
+      "summary": "Product management resists simple metrics, so there is no universal scorecard for team health. Instead of dashboards, use structured discussion prompts across four 'lenses' to guide conversations with team members and stakeholders."
+    },
+    {
+      "url": "https://www.a16z.news/p/everything-is-recorded-now?utm_source=tldrproduct",
+      "title": "Everything is Recorded Now",
+      "summary": "AI is making workplace recording the default, creating a living context layer that boosts productivity and visibility while forcing companies to govern privacy, legal risk, and employee candor."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/prioritization-vs-curation?utm_source=tldrproduct",
+      "title": "AI doesn't make your job easier",
+      "summary": "AI hasn't made product management easier. It speeds up work so teams reach the hardest parts sooner - deciding what to build and how to prove it worked. As \"yes\" becomes cheap and AI-generated outputs arrive faster, the bottleneck shifts to human judgment, customer obsession, and evidence, requiring product teams to move from prioritization to curation supported by shared, team-level systems."
+    },
+    {
+      "url": "https://aprildunford.substack.com/p/in-the-age-of-ai-you-need-a-point?utm_source=tldrproduct",
+      "title": "In the Age of AI, You Need a Point of View",
+      "summary": "In the face of AI-driven market shifts, technology buyers need a clear perspective on the future rather than just a product vision. To stand out, vendors must anchor their messaging in their unique strengths when helping buyers navigate the influx of AI information."
+    },
+    {
+      "url": "https://www.oreilly.com/radar/the-pms-playbook-for-shipping-ai-features-that-actually-work-in-production/?utm_source=tldrproduct",
+      "title": "The PM's Playbook for Shipping AI Features That Actually Work in Production",
+      "summary": "This guide offers practical engineering strategies for shipping AI features in production, covering latency management, fallback hierarchies, a four-layer quality model, A/B testing nondeterministic outputs, and monitoring model drift."
+    },
+    {
+      "url": "https://news.theuncommonexecutive.com/p/how-to-get-the-most-out-of-your-super?utm_source=tldrproduct",
+      "title": "How Meta Sets Up Super IC Teams",
+      "summary": "Super IC teams succeed when they have executive support, dedicated staffing, a clear business-backed customer problem, and an early plan for scaling the work into the broader organization."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/are-you-asking-the-real-questions?utm_source=tldrproduct",
+      "title": "Are You Asking the REAL Questions?",
+      "summary": "AI makes building faster, but product teams still need to focus on value. The real questions are whether the product is hard to copy, whether customers have a strong reason to stay, and how quickly ideas create a measurable impact."
+    },
+    {
+      "url": "https://newsletter.weskao.com/p/fundamentals-how-to-share-your-point?utm_source=tldrproduct",
+      "title": "How to share your point of view",
+      "summary": "Speaking up is a core way to add value, especially when you have close context on a problem. Share your point of view by grounding it in evidence, explaining why it matters, and matching your language to your level of certainty."
+    },
+    {
+      "url": "https://kasperjunge.com/blog/should-pms-code-with-agents/?utm_source=tldrproduct",
+      "title": "Everyone got excited they can suddenly code, and completely missed the point",
+      "summary": "Product and organizational discovery (\"what should we build?\") is what constrains outcomes."
+    },
+    {
+      "url": "https://productpower.substack.com/p/llm-evaluation-and-benchmarking?utm_source=tldrproduct",
+      "title": "LLM Evaluation & Benchmarking",
+      "summary": "Reliable LLM products require rigorous evaluation beyond demos."
+    }
+  ]
+}

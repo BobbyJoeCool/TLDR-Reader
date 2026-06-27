@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-06-17",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html",
+      "title": "Don't run SQL migrations in tests: How I sped up the test suite by 2x",
+      "summary": "Large Go test suites often face slowdowns when thousands of SQL migrations are applied serially for every individual test. To address this, a content-addressing system identifies a unique database snapshot for a given set of migrations and reuses it across tests, avoiding redundant migration runs."
+    },
+    {
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "summary": "British Columbia's shift to a permanent UTC-7 offset in 2026 shows the risks of storing future appointments in UTC-based database columns, which can lead to unexpected one-hour shifts in local time. The post covers how Postgres handles time zone changes and what developers need to do to stay safe."
+    },
+    {
+      "url": "https://vexlio.com/blog/svgs-and-pdfs-can-both-be-interactive/",
+      "title": "SVGs and PDFs can both be interactive",
+      "summary": "Both SVG and PDF file formats have underused specs that allow for the integration of interactive layers and programmable scripts directly within a document. While SVGs can host self-contained applications using embedded JavaScript, PDFs use a specialized API that often struggles with compatibility across different viewing software."
+    },
+    {
+      "url": "https://www.transformernews.ai/p/mythos-fable-anthropic-safery-cybersecurity",
+      "title": "Mythos and Fable can make us all safer. Shutting them down is reckless",
+      "summary": "The United States government recently used export-control authority to force the shutdown of powerful AI models like Mythos 5. This unilateral action is considered reckless by many security experts because it reduces competition in AI safety research and pushes development toward less safety-conscious actors."
+    },
+    {
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "title": "Stop using JWTs",
+      "summary": "JSON Web Tokens should be avoided for managing user sessions because they are insecure and were never intended for long-term authentication. Traditional cookie sessions are a more reliable alternative for most web applications."
+    },
+    {
+      "url": "https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear",
+      "title": "The Web We Know Is Going to Disappear",
+      "summary": "The evolution of technology has seen information move from physical disks and bulletin boards to the open Web and mobile apps, and it is now shifting toward centralized AI interfaces. This new model reduces the open, decentralized nature of the web and concentrates control in the hands of a few AI providers."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "title": "Why is Meta destroying its engineering organization?",
+      "summary": "Meta has quickly dismantled its historically strong engineering culture by aggressively prioritizing AI initiatives. These changes have led to widespread talent exodus, lowered morale, and a fundamental shift in how the company treats its engineers."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/uXz8qG",
+      "title": "SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding race",
+      "summary": "SpaceX has agreed to a $60 billion all-stock deal to acquire Anysphere, the startup behind the popular AI coding agent Cursor. This move will improve the company's presence in the enterprise AI market and narrow the gap with industry leaders like OpenAI and Anthropic. It will also improve xAI's Grok."
+    },
+    {
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "summary": "This is a bug-bounty-focused guide to finding and testing Microsoft IIS servers, as IIS environments are often overlooked yet frequently expose misconfigurations, information leaks, and attack paths that can lead to sensitive data exposure."
+    },
+    {
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp",
+      "summary": "Bash allows for manual HTTP requests and connectivity checks in minimal containers by using its internal /dev/tcp redirection to open and communicate over TCP sockets without needing external tools like curl or wget."
+    },
+    {
+      "url": "https://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
+      "title": "Reviews have become expensive, rewrites have become cheap",
+      "summary": "The tendency of AI to produce over-engineered code has made manual reviews more costly, so upfront planning is more necessary now."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-06-12",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/ctRFpD",
+      "title": "OpenAI Acquired Ona for Long-Running Agents",
+      "summary": "OpenAI announced it would acquire Ona to bring secure cloud execution and orchestration capabilities into the Codex platform. The technology is intended to support persistent, customer-controlled environments where agents can continue working across extended periods and sessions."
+    },
+    {
+      "url": "https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/?utm_source=tldrai",
+      "title": "Anthropic Backtracks on Policy That 'Sabotaged' Researchers' Work",
+      "summary": "Anthropic has decided to make its safeguards for frontier LLM development visible after backlash from researchers. The company had previously discreetly rerouted requests to a lesser model when asked to perform certain actions. Researchers found that Claude Fable 5 was either refusing or degrading responses for tasks like training competing models, debugging AI code, and optimizing neural architecture. This raised concerns about Anthropic's lack of transparency and also that tokens and money had been spent on a model that didn't do what was expected."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/UdUQ8w",
+      "title": "Finding Optimal Tokenizers",
+      "summary": "Frontier AI models are typically trained on sequences of integers known as tokens. Each token refers to some sequence of bytes, and these byte sequences often correspond to common words. This post presents an algorithm that can compute an optimal tokenizer in some settings."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/7zrhza",
+      "title": "Can Compute Commoditize If It's Not Fungible?",
+      "summary": "CoreWeave's co-founder, Brannin McBee, recently claimed that compute isn't fungible the way a commodity has to be. He has a real argument, but the non-commodity framing is the keystone of his company's value. While he appears to be saying that there is no market, he's actually pricing the market and revealing where the spread still hides."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/5Hp3Rk",
+      "title": "Making a Vintage LLM From Scratch",
+      "summary": "This post shares how a developer created their own LLM from scratch. It covers how they create their own base-training and fine-tuning scripts, data processing pipelines, and custom dataset. The total cost of the project was around $80, but they had a decent PC to process the data. The model and code are available in the post."
+    },
+    {
+      "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks?utm_source=tldrai",
+      "title": "Xiaomi's New Open Source, Agentic AI Coding Harness MiMo Code Beats Claude Code at Ultra-Long, 200+ Step Tasks",
+      "summary": "MiMo Code V0.1.0 is an open source terminal-native AI coding assistant from Xiaomi. It outperforms Claude Code on key agentic coding benchmarks, particularly on long-horizon, multi-step tasks. MiMo Code features a cross-session memory system that uses an independent subagent to take notes of decisions, issues, and the scope of the project as it progresses. The model is available on GitHub under an MIT license."
+    },
+    {
+      "url": "https://huggingface.co/blog/torch-mlp-fusion?utm_source=tldrai",
+      "title": "Optimizing PyTorch with Fused MLPs",
+      "summary": "This deep dive explores how PyTorch executes and optimizes neural network layers, progressing from individual linear operations to a fused multilayer perceptron."
+    },
+    {
+      "url": "https://www.goodfire.ai/research/predictive-data-debugging?utm_source=tldrai",
+      "title": "Predictive Data Debugging: Reveal and Shape What Your Model Learns, Before You Train",
+      "summary": "Predictive data debugging identifies potential model behaviors before training by analyzing preference datasets. This technique, integrated into the Silico platform, allows engineers to reshape datasets or training processes to prevent undesired effects, improving both performance and safety. Case studies reveal common issues like compromised safety guardrails, hallucinated links, and context-specific sycophancy, allowing targeted interventions to fix these problems before deployment."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html?utm_source=tldrai",
+      "title": "Oracle Shares Tumble 11% on Increased Capital Raise, Cash Concerns",
+      "summary": "Oracle has told investors to expect an additional $20 billion capital raise. It also reported negative free cash flow for the year. Oracle saw an increase in revenue for the fiscal fourth quarter, but its AI buildout has caused capital expenditures to jump 162% to $55.7 billion. Investors are concerned about whether the company's massive amount of spending will result in profit growth."
+    },
+    {
+      "url": "https://spateder.com/projects/20260611/openweightmodels?utm_source=tldrai",
+      "title": "Mythos-Class Models Will Diffuse Throughout the World by 2029",
+      "summary": "Model performance has only improved over time. There's currently no reason it shouldn't continue to improve in the future. Open weight models are only a few months behind frontier models on benchmarks. If current trends continue, it is likely that a Claude Fable 5-level open model that can run on a device with 16 GB of RAM will be possible by early 2029."
+    },
+    {
+      "url": "https://www.recursive.com/articles/first-steps-toward-automated-ai-research?utm_source=tldrai",
+      "title": "First Steps Toward Automated AI Research",
+      "summary": "Recursive's automated AI research system achieves state-of-the-art results in fixed-budget language model training, small-model speed, and GPU kernel optimization."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2064815044085318040.html?utm_source=tldrai",
+      "title": "What's the Better Business Model for an AI Lab, Subscription or API?",
+      "summary": "The gross margins on subscriptions are way worse than API overall, so labs will likely start withholding new features or models from subscription plans."
+    },
+    {
+      "url": "https://github.com/NVIDIA/SkillSpector?utm_source=tldrai",
+      "title": "SkillSpector (GitHub Repo)",
+      "summary": "SkillSpector, developed by NVIDIA, scans AI agent skills for security vulnerabilities before installation."
+    }
+  ]
+}

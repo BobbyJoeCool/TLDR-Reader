@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-16",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://gbhackers.com/palo-alto-warns-globalprotect-vpn-flaw/#google_vignette?utm_source=tldrit",
+      "title": "Palo Alto Warns GlobalProtect VPN Flaw Is Being Actively Exploited",
+      "summary": "Palo Alto Networks (Unit 42) has confirmed active exploitation of a GlobalProtect VPN vulnerability, CVE-2026-0257, on PAN-OS devices with specific configurations. The flaw allows an authentication bypass via improperly handled authentication override cookies, enabling unauthenticated attackers to establish VPN sessions. It has been added to CISA's KEV catalog. Exploitation has been observed in the wild."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/v6aqq5",
+      "title": "Ivanti Sentry flaw is actively exploited in the wild",
+      "summary": "CISA confirmed active exploitation of CVE-2026-10520 and ordered federal agencies to secure affected Ivanti Sentry instances within three days. Shadowserver warned that unpatched exposed instances are likely already compromised."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/06/05/ai-hallucinations-it-operations-research/?utm_source=tldrit",
+      "title": "AI hallucinations are already affecting IT operations",
+      "summary": "Ivanti's 2026 AI Maturity Report found that 68% of IT professionals have seen AI hallucinations with potential operational impact. AI is already taking actions like restarting services, isolating devices, and applying patches, making human review boundaries more important."
+    },
+    {
+      "url": "https://www.newsletter.swirlai.com/p/stop-monitoring-ai-systems-like-web?utm_source=tldrit",
+      "title": "Stop Monitoring AI Systems Like Web Services",
+      "summary": "LLM-based systems should not be monitored using the same metrics as traditional web services because key failure modes are invisible to uptime, error, and latency dashboards. Monitoring should instead focus on five question groups: speed (latency), scalability (throughput and cost), correctness (quality), reliability, and agent behavior. Many of the required metrics must be built by the AI team rather than emitted by default tooling."
+    },
+    {
+      "url": "https://www.itpro.com/technology/artificial-intelligence/most-enterprises-are-still-unprepared-to-operationalize-it-it-leaders-are-bullish-on-agents-but-keeping-falling-at-the-final-hurdle-heres-why?utm_source=tldrit",
+      "title": "Enterprises are still struggling to operationalize AI agents",
+      "summary": "Many companies are adopting agentic AI, but most remain stuck in pilots or \"agentish\" chatbot deployments. Enterprises need orchestration, governed nonhuman identities, logging, and stronger data foundations before agents can scale."
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/?utm_source=tldrit",
+      "title": "Introducing the MDN MCP server",
+      "summary": "Mozilla has released an experimental \"MDN MCP server\" that uses the Model Context Protocol (MCP) to let AI tools access up-to-date MDN documentation and browser-compatibility data. This post explains how to set up multiple MCP-compatible clients. Tests show more accurate browser support results and faster responses versus running without the MCP."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/06/15/ci-cd-abuse-detector-open-source/?utm_source=tldrit",
+      "title": "Open-source CI/CD abuse detector flags malicious workflow changes",
+      "summary": "Elastic Security Labs released a prototype tool that uses an LLM to detect suspicious changes in GitHub Actions, GitLab CI, and Azure DevOps configurations. It is designed to catch stolen-credential attacks that modify CI/CD workflows to harvest secrets."
+    },
+    {
+      "url": "https://semiengineering.com/wi-fi-flies-higher-as-edge-ai-build-out-takes-root/?utm_source=tldrit",
+      "title": "Wi-Fi Flies Higher As Edge AI Build-Out Takes Root",
+      "summary": "Edge AI deployments are shifting demand toward Wi-Fi, especially Wi-Fi 7 and upcoming Wi-Fi 8, to provide the reliability, low latency, and security needed for on-prem and industrial use cases. Wi-Fi is increasingly favored over mmWave 5G/6G for local data movement because it better supports mobility within enterprises and factories while reducing data leakage by keeping processing closer to where data is generated."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/06/15/ai-generated-code-review-issues/?utm_source=tldrit",
+      "title": "Senior engineers are spending more time cleaning up AI-generated code",
+      "summary": "AI-generated code often looks good in review but creates more runtime issues once it reaches production. SRE and DevOps engineers report losing up to a third of their week triaging and refactoring machine-generated output."
+    },
+    {
+      "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them/?utm_source=tldrit",
+      "title": "AI Agent Governance Gap Is Becoming An IT Problem",
+      "summary": "85% of IT teams claim every AI agent has a named owner, but only 42% say ownership is actually clear. The issue is less about whether companies are using AI agents and more about whether IT/security can track who owns them, what access they have, and who is accountable when they act across enterprise systems."
+    },
+    {
+      "url": "https://varoa.net/2026/06/13/ddosing-software-delivery-pipelines.html?utm_source=tldrit",
+      "title": "DDoSing Software Delivery Pipelines",
+      "summary": "Software delivery pipelines collapse when teams ignore bottlenecks and back-pressure, especially as AI-driven productivity increases change volume faster than constrained verification systems can absorb it."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/06/15/omada-agent-governance/?utm_source=tldrit",
+      "title": "Omada launches Agent Governance",
+      "summary": "Omada Agent Governance helps organizations manage AI agent access, risk, and compliance as nonhuman identities spread."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-06-25",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://theconversation.com/the-hidden-burnout-crisis-facing-social-media-marketers-283216?utm_source=tldrmarketing",
+      "title": "The Hidden Burnout Crisis Facing Social Media Marketers",
+      "summary": "More than 40% of social media marketers plan to leave their jobs within two years, and nearly half say they get little supervisor support for their mental health. The structure of the role is the cause, since these positions bundle strategy, design, customer service, and crisis management. At the same time, the same apps used for work also serve as leisure and social connection, making real disconnection impossible. Doom scrolling for trend research blurs into personal social comparison, and AI scheduling tools reduce workload without eliminating the always-on expectation that made them necessary."
+    },
+    {
+      "url": "https://forbusiness.snapchat.com/blog/how-snapchat-builds-brands?utm_source=tldrmarketing",
+      "title": "How Snapchat Builds Brands Like no Other",
+      "summary": "Meaningful engagement matters more than raw reach. Snapchat's research found that users who view their time on a platform as meaningful are 85% more open to ads and 74% more likely to take action on relevant ads. Format diversity outperformed frequency in brand building. Combining video, AR Lenses, and Sponsored Snaps increased unaided ad recall from 16% to 36% and raised simulated purchases from 19% to 33% at the same frequency. Cross-platform campaigns also benefited from channel variety, as replacing one Facebook video exposure with a Snapchat Sponsored Snap increased purchase intent by 16 points and unaided recall by 11 points."
+    },
+    {
+      "url": "https://app.sciencesays.com/p/gamify-your-product-promotions?utm_source=tldrmarketing",
+      "title": "Gamify Your Product Promotions",
+      "summary": "Gamified promotions can increase purchase intent for fun and hedonic products by turning discounts into a playful experience rather than a standard offer. In 13 experiments, promotions framed as chance-based made people 67% more likely to click for more information and 24.3% more interested in buying, while also making the product and brand feel more fun. Instead of simply discounting products, brands can use tools like spinning wheels or dice rolls to randomly select which item gets the promotion. This approach works best for categories like fashion, snacks, and entertainment, but it can hurt performance for functional products because shoppers expect those promotions to be chosen intentionally."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/lukeshalom_reach-is-a-vanity-metric-i-used-to-believe-share-7475571867089518592-tkS4/?utm_source=tldrmarketing",
+      "title": "Reach that Drives Pipeline",
+      "summary": "The “reach is a vanity metric” idea is challenged here. Reach matters when it's intentional and tied to funnel design. The tactic is a full funnel post that turns reach into pipeline in the same asset. It starts with a story-driven hook for awareness, adds an insight-based middle that builds authority and curiosity, then ends with a direct CTA to convert interest. Visuals reinforce the narrative and improve distribution. The point is reach only feels useless when it is separated from conversion, not when it is structured to feed it."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/dbusta_you-dont-need-to-spend-hours-writing-every-share-7475547524309782528-5uYa/?utm_source=tldrmarketing",
+      "title": "How to Write Your Weekly Roundup Email",
+      "summary": "A short weekly email can be written in 15 minutes by curating 3-5 of the best social posts from the past week into a 200-300 word recap. Each post gets a 1-2 sentence intro that adds context or a takeaway, with a brief personal note at the top to set tone. The format's simple to repeat on a weekly cadence and works by extending the life of existing content."
+    },
+    {
+      "url": "https://searchengineland.com/performance-max-net-new-customers-480802?utm_source=tldrmarketing",
+      "title": "How to Make Performance MAX Focus on NET NEW Customers",
+      "summary": "Performance Max has long defaulted to easy conversions over incremental ones, routing spend toward branded search, site visitors, and existing buyers rather than true prospects. Google's recent first-party audience exclusions change this for the first time. Stacking brand exclusions, audience exclusions for site visitors and email subscribers, Customer Match exclusions for existing purchasers, and a \"new customers only\" bidding mode can finally push PMax into prospecting mode. Reported ROAS will drop, but the new-to-returning customer split will more accurately reflect what's actually being acquired."
+    },
+    {
+      "url": "https://userevidence.com/vibe-coding-marketing-report/?utm_source=tldrmarketing",
+      "title": "Vibe Code Check: 300+ Marketing Leaders on how AI Code Generation is Empowering their Teams",
+      "summary": "AI code generation has gone mainstream in marketing fast. 41% say it's already embedded in workflows and 70% report structured adoption, even though most have used it for under a year. Teams are using it mainly for behind-the-scenes work like automations and integrations, while only 17% have built customer-facing tools. The catch is skill gaps and training, which only 21% prioritize, yet those who invest there see higher confidence and better results."
+    },
+    {
+      "url": "https://www.chiefmarketer.com/gartner-cmo-spend-survey-budgets-reflect-increase-in-consumption-based-martech-paid-media-spend/?utm_source=tldrmarketing",
+      "title": "Budgets Reflect Increase in Consumption-Based Martech, Paid Media Spend",
+      "summary": "Martech spending hit a 5-year low as a share of marketing budgets in 2026, dropping to 19% from 27% in 2021, even as 62% of CMOs planned to invest more in marketing technology. Paid media filled the gap, reaching a five-year high of 31% of marketing expenses, driven by AI-powered targeting and automated bidding. Performance declined across every major objective year-over-year, with 46% of CMOs exceeding campaign impact goals this year versus 58% last year, and 62% say missing this year's growth targets will trigger budget cuts."
+    },
+    {
+      "url": "https://www.businessinsider.com/creator-influencer-marketing-creative-freedom-ads-2026-6?utm_source=tldrmarketing",
+      "title": "It's Okay to LET Creators GET Experimental with Your ADS",
+      "summary": "Brands that stop trying to control creator messaging get better performance, not worse."
+    },
+    {
+      "url": "https://www.marketingbrew.com/stories/harris-poll-ai-fatigue-less-trust-ai-generated-ads-cannes-lions?utm_source=tldrmarketing",
+      "title": "Consumers are Sick and Tired of Hearing about AI ALL the Time",
+      "summary": "65% of consumers wish brands would stop mentioning AI in their marketing, and 63% say they'd be less likely to buy from a brand using AI-generated ads."
+    }
+  ]
+}

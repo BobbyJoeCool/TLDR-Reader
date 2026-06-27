@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-06-16",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/?utm_source=tldrnewsletter",
+      "title": "ANTHROPIC'S SAFETY SUPERPOWER",
+      "summary": "Many people think that Anthropic's public statements around its model releases are mostly scare-mongering for the sake of marketing. However, its models are very impressive, and Anthropic's cautious rollout of Mythos was justified. The model is definitely more capable of identifying and exploiting security issues than previous generations."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/27M5rq",
+      "title": "FOX TO BUY ROKU STREAMING SERVICE IN $25 BILLION DEAL",
+      "summary": "Fox is acquiring Roku in a deal valued at around $25 billion. The deal will add scale to Fox's streaming business, subscription-based Fox One, and Fox Nation. The combined company will compete with the likes of Amazon and Netflix for ad dollars. The deal is expected to close in the first half of 2027."
+    },
+    {
+      "url": "https://www.a16z.news/p/spacex-and-the-sentient-sun?utm_source=tldrnewsletter",
+      "title": "SPACEX & THE SENTIENT SUN",
+      "summary": "SpaceX's mission statement to scale to make a sentient sun is more honest than ridiculous. SpaceX is a launch provider with an internet subsidiary and an AI lab. It is the only company on Earth assembling the full prerequisite stack for a transition to a post-scarcity society."
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-06-brain-interface-enables-independent-accurate.html?utm_source=tldrnewsletter",
+      "title": "BRAIN-COMPUTER INTERFACE ENABLES INDEPENDENT, ACCURATE COMMUNICATION FOR MAN LIVING WITH ALS",
+      "summary": "A brain-computer interface developed at UC Davis has enabled a person with severe paralysis caused by ALS to communicate, work, and interact with the digital world. The device uses an advanced decoding algorithm to translate neural signals into text and enable cursor control. It allows full interaction with a personal computer."
+    },
+    {
+      "url": "https://addyosmani.com/blog/agentic-code-review/?utm_source=tldrnewsletter",
+      "title": "AGENTIC CODE REVIEW",
+      "summary": "Coding agents are good and getting better fast. The hard heart of engineering has moved from writing code to deciding whether to trust it. Code review is the most leveraged skill in software right now. Understanding is still as expensive as it has always been."
+    },
+    {
+      "url": "https://webkit.org/blog/18117/the-golden-rule-of-customizable-select/?utm_source=tldrnewsletter",
+      "title": "THE GOLDEN RULE OF CUSTOMIZABLE SELECT",
+      "summary": "Customizable select, a new feature coming to Safari 27, allows developers to fully control the appearance of select elements without the need for JavaScript libraries or endless div elements. Ensuring this built-in control works well for everyone requires making sure developers always provide text content or accessible text attributes in their option elements."
+    },
+    {
+      "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/?utm_source=tldrnewsletter",
+      "title": "GOOGLE CHROME'S NEXT UPDATE WILL MARK THE END OF POPULAR AD BLOCKERS",
+      "summary": "Google Chrome has been planning its move to Manifest V3 for years. A recent commit in the Chromium repository finally removes support for Manifest V2 extensions. This will stop many Manifest V2-based ad blocker extensions from working. All traces of Manifest V2 will be removed in Chrome 151."
+    },
+    {
+      "url": "https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear?utm_source=tldrnewsletter",
+      "title": "THE WEB WE KNOW IS GOING TO DISAPPEAR",
+      "summary": "The web is now shifting from search engines to AI chat interfaces. The open place where people search, click, read, browse, publish, and discover is being replaced by something more centralized and much harder to escape. Websites are increasingly becoming infrastructure for machines."
+    },
+    {
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/?utm_source=tldrnewsletter",
+      "title": "RUNNING LOCAL MODELS IS GOOD NOW",
+      "summary": "Local models may still be slow and resource-intensive, but they can run many tasks competently and can help save on costs."
+    },
+    {
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/?utm_source=tldrnewsletter",
+      "title": "WHY I EMAIL COMPLETE STRANGERS",
+      "summary": "In a networked but still disconnected world, being deliberate in your search for friends is more necessary than ever before."
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models?utm_source=tldrnewsletter",
+      "title": "APPLE FOUNDATION MODELS",
+      "summary": "The Claude for Foundation Models Swift package allows developers to use Claude on Apple platforms through the Foundation Models framework."
+    },
+    {
+      "url": "https://www.overcomingbias.com/p/the-promise-of-polymath-llms?utm_source=tldrnewsletter",
+      "title": "THE PROMISE OF POLYMATH LLMS",
+      "summary": "People who learn more fields discover more intersections where they can apply the tools of one field to the problems of another."
+    },
+    {
+      "url": "https://roman.pt/posts/linkedin-backdoor/?utm_source=tldrnewsletter",
+      "title": "A BACKDOOR IN A LINKEDIN JOB OFFER",
+      "summary": "The company asked this developer to review a public GitHub repository that was falsely authored using the name of a real developer."
+    },
+    {
+      "url": "https://apnews.com/article/uk-teen-social-media-ban-starmer-55de428636b586ff5553b604783f6fb3?utm_source=tldrnewsletter",
+      "title": "UK BANS UNDER-16S FROM USING SOCIAL MEDIA APPS INCLUDING TIKTOK AND YOUTUBE",
+      "summary": "The ban is expected to take effect early next year."
+    }
+  ]
+}

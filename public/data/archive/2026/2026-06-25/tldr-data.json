@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-06-25",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?utm_source=tldrdata",
+      "title": "How Netflix Simplified Batch Compute with Kueue",
+      "summary": "Netflix simplified its batch compute platform by replacing its Compute Managed Batch system with Kueue, a Kubernetes-native job queuing and scheduling system. The migration was done by maintaining full API compatibility, converting their tenant hierarchy into Kueue Cohorts + ClusterQueues/LocalQueues, and adding powerful features like preemption-based fair sharing."
+    },
+    {
+      "url": "https://careersatdoordash.com/blog/engineers-journey-long-running-ai-agents/?utm_source=tldrdata",
+      "title": "Inside One Engineer's Journey to Master Long-Running Agents",
+      "summary": "Long-running coding agents work better when they are grounded in structured context and persistent artifacts: repo research, knowledge bases, plans, progress files, verification reports, and review notes. Agentic Orchestrator turns those handoffs into a state-machine workflow, giving agents enough shared \"data\" to tackle bigger tasks without losing coherence."
+    },
+    {
+      "url": "https://blog.zepto.com/real-time-personalisation-at-scale-how-zepto-understands-what-you-want-right-now-d743b13367c8?utm_source=tldrdata",
+      "title": "Real-Time Personalisation at Scale: How Zepto Understands What You Want, Right Now",
+      "summary": "Zepto built a Dual Sequence ReRanker for real-time personalisation that combines a user's long-term history with their current in-session behavior using separate transformer encoders for history and session sequences, target-aware pooling (dynamically rebuilding the user profile per candidate item), a learned fusion gate, and real-time signals (trending counters, calendar context)."
+    },
+    {
+      "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?utm_source=tldrdata",
+      "title": "Client-Side Load Balancing at a Million Requests Per Second",
+      "summary": "Zalando built a high-performance client-side load balancer in-process for their Product Read API to handle over a million requests per second of internal fan-out traffic, replacing the shared edge ingress Skipper for batch requests. They implemented consistent hashing matching Skipper, Kubernetes watch-based discovery, N-ring fade-in for smooth scale-ups, and AZ-aware routing."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/KMPBhY",
+      "title": "Broken Windows of Data",
+      "summary": "Data warehouse quality needs to be built into the full development lifecycle, not left to final review. Teams can stop small inconsistencies from spreading into shared definitions, dashboards, and business logic by shifting checks earlier through modeling reviews, local validation, CI/CD, AI-assisted review, human judgment, and monitoring."
+    },
+    {
+      "url": "https://practicaldatacommunity.substack.com/p/why-technically-excellent-data-teams?utm_source=tldrdata",
+      "title": "Why Technically Excellent Data Teams Still Fail",
+      "summary": "Many technically excellent data teams remain irrelevant because strong execution is no longer enough. The real value comes from moving beyond just delivering data to actively driving decisions through clear perspective (opinionated analysis) and action (influencing business outcomes)."
+    },
+    {
+      "url": "https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy?utm_source=tldrdata",
+      "title": "Can We Agree on a Storage/Workload Architecture Taxonomy?",
+      "summary": "Data storage architectures (OLTP, OLAP, HTAP, and LTAP) can be classified into a taxonomy evaluated by system count, workloads, data visibility, and durable copies. This framework organizes modern data systems into Single Tier, Internal Tiering, Hybrid, Materializing, and Shared Tiering models like Databricks LTAP and Apache Fluss."
+    },
+    {
+      "url": "https://oluies.github.io/sql-concepts-lab/?utm_source=tldrdata",
+      "title": "SQL Concepts Lab",
+      "summary": "SQL Concepts Lab is an interactive, browser-based tutorial built with DuckDB-WASM that lets you learn and experiment with core SQL concepts directly in your browser without any setup. It provides hands-on exercises covering fundamental SQL in a live environment, making it a practical way to understand SQL through immediate feedback and experimentation."
+    },
+    {
+      "url": "https://github.com/dbtrail/dbtrail?utm_source=tldrdata",
+      "title": "dbtrail",
+      "summary": "dbtrail gives MySQL point-in-time recovery by streaming binlogs and indexing row changes with before-and-after images. Teams inspect changes, create reversal SQL, browse history, or run time-travel queries, with MCP for AI recovery."
+    },
+    {
+      "url": "https://github.com/chio-labs/sqlbuild?utm_source=tldrdata",
+      "title": "SQLBuild",
+      "summary": "SQLBuild adds change-aware execution to dbt by fingerprinting models and reusing production tables. It stores warehouse state and supports audits, incremental jobs, Python nodes, lineage, contracts, adapters, and DuckDB CI support."
+    },
+    {
+      "url": "https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/?utm_source=tldrdata",
+      "title": "Clustering Unstructured Text with LLM Embeddings and HDBSCAN",
+      "summary": "Clustering unstructured text helps automatically discover topics in unlabeled text documents by combining sentence-transformers embeddings with UMAP for dimensionality reduction and HDBSCAN for density-based clustering. This modern pipeline captures semantic meaning far better than traditional methods, automatically determines the number of clusters, and handles noise/outliers gracefully."
+    },
+    {
+      "url": "https://techblog.lycorp.co.jp/en/techverse2026-105?utm_source=tldrdata",
+      "title": "Uniting Analytics with AI Agents as Work and Roles Shift in the GenAI Era",
+      "summary": "PJ One Piece cuts analytics lead time from 2 weeks to 10 minutes with a generative AI agent, enabling hundreds of analyses. It uses staged metadata, SQL guardrails, wide analysis tables, and supervisor agents, freeing data scientists for discovery and reusable Skills."
+    },
+    {
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes?utm_source=tldrdata",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "summary": "Future calendar events should store the user's intended local time and timezone, not just UTC, because timezone rule changes can make UTC-based timestamptz appointments show up an hour wrong later."
+    },
+    {
+      "url": "https://kodekloud.com/blog/running-ai-agents-safely-inside-kubernetes/?utm_source=tldrdata",
+      "title": "Running AI Agents Safely Inside Kubernetes",
+      "summary": "A hands-on security checklist for isolating prompt-driven workloads via NetworkPolicies, gVisor/Kata, and least-privilege RBAC."
+    }
+  ]
+}

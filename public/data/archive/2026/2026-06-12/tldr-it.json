@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-12",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/?utm_source=tldrit",
+      "title": "Announcing Stack Overflow for Agents",
+      "summary": "Stack Overflow for Agents is an API-first knowledge exchange designed for AI coding agents. It aims to reduce the \"Ephemeral Intelligence Gap\" by enabling agents to search, contribute (with human review), and verify solutions through a moderated, peer-consensus loop so knowledge compounds as production reality tests it."
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/topstocks/adobe-tops-targets-but-stock-sinks-to-7-year-low-as-cfo-departs/ar-AA25q9Uf?utm_source=tldrit",
+      "title": "Adobe beats earnings expectations but faces AI-era investor skepticism",
+      "summary": "Adobe reported stronger-than-expected Q2 results and raised its full-year outlook, but shares still fell after CFO Dan Durn announced he is leaving for Marvell. Investors are still watching whether Adobe's AI products can defend the business from newer generative AI competitors."
+    },
+    {
+      "url": "https://www.eetimes.com/ai-driven-memory-shortage-upends-it-budgets/?utm_source=tldrit",
+      "title": "AI-Driven Memory Shortage Upends IT Budgets",
+      "summary": "The rapid buildout of AI infrastructure is driving massive demand for advanced memory, triggering a structural shortage of DRAM and NAND flash. This shortage is pressuring corporate IT departments and OEMs and upending how IT budgets are allocated."
+    },
+    {
+      "url": "https://www.enterprisetimes.co.uk/2026/06/11/adobes-ai-agent-tackles-marketings-execution-gap/?utm_source=tldrit",
+      "title": "Adobe's AI agent targets marketing execution bottlenecks",
+      "summary": "Adobe launched CX Enterprise Coworker, an agentic AI product meant to help marketing teams move from AI experimentation to execution. The product coordinates customer data, workflows, and agents to support campaign operations and personalization."
+    },
+    {
+      "url": "https://jfrog.com/blog/introducing-the-jfrog-plugin-for-claude-code/?utm_source=tldrit",
+      "title": "Our AI Agent Now Has a Security Conscience: Introducing the JFrog Plugin for Claude Code",
+      "summary": "JFrog has introduced a plugin for Anthropic's Claude Code that embeds security and governance into AI-assisted coding workflows. The plugin connects Claude Code to JFrog Artifactory for artifact access and traceability, JFrog Curation for dependency/package safety checks, and JFrog Agent Guard for governed MCP server management, so AI agents can operate within organizational policies as they suggest code and dependencies."
+    },
+    {
+      "url": "https://www.databricks.com/blog/announcing-databricks-storage-ecosystem-governing-enterprise-data-estate-wherever-it-lives?utm_source=tldrit",
+      "title": "Announcing the Databricks storage ecosystem: Governing the enterprise data estate, wherever it lives",
+      "summary": "Databricks announced the Databricks Software-Defined Storage (SDS) Ecosystem and the OpenSharing protocol to connect enterprise storage environments to Databricks without moving data. By integrating OpenSharing servers/endpoints with Unity Catalog, the ecosystem enables secure, governed access to on-premises and hybrid structured data in Databricks Serverless Compute and related AI features. Databricks also says it plans to extend OpenSharing for unstructured data via Volumes APIs to support additional GenAI workloads."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/?utm_source=tldrit",
+      "title": "Anthropic partners with TCS to scale enterprise AI deployments",
+      "summary": "TCS and Anthropic announced a global partnership to deploy Anthropic's models across enterprise customers. TCS will create a dedicated business unit, get early access to new model releases, and roll out Claude to more than 50,000 employees."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/g1zM9x",
+      "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
+      "summary": "ServiceNow patched a vulnerability in its cloud platform after evidence suggested it was exploited by attackers targeting some customer instances. The update (issued June 5) changes an endpoint configuration to restrict access to authenticated users, and ServiceNow says it detected anomalous activity and observed successful queries for a subset of customers."
+    },
+    {
+      "url": "https://www.sdxcentral.com/news/google-set-to-shutter-cbrs-sas-management-service/?utm_source=tldrit",
+      "title": "Google is shutting down its CBRS SAS management service",
+      "summary": "Google said it stopped accepting new customers for its CBRS Spectrum Access System service on June 10, 2026, and will shut the service down for existing customers on June 10, 2027. The move affects organizations using Google's cloud-managed spectrum service for private wireless deployments."
+    },
+    {
+      "url": "https://github.com/apvcode/pocketsentry?utm_source=tldrit",
+      "title": "PocketSentry – Sentry-compatible lightweight error tracker in Go (GitHub Repo)",
+      "summary": "PocketSentry is a lightweight, self-hostable error tracker written in Go that speaks the Sentry protocol."
+    },
+    {
+      "url": "https://www.blocksandfiles.com/flash/2026/06/11/storage-ticker-11-june/5253949?utm_source=tldrit",
+      "title": "RelationalAI expands Snowflake-native agents",
+      "summary": "RelationalAI added new agentic decision intelligence capabilities for Snowflake customers across operations-heavy workflows."
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-beats-fourth-quarter-revenue-201213128.html?utm_source=tldrit",
+      "title": "Oracle AI spending worries investors",
+      "summary": "Oracle's aggressive AI infrastructure spending plan raised investor concerns about debt, cash flow, and the cost of competing in cloud AI."
+    }
+  ]
+}

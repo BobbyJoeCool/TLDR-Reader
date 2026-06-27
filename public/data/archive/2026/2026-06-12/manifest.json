@@ -1,0 +1,34 @@
+{
+  "id": "2026-06-12",
+  "date": "2026-06-12",
+  "editions": [
+    {
+      "name": "TLDR AI",
+      "file": "tldr-ai.json"
+    },
+    {
+      "name": "TLDR InfoSec",
+      "file": "tldr-infosec.json"
+    },
+    {
+      "name": "TLDR IT",
+      "file": "tldr-it.json"
+    },
+    {
+      "name": "TLDR Dev",
+      "file": "tldr-dev.json"
+    },
+    {
+      "name": "TLDR DevOps",
+      "file": "tldr-devops.json"
+    },
+    {
+      "name": "TLDR",
+      "file": "tldr.json"
+    },
+    {
+      "name": "TLDR Product",
+      "file": "tldr-product.json"
+    }
+  ]
+}

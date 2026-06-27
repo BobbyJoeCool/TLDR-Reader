@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-11",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://qz.com/broadcom-apollo-blackstone-ai-infrastructure-platform-060926?utm_source=tldrit",
+      "title": "Broadcom, Apollo, and Blackstone Are Launching a $35 Billion AI Infrastructure Platform",
+      "summary": "Broadcom, Apollo, and Blackstone are launching the $35 billion AI XPV Platform, aimed at building large-scale AI infrastructure for frontier AI labs. The platform is designed to enable more than 20 gigawatts of compute capacity through 2028, supporting the growth of advanced AI development."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/UYcR1u",
+      "title": "Ivanti Patches Max-Severity Sentry Flaws",
+      "summary": "Ivanti patched two critical Sentry vulnerabilities, including a maximum-severity OS command injection bug that can let unauthenticated attackers execute code as root. A second authentication bypass flaw can let remote attackers create rogue admin accounts and gain full administrative access."
+    },
+    {
+      "url": "https://www.infosecurity-magazine.com/news/cybersecurity-fails-to-detect/?utm_source=tldrit",
+      "title": "Browser-Based Phishing Is Outpacing Traditional Security Tools",
+      "summary": "Menlo Security research found that many cybersecurity tools are missing browser-based phishing attacks. The shift matters as employees increasingly access enterprise apps, AI assistants, and sensitive workflows through the browser instead of traditional desktop software."
+    },
+    {
+      "url": "https://moderndata101.substack.com/p/minimal-ontology-principle?utm_source=tldrit",
+      "title": "The Ontology Engineering Challenge Is Not Building It, but Mirroring the Delta",
+      "summary": "The key enterprise AI challenge lies not in building an ontology, but in identifying where an LLM's latent understanding of business concepts diverges from a company's definitions and correcting only those gaps. An LLM develops a \"latent ontology\" through geometric relationships in embedding space, while companies define a curated \"structural ontology\" through semantic layer metrics and business definitions. Misalignment between the two creates source-of-truth errors in agentic systems."
+    },
+    {
+      "url": "https://www.infosecurity-magazine.com/opinions/shadow-ai-is-exposing-governance/?utm_source=tldrit",
+      "title": "Shadow AI Is Exposing Old Governance Failures",
+      "summary": "Shadow AI is creating a familiar security problem: unmanaged tools, unclear ownership, and weak visibility across enterprise data. AI adoption is amplifying governance gaps security teams already struggled with across SaaS, identity, and access control."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4182976/zscaler-launches-zero-trust-platform-for-agentic-ai.html?utm_source=tldrit",
+      "title": "Zscaler Launches Zero Trust Platform for Agentic AI",
+      "summary": "Zscaler unveiled a zero trust platform for agentic AI at its Zenith Live 2026 conference, extending the Zero Trust Exchange to secure how AI agents connect, access data, and operate on devices. New capabilities include AI Broker for MCP and A2A communications, Endpoint AI Security, an AI Access Graph, and expanded AI Protect features such as asset management, code scanning, prompt extraction, and AI red teaming."
+    },
+    {
+      "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-m3ter/?utm_source=tldrit",
+      "title": "Salesforce Buys m3ter to Push Usage-Based Billing for the AI Era",
+      "summary": "Salesforce is acquiring m3ter, a usage-based billing platform, to add native consumption billing to Agentforce Revenue Management. The move matters because AI products are pushing companies beyond seat-based subscriptions toward usage, hybrid, and outcome-based pricing models, and Salesforce wants that billing motion to live inside its platform instead of third-party tools."
+    },
+    {
+      "url": "https://montecarlo.ai/blog-under-the-hood-of-monte-carlos-platform/?utm_source=tldrit",
+      "title": "Built for the Enterprise, Ready for AI: Under the Hood of Monte Carlo's Platform Updates",
+      "summary": "Monte Carlo outlined enterprise AI updates focused on flexible deployment, hybrid/on-prem connectivity, and security. New capabilities include the containerized \"Generic Agent,\" composable integrations, and dedicated platform options for resilience and control."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4183727/ai-powered-waf-virtual-patching-how-f5-is-hardening-networks-against-frontier-threats.html?utm_source=tldrit",
+      "title": "F5 Adds AI-Powered WAF and Virtual Patching for Faster Threat Response",
+      "summary": "F5 is expanding its WAAP platform with an AI-powered WAF, on-prem API security for regulated environments, and virtual patching that can protect apps while engineering teams work on permanent fixes. AI is compressing the window between vulnerability discovery and exploitation, pushing network and security teams toward faster, behavior-based protection instead of waiting on traditional patch cycles."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/06/google-meet-now-supports-sending-1080p-HD-video-from-ChromeOS-meeting-room-hardware.html?utm_source=tldrit",
+      "title": "Google Meet Adds 1080p Video for ChromeOS Room Hardware",
+      "summary": "Google Meet can now send 1080p HD video from ChromeOS-based meeting room hardware when conditions require sharper room video, with no admin or end-user setting needed."
+    },
+    {
+      "url": "https://www.pinecone.io/blog/open-source-monitoring-stack/?utm_source=tldrit",
+      "title": "Full Observability for Pinecone: Introducing an Open-Source Monitoring Stack for SaaS and BYOC",
+      "summary": "Pinecone has introduced an open-source monitoring stack designed to provide continuous observability for Pinecone indexes in both SaaS (Serverless) and BYOC deployments."
+    },
+    {
+      "url": "https://github.com/Aidan945/SafeAgentDB?utm_source=tldrit",
+      "title": "SafeAgentDB – Isolated Databases for Every AI Agent Branch",
+      "summary": "SafeAgentDB is an installable agent skill and infrastructure template kit that provides isolated databases for each AI agent branch and PR via live preview URLs."
+    }
+  ]
+}

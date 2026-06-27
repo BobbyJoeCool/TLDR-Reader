@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-06-11",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mohkohn.co.uk/writing/html-first/?utm_source=tldrdev",
+      "title": "How Building an HTML-First Site Doubled Our Users Overnight",
+      "summary": "Rebuilding a utility company's failed React application into an HTML-first site using Astro instantly doubled its user completion rates overnight. Focusing on progressive enhancement, lightweight code, and backend data storage made the user experience much better for low-spec devices and poor connections."
+    },
+    {
+      "url": "https://plain.jxd.dev/blog/realtime?utm_source=tldrdev",
+      "title": "Instant by Default, Multiplayer by Design",
+      "summary": "Plain is a developer platform that replaces the traditional request-response model with a sync-based architecture that maintains a live replica of the database within the browser. The system uses two specialized engines to handle different data types, using ElectricSQL for Postgres rows and Yjs for character-level concurrent document editing. By subscribing to live state instead of individual endpoints, every view stays updated automatically without the need for manual page refreshes."
+    },
+    {
+      "url": "",
+      "title": "Policy on the AI Exponential",
+      "summary": ""
+    },
+    {
+      "url": "",
+      "title": "The Unwritten Laws of Software Engineering",
+      "summary": ""
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/xhtBUi",
+      "title": "How to Be Good at Research",
+      "summary": "True research mastery requires moving beyond just imitation by deliberately training specific skills, starting with the selection of original problems rather than simply following current trends. Diversifying information inputs by studying foundational papers and reading full documents instead of summaries helps build the unique insights necessary for genuine innovation."
+    },
+    {
+      "url": "https://www.extend.ai/ui?utm_source=tldrdev",
+      "title": "Extend UI",
+      "summary": "Extend UI is an open-source toolkit designed for building modern document applications with integrated file viewers and management features. The library includes specialized components for handling various formats like PDF, DOCX, and XLSX, alongside tools for e-signatures and file uploads."
+    },
+    {
+      "url": "https://github.com/apache/burr?utm_source=tldrdev",
+      "title": "Apache Burr",
+      "summary": "Apache Burr is an open-source Python framework for developing decision-making applications, such as chatbots and agents, using a state machine architecture. The system allows devs to model complex workflows as graphs of simple Python functions, providing a clear structure for managing state and transitions."
+    },
+    {
+      "url": "https://github.com/HelixDB/helix-db/tree/main?utm_source=tldrdev",
+      "title": "HelixDB",
+      "summary": "HelixDB is an OLTP graph-vector database written in Rust that unifies vector, graph, relational, and document data into one system to simplify AI memory management. It provides a CLI and SDKs for local development while offering a managed cloud service with high availability, ACID transactions, and auto-scaling."
+    },
+    {
+      "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/?utm_source=tldrdev",
+      "title": "Surprise! Pay $1,000",
+      "summary": "A development team seeking a faster alternative to GitHub Actions tested Blacksmith, a service offering a free trial with no credit card requirement. After exceeding the trial limits, the users unexpectedly received an invoice for over $1,000 because the service continued running rather than automatically suspending as anticipated."
+    },
+    {
+      "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/?utm_source=tldrdev",
+      "title": "The iPad Was on Tailscale",
+      "summary": "An investigation into why a WebRTC-based application failed exclusively on an iPad revealed a complex interaction between two separate software bugs. The first issue involved a hardcoded constant in the webrtc-rs library that generated data packets exceeding the maximum size allowed by Tailscale's VPN tunnel. Although these oversized packets were fragmented to fit the tunnel, Tailscale's policy of dropping all IPv6 fragments prevented the data from ever reaching the destination."
+    },
+    {
+      "url": "https://redmonk.com/sogrady/2026/06/04/bun-two-lessons/?utm_source=tldrdev",
+      "title": "What Bun Can Tell Us About AI, Open Source, and Anthropic",
+      "summary": "Anthropic acquired Bun's maker Oven in December 2025, and the runtime has kept growing fast (npm installs up ~16X to 7.3M/month). However, two shifts stand out: AI now writes most commits (peaking above 80%), while human contributors have roughly halved, with most of the original team gone and external contributions falling sharply."
+    },
+    {
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated?utm_source=tldrdev",
+      "title": "Anthropic's Model Naming, Extrapolated",
+      "summary": "Anthropic's literary-inspired model naming convention is funnily projected into a future where AI products scale from simple verses to increasingly complex and absurd narrative formats."
+    },
+    {
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html?utm_source=tldrdev",
+      "title": "If Claude Fable Stops Helping You, You'll Never Know",
+      "summary": "Anthropic's implementation of invisible performance restrictions on AI development tasks creates a supply chain risk because developers can no longer distinguish between a model's natural failure and intentional, silent policy enforcement."
+    },
+    {
+      "url": "https://www.salesforce.com/news/stories/how-engineering-became-agentic/?utm_source=tldrdev",
+      "title": "Pioneering the Agentic Shift Within Salesforce Engineering",
+      "summary": "Salesforce transitioned to a fully agentic software development lifecycle by standardizing on Claude Code and removing token limits."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/NmrYoH",
+      "title": "AI Creativity and Discovery",
+      "summary": "True scientific discovery and creativity in AI require a transition from just mimicry of generative models toward systems that use variation, evaluation, and selective retention to produce results that are both novel and effective."
+    }
+  ]
+}

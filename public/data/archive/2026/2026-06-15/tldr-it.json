@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-15",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6?utm_source=tldrit",
+      "title": "US orders Anthropic to suspend access to Fable 5 and Mythos 5",
+      "summary": "The US government ordered Anthropic to block foreign nationals from accessing its most advanced models, Fable 5 and Mythos 5, citing national security concerns. Instead of trying to apply the restriction by nationality, Anthropic disabled access to the models globally and is set to meet with White House officials next week to resolve the dispute."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/qHev9Q",
+      "title": "Oracle landed a contract to run HR software for the entire US government",
+      "summary": "Oracle has landed a 10-year contract to provide HR software for the entire US federal government. The deal will replace more than 100 separate agency HR systems with a single cloud-based platform serving about 2 million federal employees, managed for the Office of Personnel Management (OPM)."
+    },
+    {
+      "url": "https://www.cisa.gov/news-events/news/cisa-issues-new-directive-improving-how-federal-agencies-prioritize-mitigation-cyber-vulnerabilities?utm_source=tldrit",
+      "title": "CISA gives federal agencies as little as three days to patch the riskiest bugs",
+      "summary": "CISA's new directive shifts federal vulnerability management toward risk-based deadlines, with the highest-risk flaws needing remediation within three days. The move reflects how quickly automatable and exploited vulnerabilities can turn into broad compromise."
+    },
+    {
+      "url": "https://cloudedjudgement.substack.com/p/systems-of-record-won-the-saas-era?utm_source=tldrit",
+      "title": "Systems of Record Won the SaaS Era - Clearinghouses Will Win the Agents Era",
+      "summary": "Just as durable SaaS companies won by becoming systems of record, durable AI-era moats will come from becoming the \"clearinghouse\" for autonomous agents. That clearinghouse would govern four elements: memory, context, execution, and governance/audit, controlling permissions and policy around agent actions across vendors and data sources."
+    },
+    {
+      "url": "https://softwareanalyst.substack.com/p/why-cisos-must-re-think-identity?utm_source=tldrit",
+      "title": "Why CISOs Must Re-Think Identity Posture Management for AI Agents",
+      "summary": "Most enterprise Identity Security Posture Management (ISPM) programs are structurally mismatched to today's threat environment, especially as AI agents enter workflows with identities and entitlements. An \"Agentic ISPM\" phase would allow posture findings to translate into closed-loop, policy-bounded remediation: propose, approve (if required), execute, verify, and provide auditable evidence without waiting for manual tickets."
+    },
+    {
+      "url": "https://www.phoronix.com/news/Intel-Thermald-2.5.12-Released?utm_source=tldrit",
+      "title": "Intel Thermald 2.5.12 Released... With Initial Support For ARM",
+      "summary": "Intel Thermald 2.5.12 has been released with initial support for ARM platforms. The ARM enablement was done by Qualcomm refactoring the daemon and adding a platform-agnostic backend so it can run beyond Intel-only hardware, while Intel continues expanding support for newer Intel CPUs and improving RAPL handling and security hardening."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws-cloud-financial-management/aws-finops-agent-is-now-public-preview/?utm_source=tldrit",
+      "title": "AWS launches FinOps Agent in public preview",
+      "summary": "AWS introduced an agentic AI tool that investigates cloud cost anomalies and answers cost questions for engineering teams. It is designed to work inside existing workflows rather than requiring teams to manually dig through billing dashboards."
+    },
+    {
+      "url": "https://shiftmag.dev/api-mcp-server-infobip-filip-srnec-10118/?utm_source=tldrit",
+      "title": "Your API Is Already a Hidden MCP Server, You Just Need to Discover It",
+      "summary": "Infobip's team turned existing OpenAPI-described REST APIs into production-grade MCP servers using the OpenAPI MCP Spring Boot Starter. Instead of writing custom MCP integrations, the framework maps OpenAPI operations to MCP tool definitions, updates dynamically from the spec, filters what gets exposed as tools, and forwards authentication to existing API/OAuth mechanisms so agents can safely call real endpoints."
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/microsoft-breaks-patch-tuesday-record-with-fixes-for-over-200-security-flaws?utm_source=tldrit",
+      "title": "Microsoft's June Patch Tuesday fixes roughly 200 security flaws",
+      "summary": "Microsoft's latest Patch Tuesday was unusually large, addressing around 200 vulnerabilities across Windows and related products. The update included multiple zero-days and critical issues, making it a high-priority patch cycle for IT teams."
+    },
+    {
+      "url": "https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm?utm_source=tldrit",
+      "title": "Oracle Cloud halving always free resources",
+      "summary": "Oracle Cloud Infrastructure's Always Free resources are available to all tenancies in the home region for the lifetime of the account labeled as \"Always Free-eligible\" in the Console."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/?utm_source=tldrit",
+      "title": "Microsoft Build security updates focus on code, agents, and models",
+      "summary": "Microsoft outlined new security capabilities aimed at protecting AI development workflows across code, models, and agents."
+    }
+  ]
+}

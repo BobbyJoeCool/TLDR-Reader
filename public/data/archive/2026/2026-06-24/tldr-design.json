@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-06-24",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitaltrends.com/cool-tech/getty-images-accused-ai-of-wholesale-theft-its-now-an-official-chatgpt-image-partner/?utm_source=tldrdesign",
+      "title": "Getty Images Accused AI of Wholesale Theft. It's Now an Official ChatGPT Image Partner",
+      "summary": "Getty Images, once a fierce critic of how AI companies use creative content without permission, has struck a licensing deal with OpenAI to integrate its professionally licensed photos and visual assets into ChatGPT's search and discovery experiences. The partnership signals a broader industry shift, with rights holders and AI companies increasingly turning to formal licensing agreements rather than legal confrontations. For Getty, it's a new distribution channel and a vindication of its licensed-content stance; for OpenAI, it means access to one of the largest professional image libraries in the world."
+    },
+    {
+      "url": "https://thenextweb.com/news/higgsfield-supercomputer-enterprise-marketing-nvidia?utm_source=tldrdesign",
+      "title": "Higgsfield Launches Enterprise Marketing Agents Built on NVIDIA",
+      "summary": "Higgsfield, a $1.3 billion AI video startup, launched Supercomputer 2.0, an autonomous marketing agent built on NVIDIA's toolkit that can run entire campaigns from ideation to posting, claiming 78% of Fortune 500 companies as clients. The platform orchestrates over 35 media models across 20+ production pipelines and includes enterprise safety controls. To showcase the technology, a 15-person team used it to produce a 95-minute feature film in 14 days for under $500,000."
+    },
+    {
+      "url": "https://www.digitaltrends.com/home-theater/amazons-new-fire-tv-interface-is-finally-rolling-out-to-more-devices/?utm_source=tldrdesign",
+      "title": "Amazon's new Fire TV interface is finally rolling out to more devices",
+      "summary": "Amazon has started rolling out a redesigned Fire TV interface to current Fire TV devices and smart TVs, featuring faster performance, a cleaner layout, and content-focused sections that help users find something to watch without hopping between apps. The update also deeply integrates Alexa+, reflecting Amazon's strategy to make Fire TV itself the primary destination for content discovery, following a trend already seen on platforms like Google TV, Roku, webOS, and Tizen."
+    },
+    {
+      "url": "https://ixdf.org/literature/article/key-soft-skills-to-succeed-as-a-ux-designer?utm_source=tldrdesign",
+      "title": "Key Soft Skills to Succeed as a UX Designer",
+      "summary": "Soft skills like communication, problem-solving, collaboration, and storytelling are essential for UX designers, not optional extras. A 2022 survey by the Interaction Design Foundation found that 73% of hiring managers prioritized communication and problem-solving over tool proficiency, chosen by only 13%. These intangible skills bind together UX activities and are largely transferable across professions."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/PW3kks",
+      "title": "The Organizational Cost of Low Taste",
+      "summary": "Organizations fail not from poor strategy but from weak taste — a shared standard that filters bad options before they demand justification. Without it, decision paralysis sets in, politics replaces clarity, and complexity accumulates through unchecked addition. As AI makes creation nearly free, judgment becomes the scarcest and most decisive organizational resource."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/product-design/can-john-ternus-bring-the-fun-back-to-apple-design?utm_source=tldrdesign",
+      "title": "Can John Ternus bring the fun back to Apple design?",
+      "summary": "Apple's product designs have become increasingly uniform over the past decade, moving away from the bold, colorful, and distinctive designs that characterized many of its products in the 2000s. Recent signs, including the success of the colorful MacBook Neo and reports that incoming Apple CEO John Ternus plans to strengthen the role of Apple's design team, have fueled speculation that the company could be preparing a significant design refresh."
+    },
+    {
+      "url": "https://adam.new/?utm_source=tldrdesign",
+      "title": "CAD Copilot for Hardware Teams",
+      "summary": "Adam is a CAD copilot for hardware teams working across CADAM, Onshape, and Autodesk Fusion."
+    },
+    {
+      "url": "https://moondream.ai/?utm_source=tldrdesign",
+      "title": "Production-ready Vision, Everywhere",
+      "summary": "Moondream is a highly efficient open-source vision language model that combines powerful image understanding capabilities with a remarkably small footprint."
+    },
+    {
+      "url": "https://aippy.ai/?utm_source=tldrdesign",
+      "title": "AI Game Maker",
+      "summary": "Aippy is a vibrant space to build, share, and explore interactive creations with AI."
+    },
+    {
+      "url": "https://www.creativeboom.com/resources/why-your-creative-eye-is-the-most-valuable-thing-in-the-studio-right-now/?utm_source=tldrdesign",
+      "title": "Why Your Creative Eye is the Most Valuable Thing in the Studio Right Now",
+      "summary": "As AI tools make content production faster and cheaper, creative judgment and taste are becoming the scarcest and most valuable assets professionals can offer. Adobe Stock's AI Studio, built on nearly a billion licensed assets, handles repetitive tasks like background removal and resizing, freeing creatives to focus on decisions that require genuine craft."
+    },
+    {
+      "url": "https://marieclairedean.substack.com/p/who-sets-the-quality-bar?utm_source=tldrdesign",
+      "title": "Who Sets the Quality Bar?",
+      "summary": "Most AI products lack a defined quality bar — a problem the Designer Fund's 2026 AI in Design report exposes through data on inconsistent output, reduced team collaboration, and unclear ownership. Speed and AI-generated visual polish mask deeper failures: products may look good while missing user intent, communicating uncertainty poorly, or behaving incorrectly in critical moments."
+    },
+    {
+      "url": "https://www.itsnicethat.com/articles/creative-career-conundrums-if-you-could-jobs-advice-230626?utm_source=tldrdesign",
+      "title": "A non-linear career path isn't a red flag",
+      "summary": "In the creative industry, a non-linear or zig-zag career can be a strength rather than a weakness, as it exposes people to a wider range of experiences, skills, perspectives, and professional networks. The key is to make intentional career moves that support personal growth and to build a reputation for delivering results and maintaining strong professional relationships."
+    },
+    {
+      "url": "https://www.einpresswire.com/article/920433546/after-350-projects-design-studio-ui-ux-says-most-digital-products-fail-for-the-same-three-reasons?utm_source=tldrdesign",
+      "title": "After 350 Projects, Design Studio UI UX Says Most Digital Products Fail for the Same Three Reasons",
+      "summary": "After 350 projects over a decade, Design Studio UI/UX identified three recurring reasons digital products lose users: overwhelming onboarding, cluttered dashboards with no visual hierarchy, and small trust-eroding inconsistencies."
+    },
+    {
+      "url": "https://www.wallpaper.com/fashion-beauty/victoria-beckham-on-phoebe-collings-james-collaboration?utm_source=tldrdesign",
+      "title": "Victoria Beckham and Artist Phoebe Collings-James Speak About Their New Artistic Collaboration",
+      "summary": "Victoria Beckham Beauty commissioned sculptor and ceramic artist Phoebe Collings-James to create a one-of-a-kind artwork inspired by the brand's new Blush Stylus product."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-06-19",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.elenaverna.com/p/the-mom-and-pop-saas-era-has-arrived",
+      "title": "The Mom-and-Pop SaaS era has arrived",
+      "summary": "AI reduces the cost of building software, democratizing product creation. As software becomes viable for more niches, \"mom-and-pop SaaS\" will emerge from domain experts and local operators, expanding the market rather than simply shifting existing demand."
+    },
+    {
+      "url": "https://benn.substack.com/p/what-will-startups-do-in-2030",
+      "title": "What will startups do in 2030?",
+      "summary": "As AI democratizes technical execution, building ability is no longer a competitive advantage. The real challenge for future founders will be deciding what to create when technical expertise is universally accessible."
+    },
+    {
+      "url": "https://auren.substack.com/p/disposable-software-software-is-now",
+      "title": "Disposable software: software is now just paper plates",
+      "summary": "Modern software is becoming \"disposable,\" designed for rapid deployment and regeneration rather than indefinite maintenance. AI makes rewrites and bug fixes significantly cheaper, so legacy maintenance is becoming a manageable, \"free\" task. By analogy to disposable paper cups, engineering is increasingly optimizing for shorter product lifecycles as AI improves."
+    },
+    {
+      "url": "https://jennywanger.com/articles/i-built-an-ai-that-critiques-me-after-every-call",
+      "title": "I built an AI that critiques me after every call",
+      "summary": "AI workflows can help product people improve, not just move faster. The strongest ones provide immediate feedback, use deterministic steps where possible, keep prompts versioned, and stay focused on one clear job."
+    },
+    {
+      "url": "https://www.retention.blog/p/chat-based-onboarding",
+      "title": "Chat-based onboarding",
+      "summary": "Opal's redesign adopts a chat-based interface to replace traditional onboarding flows. The article emphasizes optimizing the first screen, as many users drop off immediately, and provides examples of conversational prompts like name, status, and preferences."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/monthly-subscriptions-when-to-offer/",
+      "title": "Monthly plans might be your best option",
+      "summary": "While annual subscriptions often boast higher retention, monthly plans can be more valuable, especially for early-stage apps. They offer faster feedback loops and cleaner churn signals, making them ideal when user trust is low or commitment risk is high."
+    },
+    {
+      "url": "https://www.a16z.news/p/new-media-one-year-in",
+      "title": "New Media, One Year In",
+      "summary": "Startup media has shifted from polished PR to founders going direct. The firms that win will help founders become interesting, package their ideas well, and use owned channels and trusted networks to build lasting attention."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-426-the-trouble-with-mirrors",
+      "title": "The Trouble With Mirrors",
+      "summary": "Organizational truth is never neutral. Instead of simply holding up a mirror, leaders should help people explore reality together so they feel seen, heard, and able to act."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/what-nobody-says-about-being-a-product",
+      "title": "What Nobody Says About Being a Product Lead",
+      "summary": "Becoming a Head of Product is a shift from making decisions yourself to empowering others to think critically and decide independently."
+    },
+    {
+      "url": "https://stackoverflow.blog/2026/06/18/the-new-bottleneck/",
+      "title": "The new bottleneck",
+      "summary": "AI coding tools accelerate individual engineers, but not necessarily entire teams."
+    }
+  ]
+}

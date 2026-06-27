@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-11",
+  "date": "2026-06-11",
+  "editions": [
+    {
+      "name": "TLDR",
+      "file": "tldr.json"
+    },
+    {
+      "name": "TLDR Information Security",
+      "file": "tldr-infosec.json"
+    },
+    {
+      "name": "TLDR Dev",
+      "file": "tldr-dev.json"
+    },
+    {
+      "name": "TLDR AI",
+      "file": "tldr-ai.json"
+    },
+    {
+      "name": "TLDR IT",
+      "file": "tldr-it.json"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-24",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab?utm_source=tldrit",
+      "title": "SpaceX inks $6.3B compute deal with Reflection AI",
+      "summary": "Reflection AI is buying access to Nvidia GB300 infrastructure from SpaceX's Colossus 2 data center in a deal worth up to $6.3 billion. The agreement shows how AI labs are increasingly locking down long-term compute outside the traditional hyperscaler market."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/0V2PlR",
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "summary": "A high-severity SSRF flaw in Cisco Unified CM is now being exploited, with researchers observing attempts to write files to vulnerable systems. Cisco patched the issue earlier this month, but exploitation could lead to root-level access if left unaddressed."
+    },
+    {
+      "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/?utm_source=tldrit",
+      "title": "Network shares: still talking about them in 2026",
+      "summary": "Network file sharing remains surprisingly messy on Linux in 2026, especially when moving between KDE, GTK, Flatpak, and command-line tools. While KDE has improved compatibility with technologies like kio-fuse, many apps still struggle to access network shares consistently. With new funding from the Sovereign Tech Fund, KDE is now working on a range of fixes to make network shares behave more like a seamless, system-wide feature."
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/?utm_source=tldrit",
+      "title": "Rethinking cloud operations with agentic observability",
+      "summary": "Microsoft says cloud operations are moving from dashboards and alerts toward AI agents that can reason over telemetry, incidents, and operational context. The pitch is that observability agents can help teams detect, explain, and resolve infrastructure issues faster."
+    },
+    {
+      "url": "https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next?utm_source=tldrit",
+      "title": "Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure",
+      "summary": "Micron and Anthropic have signed a strategic, multi-year agreement covering memory and storage supply for Anthropic data centers running Claude models, plus joint work on memory/storage architecture for AI workloads. Micron will also use Claude internally and take a stake in Anthropic's latest (Series H) funding round."
+    },
+    {
+      "url": "https://www.sdxcentral.com/news/google-cloud-ups-telecom-game-with-nokia-ai-agent-infusion/?utm_source=tldrit",
+      "title": "Google Cloud and Nokia launch telecom AI agents",
+      "summary": "Google Cloud and Nokia expanded their partnership with AI agents built on Gemini for autonomous network operations. The move targets telecom teams looking to automate complex network management tasks."
+    },
+    {
+      "url": "https://tomassetti.me/what-is-software-llms-interface-layer/?utm_source=tldrit",
+      "title": "What Is Software, and Will LLMs Replace It?",
+      "summary": "LLMs will not replace business software because software's core value is structured data, enforced consistency, reliable filtering, and step-by-step process control. Instead, software will increasingly be fronted by LLMs via bridges like tool calling and MCP, letting models query and act on systems that already provide schema, permissions, and constraints."
+    },
+    {
+      "url": "https://www.ciodive.com/news/ai-cybersecurity-incidents-governance-jamf/823140/?utm_source=tldrit",
+      "title": "AI adoption correlates with incident frequency, underscoring need for governance",
+      "summary": "A survey found that organizations using AI more heavily are also seeing more AI-related security incidents. The findings reinforce the need for access controls, monitoring, and governance before AI tools spread across business workflows."
+    },
+    {
+      "url": "https://www.netlify.com/changelog/2026-06-22-preview-data-changes-netlify-database/?utm_source=tldrit",
+      "title": "Preview data changes in Netlify Database",
+      "summary": "Netlify Database now lets users preview proposed data changes using a Git-style diff view before applying them to a production database."
+    },
+    {
+      "url": "https://n8n.io/reports/2026-ai-agent-development-tools/?utm_source=tldrit",
+      "title": "N8n 2026 AI agent builder report",
+      "summary": "This report evaluates enterprise-grade workflow-based AI agent development tools, focusing specifically on security and enterprise readiness."
+    }
+  ]
+}

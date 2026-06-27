@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-23",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://links.tldrnewsletter.com/Vk69fs",
+      "title": "WhatsApp Phishing Campaign Uses Fake Business Docs To Hack Windows PCs (3 minute read)",
+      "summary": "A malware campaign is spreading through compromised WhatsApp accounts using fake business and finance documents that deliver obfuscated VBScript files. If opened on Windows, the script installs ManageEngine Endpoint Central and points it to attacker-controlled servers, giving attackers remote admin access to the victim's PC."
+    },
+    {
+      "url": "https://www.crn.com/news/security/2026/cisco-bets-on-widefield-security-acquisition-to-tackle-agentic-ai-security-gap?utm_source=tldrit",
+      "title": "Cisco Acquires WideField To Secure AI Agents And Non-Human Identities (4 minute read)",
+      "summary": "Cisco plans to acquire WideField Security and integrate it into Splunk to improve visibility across human users, non-human identities, sessions, workloads, and AI agents. The goal is to help Splunk correlate identity, endpoint, network, and cloud telemetry so security teams can detect when even authenticated users or approved AI agents are taking risky actions."
+    },
+    {
+      "url": "https://brandur.org/minimum-viable-unit?utm_source=tldrit",
+      "title": "The Minimum Viable Unit of Saleable Software (10 minute read)",
+      "summary": "Even with LLMs making software cheaper to build, there remains a “zone of viability” where buying SaaS is still more cost-effective than rebuilding it. Novelty and ongoing maintenance make some products rational to purchase."
+    },
+    {
+      "url": "https://www.scworld.com/perspective/lessons-from-identiverse-2026?utm_source=tldrit",
+      "title": "Identiverse 2026 Shows The Identity Gap Behind AI Agents (4 minute read)",
+      "summary": "Identiverse 2026 made clear that enterprises are racing to govern AI agents, but most tools only see the easy parts: registered agents, known studios, Entra Agent ID, OBO events, or managed SaaS platforms. The bigger issue is that agent governance needs application-level visibility, real-time authorization, and a better identity foundation across every actor, access path, app, and delegated credential."
+    },
+    {
+      "url": "https://mic.flic.io/?utm_source=tldrit",
+      "title": "Flic Mic for AI - The Wireless Voice Button (2 minute read)",
+      "summary": "Flic Mic is a new wireless “push to talk” microphone built on the Flic button platform. It listens only while pressed, supports configurable buttons for AI assistants/home automation, runs on a replaceable coin-cell battery, and uses an open API with no subscription required."
+    },
+    {
+      "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060437&utm_source=tldrit",
+      "title": "Zoom Rooms Dashboard Gets Better Device-Level Status (2 minute read)",
+      "summary": "Zoom admins can now see expanded Zoom Rooms statuses in Room Management and the dashboard, including whether a room is available, offline, in a meeting, in a calendar event, presenting, on a call, or under construction."
+    },
+    {
+      "url": "https://github.com/benjajaja/mdfried?utm_source=tldrit",
+      "title": "Show HN: MdFried, the Ultimate Markdown Viewer (GitHub Repo)",
+      "summary": "mdfried is a terminal-based Markdown viewer that renders headers as truly larger text (via supported terminal graphics/text-sizing protocols) rather than simple bold styling. It includes image previews across multiple terminal protocols, paging with search and links, URL opening and transformations, code syntax highlighting, Mermaid rendering, optional PDF support, and theme/config support."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/uD0htB",
+      "title": "OpenAI Launches Daybreak To Automate Vulnerability Patching (4 minute read)",
+      "summary": "OpenAI expanded Daybreak with Codex Security, GPT-5.5-Cyber, a security partner program, and “Patch the Planet,” all aimed at moving AI security from vulnerability discovery to end-to-end patch automation. Codex Security has already scanned 30M+ commits across 30K+ codebases, while GPT-5.5-Cyber improves performance on cyber benchmarks and is being limited to trusted defenders with stronger access controls."
+    },
+    {
+      "url": "https://github.com/VahidR/helmsniff?utm_source=tldrit",
+      "title": "'Helmsniff'; a Helm Security Scanner (GitHub Repo)",
+      "summary": "Helmsniff is an open-source Go CLI tool that scans rendered Kubernetes/Helm manifests for security misconfigurations and outputs a CSV or JSON report."
+    },
+    {
+      "url": "https://blogs.cisco.com/learning/ccna-success-story-michelle-szklarska?utm_source=tldrit",
+      "title": "Cisco CCNA Success Story: Michelle Szklarska (4 minute read)",
+      "summary": "Michelle Szklarska moved from product owner to network engineer after earning her CCNA, highlighting the certification's continued value as a practical foundation for networking careers."
+    }
+  ]
+}

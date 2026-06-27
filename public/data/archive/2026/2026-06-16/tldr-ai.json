@@ -1,0 +1,98 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-06-16",
+  "articleCount": 18,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://factory.ai/news/software-factory?utm_source=tldrai",
+      "title": "FACTORY 2.0: FROM CODING AGENTS TO SOFTWARE FACTORIES",
+      "summary": "Factory has been building software factories with its customers over the last few months. Its software factories are already in production across the world's largest organizations. Organizations that invest in their autonomous software development will see engineering outcomes surge. Engineers in this era are now responsible for building the factories that build the software. This will see engineering responsibilities grow to span across the business itself."
+    },
+    {
+      "url": "https://sakana.ai/marlin-release/#English?utm_source=tldrai",
+      "title": "SAKANA MARLIN",
+      "summary": "Sakana Marlin is an autonomous research assistant streamlining extensive strategic analysis in hours. Users input a research topic, and Marlin autonomously generates a detailed strategy report and summary slides without further human intervention. The tool serves various professionals, offering flexible pricing plans and refined features based on feedback from a beta test with around 300 industry experts."
+    },
+    {
+      "url": "https://www.androidheadlines.com/2026/06/facebook-ai-mode-search-engine-public-posts.html?utm_source=tldrai",
+      "title": "FACEBOOK GETS ITS OWN AI MODE THAT TURNS PUBLIC POSTS AND REELS INTO A SEARCH ENGINE",
+      "summary": "Facebook's new AI Mode transforms the standard search bar into a conversational tool that answers questions by mining public Group discussions, Reels, and Marketplace data. The update aims to increase platform engagement and support Meta's expanding subscription tiers. Critics have raised concerns about data privacy and the accuracy of crowd-sourced AI summaries. The feature is currently rolling out to users in the US."
+    },
+    {
+      "url": "https://thezvi.substack.com/p/the-once-and-future-fable-2?utm_source=tldrai",
+      "title": "THE ONCE AND FUTURE FABLE #2",
+      "summary": "The US government forcing Anthropic to take down all access to Fable and Mythos seems like a stupid decision. However, it is unknown what motivated the government to make the decision, how much they understand the mechanisms of the technology, whether they demanded or are demanding a narrow fix or a global fix, what they intend to do next, and what they are trying to accomplish. This could just be a terrible misunderstanding that can be sorted out quickly."
+    },
+    {
+      "url": "https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/?utm_source=tldrai",
+      "title": "DFLASH AND SPEC V2 DECODING",
+      "summary": "Detailing the latest generation of speculative decoding with DFlash and SGLang's Spec V2 engine. Benchmarks showed substantial throughput gains over baseline inference and native MTP speculation."
+    },
+    {
+      "url": "",
+      "title": "AGENTIC CODE REVIEW",
+      "summary": ""
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering?utm_source=tldrai",
+      "title": "A GUIDE TO AI INFERENCE ENGINEERING",
+      "summary": "Inference engineering is the discipline of running trained AI models in production efficiently. It involves working with low-level GPU code, model serving frameworks, and the cloud infrastructure that ties them together. Engineers need to optimize for a combination of latency, throughput, cost, and quality, depending on the product they're supporting. Inference engineering is now a broad speciality that any company running serious AI workloads invests in."
+    },
+    {
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning?utm_source=tldrai",
+      "title": "ZEN AND THE ART OF MACHINE LEARNING RESEARCH",
+      "summary": "The path to getting started as an AI researcher is pretty simple: read and build stuff. Scientific insights can come seemingly at random. An important trait for success is just putting in the time and effort. To become world-class takes a tremendous amount of discipline."
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.12683?utm_source=tldrai",
+      "title": "GOOGLE DEEPMIND EXPLORES THE PATH TO ASI",
+      "summary": "Google DeepMind examined how AI could progress beyond human-level AGI toward artificial superintelligence. The report outlined four possible pathways to ASI, potential bottlenecks, and the societal implications of continued acceleration in AI-driven progress."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/vGH7Ax",
+      "title": "THE WINDOW HAS CLOSED",
+      "summary": "Fable was special in ways that will not show up in benchmarks. It could perceive the user, infer intent, and think and iterate upon what it was given. The model felt alive. Mythos has changed the shape of the AI race. Other labs will likely eventually be able to replicate the magic of Mythos, but for many, the race is over."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/TbX9KB",
+      "title": "OWNING VS. RENTING INTELLIGENCE",
+      "summary": "Fireworks CEO Lin Qiao uses this week's Mythos shutdown to reframe the open-model conversation from cost to control, arguing a company built on intelligence it didn't own suddenly found itself exposed to decisions it couldn't influence. The playbook Fireworks ran with Ramp, Cursor, and Harvey already proves a tuned open model matches frontier quality at a fraction of the cost, but the deeper question is who owns the intelligence your product runs on."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/9z45Vj",
+      "title": "SHOULD YOU POST-TRAIN YOUR OWN MODEL?",
+      "summary": "General frontier models are the right starting point for 0-to-1 prototypes and understanding workflows, but for the handful of power-law use cases critical to a company's mission, product, and margin, the answer is increasingly to post-train your own model. Those use cases are where the differentiated data lives and where hard constraints on cost, latency, and reliability make a general model's single fixed tradeoff a liability."
+    },
+    {
+      "url": "https://www.bullbear.ninja/board/12?utm_source=tldrai",
+      "title": "SOVEREIGN AI IS NOT A MODEL, BUT A SUPPLY CHAIN PROBLEM",
+      "summary": "Sovereign AI is about how much of the supply chain required to train, operate, validate, and protect foundation models can be secured within one's own country or allied nations."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/16/a-modest-proposal-reformat-everything-to-make-documents-more-palatable-to-ai/",
+      "title": "A MODEST PROPOSAL: REFORMAT EVERYTHING TO MAKE DOCUMENTS MORE PALATABLE TO AI",
+      "summary": "DocLang is an AI-friendly document format that helps enterprises feed their files to AI systems."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rE3Ybg",
+      "title": "MASTERING CODEX (MOBILE) FOR ENGINEERING",
+      "summary": "Codex Mobile lets developers start, direct, review, and organize work running on their development machines without pretending that a mobile device should be a tiny terminal."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+      "title": "AWS WAF ADDS AI TRAFFIC MONETIZATION CAPABILITY TO HELP CONTENT OWNERS CHARGE AI BOTS FOR CONTENT ACCESS",
+      "summary": "Content owners and publishers can now set per-request pricing by content path, bot category, or verification tier without modifying their origin infrastructure or writing application code."
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+      "title": "ACCELERATING RESEARCHERS AND DEVELOPERS BUILDING MULTILINGUAL AI WITH A NEW OPEN DATASET",
+      "summary": "The GitHub Multilingual Repositories Dataset is a repository-level metadata dataset designed to help researchers and developers discover public GitHub repositories with evidence of non-English natural-language content."
+    },
+    {
+      "url": "https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/?utm_source=tldrai",
+      "title": "AI GPUS PROBABLY LIVE LONGER THAN THREE YEARS",
+      "summary": "Claims about AI GPUs having a lifespan of just three years stem from dubious sources like a tweet quoting an anonymous Google architect."
+    }
+  ]
+}

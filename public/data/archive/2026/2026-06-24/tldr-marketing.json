@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-06-24",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/?utm_source=tldrmarketing",
+      "title": "Instagram looks to take on streaming services with longer-form, episodic, and live formats for its TV app",
+      "summary": "Instagram is testing longer videos, episodic series, and live content on its TV app as it pushes into the living room. The app is expanding to Samsung TVs and adding channels, casting, horizontal video, and Stories. The move builds on its new Reels Series feature and puts Instagram in more direct competition with streaming platforms."
+    },
+    {
+      "url": "https://newsroom.gettyimages.com/en/getty-images/getty-images-announces-display-partnership-with-openai?utm_source=tldrmarketing",
+      "title": "Getty Images Announces Display Partnership with OpenAI",
+      "summary": "Getty Images signed a multi-year deal with OpenAI to bring its licensed image library into ChatGPT. The content will appear in search and discovery experiences to improve visual responses with higher-quality, rights-cleared images. The partnership aims to make AI outputs more useful and trustworthy while expanding how Getty distributes its content."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/allisonstadd_12-fresh-meeting-formats-that-will-transform-ugcPost-7470071395046293504-uYcv/?utm_source=tldrmarketing",
+      "title": "12 fresh meeting formats that will transform your team",
+      "summary": "The best meetings don't look like meetings. Liberating Structures introduces simple formats that change how groups work. Methods like 25/10 crowdsourcing, Nine Whys, and Min Specs help surface better ideas, clarify purpose, and focus on what actually matters."
+    },
+    {
+      "url": "https://wersm.com/lipton-local-creators-social-teams/?utm_source=tldrmarketing",
+      "title": "Lipton Is Turning Local Creators Into Its Social Teams",
+      "summary": "Lipton is using local creators as a recurring social function rather than buying creator campaigns in bursts. Working with Billion Dollar Boy, the brand built creator-led Social Hubs across seven markets, where creators produce content for both Lipton's owned channels and their own accounts within a single managed system. The model lets a lean global team achieve local cultural speed without hiring market-by-market social staff."
+    },
+    {
+      "url": "https://buffer.com/resources/linkedin-collab-posts/?utm_source=tldrmarketing",
+      "title": "Collaborative Posts Are Coming to LinkedIn",
+      "summary": "LinkedIn's new Collaborative Posts let two or more accounts, including Pages, co-publish a single post with every collaborator's name at the top and the content reaching all their networks at once. Currently in beta, the format runs on an invite-and-accept flow where no collaborator appears on the post until they accept. The credibility runs in both directions, since the creator brings an audience that actually engages, and the brand brings a professional co-sign that a tag doesn't carry."
+    },
+    {
+      "url": "https://luma.com/7dvp27pq?utm_source=tldrmarketing",
+      "title": "How to get AI to recommend your product (Webinar)",
+      "summary": "A webinar with Kevin Indig will break down how to get products recommended in AI search, drawing on work with companies like Airbnb, Shopify, Reddit, and G2. The session focuses on what's working today, including whether SEO still matters, how startups can compete, and which tactics drive the most leverage. It takes place on July 1 at 8 AM ET."
+    },
+    {
+      "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-creation-tools-for-marketers/823463?utm_source=tldrmarketing",
+      "title": "TikTok adds new AI creation tools for marketers",
+      "summary": "TikTok is rolling out new AI ad tools led by its Symphony Agent, which can generate full video campaigns from text prompts and trending content on the app. It can turn ideas into ready-made videos, suggest variations based on top-performing posts, and let users refine or rebuild campaigns from those examples. The update also adds features for dubbing, creator discovery, and campaign briefs."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/build-an-ai-flywheel-for-ecommerce?utm_source=tldrmarketing",
+      "title": "Build an AI Flywheel for Ecommerce",
+      "summary": "AI delivers the most value in e-commerce when it connects decisions across marketing, merchandising, inventory, and pricing instead of automating isolated tasks. There are four reinforcing levers: growth, productivity, value chain efficiency, and profitability, which create a flywheel where better personalization improves demand signals and stronger demand signals improve inventory and pricing decisions."
+    },
+    {
+      "url": "https://www.marketingdive.com/news/starbucks-pilots-tiktok-program-for-boosting-employee-generated-content/823565/?utm_source=tldrmarketing",
+      "title": "Starbucks pilots TikTok program for boosting employee-generated content",
+      "summary": "Starbucks is turning employee-generated content into a structured marketing channel by giving employees briefs, ad revenue sharing, and a direct path into paid advertising through TikTok's Creator Network. The strategy builds on the idea that authentic employee content influences product discovery, as 61% of Gen Z say they frequently learn about new products from employee-generated content."
+    },
+    {
+      "url": "https://embeddedbrandstrategy.substack.com/p/you-dont-need-taste-you-need-creative?utm_source=tldrmarketing",
+      "title": "You don't need taste, you need creative direction",
+      "summary": "Creative direction matters more than taste in an AI-saturated market because strong brands create new ideas instead of curating existing ones. AI makes good execution and good taste easier to access, so brands gain attention by building a distinct point of view that competitors cannot copy. Brands like Liquid Death and Bandit stand out because they create new aesthetics, products, and cultural experiences rather than refining familiar ones."
+    },
+    {
+      "url": "https://nymag.com/intelligencer/article/polymarkets-marketing-team-made-some-very-bad-bets.html?utm_source=tldrmarketing",
+      "title": "Polymarket's Marketing Team Made Some Very Bad Bets",
+      "summary": "Polymarket ran 118 undisclosed paid influencer ads showing fabricated wins, told influencers not to disclose the arrangement, and now faces potential CFTC fines."
+    },
+    {
+      "url": "https://advertising.amazon.com/library/news/alexa-agentic-ads?utm_source=tldrmarketing",
+      "title": "New Alexa+ Agentic Ads let shoppers purchase directly within an ad",
+      "summary": "The Agentic Ads format launches with Papa Johns for food ordering and concert ticketing via Ticketmaster, available on Echo Show devices."
+    }
+  ]
+}

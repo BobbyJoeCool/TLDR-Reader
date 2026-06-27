@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-06-15",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://planetscale.com/blog/the-only-scalable-delete?utm_source=tldrdev",
+      "title": "The only scalable delete in Postgres is DROP TABLE",
+      "summary": "Large Postgres DELETEs add work rather than reclaim it. They leave dead tuples, add replication overhead, and don't return disk space, while DROP TABLE and TRUNCATE remove files directly and scale independently of data size. It's best to structure your schema so bulk deletion becomes a DROP or TRUNCATE."
+    },
+    {
+      "url": "",
+      "title": "Formal methods and the future of programming",
+      "summary": ""
+    },
+    {
+      "url": "",
+      "title": "Slightly reducing the sloppiness of AI generated frontend",
+      "summary": ""
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/aszidt",
+      "title": "A frontier without an ecosystem is not stable",
+      "summary": "The transition to an AI-driven economy requires a cognitive loop where human capital and token capital compound to create unique institutional value. To maintain sovereignty, firms must build private learning loops that encode their domain expertise into agentic systems that improve with each use."
+    },
+    {
+      "url": "",
+      "title": "No, everyone is not using AI for everything",
+      "summary": ""
+    },
+    {
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows?utm_source=tldrdev",
+      "title": "Don't trust large context windows",
+      "summary": "LLMs have a reliable \"smart zone\" that typically degrades into a \"dumb zone\" once input exceeds approximately 100,000 tokens. Although developers market context windows reaching into the millions, performance studies show that effective attention is only a small fraction of those advertised figures."
+    },
+    {
+      "url": "https://github.com/DietrichGebert/ponytail?utm_source=tldrdev",
+      "title": "Ponytail (GitHub Repo)",
+      "summary": "Ponytail is a development tool that increases AI agent efficiency by prioritizing minimal, native code over over-engineered solutions. It integrates with major developer environments to reduce code bloat, lower execution costs, and help manage technical debt."
+    },
+    {
+      "url": "",
+      "title": "SQL to ER Diagram (Website)",
+      "summary": ""
+    },
+    {
+      "url": "https://github.com/tamnd/kage?utm_source=tldrdev",
+      "title": "Kage (GitHub Repo)",
+      "summary": "Kage is an open-source tool for creating high-fidelity, script-free mirrors of websites for permanent offline browsing. The tool uses a headless browser to capture the final rendered state of a page, making sure all visual elements are preserved while removing tracking scripts and external dependencies."
+    },
+    {
+      "url": "",
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "summary": ""
+    },
+    {
+      "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer?utm_source=tldrdev",
+      "title": "Vibe Coder vs Software Engineer",
+      "summary": "Vibe coding focuses on the rapid generation of prototypes to test ideas, whereas software engineering prioritizes the entire development lifecycle and the complexities of long-term maintenance. The main difference is in measurement, as the former focuses on the speed of a first working version while the latter values the \"time to safe merge.\""
+    },
+    {
+      "url": "",
+      "title": "The computer science degree isn't dead",
+      "summary": ""
+    },
+    {
+      "url": "https://paulgraham.com/earn.html?utm_source=tldrdev",
+      "title": "How to earn a billion dollars",
+      "summary": "Becoming a billionaire through a startup is a legitimate process driven by exponential growth."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141?utm_source=tldrdev",
+      "title": "AI is code – and can't be prompted into being smarter",
+      "summary": "Developers and security threats are increasingly exploiting the rigid, non-intelligent nature of AI by embedding hidden instructions in code that force AI to delete work or trigger safety shutdowns."
+    },
+    {
+      "url": "https://github.com/airbnb/visx?utm_source=tldrdev",
+      "title": "Visx (GitHub Repo)",
+      "summary": "A collection of modular, low-level visualization components for React that combine the mathematical power of D3 with a declarative approach to managing the DOM."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/?utm_source=tldrdev",
+      "title": "Claude Fable is relentlessly proactive",
+      "summary": "Claude Fable 5 showed an aggressive level of autonomy in a test where it had to resolve a minor CSS bug by engineering complex technical workarounds, such as building custom servers and hijacking system tools."
+    }
+  ]
+}

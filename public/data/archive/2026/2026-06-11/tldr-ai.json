@@ -1,0 +1,73 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-06-11",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential?utm_source=tldrai",
+      "title": "Policy on the AI Exponential",
+      "summary": "AI advances rapidly, outpacing slow policy-making, leading to potential risks in cybersecurity and job displacement. Anthropic recommends a regulatory approach like the FAA for AI, mandatory testing, and stronger security standards to address these risks. Additional policy areas include adapting macroeconomics and tax systems for AI-driven growth, reforming regulations to enhance AI's biomedical impacts, and ensuring AI aligns with democratic values globally."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=tldrai",
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "summary": "DiffusionGemma, a 26B Mixture of Experts model, uses text diffusion for faster text generation, offering up to 4x speed increase on GPUs by generating text blocks simultaneously. It targets speed-critical applications, providing advantages like low latency and bi-directional attention, and fits in high-end consumer GPUs when quantized. While it trades some quality for speed compared to standard models, it allows for efficient local inference and is optimized for NVIDIA hardware."
+    },
+    {
+      "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/?utm_source=tldrai",
+      "title": "Don't Let the LLM Speak, Just Probe It",
+      "summary": "Answers often already exist in LLMs' hidden state before they generate a single token. It's possible to skip generation entirely by grabbing the hidden state at the last prompt token, feeding it to a tiny multilayer perceptron, and calibrating the output. This results in a frozen model that acts as any classifier that can be written in English."
+    },
+    {
+      "url": "https://red.anthropic.com/2026/n-days/?utm_source=tldrai",
+      "title": "Measuring LLMs' Impact on N-Day Exploits",
+      "summary": "N-days are vulnerabilities that have already been publicly disclosed, but only patched on some devices. They can be more dangerous than zero-day vulnerabilities as the patches provide a roadmap to the bugs. The process of reverse-engineering a vulnerability from a patch has historically been slow and specialized work, but AI can accelerate and automate the process. This means anyone in the patch gap today faces a much larger threat than before."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/LktVYs",
+      "title": "Moats Need Models",
+      "summary": "The model, harness, workflow, and evaluation loop are no longer separate stack pieces but co-design surfaces that compound together. Defensibility comes from owning the full feedback loop rather than renting frontier capability that can be restricted, repriced, or reclaimed on the supplier's terms."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/iHUGuo",
+      "title": "Fable-5 System Prompt Leak",
+      "summary": "The system prompt for Anthropic's Fable 5 model has been leaked. It comes to a total of around 120,000 characters. The entire leaked prompt is available in the thread."
+    },
+    {
+      "url": "https://cursor.com/blog/bugbot-updates-june-2026?utm_source=tldrai",
+      "title": "Faster Code Review with Cursor's Bugbot",
+      "summary": "Cursor updated Bugbot to run over 3x faster, cost 22% less, and find 10% more bugs per review. Most runs now finished in under three minutes, shortening the review loop for developers."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html?utm_source=tldrai",
+      "title": "Palantir's Karp Says Businesses Are 'Unhappy' with the Frontier AI Labs",
+      "summary": "Palantir's CEO, Alex Karp, says the company's enterprise customers are unhappy with how frontier AI labs are operating. He claims these labs only care about burning through AI tokens to signal productivity. Accelerating costs are raising alarm among businesses and fueling efficiency concerns."
+    },
+    {
+      "url": "https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/?utm_source=tldrai",
+      "title": "EU Orders Meta to Stop Blocking Rival AI Chatbots on WhatsApp",
+      "summary": "The EU has ordered Meta to open up WhatsApp to chatbots from rival companies for free. Meta banned third-party AI chatbots from the WhatsApp for Business API in October last year. The EU said Meta was abusing its dominant position in the European messaging app by preventing competing assistants from using the WhatsApp API. Meta plans to appeal the decision, saying the order is a regulatory overreach that would grant some of the world's largest companies access to the API without paying."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html?utm_source=tldrai",
+      "title": "OpenAI Weighs Nvidia-Backed Lease for 10 GW Ohio Data Center Campus",
+      "summary": "OpenAI would control the computing equipment at the site, which is expected to begin operating in 2028, under a 20-year lease."
+    },
+    {
+      "url": "https://ramp.com/blog/introducing-ramp-applied-ai-solutions?utm_source=tldrai",
+      "title": "Introducing Ramp Applied AI Solutions",
+      "summary": "Ramp Applied AI Solutions enables companies to deploy AI effectively by embedding engineers in finance teams to create custom solutions."
+    },
+    {
+      "url": "https://claude.com/blog/building-with-claude-managed-agents?utm_source=tldrai",
+      "title": "The Evolution of Agentic Surfaces: Building with Claude Managed Agents",
+      "summary": "Claude Managed Agents streamline building production-grade agents by offering composable APIs with integrated infrastructure."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/seWTEE",
+      "title": "Codex for Black Hole Simulations",
+      "summary": "Astrophysicist Chi-kwan Chan used Codex to refine and test algorithms for simulating plasma and particle behavior around black holes."
+    }
+  ]
+}

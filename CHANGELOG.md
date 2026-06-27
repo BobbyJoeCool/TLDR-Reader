@@ -2,6 +2,24 @@
 
 All notable changes to TLDR Reader are documented here.
 
+## [1.2.0] — 2026-06-26
+
+### Added
+
+- **Archive browse**: New Archive tab (bottom nav on mobile, top nav on desktop) lets users pick any past date from a month-grid calendar and read that day's articles in the same format as This Week / Last Week.
+- **Calendar with availability greying**: Dates with no articles — all weekends, dates before content begins, and future dates — are visually greyed out and non-interactive. Available dates are derived directly from the year manifest so no hardcoding is needed.
+- **Month navigation**: Prev/next arrows let users step through months. The prev arrow disables at the earliest month that has any data; the next arrow disables at the current month.
+- **Mobile drill-down**: On mobile, tapping an available date replaces the calendar with the day's article view. A back button returns to the calendar.
+- **Desktop split view**: On desktop, the calendar lives in the left sidebar. Selecting a date loads its articles into the main content area without leaving the page.
+
+### Changed
+
+- **Archive-based data model**: Article data is now served from `public/data/archive/YYYY/YYYY-MM-DD/` instead of flat weekly JSON files. Each day has a `manifest.json` listing editions, plus one JSON file per edition containing only `url`, `title`, and `summary` per article.
+- **Year manifest** (`public/data/archive/manifest-2026.json`): Single index file listing all weeks newest-to-oldest. React reads only this file on startup; all other data is lazy-loaded on demand when a day is selected.
+- **Lazy loading**: The app no longer preloads all week data upfront. Day content is fetched the first time a date is selected, then cached for the session.
+
+---
+
 ## [1.1.0] — 2026-06-25
 
 ### Fixed

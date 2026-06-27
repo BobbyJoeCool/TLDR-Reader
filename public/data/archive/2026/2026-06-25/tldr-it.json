@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-25",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/23/anthropic-reimagines-claude-in-slack-as-nosy-always-on-agentic-ai-coworker/5260422?utm_source=tldrit",
+      "title": "Anthropic Reimagines Claude in Slack as Nosy, Always-On Agentic AI Coworker",
+      "summary": "Anthropic is retiring its existing Claude in Slack connector in favor of an always-on, agentic Slack coworker called Claude Tag. Claude Tag can join Slack organizations as a shared team member, learn from channel context and permitted data sources, and be delegated tasks via @Claude, with options like ambient updates and scheduled multi-hour or multi-day work."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4189098/qualcomms-3-9-billion-purchase-of-modular-aims-to-change-the-data-center-dynamic.html?utm_source=tldrit",
+      "title": "Qualcomm Buys Modular to Challenge Nvidia's AI Software Moat",
+      "summary": "Qualcomm is buying Modular for about $3.9B to strengthen its AI software layer across data centers, edge environments, and heterogeneous hardware. Modular gives Qualcomm a better shot at competing with Nvidia's CUDA ecosystem by helping AI workloads run across different chips without teams rewriting software for every processor."
+    },
+    {
+      "url": "https://www.ciodive.com/news/ai-spending-outpacing-human-developers/823690/?utm_source=tldrit",
+      "title": "AI Coding Costs Could Outrun Developer Salaries",
+      "summary": "Gartner says AI coding could become more expensive than the average developer salary by 2028 as token-based pricing overtakes flat subscriptions and usage grows across coding tools, agents, cloud platforms, and team experiments. The takeaway for IT leaders is that AI needs FinOps-style governance: usage tracking, ownership, throttling, and clear business value before costs quietly compound inside workflows."
+    },
+    {
+      "url": "https://www.cio.com/article/4184051/data-lakehouses-are-becoming-foundations-for-enterprise-ai.html?utm_source=tldrit",
+      "title": "Data Lakehouses Are Becoming the Foundation for Enterprise AI",
+      "summary": "Data lakehouses are becoming the enterprise foundation for AI because they combine broad data access with governance, security, auditability, and structure. Agentic AI makes the data layer much more strategic: companies now need semantic context, agent identities, access controls, audit trails, and cost controls before letting AI systems autonomously query business data."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/06/google-apps-script-workspace-core-service.html?utm_source=tldrit",
+      "title": "Google Apps Script Becomes a Core Workspace Service",
+      "summary": "Google Apps Script is now an official Google Workspace core service, meaning it gets enterprise-grade data protection, admin controls, standard technical support, and Workspace terms coverage. Apps Script is often used for internal automations, lightweight workflows, and admin glue code that previously felt harder to justify from a support and compliance standpoint."
+    },
+    {
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/?utm_source=tldrit",
+      "title": "Bunny Makes DNS Free to Pull More Apps onto Its Edge Platform",
+      "summary": "Bunny.net is eliminating DNS query fees and offering free DNS hosting for up to 500 domains per account, with no query limits, no per-request billing, and features like smart records and health monitoring included. The strategic angle is that DNS is becoming the entry point for edge platforms: Bunny is using free DNS to make CDN acceleration, edge security, routing, DNSSEC, IPv6, and modern record management easier to adopt from one place."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/?utm_source=tldrit",
+      "title": "New Site Calls Out Companies Without Passkey Support",
+      "summary": "A new site from security researcher Scott Helme tracks major apps and services that still do not offer passkey login, including Instagram, Netflix, and Spotify. Passkeys are shifting from a security upgrade to a public trust signal for consumer and enterprise apps."
+    },
+    {
+      "url": "https://blogs.cisco.com/industrial-iot/maximizing-uptime-the-power-of-ai-troubleshooting-for-industrial-networks?utm_source=tldrit",
+      "title": "Cisco Adds AI Troubleshooting for Industrial Networks",
+      "summary": "Cisco is introducing AI Troubleshooting for Industrial Networks, an always-on agent in Cisco Cloud Control that monitors factory-floor network signals, clusters related alerts, diagnoses root causes, and recommends fixes for OT teams. It is designed to reduce escalations from maintenance teams to scarce network experts by helping identify issues like bad cables, SFP degradation, VLAN mismatches, PoE failures, power supply faults, and switch stability problems faster."
+    },
+    {
+      "url": "https://www.jamf.com/blog/mac-fleet-visibility-ddm-proactive-status-reporting/?utm_source=tldrit",
+      "title": "Jamf Highlights DDM for Real-Time Mac Fleet Visibility",
+      "summary": "Apple's Declarative Device Management gives IT teams faster Mac fleet visibility by letting devices proactively report status changes instead of waiting for traditional MDM command polling. This leads to better compliance tracking, faster update visibility, and less manual follow-up for lean Apple admin teams."
+    },
+    {
+      "url": "https://siliconangle.com/2026/06/24/grammarly-parent-superhuman-buys-ai-detector-gptzero/?utm_source=tldrit",
+      "title": "Superhuman Buys GPTZero to Add an AI Authenticity Layer",
+      "summary": "Superhuman, formerly Grammarly, is acquiring GPTZero to add AI detection, plagiarism checks, citation verification, source validation, and writing-origin tools into its productivity platform."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/06/room-codes-google-meet-hardware-early-preview.html?utm_source=tldrit",
+      "title": "Google Meet Hardware Adds Room Codes in Early Preview",
+      "summary": "Google Meet hardware admins can join the early preview for room codes, letting users join meetings from rooms with a short code instead of manually finding the meeting invite or calendar event."
+    }
+  ]
+}

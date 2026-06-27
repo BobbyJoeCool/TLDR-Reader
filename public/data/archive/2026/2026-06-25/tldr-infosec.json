@@ -1,0 +1,68 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-06-25",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html?utm_source=tldrinfosec",
+      "title": "Fortibleed Targeted Fortigate Firewalls in 110 Million-Credential Harvesting Operation",
+      "summary": "A Russian-speaking initial access broker has run FortiBleed since February, brute-forcing over 430,000 FortiGate firewalls and deploying FortigateSniffer to capture credentials across 24 protocols, feeding a Golang-based CyberStrike Harvester pipeline that cracks hashes via Hashcat/Hashtopolis, ranks targets by economic value, and resells access while repeating planted username/password pairs across thousands of devices."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/1F9KfQ",
+      "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
+      "summary": "Zafran Security disclosed DifyTap, four flaws in the open-source LLMOps platform Dify (CVE-2026-41947, CVSS 9.1, in tracing config lacking tenant validation; CVE-2026-41948, CVSS 9.4, in the plugin daemon enabling arbitrary API access and path traversal; and high-severity CVE-2026-41949 and CVE-2026-41950 in file identification and permissions) that let any signed-up console user read other tenants' chats, files, and internal APIs across multi-tenant cloud deployments, fixed in Dify 1.14.2 with a WAF rule recommended for CVE-2026-41948."
+    },
+    {
+      "url": "https://gbhackers.com/modelorat-and-mistic-backdoor/?utm_source=tldrinfosec",
+      "title": "Modelorat and Mistic Backdoor Activity Linked to Ransomware Initial Access Broker",
+      "summary": "Symantec and Zscaler tie the Python-based ModeloRAT (WinPython-delivered, run via signed pythonw[.]exe with RC4 C2) and the new in-memory, disk-less Backdoor.Mistic (DLL-sideloaded as EndpointDlp.dll via MpExtMs[.]exe, hooking GetModuleFileNameW and LoadLibraryW, with a self-delete kill switch) to financially motivated access-broker Woodgnat (aka KongTuke), whose ClickFix/FileFix/CrashFix and Microsoft Teams helpdesk \"paste-and-run\" lures have seeded Qilin, Interlock, Rhysida, Akira, 8Base, and Black Basta ransomware, so defenders should hunt EndpointDlp.dll loads by MpExtMs.exe, remote-tool-named Run-key persistence, and signed pythonw.exe executing unknown scripts."
+    },
+    {
+      "url": "https://novee.security/blog/cordyceps/?utm_source=tldrinfosec",
+      "title": "Cordyceps: the Silent Parasite Consuming Your Supply Chain",
+      "summary": "Novee's team mapped CI/CD workflow bugs across roughly 30,000 prominent open‑source repositories and confirmed over 300 exploitable chains in GitHub Actions pipelines used by Microsoft, Google, Apache, Cloudflare, and the Python Software Foundation. Attackers with a free GitHub account can trigger workflows via pull requests or comments to run arbitrary code, steal long‑lived tokens, and push modified artifacts into production paths such as Azure Sentinel content, Google Cloud projects, Apache Doris builds, Cloudflare Workers tooling, and Black's Docker images, reaching thousands of downstream environments."
+    },
+    {
+      "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/?utm_source=tldrinfosec",
+      "title": "Exploiting Vulnerabilities in Johnson & Johnson WEB Apps",
+      "summary": "Johnson & Johnson's campus recruiting site exposed nearly 1,000 students because client-side Microsoft Authentication Library (MSAL) checks could be bypassed and AWS APIs accepted a hardcoded key. The Audit Tracking Management System (ATMS) app exposed user lists, session creation, and admin access via unauthenticated APIs and local-storage spoofing. The reporter says the ATMS was fixed only after a journalist contacted JnJ, and the published timeline shows delays from October 2025 to April 2026."
+    },
+    {
+      "url": "https://www.papermtn.co.uk/detecting-misuse-with-the-claude-compliance-api-the-threat-is-in-the-content/?utm_source=tldrinfosec",
+      "title": "Detecting Misuse with the Claude Compliance API: the Threat is in the Content",
+      "summary": "In a previous post in this series, the author introduced an SDK to ingest Claude Compliance API events into a SIEM. When teams map these events to a common data model, they can leverage existing detections they've built that operate on that model. The post then suggests some specific detections to write for Claude. However, the tricky part is that the alerts need to detect intent rather than just rely on regexes. The author proposes a workflow that prefilters content and then sends it to an LLM-as-judge before creating a SIEM event."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/eapkBa",
+      "title": "Anthropic's Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says",
+      "summary": "A US official says Anthropic's Mythos model, tested with intelligence agencies under Project Glasswing, quickly found vulnerabilities in classified systems but was not shown to exploit them. The Trump administration responded with directives limiting Anthropic's latest models, including export controls and access restrictions for foreign users, prompting the company to take models offline and cybersecurity leaders to argue that removing these tools may weaken US defenses against adversaries."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4189077/ibm-red-hat-palo-alto-team-to-secure-open-source-software.html?utm_source=tldrinfosec",
+      "title": "IBM, RED HAT, Palo Alto Team to Secure Open-Source Software",
+      "summary": "IBM, its Red Hat subsidiary, and Palo Alto Networks are pairing Palo Alto's network-based virtual patching from Prisma with IBM/Red Hat's Project Lightwell remediation effort, enabling enterprises to receive preemptive virtual patches before official fixes ship and to deploy network-level protections the same day a vulnerability surfaces. The pitch leans on Nikesh Arora's framing that AI has collapsed the discovery-to-exploit window from weeks to minutes, positioning network-layer defense as the answer when traditional patching cannot keep pace, with early adopters concentrated among major banks and payment networks (Bank of America, Citi, Goldman Sachs, JPMorgan Chase, Mastercard, Visa, and others). The strategic signal: vulnerability intelligence and anonymized exploitation telemetry are becoming a subscription-monetized security coordination layer, extending the existing IBM/Palo Alto alliance that already spans quantum-safe readiness and AI risk assessment."
+    },
+    {
+      "url": "https://www.wiz.io/blog/ai-rewriting-secops-playbook?utm_source=tldrinfosec",
+      "title": "How AI is Rewriting the Secops Playbook",
+      "summary": "As AI compresses the gap between vulnerability disclosure and exploitation to minutes, the SecOps model of gathering context after an alert fires becomes untenable, so context must be assembled continuously and beforehand across three layers: model (invocation logs surfacing prompt injection and data exposure), workload (runtime telemetry), and cloud (machine identities and delegated permissions used by AI agents). AI asymmetrically favors defenders, who can reason over inside-out context (asset inventories, identity relationships, source code, and business function) that attackers operating outside-in cannot replicate, shifting investigation from \"did something unusual happen?\" to \"did this workload do something it was never designed to do?\""
+    },
+    {
+      "url": "https://therecord.media/indian-auto-giant-bajaj-auto-hit-by-ransomware?utm_source=tldrinfosec",
+      "title": "Indian Auto Giant Bajaj Auto HIT by Ransomware Incident",
+      "summary": "Bajaj Auto, India's largest vehicle maker and the world's biggest three-wheeler manufacturer, disclosed in a regulatory filing that ransomware hit systems at the company and its Bajaj Auto Technology Limited subsidiary."
+    },
+    {
+      "url": "https://www.csoonline.com/article/4188623/meta-pauses-employee-monitoring-program-after-data-protections-fail.html?utm_source=tldrinfosec",
+      "title": "Meta Pauses Employee Monitoring Program after Data Protections Fail",
+      "summary": "Meta halted its April Model Compatibility Initiative, which captured employee keystrokes, screen content, full prompts, private conversations, and performance data for AI training, after unauthorized staff accessed the restricted dataset twice (including after a claimed four-hour fix)."
+    },
+    {
+      "url": "https://www.defenseone.com/policy/2026/06/nsa-mythos-anthropic-supply-chain/414371/?utm_source=tldrinfosec",
+      "title": "Parts of NSA Lose Mythos 5 Access after White House Imposes Limits",
+      "summary": "Parts of the NSA lost access to Anthropic's Mythos 5 after the Trump administration imposed export controls citing national-security concerns."
+    }
+  ]
+}

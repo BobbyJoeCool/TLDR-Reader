@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-06-18",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html?utm_source=tldrinfosec",
+      "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack (4 minute read)",
+      "summary": "Argus disclosed a PAP authentication bypass in OpenBSD's sppp(4) subsystem, where sppp_pap_input() in sys/net/if_spppsubr.c fed attacker-controlled length fields straight into bcmp, so a PPPoE peer sending name_len=0 and passwd_len=0 made both comparisons return 0 and complete authentication with no credentials, while oversized lengths triggered a kernel heap over-read. Reachable unauthenticated over the PPPoE data path, a rogue server in the same broadcast domain can impersonate a legitimate endpoint and route a victim's traffic through it. The flaw dates to the 1999 FreeBSD-derived import and was verified against OpenBSD 7.6. The fix adds the exact-length pre-check the CHAP handler already used, so administrators running PPPoE links on sppp(4) should pull the patched source and rebuild."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/NIbjOS",
+      "title": "Sweeping Credential-Harvesting Heist Compromises 30K+ Fortinet Devices (4 minute read)",
+      "summary": "An automated campaign called FortiBleed is using reused and long-lived credentials to break into over 30,000 Internet-facing Fortinet firewalls and VPN gateways across 194 countries, with more than 30,791 verified device logins tied to 21,108 IPs and 8,316 domains in telecom, government, critical infrastructure, and other sectors. Once a device is accessed, attackers turn it into a listening post to grab more passwords, feeding them back into their scanner. Technical evidence points to Russian-speaking actors prioritizing NATO-country targets."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/EPLJhP",
+      "title": "FortiBleed Leak Exposes Fortinet VPN Credentials for 73K Devices (2 minute read)",
+      "summary": "A security researcher discovered a server that contained credentials from an ongoing Fortinet bruteforce campaign. The server contained nearly 74K usernames, passwords, and email addresses for Fortinet VPN appliances that the attacker harvested through brute force attacks. The researcher also stated that the attacker also obtained credentials by brute forcing Microsoft SQL Server databases and cracking intercepted SSL VPN hashes."
+    },
+    {
+      "url": "https://brandonrozek.com/blog/post-quantum-security-adoption/?utm_source=tldrinfosec",
+      "title": "On Post-Quantum Security Adoption (5 minute read)",
+      "summary": "Citing 2029 quantum-readiness targets from Google and Cloudflare and a 2035 target from the UK's NCSC, this post walks through hardening three everyday protocols against harvest-now-decrypt-later attacks using hybrid classical/post-quantum key exchange. OpenSSH has defaulted to mlkem768x25519-sha256 since April 2022, while TLS uses X25519MLKEM768 (supported in Firefox since 132 and Chrome since 131), now covering an estimated 70.1% of Internet traffic per Cloudflare Radar. WireGuard, not post-quantum secure by default, can mix a symmetric PresharedKey for basic protection or layer Rosenpass on top to rotate the preshared key every two minutes."
+    },
+    {
+      "url": "https://ipurple.team/2026/06/17/qos-policies/?utm_source=tldrinfosec",
+      "title": "QoS Policies (7 minute read)",
+      "summary": "Windows QoS policies can cap outbound bandwidth for specific processes, ports, or protocols, and attackers with admin rights can point these policies at EDR agents to choke their telemetry to the vendor cloud, sometimes down to 8 bits per second so TLS handshakes fail and alerts never arrive. The idea is to create such policies via PowerShell and WMI, with the EDRChoker proof-of-concept that mass-creates throttling rules for common EDR processes. Defensive playbooks include auditing ActiveStore QoS entries with PowerShell cmdlets, enabling detailed PowerShell and WMI logging, and monitoring both transient (memory) and persistent (registry) QoS policies."
+    },
+    {
+      "url": "https://pluto.security/blog/inside-claude-managed-agents/?utm_source=tldrinfosec",
+      "title": "Inside Claude Managed Agents: Reverse Engineering the Security Boundaries of Anthropic's Hosted Agent Runtime (12 minute read)",
+      "summary": "Pluto Security reverse-engineered Anthropic's Claude Managed Agents hosted-agent runtime to probe its security features and limitations. Pluto found that the runtime uses the same gVisor sandbox as Cloud Cowork, the vault credential proxy provides strong secrets isolation, and network proxy bypasses utilize a multi-layer defense to prevent them. Pluto also noted that while there are strong security configurations, the default configuration is very permissive, and teams should ensure agents are secured thoroughly."
+    },
+    {
+      "url": "https://www.infosecurity-magazine.com/news/chainguard-bny-open-source-athena/?utm_source=tldrinfosec",
+      "title": "Chainguard, JPMorgan, BNY Team Up to Secure Open Source from AI Threats (2 minute read)",
+      "summary": "Chainguard launched Athena, an industry coalition (founding members include BNY, Cisco, Cloudflare, Docker, JPMorganChase, Kyndryl, LTIMindtree, and PwC) that pools open-source vulnerabilities surfaced by frontier AI programs like Anthropic's Project Glasswing and OpenAI's Daybreak, patches them privately, and rebuilds affected projects as hardened versions ahead of coordinated upstream disclosure. Already operational, Athena has processed over 20,000 findings and shipped more than 2,000 patches across 500 open-source projects, with its first disclosure wave due in July."
+    },
+    {
+      "url": "https://magnitude.ai/?utm_source=tldrinfosec",
+      "title": "Magnitude (Product Launch)",
+      "summary": "Magnitude builds an autonomous workforce of AI agents that manage third-party and Nth-party risk for companies by continuously assessing vendor security, mapping dependencies, and triggering remediation when vulnerabilities or supply chain threats appear."
+    },
+    {
+      "url": "https://github.com/CarterPerez-dev/exs-cyberjob-scraper?utm_source=tldrinfosec",
+      "title": "Cybersecurity Certification Demand (GitHub Repo)",
+      "summary": "This repository contains a web scraper that pulls cybersecurity job postings from public hiring APIs, filters for genuine cyber roles, and reports which certifications employers most frequently list."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/H8J6mT",
+      "title": "China-Nexus Actor Spies on US Researchers Undetected for a Year (5 minute read)",
+      "summary": "Google's GTIG and Mandiant attributed a year-plus espionage campaign against US medical, academic, and military research institutions to a new China-aligned actor, UNC6508, which used REDCap-specific malware named Infinitered to harvest credentials, then exfiltrated email by abusing domain content-compliance rules rather than malware. What stands out is an unusually broad collection scope at a single site, malware reverse-engineered to run only on REDCap servers, and an obfuscation network built exclusively from US-based IPs to blend in with normal logins."
+    },
+    {
+      "url": "https://semgrep.dev/blog/2026/how-we-cut-semgreps-taint-analysis-time-by-75-percent/?utm_source=tldrinfosec",
+      "title": "How We Cut Semgrep's Taint Analysis Time by 75% (6 minute read)",
+      "summary": "To enable interfile taint tracking, Semgrep Pro historically ran taint analysis twice. With the release of improved multicore support in OCaml 5.0, the Semgrep team was able to rearchitect interfile taint tracking to run only once. Using a custom OCaml profiler, the team recorded speedups of up to 75% with this refactor."
+    },
+    {
+      "url": "https://san.com/cc/peter-thiels-dialog-network-was-super-secret-a-data-leak-changed-that/?utm_source=tldrinfosec",
+      "title": "Peter Thiel's Dialog Network Was Super Secret. A Data Leak Changed That (4 minute read)",
+      "summary": "Dialog is a private, invite-only network of elites from business, academia, and politics that Peter Thiel founded. A security researcher discovered a set of leaked data from Dialog that included 113 names listed on Dialog's private website, as well as participant profiles containing names, employers, locations, email addresses, assistants' contact information, birthdates, phone numbers, emergency contacts, and other information for attendees."
+    },
+    {
+      "url": "https://therecord.media/estonia-quarantine-russian-emails?utm_source=tldrinfosec",
+      "title": "Estonia to Quarantine Emails Sent from Russian .RU Domain Before They Reach Government Officials (2 minute read)",
+      "summary": "Starting August 31, Estonia will automatically quarantine inbound emails from Russia's .ru top-level domain before they reach public-sector officials, notifying recipients to open isolated messages only with added precautions, a measure justified by the sharp rise since 2022 in phishing and malware traffic from Russian servers."
+    },
+    {
+      "url": "https://blog.jetbrains.com/platform/2026/06/marketplace-ecosystem-security-update-malicious-ai-plugins/?utm_source=tldrinfosec",
+      "title": "JetBrains Marketplace Ecosystem Security Update: Addressing Malicious Third-Party AI Plugins (4 minute read)",
+      "summary": "JetBrains disclosed and purged 15 malicious third-party Marketplace plugins from 7 banned publisher accounts."
+    },
+    {
+      "url": "https://www.theregister.com/cyber-crime/2026/06/17/cyberattack-sees-crops-kept-in-the-ground/5256321?utm_source=tldrinfosec",
+      "title": "Cyberattack Sees Crops Kept in the Ground (2 minute read)",
+      "summary": "Mackay Sugar in Queensland had to halt most sugar cane crushing after a cyberattack disrupted systems that manage harvesting, mill operations, and logistics."
+    }
+  ]
+}

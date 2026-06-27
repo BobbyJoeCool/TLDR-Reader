@@ -1,0 +1,68 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-06-19",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://socket.dev/blog/glasswasm-malware-open-vsx-extensions",
+      "title": "GlassWASM: WebAssembly Malware Found in Trojanized Open VSX Extensions",
+      "summary": "GlassWASM is a TinyGo-compiled WebAssembly payload hidden in two trojanized Open VSX extensions published by impersonation account zaitoona43 and attributed with medium confidence to the GlassWorm operator. The module exfiltrates source code, API keys, and credentials to a remote C2 server."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/tIMcQk",
+      "title": "Salesforce Data Thefts Continue via Klue App Compromise",
+      "summary": "Attackers used a compromised Klue integration account to mint OAuth tokens, query Salesforce REST APIs, and pull CRM data over about 24 hours, including bursts of nearly 1,000 queries in 15 minutes."
+    },
+    {
+      "url": "https://www.scworld.com/brief/fake-boots-emails-target-millions-in-large-phishing-campaign",
+      "title": "Fake Boots Emails Target Millions in Phishing Campaign",
+      "summary": "Nearly 8.9M users received an email supposedly from UK health and beauty retailer Boots as part of a phishing campaign linked to Romanian threat actors. The emails offered users a free beauty sample pack and directed them to a fraudulent checkout process."
+    },
+    {
+      "url": "https://www.rapid7.com/blog/post/tr-malware-tracking-dropping-elephant-tradecraft-china-themed-loader-chain/",
+      "title": "Malware à la Mode: Tracking Dropping Elephant Tradecraft Through a China-Themed Loader Chain",
+      "summary": "Rapid7 traced a Dropping Elephant campaign that opens with a China energy-sector lure spawning obfuscated PowerShell, stages renamed payloads in C:\\Users\\Public, and abuses the legitimate Microsoft binary Fondue.exe to side-load APPWIZ.cpl."
+    },
+    {
+      "url": "https://offsec.cypfer.com/blog/Honeypot-detection",
+      "title": "Hunting Honey Pots as Red Teamers",
+      "summary": "This post details how red teamers can fingerprint Active Directory honeytoken and decoy-computer accounts without ever authenticating against them, reading account metadata through quiet MS-SAMR and LSA calls instead of high-signal LDAP sweeps that defenders baseline."
+    },
+    {
+      "url": "https://www.credrelay.com/p/getting-a-cve-without-shipping-slop",
+      "title": "Getting a CVE Without Shipping Slop",
+      "summary": "Jeff Barron describes how he used Claude Code integrated with Ghidra MCP to analyze ASUS Windows drivers on his gaming laptop and turn two findings into validated CVEs without dumping low-quality reports on the vendor."
+    },
+    {
+      "url": "https://www.theregister.com/devops/2026/06/17/homebrew-60-released-with-new-security-mechanism-linux-sandbox-and-more/5257570",
+      "title": "Homebrew 6.0 released with new security mechanism, Linux sandbox, and more",
+      "summary": "Homebrew 6.0 adds tap trust, requiring explicit user agreement before third-party taps install or execute code, alongside Bubblewrap-based build sandboxing on Linux, a brew vulns command that checks installed packages against the OSV database, and an ask-mode confirmation prompt."
+    },
+    {
+      "url": "https://gbhackers.com/ai-generated-youtube-narrators/",
+      "title": "Hackers Use AI-Generated YouTube Narrators to Promote Crypto Clipper Malware",
+      "summary": "Checkpoint researchers uncovered a coordinated malware distribution campaign that utilizes AI-generated YouTube tutorials to deploy a Rust-based clipboard hijacker that silently replaces cryptocurrency wallet addresses, distributed via GitHub and SourceForge using ghost accounts."
+    },
+    {
+      "url": "https://www.bcs.org/articles-opinion-and-research/new-legal-questions-agentic-pen-testing/",
+      "title": "New Legal Questions: Agentic Pentesting",
+      "summary": "Many of the risks that come with agentic pentesting may already be covered by protections similar to those in current contracts. However, a fundamental difference is that an agent may not have a human pentester's intuition regarding rate limiting and when to stop testing."
+    },
+    {
+      "url": "https://www.altusintel.com/public-yyr53j",
+      "title": "GlobalSign Revokes EV Certificates From Sanctioned Firms",
+      "summary": "Belgian CA GlobalSign began phased revocation of EV TLS certificates issued to EU-sanctioned Russian companies, citing CA/Browser Forum rules barring sanctioned entities from holding valid certificates."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/v3hUTS",
+      "title": "Kodak Admits Data Breach After ShinyHunters Hack Claims",
+      "summary": "ShinyHunters says it stole over 2.2 million Kodak customer records and corporate data and threatened to leak it unless paid by June 18."
+    },
+    {
+      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
+      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
+      "summary": "DragonForce deployed a Go-based RAT called Backdoor.Turn against a major US services firm, hiding C2 traffic inside legitimate Microsoft Teams TURN relays and maintaining access for one to two months with a QUIC session to their real server."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-06-17",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.malwarebytes.com/blog/news/2026/06/cardiac-patients-medical-data-stolen-and-held-to-ransom",
+      "title": "Cardiac patients' medical data stolen and held to ransom",
+      "summary": "A criminal contacted cardiac monitoring firm iRhythm on June 9 claiming to have stolen proprietary data, patient health information, and other personal details from third-party business apps, then demanded ransom in exchange for not releasing the data."
+    },
+    {
+      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "summary": "A bug in the Google Cloud Vertex AI Python SDK allowed attackers to register predictable Vertex staging buckets, capture model uploads from other projects, and replace them with malicious pickle-based models."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/vgE7SH",
+      "title": "Malicious JetBrains Marketplace Plugins Steal AI API Keys From Developers",
+      "summary": "Aikido Security detected a new malware campaign that uses plugins for AI coding assistants advertised on the JetBrains Marketplace to steal credentials. The plugins prompt the user to enter their API keys, which are then exfiltrated to attacker-controlled infrastructure."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/rZbZgD",
+      "title": "The Beginning of the End of Social Engineering",
+      "summary": "AI-native operating systems from Google and Apple, by simultaneously interpreting what users see, hear, and receive across email, voice, calendars, browsing, and device-level behavior, can shift social engineering from a human vulnerability to a detectable pattern."
+    },
+    {
+      "url": "https://bobdahacker.com/blog/fifa-hack",
+      "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID",
+      "summary": "A security researcher registered as a FIFA player agent and was silently added to FIFA's internal Microsoft Entra tenant, which unlocked access to the live Football Data Platform and Streaming Management system affecting all World Cup 2026 matches."
+    },
+    {
+      "url": "https://www.varonis.com/blog/openclaw-phishing",
+      "title": "Phishing for Lobsters: How We Tricked OpenClaw into Spilling Secrets",
+      "summary": "Researchers from Varonis Threat Labs created a test lab with an OpenClaw setup to read a Gmail inbox containing various sensitive credentials, as well as other emails intended to imitate an enterprise environment, successfully demonstrating credential exfiltration via agentic AI phishing."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+      "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
+      "summary": "AWS WAF Bot Control now lets publishers charge AI bots per request at the CloudFront edge, returning an HTTP 402 Payment Required with a machine-readable x402 price manifest that x402-compatible agents can use to pay for content access."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+      "summary": "AMD silently dropped Transparent Secure Memory Encryption (TSME) from consumer Ryzen chips starting with AGESA 1.2.7.0, where the internal DfIsTsmeEnabled flag now returns FALSE for consumer SKUs, removing a memory encryption feature without public announcement."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/TbmIEA",
+      "title": "White House Issues Memo to Bolster NSS Cybersecurity",
+      "summary": "President Trump signed NSPM-12 to tighten cybersecurity for National Security Systems, including classified and military networks. The memo restores the CNSS and makes the NSA director the National Manager of national security systems cybersecurity."
+    },
+    {
+      "url": "https://www.nbcnews.com/tech/tech-news/inside-roblox-age-verification-efforts-rcna346973",
+      "title": "How Old Are You Really? Inside Roblox's New Campaign To Verify User Ages",
+      "summary": "In the wake of several lawsuits against the platform, Roblox has announced that it will use age-verification technology to assign users to accounts with limited chat and maturity permissions based on their verified age."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/7rEFTz",
+      "title": "Copilot 'SearchLeak' Attack Allows 1-Click Data Theft",
+      "summary": "Researchers found a three-stage \"SearchLeak\" flaw in Microsoft 365 Copilot Search that let a crafted link exfiltrate emails, MFA codes, and other Copilot-indexed business files in one click."
+    },
+    {
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "title": "Apple is about to make Hide My Email useless",
+      "summary": "Apple is moving Sign in with Apple and Hide My Email aliases to the @private.icloud.com subdomain, making it trivial for services to block all relay addresses without affecting regular iCloud mail."
+    },
+    {
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+      "summary": "GrapheneOS has fully ported to Android 17 on release day across all supported Pixel devices (6a, 7, 7a, 8, 10a, 10, and 10 Pro Fold)."
+    }
+  ]
+}

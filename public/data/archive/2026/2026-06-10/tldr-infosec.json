@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-06-10",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html?utm_source=tldrinfosec",
+      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "summary": "CVE-2026-23111 is an nf_tables use-after-free bug in the Linux kernel that lets an unprivileged local user gain root and escape containers on common desktop and server setups with user namespaces enabled. Exploits now exist for Debian, Ubuntu, and RHEL, so admins should prioritize kernel updates and consider restricting unprivileged user namespaces until patched."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/OpZzWh",
+      "title": "Check Point Links VPN Zero-Day Attacks to Qlin Ransomware Gang",
+      "summary": "Check Point discovered a new critical vulnerability that allows remote attackers to bypass authentication on targeted Mobile Access/SSL VPNs, Remote Access VPNs, or Spark firewalls to establish a VPN connection. The vulnerability only impacts deployments configured to use IKEv1 key exchange, with security gateways that accept legacy Remote Access clients, and don't require a machine certificate for connections. While working on this vulnerability, Check Point uncovered another vulnerability in the IKEv1 certificate validation implementation, which could allow attackers to launch man-in-the-middle attacks."
+    },
+    {
+      "url": "https://cybersecuritynews.com/new-magicad-android-malware-flood-device/?utm_source=tldrinfosec",
+      "title": "New MagicAd Android Malware Floods Devices with Ads Bypassing Restrictions",
+      "summary": "Researchers have uncovered a new Android malware dubbed MagicAd that bypasses OS protections to flood the user's device with ads. The malware was hiding in more than 50 trojanized games on the Xiaomi and other app stores. Once installed, the malware uses a task scheduler to continuously restart its background service to continuously send messages to built-in apps to display the ads as banners."
+    },
+    {
+      "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/?utm_source=tldrinfosec",
+      "title": "Apple's Siri-AI, or More Shouting into the Void About \"Private\" Agents",
+      "summary": "Apple's Siri-AI uses Google Gemini with Apple Private Cloud Compute and Google Confidential Inference. Private context from messages, email, notes, and calendars can improve scheduling and search. Useful agents can leak data when they query search engines or LLMs, and prompt injection in the inbox and on the web can steer an agent into sending private data. A final concern is reporting: an agent with data and messaging access can be configured to flag crimes or pass material to others."
+    },
+    {
+      "url": "https://blog.trailofbits.com/2026/06/03/the-sorry-state-of-skill-distribution/?utm_source=tldrinfosec",
+      "title": "The Sorry State of Skill Distribution",
+      "summary": "In an effort to better understand the state of agent skills, Trail of Bits crafted four malicious skills that could bypass the skill security scanners used by Cisco's skill-scanner, Vercel's skills.sh marketplace, and ClawHub. ClawHub's scanner could be defeated by inserting 10,000 new lines between a benign preamble and the prompt injection. The other scanners could be defeated by embedding a malicious payload as a docx or as compiled Python byte code."
+    },
+    {
+      "url": "https://haltingproblems.com/analysis/hades-cluster-pypi-startup-hook-compromise/?utm_source=tldrinfosec",
+      "title": "Hades Cluster PyPI Worm Abuses Python Startup Hooks",
+      "summary": "On June 7, Socket disclosed that attackers gained publishing authority over 19 legitimate scientific and deep-learning packages and uploaded 37 malicious wheels that drop a hades-setup.pth file into site-packages. These wheels exploit Python's path configuration hook to automatically execute _index.js via a bootstrapped Bun runtime at interpreter startup, without any explicit import by the developer. The credential stealer harvested AWS, GCP, and Azure cloud tokens, along with GitHub, npm, and SSH keys, exfiltrated data to attacker-created GitHub repositories labeled \"Hades - The End for the Damned\", and emitted decoy HTTPS traffic to Anthropic API endpoints to obscure the egress channel. Defenders should audit requirements.txt, poetry.lock, and local site-packages for affected package names (including bramin, executor-engine, executor-http, funcdesc, coolbox, dynamo-release, and magique, among others), treat any environment containing a matched version as fully compromised, rotate all reachable cloud and VCS tokens immediately, and hunt for the IOCs hades-setup.pth and _index.js, along with unexpected Bun runtime downloads, in CI/CD process logs."
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=tldrinfosec",
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "summary": "Anthropic's releases Claude Fable 5 as its most capable generally available model and Claude Mythos 5 for selected cyber defenders with relaxed safeguards. Fable 5 routes sensitive cyber, bio, and distillation queries through Opus 4.8 using hardened classifiers and 30-day log retention. Mythos 5 directly supports Project Glasswing and a gated biology track, with pricing set at $10/M input and $50/M output."
+    },
+    {
+      "url": "https://a.security/?utm_source=tldrinfosec",
+      "title": "A Security (Product Launch)",
+      "summary": "A Security provides an autonomous offensive security platform that runs continuous, scoped attack simulations across enterprise environments, chains real exploit paths, and then triggers targeted remediation and control adjustments to close those paths before attackers use them."
+    },
+    {
+      "url": "https://github.com/bI8d0/DriverSentinel?utm_source=tldrinfosec",
+      "title": "DriverSentinel (GitHub Repo)",
+      "summary": "DriverSentinel is a security tool that detects malicious and vulnerable drivers by comparing them against LoLDrivers."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/06/09/signal-uks-child-nude-block-threat-wont-protect-children/5252761?utm_source=tldrinfosec",
+      "title": "Signal Says UK Plan to Scan Devices for Nude Images 'Endangers Us All'",
+      "summary": "Keir Starmer gives tech firms three months to deploy device-level scanning that blocks minors from taking, sharing, or viewing nude images, or face legislation. Signal warns that client-side scanning and age checks create new surveillance and censorship hooks, expand attack surface via updatable abuse databases or models, and break its privacy trust model even if images stay on-device."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/2NnXqP",
+      "title": "Miasma Supply Chain Worm Burrows into 73 Microsoft Repositories",
+      "summary": "A Miasma variant hit 73 Microsoft GitHub repos, mainly in Azure, knocking key Actions like Azure/functions-action offline and breaking CI/CD workflows worldwide. Attackers had earlier compromised Microsoft's durabletask PyPI package with a modular cloud intrusion framework that steals secrets and can deploy a wiper. The worm now abuses AI coding agents via config files, harvesting credentials when developers open tainted repos."
+    },
+    {
+      "url": "",
+      "title": "Apple Passwords Can Now Automatically Fix Weak and Compromised Passwords",
+      "summary": ""
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/V3VgrH",
+      "title": "OpenSSL Patches High-Severity Vulnerability Found with AI",
+      "summary": "OpenSSL shipped fixes for 18 flaws, including CVE-2026-45447, a heap use-after-free bug in PKCS#7 verification that can lead to remote code execution via crafted PKCS#7 or S/MIME messages."
+    },
+    {
+      "url": "https://hackread.com/whatsapp-blocked-pegasus-spyware-campaign-nso/?utm_source=tldrinfosec",
+      "title": "WhatsApp Says It Blocked Pegasus Spyware Campaign Linked to NSO",
+      "summary": "WhatsApp blocked a new NSO Group Pegasus campaign delivered via spear-phishing links rather than a platform vulnerability, removed associated test accounts and groups, and filed for contempt against NSO for violating an existing permanent injunction."
+    },
+    {
+      "url": "https://links.tldrnewsletter.com/sukiyn",
+      "title": "Microsoft Patches 200 Vulnerabilities",
+      "summary": "Microsoft's June 2026 Patch Tuesday fixed roughly 200 flaws (nearly 40 rated critical across Windows, Azure, Office, Outlook, Exchange, and AI tools)."
+    }
+  ]
+}

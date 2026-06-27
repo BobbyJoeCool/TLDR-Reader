@@ -1,0 +1,58 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-06-17",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/private-origins-dns-routing/",
+      "title": "Route public traffic to private applications with Cloudflare",
+      "summary": "Cloudflare launched a closed beta that lets Enterprise customers apply WAF, bot management, rate limiting, caching, Workers, and other application services to private origins without public IP exposure. Traffic flows through Cloudflare's network to privately hosted services, enabling full edge security for internal applications."
+    },
+    {
+      "url": "https://www.hashicorp.com/en/blog/hcp-terraform-adds-project-level-run-tasks",
+      "title": "HCP Terraform adds project-level run tasks",
+      "summary": "HCP Terraform now supports project-level run tasks, allowing security, compliance, and operational controls to be enforced automatically across groups of workspaces. The feature reduces manual configuration, improves governance consistency, and scales more effectively as infrastructure grows."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/06/16/from-data-residency-to-digital-sovereignty-architectural-patterns-for-cloud-native-platforms/",
+      "title": "From data residency to digital sovereignty: Architectural patterns for cloud native platforms",
+      "summary": "Digital sovereignty requirements have shifted from policy discussions to practical platform engineering challenges, with EU regulations like the Data Act and NIS-2 now pushing organizations to demonstrate verifiable control over data location, processing, and access."
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
+      "title": "Give GitHub Copilot CLI real code intelligence with language servers",
+      "summary": "GitHub Copilot CLI's LSP Setup skill automates installing and configuring language servers, replacing brittle text and binary searches with semantic code intelligence for accurate type resolution, definition lookups, and cross-file reference tracking."
+    },
+    {
+      "url": "https://webflow.sysdig.com/blog/how-attackers-are-jailbreaking-llms-with-ctf-framing-and-how-to-catch-them",
+      "title": "How attackers are jailbreaking LLMs with CTF framing and how to catch them",
+      "summary": "Multiple attackers have been discovered successfully jailbreaking AI models to generate working exploit code by disguising their requests as legitimate CTF (Capture the Flag) security challenges. Runtime detection in the agent's execution environment is the recommended countermeasure."
+    },
+    {
+      "url": "https://blog.allegro.tech/2026/06/taming-backstage-entities-with-a-type-safe-search-and-command-palette.html",
+      "title": "Finding the Needle: Taming 150,000+ Backstage Entities with a Type-Safe Search and Command Palette",
+      "summary": "Commander is a ⌘+K command palette for Backstage that solves search and discoverability issues across 150,000+ catalog entities using a stack-based router architecture and IndexedDB caching for sub-millisecond response times."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/containers/better-together-amazon-eks-auto-mode-and-istio-ambient-mesh/",
+      "title": "Better Together: Amazon EKS Auto Mode and Istio Ambient Mesh",
+      "summary": "Amazon EKS Auto Mode automates Kubernetes compute management, including provisioning, scaling, and patching using managed EC2 and Karpenter, while Istio Ambient Mesh delivers sidecarless service-to-service mTLS, L4 and L7 authorization, and traffic control via ztunnel and waypoint proxies."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+      "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
+      "summary": "AWS WAF launched an AI traffic monetization capability that lets digital content publishers charge AI bots per request for accessing their content at the network edge."
+    },
+    {
+      "url": "https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/",
+      "title": "Docker joins the Athena coalition: a cross-industry collaboration for supply chain security",
+      "summary": "Docker is joining Athena, a new industry coalition focused on defending open source software against AI-accelerated vulnerability discovery."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-inference-gateway-prefix-caching-accelerates-ai-inference/",
+      "title": "Report: GKE Inference Gateway delivers up to 92% faster AI responses",
+      "summary": "GKE Inference Gateway improves LLM serving by using prefix-cache-aware model-aware routing to send requests to pods with matching KV cache, reducing recomputation and latency versus round-robin load balancing."
+    }
+  ]
+}

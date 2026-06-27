@@ -3,6 +3,7 @@ export default function BottomNav({ page, onNavigate }) {
     { id: 'home', label: 'Reading List', icon: <BookmarkIcon /> },
     { id: 'thisWeek', label: 'This Week', icon: <CalendarIcon /> },
     { id: 'lastWeek', label: 'Last Week', icon: <HistoryIcon /> },
+    { id: 'archive', label: 'Archive', icon: <ArchiveIcon /> },
   ];
 
   return (
@@ -45,6 +46,16 @@ function HistoryIcon() {
     <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
       <polyline points="1 4 1 10 7 10" />
       <path d="M3.51 15a9 9 0 1 0 .49-4.95" />
+    </svg>
+  );
+}
+
+function ArchiveIcon() {
+  return (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="21 8 21 21 3 21 3 8" />
+      <rect x="1" y="3" width="22" height="5" />
+      <line x1="10" y1="12" x2="14" y2="12" />
     </svg>
   );
 }

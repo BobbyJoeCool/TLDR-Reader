@@ -1,0 +1,35 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "weekStart": "2026-06-22",
+      "days": {
+        "monday": "2026-06-22",
+        "tuesday": "2026-06-23",
+        "wednesday": "2026-06-24",
+        "thursday": "2026-06-25",
+        "friday": null
+      }
+    },
+    {
+      "weekStart": "2026-06-15",
+      "days": {
+        "monday": "2026-06-15",
+        "tuesday": "2026-06-16",
+        "wednesday": "2026-06-17",
+        "thursday": "2026-06-18",
+        "friday": "2026-06-19"
+      }
+    },
+    {
+      "weekStart": "2026-06-08",
+      "days": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": "2026-06-10",
+        "thursday": "2026-06-11",
+        "friday": "2026-06-12"
+      }
+    }
+  ]
+}

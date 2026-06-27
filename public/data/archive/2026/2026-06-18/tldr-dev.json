@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-06-18",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "",
+      "title": "Agentic coding and persistent returns to expertise (25 minute read)",
+      "summary": ""
+    },
+    {
+      "url": "",
+      "title": "Making budget models punch above their weight with a smart harness (18 minute read)",
+      "summary": ""
+    },
+    {
+      "url": "https://browser-use.com/posts/firecracker-browser-infra?utm_source=tldrdev",
+      "title": "How We Made Cloud Browsers 3x Cheaper and Faster (17 minute read)",
+      "summary": "Browser Use's cloud browsers have been optimized to start quickly, remain isolated, and maintain low costs, now operating at $0.02 per hour with sessions starting in under a second. This was done by using Firecracker for lightweight virtual machines while implementing a control plane for dynamic scaling."
+    },
+    {
+      "url": "https://www.thesignalist.io/s/the-dialogue-dividend/?utm_source=tldrdev",
+      "title": "The Dialogue Dividend (6 minute read)",
+      "summary": "Conversations with others often lead to greater problem-solving and understanding than solitary thinking can provide as they introduce a feedback loop that refines thoughts in real-time."
+    },
+    {
+      "url": "https://parksb.github.io/en/article/32.html?utm_source=tldrdev",
+      "title": "But yak shaving is fun (8 minute read)",
+      "summary": "Yak shaving refers to the process of engaging in a series of tangential tasks that divert from the original goal, showing how building projects from scratch can lead to unexpected challenges, discoveries, and joy."
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-eve?utm_source=tldrdev",
+      "title": "Introducing eve (12 minute read)",
+      "summary": "eve is an open-source agent framework that makes building, running, and scaling agents easier by providing built-in production capabilities like durable execution, sandboxed computing, and human-in-the-loop approvals. With a clear structure, agents can be defined through a directory of files that dictate their components, actions, and connections."
+    },
+    {
+      "url": "https://github.com/EpicGames/lore?utm_source=tldrdev",
+      "title": "Lore (GitHub Repo)",
+      "summary": "Lore is an open source version control system designed for scalability, particularly for projects with large binary assets like games. It has a centralized, content-addressed architecture that allows for efficient data storage and retrieval, with an emphasis on immutable revisions and low-overhead branching."
+    },
+    {
+      "url": "https://www.greptile.com/blog/trex-code-execution?utm_source=tldrdev",
+      "title": "Building TREX: Code execution and artifact generation for AI code review (9 minute read)",
+      "summary": "TREX is a code review tool that integrates code execution with AI-driven testing to identify bugs that may not be apparent in static analysis alone. It uses a multi-agent architecture, where a Greptile reviewer orchestrates specialized TREX agents that run tests in isolated environments, providing artifacts such as screenshots and logs to verify findings."
+    },
+    {
+      "url": "https://www.makingsoftware.com/chapters/image-compression?utm_source=tldrdev",
+      "title": "Image compression (35 minute read)",
+      "summary": "Image compression techniques, including lossy and lossless methods, exploit characteristics of human visual perception to reduce file sizes. Formats like JPEG use a combination of chroma subsampling, discrete cosine transforms, and quantization for compression without noticeable quality loss, while GIF uses indexed color palettes and Lempel-Ziv-Welch algorithms to store limited color data."
+    },
+    {
+      "url": "",
+      "title": "Brain the Size of a Planet: Are LLMs Thonking too Hard? (26 minute read)",
+      "summary": ""
+    },
+    {
+      "url": "https://claude.com/blog/the-founders-playbook?utm_source=tldrdev",
+      "title": "The founder's playbook: Building an AI-native startup (5 minute read)",
+      "summary": "Anthropic has released a playbook of practical exercises and agentic workflows to navigate every stage of the business lifecycle for AI-native startups."
+    },
+    {
+      "url": "https://github.com/privatenumber/mac-ocr?utm_source=tldrdev",
+      "title": "mac-ocr (GitHub Repo)",
+      "summary": "mac-ocr is a macOS command-line tool that uses Apple's Vision framework locally to recognize text from images and PDFs and create searchable PDFs."
+    },
+    {
+      "url": "https://nathan.rs/posts/gzip-lm/?utm_source=tldrdev",
+      "title": "Can gzip be a language model? (5 minute read)",
+      "summary": "Gzip can be used as a language model through compression techniques that predict and generate text continuations by scoring potential outputs based on how well they compress with a given context."
+    },
+    {
+      "url": "https://exa.ai/blog/exa-agent?utm_source=tldrdev",
+      "title": "Exa Agent (5 minute read)",
+      "summary": "Exa Agent is a new API that combines frontier language models with optimized web search tools to provide high-performance research, list-building, and data enrichment capabilities."
+    }
+  ]
+}

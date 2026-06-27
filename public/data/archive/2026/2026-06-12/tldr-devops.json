@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-06-12",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/?utm_source=tldrdevops",
+      "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
+      "summary": "Anthropic's Claude Fable 5 model has launched on Amazon Bedrock and Claude Platform on AWS. Featuring state-of-the-art performance across software engineering and knowledge work while automatically routing potentially harmful prompts about cybersecurity, biology, chemistry, and health to the older Opus 4.8 model, the model is now available in US East (N. Virginia), and Europe (Stockholm) regions, though accessing it requires opting into a 30-day data retention and human review policy through Amazon Bedrock's Data Retention API."
+    },
+    {
+      "url": "https://www.solo.io/blog/agent-substrate-powers-kubernetes-agents-with-kagent?utm_source=tldrdevops",
+      "title": "Agent Substrate Can Power Agents on Kubernetes with kagent",
+      "summary": "Solo.io announced its collaboration with Google on the Agent Substrate project, an open-source solution for running sandboxed AI agents on Kubernetes that can scale to zero, suspend idle agents to storage, and resume them in 50-200ms while packing multiple agent instances into single pods with strict tenant isolation. The company was preparing to open-source its own similar technology—which used Bubblewrap, Landlock, seccomp, and optional Firecracker microVMs—when it discovered Google's overlapping architecture and decided to combine efforts instead."
+    },
+    {
+      "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation?utm_source=tldrdevops",
+      "title": "How formal verification makes AWS Nitro the first formally verified cloud hypervisor",
+      "summary": "The new AWS Nitro Isolation Engine provides mathematically verified isolation between EC2 virtual machines and ships as an always-on feature for Graviton5 users. Its critical isolation logic runs through a small Rust-based separation kernel verified with Isabelle/HOL, μRust, Separation Logic, and 330,000 lines of machine-checked proofs covering confidentiality, integrity, functional correctness, runtime safety, and memory safety."
+    },
+    {
+      "url": "",
+      "title": "Formal methods and the future of programming",
+      "summary": ""
+    },
+    {
+      "url": "https://www.bejarano.io/terraform-autoapply/?utm_source=tldrdevops",
+      "title": "Safe Terraform auto-apply with conftest",
+      "summary": "Terraform plans can be auto-applied safely when they pass deterministic policy-as-code checks instead of relying on rushed human reviews or non-deterministic AI judgment. Exporting Terraform plans as JSON and evaluating them with conftest/Rego lets teams define explicit rules for safe changes, such as allowing only creates, limiting blast radius, restricting resource types, or gating production changes for human review."
+    },
+    {
+      "url": "https://github.com/kenn-io/agentsview?utm_source=tldrdevops",
+      "title": "AgentsView (GitHub Repo)",
+      "summary": "AgentsView launched as an open-source tool that tracks costs and usage across more than 20 AI coding agents including Claude Code and Codex, running entirely locally with no accounts required and claiming to be 100x faster than existing tools like ccusage by indexing session data in SQLite. The tool auto-discovers agent sessions on your machine, provides a web UI for browsing token consumption and compute costs, and supports optional PostgreSQL or DuckDB backends for team dashboards while keeping all data local by default."
+    },
+    {
+      "url": "https://github.com/NVIDIA/SkillSpector?utm_source=tldrdevops",
+      "title": "SkillSpector (GitHub Repo)",
+      "summary": "SkillSpector, a new open-source security scanner, helps users detect vulnerabilities and malicious code in AI agent skills before installation, addressing research findings that 26.1% of skills contain vulnerabilities and 5.2% show likely malicious intent. The Apache-licensed tool uses a two-stage detection pipeline with LLM-powered semantic analysis and pattern matching to identify 64 vulnerability types across 16 categories, integrating with the OSV.dev database to check dependencies against thousands of known security advisories."
+    },
+    {
+      "url": "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge?utm_source=tldrdevops",
+      "title": "How We Moved Discord Voice to the Edge",
+      "summary": "Discord migrated over 80% of its voice and video traffic from traditional cloud providers to Cloudflare's 300+ city network, resulting in quality improvements across 70% of regions with Frankfurt seeing 34% lower ping and 42% less packet loss. The year-long migration required building custom infrastructure to handle Cloudflare's ephemeral container architecture and solving tricky issues like ISP peering bottlenecks in France, NIC queue contention that initially forced them to halve server density, and mysterious latency spikes in Europe that turned out to be a combination of event loop starvation in their Rust code and CPU scheduling conflicts with network interrupt handling."
+    },
+    {
+      "url": "https://zed.dev/blog/introducing-deltadb?utm_source=tldrdevops",
+      "title": "Software Is Made Between Commits",
+      "summary": "DeltaDB is a version-control system that records every operation between commits so code changes and the conversations that produced them stay linked over time. It gives each fine-grained delta a stable identity, supports conflict-free replicated worktrees for multi-user and multi-agent editing, and lets developers trace any line of code back to the agent or teammate conversation that created or changed it."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/infinite-cardinality-metrics/?utm_source=tldrdevops",
+      "title": "Infinite Cardinality Metrics: Custom metrics built for modern systems",
+      "summary": "Datadog's Infinite Cardinality Metrics is a new pricing model that charges custom metrics by metric name rather than the number of unique time series created by tag combinations, allowing engineers to add unlimited dimensions without worrying about exponential cost increases."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/?utm_source=tldrdevops",
+      "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
+      "summary": "Amazon EC2 M9g and M9gd instances, powered by Graviton5 processors, deliver up to 25% better compute performance than Graviton4."
+    },
+    {
+      "url": "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html?utm_source=tldrdevops",
+      "title": "Static types and shovels",
+      "summary": "Static typing became more useful as mainstream type systems improved from verbose, low-value \"paper shovels\" into modern systems with nullability, sum or union types, and type inference."
+    }
+  ]
+}

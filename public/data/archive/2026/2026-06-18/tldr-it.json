@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-18",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/?utm_source=tldrit",
+      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects (6 minute read)",
+      "summary": "S3 annotations is a new Amazon S3 metadata capability that lets customers attach up to 1,000 named annotations per object (up to 1 MB each) with rich formats like JSON, XML, YAML, or plain text. Annotations are mutable (can be updated or deleted without rewriting the object) and can be surfaced at scale through S3 Metadata annotation tables queryable with Amazon Athena and Iceberg engines."
+    },
+    {
+      "url": "https://www.theregister.com/on-prem/2026/06/17/only-half-of-us-datacenter-capacity-planned-for-2026-is-actually-under-construction/5257781?utm_source=tldrit",
+      "title": "Only half of planned 2026 US data center capacity is actually under construction (4 minute read)",
+      "summary": "New data suggests many announced US data center projects for 2026 and 2027 have not yet started construction. The gap highlights how AI infrastructure plans may be running ahead of real power, permitting, and construction timelines."
+    },
+    {
+      "url": "",
+      "title": "World leaders want US AI, but not US control over access (3 minute read)",
+      "summary": ""
+    },
+    {
+      "url": "https://moderndata101.substack.com/p/the-identity-crisis-entity-resolution?utm_source=tldrit",
+      "title": "The Identity Crisis: Why Entity Resolution Is the Missing Foundation of Every Data Product Stack (7 minute read)",
+      "summary": "Many data product stacks focus on ensuring quality within individual systems but overlook a key challenge: making sure the same person or entity is recognized consistently across the organization. Teams often assume identities are already resolved, only discovering the issue when customer experiences or AI outputs conflict because different systems treat the same person as different records."
+    },
+    {
+      "url": "https://siliconangle.com/2026/06/17/embracing-data-primacy-build-reliable-ai-infrastructure-pureaccelerate/?utm_source=tldrit",
+      "title": "Data primacy could build more reliable AI infrastructure (5 minute read)",
+      "summary": "Everpure's AI infrastructure strategy centers on a unified data plane, automation-heavy control plane, and a data intelligence layer for discovery and governance. Enterprise AI reliability depends less on models alone and more on clean, governed, accessible data."
+    },
+    {
+      "url": "https://www.techzine.eu/news/security/142204/okta-and-google-cloud-link-identity-to-ai-agents-and-browsers/?utm_source=tldrit",
+      "title": "Okta and Google Cloud link identity to AI agents and browsers (3 minute read)",
+      "summary": "Okta and Google Cloud are expanding their identity platform integrations by launching Auth0 for AI Agents. They are also introducing new Chrome Enterprise integrations aimed at improving security for AI-driven workplace access and browser-based workflows."
+    },
+    {
+      "url": "https://siliconangle.com/2026/06/17/vercel-launches-new-framework-enterprise-controls-agentic-ai-infrastructure/?utm_source=tldrit",
+      "title": "Vercel launches enterprise controls for agentic AI infrastructure (3 minute read)",
+      "summary": "Vercel introduced a new framework and enterprise controls for building agentic AI applications. The launch reflects growing demand for governance, observability, and deployment primitives around AI-native applications."
+    },
+    {
+      "url": "https://www.sophos.com/en-us/blog/a-needle-in-a-stack-of-needles-hunting-infostealers-with-ai?utm_source=tldrit",
+      "title": "A needle in a stack of needles: Hunting infostealers with AI (10 minute read)",
+      "summary": "Sophos describes a multi-layer AI/ML pipeline for identifying infostealer attacks within SOC alert streams while reducing alert fatigue. Using Taegis XDR telemetry from 11.8 trillion events over two weeks, the approach applies rule/ML detection, deduplication/correlation, suppression, and supervised ML-based alert prioritization to narrow alerts to tens of thousands and then pinpoint infostealer activity."
+    },
+    {
+      "url": "https://siliconangle.com/2026/06/17/sentinelone-turns-purple-ai-loose-investigate-threats/?utm_source=tldrit",
+      "title": "SentinelOne expands Purple AI to investigate threats autonomously (3 minute read)",
+      "summary": "SentinelOne expanded Purple AI so it can gather evidence, connect telemetry across endpoint, identity, cloud, and third-party data, and produce an attack verdict for analysts. The tool is designed to reduce investigation time by turning security telemetry into a clearer incident narrative."
+    },
+    {
+      "url": "https://github.com/lucioduran/ax-audit?utm_source=tldrit",
+      "title": "Lighthouse for AI Agents (GitHub Repo)",
+      "summary": "Lighthouse for AI Agents is a Node-based tool that audits a website's AI Agent Experience readiness using 18 checks."
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-gke-in-30-minutes?utm_source=tldrit",
+      "title": "Google Cloud publishes a secure MCP-on-GKE guide (4 minute read)",
+      "summary": "Google Cloud published a walkthrough for deploying a secure remote MCP server on Google Kubernetes Engine for agentic AI workflows."
+    }
+  ]
+}
