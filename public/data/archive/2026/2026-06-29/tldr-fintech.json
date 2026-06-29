@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-06-29",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/06/26/airwallex-series-h-funding-11-billion-valuation-ai-finance.html?utm_source=tldrfintech",
+      "title": "Airwallex hits $11B valuation as fintech pushes into AI-run finance",
+      "summary": "Airwallex raised $320 million at an $11 billion valuation, up 38% from six months ago, as it accelerates product development around autonomous finance and agentic commerce. The company also announced T:0, an AI-native platform for automating bookkeeping, tax, compliance, and reporting, and Airi, an agentic consumer wallet designed to support delegated payments, spending limits, and multi-currency balances."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/?utm_source=tldrfintech",
+      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+      "summary": "Meta is reportedly building a standalone prediction market app, internally called Arena, as it looks to capitalize on one of the fastest-growing fintech categories. The initial version would let users earn points instead of money for correctly predicting outcomes, with the potential to introduce real-money trading later, while leveraging Meta's social platforms to drive engagement. If successful, Arena could become a powerful on-ramp into financial prediction markets, bringing millions of mainstream users into a space that has already generated tens of billions of dollars in trading volume."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/ai-off-switch?utm_source=tldrfintech",
+      "title": "Who holds AI's off switch?",
+      "summary": "Anthropic's temporary shutdown of access to its newest models exposed a new enterprise AI risk: companies may not control the infrastructure their future workflows depend on. AI sovereignty is a board-level issue. Firms need model routing, data control, internal models, and potentially dedicated compute to avoid vendor lock-in, geopolitical disruption, and runaway token costs."
+    },
+    {
+      "url": "https://www.forbes.com/sites/nicolecasperson/2026/06/25/the-ai-race-in-fintech-comes-down-to-one-thing-trust/?utm_source=tldrfintech",
+      "title": "The AI race in fintech comes down to one thing: trust",
+      "summary": "AI will reshape fintech by stripping away administrative work while making human judgment, trust, and relationships more valuable across infrastructure providers, wealth platforms, and consumer fintechs like Fiserv, FIS, Salesforce, HSBC, and Chime. The winning AI strategy is governance by design: using automation to improve efficiency while keeping humans in control for high-stakes financial decisions."
+    },
+    {
+      "url": "https://finainews.com/payments/musk-starts-expanding-x-payments-to-more-users-after-delay/?utm_source=tldrfintech",
+      "title": "Musk starts expanding X payments to more users after delay",
+      "summary": "X has begun rolling out X Money to a broader group of premium US users, marking the next step in Elon Musk's plan to turn the platform into an all-in-one financial app. Early features include peer-to-peer payments, money storage, 3% cash back on eligible purchases, and a reported 6% interest rate on cash balances, signaling a push to compete with digital wallets and traditional banking. If X can successfully combine payments, banking, and social engagement in a single platform, it could become a significant new fintech distribution channel with millions of built-in users."
+    },
+    {
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/chainlink-project-pangea-50-banks-16-countries-t0-fx-settlement?utm_source=tldrfintech",
+      "title": "Chainlink Launches Project Pangea T+0 FX Settlement",
+      "summary": "Chainlink and a consortium of more than 50 banks across 16 countries launched Project Pangea at the Point Zero Forum in Zurich, aiming to deliver T+0 atomic settlement for the $9.6 trillion-a-day global FX market. The system routes transactions across Chainlink's CCIP, Swift's existing messaging infrastructure, and regulated EUR and KRW stablecoins, allowing participating institutions to settle cross-border currency trades in real time rather than the current T+2 cycle. Collapsing a two-day settlement window to same-day eliminates the intraday counterparty exposure and capital lockup that financial institutions currently absorb between trade execution and final settlement. The breadth of the consortium, linking 50+ regulated banks to a blockchain-native settlement layer via Swift rails, marks the largest coordinated institutional deployment of Chainlink's cross-chain infrastructure to date."
+    },
+    {
+      "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=tldrfintech",
+      "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed skinny accounts for crypto and fintech firms",
+      "summary": "Congress is debating whether crypto and fintech firms should receive limited direct access to Federal Reserve payment rails through so-called “skinny” master accounts. Supporters argue direct access would modernize payments and reduce dependence on partner banks, while critics warn that granting bank-like powers to less-regulated firms could introduce safety, soundness, consumer protection, and recordkeeping risks similar to the Synapse collapse."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/26/binance-to-stop-providing-services-to-european-clients-after-failing-to-obtain-license-ft.html?utm_source=tldrfintech",
+      "title": "Binance says some European clients may be affected after pulling Greek license bid",
+      "summary": "Binance withdrew its application for EU crypto authorization through Greece ahead of the bloc's July 1 MiCA licensing deadline, saying it will pursue approval in another member state instead. The move could disrupt some European users and highlights the growing regulatory divide between crypto exchanges that built around compliance-first EU licensing and those still trying to regularize operations after years of enforcement scrutiny."
+    },
+    {
+      "url": "https://x.com/MollySOShea/status/2070508727682089135?s=20&utm_source=tldrfintech",
+      "title": "Rebuilding Coinbase around intelligence (57 minute video)",
+      "summary": "Brian Armstrong outlines Coinbase's push to become an “everything exchange” for the agentic economy, spanning tokenized stocks, pre-IPO perpetuals, 24/7 trading, and financial access for billions of unbrokered users."
+    },
+    {
+      "url": "https://www.personneltoday.com/hr/revolut-drops-remote-first-policy-for-new-graduates/?utm_source=tldrfintech",
+      "title": "Revolut drops remote-first policy for new graduates",
+      "summary": "Revolut will require new graduates and interns to work from the office at least three days per week starting in 2027."
+    }
+  ]
+}

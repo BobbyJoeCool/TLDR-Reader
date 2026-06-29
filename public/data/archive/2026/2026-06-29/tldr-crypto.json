@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-06-29",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=tldrcrypto",
+      "title": "Strategy loses bitcoin premium as enterprise mNAV dips below 1",
+      "summary": "Strategy's enterprise mNAV has fallen below 1.0 for the first time, meaning the market now values its entire capital structure, including debt, preferred stock, and cash, at less than the bitcoin it holds, which is worth roughly $51.1 billion at current prices. With common stock down to around $82 (about 85% off its November 2024 peak) and STRC preferred shares trading around 26% below par, the funding engine that powered Strategy's accumulation model is severely stressed as issuing equity to buy bitcoin only destroys value when mNAV sits below 1."
+    },
+    {
+      "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=tldrcrypto",
+      "title": "Ripple CEO says Michael Saylor has hurt the crypto market",
+      "summary": "Ripple CEO Brad Garlinghouse called Strategy's STRC preferred stock — trading roughly 25% below its $100 par value despite carrying an 11.5% annual dividend — a \"damning indictment\" of Michael Saylor's approach, arguing the financial engineering has broadly hurt the crypto market. Garlinghouse said he remains bullish on bitcoin as an asset but drew a hard line between the asset and the strategy of leveraging up to accumulate it, saying long-term value comes from utility, not capital structure plays."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071263440451084628.html?utm_source=tldrcrypto",
+      "title": "Hyper Foundation allocates $10M in grants to support USDH migration",
+      "summary": "Hyper Foundation announced roughly $10 million in grants to help builders affected by the USDH sunset, covering migration and wind-down costs. Grants go to eligible HIP-1 and HIP-3 deployers, HyperEVM protocols, USDH:USDC bridges, and Native Markets. Recipients are required to complete migrations or orderly shutdowns by the end of July."
+    },
+    {
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/chainlink-project-pangea-50-banks-16-countries-t0-fx-settlement?utm_source=tldrcrypto",
+      "title": "Chainlink Launches Project Pangea T+0 FX Settlement",
+      "summary": "Chainlink and a consortium of more than 50 banks across 16 countries launched Project Pangea at the Point Zero Forum in Zurich, aiming to deliver T+0 atomic settlement for the $9.6 trillion-a-day global FX market. The system routes transactions across Chainlink's CCIP, Swift's existing messaging infrastructure, and regulated EUR and KRW stablecoins, allowing participating institutions to settle cross-border currency trades in real time rather than the current T+2 cycle. Collapsing a two-day settlement window to same-day eliminates the intraday counterparty exposure and capital lockup that financial institutions currently absorb between trade execution and final settlement. The breadth of the consortium, linking 50+ regulated banks to a blockchain-native settlement layer via Swift rails, marks the largest coordinated institutional deployment of Chainlink's cross-chain infrastructure to date."
+    },
+    {
+      "url": "https://x.com/FarsideUK/status/2070844434355286403?utm_source=tldrcrypto",
+      "title": "What to Do About STRC?",
+      "summary": "MicroStrategy's STRC perpetual preferred shares, issued at $100 with an 11.5% yield, carry a discretionary price-stability mechanism through which management adjusts the coupon to push the price toward par, but the mechanism is unstable by design: perceived credit deterioration triggers a dividend increase that further strains the balance sheet, risking a self-reinforcing downward spiral. MicroStrategy can reduce the coupon by 25 bps monthly down to the SOFR rate (now approximately 3.6%) without penalty, so fair value analysis places STRC near $55 rather than the $100 issue price, and the instrument already trades around $75, a 25% discount to target. With Bitcoin needing to outpace an 11.5% cost of capital to justify the issuance, and the stability mechanism showing no sign of activation despite the persistent discount, there are two probable outcomes: a buyback at a price balancing legal exposure and shareholder value, or full abandonment of the mechanism with a rate cut to SOFR."
+    },
+    {
+      "url": "https://x.com/wowens/status/2070567785340542988?utm_source=tldrcrypto",
+      "title": "Q-Day Urgency Increases as Trump EO Accelerates Timeline",
+      "summary": "President Trump signed two quantum computing executive orders on June 22, one directing the Department of Energy to deliver a fault-tolerant quantum computer and another setting federal deadlines for migration to NIST post-quantum cryptographic standards by 2030 for key establishment and 2031 for digital signatures, to defend against Shor's algorithm before \"harvest now, decrypt later\" attacks become viable. The defensive order targets the same cryptographic attack vector facing Bitcoin: ECDSA and Schnorr signatures break under Shor's algorithm, and Project Eleven estimates roughly 7 million BTC sit in addresses with exposed public keys, including 1.7 million in dormant wallets and an estimated 1 million likely belonging to Satoshi Nakamoto. Federal agencies can mandate migration by deadline - bitcoin cannot, and the community's proposed responses, BIP 360 (a quantum-resistant P2MR address type) and BIP 361 (a migration deadline paired with a coin freeze for non-compliant UTXOs), carry no confirmed activation timeline and remain contentious across the developer community."
+    },
+    {
+      "url": "https://thedefiant.io/news/cefi/kalshi-seeks-40b-valuation-seven-weeks-after-22b-raise?utm_source=tldrcrypto",
+      "title": "Kalshi Seeks $40B Valuation Seven Weeks After $22B Raise",
+      "summary": "Prediction market operator Kalshi is in talks to raise capital at a roughly $40 billion valuation, nearly double the $22 billion price tag from a $1 billion round that closed just seven weeks prior. The compressed timeline between rounds reflects strong institutional demand for regulated prediction market exposure as the asset class gains mainstream traction in the United States. Kalshi's growth has been driven by regulatory approvals that permit the platform to offer event contracts on political and financial outcomes, a category that had previously faced significant legal resistance from the CFTC."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2070225702733971888.html?utm_source=tldrcrypto",
+      "title": "Base's Two-Hour Outage Exposes Single-Sequencer Risk",
+      "summary": "Base experienced a nearly two-hour outage on June 25 after a consensus bug sequenced one invalid block following block 47806542, halting all subsequent block production. The network's single-sequencer design meant no backup producer or validator set could route around the failure, and recovery required manual restarts by node operators across the ecosystem rather than any automated self-healing. During the outage, DeFi users had no access to trades, liquidations, or withdrawals since all exit actions require transactions. This marks Base's second significant sequencer failure after a 33-minute handoff freeze in August 2025, reinforcing the argument that single-sequencer L2s carry the operational risk profile of a centralized server regardless of the underlying chain's architecture."
+    },
+    {
+      "url": "https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=tldrcrypto",
+      "title": "Base suffers second mainnet stall in two days",
+      "summary": "Base halted block production twice in two consecutive days, for roughly 116 minutes on June 25 and about 20 minutes on June 26."
+    },
+    {
+      "url": "https://www.theblock.co/post/406451/average-ibit-investor-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=tldrcrypto",
+      "title": "Average IBIT investor now down about 40%",
+      "summary": "The average investor in BlackRock's IBIT is now down roughly 40%, reversing a ~30% gain the average holder was sitting on as recently as mid-2025, a gap that mostly reflects heavy inflows arriving after price peaks."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2070033027842085118.html?utm_source=tldrcrypto",
+      "title": "x402 Agentic Commerce Hits 500k Daily Transactions",
+      "summary": "x402, the HTTP 402-based micropayment protocol for AI agents, averaged roughly 500k transactions per day in June, a 5x increase from prior periods."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2070094283445813692.html?utm_source=tldrcrypto",
+      "title": "Maple Finance Closes Institutional Warehouse Facility for Kraken",
+      "summary": "Maple Finance has closed an institutional warehouse facility for Kraken, enabling Kraken's OTC clients to access liquidity against digital asset holdings."
+    }
+  ]
+}

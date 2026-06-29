@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-29",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.businessinsider.com/enterprise-ai-spending-grows-openai-leads-rbc-reveals-2026-6?utm_source=tldrit",
+      "title": "Enterprise AI Spending Is Still Heating Up",
+      "summary": "A new RBC survey of CIOs and tech leaders suggests enterprise AI has moved past pilot theater, with more than half of respondents already running AI in production and another 35% expecting to do so within six months. Token costs are not stopping adoption. Companies are creating new AI budgets rather than simply cutting existing software spend."
+    },
+    {
+      "url": "https://edition.cnn.com/2026/06/26/tech/anthropic-mythos-release?utm_source=tldrit",
+      "title": "US Government allows Anthropic limited release of AI model that sparked cybersecurity concerns",
+      "summary": "Anthropic has received permission from the US government to redeploy its Mythos cybersecurity AI model. The rollout is specifically targeted at organizations involved in operating and defending critical national infrastructure. While Mythos 5 has been cleared for limited use, Anthropic's Fable 5 model remains offline and under continued negotiation with regulators."
+    },
+    {
+      "url": "https://pivotal.substack.com/p/on-data-quality-1-basics?utm_source=tldrit",
+      "title": "On Data Quality",
+      "summary": "“Data Quality” is not an intrinsic property of data. It emerges from the use case and increases data value by enabling better outcomes. Multiple ordered levels of data quality highlight how evaluations differ when viewed at the wrong level. Standards-based definitions are incomplete. “Correctness” depends on business context."
+    },
+    {
+      "url": "https://openai.com/index/hp-frontier-partnership/?utm_source=tldrit",
+      "title": "HP Expands OpenAI Frontier Partnership",
+      "summary": "HP is scaling its OpenAI Frontier partnership after internal pilots across customer experience, partner workflows, employee productivity, software development, device telemetry, and security operations. The partnership shows frontier AI moving from isolated experiments into broader enterprise workflows."
+    },
+    {
+      "url": "https://thenewstack.io/okta-ai-agents-fedramp/?utm_source=tldrit",
+      "title": "Okta Brings AI Agent Governance To FedRAMP And HIPAA Customers",
+      "summary": "Okta for AI Agents- Core is now generally available for regulated environments, including FedRAMP and HIPAA customers. The product lets organizations register AI agents as first-class identities, assign human owners, replace hardcoded credentials with scoped short-lived tokens, and govern agent access inside the same Okta boundary used for workforce identity."
+    },
+    {
+      "url": "https://about.gitlab.com/blog/gitlab-orbit-and-google-antigravity/?utm_source=tldrit",
+      "title": "Google Antigravity agents get full context with GitLab Orbit",
+      "summary": "Google Antigravity agents can now install GitLab Orbit from the Antigravity MCP Store to gain structured, queryable access to GitLab context such as projects, pipelines, merge requests, vulnerabilities, and source code. Orbit exposes this data via MCP tools, enabling agents to answer software lifecycle questions without switching tools or pasting context."
+    },
+    {
+      "url": "https://thenewstack.io/workday-ai-inference-guardrails/?utm_source=tldrit",
+      "title": "Workday Wants AI Guardrails Inside The Inference Engine",
+      "summary": "Enterprise AI guardrails should live close to the inference layer, especially for sensitive HR, payroll, and finance workflows where “mostly right” answers are not acceptable. AI agents need policy enforcement, permissions, auditability, and domain-specific controls built into the platform before enterprises can trust them with high-risk business processes."
+    },
+    {
+      "url": "https://github.com/EpicGames/lore?utm_source=tldrit",
+      "title": "Lore: Next-generation open source version control (GitHub Repo)",
+      "summary": "Lore is an open source, MIT-licensed version control system designed for large binary assets and scalable teams, using content-addressed storage with Merkle trees and an immutable revision chain. The project provides a core library, server, and CLI plus SDKs for multiple languages, and offers a demo-mode install via script for macOS/Linux or Windows."
+    },
+    {
+      "url": "https://siliconangle.com/2026/06/27/forget-agi-prize-enterprise-agi/?utm_source=tldrit",
+      "title": "Forget AGI - the real prize is enterprise AGI",
+      "summary": "The real enterprise AI opportunity is turning a company's proprietary data, workflows, policies, and institutional knowledge into a governed intelligence layer for agents."
+    },
+    {
+      "url": "https://signoz.io/blog/introducing-noz-your-ai-teammate-in-signoz/?utm_source=tldrit",
+      "title": "Meet Noz, your AI teammate inside SigNoz",
+      "summary": "Noz answers questions using a team's telemetry and documentation, and helps create alerts and dashboards to speed up workflows in SigNoz."
+    }
+  ]
+}
