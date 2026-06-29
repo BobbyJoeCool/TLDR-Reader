@@ -1,0 +1,53 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-06-29",
+  "articleCount": 9,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mashable.com/life/twitch-ceo-dan-clancy-vidcon-2026?utm_source=tldrmarketing",
+      "title": "Twitch's CEO says passive scrolling can't beat the community of live streaming",
+      "summary": "Twitch builds stronger creator loyalty by treating live streaming as a community experience instead of an endless content feed. It encourages creators to use short form video on other platforms for discovery and live streams on Twitch to build deeper audience relationships and revenue. It avoids aggressive recommendations because constant content suggestions pull viewers away from creators, but it is adding a Recaps feature that lets creators share clips from recent streams to improve discovery. Twitch also sees more creators beyond gaming, and its CEO said about 70% of actors and musicians he meets have considered creating content on the platform."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/27/amazon-prime-day.html?utm_source=tldrmarketing",
+      "title": "Amazon Prime Day offers a glimpse into the US consumer as shoppers navigate with pinched wallets",
+      "summary": "Prime Day data points to a cautious US consumer who's still spending, but only when discounts and timing align. Total online spend hit $26.4B, up 9.3% year over year, driven by heavier promotions and shoppers trading up into electronics, appliances, and essentials they already planned to buy. Tax refunds and back-to-school prep added short-term demand, but most behavior reflects budget stretching rather than new spending power. Discounts stayed roughly flat versus last year, yet shoppers still waited for deals and kept basket sizes smaller."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/ruben-llorach_how-to-build-a-creative-engine-ugcPost-7475802612123230208-QiUA/?utm_source=tldrmarketing",
+      "title": "Content calendar vs. Creative engine",
+      "summary": "Most teams rely on a content calendar that just tells them what to post. A creative engine goes further and connects content to strategy through 3 things: a specific audience, a clear point of view, and content that consistently reflects both. It starts by defining who it's really for, not a broad category but a specific person with a specific problem. Then it locks in a point of view, the belief that shows up before any product pitch. Finally, it checks whether every piece of content actually reflects that perspective instead of sounding like every other brand in the space."
+    },
+    {
+      "url": "https://newsletter.mkt1.co/p/billboard-drive-by-2?utm_source=tldrmarketing",
+      "title": "How to make highway-worthy billboard creative",
+      "summary": "Strong billboard creative matches the message to audience awareness instead of trying to say everything at once. Start by helping the right audience recognize the ad, then communicate one clear idea in 6-8 words that explains the problem, the product, or the differentiation based on how familiar people are with the brand. Design for speed by using large text, high contrast, a readable logo, and visuals that support a single concept because most people only have 3-6 secs to process the ad."
+    },
+    {
+      "url": "https://searchengineland.com/content-audit-workflows-claude-481099?utm_source=tldrmarketing",
+      "title": "6 content audit workflows to build in Claude",
+      "summary": "Content audits don't need to start as big systems. Start with a single article, run an audit, then turn it into a reusable Claude skill and refine it each time you use it. In Claude, one page becomes the entry point for workflows that improve over time through iteration. Key workflows include brand voice checks built from real writing samples, coverage comparisons against top-ranking pages, freshness audits that flag outdated or time-sensitive claims, and AEO checks that ensure answers appear early and are easy for AI systems to extract and quote. At the library level, performance triage surfaces underperforming pages and topical gap analysis maps missing coverage across key entities."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/chris-long-marketing_seo-tip-ahrefs-crawled-pages-report-helps-share-7473343605060009986-DDrk/?utm_source=tldrmarketing",
+      "title": "Use the Ahrefs \"Crawled Pages\" report to spy on your competitor's content strategy",
+      "summary": "Ahrefs' Crawled Pages report lets you see what competitors are publishing in near real time, even content that isn't surfaced on their blog or hubs. Filter for 200 status pages and sort by “First seen” to surface newly discovered URLs. It's a quick way to reverse-engineer content strategy and spot what topics competitors are actively pushing."
+    },
+    {
+      "url": "https://www.elenaverna.com/p/the-ai-era-requires-a-different-kind?utm_source=tldrmarketing",
+      "title": "The AI era requires a different kind of experimentation",
+      "summary": "Experimentation is shifting away from small UI tweaks toward bigger, system-level bets. AI removes much of the need for manual personalization and surface optimization, while faster product cycles make incremental gains short-lived. Monetization and engagement become the highest-leverage areas to test, not quick conversion lifts. Tests need to run longer to capture downstream impact across the product. Minor changes can be handled by AI or skipped using proven defaults, freeing teams to focus on deeper product and pricing changes that drive real growth."
+    },
+    {
+      "url": "https://conversion-rate-experts.com/if-i-bought-a-car-copywriting-friday/?utm_source=tldrmarketing",
+      "title": "Copywriting Friday: If I bought a car",
+      "summary": "Good ads cut skepticism by sounding like advice, admitting tradeoffs, proving it with specifics, and ending on trust over price."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/gabriellazutrau_tbt-ugcPost-7476747911301595136-FDDK/?utm_source=tldrmarketing",
+      "title": "Don't let your content die after a single use",
+      "summary": "Reposting high-performing evergreen content can drive fast growth because it extends the life of proven posts."
+    }
+  ]
+}

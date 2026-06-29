@@ -27,12 +27,12 @@
       "file": "tldr-infosec.json"
     },
     {
-      "name": "TLDR Founders",
-      "file": "tldr-founders.json"
-    },
-    {
       "name": "TLDR Design",
       "file": "tldr-design.json"
+    },
+    {
+      "name": "TLDR Marketing",
+      "file": "tldr-marketing.json"
     },
     {
       "name": "TLDR Crypto",
