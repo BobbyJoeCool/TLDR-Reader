@@ -4,14 +4,22 @@
  * Extracts article data from a raw TLDR newsletter HTML page using Cheerio
  * (a server-side jQuery-like DOM traversal library).
  *
- * TLDR page structure (relevant portion):
+ * TLDR page structure (relevant portion, current as of 2026):
+ *   <article>
+ *     <a class="font-bold" href="https://...">
+ *       <h3>Article Title (4 minute read)</h3>
+ *     </a>
+ *     <div class="newsletter-html">One-paragraph summary of the article.</div>
+ *   </article>
+ *
+ * Previous structure (pre-2026, kept for reference):
  *   <h3>
  *     <a href="https://...">Article Title (4 minute read)</a>
  *   </h3>
  *   <p>One-paragraph summary of the article.</p>
  *
- * Each <h3> + following <p> pair is one article. Sponsored items also follow
- * this pattern but are identified by their heading text.
+ * Each <h3> is one article. Section headers also use <h3> but are not wrapped
+ * in an <a> tag, so they are naturally skipped.
  */
 
 import * as cheerio from "cheerio";
@@ -36,9 +44,9 @@ export interface Article {
  *
  * Scanning strategy:
  *   - Iterates every <h3> element on the page (TLDR uses <h3> for article headings).
- *   - For each heading, looks for the first <a> child that has an absolute URL.
- *   - Skips headings with no link, sponsored/hiring content, relative URLs,
- *     or where the cleaned title or following summary paragraph is empty.
+ *   - Each article <h3> is a child of an <a> tag (section headers are plain <h3>s
+ *     with no parent <a>, so they are naturally skipped).
+ *   - The summary is in a sibling <div class="newsletter-html"> of the parent <a>.
  *
  * @param html - Raw HTML string returned by `fetchIssue`.
  * @returns Array of parsed articles, or `null` if zero articles survived filtering.
@@ -53,17 +61,40 @@ export function parseIssue(html: string): Article[] | null {
   $("h3").each((_, el) => {
     const h3 = $(el);
 
-    // Grab the first anchor inside this heading. TLDR wraps the article title
-    // in a single <a>; if there's no link, it's a section header, not an article.
-    const a = h3.find("a").first();
-    if (!a.length) return; // skip — no link found
+    // Support two HTML structures TLDR has used:
+    //
+    // Current (2026+): <a href="..."><h3>Title</h3></a>
+    //                  <div class="newsletter-html">Summary</div>
+    //   — The <h3> is a child of the <a>; summary is in a sibling div.
+    //
+    // Legacy (pre-2026): <h3><a href="...">Title</a></h3>
+    //                    <p>Summary</p>
+    //   — The <a> is a child of the <h3>; summary is in the next sibling <p>.
 
-    // Check the full heading text (including any surrounding spans) against the
-    // sponsored/hiring blocklist before doing any further work.
+    let href: string;
+    let titleSource: import("cheerio").Cheerio<import("cheerio").Element>;
+    let summary: string;
+
+    const parentA = h3.parent("a");
+    const childA = h3.find("a").first();
+
+    if (parentA.length) {
+      // Current structure: <a href="..."><h3>...</h3></a>
+      href = parentA.attr("href") ?? "";
+      titleSource = h3;
+      summary = parentA.next("div.newsletter-html").text().trim();
+    } else if (childA.length) {
+      // Legacy structure: <h3><a href="...">...</a></h3>
+      href = childA.attr("href") ?? "";
+      titleSource = childA;
+      summary = h3.next("p").text().trim();
+    } else {
+      return; // skip — no link found (section header or other element)
+    }
+
+    // Check heading text against the sponsored/hiring blocklist.
     const titleText = h3.text().trim();
     if (isSponsored(titleText)) return; // skip — promotional content
-
-    const href = a.attr("href") ?? "";
 
     // Reject relative paths and anchor-only links (e.g. "#section").
     // All real article URLs start with "http".
@@ -81,15 +112,9 @@ export function parseIssue(html: string): Article[] | null {
     //   $            — must appear at the very end of the string
     //   /i           — case-insensitive (handles "Minute Read", etc.)
     // Example: "Why Rust Is Taking Over Systems (4 minute read)" → "Why Rust Is Taking Over Systems"
-    const title = a.text().replace(/\s*\(\d+\s+minute\s+read\)\s*$/i, "").trim();
+    const title = titleSource.text().replace(/\s*\(\d+\s+minute\s+read\)\s*$/i, "").trim();
 
-    // The summary is the <p> element that immediately follows the <h3> in the DOM.
-    // Cheerio's .next("p") returns only the directly adjacent sibling paragraph,
-    // not any paragraph further down the page.
-    const summary = h3.next("p").text().trim();
-
-    // Skip articles where either field is empty after trimming — this guards
-    // against malformed entries and section dividers that have no body text.
+    // Skip articles where either field is empty after trimming.
     if (!title || !summary) return;
 
     articles.push({ url: href, title, summary });
