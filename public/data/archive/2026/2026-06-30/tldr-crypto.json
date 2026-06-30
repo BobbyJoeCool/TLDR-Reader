@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-06-30",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=tldrcrypto",
+      "title": "Galaxy cuts CLARITY Act passage odds to 50%",
+      "summary": "Galaxy Research lowered its estimate of the CLARITY Act passing in 2026 to 50-50, down from 60% three weeks ago, citing a shrinking Senate floor calendar, no unified Banking-Agriculture committee text, no scheduled vote, and no public commitment from leadership to carve out floor time. The path could improve if committees agree on a merged text and leadership commits to July action, but competing legislative priorities, including a SAVE Act standoff, are squeezing the remaining window."
+    },
+    {
+      "url": "https://cointelegraph.com/markets/btc-price-rsi-prints-key-2026-signal-five-things-to-know-in-bitcoin-this-week?utm_source=tldrcrypto",
+      "title": "Five Things to Know in Bitcoin This Week",
+      "summary": "Bitcoin closed June below $59,500, posting a 19% monthly loss, its worst since 2022's bear market, as $60,000 shifts from support to resistance. RSI bullish divergences are forming across multiple timeframes alongside potential double bottom structures on four-hour charts, patterns that preceded major trend reversals including the 2022 cycle bottom. CryptoQuant's UTXO Block P/L Count Ratio reached 5.9, matching 2022 bear market lows, signaling widespread realized losses and what analysts characterize as Bitcoin's first meaningful bottoming phase of the current bear cycle. Macro catalysts including Q2 nonfarm payrolls and manufacturing PMI data close the quarter, while historical seasonality shows July has reversed June weakness in all but three instances since 2013."
+    },
+    {
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-closes-250-digital-launches-franklin-crypto?utm_source=tldrcrypto",
+      "title": "Franklin Templeton Launches Franklin Crypto for Institutional Allocators",
+      "summary": "Franklin Templeton closed its acquisition of 250 Digital and used the crypto-focused investment firm as the structural foundation for Franklin Crypto, a new division serving institutional allocators through regulated digital asset vehicles. The $1.78 trillion AUM manager's existing crypto stack includes BENJI, a tokenized money-market fund on blockchain, and a proposed pair of dividend-into-bitcoin ETFs, with Franklin Crypto extending that base into custody, trading, and advisory services under one roof. The division targets institutions seeking onchain exposure through a single regulated counterparty, consolidating what many allocators currently source across fragmented platforms. The launch places Franklin alongside BlackRock and Fidelity as TradFi asset managers that have built proprietary crypto infrastructure rather than relying on third-party intermediaries for institutional distribution."
+    },
+    {
+      "url": "https://ethresear.ch/t/ethereums-fourth-protocol-layer-memory/25305?utm_source=tldrcrypto",
+      "title": "Ethereum's Fourth Protocol Layer: Memory",
+      "summary": "A proposed architectural framework reframes Ethereum as a four-layer protocol, adding a Memory Layer to the established Consensus, Execution, and Data layers, where the Memory Layer governs transaction sequencing, mempool formation, forced inclusion mechanisms, and account abstraction. The analysis attributes MEV extraction and censorship vulnerabilities to neglect of this layer, as rollup sequencers operate outside L1 accountability and give builders unilateral control over ordering and inclusion decisions. Proposed remedies include virtual sharded mempools, FOCIL (fork-choice enforced inclusion lists), based sequencing, encrypted mempools, and frame-transaction-based account abstraction to homogenize sequencer behavior across L1 and rollups. The target state is a unified sequencer abstraction that enforces censorship resistance and eliminates MEV while maintaining synchronous composability across execution shards."
+    },
+    {
+      "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html?utm_source=tldrcrypto",
+      "title": "Obfuscation: building the final boss of cryptography (Part I)",
+      "summary": "Vitalik Buterin argues that indistinguishability obfuscation (iO), hiding a program's internal logic while preserving its outputs, is cryptography's most powerful primitive, enabling a near-universal \"trustless trusted third party\" for almost any protocol when combined with a blockchain. The post walks through the full construction stack from the ground up: garbled circuits and GSW fully homomorphic encryption combine into attribute-based encryption, which feeds into succinct functional encryption, which stacks with XiO into a sub-linear compact randomized encoding, and finally recurses into the full iO scheme. Current runtimes are \"galactic\" in practice, technically polynomial but with compounding overhead across multiple layers of LWE-based cryptography that puts real-world deployment lifetimes away, and the security assumptions for XiO remain more aggressive than plain lattices. Buterin closes by drawing a parallel to where SNARKs stood in 2010 and outlines three paths forward: optimizing the current tower, building on stronger-but-aggressive lattice assumptions (e.g., diamond iO), or discovering a fundamentally different approach."
+    },
+    {
+      "url": "https://x.com/100y_eth/status/2071206028411347213?utm_source=tldrcrypto",
+      "title": "STRC Has No Reason to Trade at $100",
+      "summary": "Strategy's STRC preferred stock, trading at $75 against a $100 par value, lacks the structural mechanism a bond provides: without a maturity date, holders can recover par only through a buyback or bankruptcy. The bankruptcy floor is remote given Strategy's 11% net leverage ratio, which would require BTC to fall to around $6,600 before the leveraged position collapses, and even then, junior preferred holders stand to receive less than $100 per share given their subordinate claim. Dividend rate adjustments, the other proposed price-support mechanism, carry board discretion risk and worsen Strategy's financials if raised, while ATM issuance at current mNAV levels dilutes BTC per share and is unsustainable. At $75, STRC yields 15.3% against the original 11.5% coupon, and if the market prices in 20% as fair compensation for dividend uncertainty and bankruptcy risk, the implied price falls to $57.50."
+    },
+    {
+      "url": "https://www.theblock.co/post/406492/loopring-sunsets-dex?utm_source=tldrcrypto",
+      "title": "Loopring sunsets its DEX as TVL falls 99% from peak",
+      "summary": "Loopring has shut down its DEX, taking the relayer offline and citing chronic low adoption and an architecture that lacked a virtual machine, leaving it outpaced by newer zkEVM-compatible rollups with broader composability. TVL had decreased ~99% from a $760 million peak in November 2021 to ~$8 million, with LRC trading around $0.01 against its $3.75 all-time high. The team will publish a final balance list and return funds to users' Layer-1 addresses, covering gas."
+    },
+    {
+      "url": "https://ethresear.ch/t/the-price-of-forgery-measuring-sybil-resistance-in-dollars-a-paper/25316?utm_source=tldrcrypto",
+      "title": "The Price of Forgery: Measuring Sybil Resistance in Dollars",
+      "summary": "A new paper proposes the Price of Forgery (PoF) as a market-derived, dollar-denominated metric for Sybil resistance, arguing that expert committees and subjective assessments cannot produce objective security benchmarks for human-verification systems. The Upala Protocol operationalizes this by allowing users to voluntarily flag their own identity as Sybil in exchange for payment, creating market conditions that surface the actual cost of forging an accepted identity. Discovery happens through the Gentle Methodology, a dual auction over score and pool size that incrementally identifies the price threshold at which forgers become economically motivated to participate."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071552010953048488.html?utm_source=tldrcrypto",
+      "title": "Crypto card competition intensifies",
+      "summary": "A wave of product updates swept the crypto card space this week."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071456346139238584.html?utm_source=tldrcrypto",
+      "title": "India's USDT supply tightens as stablecoin premium surges above 8.5%",
+      "summary": "USDT supply in India has tightened sharply, pushing the local stablecoin premium from a typical 3-4% range to over 8.5%."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071281723967721794.html?utm_source=tldrcrypto",
+      "title": "Coinbase Is the Financial Account for the Intelligence Age",
+      "summary": "Brian Armstrong framed Coinbase as \"the financial account for the intelligence age,\" positioning the exchange as default financial infrastructure for AI agents and the broader AI-driven economy."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071442090014457933.html?utm_source=tldrcrypto",
+      "title": "Kiwoom Securities seeks stake in Bithumb",
+      "summary": "South Korea's Kiwoom Securities is in discussions to acquire a stake in Bithumb, the country's second-largest crypto exchange, via a third-party allotment of new shares."
+    }
+  ]
+}

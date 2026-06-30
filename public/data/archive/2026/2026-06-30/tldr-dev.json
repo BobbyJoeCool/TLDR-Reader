@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-06-30",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://orizens.com/blog/2026-06-18-zustand/?utm_source=tldrdev",
+      "title": "When React Hooks Stop Scaling: Moving Complex State to Zustand",
+      "summary": "React hooks can be efficient for managing state close to the UI, but they can become inadequate when shared state needs to be accessed and updated from multiple components or external sources. Transitioning to a dedicated state management solution like Zustand makes this shared state management easier."
+    },
+    {
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/?utm_source=tldrdev",
+      "title": "What happens when you run a CUDA kernel",
+      "summary": "This post describes the process of compiling and executing a simple CUDA program that adds two vectors, detailing the steps from code compilation with nvcc to execution on a GPU. It explains how the host CPU interfaces with the GPU, manages memory, and triggers kernel execution through mechanisms like the pushbuffer and Queue Meta Data (QMD). Additionally, it elaborates on the GPU's instruction execution model, including how warps are scheduled and how memory accesses are optimized to ensure efficient parallel computing."
+    },
+    {
+      "url": "https://www.lambrospetrou.com/articles/fokosdb/?utm_source=tldrdev",
+      "title": "FokosDB: A strongly consistent bottomless storage database ontop of Cloudflare Durable Objects",
+      "summary": "FokosDB is an experimental database built on Cloudflare Durable Objects that provides bottomless storage and strong consistency. It has scalability and performance by using a partitioning system with hash and range keys, designed to handle large amounts of data while using distributed transactions, topology encoding, and caching mechanisms to optimize request processing."
+    },
+    {
+      "url": "https://htmx.org/essays/working-with-ai/?utm_source=tldrdev",
+      "title": "Working With AI: A Concrete Example",
+      "summary": "This dev is 50/50 on AI. It's great for debugging and test creation, but also has limitations in providing good solutions without human oversight. A specific bug fix example involving the HTMX hyperscript parser shows the importance of a knowledgeable developer in guiding AI to prevent technical debt."
+    },
+    {
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/?utm_source=tldrdev",
+      "title": "Free The Icons",
+      "summary": "Apple should reinstate the use of distinct shapes for app icons in macOS to improve usability and creativity, as the current uniform squircle design makes it difficult to distinguish between applications."
+    },
+    {
+      "url": "https://nextplayso.substack.com/p/on-building-your-personal-brand?utm_source=tldrdev",
+      "title": "On building your personal brand",
+      "summary": "To build an impactful personal brand, focus on being authentic and genuinely helpful to others. Many people don't reflect deeply on their personal values and the importance of helping others, leading to a loss of integrity and effectiveness in their branding efforts in the workplace and in the dev community in general."
+    },
+    {
+      "url": "https://github.com/craft-ai-agents/craft-agents-oss?utm_source=tldrdev",
+      "title": "Craft Agents OSS (GitHub Repo)",
+      "summary": "Craft Agents help facilitate efficient agent interactions with various APIs and services. It supports various tasks including connection to external data sources, automation of workflows, and interaction with multiple AI providers."
+    },
+    {
+      "url": "https://github.com/facebook/astryx?utm_source=tldrdev",
+      "title": "Astryx (GitHub Repo)",
+      "summary": "Astryx is an open-source design system developed over eight years at Meta, powering over 13,000 applications with a library of 150+ accessible components and various themes designed for easy customization. It has an architecture with open internals, no styling lock-in, and a collaborative API that allows both humans and AI assistants to build using the same tools."
+    },
+    {
+      "url": "https://queue.acm.org/detail.cfm?id=3819084&amp;utm_source=tldrdev",
+      "title": "You Don't Know Jack About Formal Verification",
+      "summary": "The growing accessibility of AI tools improves formal verification in software development by removing the previously prohibitive costs associated with writing proofs. This shift allows developers to make sure that intricate business rules are upheld with mathematical certainty."
+    },
+    {
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/?utm_source=tldrdev",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "summary": "Qwen 3.6 27B is a local AI model that has impressive general intelligence capabilities, outperforming past local models and delivering great results in various creative and practical tasks. Its usage with tools like llama.cpp allows users to run and customize the model effectively on local devices."
+    },
+    {
+      "url": "https://www.comet.com/site/blog/claude-code-context-bloat/?utm_source=tldrdev",
+      "title": "Understanding Your Claude Code Spend: What's Actually Driving the Cost",
+      "summary": "Most of the unexpected costs with using Claude Code come from session startup overhead and accumulated configurations rather than expenses related to conversation history or model selection."
+    },
+    {
+      "url": "https://alexwlchan.net/2026/computer-room/?utm_source=tldrdev",
+      "title": "Rebuilding the computer room",
+      "summary": "The shift from desktop computers to portable devices like laptops and smartphones has increased convenience and accessibility in computing, but it has also led to constant digital distractions."
+    },
+    {
+      "url": "https://pivotal.substack.com/p/on-data-quality-1-basics?utm_source=tldrdev",
+      "title": "On Data Quality - The Fundamentals",
+      "summary": "Data quality in general is a concept dependent on use case and is best understood through a layered framework covering granular, aggregate, fitness-for-purpose, and business-outcome quality, as its value is rooted in the effectiveness of data in driving business results."
+    },
+    {
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/?utm_source=tldrdev",
+      "title": "Reclaiming Our Digital Selves: HCCF's Vision for a Human-Centered Top-Level Domain",
+      "summary": "The Human-Centered Computing Foundation is trying to create a new TLD called .self that is new top-level domain designed to support self-hosting."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-06-30",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-write-okrs-for-an-ai-product/?utm_source=tldrproduct",
+      "title": "How to write OKRs for an AI product",
+      "summary": "Measure AI success through user behavior: whether people use outputs as written, verify them less, and trust the tool with important work."
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers?utm_source=tldrproduct",
+      "title": "Claude Code turned every engineer into three. Now companies need more product thinkers",
+      "summary": "AI coding tools have shifted the software bottleneck from writing code to deciding what to build. As agents compress engineering output, teams need more product thinking and stronger fundamentals, not just more developer headcount or more trust in AI output."
+    },
+    {
+      "url": "https://evnm.substack.com/p/generative-ui-doesnt-make-sense-for?utm_source=tldrproduct",
+      "title": "Generative UI doesn't make sense for startups",
+      "summary": "Generative UI is practical only for established companies, not early-stage startups. Since startups lack evidence of customer needs to encode correct interaction components, they should wait until product-market fit is established."
+    },
+    {
+      "url": "https://hamel.dev/blog/posts/eval-smell/?utm_source=tldrproduct",
+      "title": "“It's Hard to Eval” Is a Product Smell",
+      "summary": "AI products should make their outputs easy to verify by showing their sources and breaking complex work into smaller, reviewable pieces."
+    },
+    {
+      "url": "https://www.builder.io/blog/building-without-the-handoffs?utm_source=tldrproduct",
+      "title": "Building Without the Handoffs",
+      "summary": "Builder.io helps teams ship faster by letting more people build directly with AI while keeping every change within trusted brand, security, and approval guardrails."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-427-the-bottleneck-strike-again?utm_source=tldrproduct",
+      "title": "The Bottleneck Strike Again!",
+      "summary": "AI speeds up coding, but product development doesn't have just one bottleneck. Constraints constantly shift between judgment, coordination, incentives, and learning. Due to this complexity, it is too early to say exactly how AI will reshape work, and making bold claims can often be misleading."
+    },
+    {
+      "url": "https://www.terezatizkova.com/writing/software-abundance?utm_source=tldrproduct",
+      "title": "Software is becoming marketing",
+      "summary": "As AI lowers barriers to entry, software becomes more accessible and easier for outsiders to evaluate, which compresses pay and prestige. Product markets will likely shift toward services, with mid-market SaaS vendors declining, niche utilities rising, and a few aggregators dominating through trust and distribution."
+    },
+    {
+      "url": "https://blog.fal.ai/the-operational-reality-of-marketing-inside-an-ai-company/?utm_source=tldrproduct",
+      "title": "The operational reality of marketing inside an AI company",
+      "summary": "Treat marketing and growth in AI companies as a single operational system focused on compounding product adoption, rather than separate awareness and downstream funnels. Fal uses AI selectively for practical tasks to tighten feedback loops and accelerate decision-making, rather than fully automating marketing."
+    },
+    {
+      "url": "https://x.com/bcherny/status/2071379474277613732?utm_source=tldrproduct",
+      "title": "The new product roles",
+      "summary": "As traditional functions converge, product roles may become defined by how people contribute."
+    },
+    {
+      "url": "https://x.com/mitchellh/status/2070665127331037290?utm_source=tldrproduct",
+      "title": "Defining taste",
+      "summary": "As AI makes production abundant, taste becomes the differentiator."
+    }
+  ]
+}

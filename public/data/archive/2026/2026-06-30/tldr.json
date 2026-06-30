@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-06-30",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://appleinsider.com/articles/26/06/29/a20-pro-leak-shows-how-iphone-18-pro-will-run-faster-and-cooler?utm_source=tldrnewsletter",
+      "title": "A20 Pro leak shows how iPhone 18 Pro will run faster and cooler",
+      "summary": "A supposed image of the motherboard used in the iPhone 18 Pro and Pro Max was leaked over the weekend. The new design will make the A20 a very powerful and thoroughly thermally-managed chip and help Apple save some production costs. The overall size of the chip is roughly the same as the A19 Pro's footprint. There are also memory and NPU upgrades that will improve overall bandwidth and AI performance."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959269/heres-a-photo-of-openais-codex-hardware?utm_source=tldrnewsletter",
+      "title": "OpenAI's Codex hardware",
+      "summary": "OpenAI's Codex Micro gadget is currently being displayed at the AI Engineer World Fair. A picture of the device is available in the article. The device is a keyboard designed to supercharge Codex usage. It was developed through a partnership between OpenAI and accessories company Work Louder."
+    },
+    {
+      "url": "https://www.wsj.com/business/telecom/rocket-lab-buys-satellite-operator-iridium-in-bid-to-challenge-spacex-d3a35be7?mod=tech_lead_pos1&utm_source=tldrnewsletter",
+      "title": "Rocket Lab Buys Satellite Operator Iridium in Bid to Challenge SpaceX",
+      "summary": "Rocket Lab is purchasing Iridium Communications to compete with SpaceX's satellite offerings. The deal will give Rocket Lab control over a satellite fleet and access to wireless resources. Iridium currently operates 66 satellites in low-Earth orbit. It has valuable spectrum rights to connect handsets and other devices to satellites. Rocket Lab plans to develop an upgraded fleet of satellites that will replace Iridium's current constellation."
+    },
+    {
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?utm_source=tldrnewsletter",
+      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+      "summary": "Brain2Qwerty v2 is a model capable of real-time sentence decoding from non-invasive brain recordings. The model was trained on approximately 22,000 sentences from nine volunteer participants, who each recorded for 10 hours while wearing a magnetoencephalography device and actively typing. The model achieves a word accuracy rate of 61%, which is significantly higher than the 8% word accuracy from other non-invasive methods. The full training code for v1 and v2 and the v1 dataset have been released on Hugging Face."
+    },
+    {
+      "url": "https://appleinsider.com/articles/26/06/29/apple-design-award-winner-acquired-by-apple-for-new-swift-tools?utm_source=rss",
+      "title": "Apple Design award winner acquired by Apple for new Swift tools",
+      "summary": "Apple has acquired Rabbit 3 Times, the company that made Play, a visual Swift development tool that won the Apple Design award for innovation. The acquisition appears to be aimed at asset stripping the company. Apple may be incorporating Play into its Apple Creator Studio, but for now, it appears the app is gone. Rabbit 3 Times' website has also been taken down."
+    },
+    {
+      "url": "https://hamel.dev/blog/posts/eval-smell/?utm_source=tldrnewsletter",
+      "title": "“It's Hard to Eval” Is a Product Smell",
+      "summary": "Evals thinking is aligned with good product design. Gathering sporting data and breaking down workflows into smaller units makes automated grading easier. This post covers well-established design principles through the lens of the age of AI. Verification typically happens incidentally during the process of creating work product, but with AI, verification is the bottleneck."
+    },
+    {
+      "url": "https://rohan.ga/blog/technological-involution/?utm_source=tldrnewsletter",
+      "title": "Technological Involution",
+      "summary": "It appears we are approaching the upper bound of what's possible under human conception. Technology has stagnated as capitalism is no longer putting pressure towards innovation. Companies have started treating the populace as something to be mined. People with a deep belief in their ability to just do things have the power to change this trend. If the idea you're chasing is good enough, it will spread."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html?unlocked_article_code=1.uFA.O7f9.fovYuJKNsrLY&smid=url-share&utm_source=tldrnewsletter",
+      "title": "In San Francisco, Even $180,000 Tech Salaries Are No Longer Enough",
+      "summary": "Young tech workers chasing the Silicon Valley dream have started to say that an affordable future feels increasingly out of reach. Property, utility, transportation, and grocery costs have risen significantly. A new class of AI elite has emerged that can outspend other tech workers. OpenAI's, Anthropic's, and SpaceX's IPOs combined could mint more than 20 new billionaires among current and former employees."
+    },
+    {
+      "url": "https://www.wsj.com/cfo-journal/inside-consultants-messy-shift-from-hourly-billing-7bd9b802?st=CtWuNj&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Inside Consultants' Messy Shift From Hourly Billing",
+      "summary": "The traditional model of billing for human time may no longer work as AI grows."
+    },
+    {
+      "url": "https://thenextweb.com/news/amazon-anthropic-token-pricing-openai-alternative?utm_source=tldrnewsletter",
+      "title": "Amazon seeks cheaper AI alternatives as Anthropic shifts to token-based pricing",
+      "summary": "A renegotiated contract between Amazon and Anthropic will shift Anthropic billing to per-token pricing, which could substantially increase Amazon's costs."
+    },
+    {
+      "url": "https://x.com/vipulved/status/2071404852908081211?s=12&utm_source=tldrnewsletter",
+      "title": "The Economy of Tokens",
+      "summary": "The appearance of stable interfaces is enabling specialization, independent innovation, and a modular re-organization of the AI ecosystem."
+    },
+    {
+      "url": "https://alexwlchan.net/2026/computer-room/?utm_source=tldrnewsletter",
+      "title": "Rebuilding the computer room",
+      "summary": "The computer room disappeared because we wanted more convenience, more ease, and less friction in our computing lives, but that friction isn't always a bad thing."
+    },
+    {
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/?utm_source=tldrnewsletter",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "summary": "By the standards of current frontier models, it's unremarkable, but it does the job."
+    },
+    {
+      "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/?utm_source=tldrnewsletter",
+      "title": "You might not need… a service worker",
+      "summary": "There are a few things that only a service worker can do, but they're not the best solution for most situations."
+    }
+  ]
+}

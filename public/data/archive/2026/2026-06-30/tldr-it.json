@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-06-30",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://nypost.com/2026/06/24/business/big-tech-spending-on-data-centers-balloons-to-850b-with-meta-and-microsoft-investing-tens-of-billions/?utm_source=tldrit",
+      "title": "Big Tech's AI data center commitments balloon past $850B",
+      "summary": "Major cloud and tech firms have now committed more than $850 billion in future data center lease obligations as AI infrastructure demand keeps rising. Meta and Microsoft saw especially large increases, showing how aggressively hyperscalers are locking up compute capacity."
+    },
+    {
+      "url": "https://www.businessinsider.com/enterprise-ai-spending-grows-openai-leads-rbc-reveals-2026-6?utm_source=tldrit",
+      "title": "Enterprise AI budgets are still growing, despite cost concerns",
+      "summary": "A new RBC survey found that enterprise AI spending is accelerating, with most companies treating AI budgets as new spend rather than replacing existing software budgets. OpenAI remains the most-used provider among surveyed CIOs and tech leaders."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/?utm_source=tldrit",
+      "title": "Asian AI startups launch Mythos-like models",
+      "summary": "Chinese cybersecurity firm 360 reportedly unveiled Tulongfeng, an AI tool it claims can compete with Anthropic's Mythos, alongside Yitianzhen for cyber defense and incident response. Separately, Tokyo-based Sakana AI launched its agent-capable frontier model Fugu, positioned as comparable to Anthropic's Fable 5/Mythos Preview, as the US export ban restricts non-Americans from Mythos and a related version."
+    },
+    {
+      "url": "https://www.techradar.com/pro/why-enterprise-ai-is-forcing-a-rethink-in-cost-control?utm_source=tldrit",
+      "title": "Why enterprise AI is forcing a rethink in cost control",
+      "summary": "AI usage is spreading across departments faster than many IT and finance teams can govern it. Enterprises need AI cost controls that connect usage metrics to business outcomes, not just token spend."
+    },
+    {
+      "url": "https://thegtmnewsletter.substack.com/p/ai-enterprise-sales-motion-direct-plg?utm_source=tldrit",
+      "title": "How AI-Native Companies Are Scaling on a Direct Enterprise Sales Motion",
+      "summary": "Several “AI-native” companies are scaling with a direct enterprise sales motion then closing quickly by deploying engineers into customer environments to ensure implementations succeed. Product-led growth works well for AI tools that individuals can adopt in minutes, but enterprise AI deployments require integration with CRM, billing, and compliance systems. Combining a traditional sales process with forward engineers helps vendors bridge this gap and differentiate their enterprise offerings."
+    },
+    {
+      "url": "https://softwareanalyst.substack.com/p/from-perimeter-to-proof-the-new-architecture?utm_source=tldrit",
+      "title": "From Perimeter to Proof: The New Architecture of Email Security",
+      "summary": "Email security should be treated as an identity-graph and trust problem with auditable evidence, and not just a perimeter content-filtering problem. Modern attacks are increasingly contextual and layered across workflows and collaboration platforms, and procurement now demands explainability."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images?utm_source=tldrit",
+      "title": "Amazon EC2 adds AMI watermarks for image governance",
+      "summary": "AWS introduced AMI watermarks so organizations can embed identifiers into approved private machine images. The watermark follows derived AMIs across copies, regions, and shared accounts, making provenance and governance easier to enforce."
+    },
+    {
+      "url": "https://www.okta.com/newsroom/press-releases/okta-for-ai-agents-core-brings-lifecycle-governance-to-regulated-environments/?utm_source=tldrit",
+      "title": "Okta is the first independent and neutral identity platform to bring AI agent governance to highly regulated environments",
+      "summary": "Okta has made “Okta for AI Agents – Core” generally available for FedRAMP- and HIPAA-regulated environments, positioning it as the first independent identity platform to bring AI agent lifecycle governance within federal compliance boundaries. The platform registers AI agents as first-class identities in Okta's Universal Directory, applies least-privilege access using scoped short-lived tokens, provides continuous audit logging/SIEM streaming, and includes a kill switch to contain off-mission or sensitive-data access."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub/?utm_source=tldrit",
+      "title": "AI coding tools are speeding up code, not delivery",
+      "summary": "GitLab research suggests AI is helping developers produce code faster, but review, testing, governance, and delivery workflows are becoming the new bottlenecks. Software teams need to modernize the SDLC around AI-generated code, not just adopt coding assistants."
+    },
+    {
+      "url": "https://github.com/Abloatai/ablo?utm_source=tldrit",
+      "title": "Ablo – The collaboration layer for AI agents (GitHub Repo)",
+      "summary": "Ablo is an open-source “collaboration layer” for AI agents and people working on the same database rows without clobbering each other. It introduces a claim-based workflow for slow agent operations: an agent claims a row before doing its read/think/call/write sequence, waits for contention, then re-reads fresh data so updates aren't stale."
+    },
+    {
+      "url": "https://www.agent-swarm.dev/?utm_source=tldrit",
+      "title": "agent-swarm",
+      "summary": "agent-swarm is an open-source orchestration system for building an “agent swarm” that coordinates tasks across a lead agent and multiple worker agents running in Docker containers."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing?utm_source=tldrit",
+      "title": "Google Cloud proposes Open Knowledge Format for AI-ready data sharing",
+      "summary": "Google Cloud's Open Knowledge Format is an open specification for packaging metadata, context, and curated knowledge in a way that both humans and AI systems can use."
+    }
+  ]
+}
