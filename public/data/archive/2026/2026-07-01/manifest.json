@@ -35,6 +35,10 @@
       "file": "tldr-design.json"
     },
     {
+      "name": "TLDR Marketing",
+      "file": "tldr-marketing.json"
+    },
+    {
       "name": "TLDR Crypto",
       "file": "tldr-crypto.json"
     }

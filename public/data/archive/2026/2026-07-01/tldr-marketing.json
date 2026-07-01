@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-07-01",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.thestateofbrand.com/news/everything-in-marketing-still-works-with-no-differentiation?utm_source=tldrmarketing",
+      "title": "Everything in Marketing Still Works. It Just Doesn't Differentiate You Anymore",
+      "summary": "AI flattened execution, so channels, volume, and best practices stopped signaling anything. The only moat left is craft. Taste, a sharp point of view, and the judgment to go deep on one channel instead of spreading thin. The work that drives results now is the least measurable. Brand, thought leadership, and owned media that compound over time. It's slower, harder to prove, and often looks wrong on a dashboard, but it's what actually moves buyers."
+    },
+    {
+      "url": "https://mikeshields.substack.com/p/breaking-down-retail-medias-vibe?utm_source=tldrmarketing",
+      "title": "Breaking Down Retail Media's Vibe Shift",
+      "summary": "Amazon and Walmart now control 85% of the retail media market. Walmart's $1.4B acquisition of Vibe widens that gap further. The deal mirrors Amazon's playbook of plugging first-party commerce data into a DSP and striking deals with premium streamers. Walmart has 200,000 Marketplace resellers it can immediately convert into CTV advertisers. For the 200-plus other retail media networks holding the remaining 15% between them, media planners aren't allocating budget to a third network after maxing out the top two, which makes data cooperatives or acquisition the only realistic paths forward."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/schwedelson_whats-up-this-week-one-ai-prompt-could-ugcPost-7477703921679937536-uamr/?utm_source=tldrmarketing",
+      "title": "Find what buyers ask AI",
+      "summary": "With AI Overview traffic now harder to track, stop chasing clicks and start understanding what buyers actually ask AI. This post includes a templated prompt to generate real customer questions, combine the results, and then analyze overlaps to find the most consistent themes. Those repeated questions reveal what matters most to your audience, giving you high-signal ideas for offers and campaigns."
+    },
+    {
+      "url": "https://www.growth-memo.com/p/why-proprietary-data-is-your-most?utm_source=tldrmarketing",
+      "title": "Why proprietary data is your most defensible AI citation asset",
+      "summary": "Publishing proprietary first-party data gives content a stronger chance to earn AI citations and organic visibility, but page structure often decides who gets the citation. One study found pages with 15 or more unique data points averaged an information gain score of 62.1 versus 40.2 for pages with one or fewer. Put your strongest statistic, methodology, and key findings in the first 30% of the page because 44.2% of ChatGPT citations come from that section. Build comprehensive pages that answer multiple related questions and make original data easy for AI to extract instead of hiding it in long narratives."
+    },
+    {
+      "url": "https://offers.hubspot.com/view/social-media-seo-workbook?utm_source=tldrmarketing",
+      "title": "Social Media SEO Workbook",
+      "summary": "Social content now needs to be built for discovery. This playbook shows how to do it with keyword research, search intent, content planning, and profile optimization, plus tactics like using native search data, matching formats, and leaning into engagement signals. It also includes a free downloadable social media SEO content planner."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/?utm_source=tldrmarketing",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "summary": "Google just dropped two new generative media models built for creative iteration. Nano Banana 2 Lite is its fastest and cheapest image model yet, optimized for rapid, high-volume image generation. Gemini Omni Flash brings high-quality video generation and conversational editing using text, image, and video inputs. Together, they let users quickly go from idea to image to video in one workflow. Both are available across Google AI Studio, APIs, and consumer products, with competitive pricing and a few early limitations on video length and consistency."
+    },
+    {
+      "url": "https://www.buzzstream.com/blog/ai-mentions-vs-citations-study/?utm_source=tldrmarketing",
+      "title": "How AI Mentions and Cites Your Brand",
+      "summary": "Only 23.1% of brand mentions in AI responses include a citation to the brand's domain, meaning AI covers brands at a much higher rate than it sources their content. A study of 12,000 responses across Google AI Mode, AI Overviews, Gemini, and GPT-5.4-mini found that prompt type drives the biggest gap. Single-brand queries earn a 39% mention-to-citation rate, while open-ended category queries drop to 7.2%. Missing citations tend to signal an SEO and GEO problem, since AI can't find content worthy of sourcing. Missing mentions tend to signal a PR problem, since the brand isn't present enough in third-party training data."
+    },
+    {
+      "url": "https://www.brainlabsdigital.com/bad-data-means-bad-decisions/?utm_source=tldrmarketing",
+      "title": "Bad Data Means Bad Decisions",
+      "summary": "Relying on one attribution model leads to bad marketing decisions because it cannot capture every source of revenue. One brand saw reported conversions fall after it increased video investment because first click attribution could not track view through impact. Post-click conversions fell from about 80% to 20% even though incrementality testing showed revenue increased. Compare incrementality studies, media mix modeling, and platform data instead of treating one reporting system as the source of truth."
+    },
+    {
+      "url": "https://annhandley.com/why-care-about-the-em-dash/?utm_source=tldrmarketing",
+      "title": "Why Care About The Stupid Em Dash Anyway?",
+      "summary": "Fear of looking AI-generated has created a form of reputational self-surveillance, where marketing teams are removing normal punctuation to preempt accusations that have not been made. The concern behind the trend is real as AI leans on certain marks and constructions hard enough that they start to feel like tells. The response should not be banning punctuation - it should be building a writing standard specific enough that the copy is unmistakably yours."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/queenofcrm_10-things-i-stopped-doing-in-email-marketing-share-7474869687265210369-fZln/?utm_source=tldrmarketing",
+      "title": "10 outdated email marketing habits to drop",
+      "summary": "The list includes not reporting on open rates, using double opt-in, and competing for attention in the inbox."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/dbusta_i-just-onboarded-a-new-newsletter-client-share-7477719665637638145-wuMk/?utm_source=tldrmarketing",
+      "title": "Fix your newsletter positioning first",
+      "summary": "A prompt for using AI to generate strong newsletter names based on positioning and audience."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/nekrasovdy_i-put-cac%D1%85ltv-on-this-sheet-and-i-dont-share-7477709881060343808-OfRZ/?utm_source=tldrmarketing",
+      "title": "Where two metrics meet, the diagnosis appears",
+      "summary": "Pair metrics like AOV and conversion rate to get a more accurate picture of results, compared to looking at one metric alone."
+    }
+  ]
+}

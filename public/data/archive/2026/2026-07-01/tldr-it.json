@@ -20,14 +20,14 @@
       "summary": "Microsoft has launched MAI-Code-1-Flash, its proprietary AI coding model, to general availability for GitHub Copilot Business and Copilot Enterprise subscribers. Admins must enable the relevant policy in Copilot settings. The model is designed for fast, low-latency code generation and agentic workflows, with usage-based billing aligned to Copilot pricing."
     },
     {
-      "url": "https://thenewstack.io/aws-forward-deployed-engineering/?utm_source=tldrit",
-      "title": "AWS Forward Deployed Engineering",
-      "summary": "AWS is putting $1B behind a new Forward Deployed Engineering org that embeds AWS engineers directly with enterprise customers to build agentic AI workflows and move projects from pilots to production faster. Cloud vendors are shifting from “sell the platform” to “help build the outcome” because enterprises are getting stuck on integration, governance, and last-mile deployment."
-    },
-    {
       "url": "https://handsondata.substack.com/p/ontology-everywhere?utm_source=tldrit",
       "title": "Ontology Everywhere!",
       "summary": "Ontologies have returned to the spotlight with the rise of LLMs, providing formal, shared knowledge models that support machine reasoning through standards such as OWL and RDFS. Unlike traditional data models or ERDs, ontologies enable AI systems to infer new relationships and reason over business semantics, rather than simply traversing connected data."
+    },
+    {
+      "url": "https://thenewstack.io/aws-forward-deployed-engineering/?utm_source=tldrit",
+      "title": "AWS Forward Deployed Engineering",
+      "summary": "AWS is putting $1B behind a new Forward Deployed Engineering org that embeds AWS engineers directly with enterprise customers to build agentic AI workflows and move projects from pilots to production faster. Cloud vendors are shifting from “sell the platform” to “help build the outcome” because enterprises are getting stuck on integration, governance, and last-mile deployment."
     },
     {
       "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/?utm_source=tldrit",
