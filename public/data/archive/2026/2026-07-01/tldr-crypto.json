@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-01",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=tldrcrypto",
+      "title": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000",
+      "summary": "Bitmine added over 27,000 ETH for approximately $43 million last week, lifting total holdings to 5.7 million tokens at an average cost of $1,569, representing 4.7% of the 120.7 million-token circulating supply as the company approaches its stated 5% target. The company joined the Russell 1000 on June 27, a milestone Chairman Tom Lee expects to attract hundreds or thousands of institutional investors through passive index fund mandates that hold up to 25% of constituent market caps. BMNR gained 1.7% on Monday to close at $13.80, but fell 9% over the trading week as ETH declined 8%, reflecting the stock's tight correlation to Ethereum price action. Competitors Sharplink, Forward Industries, Gemini, and Galaxy Digital were added to the Russell 3000 during the same rebalancing, though Bitmine retains its position as the largest public corporate ETH holder with $9.8 billion in total crypto and cash holdings."
+    },
+    {
+      "url": "https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework?utm_source=tldrcrypto",
+      "title": "UK sets landmark capital market abuse rules in crypto framework",
+      "summary": "The FCA finalized a sweeping crypto framework on June 30, pulling exchanges, custodians, stablecoin issuers, staking providers, and identifiable DeFi operators into a full authorization regime for the first time. This includes explicit market abuse prohibitions on insider dealing, market manipulation, and disclosure of inside information, mirroring traditional finance rules. The stablecoin capital coefficient was cut to 1% from the initially proposed 2%, authorization applications open September 30, 2026, and the regime formally takes effect October 25, 2027."
+    },
+    {
+      "url": "https://joinopenstandard.com/blog/introducing-open-usd/?utm_source=tldrcrypto",
+      "title": "Open Standard launches Open USD, backed by 140+ companies",
+      "summary": "Open Standard, an independent company led by founding CEO Zach Abrams, has announced Open USD (OUSD), a stablecoin built around three design principles: no mint or redemption fees, reserve yield shared by default with partners rather than captured by the issuer, and governance by a partner board rather than any single entity. More than 140 companies have signed on at launch spanning payments (Visa, Mastercard, Stripe, Adyen, Fiserv, and Western Union), banking (BlackRock, BNY, Standard Chartered, BBVA, DBS, Mizuho, and Sumitomo Mitsui), tech (Google, Samsung, Shopify, and DoorDash), and crypto-native firms (Coinbase, Ripple, Solana, MetaMask, and Aave. The stablecoin is expected to go live later this year."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071579878282174586.html?utm_source=tldrcrypto",
+      "title": "Ethena Integrates USDe Into BlackRock's Aladdin",
+      "summary": "Ethena announced a three-part institutional partnership with BlackRock, covering USDe integration into the Aladdin portfolio management platform, adoption of BUIDL as the primary collateral asset for Ethena's whitelabel product, and a liquidity facility supporting BlackRock's tokenized product suite. The Aladdin integration is the headline component: Aladdin serves as the operating infrastructure for institutions managing over $20 trillion in assets, meaning USDe becomes accessible to those managers through existing workflows rather than requiring separate on-chain onboarding. The BUIDL-as-collateral arrangement grounds Ethena's whitelabel offering in regulated, yield-bearing real-world assets, while simultaneously giving BlackRock's tokenization stack a DeFi distribution channel."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071536552123994203.html?utm_source=tldrcrypto",
+      "title": "How to Build a Great Crypto Consumer App in 2026",
+      "summary": "Crypto is the substrate powering new experiences, not the product's primary value proposition, with each product targeting a specific user outcome rather than offering general-purpose crypto access. Day-one users should already perform the target behavior and be willing to switch for a 10x improvement, since marginal gains fail to displace incumbents, and UX discipline must drive roadmap priorities above raw protocol capability. Category winners rarely invent new behaviors. Aave, Revolut, and BeReal each entered existing markets at a behavioral inflection point. The signal for founders is to identify where an incumbent's structural constraints create an opening that crypto can resolve. AI compresses execution speed, but idea quality stays gated by how narrowly the target user need is defined and whether its timing aligns with a behavioral shift already underway."
+    },
+    {
+      "url": "https://ethresear.ch/t/the-anatomy-of-ethereum-s-state-access/25317?utm_source=tldrcrypto",
+      "title": "The Anatomy of Ethereum's State Access",
+      "summary": "An analysis of Ethereum's execution layer through block 24,870,000 found that roughly 55% of written storage slots are created once and abandoned, confirming that state growth is driven by accumulation rather than slot recycling. On the read side, the top 1% of accounts captured 96% to 98% of all read accesses since 2022, with stablecoins, DEXs, and block builders dominating that cohort, while 83% to 93% of reads are existence checks rather than value retrievals. Within any 30-day window, only about 3% of live state qualifies as active, a threshold the researchers argue captures economic activity without excess tracking overhead. These access patterns provide empirical grounding for state-tiering proposals, showing that separating dormant from active state could curb unbounded growth without degrading performance for the accounts driving network activity."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071951725737435242.html?utm_source=tldrcrypto",
+      "title": "Open USD's real innovation is the design choices",
+      "summary": "The most significant aspects of the Open USD launch aren't the 140+ backer logos but the structural design choices: no mint/redemption fees, no arbitrary volume caps, and reserve yield going to partners by default rather than the issuer. Open Standard is a credibly neutral financial market infrastructure, structurally closer to SWIFT or early clearing houses than to any single company's product."
+    },
+    {
+      "url": "https://ethresear.ch/t/does-erc-8004-form-an-agent-to-agent-trust-network/25322?utm_source=tldrcrypto",
+      "title": "Does ERC-8004 Form an Agent-to-Agent Trust Network?",
+      "summary": "A causal inference analysis of ERC-8004 on Ethereum mainnet from January 29 to June 9 found that 95.19% of registered agents are inactive, with approximately 32,865 zombie agents attributed to concentrated batch registrations. The largest ownership cohort (251 to 1,250 agents per owner) accounts for 32.14% of all agents, indicating registry consolidation over organic adoption. EOAs dominate the feedback mechanism while agent-to-agent interactions remain scarce, producing a sparse network with minimal clustering. ERC-8004 currently functions as onchain identity and reputation infrastructure rather than a mature A2A trust network. The ecosystem remains human-driven beneath its agent framing."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071909224666276251.html?utm_source=tldrcrypto",
+      "title": "Central banks plan to boost gold and reduce dollar holdings",
+      "summary": "A net 30% of central banks now plan to raise gold allocations over the next decade, driven by rising geopolitical risk, while more central banks plan to reduce US dollar exposure and increase holdings of euro assets."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2071581575385436349.html?utm_source=tldrcrypto",
+      "title": "Crypto needs better storytelling to win the AI x crypto narrative",
+      "summary": "Crypto has lost its narrative edge at exactly the wrong moment."
+    },
+    {
+      "url": "https://www.theblock.co/post/406721/sharplink-buys-10000-eth-repurchases-2-13-million-shares-latest-buyback?utm_source=tldrcrypto",
+      "title": "SharpLink buys 10,000 ETH and repurchases 2.13 million shares",
+      "summary": "SharpLink purchased 10,000 ETH at an average of ~$1,611, bringing total holdings to 886,725 ETH, split across 632,719 native ETH, 181,299 in LsETH, and 72,707 in weETH, following a $75 million registered direct offering last week."
+    },
+    {
+      "url": "https://thedefiant.io/news/defi/pump-fun-s-pump-buybacks-top-usd400m-as-token-stays-flat?utm_source=tldrcrypto",
+      "title": "Pump.fun's PUMP Buybacks Top $400M as Token Stays Flat",
+      "summary": "Pump.fun has spent more than $400 million repurchasing its PUMP token since the Solana memecoin launchpad's mid-2025 debut, yet the token trades roughly 83% below its all-time high with little price response to the buyback activity."
+    }
+  ]
+}

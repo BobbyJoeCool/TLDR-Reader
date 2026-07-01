@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-01",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/?utm_source=tldrdev",
+      "title": "A peek into Reddit's anti-spam internals",
+      "summary": "This article is an in-depth analysis of Reddit's anti-spam mechanisms, showing how moderation tools and processes work, including the use of various algorithms like spamurai and the Perspective API. An unexpected glitch showed internal reasons for post removals, allowing insights into the criteria and methods used by Reddit to detect and eliminate spam."
+    },
+    {
+      "url": "https://blog.postman.com/how-we-really-build-production-grade-ai-agents-beyond-models-toward-data-and-api-quality/?utm_source=tldrdev",
+      "title": "How we really build production-grade AI agents: beyond models, toward data and API quality",
+      "summary": "Production-grade AI agents fail mostly from interface problems, such as underspecified APIs, ambiguous data, and missing guardrails. Teams should stop over-indexing on model intelligence and treat agents as distributed systems built on data quality, API quality, and execution quality. “Agent-ready” APIs help agent quality improve overall."
+    },
+    {
+      "url": "https://www.linkedin.com/blog/engineering/ai/qa-agent-reimagining-software-quality-with-ai-driven-autonomous-testing?utm_source=tldrdev",
+      "title": "Quality Assurance Agent: Reimagining Software Quality with AI-Driven Autonomous Testing",
+      "summary": "LinkedIn built an autonomous QA Agent using AI and vision-language models to test its apps across the huge range of UI permutations that manual and scripted testing can't keep up with. It runs a multi-model setup (planning, error detection, and a fine-tuned model that converts instructions into screen coordinates) and a hybrid “System 1/System 2” architecture: fast deterministic replay when the UI is unchanged, and slower agentic reasoning when it shifts."
+    },
+    {
+      "url": "https://ably.com/blog/measure-ai-effectiveness-teams?utm_source=tldrdev",
+      "title": "Is AI making your teams better, or just busier?",
+      "summary": "AI adoption often leads to increased tool usage without fundamentally improving team capabilities, resulting in faster completion of the same tasks rather than new achievements. Good measurement of AI impact focuses on two key performance indicators: whether AI enables outcomes that weren't previously possible and how thoroughly AI is integrated into daily workflows."
+    },
+    {
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable?utm_source=tldrdev",
+      "title": "Why Specialization Is Inevitable",
+      "summary": "Specialization is a necessary principle in AI, where systems perform best when narrowly focused on specific tasks rather than trying to be general-purpose. Mathematical and empirical evidence across optimization theory, biology, and competitive markets consistently shows that concentrated effort leads to better performance in constrained environments."
+    },
+    {
+      "url": "https://miguelcarranza.es/small-teams?utm_source=tldrdev",
+      "title": "AI shouldn't shrink headcount. It should shrink teams",
+      "summary": "AI helps smaller teams by allowing them to make decisions faster, have clearer ownership, and better visibility of progress."
+    },
+    {
+      "url": "https://expo.dev/changelog/sdk-57?utm_source=tldrdev",
+      "title": "Expo 57",
+      "summary": "Expo SDK 57 has been released, featuring an upgrade to React Native 0.86, which is designed to be a straightforward upgrade with no breaking changes. This release aims to shift towards a new Expo SDK release cadence that allows for simpler, non-breaking updates between major releases, enhancing the experience of app developers."
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-sonnet-5?utm_source=tldrdev",
+      "title": "Introducing Claude Sonnet 5",
+      "summary": "Claude Sonnet 5 is a new AI model that improves agentic capabilities, allowing it to autonomously perform tasks such as coding and browsing, while offering better performance and safety compared to its predecessor, Sonnet 4.6."
+    },
+    {
+      "url": "https://github.github.com/gh-stack/?utm_source=tldrdev",
+      "title": "GitHub Stacked PRs (Website)",
+      "summary": "Stacked PRs allows users to break large changes into smaller, manageable pull requests that build upon each other. With both GitHub UI and a powerful CLI, this feature allows for seamless navigation, status checks, and cascading rebases across multiple PRs."
+    },
+    {
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser?utm_source=tldrdev",
+      "title": "I ported Kubernetes to the browser",
+      "summary": "A new project called webernetes has been developed as a partial port of Kubernetes to TypeScript, allowing users to run Kubernetes clusters directly in their browsers. The implementation includes features such as pod lifecycles, deployment tracking, and a simulated networking environment."
+    },
+    {
+      "url": "https://securityaffairs.com/194476/security/apple-fixes-webkit-flaws-in-ios-and-macos-with-help-from-ai-tools.html?utm_source=tldrdev",
+      "title": "Apple Fixes WebKit Flaws in iOS and macOS, With Help From AI Tools",
+      "summary": "Apple has released security updates for iOS, iPadOS, macOS, and Safari, addressing four WebKit vulnerabilities discovered with the help of AI tools. The company expedited these fixes due to the pace at which AI can convert known flaws into working exploits."
+    },
+    {
+      "url": "https://wakamoleguy.com/p/flexible-gates?utm_source=tldrdev",
+      "title": "Don't Make Gates Optional, Make Them Flexible",
+      "summary": "Implementing a required but flexible approval process allows teams to take calculated risks while maintaining speed and confidence."
+    },
+    {
+      "url": "https://blog.ploeh.dk/2026/06/29/worse-is-better/?utm_source=tldrdev",
+      "title": "Worse is better",
+      "summary": "“Worse is better” suggests that sometimes inferior technologies or practices gain popularity over seemingly better alternatives, but this is mostly because “perfect” is the enemy of good."
+    },
+    {
+      "url": "https://philipbohun.com/blog/0011.html?utm_source=tldrdev",
+      "title": "Microsoft Needs Windows Lite",
+      "summary": "Microsoft should create Windows Lite, a stripped-down version of Windows without telemetry or ads, to retain developers and gamers."
+    },
+    {
+      "url": "https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/?utm_source=tldrdev",
+      "title": "The best thing that's ever happened for multiplayer games?",
+      "summary": "Amazon GameLift Servers now offers free network bandwidth for multiplayer games hosted on its platform, reducing hosting costs for indie developers and smaller teams."
+    }
+  ]
+}

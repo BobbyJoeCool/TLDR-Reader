@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-07-01",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo?utm_source=tldrnewsletter",
+      "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
+      "summary": "Anthropic's newly released AI model Claude Sonnet 5 delivers near flagship performance at mid-tier prices. The model is aimed at giving cost-conscious enterprise developers access to powerful agent capabilities at lower costs. Sonnet 5 is now the default model for users on Free and Pro plans. API pricing is set at $2 per million input tokens and $10 per million output tokens until August 31, after which prices will rise to $3 and $15, respectively."
+    },
+    {
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks?utm_source=tldrnewsletter",
+      "title": "Meta considered buying Kalshi before developing its own prediction market app",
+      "summary": "Mark Zuckerberg met with Kalshi CEO Tarek Mansour about a possible takeover last year, but the negotiations never advanced. It is unclear why the talks broke down, but some say Mansour would not move forward with a sale and that Meta was concerned about the legal and ethical questions surrounding the business. Meta appears to still want to tap into the prediction market craze. Prediction markets have become one of the fastest-growing parts of the tech industry in recent years."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/?utm_source=tldrnewsletter",
+      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+      "summary": "Realta Fusion has successfully powered a lightbulb using electricity harvested directly from its demonstration fusion device. The company plans to use direct electricity conversion to heat the plasma in its reactor. The process is estimated to be 90% efficient. Helion, a startup backed by Sam Altman, is also planning to deploy direct energy conversion technology in its reactor, though it has yet to demonstrate that publicly."
+    },
+    {
+      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells?utm_source=tldrnewsletter",
+      "title": "The first early human eggs from stem cells",
+      "summary": "Conception, a stem cell technology company, has successfully generated the first early human egg cells derived from stem cells. The company converted blood cells into stem cells and then coaxed those stem cells into becoming miniature human ovaries, which grew early eggs. The next step in the research involves growing the stem cell-derived eggs to a point where an IVF physician could collect them surgically."
+    },
+    {
+      "url": "https://github.com/google/copybara?utm_source=tldrnewsletter",
+      "title": "Copybara (GitHub Repo)",
+      "summary": "Copybara is a tool for transforming and moving code between repositories. One common use case is for projects that require maintaining a confidential repository and a public repository in sync. The tool allows contributions to any repository, but one repository must be selected as the authoritative repository so that there's always one source of truth. Copybara is stateless, which allows several users to use it for the same config/repositories and get the same result."
+    },
+    {
+      "url": "https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html?utm_source=tldrnewsletter",
+      "title": "Local Reasoning for Global Properties",
+      "summary": "AI often generates high-quality local chunks of code, but it struggles when asked to generate code that requires a global understanding of the program. This problem could be solved in the next one or two generations of models. One possible way of solving the issue is through programming language design. It is likely that a large company will attempt to solve the issue through programming language design soon, especially if model advancements don't fix it."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/anthropic-nears-deal-with-trump-administration-to-restore-access-to-fable-ai-model-6f4177f3?st=uiTjeV&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Anthropic Reaches Deal With Trump Administration to Restore Access to Fable AI Model",
+      "summary": "Anthropic has agreed to address the workarounds that researchers at Amazon used to evade the safeguards for Fable. Access to the model will begin to be restored today. The agreement is expected to involve the Center for AI Standards and Innovation, a government testing unit."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html?utm_source=tldrnewsletter",
+      "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
+      "summary": "Amazon is investing $1 billion into a new Forward Deployed Engineering unit that will help customers build and roll out AI systems. Forward-deployed engineers are employees who are embedded directly within another business to accelerate a technical transformation. The term was coined by Palantir more than a decade ago, but it has recently seen a resurgence in the AI era. Other leading model developers, including OpenAI and Anthropic, also have their own FDE units."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/?utm_source=tldrnewsletter",
+      "title": "Nano Banana 2 Lite",
+      "summary": "A 'Where's Waldo' style image generated by Nano Banana 2 Lite, the fastest and cheapest Gemini image model."
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots?utm_source=tldrnewsletter",
+      "title": "The twilight of the chatbots",
+      "summary": "Work is increasingly about assigning work to agents rather than working together with chatbots."
+    },
+    {
+      "url": "https://github.com/typedef-ai/fenic?utm_source=tldrnewsletter",
+      "title": "fenic (GitHub Repo)",
+      "summary": "fenic is a DataFrame query engine for semantic data processing that turns AI-assisted exploration of structured and unstructured data into reusable and inspectable DataFrame pipelines."
+    },
+    {
+      "url": "https://thenextweb.com/news/tesla-cybercab-no-steering-wheel-pedals-austin-testing?utm_source=tldrnewsletter",
+      "title": "Tesla starts testing its production Cybercab without steering wheel or pedals in Austin",
+      "summary": "Tesla is targeting a retail price of under $30,000 per Cybercab with a long-term production goal of two million units per year."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/?utm_source=tldrnewsletter",
+      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+      "summary": "Many apps appear to be moving to Klipy, a GIF service created by one of Tenor's founders."
+    },
+    {
+      "url": "https://x.com/vijaypande/status/2071943432709558343?utm_source=tldrnewsletter",
+      "title": "Let It Crash: How to Steer What Comes After",
+      "summary": "Let it crash, just don't be empty-handed when it does."
+    }
+  ]
+}
