@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-07-02",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.forbes.com/sites/iansayson/2026/06/29/fintech-unicorn-gcash-to-raise-15-billion-in-what-could-be-the-philippines-biggest-ipo/?utm_source=tldrfintech",
+      "title": "Fintech unicorn GCash to raise $1.5B in potential Philippines record IPO",
+      "summary": "Mynt, the operator of Philippine e-wallet GCash, is seeking to raise up to $1.5 billion in what could become the country's largest-ever IPO. The listing would value Mynt at about $10.9 billion, reflecting GCash's scale with 90 million registered users, 40 million monthly active users, and rapid growth across payments, lending, and digital financial services."
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/uk-dilutes-stablecoin-capital-requirement-final-crypto-rulebook-2026-06-29/?utm_source=tldrfintech",
+      "title": "UK dilutes stablecoin capital requirement in final crypto rulebook",
+      "summary": "The UK's Financial Conduct Authority reduced its proposed stablecoin issuer capital requirement from 2% to 1% of outstanding issuance after industry pushback, as part of its final rulebook bringing crypto fully under FCA supervision. The move reflects the UK's attempt to balance consumer protection with global competitiveness, though even the lower requirement may remain burdensome versus potentially lighter US stablecoin rules."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/world-cup-chargebacks-coming/823962/?utm_source=tldrfintech",
+      "title": "World Cup chargebacks coming",
+      "summary": "Payments security firms expect a wave of World Cup-related chargebacks as fraudsters exploit surging demand for tickets, travel, merchandise, streaming, and hospitality purchases. AI is making fake websites, phishing campaigns, spoofed domains, and counterfeit offers harder to detect, creating risk for both merchants facing chargebacks and legitimate fans facing false declines."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/prediction-markets-a-messy-path-to-mainstream?utm_source=tldrfintech",
+      "title": "Prediction markets: A messy path to mainstream",
+      "summary": "Prediction markets are moving toward mainstream consumer attention. The path is messy, as Polymarket faces deceptive advertising allegations, Meta is exploring a prediction markets app, and the CFTC is clashing with states over jurisdiction."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/visa-stripe-among-firms-joining-forces-on-mainstream-stablecoin?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjgzNDE2MiwiZXhwIjoxNzgzNDM4OTYyLCJhcnRpY2xlSWQiOiJUSEZCR0tUOU5KTFcwMCIsImJjb25uZWN0SWQiOiJBODlERUQ0MjI1Qjk0Q0I4QkJBRUE0ODAwRTE5Mjk4NiJ9.Bmyhkba3MXBXzshzwOj5FCrJVwQVwpG74OFpb0dKBmg&utm_source=tldrfintech",
+      "title": "Visa, Stripe among firms joining forces on mainstream stablecoin",
+      "summary": "Visa, Stripe, BNY, BlackRock, Coinbase, Chime, Klarna, Alphabet, and more than 100 other firms are backing Open Standard, a new venture that will issue a dollar-backed stablecoin called Open USD. The effort aims to create a shared stablecoin infrastructure with neutral governance and partner-aligned economics, challenging the dominance of Tether and Circle by distributing reserve yield among participating firms while integrating the token across major payment, banking, and fintech platforms."
+    },
+    {
+      "url": "https://www.bankingdive.com/news/sofi-enters-small-business-loan-market/824234/?utm_source=tldrfintech",
+      "title": "SoFi enters small-business loan market",
+      "summary": "SoFi is expanding beyond consumer lending by launching small business loans, giving existing members access to financing from $2,500 to $250,000 with no application, origination, or prepayment fees. The move builds on SoFi's strategy of becoming a broader financial platform, following recent launches in crypto trading and stablecoin infrastructure, while tapping into strong demand from small businesses facing ongoing challenges accessing affordable capital."
+    },
+    {
+      "url": "https://fintech.global/2026/06/29/summit-partners-backs-quantifind-in-200m-growth-round/?utm_source=tldrfintech",
+      "title": "Summit Partners backs Quantifind in $200M growth round",
+      "summary": "Quantifind raised $200 million in growth funding led by Summit Partners to expand its AI-native risk intelligence platform across Europe, Asia-Pacific, and the Americas. The company will also invest in Graphyte Agentic Middleware, an orchestration layer for financial crime workflows that uses explainable AI, entity resolution, and relationship intelligence to reduce false positives in AML, KYC, and sanctions screening while preserving auditability and human oversight."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/google-ventures-backs-fintech-started-by-former-axiom-space-ceo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjc5NDkxNiwiZXhwIjoxNzgzMzk5NzE2LCJhcnRpY2xlSWQiOiJUSDVBUk9LSzNOWTgwMCIsImJjb25uZWN0SWQiOiJBODlERUQ0MjI1Qjk0Q0I4QkJBRUE0ODAwRTE5Mjk4NiJ9.cJ_NbFIn0zQ8Hr7DPBr9sGgMOQdaOVFEYjpuMRn8QAQ&utm_source=tldrfintech",
+      "title": "Alphabet's GV backs fintech that aims to fuel space industry",
+      "summary": "Alphabet's GV led a $30 million seed round for Nebex, a space-focused fintech startup founded by former Axiom Space CEO Tejpaul Bhatia. Nebex aims to connect US space companies, foreign governments, and institutional investors through an online marketplace for large cross-border space transactions, helping navigate the financing and coordination challenges created by export controls, procurement rules, tariffs, and national security restrictions."
+    },
+    {
+      "url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/?utm_source=tldrfintech",
+      "title": "Swedish court orders Google to pay $1.5 billion to Klarna in antitrust damages",
+      "summary": "The ruling stems from claims that Google unfairly prioritized its own shopping comparison service in search results, reducing traffic and profits for rival platforms across multiple European markets."
+    },
+    {
+      "url": "https://www.morningstar.com/news/business-wire/20260701008087/fico-applauds-release-of-historical-fico-score-10t-data-by-fannie-mattie-mac?utm_source=tldrfintech",
+      "title": "FICO applauds release of historical FICO score 10T data by Fannie Mae and Freddie Mac",
+      "summary": "More than 12 years of loan level mortgage performance data is now available, giving lenders and investors the ability to independently evaluate how FICO Score 10T performs using real world mortgage outcomes."
+    }
+  ]
+}

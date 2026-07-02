@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-02",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/406766/europes-mica-crypto-regime-is-fully-in-force-heres-who-wins-and-loses?utm_source=tldrcrypto",
+      "title": "Europe's MiCA crypto regime is fully in force",
+      "summary": "MiCA's transitional period closed July 1, pulling all 27 EU member states into a single crypto authorization regime with no extensions. Of more than 1,200 previously registered EU crypto businesses, roughly 80% failed to transition, leaving about 200 authorized firms, with around 14 centralized exchanges holding licenses led by Binance (France), Kraken and Coinbase (Ireland), Bitstamp (Luxembourg), and OKX (Malta). The most notable loser is Tether's USDT, which never sought e-money token authorization under MiCA and has since been delisted by major exchanges for EU users."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072187053421531475.html?utm_source=tldrcrypto",
+      "title": "Circle removed from multiple Russell Growth indexes",
+      "summary": "Circle was removed from the Russell 1000 Growth, Russell 3000 Growth, and Russell Midcap Growth indexes during the June 26 annual reconstitution, a move that risks prompting passive funds tracking those benchmarks to reduce their holdings. Shares had already fallen 32.8% in the prior 30 days and dropped another 16.55% to $62 on July 1. The most recent decline was directly linked to the Open USD announcement, which positioned a 140-company stablecoin consortium as a direct competitor to USDC."
+    },
+    {
+      "url": "https://blog.cloudflare.com/monetization-gateway/?utm_source=tldrcrypto",
+      "title": "Cloudflare announces Monetization Gateway",
+      "summary": "Cloudflare's Monetization Gateway is a product that lets any Cloudflare customer charge for any resource behind its network (e.g., web pages, datasets, APIs, and MCP tool calls) via the x402 protocol, with payments settling in stablecoins in under a second at fractions of a cent. AI agents now request content 100 to 10,000 times per visitor they actually send back, which breaks the advertising and subscription model since agents don't look at ads or hold monthly plans, making per-call stablecoin micropayments the only economically viable alternative. Payment verification and enforcement happen at the edge rather than at the origin, meaning sellers write a rule specifying price and conditions (per-route charges, variable pricing by compute, or intercepting 401 responses) and any agent caller pays without needing a prior account, API key, or signup. The payment itself is the credential. The waitlist is open now for Cloudflare customers."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072391688564191320.html?utm_source=tldrcrypto",
+      "title": "Robinhood Chain Mainnet Goes Live With Stock Tokens",
+      "summary": "Robinhood Chain is an Ethereum Layer 2 built on Arbitrum, to public mainnet, bundling stock tokens, perpetual futures, and DeFi lending into a single platform targeting retail users across 38 countries. Stock tokens are available in 120+ countries outside the US, Canada, UK, Switzerland, and UAE, structured as tokenized debt securities backed 1:1 by Robinhood as a regulated broker-dealer and usable as collateral in DeFi lending pools via Uniswap and partner protocols. Robinhood Earn gives eligible US users access to ~7% APY on USDG lending through Morpho, with coverage from Lloyd's of London and RELM against smart-contract exploits. The structure lets retail users borrow against stock exposure through DeFi the same way wealthy investors have long accessed margin, while US regulatory uncertainty persists after Tenev submitted a 42-page SEC proposal for a tokenized-equity framework that has not produced a rulebook."
+    },
+    {
+      "url": "https://ethresear.ch/t/rethinking-collaborative-trust-for-verifiably-decentralized-blockchain-systems/25332?utm_source=tldrcrypto",
+      "title": "Rethinking Collaborative Trust for Verifiably Decentralized Blockchain Systems",
+      "summary": "Blockchain ossification, where nodes form static coalitions to maximize returns, mirrors mining pool dynamics and represents the primary driver of centralization even in systems with distributed resource allocation. The proposed remedy is an incentive layer built on asymmetric Shapley values with DAG-based weighting, rewarding nodes for collaborating with diverse partners over time while penalizing recurring coalitions. The mechanism is Sybil-resistant by construction: a party splitting into pseudonymous identities cannot manufacture collaboration credit because the DAG weighting detects self-collaboration. Efficiency-dependent services may require the ossification this mechanism suppresses, so the framework suits trust-sensitive and creativity-dependent applications rather than high-throughput workloads favoring consolidated architectures."
+    },
+    {
+      "url": "https://ethresear.ch/t/is-the-slot-0-reorg-cost-fixable-epbs-attestation-deadline-study/25338?utm_source=tldrcrypto",
+      "title": "Is the Slot-0 Reorg Cost Fixable?",
+      "summary": "Twenty-one months of Ethereum mainnet data show slot-0 blocks orphaned at 1.17% versus 0.16% for other slots, with the slot-0 rate tripling from 0.58% in H2 2024 to 1.73% in H1 2026 while baseline rates held flat. The driver is relay bid misses at epoch transitions that force local block construction at the network's peak load moment, producing propagation delays: orphaned slot-0 blocks reach median first-sighting at 4.4s versus 2.1s for survivors, and 62% of orphaned blocks were locally-built compared to just 11% of survivors. Upbit exchange alone accounts for roughly 18% of all slot-0 orphans and orphans 31% of its own slot-0 blocks, making concentrated operator behavior a primary variable rather than a protocol-level constant. Researchers recommend setting Glamsterdam's attestation deadline at 3s over 2s (84% of slot-0 survivors clear 3s versus 61% at 2s), pairing that with maximum-blob limits for local builder fallbacks and targeted remediation of upbit's build practices, classifying slot-0 orphaning as solvable production engineering rather than a structural floor."
+    },
+    {
+      "url": "https://cointelegraph.com/news/crypto-companies-spent-2026-us-election-cycle-public-citizen?utm_source=tldrcrypto",
+      "title": "Crypto Companies Have Spent $189M on the 2026 US Election Cycle",
+      "summary": "Crypto companies have contributed $189 million toward the 2026 US election cycle through June 30, accounting for about 37% of all corporate contributions and already exceeding the $170 million the industry deployed across the entire 2024 cycle. Fairshake PAC, backed by Coinbase and Ripple, leads spending at $82 million, while MAGA Inc. Super PAC, backed by Crypto.com, has spent $56 million, with newer entrants Fellowship PAC (Cantor Fitzgerald) and You Can Push Back (Ripple co-founder Chris Larsen) also active in targeted races. Per Public Citizen, these PACs operate across both Democratic and Republican contests, prioritizing the business interests of their backers over party alignment. Despite the spending, a crypto-backed candidate in New York's 12th Congressional District primary lost to Micah Lasher, who had criticized Ripple founder involvement in the race."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072321179483021560.html?utm_source=tldrcrypto",
+      "title": "Robotics is crypto's most obvious blind spot",
+      "summary": "Robotics, now the second-largest private markets investment category at $263B, with $16B deployed across ~500 deals in Q1 alone, is almost entirely absent from crypto's narrative, despite being the category most structurally dependent on crypto rails. Robots can't open bank accounts, hold legal identities, or transact through ACH, and crypto is the only stack ever built for non-human actors. Crypto is permissionless machine identity, programmable machine-to-machine payments, machine-readable ownership, and autonomous coordination. The emerging category can be mappeed by stack layer: Virtuals (agent coordination), GEODNET (positioning), Fabric (machine identity and payments), IoTeX (telemetry), Auki/Posemesh (spatial awareness), xMAQUINA (fractional machine ownership), Strike (sim-to-real training), Caspius (embodied AI training data), and Roba (no-code robotics tooling)."
+    },
+    {
+      "url": "https://www.theblock.co/post/406888/bullish-on-morpho-standard-chartered-sees-token-at-60-by-2030-outperforming-bitcoin-ether?utm_source=tldrcrypto",
+      "title": "Standard Chartered initiates Morpho coverage at $60 by 2030",
+      "summary": "Standard Chartered initiated coverage of Morpho with a $60 end-2030 price target, roughly 33x upside from its current ~$2.13, projecting it would outperform both bitcoin and ether over the period as DeFi lending infrastructure scales alongside tokenization growth."
+    },
+    {
+      "url": "https://x.com/world_xyz/status/2072306098837635377?utm_source=tldrcrypto",
+      "title": "World launches as Solana's native onchain prediction market",
+      "summary": "World is a fully onchain, self-custodial prediction market on Solana, accessible directly inside Phantom wallet without a separate download."
+    },
+    {
+      "url": "https://www.theblock.co/post/406862/symbiotic-officially-pivots-to-collateral-markets-with-core-v2-launch?utm_source=tldrcrypto",
+      "title": "Symbiotic officially pivots to collateral markets with Core v2 launch",
+      "summary": "Symbiotic Core v2 is formalizing a pivot from shared security/restaking to a broader collateral markets infrastructure spanning insurance, credit, and tokenized asset liquidity."
+    },
+    {
+      "url": "https://www.theblock.co/post/406460/michael-saylor-signals-another-bitcoin-buy-as-strategy-sits-about-13-billion-underwater?utm_source=tldrcrypto",
+      "title": "Michael Saylor Signals Another Bitcoin Buy",
+      "summary": "Strategy's enterprise mNAV fell below 1.0 for the first time, meaning the market now prices the company below the face value of its 847,363 BTC stack as Bitcoin trades near $60,000, roughly $13 billion below Strategy's $75,646 average cost basis."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-02",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html?utm_source=tldrit",
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "summary": "A large password-spray campaign targeted Microsoft Azure CLI authentication, with more than 81 million login attempts and at least 78 compromised accounts across 64 organizations. Huntress says many affected orgs had Conditional Access enabled, making this especially relevant for cloud identity teams."
+    },
+    {
+      "url": "https://www.investors.com/news/technology/meta-stock-facebook-cloud-ai-data-center/?utm_source=tldrit",
+      "title": "Meta Reportedly Plans AI Cloud Business",
+      "summary": "Meta is reportedly exploring a cloud business that would sell access to excess AI compute and infrastructure. The move would put Meta closer to competing with hyperscalers and could pressure neocloud providers."
+    },
+    {
+      "url": "https://dev.jimgrey.net/2026/07/01/engineering-the-operating-model/?utm_source=tldrit",
+      "title": "Engineering the operating model",
+      "summary": "Engineering outcomes depend more on the operating model than on maximizing activity metrics. Teams can improve delivery by adopting clear operating principles such as frequent deployments, small batches of work, and a continuously deployable main branch, while giving developers flexibility in how they achieve those goals."
+    },
+    {
+      "url": "https://bdtechtalks.com/2026/06/30/how-the-ai-arms-race-moved-from-smart-models-to-full-stack-infrastructure/?utm_source=tldrit",
+      "title": "How the AI arms race moved from smart models to full-stack infrastructure",
+      "summary": "The AI “arms race” has shifted from competing mainly on model quality to competing across the full AI stack. Companies are moving to secure moats in multiple layers, like custom inference chips (OpenAI/Broadcom), AI-focused data center builds (Anthropic/FluidStack), supercomputer-driven infrastructure (xAI/Colossus), application UX moats (Cursor/Anysphere), and vertically integrated ecosystems (Google)."
+    },
+    {
+      "url": "https://techcentral.co.za/tcs-ibm-bob-an-ai-powered-development-partner-for-the-enterprise/283218/?utm_source=tldrit",
+      "title": "IBM Bob: an AI-powered development partner for the enterprise",
+      "summary": "IBM's new AI assistant, IBM Bob, is positioned as an AI-powered development partner for the enterprise. It focuses on helping developers work with legacy technology stacks and mainframes and on accelerating developer onboarding."
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/?utm_source=tldrit",
+      "title": "Amazon Launches New $1B FDE Org, Following OpenAI and Anthropic",
+      "summary": "AWS launched a new forward-deployed engineering organization focused on embedding engineers with customers to ship production AI systems. The move shows major AI and cloud providers are treating deployment help as a core enterprise product."
+    },
+    {
+      "url": "https://www.techradar.com/pro/how-to-future-proof-enterprise-operations-in-the-age-of-invisible-ai?utm_source=tldrit",
+      "title": "How to Future-Proof Enterprise Operations in the Age of Invisible AI",
+      "summary": "Enterprise AI success increasingly depends on clean operational foundations, observability, and governance rather than just model access. Legacy systems and hybrid environments need modernization before agentic AI can reliably scale."
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench?utm_source=tldrit",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "summary": "ScarfBench is an open benchmark for evaluating AI coding agents on cross-framework Enterprise Java migrations between Spring, Jakarta EE, and Quarkus. It measures real outcomes (successful build, deploy, and behavioral validation), revealing that compile success does not reliably translate to deploy or behavioral correctness."
+    },
+    {
+      "url": "https://www.reuters.com/world/africa/google-has-exceeded-1-billion-africa-investment-target-2026-07-01/?utm_source=tldrit",
+      "title": "Google Says It Has Exceeded Its $1B Africa Investment Target",
+      "summary": "Google says it has passed its five-year Africa investment target."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/?utm_source=tldrit",
+      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+      "summary": "Adobe has released patches for seven maximum-severity vulnerabilities affecting ColdFusion and Adobe Campaign Classic."
+    }
+  ]
+}
