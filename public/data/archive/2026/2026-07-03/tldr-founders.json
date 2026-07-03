@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-07-03",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://lex.substack.com/p/ai-tokens-are-cheaper-but-ai-bills?utm_source=tldrfounders",
+      "title": "Are AI Employees More Expensive Than Humans?",
+      "summary": "Token prices fell from $60 per million to $0.60 in three years, and AI bills still exploded. A four-person startup ran up a $113,000 monthly bill from a single provider. Uber torched its entire 2026 AI budget in four months. Consumption is the reason. An agent re-reads context and checks its own work, burning 60 to 140 times the tokens of one reply. Track cost per completed task, not per seat, and keep the model layer swappable, because cheaper tokens do not mean a cheaper bill."
+    },
+    {
+      "url": "https://insights.euclid.vc/p/why-vertical-ai-founders-are-breaking-up-with-the-model-labs-zain-jaffer-blazel?utm_source=tldrfounders",
+      "title": "Why Vertical AI Founders are Ditching Model Labs",
+      "summary": "Vertical AI founders, like Zain Jaffer of Blazel, are moving away from model labs to reduce costs, latency, and competitive risks. Blazel's pivot to developing its own AI capabilities highlights the importance of owning domain-specific data and workflow integrations for defensibility. With open-source models advancing and compute becoming cheaper, the trend suggests value will shift from general model providers to those with proprietary data and specialized applications."
+    },
+    {
+      "url": "https://dev.jimgrey.net/2026/07/01/engineering-the-operating-model/?utm_source=tldrfounders",
+      "title": "Engineering the operating model",
+      "summary": "Software architecture determines how software behaves. The engineering operating model determines how engineering behaves. Engineering organizations exist to create customer and business value through software. This means the job of engineering leadership is to maximize the value engineering teams create. Redesign the system around the work so that engineers' work matters more."
+    },
+    {
+      "url": "https://www.thevccorner.com/p/the-new-saas-playbook-ai-agent-era?utm_source=tldrfounders",
+      "title": "This Is the New SaaS Playbook",
+      "summary": "Salesforce shipped Agentforce, the fastest-growing product in its history, and scaled it to $1.2B in ARR. The stock hit a 52-week low anyway. That paradox is the whole shift. When anyone can rebuild your headline feature in a weekend, the software surface stops being a moat, and value rotates to what you can't clone, the proprietary data loops, the right to move money or push code, and being the tool an agent chooses to call. Outcome pricing seals it, turning vendors into insurers who underwrite every result instead of billing for seats. So what do you own that stays scarce once building is free?"
+    },
+    {
+      "url": "https://gist.github.com/vincentmvdm/f4ad9c8977db5ceba3dfff980daf3c4d?utm_source=tldrfounders",
+      "title": "Middle manager",
+      "summary": "This GitHub gist contains a skill that transforms AI into the middle manager for an autonomous software factory. The agent doesn't write code or implement any issues. Instead, it reads the issue tracker, creates and manages Devin coding sessions, and informs the human operator only when it needs to."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072354853821755822.html?utm_source=tldrfounders",
+      "title": "New block in Notion: HTML",
+      "summary": "Notion now lets users build interactive HTML right on their Notion pages. AI can turn content into interactive explainers, prototypes, or diagrams. The agent can take documents, sketch a flow, and build a lightweight prototype on the page. Video demos are available in the thread."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/ashmaurya_every-startup-is-a-bundle-of-assumptions-activity-7449547168451018752-lPEK?utm_source=tldrfounders",
+      "title": "Can I Build It? Is the Wrong Question Now",
+      "summary": "When anyone can build almost anything, feasibility stops being the constraint. The questions that still decide whether you have a business are the old unglamorous ones: Will they pay, can you reach them, and does the problem actually hurt? AI made building cheap and made those assumptions the whole game."
+    },
+    {
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/?utm_source=tldrfounders",
+      "title": "How to ask for help from people who don't know you",
+      "summary": "All good communication is grounded in an understanding of the receiver's mind. Help is about people before it is about projects. Make it clear that you are someone who is worth helping by demonstrating that you are a serious person through personal connection or by having institutional credibility. Never lie."
+    },
+    {
+      "url": "https://charity.wtf/2026/07/02/in-defense-of-ai-mandates-xpost/?utm_source=tldrfounders",
+      "title": "In defense of AI mandates",
+      "summary": "Not all mandates are shortsighted and dumb. A mandate is a way of putting organizational muscle behind a decision. They force people to have tough conversations about what tradeoffs to expect and what success looks like. Most big transformation projects end up needing mandates."
+    },
+    {
+      "url": "https://x.com/Collateral_com/status/2072387293587898768?utm_source=tldrfounders",
+      "title": "ElevenLabs' Seed Deck, From $2M Pre-Seed to $11B",
+      "summary": "The actual seed deck ElevenLabs raised on, back when it was a $2M pre-seed and not an $11B company."
+    },
+    {
+      "url": "https://www.lesswrong.com/posts/RAoxEANcXTvJyNstu/how-inevitable-are-most-accessible-hard-tech-startups-1?utm_source=tldrfounders",
+      "title": "How inevitable are most accessible hard-tech startups?",
+      "summary": "Hard-tech startups with accessible technology often see rapid replication due to idea saturation and active founder interest."
+    },
+    {
+      "url": "https://www.reddit.com/r/iOSAppsMarketing/comments/1uljbhj/this_french_app_studio_makes_60myear_with_11_apps/?utm_source=tldrfounders",
+      "title": "This French app studio makes $60M/year with 11 apps pulling $100K+/month - here's how",
+      "summary": "MWM makes an annual revenue of around $60 million with no hype or headlines, just consistent wins."
+    }
+  ]
+}

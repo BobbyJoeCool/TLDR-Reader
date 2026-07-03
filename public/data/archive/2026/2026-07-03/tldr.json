@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-07-03",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://threadreaderapp.com/thread/2072739795810525522.html?utm_source=tldrnewsletter",
+      "title": "Model Y Long Wheelbase",
+      "summary": "The Model Y Long Wheelbase is now available in the US and Puerto Rico. The 3-row, 6-seat configuration has ample headroom and legroom for all passengers. The trunk fits a 28\" and a 20\" suitcase each, and the frunk can hold an additional 20\" suitcase. More details about the wheelbase, along with pictures and videos of the vehicle, are available in the post."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/?utm_source=tldrnewsletter",
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
+      "summary": "Mark Zuckerberg told staff during an internal town hall on Thursday that the pace of AI agent development was not accelerating in the way executives had previously expected it to. He has apparently commented that the job cuts earlier this year were not as clean as they should have been. The perceived upside of the company's new AI-focused structure has not come to fruition yet. Zuckerberg says that the company will begin to see improvements from its AI investments in the next three to six months."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzA0OTY2OSwiZXhwIjoxNzgzNjU0NDY5LCJhcnRpY2xlSWQiOiJURlkxUkZLSkg2VjQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.RyjaD3xJUXnuIyF9b5x590kKewCjSLyfSlMN-UfATyI&utm_source=tldrnewsletter",
+      "title": "China Quant Funds Draw Billions as AI Trounces Human Traders",
+      "summary": "Quants' assets under management in China have more than doubled in less than a year to over 2.6 trillion yuan. The trend is being fueled by the rapid adoption of artificial intelligence. Quants' breadth in covering thousands of stocks has made it mainstream. Funds are responding to the frenzy by creating new investment products."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/?utm_source=tldrnewsletter",
+      "title": "FAA proposal: Supersonic airliners can fly over US cities if they're quiet",
+      "summary": "The US Federal Aviation Administration has proposed a new rule that would allow commercial supersonic airliners as long as they can reduce the ground-level impacts of their sonic booms. The new rule would require any sonic boom overpressure at the surface to be kept below 0.11 pounds per square foot. Critics of the new rule say it doesn't actually consider loudness or annoyance. Legalization of quieter supersonic flights doesn't guarantee a successful comeback for commercial supersonic airliners - Concorde's massive fuel consumption made it difficult to sustain profitable operations."
+    },
+    {
+      "url": "https://cra.mr/building-an-intern/?utm_source=tldrnewsletter",
+      "title": "Building an Intern",
+      "summary": "'Junior' is an AI intern in Slack. Users can give it information to work with, review the work, and steer the agent in the right direction. This article discusses the process of developing Junior, which took over four months. The full source for the project is available."
+    },
+    {
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html?utm_source=tldrnewsletter",
+      "title": "Understanding is the new bottleneck",
+      "summary": "It's still important to understand the code that agents write. Agent work needs to be understood to verify that it is correct. This understanding is required for humans to participate in the creative process. This presentation discusses techniques for building human understanding when working with AI and moving fast."
+    },
+    {
+      "url": "https://spyglass.org/meta-cloud/?utm_source=tldrnewsletter",
+      "title": "Meta's Inevitable Cloud",
+      "summary": "After years of trying to diversify, Meta is still almost entirely an ad business. The company's latest solution to that problem is AI. AI will be used to supercharge its ads business, but it will also ideally unlock other businesses. One of these businesses is Meta's newly announced cloud service."
+    },
+    {
+      "url": "https://x.com/philhchen/status/2072793818945167475?utm_source=tldrnewsletter",
+      "title": "Career advice in the age of AI",
+      "summary": "The valuable work of the next decade is everything that can't be graded within the span of model training. Focus on resources that are truly limited and learn to find problems in addition to solving them. Work on the most ambitious form of a problem and learn to execute well in the last mile. Put yourself in the right position to see opportunities. The key to unlocking opportunity is to focus on finding interesting problems and delivering extraordinary results."
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/?utm_source=tldrnewsletter",
+      "title": "A new trend, smart model routing",
+      "summary": "Intelligent routing is becoming table stakes."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/?utm_source=tldrnewsletter",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "summary": "Anthropic has yet to decide what the chip will be used for, how it will fit into the server, or how powerful it will be."
+    },
+    {
+      "url": "https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/?utm_source=tldrnewsletter",
+      "title": "Microsoft unveils $2.5B ‘Frontier Company' to embed AI engineers inside customers",
+      "summary": "The Microsoft Frontier Company will embed engineers inside customers to build and run AI systems."
+    },
+    {
+      "url": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/?utm_source=tldrnewsletter",
+      "title": "Tesla caps employee AI spending at $200/week except for Grok",
+      "summary": "The cap is a sign that even companies betting their future on AI are struggling to control their costs."
+    },
+    {
+      "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446?utm_source=tldrnewsletter",
+      "title": "Cloudflare sets deadline to block AI crawlers that bundle search with AI training",
+      "summary": "AI crawlers have until September to separate bots that gather content for search from those that harvest it for training or be blocked on pages that carry ads."
+    },
+    {
+      "url": "https://www.latent.space/p/skill-engineering-design?utm_source=tldrnewsletter",
+      "title": "Skill engineering and the case against one-shot AI design",
+      "summary": "Agents need domain knowledge, context, and carefully defined ways for humans to steer the result."
+    }
+  ]
+}

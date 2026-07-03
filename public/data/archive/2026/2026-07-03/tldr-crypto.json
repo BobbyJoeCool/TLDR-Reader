@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-03",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=tldrcrypto",
+      "title": "Kalshi and Polymarket combined hit $45B in prediction market volume",
+      "summary": "Kalshi and Polymarket have combined to log $45 billion in prediction market volume in the most recent period, part of a broader explosion in the space. The two platforms' combined lifetime totals crossed $150 billion earlier this year. The 2026 FIFA World Cup was a significant near-term catalyst."
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000?utm_source=tldrcrypto",
+      "title": "Crypto in the Green After Warsh Comments Push Bitcoin Above $60,000",
+      "summary": "Bitcoin crossed $60,000 for the first time in over a week, reaching $61,058 (+4.23%), after Fed Chair Kevin Warsh stated at the ECB's Sintra forum that \"inflation risks have come down\" without signaling a meeting-level policy shift. Solana outperformed major assets with a 16% weekly gain to approximately $78, while Ethereum added 3% to approximately $1,630. BNB, Dogecoin, and Tron lagged. A semiconductor-driven 7% drop in South Korea's Kospi raised the prospect that the AI trade, which drew capital away from crypto throughout Q2, may be losing momentum. Crypto closed H1 with back-to-back quarterly losses, only the third such occurrence in Bitcoin's history."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072617528841695434.html?utm_source=tldrcrypto",
+      "title": "Standard Chartered to launch USDC minting and redemption for clients",
+      "summary": "Standard Chartered has partnered with Circle to become the first Global Systemically Important Bank to offer institutional clients USDC minting and redemption through a single onboarding experience, without requiring clients to hold direct accounts with Circle. The service launches initially through Standard Chartered's DIFC operations, targeting on-chain settlement, treasury management, and institutional liquidity use cases."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072304960142729373.html?utm_source=tldrcrypto",
+      "title": "Ethereum Institutional Launches as Non-Profit for Institutional Adoption",
+      "summary": "Ethereum Institutional launched July 1 as an independent non-profit, consolidating a year of institutional engagement work from the Ethereum Foundation's go-to-market team into a standalone organization with a dedicated mandate, broader geographic footprint, and long-term funding anchored by NYSE-listed Bitmine Immersion Technologies, Nasdaq-listed Sharplink, and co-founder Joe Lubin. The organization enters with over 500 relationships across Tier-1 banks, top-tier asset managers, sovereign institutions, custodians, and market infrastructure providers, and will focus on translating institutional requirements into on-chain deployments across Ethereum and its L2s. Its launch follows Ethlabs by one week, with the two organizations positioned as distinct pillars: Ethlabs targeting protocol-layer R&D and core infrastructure, while Ethereum Institutional guides institutions from evaluation to deployment."
+    },
+    {
+      "url": "https://x.com/GNLNHoldings/status/2072309517069459560?utm_source=tldrcrypto",
+      "title": "Berachain Founder Outlines Proof of Liquidity Next",
+      "summary": "Proof of Liquidity Next (PoL Next) is a structural shift from the chain's original permissionless incentive marketplace toward a curated revenue-financing model in which Berachain performs due diligence on protocols with growth potential and locks in fixed-return-rate agreements. The core economic thesis is that tying emissions to protocols generating real onchain revenue allows each dollar of token supply growth to return more than a dollar in value, converting what would normally be dilutive inflation into a net positive for BERA holders. Publicly traded Greenlane ($GNLN) is positioned as the institutional arm of this strategy, building a BERA treasury to bridge chain incentives and institutional capital, while Liquid Royalty demonstrates an early use case by enabling Asian ecommerce companies to conduct pseudo-IPOs on Berachain. Future chain differentiation will move away from TPS and finality benchmarks as TradFi adoption commoditizes those metrics, with Berachain instead targeting a mature ecosystem of revenue-generating businesses that receive chain emissions in place of traditional VC capital."
+    },
+    {
+      "url": "https://x.com/base/status/2072209466058064327?utm_source=tldrcrypto",
+      "title": "What Are Agents Paying For? x402 and the Agentic Economy on Base",
+      "summary": "Base has crossed 100 million x402 transactions, with roughly 90% settling on Base and tens of millions of dollars moved through the open HTTP payments protocol, confirming machine-native micropayments at production scale. The majority of current volume reflects agents purchasing upstream data services, including web search via Exa and Tavily, URL-to-context conversion via Firecrawl, browser automation via Browserbase, and contact enrichment via Apollo, with full task chains often costing only cents. The next layer emerging is agent-to-agent commerce: specialized agents package entire workflows and sell the output to other agents via x402, removing the need for each agent to independently rediscover production sequences. This creates a pathway for USDC-settled agent microbusinesses on Base, where x402 operates as an agent coordination layer rather than a traditional checkout endpoint."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072590241823654044.html?utm_source=tldrcrypto",
+      "title": "Crypto as a Preview for AI's Coming Narrative Battles",
+      "summary": "Crypto ideologically previewed five narratives now confronting AI: synthetic money creation in a post-scarcity frame, network-state alternatives to nation-state governance, winner-take-all wealth concentration favoring early adopters, epistemic collapse requiring a decentralized truth mechanism, and the oracle problem of anchoring disembodied computation to real-world data. Blockchain addressed the last two through decentralized consensus as a shared ledger of record and oracle protocols like Chainlink that write real-world variables onchain. AI faces the same epistemic and oracle challenges without an equivalent consensus layer, currently treating LLM outputs as the de facto source of truth. The deepest challenge is resisting nihilism in the face of radical technological disruption and asking whether solutions exist within the same technology that created the problems."
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals?utm_source=tldrcrypto",
+      "title": "Solana Launches Onchain Governance",
+      "summary": "Solana Governance Proposals (SGPs) enable validators and token holders to collectively steer network decisions. Initiating a proposal requires 100,000 SOL (~$7.7M) staked. Proposals must clear 15% of active stake to reach a ballot, and passage demands a two-thirds supermajority of voting stake, with results recorded onchain and verified via Merkle proofs. A staker sovereignty feature allows delegators to override their validator's vote or vote independently if the validator abstains, keeping governance power distributed among token holders rather than concentrated at the validator layer. SGPs govern high-level directional decisions while technical implementation follows through Solana Improvement Documents (SIMDs), separating strategic choices from engineering execution, with the full process running on Solana's epoch schedule at roughly two-day phase intervals."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072250865168367957.html?utm_source=tldrcrypto",
+      "title": "Aavenomics 3.0 shifts AAVE to the center of the protocol's economics",
+      "summary": "Aavenomics 3.0 is one of the more important tokenomics updates in DeFi right now."
+    },
+    {
+      "url": "https://www.theblock.co/post/406999/metaplanet-bitcoin-acquisition-q2?utm_source=tldrcrypto",
+      "title": "Metaplanet acquires bitcoin in Q2, bringing total holdings to ~43,000 BTC",
+      "summary": "Metaplanet added 2,823 BTC in Q2 2026, bringing total holdings to ~43,000 BTC and putting it in direct contention with Twenty One Capital (43,514 BTC) for the title of third-largest corporate bitcoin treasury."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072290616508088430.html?utm_source=tldrcrypto",
+      "title": "AaveChan's closure after three years turning Aave around",
+      "summary": "AaveChan is closing after just over three years."
+    },
+    {
+      "url": "https://www.theblock.co/post/407007/fbi-director-kash-patel-disclosed-six-figure-strategy-stock-purchase-months-after-trade-report?utm_source=tldrcrypto",
+      "title": "Kash Patel disclosed six-figure Strategy stock purchase after deadline",
+      "summary": "FBI Director Kash Patel purchased between $100,001 and $250,000 of Strategy (MSTR) stock on November 21 but did not file the required disclosure until May 26, more than six months after the trade and well past the STOCK Act's 45-day reporting window."
+    }
+  ]
+}

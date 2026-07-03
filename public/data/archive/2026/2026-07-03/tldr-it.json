@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-03",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html?utm_source=tldrit",
+      "title": "AI agent exploits Langflow RCE to automate database ransomware attack",
+      "summary": "Sysdig says it found what it believes is the first ransomware attack run end-to-end by an AI agent. The attack exploited a Langflow RCE bug to automate discovery, credential theft, database encryption, and ransom activity."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/?utm_source=tldrit",
+      "title": "Cloudflare's new policy pushes AI companies to pay for publishers' content",
+      "summary": "Cloudflare says that starting September 15, its default crawler settings will block “mixed-use” bots that combine search, AI agent use, and training from pages that host ads. The change is intended to push AI companies to separate crawler purposes and give publishers more control, alongside Cloudflare evolving its monetization approach from “Pay Per Crawl” to “Pay Per Use”."
+    },
+    {
+      "url": "https://climatedrift.substack.com/p/the-next-ai-infrastructure-opportunity?utm_source=tldrit",
+      "title": "The next AI infrastructure opportunity is unlocking what we already have",
+      "summary": "AI's “power crunch” is partly a measurement and infrastructure-access problem: large amounts of capacity are idle in both the electricity grid and within data-center cooling and utilization. Grid and data-center efficiency findings show that existing capacity becomes useful once software and demand align."
+    },
+    {
+      "url": "https://diginomica.com/ai-and-security-if-enterprises-rush-where-developers-fear-tread-whats-answer?utm_source=tldrit",
+      "title": "AI and Security: if enterprises rush in where developers fear to tread, what's the answer?",
+      "summary": "Agentic AI and rapid software delivery are outpacing enterprises' ability to govern and secure systems. Research from Economist Enterprise and Aikido Security shows high rates of incidents and that pentesting/validation often can't keep up with weekly-or-faster release cycles, leading to missed vulnerabilities and harder-to-detect security issues."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/apple-releases-safari-technology-preview-247/?utm_source=tldrit",
+      "title": "Apple Releases Safari Technology Preview 247 With MCP Server for AI Agent Integration",
+      "summary": "Apple has released Safari Technology Preview 247, an update to its experimental Safari browser. The release introduces a Safari Model Context Protocol (MCP) server that lets AI agents connect to a Safari browser window to emulate what users see for faster web development and debugging, alongside multiple web platform fixes."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/?utm_source=tldrit",
+      "title": "AWS adds agentic CX designer, EC2 AMI watermarks, and Open Governance for MySQL",
+      "summary": "AWS' latest weekly roundup includes an agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, and Open Governance for MySQL. The updates span AI customer-service tooling, infrastructure provenance, and database governance."
+    },
+    {
+      "url": "https://www.techradar.com/pro/how-to-future-proof-enterprise-operations-in-the-age-of-invisible-ai?utm_source=tldrit",
+      "title": "How to future-proof enterprise operations in the age of invisible AI",
+      "summary": "Enterprise AI success increasingly depends on whether core systems are observable, governed, and ready for automation. AI seems like a readiness as an operations problem, not just a model-access problem."
+    },
+    {
+      "url": "https://www.latent.space/p/cursor-forward-deployed-engineers?utm_source=tldrit",
+      "title": "How Cursor deploys AI inside the enterprise",
+      "summary": "Cursor's VP of Forward Deployed Engineering (FDE) explains how Cursor deploys AI agents inside enterprises to build an “AI software factory” across the software development lifecycle. The FDE team consists of experienced, customer-facing engineers who work on-site with organizations, aiming to standardize agent use beyond early adopters using both local and cloud agents."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/?utm_source=tldrit",
+      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+      "summary": "Enterprise AI agents that can inspect code, run tests, read documents, and query internal systems require a secure, governed environment."
+    },
+    {
+      "url": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html?utm_source=tldrit",
+      "title": "ThreatsDay: AI compute hijacking, Apple email flaw, BlueHammer ransomware",
+      "summary": "See this week's notable cyber threats across AI systems, browsers, sandboxes, and email flows."
+    }
+  ]
+}
