@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-07-06",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://9to5mac.com/2026/07/01/apple-reportedly-testing-new-ipad-pro-models-and-redesigned-entry-level-macbook-pro-for-2027/?utm_source=tldrdesign",
+      "title": "Apple reportedly testing new iPad Pro models and redesigned entry-level MacBook Pro for 2027",
+      "summary": "Apple is reportedly testing four new 11-inch and 13-inch iPad Pro models for a spring 2027 launch, focusing mainly on internal upgrades such as faster chips and potentially vapor chamber cooling, while also planning a redesigned 14-inch entry-level MacBook Pro that could arrive as early as the first half of 2027. Bloomberg also says Apple is accelerating the launch of its M7 chip to better handle AI workloads, following the upcoming M6 generation. Although memory and chip shortages could still affect the roadmap, these devices are expected to contribute to what could be Apple's biggest product year yet in 2027."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/?utm_source=tldrdesign",
+      "title": "Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage",
+      "summary": "Midjourney is pushing to force Disney, Universal, and Warner Bros. to disclose their own internal AI usage during discovery in the ongoing copyright lawsuits against it. The studios currently only must share generative AI documentation tied to \"consumer-facing\" content, a limit Midjourney's new filing seeks to remove, arguing it lets studios hide evidence of similar internal AI practices while cherry-picking material against Midjourney. The company also wants studios to disclose all Midjourney prompts and outputs used, not just those tied to allegedly infringing images, while the studios' attorney has dismissed the request as a \"fishing expedition.\""
+    },
+    {
+      "url": "https://appleinsider.com/articles/26/06/29/apple-design-award-winner-acquired-by-apple-for-new-swift-tools?utm_source=tldrdesign",
+      "title": "Apple Design Award Winner Acquired by Apple for New Swift Tools",
+      "summary": "Apple acquired Rabbit 3 Times, Inc, maker of the visual Swift development tool Play, months after giving Play an Apple Design Award for innovation. The deal, reported to the EU under the Digital Markets Act, reportedly involved acquiring assets and the option to hire staff rather than a full acquisition. Following the deal, Rabbit 3 Times discontinued Play for iPhone and Mac, made its paid Play-to-Xcode export service free, and later shut down its website."
+    },
+    {
+      "url": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?utm_source=tldrdesign",
+      "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
+      "summary": "AI design-to-code workflows are best understood as a four-layer stack: MCP connects AI to tools like Figma, markdown files capture design rules and context, skills automate repeatable tasks, and mapping (such as Code Connect) links Figma components to real code components—each layer solving a different problem while still requiring increasingly more engineering effort. For most designers and small teams, a clean Figma file, an MCP connection, and a simple Markdown guide are enough. Only mature design systems benefit from the full stack, as maintaining design-to-code synchronization is expensive and developer-dependent. AI dramatically speeds up turning designs into code, but it doesn't eliminate the need for structured design systems, human judgment, or developers to build and maintain production-ready software."
+    },
+    {
+      "url": "https://medium.com/design-bootcamp/your-interface-has-a-tone-and-sometimes-it-blames-you-8acca19c938e?utm_source=tldrdesign",
+      "title": "Your Interface Has a Tone. And Sometimes It Blames You",
+      "summary": "Many digital products are designed around an unrealistic \"ideal user\" who patiently adapts to confusing interfaces, causing people to blame themselves instead of poor design when something goes wrong. Inclusive UX writing—using clear, supportive, non-judgmental language—reduces cognitive burden for everyone, especially people with disabilities, anxiety, ADHD, or language barriers, reflecting the curb-cut effect, where designing for those at the margins improves experiences for all. Every piece of interface copy is a design choice, and thoughtful language can make users feel guided rather than judged."
+    },
+    {
+      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?utm_source=tldrdesign",
+      "title": "Rethinking Figma in an AI World",
+      "summary": "At Config 2026, Figma expanded its canvas with code layers, motion, and shader tools to keep design relevant as AI shifts workflows toward code-native, agentic product building. This pressures Figma's seat-based business model, since AI lets engineers and teams generate or inspect software directly without a shared design file. Whether Figma stays central now depends on future workflow behavior, not conference hype, as rivals like Anthropic's Claude Code and Claude Design push teams to skip design handoffs entirely."
+    },
+    {
+      "url": "https://www.genspark.ai/?utm_source=tldrdesign",
+      "title": "Your All-in-One AI Workspace (Website)",
+      "summary": "Genspark is your all-in-one AI workspace. Slides, docs, images, video, code, and design — all in one place."
+    },
+    {
+      "url": "https://www.referenceboard.app/?utm_source=tldrdesign",
+      "title": "Reference Board (Website)",
+      "summary": "Reference is a private moodboard app for iPhone, iPad, and Mac. Save inspiration, organize moodboards, find similar images, and sync creative references."
+    },
+    {
+      "url": "https://getdesign.md/?utm_source=tldrdesign",
+      "title": "DESIGN.md Collection for AI Coding Agents (Website)",
+      "summary": "Browse independent design system analyses from popular websites. Drop one into your project as a design reference for your coding agent."
+    },
+    {
+      "url": "https://the-brandidentity.com/typeface/why-a-bitten-t-from-1889-was-the-inspiration-for-fatypes-states?utm_source=tldrdesign",
+      "title": "Why a bitten ‘t' from 1889 was the inspiration for Fatype's States",
+      "summary": "Inspired by the quirky imperfections of late-19th-century American sans serif typefaces, Anton designed States, a new type family that embraces the irregularities of historic metal type while balancing personality with readability. The family includes States Grotesque and States Rounded, linked by a variable Pressure axis that lets users smoothly adjust between sharp and softened letterforms, with numerous stylistic alternates inspired by vintage printing. To accompany the release, the foundry also produced its first printed type specimen in years, showcasing the typeface across a range of sizes."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/logos-icons/the-worlds-oldest-football-club-just-modernised-its-logo-and-fans-are-furious?utm_source=tldrdesign",
+      "title": "The world's oldest football club just modernised its logo, and fans are furious",
+      "summary": "The world's oldest football club, Sheffield FC, has unveiled a radically simplified circular logo for the 2026–27 season, replacing its historic shield, figures, and traditional design elements with a modern roundel intended to reflect its unique heritage and improve digital versatility. While the club says the redesign marks a new chapter, many fans have criticised it as generic, poorly executed, and disconnected from the club's 169-year identity, arguing that modernization could have preserved more of its historic character."
+    },
+    {
+      "url": "https://blog.logrocket.com/ux-design/maintaining-intentionality-in-ai-assisted-design/?utm_source=tldrdesign",
+      "title": "AI Made Design Faster, but Did it Make it Less Intentional?",
+      "summary": "AI has sped up design production, but polished outputs often mask missing edge cases, technical constraints, and system-level coherence. As generation gets easier, evaluating whether solutions solve the right problem becomes the harder, more valuable task. Designers who thrive will slow down key decisions, review work systemically, and treat AI as a collaborator rather than a final authority."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/apples-liquid-glass-is-having-problems-again?utm_source=tldrdesign",
+      "title": "Apple's Liquid Glass is Having Problems… Again",
+      "summary": "Apple's Liquid Glass design continues drawing criticism, with iOS 27's public beta introducing a new visual flaw some users can't ignore."
+    },
+    {
+      "url": "https://www.digitaltrends.com/cool-tech/this-tiny-macbook-accessory-adds-customizable-shortcuts-for-meetings-and-productivity/?utm_source=tldrdesign",
+      "title": "This tiny MacBook accessory adds customizable shortcuts for meetings and productivity",
+      "summary": "Dune is a USB-C accessory for MacBooks that adds three AI-powered, app-aware programmable buttons to simplify shortcuts and automate common tasks."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/07/a-contemporary-indian-illustrator-creating-images-filled-with-storybook-light-structure-and-emotion/?utm_source=tldrdesign",
+      "title": "A Contemporary Indian Illustrator Creating Images Filled With Storybook Light, Structure, and Emotion",
+      "summary": "Alfred Fernandes is a Goa-based illustrator and concept artist known for storybook-like images blending visual development, environment design, and narrative-driven art."
+    }
+  ]
+}

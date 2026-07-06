@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-06",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/?utm_source=tldrit",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "Meta is reportedly exploring a cloud infrastructure business that would sell access to AI compute and models. The move could put Meta closer to AWS, Azure, Google Cloud, CoreWeave, and other AI infrastructure providers."
+    },
+    {
+      "url": "https://developer.chrome.com/blog/cws-policy-updates-2026?utm_source=tldrit",
+      "title": "Google has introduced new rules for Chrome extensions",
+      "summary": "Google announced new Chrome extension rules requiring developers to limit data collection and clearly disclose what user information is gathered. The policy also bans extensions that bypass AI security safeguards or are used for betting on prediction markets."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/?utm_source=tldrit",
+      "title": "Beyond the benchmark: Advancing security at AI speed",
+      "summary": "Microsoft describes how its MDASH agentic scanning system is moving from benchmark results into real security workflows across Windows, Azure, and identity systems. The post is a useful look at how AI-assisted vulnerability discovery is becoming a production security process."
+    },
+    {
+      "url": "https://pulse.latio.tech/p/the-privatization-of-vulnerability?utm_source=tldrit",
+      "title": "The Privatization of Vulnerability Management",
+      "summary": "AI-driven vulnerability analysis is creating new tooling and workflows, but many of the industry's offerings are exaggerated, while AI SAST overall is still underappreciated. Vulnerability management is “going private,” with access to frontier model capabilities, vulnerability data enrichment, and even mitigation processes increasingly limited to large enterprises and vendor customers."
+    },
+    {
+      "url": "https://www.testingcatalog.com/google-tests-new-gemini-inbox-section-for-workspace-triage/?utm_source=tldrit",
+      "title": "Google tests new Gemini Inbox section for Workspace triage",
+      "summary": "Google is testing a new “Gemini Inbox” section inside the Gemini app for Business and Workspace customers. The interface adds three filters to triage work (items needing follow-up, items marked done, and work ready for review), supporting an Inbox Zero-style workflow tied to Gmail and other connected sources."
+    },
+    {
+      "url": "https://www.hashicorp.com/en/blog/hcp-terraform-powered-by-infragraph-limited-availability-launch?utm_source=tldrit",
+      "title": "HCP Terraform Powered by Infragraph Limited Availability Launch",
+      "summary": "HashiCorp announced limited availability of “HCP Terraform powered by Infragraph” for current HCP Terraform Standard and Premium customers using HCP Terraform in US instances. The release expands the Infragraph connector ecosystem (including Azure, GitHub, and Terraform Enterprise) and adds updates to the graph explorer and query builder to help teams visualize infrastructure relationships, ownership, and state for faster action."
+    },
+    {
+      "url": "https://apenwarr.ca/log/20260704?utm_source=tldrit",
+      "title": "thundersnap 0.01: an undo button for everything",
+      "summary": "“thundersnap 0.01” is an open source tool for quickly replicating, forking, sharing, and running container snapshots across cloud and personal devices. It uses Tailscale for creating a mesh of devices and frames the project as an “undo button” for container-like workflows by enabling faster movement between providers and more persistent resources."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing?utm_source=tldrit",
+      "title": "Verifiable, private AI: Google Cloud expands Confidential Computing frontiers",
+      "summary": "Google Cloud expanded its Confidential Computing roadmap for AI workloads, focusing on privacy-preserving inference and fine-tuning. The direction matters as enterprises try to use sensitive data with AI systems without giving up hardware-backed isolation."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/?utm_source=tldrit",
+      "title": "Amazon Bedrock Managed Knowledge Base",
+      "summary": "AWS launched a managed RAG knowledge base with connectors, parsing, and retrieval features for enterprise AI apps."
+    },
+    {
+      "url": "https://developers.google.com/gemini-code-assist/docs/deprecations/consumer-code-review?utm_source=tldrit",
+      "title": "Gemini Code Assist will shut down on July 17",
+      "summary": "Gemini Code Assist on GitHub will have its consumer version shut down on July 17, while the enterprise version (preview) remains available."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-07-06",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/?utm_source=tldrfounders",
+      "title": "Tired vs. Wired: Our Deep Dive on Why Software Spend Is Up Record Amounts … Yet Half of SaaS Is Still Dying",
+      "summary": "Software spend is accelerating. However, valuations are collapsing for many software leaders. The software market has split in two: one group is tapping AI budgets and accelerating, and the other is running the same playbook from 18 months ago. This post breaks down where the line between these two groups falls and what moves a company from one side to the other."
+    },
+    {
+      "url": "https://murraynewlands.substack.com/p/the-executive-ai-leverage-report?utm_source=tldrfounders",
+      "title": "The Executive AI Leverage Report",
+      "summary": "53% of finance-room executives name proving ROI as the main blocker to further AI spend, 62% expect measurable return within six months, and 17% already fund AI partly from money that would have gone to headcount. Founders in the same network price 50% on usage and 18% on outcomes against 25% on seats, but they still sell through CIOs and business units while the CEO signs and finance carries the proof burden, which is where deals stall. If your product needs eighteen months to show value, you're selling to a buyer who wants evidence in six."
+    },
+    {
+      "url": "https://www.saastr.com/nothing-else-segment-churn/?utm_source=tldrfounders",
+      "title": "If Nothing Else – Segment Churn. You'll See Patterns and Learnings You Wouldn't Otherwise",
+      "summary": "Segmenting churn into categories allows founders to separate different churn problems and solve them individually. Keeping big customers happy is different to keeping small businesses from seeking a cheaper tool. Instead of excluding trials and POCs, segment them out and figure out how to convert better. Also, segment NPS and CSAT per segment - double down on the happiest segments and the segments growing the fastest."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072856480336986393.html?utm_source=tldrfounders",
+      "title": "Growth Founders: Hire a Near-Peer",
+      "summary": "Near-peers are people so good that the founder would be fine reporting to them if the roles were reversed. Their strengths perfectly complement the founder's strengths. Near-peers turn the founder's vision into daily operating decisions. This lets the founder focus on what only the founder can do, while the near-peer handles the rest."
+    },
+    {
+      "url": "https://x.com/sab8a/status/2071960138634662046?utm_source=tldrfounders",
+      "title": "How to Kill Churn: Everything I Learned in 10 Years",
+      "summary": "Churn depends on your category. Not all churn is bad. However, some types can kill your business. Once you know your sticky ideal customer profile, the product job becomes to build for them ruthlessly. Free plans activate, and paywalls monetize. Negative churn is the Holy Grail."
+    },
+    {
+      "url": "https://theygotacquired.com/resources/founder-blog-posts/?utm_source=tldrfounders",
+      "title": "22 First-Person Posts by Founders Who Sold Their Business (Collection)",
+      "summary": "They Got Acquired's curated list of founders writing about their own exits on personal blogs."
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5?utm_source=tldrfounders",
+      "title": "Prompting Claude Fable 5",
+      "summary": "Claude Fable 5 can take on problems that were previously too complex, long-running, or ambiguous. It is particularly effective at end-to-end work that takes a person hours, days, or weeks to complete. Claude Fable 5 has several behavior differences from Claude Opus 4.8 that may require prompt or scaffolding updates. This guide covers promising and scaffolding patterns specific to Claude Fable 5 and Claude Mythos 5."
+    },
+    {
+      "url": "https://www.thetilt.com/business-operations/when-you-become-the-product?utm_source=tldrfounders",
+      "title": "When You Become the Product",
+      "summary": "Successful creator businesses often evolve from selling content to selling access to the creator's judgment and expertise. Structure access through content, workshops, communities, and premium advisory services rather than offering unlimited founder availability. Founders who want to build a sellable company must gradually shift trust from themselves to the team, brand, and systems."
+    },
+    {
+      "url": "https://towardsdatascience.com/your-churn-threshold-is-a-pricing-decision/?utm_source=tldrfounders",
+      "title": "Your Churn Threshold Is a Pricing Decision",
+      "summary": "Churn models ship with a default 0.5 threshold. This analysis prices that default at about $86 per customer in avoidable spend, $8.6M across a 100K-subscriber base. Missing a churner costs about 13x more than over-treating a loyal customer, so the profitable threshold sits well below 0.5 and the default is quietly setting your retention budget. Library defaults across an analytics stack are business decisions nobody consciously made."
+    },
+    {
+      "url": "https://www.skmurphy.com/blog/2026/07/03/one-mistake-entrepreneurs-make-a-great-product-will-sell-itself/?utm_source=tldrfounders",
+      "title": "One Mistake Entrepreneurs Make: A Great Product Will Sell Itself",
+      "summary": "Entrepreneurs mistakenly believe a great product will sell itself without active sales and marketing efforts."
+    },
+    {
+      "url": "https://www.saastr.com/outbound-isnt-dead-ai-just-radically-changed-how-it-works/?utm_source=tldrfounders",
+      "title": "Outbound Isn't Dead. AI Just Radically Changed How It Works",
+      "summary": "AI has shifted outbound from list-blasting to structured, multi-channel campaigns that combine agents for scale and humans for high-value relationships."
+    },
+    {
+      "url": "https://x.com/thedankoe/status/2073418764058825045?utm_source=tldrfounders",
+      "title": "The most profitable skill of the 21st century (not AI)",
+      "summary": "Understanding human nature is the highest-leverage skill in an AI-driven world because attention, persuasion, trust, and value creation ultimately depend on people, not technology."
+    }
+  ]
+}

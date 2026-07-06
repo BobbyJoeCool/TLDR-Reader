@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-07-06",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.insurancejournal.com/news/national/2026/07/02/875989.htm?utm_source=tldrfintech",
+      "title": "Tech and finance sectors losing 28,000 jobs monthly show AI impact on labor",
+      "summary": "AI adoption is starting to reshape employment in banking and other financial services, with financial activities and information shedding an average of 28,000 jobs per month in 2026 even as the broader US labor market remains resilient. Finance may be particularly exposed because roughly a quarter of its workforce sits in office and administrative roles such as customer service, bank tellers, and claims processing, while major banks including JPMorgan, Citi, and Goldman Sachs have acknowledged that AI will eliminate some positions."
+    },
+    {
+      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/plaid-talks-with-banks-about-potential-ipo/?utm_source=tldrfintech",
+      "title": "Plaid talks with banks about potential IPO",
+      "summary": "Plaid has begun preliminary discussions with investment banks about a potential IPO, signaling the fintech infrastructure company is moving closer to the public markets after years of preparation. While no final decision or timeline has been set, the company has continued strengthening its business with new AI-powered risk models and product launches following its last private funding round."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html?utm_source=tldrfintech",
+      "title": "World Cup sends prediction market volumes soaring to record highs",
+      "summary": "The 2026 FIFA World Cup drove record trading activity across prediction market platforms, with Kalshi reaching more than $31 billion in June volume, Polymarket hitting $10.8 billion internationally, and new entrant Rothera surpassing $2 billion. The surge is a major stress test for the category, as regulators and institutions evaluate whether prediction markets can handle sustained high-volume activity while maintaining market integrity and consumer protections."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/robinhood-earn?utm_source=tldrfintech",
+      "title": "Where Robinhood's 7% yield comes from",
+      "summary": "Simon Taylor breaks down Robinhood's new 7% APY product, stock tokens, mainnet, and European perps, arguing that Robinhood is building toward a decentralized prime broker model rather than just another brokerage app. The piece also covers Plaid's potential IPO, Erebor's rapid deposit growth, Meta's reported interest in buying Kalshi, and the broader shift toward AI-native fintech infrastructure, agentic finance, and enterprise AI control planes."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/the-coin-nobody-owns?utm_source=tldrfintech",
+      "title": "The coin nobody owns",
+      "summary": "Simon Taylor argues that OpenUSD is not trying to beat Circle or Tether on existing stablecoin volume, but to unlock the institutional and payments flows that have stayed offchain because of issuer concentration, mint/burn fees, reserve economics, and lack of neutral governance. The piece frames OpenUSD as shared financial infrastructure backed by 140 companies, designed to make stablecoins usable for acquiring settlement, cross-border institutional payments, and capital markets cash settlement where neutrality, interoperability, and velocity matter more than issuer float economics."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/apple-pay-will-let-shoppers-check-out-using-american-express-points?utm_source=tldrfintech",
+      "title": "Apple Pay will let shoppers check out using American Express points",
+      "summary": "American Express cardholders will soon be able to redeem Membership Rewards points directly at Apple Pay checkout, turning loyalty balances into a real-time payment option without switching apps or applying credits after a purchase. The integration offers a 0.7-cent-per-point redemption rate, better than typical statement credits but below the value often available through airline and hotel transfers. The move gives Amex a lower-friction way to keep rewards relevant as card issuers face growing competition for customer loyalty."
+    },
+    {
+      "url": "https://www.pymnts.com/blockchain/2026/robinhood-launches-blockchain-designed-for-real-world-assets/?utm_source=tldrfintech",
+      "title": "Robinhood launches blockchain designed for real-world assets",
+      "summary": "Robinhood is expanding beyond brokerage by launching Robinhood Chain, a Layer 2 blockchain built for tokenized real-world assets and designed to support 24/7 investing. Alongside the new network, the company introduced stock tokens, crypto lending, perpetual futures, and AI-powered trading accounts while accelerating its global expansion into Canada, Singapore, and soon the UK. The launch reinforces Robinhood's strategy to become a full-stack financial platform by combining traditional investing with decentralized finance infrastructure."
+    },
+    {
+      "url": "https://squareup.com/us/en/press/claude-chatgpt-integrations?utm_source=tldrfintech",
+      "title": "Square introduces ChatGPT and Claude integrations for AI-powered discovery",
+      "summary": "Square launched new ChatGPT and Claude integrations that let eligible US food and beverage sellers be discovered, show menus, and receive orders directly through AI-powered conversations with no added setup or marketplace commissions. The move positions Square as the connective layer for agentic commerce, helping SMBs appear across emerging AI shopping surfaces while syncing menu, hours, ordering, POS, kitchen, and reporting data through their existing Square infrastructure."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/?utm_source=tldrfintech",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "Meta is exploring a new cloud infrastructure business that would monetize its massive AI investment by selling excess compute capacity and hosted AI models to enterprise customers. The move reflects a broader shift toward treating AI infrastructure as a revenue-generating asset, with companies like SpaceX and CoreWeave demonstrating that owning data centers and GPU capacity can be as valuable as building leading AI models. For investors, it's another sign that the AI race may increasingly reward the companies generating recurring infrastructure and cloud revenue, not just those creating foundation models."
+    },
+    {
+      "url": "https://www.carriermanagement.com/news/2026/07/02/289708.htm?utm_source=tldrfintech",
+      "title": "TikTok to settle teen plaintiff's case before California social media trial",
+      "summary": "TikTok has agreed in principle to resolve a lawsuit from a 15-year-old who alleges years of social media use led to addiction, sleep loss, depression, and anxiety. The deal comes as more than 5,900 related cases are pending across California state and federal courts, while Meta and Snapchat still face a July 27 trial. With earlier juries awarding millions in damages and platforms paying $27 million to settle a Kentucky school district case, legal pressure over youth-focused product design is quickly becoming a major liability risk for the industry."
+    },
+    {
+      "url": "https://www.pymnts.com/cryptocurrency/2026/kraken-platform-payward-acquires-payments-firm-reap/?utm_source=tldrfintech",
+      "title": "Kraken platform Payward acquires payments firm Reap",
+      "summary": "Payward is expanding its B2B financial infrastructure ambitions by adding embedded card issuance, cross-border money movement, and stablecoin-based treasury management to a single platform."
+    },
+    {
+      "url": "https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading/?utm_source=tldrfintech",
+      "title": "Robinhood accelerates global expansion with chain mainnet, stock tokens, agentic trading, and DeFi products",
+      "summary": "Robinhood launched the public mainnet for Robinhood Chain, expanded stock tokens to 120+ countries, introduced a 7% APY DeFi lending product through Robinhood Earn, and added new perpetual futures products across crypto, commodities, ETFs, and FX."
+    },
+    {
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks?utm_source=tldrfintech",
+      "title": "Meta considered buying Kalshi before developing its own prediction market app",
+      "summary": "Meta reportedly explored acquiring Kalshi before deciding to build its own prediction market app, Arena, using play money rather than real-money wagers."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-06",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=tldrcrypto",
+      "title": "Aave's Monad Market Tops $100M in Two Days",
+      "summary": "Aave's Monad market crossed $100M in deposits on Saturday, two days after the lending protocol deployed V3 on the network with support for 12 assets, including USDT0, USDC, GHO, WETH, and cbBTC. The inflows are substantial relative to Monad's overall ecosystem, which held ~$359.5 million in total value locked as of June 8, meaning Aave attracted the equivalent of more than a quarter of that figure in just two days. The Monad Foundation committed $15 million in first-year incentives and agreed to acquire and hold 10 million GHO, while the Aave DAO pledged an additional 500,000 GHO to support the stablecoin's adoption on the network."
+    },
+    {
+      "url": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=tldrcrypto",
+      "title": "Farage Failed to Declare Support from Convicted Crypto Fraudster",
+      "summary": "A Sunday Times investigation found that Reform UK leader Nigel Farage received undisclosed financial support, including private security, drivers, and social media staff, from George Cottrell, a convicted fraudster tied to offshore crypto bookmaker Tether.bet, in the year before his 2024 election as MP for Clacton. Farage already faces a parliamentary standards investigation over a separate undisclosed £5 million gift from Tether stakeholder Christopher Harborne, and a Liberal Democrat MP has written to the commissioner requesting an additional investigation into the Cottrell support. Farage denied wrongdoing and has championed pro-crypto policy positions including a Bank of England bitcoin reserve and a capital gains tax cut on crypto."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2073099704204976572.html?utm_source=tldrcrypto",
+      "title": "dYdX Rebrands to Arcus, Partners With Robinhood for Tokenized Stocks",
+      "summary": "dYdX has rebranded to Arcus and launched as the primary DEX on Robinhood Chain, offering 24/7 trading across 95 tokenized stocks and 35 RWA perps at 0% fees via RFQ execution, with institutional market-makers providing liquidity. The move follows sustained market share losses to Hyperliquid, which drew traders from dYdX v4 through faster execution and a simpler UX despite dYdX's decentralization-first architecture. dYdX attributed the pivot to that competitive pressure, framing speed, simplicity, and liquidity depth as the axes on which Arcus must compete."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2073459000398463446.html?utm_source=tldrcrypto",
+      "title": "Vitalik's Lean Ethereum Roadmap: The Third Major Iteration",
+      "summary": "Vitalik Buterin's post-Berlin summit thread frames \"Lean Ethereum\" as the protocol's third major iteration, a 3-4 year rollout replacing most major protocol components, with the Lean ethos taking hold from the I-star fork onward. The overhaul covers recursive STARKs for verification, quantum-safe cryptography across the full stack (now urgent, with quantum-safe blob design actively in progress), one-to-two-round finality with a decoupled available chain, multidimensional gas, and a dual-tier state model projecting 2 TB of dynamic state alongside 100 TB of scalable but more restrictive state by 2030. Privacy is now a first-class design constraint integrated into mempool, Frames, and state tree decisions. Formal verification covers all protocol components, and the EVM may be supplemented by leanISA or RISC-V for recursive STARK execution environments. Existing applications require no migration, but ERC20s and NFTs rewritten to use the new UTXO-style state storage could see transaction fees fall by more than 10x."
+    },
+    {
+      "url": "https://www.coinbase.com/blog/coinbase-quantum-advisory-council-post-quantum-migration-and-abandoned-coins?utm_source=tldrcrypto",
+      "title": "Post-Quantum Migration and Abandoned Coins",
+      "summary": "Coinbase has formed a Quantum Advisory Council to guide the migration of blockchain infrastructure from ECDSA/secp256k1 to quantum-resistant schemes including lattice-based cryptography, STARKs, and hash-based signatures, before quantum hardware of sufficient power can derive private keys from exposed public addresses. The council's most contested governance question concerns P2PK-exposed wallets, Satoshi's estimated 1M BTC chief among them, whose owners are unreachable and cannot self-migrate ahead of a quantum threat. Options under debate include freezing those wallets at a protocol deadline, burning the coins outright, or leaving them open to quantum extraction, with the last scenario posing a supply shock that could collapse BTC's market price. The council's output also informs Coinbase's quantum-safe custody roadmap and frames a policy position ahead of NIST post-quantum standard finalization."
+    },
+    {
+      "url": "https://x.com/AlanaDLevin/status/2072712807422803995?utm_source=tldrcrypto",
+      "title": "Thoughts on the Current Market for Digital Assets",
+      "summary": "In a survey among crypto-native investors, portfolios are narrowing to 5-10 tokens, with most altcoin positions shed in favor of BTC or cash held at a \"set and forget\" sizing. The core allocation friction is opportunity cost: AI-adjacent equities (inference chips, neoclouds, and photonics) offer compounding revenue growth that raises the bar for deploying the marginal dollar into digital assets. Three catalysts could reverse this: a 4-year cycle bottom expected in late Q3/Q4 triggering re-entry, reflexive price appreciation drawing sidelined buyers back in, or an observable on-chain or macro development that resets conviction."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072252803163255179.html?utm_source=tldrcrypto",
+      "title": "Circle CEO on Why OpenUSD Won't Unseat USDC",
+      "summary": "Circle CEO Jeremy Allaire addressed investor questions about OpenUSD (OUSD) by citing Artemis data showing USDC processed $30T in on-chain transactions in Q1 2026, 80% of all dollar stablecoin volume, with USDT at 20% and all other stablecoins combined below 0.5%. Allaire dismissed OUSD's three core propositions: free mint/burn is addressable through contractual arrangements rather than blanket fee waivers, distributing all revenue to consortium participants starves infrastructure investment, and consortium governance models have a poor track record for achieving product-market fit or operational agility. USDC's exclusive large-stablecoin availability across EU and Japanese regulated markets, paired with close to a decade of entrenched liquidity across exchanges, DeFi venues, and payment processors, gives Circle a structural position a new consortium entrant cannot replicate in the short term."
+    },
+    {
+      "url": "https://x.com/cosmos_falco/status/2073503228147179892?utm_source=tldrcrypto",
+      "title": "The Trustless Influencer",
+      "summary": "$ANSEM, a Solana memecoin minted by an anonymous wallet that spent $6,300, then handed 65% of the supply to crypto influencer Ansem unasked, may actually be a legitimate business structure rather than a memecoin play. Instead of dumping or ignoring it, Ansem took command and began routing creator fees back to holders weekly through a claim page on Bullpen Fi, the trading terminal he co-founded, effectively putting his community on payroll in exchange for content and promotion. Ansem holds ~60% of supply, controls the show where the coin gets discussed, and owns the venue where holders claim rewards, meaning betraying holders would destroy his trading credibility and his business simultaneously, making the cost of rugging higher than the cost of winning. The post frames him as \"the first trustless influencer\" because the structure makes betrayal more expensive than alignment."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2073308574894244266.html?utm_source=tldrcrypto",
+      "title": "Crypto Card Spending Surpasses $800M Monthly",
+      "summary": "Neobanks like EtherFi and Plasma One are positioned to capture the next wave."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2072787981497225653.html?utm_source=tldrcrypto",
+      "title": "Pay for APIs with USDC via x402 and Apify",
+      "summary": "Apify's 20,000+ web scraping actors are now accessible via x402, letting AI agents discover, run, and pay for tools in USDC on Base without pre-configured API keys or accounts."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2073354482096955542.html?utm_source=tldrcrypto",
+      "title": "German Savings and Co-op Banks Launch Native Crypto Trading",
+      "summary": "Germany's Sparkassen and Volksbanken networks are rolling out native crypto trading directly within their existing banking apps for retail customers."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2073734393131151637.html?utm_source=tldrcrypto",
+      "title": "Crypto Card Comparison",
+      "summary": "0xVishnya ran a live comparison of five crypto cards on the same €7.65 purchase in Europe, factoring in FX spread and cashback."
+    }
+  ]
+}
