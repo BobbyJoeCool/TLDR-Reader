@@ -10,14 +10,14 @@
       "summary": "The exploration of coding agents and their testing capabilities shows a disconnect between the efficiency of AI in automating processes and the reliability of its outputs, especially in coding and debugging tasks. While AI models can speed up workflows and increase code quality through good testing methods, they often struggle with generating reliable tests and identifying the true source of bugs."
     },
     {
-      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected?utm_source=tldrdev",
-      "title": "Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?",
-      "summary": "SQLite recently addressed a long-standing bug related to the Write Ahead Log (WAL) that could cause database corruption, present in the system for 16 years. The dqlite team investigated whether this bug affects their implementation by modeling SQLite's behavior in TLA+ and comparing it with how dqlite interacts with SQLite and concluded that dqlite is not affected due to its stricter locking mechanisms that prevent simultaneous writes and checkpoints."
-    },
-    {
       "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit?utm_source=tldrdev",
       "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
       "summary": "Strict memory overcommit in PostgreSQL is necessary for preventing catastrophic out-of-memory (OOM) kills, as it allows the database to handle memory allocation failures gracefully without impacting all connections. A kernel bug in Ubicloud's product temporarily disrupted this configuration, showing the importance of careful management of memory limits to guarantee system stability while running PostgreSQL in production environments."
+    },
+    {
+      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected?utm_source=tldrdev",
+      "title": "Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?",
+      "summary": "SQLite recently addressed a long-standing bug related to the Write Ahead Log (WAL) that could cause database corruption, present in the system for 16 years. The dqlite team investigated whether this bug affects their implementation by modeling SQLite's behavior in TLA+ and comparing it with how dqlite interacts with SQLite and concluded that dqlite is not affected due to its stricter locking mechanisms that prevent simultaneous writes and checkpoints."
     },
     {
       "url": "https://softwaredoug.com/blog/2026/07/04/write-code-not-specs.html?utm_source=tldrdev",

@@ -25,14 +25,14 @@
       "summary": "AI-driven vulnerability analysis is creating new tooling and workflows, but many of the industry's offerings are exaggerated, while AI SAST overall is still underappreciated. Vulnerability management is “going private,” with access to frontier model capabilities, vulnerability data enrichment, and even mitigation processes increasingly limited to large enterprises and vendor customers."
     },
     {
-      "url": "https://www.testingcatalog.com/google-tests-new-gemini-inbox-section-for-workspace-triage/?utm_source=tldrit",
-      "title": "Google tests new Gemini Inbox section for Workspace triage",
-      "summary": "Google is testing a new “Gemini Inbox” section inside the Gemini app for Business and Workspace customers. The interface adds three filters to triage work (items needing follow-up, items marked done, and work ready for review), supporting an Inbox Zero-style workflow tied to Gmail and other connected sources."
-    },
-    {
       "url": "https://www.hashicorp.com/en/blog/hcp-terraform-powered-by-infragraph-limited-availability-launch?utm_source=tldrit",
       "title": "HCP Terraform Powered by Infragraph Limited Availability Launch",
       "summary": "HashiCorp announced limited availability of “HCP Terraform powered by Infragraph” for current HCP Terraform Standard and Premium customers using HCP Terraform in US instances. The release expands the Infragraph connector ecosystem (including Azure, GitHub, and Terraform Enterprise) and adds updates to the graph explorer and query builder to help teams visualize infrastructure relationships, ownership, and state for faster action."
+    },
+    {
+      "url": "https://www.testingcatalog.com/google-tests-new-gemini-inbox-section-for-workspace-triage/?utm_source=tldrit",
+      "title": "Google tests new Gemini Inbox section for Workspace triage",
+      "summary": "Google is testing a new “Gemini Inbox” section inside the Gemini app for Business and Workspace customers. The interface adds three filters to triage work (items needing follow-up, items marked done, and work ready for review), supporting an Inbox Zero-style workflow tied to Gmail and other connected sources."
     },
     {
       "url": "https://apenwarr.ca/log/20260704?utm_source=tldrit",

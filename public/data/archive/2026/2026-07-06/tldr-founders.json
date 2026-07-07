@@ -50,11 +50,6 @@
       "summary": "Churn models ship with a default 0.5 threshold. This analysis prices that default at about $86 per customer in avoidable spend, $8.6M across a 100K-subscriber base. Missing a churner costs about 13x more than over-treating a loyal customer, so the profitable threshold sits well below 0.5 and the default is quietly setting your retention budget. Library defaults across an analytics stack are business decisions nobody consciously made."
     },
     {
-      "url": "https://www.skmurphy.com/blog/2026/07/03/one-mistake-entrepreneurs-make-a-great-product-will-sell-itself/?utm_source=tldrfounders",
-      "title": "One Mistake Entrepreneurs Make: A Great Product Will Sell Itself",
-      "summary": "Entrepreneurs mistakenly believe a great product will sell itself without active sales and marketing efforts."
-    },
-    {
       "url": "https://www.saastr.com/outbound-isnt-dead-ai-just-radically-changed-how-it-works/?utm_source=tldrfounders",
       "title": "Outbound Isn't Dead. AI Just Radically Changed How It Works",
       "summary": "AI has shifted outbound from list-blasting to structured, multi-channel campaigns that combine agents for scale and humans for high-value relationships."
@@ -63,6 +58,11 @@
       "url": "https://x.com/thedankoe/status/2073418764058825045?utm_source=tldrfounders",
       "title": "The most profitable skill of the 21st century (not AI)",
       "summary": "Understanding human nature is the highest-leverage skill in an AI-driven world because attention, persuasion, trust, and value creation ultimately depend on people, not technology."
+    },
+    {
+      "url": "https://www.skmurphy.com/blog/2026/07/03/one-mistake-entrepreneurs-make-a-great-product-will-sell-itself/?utm_source=tldrfounders",
+      "title": "One Mistake Entrepreneurs Make: A Great Product Will Sell Itself",
+      "summary": "Entrepreneurs mistakenly believe a great product will sell itself without active sales and marketing efforts."
     }
   ]
 }

@@ -5,6 +5,11 @@
   "source": "TLDR",
   "articles": [
     {
+      "url": "https://appleinsider.com/articles/26/06/29/apple-design-award-winner-acquired-by-apple-for-new-swift-tools?utm_source=tldrdesign",
+      "title": "Apple Design Award Winner Acquired by Apple for New Swift Tools",
+      "summary": "Apple acquired Rabbit 3 Times, Inc, maker of the visual Swift development tool Play, months after giving Play an Apple Design Award for innovation. The deal, reported to the EU under the Digital Markets Act, reportedly involved acquiring assets and the option to hire staff rather than a full acquisition. Following the deal, Rabbit 3 Times discontinued Play for iPhone and Mac, made its paid Play-to-Xcode export service free, and later shut down its website."
+    },
+    {
       "url": "https://9to5mac.com/2026/07/01/apple-reportedly-testing-new-ipad-pro-models-and-redesigned-entry-level-macbook-pro-for-2027/?utm_source=tldrdesign",
       "title": "Apple reportedly testing new iPad Pro models and redesigned entry-level MacBook Pro for 2027",
       "summary": "Apple is reportedly testing four new 11-inch and 13-inch iPad Pro models for a spring 2027 launch, focusing mainly on internal upgrades such as faster chips and potentially vapor chamber cooling, while also planning a redesigned 14-inch entry-level MacBook Pro that could arrive as early as the first half of 2027. Bloomberg also says Apple is accelerating the launch of its M7 chip to better handle AI workloads, following the upcoming M6 generation. Although memory and chip shortages could still affect the roadmap, these devices are expected to contribute to what could be Apple's biggest product year yet in 2027."
@@ -13,11 +18,6 @@
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/?utm_source=tldrdesign",
       "title": "Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage",
       "summary": "Midjourney is pushing to force Disney, Universal, and Warner Bros. to disclose their own internal AI usage during discovery in the ongoing copyright lawsuits against it. The studios currently only must share generative AI documentation tied to \"consumer-facing\" content, a limit Midjourney's new filing seeks to remove, arguing it lets studios hide evidence of similar internal AI practices while cherry-picking material against Midjourney. The company also wants studios to disclose all Midjourney prompts and outputs used, not just those tied to allegedly infringing images, while the studios' attorney has dismissed the request as a \"fishing expedition.\""
-    },
-    {
-      "url": "https://appleinsider.com/articles/26/06/29/apple-design-award-winner-acquired-by-apple-for-new-swift-tools?utm_source=tldrdesign",
-      "title": "Apple Design Award Winner Acquired by Apple for New Swift Tools",
-      "summary": "Apple acquired Rabbit 3 Times, Inc, maker of the visual Swift development tool Play, months after giving Play an Apple Design Award for innovation. The deal, reported to the EU under the Digital Markets Act, reportedly involved acquiring assets and the option to hire staff rather than a full acquisition. Following the deal, Rabbit 3 Times discontinued Play for iPhone and Mac, made its paid Play-to-Xcode export service free, and later shut down its website."
     },
     {
       "url": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?utm_source=tldrdesign",
@@ -65,14 +65,14 @@
       "summary": "AI has sped up design production, but polished outputs often mask missing edge cases, technical constraints, and system-level coherence. As generation gets easier, evaluating whether solutions solve the right problem becomes the harder, more valuable task. Designers who thrive will slow down key decisions, review work systemically, and treat AI as a collaborator rather than a final authority."
     },
     {
-      "url": "https://www.creativebloq.com/design/apples-liquid-glass-is-having-problems-again?utm_source=tldrdesign",
-      "title": "Apple's Liquid Glass is Having Problems… Again",
-      "summary": "Apple's Liquid Glass design continues drawing criticism, with iOS 27's public beta introducing a new visual flaw some users can't ignore."
-    },
-    {
       "url": "https://www.digitaltrends.com/cool-tech/this-tiny-macbook-accessory-adds-customizable-shortcuts-for-meetings-and-productivity/?utm_source=tldrdesign",
       "title": "This tiny MacBook accessory adds customizable shortcuts for meetings and productivity",
       "summary": "Dune is a USB-C accessory for MacBooks that adds three AI-powered, app-aware programmable buttons to simplify shortcuts and automate common tasks."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/apples-liquid-glass-is-having-problems-again?utm_source=tldrdesign",
+      "title": "Apple's Liquid Glass is Having Problems… Again",
+      "summary": "Apple's Liquid Glass design continues drawing criticism, with iOS 27's public beta introducing a new visual flaw some users can't ignore."
     },
     {
       "url": "https://designyoutrust.com/2026/07/a-contemporary-indian-illustrator-creating-images-filled-with-storybook-light-structure-and-emotion/?utm_source=tldrdesign",

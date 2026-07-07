@@ -35,12 +35,20 @@
       "file": "tldr-design.json"
     },
     {
+      "name": "TLDR Marketing",
+      "file": "tldr-marketing.json"
+    },
+    {
       "name": "TLDR Crypto",
       "file": "tldr-crypto.json"
     },
     {
       "name": "TLDR Fintech",
       "file": "tldr-fintech.json"
+    },
+    {
+      "name": "TLDR Data",
+      "file": "tldr-data.json"
     }
   ]
 }
