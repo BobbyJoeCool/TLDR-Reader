@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-07-07",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thenextweb.com/news/higgsfield-ai-5bn-valuation-funding-round?utm_source=tldrdesign",
+      "title": "AI Video Startup Higgsfield is in Talks to Raise at a $5bn Valuation",
+      "summary": "Higgsfield is negotiating a $300-500mn raise at a $5bn valuation, four times its January mark, after crossing a $500mn annualised revenue run rate this month, up from $200mn at the end of 2025. DST Global is among the investors discussing joining the round, which has not yet closed, and roughly 70% of Higgsfield's revenue comes from enterprise clients like Fortune 500 brands. The company, founded by former Snap executive Alex Mashrabov, generates about 4.5 million video clips daily and recently produced a 95-minute AI feature film in 14 days for under $500,000."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/06/whatsapp-iphone-app-getting-a-green-dot-to-show-whos-online/?utm_source=tldrdesign",
+      "title": "WhatsApp iPhone app getting a green dot to show who's online",
+      "summary": "The latest WhatsApp beta for iPhone introduces a green dot that indicates when a contact is currently online, matching a feature already rolling out on Android. The indicator respects privacy settings by only appearing if users allow their online status to be shared and only while the app is actively open. For now, it's only visible in a contact's info screen, but Meta is reportedly working on a dedicated Contacts view that will highlight online and recently active users."
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/apples-foldable-iphone-may-arrive-this-fall-but-good-luck-getting-your-hands-on-one/?utm_source=tldrdesign",
+      "title": "Apple's foldable iPhone may arrive this fall, but good luck getting your hands on one",
+      "summary": "Apple's first foldable iPhone, expected to launch as the iPhone Ultra alongside the iPhone 18 Pro lineup, may follow the iPhone X's rollout by being announced in September but shipping later due to limited production. Apple is reportedly expected to have only 500,000 to 1 million units ready at launch, compared with 20–22 million for the Pro models, leading to likely shortages despite its estimated $2,300–$2,500 price. Strong demand could result in weeks-long delivery delays, opportunities for scalpers. Apple is already said to be planning a second-generation foldable for 2027."
+    },
+    {
+      "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?utm_source=tldrdesign",
+      "title": "Never mind the prompts, here's the thinking",
+      "summary": "AI doesn't necessarily make design teams faster—the sprint can still take the same amount of time—but it can dramatically increase the amount and completeness of work produced by generating prototypes, documentation, user flows, and edge cases from a single source of truth. Its greatest value lies in improving collaboration and keeping design and engineering artifacts in sync, provided human reasoning and product decisions are documented before AI is involved. Rather than optimizing for speed, the real opportunity is to use the time AI saves to refine ideas, improve product quality, and apply human judgment where it matters most."
+    },
+    {
+      "url": "https://www.chrbutler.com/technology-and-power?utm_source=tldrdesign",
+      "title": "Technology and Power",
+      "summary": "Every technological cycle — from the printing press to AI — functions as a cycle of power, concentrating upward toward governments and corporations despite promises of empowerment. The \"democratization\" narrative is partly true but ultimately serves as cover for growing asymmetries in compute, data, and infrastructure ownership. The real measure of who benefits will emerge later, visible in which institutions and liberties survive the cycle rather than in current marketing claims."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/?utm_source=tldrdesign",
+      "title": "Matching AI Modality to User Intent: Designing the Right Interface",
+      "summary": "Many teams default every AI feature into a chat interface, but that choice often mismatches users' real physical and cognitive constraints in the moment. The piece proposes a Task Audit and an Input/Output Alignment Matrix to match input and output modality to user intent, environment, and workload. A field-technician case study shows that pairing voice input with audio output on-site, then handing off to a visual dashboard back at the truck, cut diagnostic time and boosted tool adoption."
+    },
+    {
+      "url": "https://pixfit.ai/?utm_source=tldrdesign",
+      "title": "AI Creative Resizing for Performance Ads (Website)",
+      "summary": "PixFit turns one master asset into every ad format you need. AI creative resizing for marketing teams that ship at scale."
+    },
+    {
+      "url": "https://fuser.studio/?utm_source=tldrdesign",
+      "title": "Generative Workspace (Website)",
+      "summary": "Build scalable AI workflows with Fuser's node-based canvas. Access multiple AI models for image, video, audio, and 3D generation plus 1,000+ LLMs in one workspace."
+    },
+    {
+      "url": "https://formisch.dev/?utm_source=tldrdesign",
+      "title": "Headless Form Library (Website)",
+      "summary": "Formisch is a framework-agnostic form library that helps you build forms in a type-safe and performant way."
+    },
+    {
+      "url": "https://geekvibesnation.com/battle-for-simplicity-platforms-simplify-user-experience/?utm_source=tldrdesign",
+      "title": "The Battle for Simplicity: How Competition is Driving Platforms to Simplify User Experience",
+      "summary": "Competition among digital platforms in 2026 is pushing companies toward simpler, more intuitive interfaces to retain increasingly discerning users. AI-driven personalization and real-time feedback loops help reduce cognitive load and let developers quickly fix friction points. Success depends on balancing new technologies like AR or blockchain with usability, favoring platforms that keep innovation from overwhelming the user experience."
+    },
+    {
+      "url": "https://uxdesign.cc/why-systems-thinking-is-becoming-the-most-important-ux-skill-688136ed1ce2?utm_source=tldrdesign",
+      "title": "Why Systems Thinking is Becoming the Most Important UX Skill",
+      "summary": "Apple's WWDC 2026 announcements—Siri now drawing on Gemini and an expanded Intelligence Framework—signal that app design is shifting from screen-based craft toward platform-level systems thinking. New contextual hooks let Siri invoke app functions without the app being opened, making experience architecture and platform interoperability more critical than visual polish alone. Designers are urged to adopt tools like job stories and state charts, alongside genuine user research, to prepare for this system-driven shift."
+    },
+    {
+      "url": "https://www.creativeboom.com/news/this-rebrand-finds-its-entire-personality-in-one-tiny-typographic-flourish/?utm_source=tldrdesign",
+      "title": "This clever rebrand finds its entire personality in one tiny flourish",
+      "summary": "Lark Design Studio created a minimalist new identity for Wottz, centred on a custom wordmark with a subtle lightning bolt hidden in the double \"t\" to reflect the company's attention to detail. Rather than relying on an elaborate brand system, the identity uses a restrained colour palette, custom icons, and consistent application across packaging, products, and vehicles to create a distinctive, durable brand. The project demonstrates how a single, well-executed idea can be more effective than a complex visual identity, especially for smaller businesses."
+    },
+    {
+      "url": "https://www.creativebloq.com/art/animation/move-over-minions-not-alone-shows-illumination-still-has-a-knack-for-adorable-character-design?utm_source=tldrdesign",
+      "title": "Move Over Minions, Not Alone Shows Illumination Still Has a Knack for Adorable Character Design",
+      "summary": "Illumination unveils a teaser for Not Alone, an original film pairing a gentle space-set romance with chaotic alien sidekicks reminiscent of the Minions."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/logos-icons/steph-currys-new-logo-is-the-ultimate-game-of-spot-the-difference?utm_source=tldrdesign",
+      "title": "Steph Curry's new logo is the ultimate game of spot the difference",
+      "summary": "Stephen Curry has unveiled a subtly updated SC30 logo that integrates Li-Ning branding to celebrate his new 10-year partnership and creative independence from Under Armour."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/07/3d-artist-andres-rios-brings-horror-icons-to-life-through-digital-art/?utm_source=tldrdesign",
+      "title": "3D Artist Andres Rios Brings Horror Icons to Life Through Digital Art",
+      "summary": "Andres Rios is a digital artist who specializes in horror-themed illustration and creature/monster design."
+    }
+  ]
+}

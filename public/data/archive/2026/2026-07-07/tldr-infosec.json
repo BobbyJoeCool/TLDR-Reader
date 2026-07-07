@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-07-07",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html?utm_source=tldrinfosec",
+      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      "summary": "Researchers show that simple byte changes and a self-extracting packing method called SKILLCLOAK let malicious AI agent skills bypass eight popular static scanners in over 90% of tests, while a sandboxed runtime monitor, SKILLDETONATE, catches most cloaked skills instead."
+    },
+    {
+      "url": "https://www.telegraph.co.uk/news/2026/07/05/russian-hackers-steal-government-logins/?utm_source=tldrinfosec",
+      "title": "Russian Hackers Steal Government Logins",
+      "summary": "Several UK government officials' email accounts were compromised due to exploitation of the FortiBleed vulnerabilities. Emails and passwords for the officials are being sold by the attackers on the dark web for $60k. The hack does not appear to be state-sponsored, but the threat actors seem to be Russian speakers."
+    },
+    {
+      "url": "https://cyberpress.org/moody-bible-institute-data-breach/?utm_source=tldrinfosec",
+      "title": "Moody Bible Institute Data Breach Exposes 2.3M Email Addresses",
+      "summary": "Moody Bible Institute, a Christian educational institution, confirmed a breach after the ShinyHunters ransomware group. The data includes dates of birth, email addresses, genders, marital statuses, names, phone numbers, and physical addresses belonging to 2.3M individuals."
+    },
+    {
+      "url": "https://medium.com/@renwa/you-are-not-where-you-think-you-are-opera-browsers-address-bar-spoofing-vulnerabilities-aa36ad8321d8?utm_source=tldrinfosec",
+      "title": "You Are Not Where You Think You Are, Opera Browsers Address Bar Spoofing Vulnerabilities",
+      "summary": "Renwa documents several address bar spoofing bugs across Opera GX, Opera, Opera Touch, and Opera Mini on desktop and Android. Techniques include abusing intent URLs and data URLs, silent installation, and upgrading of GX Mods into extensions that can spawn chrome.windows popups without a URL bar, and mis-handled Google search redirects that rewrite the visible URL while serving attacker content. Other issues misuse custom schemes and fullscreen mode to freeze or hide the real address bar. All reported flaws were fixed and rewarded through Opera's bug bounty."
+    },
+    {
+      "url": "https://kanenarraway.com/posts/agent-identity-models/?utm_source=tldrinfosec",
+      "title": "Three Ways to Give an AI Agent an Identity",
+      "summary": "There are three primary paradigms for granting AI agents an identity: borrowing the user's identity, granting the agent its own token/API key, and giving the agent its own identity. On top of any of these models, there is a layer of plumbing such as Okta Cross App Access, agent control planes, or SPIFFE/SPIRE. Cloud providers are offering the third model as a service."
+    },
+    {
+      "url": "https://www.securonix.com/blog/veildrop-blogspot-hosted-powershell-loader/?utm_source=tldrinfosec",
+      "title": "Veil#Drop: Blogspot-Hosted PowerShell Loader Delivers PureLog Stealer Through XOR-Encoded In-Memory .NET Payloads",
+      "summary": "Veil#Drop is a multi‑stage PowerShell‑based framework that starts from a JavaScript file disguised as a document, then uses Windows Script Host to launch PowerShell with execution policy bypassed and pull further stages from attacker‑controlled Blogspot pages. Payloads are XOR‑encoded, decoded only in memory, and reconstructed into .NET assemblies that are loaded via reflection without touching disk. The campaign relies on compromised websites, document‑style multi‑extension filenames, LOLBIN‑based execution fallbacks, decoy content, cleanup of the initial launcher, and finally deploys PureLog Stealer to grab browser credentials, cookies, crypto wallets, and other user data."
+    },
+    {
+      "url": "https://github.com/amruth-sn/kong?utm_source=tldrinfosec",
+      "title": "Kong (GitHub Repo)",
+      "summary": "Kong applied an agentic pipeline to reverse engineering, using Ghidra's program analysis to build call-graph context before orchestrating LLM-guided decompilation to recover function names, types, and struct layouts in stripped binaries. The tool's semantic synthesis pass unified naming conventions post-analysis, and its agentic deobfuscation stage targeted control-flow flattening, bogus control flow, and VM protection."
+    },
+    {
+      "url": "https://github.com/pglombardo/PasswordPusher?utm_source=tldrinfosec",
+      "title": "PasswordPusher (GitHub Repo)",
+      "summary": "Securely share sensitive information with automatic expiration and deletion after a set number of views or duration. Track who, what, and when with full audit logs."
+    },
+    {
+      "url": "https://github.com/iimp0ster/detection-chokepoints?utm_source=tldrinfosec",
+      "title": "Detection Chokepoints (GitHub Repo)",
+      "summary": "A community detection engineering resource organized around invariant prerequisites. Every chokepoint is a condition that attackers can avoid."
+    },
+    {
+      "url": "https://words.filippo.io/vuln-reports/?utm_source=tldrinfosec",
+      "title": "Vulnerability Reports Are Not Special Anymore",
+      "summary": "Vulnerability reports have lost the special status they once held as LLMs now let both defenders and attackers surface security issues at similar rates, eliminating the scarcity of insight that justified prioritizing coordinated disclosure. The operational bottleneck has shifted from finding vulnerabilities to triaging the flood of LLM-generated reports, many of which are technically valid but carry unclear real-world impact. Some especially high-severity or high-trust reports would still warrant special handling, while the broader population of reports would need to be treated like regular issue-tracker submissions."
+    },
+    {
+      "url": "https://www.itnews.com.au/news/microsoft-device-telemetry-key-to-unmasking-alleged-scattered-spider-hacker-627148?utm_source=tldrinfosec",
+      "title": "Microsoft device telemetry key to unmasking alleged Scattered Spider hacker",
+      "summary": "FBI investigators identified 19-year-old Scattered Spider suspect Peter Stokes largely through a Microsoft global device identifier (GDID) that survived his VPN and ngrok tunneling, then cross-referenced its IP history against Snapchat, Apple, and Facebook login logs to tie him to a US$8 million ransom demand and broader conspiracy charges under the FBI's Operation Riptide."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/?utm_source=tldrinfosec",
+      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
+      "summary": "Canada's CSE describes three foreign hacking operations and one defensive action. It disrupted fentanyl chemical brokers, weakened an extremist group's online recruitment, and shut down a ransomware-as-a-service gang, wiping data from its servers. It also ran technical disruptions against 10 major ransomware groups and broke up a phishing campaign hitting Canadian government systems."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/?utm_source=tldrinfosec",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "summary": "FFmpeg patched CVE-2026-8461 (CVSS 8.8), a heap out-of-bounds write in the MagicYUV decoder enabling DoS across Kodi, OBS Studio, PhotoPrism, and Nextcloud and full RCE on Jellyfin via crafted AVI/MKV/MOV files when ASLR is disabled."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/?utm_source=tldrinfosec",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software and instructed employees to switch to its own Qoder tool by July 10."
+    },
+    {
+      "url": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/?utm_source=tldrinfosec",
+      "title": "Proof-of-Concept Exploit Released for Linux ‘Bad Epoll' Root Access Vulnerability",
+      "summary": "A newly disclosed Linux kernel bug, CVE-2026-46242 “Bad Epoll,” is a race-condition use-after-free in epoll that lets unprivileged processes gain root via a PoC ROP exploit."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-07",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cointelegraph.com/news/ofac-134-isis-k-crypto-wallets-tether-freezes-131?utm_source=tldrcrypto",
+      "title": "OFAC Sanctions 134 ISIS-K Crypto Wallet Addresses as Tether Freezes Funds",
+      "summary": "OFAC added 134 cryptocurrency wallet addresses tied to ISIS-Khorasan to its SDN list on July 1, comprising 131 Tron addresses that received over $1.4 million in donations since 2023 and sent around $880,000 in outbound transfers, along with 3 Monero addresses. Tether froze balances on all 131 Tron addresses within the same action, showing how centralized stablecoin issuers can enforce sanctions at the wallet level, while the 3 Monero addresses remain outside any issuer's control. Chainalysis data shows the group's wallets transacted with mainstream services including Syria-based exchanges, placing the funds in standard crypto infrastructure rather than isolated darknet channels."
+    },
+    {
+      "url": "https://cointelegraph.com/news/dormant-bitcoin-new-york-lawsuit-moved-15-years?utm_source=tldrcrypto",
+      "title": "Dormant $1.9M Bitcoin Tied to New York Lawsuit Moves After Nearly 15 Years",
+      "summary": "A Bitcoin address dormant since August 2011 transferred 30 BTC (~$1.88M) on Saturday, one of 39,069 addresses named in a New York lawsuit filed seeking ownership of inactive holdings. These addresses together hold an estimated 3.7 million BTC (~$234B), and the case tests whether New York's lost-property statutes can be applied to dormant cryptocurrency. Data shows movement from such addresses accelerating in June, with 31 addresses moving 17,527 BTC that month compared to five addresses moving 4,834 BTC in February. A defendant filed a motion to dismiss, arguing Bitcoin addresses are \"data strings that cannot be sued,\" while legal experts counter that inactivity does not constitute abandonment absent proof of private key loss."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2073993861182226760.html?utm_source=tldrcrypto",
+      "title": "Deploying an x402 API With a Single Tweet",
+      "summary": "Bankr demonstrated deploying a monetized API endpoint using a single natural language tweet directed at @bankrbot, an AI agent built on the x402 payment protocol. The deployed lottery endpoint charges $5 USDC per POST request, verifies callers by payment wallet, logs every play to private files, and holds a $1,000 USDC prize for the first caller to guess the correct number between 1 and 300, all configured from plain-English instructions with no code written. The full loop from tweet to live, payment-gated URL completed within minutes, with players able to interact by instructing bankrbot to call the endpoint directly or by hitting it with any x402-compatible client."
+    },
+    {
+      "url": "https://ethresear.ch/t/native-utxos-on-ethereum/25368?utm_source=tldrcrypto",
+      "title": "Native UTXOs on Ethereum",
+      "summary": "A new proposal introduces a native UTXO model that runs alongside the existing account system, targeting payment workloads where persistent account state is unnecessary. The design records UTXO existence in append-only creation logs and stores only a single spent bit per UTXO in state, reducing per-entry state from ~100-150 bytes to ~0.3 bytes and compressing 1 billion entries from roughly 150 GB to ~300 MB. Self-funded spends allow zero-ETH recipients to spend received UTXOs without a prior gas top-up, and trustless sponsorship lets third parties cover fees after verifying a repayment output exists in the same frame, removing any trust requirement between user and sponsor."
+    },
+    {
+      "url": "https://x.com/563defi/status/2072735728065216596?utm_source=tldrcrypto",
+      "title": "Why Founders Don't Care About Their Token",
+      "summary": "When a protocol maintains both an equity entity and a token, founders face a structural incentive to prioritize equity, which carries legal standing, simpler fundraising mechanics, and investor familiarity that tokens cannot match. A required-return framework quantifies the damage: crypto tokens must clear around 15% versus 9-10% for equities due to added regulatory, governance, and smart contract risk premia, meaning a protocol generating $100M in annual revenue can trade below 1x revenue when token holders hold weak claims on cash flows. That sub-1x multiple is the market pricing in its expectation that token rights will never reach parity with equity, treating the token as a branded memecoin stapled to a profitable business whose equity entity captures the actual cash flow upside. Closing the gap requires committing token holders to equity-equivalent economics rather than retaining equity upside for insiders and VCs while distributing token exposure to retail."
+    },
+    {
+      "url": "https://ethresear.ch/t/the-extremely-lean-chain/25369?utm_source=tldrcrypto",
+      "title": "Vitalik Proposes the Extremely Lean Consensus Chain",
+      "summary": "Vitalik Buterin has proposed a redesign of Ethereum's consensus chain that cuts per-validator state to just 6 bytes by removing pubkeys from beacon chain state, replacing them with deposit tree indices, and shifting all balance accounting to daily STARK proofs that validators generate and submit themselves. This eliminates end-of-epoch processing entirely and could scale the validator set to millions. A second phase adds strong privacy by having validators generate a fresh pubkey each day, completely re-anonymizing their on-chain identity, with only effective balance and slashing status revealed through the daily proof."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074050053518283170.html?utm_source=tldrcrypto",
+      "title": "Priority Fees Are Declining and That's a Good Thing",
+      "summary": "Ethereum priority fees have remained flat at $500-600M per year for four years despite rising activity, and will likely fall further as apps, wallets, and DEXs internalize MEV through their own ordering mechanisms (e.g., MetaMask backrunning auctions, Angstrom for DEX arbitrage, and ChainLink SVR paired with Aave for liquidations). The real Ethereum bull case is base fees at one million transactions per second priced at $0.1 cents each, annualized run-rate revenue reaches $315 billion, and well-designed DeFi apps that compete with TradFi on tight spreads while paying minimal priority fees represent the strongest version of that outcome."
+    },
+    {
+      "url": "https://www.theblock.co/post/407273/russias-largest-bank-sber-targets-early-december-crypto-wallet-launch-report?utm_source=tldrcrypto",
+      "title": "Sberbank Plans Crypto Wallet Launch by December",
+      "summary": "Russia's largest bank plans to integrate a crypto wallet and digital asset depository into its Sber and Sber Investments mobile apps by December 1 pending Russia's digital asset law taking effect on September 1."
+    },
+    {
+      "url": "https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=tldrcrypto",
+      "title": "Bitmine Treasury Approaches 5% of Ethereum's Total Supply",
+      "summary": "Bitmine bought 42,197 ETH worth ~$74 million last week, lifting its total treasury to 5.74 million ETH (~4.8% of the token's total supply) while Chairman Tom Lee tied ETH's recent 10% monthly gain against bitcoin's 2% to Clarity Act passage odds reaching about 50% on prediction markets."
+    },
+    {
+      "url": "https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy?utm_source=tldrcrypto",
+      "title": "Strategy Sells 3,588 BTC as Holdings Remain Underwater",
+      "summary": "Strategy sold 3,588 BTC for approximately $216 million last week to fund preferred stock distributions and replenish its USD reserve to $2.55 billion, reducing its total holdings to 843,775 BTC purchased at an average price of $74,476."
+    },
+    {
+      "url": "https://www.theblock.co/post/407134/spotify-asks-kalshi-polymarket-to-remove-branding-after-manipulated-streams-used-to-settle-music-bets-bloomberg?utm_source=tldrcrypto",
+      "title": "Spotify Asks Kalshi, Polymarket to Remove Branding After Manipulated Streams",
+      "summary": "Over 500,000 artificial streams inflated Malcolm Todd's song \"Earrings\" on Spotify charts, and the manipulated figures settled a Kalshi prediction market with $3 million in trading volume where bettors who entered at Todd's sub-3% odds stood to earn around 30x their stakes."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-07-07",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://searchengineland.com/meta-ai-search-sleeping-giant-481581?utm_source=tldrmarketing",
+      "title": "Why Meta AI could become search's sleeping giant",
+      "summary": "Meta AI could become a major search and product discovery channel by embedding AI in existing apps instead of separate tools. It reached 1B monthly users by May 2025, while Meta's apps reach 3.56B daily users, giving it an edge in capturing intent across social, messaging, and shopping. Brands should test how it surfaces products, creators, reviews, and content. Visibility may rely less on traditional SEO and more on social content, partnerships, product data, and community activity."
+    },
+    {
+      "url": "https://www.fastcompany.com/91568840/physical-media-is-dying-so-is-the-idea-that-you-own-what-you-buy?utm_source=tldrmarketing",
+      "title": "Physical media is dying. So is the idea that you own what you buy",
+      "summary": "Physical media is fading as gaming shifts to digital-only distribution, with Sony planning to sell only digital PlayStation titles by 2028. While convenient, this shift weakens ownership, as purchases become revocable licenses rather than permanent assets. Content can disappear due to licensing changes, as seen with removed films from user libraries. Broader trends in gaming and streaming reinforce this shift, prompting regulatory responses. The traditional idea of buying media to own is eroding, replaced by limited, conditional access."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/robmuldoon_31linkedinadslearnings-share-7478733305748545536-4CNV/?utm_source=tldrmarketing",
+      "title": "Carousel ads vs. Document ads. Convo ads vs. Message ads",
+      "summary": "Small format changes can drive big swings in LinkedIn Ads performance, so testing similar formats is critical. Document ads often beat carousel ads for multi-slide creative due to better mobile usability and engagement, but not consistently. Message and conversation ads also vary widely despite similar setups, with no clear winner. Performance differences can be significant, making side-by-side testing the only reliable way to decide."
+    },
+    {
+      "url": "https://www.marketingideas.com/p/your-perfect-viral-post-is-here?utm_source=tldrmarketing",
+      "title": "Your next viral post is already written",
+      "summary": "Three viral formats dominating social feeds right now all hijack a real news event instead of inventing a joke. Sony's PlayStation-goes-digital-only announcement drew 70K angry replies, and Domino's UK parody about digital pizzas answered within two hours for 488K likes, with more brands piling on. Software companies ran the joke in reverse, and GitHub took it furthest by actually shipping code on CD-ROMs, landing on Hacker News's front page. A third format copies the US government's real Claude Fable 5 shutdown statement onto unrelated products."
+    },
+    {
+      "url": "https://davidtamachi.ca/google-ads-search-terms-waste-analyzer?utm_source=tldrmarketing",
+      "title": "Google Ads Search Terms Waste Analyzer (Tool)",
+      "summary": "Paste or upload your Google Ads Search Terms Report to find wasted spend, negative keyword candidates, n-gram patterns, and high-intent query opportunities. The analysis runs locally in your browser. The tool is free to use."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/chris-long-marketing_seo-tip-hidden-in-the-source-code-chatgpt-share-7479880034527264768-KHmm/?utm_source=tldrmarketing",
+      "title": "Find ChatGPT's data sources in the source code",
+      "summary": "Chrome DevTools can reveal the source for each of ChatGPT's cited URLs through the \"result_source\" tag. Its current data sources include Labrador for training data, SERP for search data, BrightData, and Oxylabs. This helps you identify where ChatGPT finds information and build content that is more likely to appear in AI-generated citations."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/ai-visibility-scores-are-useless?utm_source=tldrmarketing",
+      "title": "AI Visibility Scores Are Useless",
+      "summary": "AI visibility tools rely on prompts that can be easily manipulated, making their scores unreliable and disconnected from how users actually search. Citations also vary widely, so optimizing for them alone is flawed. A better approach is to analyze consistently cited sources, study competitors, and focus on content that answers real user questions. Visible brand mentions matter more than links, making strong, clear positioning key to showing up in AI responses."
+    },
+    {
+      "url": "https://www.marketingweek.com/both-sidesmarketing-education-row/?utm_source=tldrmarketing",
+      "title": "Both sides of the marketing education row are right",
+      "summary": "Debate over marketing education has become polarized, but both sides are largely right. Foundational knowledge still matters, while the traditional canon needs updating for a changing industry. The real issue is confusion between knowledge, competencies, and skills, with too little focus on applying learning in real contexts. Universities and training each play a role, but neither is sufficient alone. Underneath the debate is deeper uncertainty about marketing's future, which is fueling division and making constructive progress harder."
+    },
+    {
+      "url": "https://ahrefs.com/blog/self-promotional-content-ai-seo-experiment/?utm_source=tldrmarketing",
+      "title": "Self-Promotional Content Works—Until It Backfires",
+      "summary": "Publishing self-promotional pages pulled a new conference brand into 72 previously empty AI answer slots, with 82% of those mentions citing the brand's own content. The same tactic barely moved an already-established brand, where only 6% of new mentions traced back to owned pages. Even where citations landed, they backfired 43% of the time, with AI citing the page while recommending a competitor from the same list. The effect scaled with query specificity, hitting 66% of answers for a narrow \"best SEO conferences\" search versus 16% for a broader \"best marketing conferences\" one."
+    },
+    {
+      "url": "https://www.digitaltrends.com/social-media/ai-tools-can-quietly-shift-your-opinions-when-they-clean-up-your-social-media-posts-study-finds/?utm_source=tldrmarketing",
+      "title": "AI tools can quietly shift your opinions when they “clean up” your social media posts",
+      "summary": "AI writing tools can nudge tone in specific directions across topics, even when asked to preserve meaning."
+    },
+    {
+      "url": "https://www.growth-memo.com/p/why-most-original-data-never-gets?utm_source=tldrmarketing",
+      "title": "Why most original data never gets cited",
+      "summary": "Original data earns disproportionate citations, but almost only when packaged as clear, comparable benchmarks that directly answer “which is best” questions."
+    }
+  ]
+}

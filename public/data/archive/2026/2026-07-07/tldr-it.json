@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-07",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.investors.com/news/anthropic-terawulf-ai-data-center-lease-neocloud-coreweave-iren/?utm_source=tldrit",
+      "title": "TeraWulf jumps on $19 billion data center lease deal with Anthropic",
+      "summary": "TeraWulf signed a 20-year AI data center lease with Anthropic expected to generate about $19 billion in contracted revenue. The deal covers a Kentucky AI infrastructure campus with about 401 MW of critical IT load."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414?utm_source=tldrit",
+      "title": "NetNut cracked as Google and FBI target 2 million-device botnet",
+      "summary": "Google, the FBI, and multiple partners said they significantly degraded the NetNut residential proxy network as part of an ongoing disruption effort. Researchers report NetNut had at least 2 million devices enrolled, mainly small TV-streaming hardware, and that threat actors used NetNut exit nodes in numerous threat clusters, including for masking malicious traffic and password spray attacks."
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.01418?utm_source=tldrit",
+      "title": "Adoption and Impact of Command-Line AI Coding Agents (1 minute read))",
+      "summary": "A study by Microsoft found that engineers using command-line AI coding agents merged roughly 24% more pull requests than expected. Adoption spread through peer networks, suggesting rollout strategy matters as much as tooling."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4190757/cloud-repatriation-is-back-on-the-agenda.html?utm_source=tldrit",
+      "title": "The great cloud rebalance",
+      "summary": "Enterprises are rethinking cloud strategy and repatriating workloads from hyperscale public cloud to dedicated infrastructure such as colocation, hosted private clouds, or MSP-operated environments. This shift is driven by cost predictability, performance/latency and data gravity concerns, compliance and sovereignty requirements, and the desire for greater control and reduced vendor lock-in."
+    },
+    {
+      "url": "https://devops.com/anthropic-adds-enterprise-gateway-to-simplify-claude-code-access-on-aws-and-google-cloud/?utm_source=tldrit",
+      "title": "Anthropic Adds Enterprise Gateway to Simplify Claude Code Access on AWS and Google Cloud",
+      "summary": "Anthropic has released a self-hosted gateway for rolling out Claude Code through Amazon Bedrock and Google Cloud. It centralizes identity, policy enforcement, spend tracking, and usage visibility for enterprise deployments."
+    },
+    {
+      "url": "https://preset.io/blog/preset-managed-private-cloud-now-available-on-microsoft-azure/?utm_source=tldrit",
+      "title": "Preset Managed Private Cloud Now Available on Microsoft Azure",
+      "summary": "Preset announced that its Managed Private Cloud (MPC) offering is now available on Microsoft Azure. MPC deploys directly into a customer's Azure virtual network, keeping data in-network while Preset manages operations like deployments, upgrades, security, and compliance features."
+    },
+    {
+      "url": "https://amenzwa.github.io/stem/PL/FortranModernisation/?utm_source=tldrit",
+      "title": "Forlorn Hope of Fortran Modernisation",
+      "summary": "A satirical piece that humorously reimagines Fortran by adding modern language features until it barely resembles the original. Beneath the satire, it explores the trade-offs of language design and questions whether endless modernization can come at the expense of a system's identity."
+    },
+    {
+      "url": "https://www.geopolitechs.org/p/chinas-cybersecurity-standard-on?utm_source=tldrit",
+      "title": "China's cybersecurity standard on AI agent deployment",
+      "summary": "China's TC260 has released a security practice guide for deploying and using AI agents, requiring pre-deployment security assessments, lifecycle permission controls, audit logging, hardening, and secure data erasure at decommissioning. The guidance treats AI agents as integrated systems (with memory, tool use, and operational privileges). China has also issued interim measures for anthropomorphic AI interaction services that take effect on July 15, prompting major platforms to adjust or discontinue certain features ahead of the date."
+    },
+    {
+      "url": "https://developer.microsoft.com/blog/not-all-model-upgrades-are-upgrades?utm_source=tldrit",
+      "title": "Not all model upgrades are upgrades",
+      "summary": "Upgrading to a newer AI model can increase token consumption enough to negate lower per-token pricing and sometimes degrade output quality."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/?utm_source=tldrit",
+      "title": "Cloudflare's new policy pushes AI companies to pay for publishers' content",
+      "summary": "Cloudflare will block “mixed-use” crawlers by default on certain sites starting September 15."
+    }
+  ]
+}

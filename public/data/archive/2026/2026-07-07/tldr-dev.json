@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-07",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.logrocket.com/react-compiler-memoization-what-actually-broke/?utm_source=tldrdev",
+      "title": "I let React Compiler handle memoization: Here's what actually broke",
+      "summary": "The React compiler automates memoization in applications, allowing code to be simplified by removing manual useMemo and useCallback hooks. The migration process involves establishing lint rules first to catch potential issues, enabling the compiler afterward, and understanding that the DevTools memoization badge does not guarantee successful optimizations."
+    },
+    {
+      "url": "https://www.joshwcomeau.com/css/anchor-positioning/?utm_source=tldrdev",
+      "title": "Getting Started with Anchor Positioning",
+      "summary": "The Anchor Positioning API makes the process of positioning UI elements, like tooltips and dropdowns, relative to each other without relying heavily on JavaScript easier. It allows specifying anchor and target elements and dynamically managing their positions, while supporting features like fallback options and conditions based on viewport changes."
+    },
+    {
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context?utm_source=tldrdev",
+      "title": "How we taught a small LLM to throw away 68% of our RAG context",
+      "summary": "A small, cost-effective LLM was implemented to prune retrieved context chunks for question-answering systems in order to improve efficiency, successfully discarding 68% of unnecessary chunks while maintaining 96% recall. This method addresses the traditional challenge of balancing cost and recall in complex knowledge bases, where irrelevant context can increase expenses without aiding the response accuracy."
+    },
+    {
+      "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize?utm_source=tldrdev",
+      "title": "Not everything should cost a token: the case for deterministic AI",
+      "summary": "Using AI models for routine tasks can lead to unnecessary costs and inefficiencies, as these tasks often do not require the intelligence of a probabilistic model. Instead, delegating deterministic work to app-level processes can optimize performance and manage expenses more effectively."
+    },
+    {
+      "url": "https://stevekrouse.com/learn-to-code?utm_source=tldrdev",
+      "title": "Learning to code is still worthwhile",
+      "summary": "Learning to code is valuable not only for vocational reasons but also as a means to understand mathematics and improve problem-solving skills. Additionally, programming is a creative outlet comparable to literature or music."
+    },
+    {
+      "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/?utm_source=tldrdev",
+      "title": "Price per 1M tokens is meaningless",
+      "summary": "Comparing AI models only by price per 1 million tokens is misleading, as tokenization varies a lot between models, influencing overall costs. It's necessary to evaluate models based on their effectiveness and cost per task completed to make informed decisions on AI usage."
+    },
+    {
+      "url": "https://github.com/iOfficeAI/OfficeCLI?utm_source=tldrdev",
+      "title": "OfficeCLI (GitHub Repo)",
+      "summary": "OfficeCLI is an open-source, AI-friendly command-line tool that allows for easy creation, editing, and automation of Word, Excel, and PowerPoint documents without requiring any external Office installation, allowing AI agents to manage documents using commands."
+    },
+    {
+      "url": "https://github.com/mozilla-ai/otari?utm_source=tldrdev",
+      "title": "Otari (GitHub Repo)",
+      "summary": "Otari is an open-source, OpenAI-compatible LLM gateway that allows users to manage API keys, enforce budgets, and track usage across over 40 providers through a single endpoint, which can be run either standalone or hosted."
+    },
+    {
+      "url": "https://mapcn.dev/?utm_source=tldrdev",
+      "title": "Mapcn (Website)",
+      "summary": "Mapcn offers free and customizable map components for React, built on MapLibre and styled with Tailwind, making it easy to create beautiful maps."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074178395462848800.html?utm_source=tldrdev",
+      "title": "A Stargate for Data",
+      "summary": "AI labs are projected to spend over $100 billion per year on data by 2030, as current advancements in AI capabilities show a shift from a compute-limited to a data-limited regime. The scarcity of high-quality data from the internet, combined with the urgent need for data collection across various private and public domains, shows the importance of treating data as a strategic asset necessary for economic and scientific progress."
+    },
+    {
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/?utm_source=tldrdev",
+      "title": "GLM 5.2 and the coming AI margin collapse (part 1)",
+      "summary": "GLM 5.2 is such a cost-effective model that it shows the possible collapse of AI margins as smaller models make more sense to use for daily tasks. This may change the entire economics of AI and training models."
+    },
+    {
+      "url": "https://www.anthropic.com/research/global-workspace?utm_source=tldrdev",
+      "title": "A global workspace in language models",
+      "summary": "Recent research by Anthropic has identified a novel set of internal neural patterns in LLMs, referred to as the J-space, which distinguishes conscious processing from unconscious activity. The J-space, developed autonomously during training, serves as a mental workspace that helps with deliberate reasoning and reporting of thoughts, showing flexibility in linking concepts and performing various tasks, although it only represents a small portion of the model's overall processing."
+    },
+    {
+      "url": "https://www.manager.dev/newsletter/the-software-engineering-war?utm_source=tldrdev",
+      "title": "The software engineering war",
+      "summary": "The ongoing conflict in software engineering between \"builders,\" who prioritize rapid feature deployment and immediate user feedback, and \"keepers,\" who focus on meticulous coding and system integrity, reflects a broader industry debate over the balance between speed and quality in development practices with AI in the mix."
+    },
+    {
+      "url": "https://ramp.com/data/heavy-ai-adopters-hire-more?utm_source=tldrdev",
+      "title": "Companies hire more after AI adoption",
+      "summary": "Companies that adopt AI experience a 10% growth in headcount within two years, primarily driven by high-intensity adopters."
+    },
+    {
+      "url": "https://xcancel.com/haider1/status/2073695124220006575?utm_source=tldrdev",
+      "title": "GPT-5.6 Sol Ultra will be in Codex (1 minute readt)",
+      "summary": "GPT-5.6 Sol Ultra will be available to use on Codex."
+    },
+    {
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals?utm_source=tldrdev",
+      "title": "Small AI Models Gain Traction Around the World",
+      "summary": "Small AI models are becoming effective solutions for addressing healthcare and agricultural challenges in areas with limited infrastructure, offering localized services without the need for extensive data centers or broadband connectivity."
+    }
+  ]
+}
