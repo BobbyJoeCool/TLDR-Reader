@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-07-08",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://tomtunguz.com/the-10b-fde-boom/?utm_source=tldrfounders",
+      "title": "The $10B FDE Boom",
+      "summary": "AI companies have committed $9.75 billion in 12 months to forward-deployed engineering. The FDE role is now an industry default rather than a Palantir signature. FDE investment is a moat as retraining on a competitor's stack is friction no manager wants."
+    },
+    {
+      "url": "https://x.com/EverettRandle/status/2074527860510085498?utm_source=tldrfounders",
+      "title": "The Task Economy - Data will be the next $1 Trillion Category",
+      "summary": "The Task Economy is the defining market for the future of AI. The barrier to automating every task with agents is covering the full distribution of all of the apps, all of the environments, and all of the tasks that correspond to everything in the economy. This will require a massive data build-out across every professional domain, academic discipline, and consumer use case. Labs, AI app companies, and enterprises will all fight to rapidly scale this data infrastructure across the full surface area of economically useful work. The ones that succeed will continue to improve frontier capabilities and gain market share."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074605343439810922.html?utm_source=tldrfounders",
+      "title": "Agentic AI adoption is on fire at Uber",
+      "summary": "Agent AI adoption is changing how Uber builds. 99% of the company's engineers use AI tools. More than 70% of pull requests are attributed to agents. The biggest lesson that the company has learned is that the best AI opportunities are discovered by sitting next to the people doing the work, understanding every friction point, and building with them, not for them."
+    },
+    {
+      "url": "https://www.newsletter.lukesophinos.com/p/linear-1835-what-a-founder-who-sold?utm_source=tldrfounders",
+      "title": "What a Founder Who Sold His Last Company for $780M Is Unlearning",
+      "summary": "The founder who sold Vungle to Blackstone for $780M explains why his second-time playbook is a tax, after watching Blazel's token bill pass $70K in a single month and its AI-agency business race toward an easy but fatal $10M ARR. He kept the agency just long enough to harvest labeled human edits, fine-tuned a model on them, and pivoted to a platform before the cultural switching cost made the pivot impossible. The expensive lesson underneath it comes from Vungle serving two markets at once while AppLovin picked one, and today Vungle is worth $4B against AppLovin's $150-250B."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/?utm_source=tldrfounders",
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "summary": "Google is adding support for capabilities in Managed Agents in Gemini API like background execution for async interactions, easy connection to remote MCP servers, custom functions, and credential refresh.  The new capabilities will enable developers to build autonomous agents with expanded capabilities. They turn managed agents into asynchronous workers that operate inside real development environments without blocking applications."
+    },
+    {
+      "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile?utm_source=tldrfounders",
+      "title": "Use Claude Cowork on web, desktop, and mobile",
+      "summary": "Claude Cowork is now available on web and mobile as well as desktop. Cowork runs sessions remotely so users can access their sessions and files wherever they are, on any device. It is still in beta on web and mobile. The feature will roll out over the next several weeks, starting with the Max plan."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/ai-giants-are-handing-out-tons-of-free-computing-power-to-grab-startup-share-c00a5c5c?st=XtHDjm&reflink=desktopwebshare_permalink&utm_source=tldrfounders",
+      "title": "AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share",
+      "summary": "Top AI companies are ramping up discounts in a desperate bid to win business. Founders across Silicon Valley are enjoying a wave of computing credits and are fielding competing offers from AI-model makers racing to land new enterprise customers. These offers have enabled some startup founders to raise later. Companies participating in Y Combinator are being especially targeted with offers."
+    },
+    {
+      "url": "https://thenextweb.com/news/ai-native-startups-entry-level-hiring?utm_source=tldrfounders",
+      "title": "AI-native startups hire fewer juniors and more elites, Harvard study finds",
+      "summary": "Startups built around AI hire fewer entry-level workers than their peers. They are leaner, flatter, and heavily weighted towards senior technical talent. Their workers are especially likely to be graduates from elite institutions. AI seems to be concentrating rather than democratizing opportunity."
+    },
+    {
+      "url": "https://addyosmani.com/blog/career-advice-age-of-agents/?utm_source=tldrfounders",
+      "title": "The Agent-Era Career",
+      "summary": "The world is short on people who can find the right problem, tell whether the machine solved it, and finish past where the machine stopped."
+    },
+    {
+      "url": "https://samgerstenzang.substack.com/p/the-emotional-cost-of-finding-product?utm_source=tldrfounders",
+      "title": "The Emotional Cost of Finding Product-Market Fit",
+      "summary": "Finding product-market fit is emotionally taxing, with many founders questioning their dedication during early failures."
+    },
+    {
+      "url": "https://9to5google.com/2026/07/07/google-search-traffic-social-accounts/?utm_source=tldrfounders",
+      "title": "Google Search can now show traffic sent to YouTube, TikTok, and your other social accounts",
+      "summary": "Google Search Console now supports a new property type that can track traffic from Search that goes to individual social accounts."
+    }
+  ]
+}

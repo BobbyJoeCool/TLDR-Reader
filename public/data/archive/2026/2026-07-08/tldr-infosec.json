@@ -1,0 +1,68 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-07-08",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/?utm_source=tldrinfosec",
+      "title": "GitLost: How We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "summary": "A crafted GitHub issue in a public repo can drive GitHub's Agentic Workflow to read README files from both public and private repos and post them back as a public comment. The attack relies on prompt injection and a single keyword, “Additionally,” to bypass GitHub's guardrails and leak private repository data."
+    },
+    {
+      "url": "https://securityaffairs.com/194868/security/januscape-16-year-old-linux-kvm-bug-enables-cloud-vm-escape-attacks.html?utm_source=tldrinfosec",
+      "title": "Januscape: 16-Year-Old Linux KVM Bug Enables Cloud VM Escape Attacks",
+      "summary": "Januscape (CVE-2026-53359) is a use-after-free vulnerability in the shadow MMU of Linux's KVM hypervisor that has existed since 2010. The flaw allows a guest VM to corrupt host kernel memory on both Intel and AMD hosts. The bug stems from KVM matching shadow page table candidates by address alone, ignoring page type. A public PoC reliably panics the host within seconds to minutes, while a more severe path can turn the corrupted write into host code execution, threatening multi-tenant clouds like GCP and AWS that expose nested virtualization, including custom stacks that bypass QEMU entirely. Administrators should apply patches immediately or disable nested virtualization for untrusted guests if patching isn't possible."
+    },
+    {
+      "url": "https://www.varonis.com/blog/rogue-agent-dialogflow-attack?utm_source=tldrinfosec",
+      "title": "Rogue Agent: How a Single Code Block Could Hijack Your AI Conversations in Google's DialogFlow",
+      "summary": "Rogue Agent is a Dialogflow CX flaw that lets anyone with dialogflow.playbooks.update rewrite a shared Cloud Run file and run arbitrary Python across all agents in a project, exfiltrating chat history and injecting phishing prompts through respond(). Attackers could bypass VPC Service Controls via unrestricted egress and query IMDS for service account tokens, so teams should review Dialogflow audit logs, failed requests, and Code Blocks for signs of tampering."
+    },
+    {
+      "url": "https://awsteele.com/blog/2026/06/23/some-notes-on-lambda-microvms.html?utm_source=tldrinfosec",
+      "title": "Some Notes on Lambda MicroVMs",
+      "summary": "Lambda MicroVMs are a new feature that allows users to run code in a VM for up to 8 hours via Lambda. Users can get a shell in their MicroVMs and access all operating system capabilities. Outbound network connections are blocked by default and require users to configure networking."
+    },
+    {
+      "url": "https://blog.talosintelligence.com/uat-7810/?utm_source=tldrinfosec",
+      "title": "UAT-7810 Continues Building ORB Networks Using New Malware",
+      "summary": "Cisco Talos assessed with high confidence that UAT-7810, a China-nexus actor maintaining the LapDogs ORB network, compromised unpatched Ruckus wireless routers to deploy a shell script that opened firewall access and launched its passive backdoor DOGLEASH. The group was found actively developing LONGLEASH, an expanded successor to its SHORTLEASH backdoor built on Boost.Asio with reverse-shell, multi-protocol proxying, and self-removal capabilities, alongside a new JAVA-based administrative backdoor, JARLEASH, configured with Simplified Chinese comments. Defenders operating Ruckus or ASUS AiCloud infrastructure should prioritize patching the referenced CVEs and apply relevant IoCs."
+    },
+    {
+      "url": "https://ipurple.team/2026/07/06/windows-service/?utm_source=tldrinfosec",
+      "title": "Windows Service",
+      "summary": "This playbook details six techniques for abusing Windows services to achieve privilege escalation and persistence, including service creation, binary path modification, permission tampering, malicious driver installation, and recovery function abuse. One notable technique exploits Windows service recovery actions to execute arbitrary commands as SYSTEM without modifying the monitored service binary, making it more difficult to detect. The guide includes Sigma rules and a sample KQL query to detect service creation, registry modifications, and recovery function abuse, and recommends proactively identifying Windows services that can be abused through crash-triggered recovery actions."
+    },
+    {
+      "url": "https://github.com/elder-plinius/T3MP3ST?utm_source=tldrinfosec",
+      "title": "T3MP3ST (GitHub Repo)",
+      "summary": "A multi-agent offensive framework built to turn the AI coding agent you already run into a zero-day hacker. The tool is built by known jailbreaker elder-plinius."
+    },
+    {
+      "url": "https://github.com/secdev02/EasyTokens?utm_source=tldrinfosec",
+      "title": "EasyTokens (GitHub Repo)",
+      "summary": "EasyTokens is a Python/PHP adversary emulation tool that phishes Microsoft 365 OAuth tokens by abusing the Device Authorization Grant flow, presenting victims with a themed enrollment page while an operator dashboard polls for captured access and refresh tokens to query OneDrive and email via Microsoft Graph"
+    },
+    {
+      "url": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/?utm_source=tldrinfosec",
+      "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
+      "summary": "A US local government paid the Kairos extortion group $1 million in Bitcoin after a May 2025 breach where attackers claimed to steal over 2 TB of data via brute-force access. Negotiations moved from a $3 million demand to the final payment under deadline pressure. The victim is described as a small county, likely Union County, Ohio, which later notified 45,487 people of exposed IDs, financial data, biometrics, and medical details."
+    },
+    {
+      "url": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html?utm_source=tldrinfosec",
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "summary": "A WriteOut session isolation bug in Writer let attackers steal session cookies via live agent preview links and hijack other companies' accounts, including admin access. The exploit used sandboxed code to read and exfiltrate cookies attached by logged-in users' browsers. Writer fixed it by blocking cookie forwarding into sandbox previews and isolating them on a separate origin."
+    },
+    {
+      "url": "https://lwn.net/Articles/1081690/?utm_source=tldrinfosec",
+      "title": "Woodruff: You shouldn't trust trusted publishing",
+      "summary": "PyPI's trusted publishing only authenticates the machine identity behind an upload, not the package's safety or quality, a distinction PyPI reinforces by deliberately withholding any green checkmark styling."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/?utm_source=tldrinfosec",
+      "title": "The ‘first' AI-run ransomware attack still needed a human",
+      "summary": "Sysdig tracked a JadePuffer ransomware case where an AI agent breached a Langflow host, pivoted into a MySQL server, encrypted more than 1,300 configuration records, and generated its own ransom note and Bitcoin address."
+    }
+  ]
+}

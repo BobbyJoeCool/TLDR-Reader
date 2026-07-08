@@ -1,0 +1,63 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-07-08",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/workers-cache/?utm_source=tldrdevops",
+      "title": "Your Worker can now have its own cache in front of it",
+      "summary": "Cloudflare launched Workers Cache, a tiered caching system that sits in front of Workers and can eliminate CPU charges by serving cached responses without running code, configured through a single line in Wrangler and standard Cache-Control headers. The system supports stale-while-revalidate to serve stale content instantly while refreshing in the background, works across all Worker entrypoints including service bindings, and includes multi-tenant safety through ctx.props-based cache keys, making it particularly powerful for server-side rendered apps that can now cache on-demand renders without build-time pregeneration."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/?utm_source=tldrdevops",
+      "title": "CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events",
+      "summary": "Amazon CloudWatch Application Signals now includes Service Events, which automatically captures exception, latency, deployment, and optional function-level performance data from instrumented applications without code changes. Available in all commercial AWS Regions for Java, Python, and JavaScript, it helps developers quickly identify deployment-related issues through the CloudWatch console."
+    },
+    {
+      "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/?utm_source=tldrdevops",
+      "title": "6 security settings every GitHub maintainer should enable this week",
+      "summary": "GitHub Security Lab recommends six free security settings that can be enabled in 10 to 30 minutes, including SECURITY.md, private vulnerability reporting, secret scanning, Dependabot, code scanning, and branch protection, to strengthen open source project security. The new Protect Your Project wizard streamlines enabling these features, helping maintainers reduce common security risks with minimal setup."
+    },
+    {
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler?utm_source=tldrdevops",
+      "title": "Why we built yet another Postgres connection pooler",
+      "summary": "PgDog is a Postgres connection pooler that preserves database features many poolers break, including session state, SET commands, and LISTEN/NOTIFY, without requiring application code changes. It uses a built-in SQL parser to track per-client session state, preserves Postgres pub/sub semantics through the proxy, and runs on a multithreaded Tokio architecture to handle more clients and traffic bursts without sharding connection pools across multiple proxy processes."
+    },
+    {
+      "url": "https://github.com/bradautomates/claude-video?utm_source=tldrdevops",
+      "title": "Claude-video (GitHub Repo)",
+      "summary": "A new open-source tool called Claude Video gives Claude AI the ability to analyze YouTube videos and local video files by automatically downloading content, extracting scene-aware frames, and generating timestamped transcripts using free captions or Whisper API as a fallback. The plugin, which can be installed via npm or directly into AI coding tools like Cursor and Copilot, uses a deduplication system to minimize token costs and includes focused mode options that let users specify exact time ranges for more efficient analysis of specific video segments."
+    },
+    {
+      "url": "https://github.com/TencentCloud/CubeSandbox?utm_source=tldrdevops",
+      "title": "Cube Sandbox (GitHub Repo)",
+      "summary": "Cube Sandbox, a new open-source sandbox service built on RustVMM and KVM, can spin up hardware-isolated environments for AI agents in under 60ms with less than 5MB of memory overhead. The project is compatible with the E2B SDK, supports both single-node and multi-node deployment, and has been listed in the CNCF Landscape under the Apache License 2.0."
+    },
+    {
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/?utm_source=tldrdevops",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "summary": "Open-weights models like GLM 5.2 are starting to challenge frontier AI labs on the economics of agentic coding because they can be used through OpenAI- and Anthropic-compatible endpoints with low switching costs. GLM 5.2 is close enough to Opus-quality for many coding workflows, despite slower interactive use and weaker vision/search support, while costing less than 20% of Opus retail pricing and potentially compressing the high inference margins that frontier labs rely on."
+    },
+    {
+      "url": "https://spacelift.io/blog/spacelift-intelligence-deploys-modules-from-registry?utm_source=tldrdevops",
+      "title": "Spacelift Intelligence Now Deploys Modules Straight From Your Module Registry",
+      "summary": "Spacelift Intent lets developers deploy, update, upgrade, and remove approved Terraform modules from a private Spacelift registry using plain language while enforcing existing policies, permissions, validation, state management, and audit trails. It simplifies self-service by resolving module names, handling required inputs and version changes conversationally, and managing modules as governed resources without requiring developers to write Terraform."
+    },
+    {
+      "url": "https://postgresisenough.dev/?utm_source=tldrdevops",
+      "title": "Postgres Is Enough",
+      "summary": "Postgres can handle many workloads that teams often split across Redis, Elasticsearch, MongoDB, Kafka, Snowflake, vector databases, and queue systems. It supports caching patterns, job queues, full-text search, documents, vector search, time-series data, analytics, graph queries, and geospatial workloads, letting teams avoid the operational cost of adding another datastore before they actually need one."
+    },
+    {
+      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe?utm_source=tldrdevops",
+      "title": "Eliminating Go bound checks with unsafe",
+      "summary": "Go's compiler can often eliminate slice bound checks when code proves an access is safe, but some hot paths still keep checks that the programmer knows are unnecessary."
+    },
+    {
+      "url": "https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/?utm_source=tldrdevops",
+      "title": "Together for a healthier Clippy",
+      "summary": "The Rust Clippy project has a review-capacity problem because no current team member is funded to work on Clippy, leaving maintenance to volunteer free time."
+    }
+  ]
+}

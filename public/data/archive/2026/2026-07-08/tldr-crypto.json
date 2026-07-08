@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-08",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/407524/kraken-wins-22-million-arbitration-auditor-mazars-for-ditching-during-operation-choke-point-2-0?utm_source=tldrcrypto",
+      "title": "Kraken Wins $22M Arbitration Against Mazars",
+      "summary": "Kraken's parent company Payward won a $22 million arbitration award against auditor Mazars, which abandoned a nearly complete audit in 2022 amid Operation Choke Point 2.0 despite confirming in writing that it had no professional dispute with the firm, no concerns about management integrity, and found no fraud. Co-CEO Arjun Sethi noted Mazars cited \"uncertainty and risk from legal developments,\" including the SEC's complaint against Kraken, when firing the firm."
+    },
+    {
+      "url": "https://www.theblock.co/post/407449/gemini-offers-0-stock-trading-in-us-become-all-in-one-financial-super-app?utm_source=tldrcrypto",
+      "title": "Gemini Launches 0% Stock Trading in Push to Become Super App",
+      "summary": "Gemini has launched 0% commission stock trading for most US states, with Nasdaq providing real-time data and Apex Clearing Corporation handling trade execution and custody as the exchange's introducing broker arrangement. The move is part of a broader push to become an \"all-in-one financial super app\" spanning crypto, equities, derivatives, and credit cards, following recent CFTC approvals for DCM and DCO licenses through its Olympus subsidiary. Coinbase and Kraken are pursuing similar expansions into traditional financial products."
+    },
+    {
+      "url": "https://x.com/barnabemonnot/status/2073691519492489354?utm_source=tldrcrypto",
+      "title": "Ethlabs is Online",
+      "summary": "Ethlabs is closing its seed raise with backing from BitMNR, Sharplink, and Ethereum Foundation's Joseph Lubin, with 1-2 anchor spots remaining before the team shifts to heads-down research mode. The primary technical focus is ZK-powered async interop to harden bridge security and give asset issuers automatic cross-L2 distribution, with intents as a near-term patch for slow L2-to-L1 links and the Fast Confirmation Rule targeting L1-to-L2 latency improvements. PropAMMs came up across three separate ecosystem calls, with researchers flagging block builder interaction as the key angle for improving execution quality on L1."
+    },
+    {
+      "url": "https://ethresear.ch/t/lean-execution-a-holistic-approach-to-secure-efficient-adaptive-and-resourceful-execution-throughput-to-scale-the-world-computer/25374?utm_source=tldrcrypto",
+      "title": "Lean Execution: a holistic approach to scale the world-computer",
+      "summary": "Justin Drake's Lean Execution proposal, part of the three-part Lean Ethereum initiative alongside Lean Consensus and Lean Data, applies SNARKs to decouple verification complexity from execution complexity, enabling low-powered validators to attest results via proof verification while high-powered nodes handle transactions across parallel columns partitioned by state access patterns. A protocol-level virtual mempool has validator committees aggregate local mempool views through signature mechanisms, enforcing transaction inclusion for censorship resistance and deterministic ordering to eliminate MEV at the base layer. Unlike rollups, which delegate sequencing to centralized operators, this design preserves sequencing within the protocol, targeting breadth-first scaling by distributing work across existing network participants rather than adding protocol layers, with proposer hardware costs designed to converge toward the 4 ETH solo-staking minimum. Open engineering challenges include state distribution across parallel execution committees, bandwidth bottlenecks in virtual mempool aggregation at scale, and balancing committee redundancy against execution efficiency."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2073803903700009243.html?utm_source=tldrcrypto",
+      "title": "US Crypto Card Rankings: Usability vs. Adoption",
+      "summary": "Plasma and EtherFi are the top US crypto cards by usability, citing daily spending volume and APY deposits as primary factors, with cashback paid in XPL and ETH respectively. Rankings diverge from the ranked.plus adoption-tier framework, which places Coinbase Card, KAST, RedotPay, and Revolut Crypto in the SS-Tier while putting Plasma in C-Tier and EtherFi in A-Tier. XPlace is an overlooked A-Tier usability pick and Lava has strong BTC yield as a differentiated feature. ranked.plus tracks base and max cashback rates, FX fees, savings APY ranges, and funding methods across roughly 20 cards, giving readers an adoption-based comparison baseline to weigh against personal usability preferences."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074050053518283170.html?utm_source=tldrcrypto",
+      "title": "Ethereum Priority Fees Will Not Rise – And That Is Good for ETH",
+      "summary": "Priority fees on Ethereum have held flat at $500-600M per year for four years despite rising activity, and the trend points toward further decline as wallets, DEXs, and lending markets capture MEV that once leaked to validators. Metamask and Rabby run backrunning auctions on user orderflow, Angstrom sells the first arbitrage right on DEXs, and Chainlink SVR paired with Aave claims liquidation value before conflicts reach the block. ETH's revenue bull case rests on base fees: 1M transactions per second at $0.001 each produces a $315B annual run rate, with no structural ceiling. Tighter DeFi spreads from this internalization make on-chain markets more competitive against centralized venues, while priority fees become immaterial to staking issuance debates."
+    },
+    {
+      "url": "https://x.com/Jun__Yoo/status/2072699699031863529?utm_source=tldrcrypto",
+      "title": "Why Cloudflare's Monetization Gateway Matters",
+      "summary": "AI bot traffic has crossed 50% of all web traffic for the first time, with ClaudeBot generating 23,951 page crawls per referral compared to Google's 5, collapsing the referral-based revenue model that underpins most web content monetization. Cloudflare's Monetization Gateway, launched July 1, addresses this by placing x402 at the edge: the gateway intercepts agent requests, returns an HTTP 402 with price and wallet address, verifies payment proof, then forwards only pre-paid requests to the origin server. With AWS having integrated x402 into CloudFront in June, both of the world's two largest edge networks now share the same payment handshake, a consolidation that signals protocol standardization for agentic payments. Cloudflare also listed Open USD alongside USDC as an accepted payment asset, one day after the OUSD consortium launched with 140 partners, positioning Cloudflare to earn reserve income as payment flows settle in OUSD rather than acting as a pass-through intermediary."
+    },
+    {
+      "url": "https://x.com/_kinjalbshah/status/2074138993336140145?utm_source=tldrcrypto",
+      "title": "Moving From Firms to Tasks",
+      "summary": "Coase's theory of the firm predicts that falling coordination costs restructure labor, and the convergence of AI agents with stablecoins represents the next such transition. AI agents can now decompose tasks, commission sub-agents, and evaluate outputs without human oversight, while the $300 billion stablecoin market enables agent-to-agent micropayments settling in under 500 milliseconds with no account creation or invoicing. Meta has begun routing USDC payouts to creators on Polygon and Solana, AWS launched AgentCore with stablecoin-based micropayments for agent commerce, and protocols like x402 and MPP embed payment authorization into HTTP requests so agents pay for services per output. Production pipelines with no organizational entity, payroll, or HR department are now viable, and firms are shifting from labor containers to intelligence layers over a global programmable labor market."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074160910818820177.html?utm_source=tldrcrypto",
+      "title": "Yield Guild Games Sunsets YGG Play, Cuts 35 Jobs",
+      "summary": "Yield Guild Games is shutting down its game publishing division, YGG Play, cutting 35 positions, with the platform going offline on July 31."
+    },
+    {
+      "url": "https://www.theblock.co/post/407511/jack-maller-strike-launches-volatility-proof-bitcoin-loans-protect-against-liquidation?utm_source=tldrcrypto",
+      "title": "Strike Launches Volatility-Proof Bitcoin Loans",
+      "summary": "Strike launched bitcoin-backed loans that eliminate price-triggered liquidations."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074524181799293301.html?utm_source=tldrcrypto",
+      "title": "Privy Launches Global Fiat Onramps",
+      "summary": "Privy launched global fiat onramps that let users buy crypto directly within any app via card."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074476649685647460.html?utm_source=tldrcrypto",
+      "title": "Three Things That Stand Out in Vitalik's Lean Ethereum Roadmap",
+      "summary": "Three standout implications from Vitalik's Lean Ethereum roadmap: L1 scaling via recursive STARKs and 100TB of scalable state by 2030 raises real questions about how Layer 2s adapt, quantum safety as a priority could erode Bitcoin's store of value narrative while Bitcoin still debates soft forks, and privacy as a first-class protocol goal gives Ethereum a differentiator against Solana that combines native privacy with smart contracts and deep liquidity."
+    }
+  ]
+}
