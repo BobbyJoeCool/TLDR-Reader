@@ -20,14 +20,14 @@
       "summary": "Tripo AI raised $150 million in a Series A3 round, just a month after closing $200 million across previous rounds. Investors spanned automotive, gaming, and tech sectors, including Geely Capital, 4399 Network, Tanwan, Giant Network, Fosun Capital, and others. The funding will support further development of its 3D foundation models and Project Eden world model, plus global commercialization efforts."
     },
     {
-      "url": "https://www.figma.com/blog/building-accessibility-into-a-canvas-based-product/?utm_source=tldrdesign",
-      "title": "Building Accessibility Into a Canvas-based Product",
-      "summary": "Figma built a synthetic \"Mirror DOM\" to bring screen reader and keyboard accessibility to its canvas-based renderer, which otherwise bypasses the browser's native accessibility tree entirely. The system relies on an internal accessibility tree that generates per-layer summaries, a recursive React component that mirrors those layers into hidden but spatially-positioned DOM elements, and bidirectional syncing between canvas selection and system focus. This work expanded from Prototype viewer support in 2022 through FigJam and Design/Dev Mode/Slides improvements in 2024-2025, developed with accessibility feedback from Fable's assistive-technology users."
-    },
-    {
       "url": "https://boagworld.com/emails/brand-guidelines/?utm_source=tldrdesign",
       "title": "When Brand Guidelines Ruin Your Website (And How to Fix It)",
       "summary": "Rigid brand guidelines often prioritize visual polish over web usability, quietly hurting conversion through poor contrast, unreadable type, and missing hierarchy. Testing a brand-compliant homepage against a tweaked version through an AI attention tool showed clarity and focus up ~20% and predicted engagement with the main call to action up over 80%. Rather than treating brands as sacred, businesses should test whether their branding actually communicates intended values and works on screen, fixing readability conflicts before considering a full digital-first rebrand."
+    },
+    {
+      "url": "https://www.figma.com/blog/building-accessibility-into-a-canvas-based-product/?utm_source=tldrdesign",
+      "title": "Building Accessibility Into a Canvas-based Product",
+      "summary": "Figma built a synthetic \"Mirror DOM\" to bring screen reader and keyboard accessibility to its canvas-based renderer, which otherwise bypasses the browser's native accessibility tree entirely. The system relies on an internal accessibility tree that generates per-layer summaries, a recursive React component that mirrors those layers into hidden but spatially-positioned DOM elements, and bidirectional syncing between canvas selection and system focus. This work expanded from Prototype viewer support in 2022 through FigJam and Design/Dev Mode/Slides improvements in 2024-2025, developed with accessibility feedback from Fable's assistive-technology users."
     },
     {
       "url": "https://www.itsnicethat.com/features/in-house-figma-loredana-crisan-creative-industry-080726?utm_source=tldrdesign",
@@ -50,6 +50,11 @@
       "summary": "The component library for creative WebGPU effects in the browser."
     },
     {
+      "url": "https://www.hongkiat.com/blog/ai-skills-coding-agent-design/?utm_source=tldrdesign",
+      "title": "10 AI Skills to Give Your Coding Agent Real Design Taste",
+      "summary": "Design taste isn't something coding agents have by default — they need it packaged as installable rules, much like the ten markdown-based skills covered here, spanning color science, Swiss grid systems, and brand-specific style generation. Each skill teaches a distinct design language that agents apply automatically once installed in a project. Design knowledge is moving from static references humans read to executable rules agents run directly."
+    },
+    {
       "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/?utm_source=tldrdesign",
       "title": "Trump's Plan to Redesign Every .gov Website Leads to AI-designed Horrors",
       "summary": "The National Design Studio, created by Trump's 2025 executive order to redesign 27,000 government websites in three years, has produced mostly single-page sites and faces mounting criticism a year in. Investigations found NDS sites used undisclosed commercial trackers, built unauthorized versions of vote.gov and passport.gov requiring sensitive identity verification, and shipped AI-generated errors like a six-toed child on TrumpRX.gov. Agencies are now resisting NDS outreach, and a July 4 deadline for new web design standards has quietly been dropped from the executive order."
@@ -60,19 +65,14 @@
       "summary": "Strong brand systems make visual consistency easier than ever, but many brands are losing their distinctiveness because their behaviour—personality, tone, pacing, and confidence—is harder to define and maintain than logos, colors, or typography. As content production scales across more channels and teams, consistent brand behaviour becomes a key differentiator, with motion design playing a particularly important role in expressing a brand's character and making it instantly recognizable."
     },
     {
-      "url": "https://www.hongkiat.com/blog/ai-skills-coding-agent-design/?utm_source=tldrdesign",
-      "title": "10 AI Skills to Give Your Coding Agent Real Design Taste",
-      "summary": "Design taste isn't something coding agents have by default — they need it packaged as installable rules, much like the ten markdown-based skills covered here, spanning color science, Swiss grid systems, and brand-specific style generation. Each skill teaches a distinct design language that agents apply automatically once installed in a project. Design knowledge is moving from static references humans read to executable rules agents run directly."
+      "url": "https://www.uxdesigninstitute.com/blog/11-ai-prompts-for-designers/?utm_source=tldrdesign",
+      "title": "11 AI Prompts Every UX Designer Should Save",
+      "summary": "AI can do more than speed up UX work."
     },
     {
       "url": "https://www.designweek.co.uk/where-do-all-the-women-go-the-creative-industrys-quiet-talent-drain/?utm_source=tldrdesign",
       "title": "Where do All the Women Go? The Creative Industry's Quiet Talent Drain",
       "summary": "Women with two decades of high-level creative experience are quietly leaving the industry once they reach the top, as rigid, presence-based work structures fail to accommodate their lives outside work."
-    },
-    {
-      "url": "https://www.uxdesigninstitute.com/blog/11-ai-prompts-for-designers/?utm_source=tldrdesign",
-      "title": "11 AI Prompts Every UX Designer Should Save",
-      "summary": "AI can do more than speed up UX work."
     }
   ]
 }

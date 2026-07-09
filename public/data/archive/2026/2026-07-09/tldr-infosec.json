@@ -20,6 +20,11 @@
       "summary": "GhostLock (CVE-2026-43499) is a stack-based use-after-free in the kernel's rtmutex priority-inheritance path where remove_waiter() clears the wrong task's pi_blocked_on field during FUTEX_CMP_REQUEUE_PI operations, leaving a dangling pointer to freed stack memory that attackers reclaim to achieve near-arbitrary kernel writes. The chain bypasses KASLR with prefetch-timing attacks, hijacks the inet6_protos IPv6 handler for execution control, and flips core_pattern permissions (“DirtyMode”) for root, reaching 97% reliability and earning over $92,000 in Google's kernelCTF. It needs no elevated privileges or namespaces and enables container escape to the host. Teams should update immediately and layer RANDOMIZE_KSTACK_OFFSET and STATIC_USERMODE_HELPER as defense-in-depth rather than substitutes for the patch."
     },
     {
+      "url": "https://nesbitt.io/2026/06/03/skills-registry-threat-models.html?utm_source=tldrinfosec",
+      "title": "Skills Registry Threat Models",
+      "summary": "AI agent skills registries introduce a new software supply chain that combines traditional package manager risks with novel prompt injection risks. The author highlights several risks, including malicious or compromised registries, poisoned skills, dependency attacks, excessive tool permissions, and semantic manipulation of skill metadata. Some proposed defenses include provenance signing, sandboxing, enforcing the principle of least privilege, and using reputation systems."
+    },
+    {
       "url": "https://blog.exodusintel.com/2026/07/06/microsoft-windows-installer-folder-delete-privilege-escalation/?utm_source=tldrinfosec",
       "title": "Microsoft Windows Installer Folder Delete Privilege Escalation",
       "summary": "Exodus Intelligence detailed a logic flaw in the Windows Installer service (msiexec.exe), which runs as SYSTEM, where a low-privileged user chains three COM calls to write an arbitrary folder path into the TempPackages registry key and have the service delete it as SYSTEM, since the cleanup routine never verifies the installer created the folder. Attackers escalate this folder-delete primitive to full SYSTEM code execution by targeting C:\\Config.Msi: they recreate it with a permissive DACL, let Windows Installer write rollback scripts there, swap in a malicious .rbs, and trigger a failed install whose rollback executes their payload. Microsoft patched it in April 2025 by adding a feature-flag gate in SetEEUIDirectoryAndFilter() that stops the path from reaching TempPackages, so defenders should confirm MSI patch levels and monitor for non-SYSTEM creation of C:\\Config.Msi and untrusted writes to HKLM\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\TempPackages."
@@ -28,11 +33,6 @@
       "url": "https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/?utm_source=tldrinfosec",
       "title": "The ‘Ghost' in the Database: Recovering Active ADFS Signing Keys via Machine DPAPI",
       "summary": "Mandiant documented a Golden SAML variant where, in ADFS environments with AutoCertificateRollover disabled and certificates manually rotated, the WID configuration database holds a stale “ghost” certificate while the live token-signing key sits in the machine-scoped CAPI store protected by Machine DPAPI rather than a user-bound context. An attacker with SYSTEM on the ADFS host recovers that active key via the DPAPI_SYSTEM LSA secret and machine masterkeys, then forges a Global Administrator SAML assertion that Entra ID accepts, all without touching LSASS or the live ADFS process. Defenders should treat ADFS as Tier 0, migrate signing keys to an HSM, set SACL auditing on the MachineKeys and Protect\\S-1-5-18 paths, correlate ADFS issuance logs against Entra ID sign-ins, and watch for Event ID 385 as a drift indicator after manual rotation."
-    },
-    {
-      "url": "https://nesbitt.io/2026/06/03/skills-registry-threat-models.html?utm_source=tldrinfosec",
-      "title": "Skills Registry Threat Models",
-      "summary": "AI agent skills registries introduce a new software supply chain that combines traditional package manager risks with novel prompt injection risks. The author highlights several risks, including malicious or compromised registries, poisoned skills, dependency attacks, excessive tool permissions, and semantic manipulation of skill metadata. Some proposed defenses include provenance signing, sandboxing, enforcing the principle of least privilege, and using reputation systems."
     },
     {
       "url": "https://github.com/kernelstub/Nox?utm_source=tldrinfosec",

@@ -5,11 +5,6 @@
   "source": "TLDR",
   "articles": [
     {
-      "url": "https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/?utm_source=tldrmarketing",
-      "title": "HubSpot reverses course after customers reject data sharing",
-      "summary": "HubSpot's attempt to build a shared enrichment pool across customer accounts exposed a broader tension in how vendors profit from data flowing through their own platforms. Customers contribute business contact, engagement, and tracking data simply by using the product, so once that data becomes an input for a commercial dataset sold back to every other account, including competitors, the value exchange shifts without customers getting anything new in return. HubSpot's five enrichment controls only governed whether an account's own records got refreshed, not whether its data flowed into the shared pool, making participation effectively mandatory."
-    },
-    {
       "url": "https://www.brainlabsdigital.com/social-media-algorithms-2026/?utm_source=tldrmarketing",
       "title": "User-controlled algorithms: should you care?",
       "summary": "User-controlled feed settings should not change your core ad strategy because platforms still rely more on user behavior than declared interests to decide what people see. Create ads that hold attention and earn meaningful engagement because watch time, rewatches, and skips reveal more than interest categories. Test multiple creative formats and messages so the platform can identify which version resonates with each audience based on real viewing behavior. Use performance data to guide creative decisions instead of relying on the preferences users select in platform settings."
@@ -18,6 +13,11 @@
       "url": "https://www.thestateofbrand.com/news/local-news-content-syndication?utm_source=tldrmarketing",
       "title": "The Same Article is Running on a Hundred Local News Sites. Google Has Noticed",
       "summary": "Local news outlets are increasingly publishing syndicated articles created from public datasets, with the same stories appearing across hundreds of sites. While publishers get free content, syndicators gain backlinks, distribution, and brand partnerships by leveraging trusted mastheads. The model weakens local journalism by replacing original reporting with duplicate content that competes in search and erodes reader trust. As Google cracks down on duplicate and third-party content, outlets may need to prioritize original reporting and owned audiences over rented reach."
+    },
+    {
+      "url": "https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/?utm_source=tldrmarketing",
+      "title": "HubSpot reverses course after customers reject data sharing",
+      "summary": "HubSpot's attempt to build a shared enrichment pool across customer accounts exposed a broader tension in how vendors profit from data flowing through their own platforms. Customers contribute business contact, engagement, and tracking data simply by using the product, so once that data becomes an input for a commercial dataset sold back to every other account, including competitors, the value exchange shifts without customers getting anything new in return. HubSpot's five enrichment controls only governed whether an account's own records got refreshed, not whether its data flowed into the shared pool, making participation effectively mandatory."
     },
     {
       "url": "https://conversion-rate-experts.com/reversing-the-funnel-win-report/?utm_source=tldrmarketing",

@@ -5,6 +5,11 @@
   "source": "TLDR",
   "articles": [
     {
+      "url": "https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot?utm_source=tldrdata",
+      "title": "Building the AI Retrieval Infrastructure Behind 20 Billion+ Vectors at HubSpot",
+      "summary": "HubSpot scaled its Vector-as-a-Service platform from an early Qdrant proof of concept into a production semantic-search layer with 20B+ vectors, 200+ indexes, 140+ clusters, and usage across 38+ teams. To make that manageable, it moved from manual Helm-based operations to Kubernetes operators that automate cluster creation, scaling, shard balancing, and replication recovery, cutting spin-up from hours to minutes and reducing operational load."
+    },
+    {
       "url": "https://iceberglakehouse.com/posts/iceberg-v3-variant-type-ai-json-payloads/?utm_source=tldrdata",
       "title": "The Variant Type in Apache Iceberg: How Shredding Turns Messy JSON Into Fast Analytics",
       "summary": "Apache Iceberg v3's Variant type solves the JSON-in-a-string problem by storing semi-structured data in a compact binary format and shredding common fields into real Parquet columns. That preserves flexibility for evolving schemas while enabling typed reads, column pruning, and file/row-group statistics. Shredding trades write time for read speed. It delivers an open-standard path to faster analytics on telemetry, events, and API payloads without constant schema migrations."
@@ -13,11 +18,6 @@
       "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/?utm_source=tldrdata",
       "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion!",
       "summary": "Apache DataFusion can run billion-edge graph algorithms on a laptop-class memory budget by pushing graph processing into disk-backed bulk scans, sort-merge joins, aggregations, and spill-aware execution. PageRank on Graphalytics graph500-26 with 1.05B edges computes using 5GB RAM in ~30 minutes for 15 iterations, and computes weakly connected components on twitter_mpi with 1.96B edges using 10GB RAM."
-    },
-    {
-      "url": "https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot?utm_source=tldrdata",
-      "title": "Building the AI Retrieval Infrastructure Behind 20 Billion+ Vectors at HubSpot",
-      "summary": "HubSpot scaled its Vector-as-a-Service platform from an early Qdrant proof of concept into a production semantic-search layer with 20B+ vectors, 200+ indexes, 140+ clusters, and usage across 38+ teams. To make that manageable, it moved from manual Helm-based operations to Kubernetes operators that automate cluster creation, scaling, shard balancing, and replication recovery, cutting spin-up from hours to minutes and reducing operational load."
     },
     {
       "url": "https://www.ssp.sh/blog/where-agents-belong-in-de/?utm_source=tldrdata",
@@ -35,11 +35,6 @@
       "summary": "AI-generated data pipelines tend to run fine but be silently wrong since models are non-deterministic and blind to the actual data. Adhere to fundamentals like parameterization and idempotency, let the agent inspect real schemas via database MCPs, define the output as an upfront contract validated before publishing (Write-Audit-Publish), and package it all as reusable skill files."
     },
     {
-      "url": "https://github.com/malloydata/malloyyo?utm_source=tldrdata",
-      "title": "Malloyyo (GitHub Repo)",
-      "summary": "Malloyyo is a lightweight MCP server and web app that lets AI tools query published data models, run analyses, and return shareable results. It includes a CLI for developing and publishing models, built-in DuckDB support for local files, and a browser UI for reviewing, editing, re-running, and sharing queries."
-    },
-    {
       "url": "https://ossie.apache.org/?utm_source=tldrdata",
       "title": "Apache Ossie (incubating) is the universal standard for semantic data",
       "summary": "Apache Ossie, formerly the Open Semantic Interchange effort, is now an Apache Incubating project. The spec models datasets, fields, metrics, dimensions, and relationships so teams can keep definitions consistent across tools while giving agents governed business context."
@@ -48,6 +43,11 @@
       "url": "https://hudi.apache.org/blog/2026/07/06/bringing-vector-search-to-the-lakehouse-with-apache-hudi/?utm_source=tldrdata",
       "title": "Bringing Vector Search to the Lakehouse with Apache Hudi",
       "summary": "Apache Hudi brings native vector search capabilities to the lakehouse, allowing efficient semantic search and RAG applications directly on large-scale Hudi tables without needing a separate vector database, supporting vector columns, indexing strategies (e.g., HNSW), hybrid search (vector + filters), and tight integration with Hudi's table services and query engines."
+    },
+    {
+      "url": "https://github.com/malloydata/malloyyo?utm_source=tldrdata",
+      "title": "Malloyyo (GitHub Repo)",
+      "summary": "Malloyyo is a lightweight MCP server and web app that lets AI tools query published data models, run analyses, and return shareable results. It includes a CLI for developing and publishing models, built-in DuckDB support for local files, and a browser UI for reviewing, editing, re-running, and sharing queries."
     },
     {
       "url": "https://jack-vanlightly.com/blog/2026/7/7/apache-kafka-performance-1-lingerms?utm_source=tldrdata",

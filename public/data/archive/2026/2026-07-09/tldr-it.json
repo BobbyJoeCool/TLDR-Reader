@@ -20,14 +20,14 @@
       "summary": "Salesforce is upgrading Slackbot into a more capable AI work assistant that can pull CRM data, generate Tableau charts, trigger Agentforce workflows, and send DocuSigns directly from a Slack message. The move positions Slack as a conversational front door for enterprise work, not just chat, with users able to ask for business context and take action without jumping across apps. It also shows how major SaaS platforms are racing to turn chat into the control layer for business data, approvals, and execution."
     },
     {
-      "url": "https://www.theregister.com/security/2026/07/07/enterprise-ai-still-smarting-from-leaping-before-looking/5267353?utm_source=tldrit",
-      "title": "Enterprise AI still smarting from leaping before looking",
-      "summary": "A DigiCert-commissioned survey of 1,001 IT and cybersecurity leaders found 78% of enterprises have experienced AI-related security incidents or identified AI-related vulnerabilities. Most issues are attributed to unauthorized or misconfigured AI agents rather than flaws in AI-generated code. Many organizations also lack sufficient AI governance, budgeting, and traceability."
-    },
-    {
       "url": "https://franklyspeaking.substack.com/p/why-ai-has-made-security-hard?utm_source=tldrit",
       "title": "Why AI has made security hard",
       "summary": "AI makes enterprise security harder not because it creates entirely new threats, but because it accelerates existing organizational and engineering weaknesses. There are three structural problems: companies' “experimentation entitlement,” the asymmetry of failure between product teams and security teams, and how AI acts like a force-multiplier that compounds technical debt."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/07/07/enterprise-ai-still-smarting-from-leaping-before-looking/5267353?utm_source=tldrit",
+      "title": "Enterprise AI still smarting from leaping before looking",
+      "summary": "A DigiCert-commissioned survey of 1,001 IT and cybersecurity leaders found 78% of enterprises have experienced AI-related security incidents or identified AI-related vulnerabilities. Most issues are attributed to unauthorized or misconfigured AI agents rather than flaws in AI-generated code. Many organizations also lack sufficient AI governance, budgeting, and traceability."
     },
     {
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/?utm_source=tldrit",
