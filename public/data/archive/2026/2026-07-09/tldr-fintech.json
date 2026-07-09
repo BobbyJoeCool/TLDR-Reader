@@ -5,11 +5,6 @@
   "source": "TLDR",
   "articles": [
     {
-      "url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html?utm_source=tldrfintech",
-      "title": "Klarna seeks US bank charter in latest push beyond BNPL",
-      "summary": "Klarna applied to create an FDIC-insured US bank in Utah, a move that would let the company bring more of its lending, payments, deposits, and merchant services infrastructure in-house. The application reflects a broader fintech shift toward owning bank charters, as firms like Klarna and Mercury seek lower funding costs, less reliance on partner banks, and more control over customer financial products."
-    },
-    {
       "url": "https://www.finextra.com/newsarticle/48054/visa-moves-beyond-payments-to-become-travel-companion?utm_source=tldrfintech",
       "title": "Visa moves beyond payments to become travel companion",
       "summary": "Visa is expanding its remit beyond payments with the launch of a new mobile-first travel platform in ten international locations. Visa Destinations delivers tastemaker recommendations, city guides, and curated experiences to support Visa's shift from being the way to pay for travel to becoming a travel companion."
@@ -18,6 +13,11 @@
       "url": "https://www.wsj.com/finance/banking/jpmorgan-bank-of-america-and-other-banks-explore-a-deal-to-shake-up-payments-world-9d8639fb?utm_source=tldrfintech",
       "title": "Fiserv explores sale of debit card network to big US banks",
       "summary": "Fiserv has reportedly held talks with JPMorgan, Bank of America, Wells Fargo, and PNC about selling its STAR Network debit payments infrastructure business as part of a broader turnaround effort. A deal could give large banks more control over debit routing and potentially help them navigate federal debit-card fee caps, though some potential buyers are reportedly wary of regulatory, lawmaker, and merchant backlash."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html?utm_source=tldrfintech",
+      "title": "Klarna seeks US bank charter in latest push beyond BNPL",
+      "summary": "Klarna applied to create an FDIC-insured US bank in Utah, a move that would let the company bring more of its lending, payments, deposits, and merchant services infrastructure in-house. The application reflects a broader fintech shift toward owning bank charters, as firms like Klarna and Mercury seek lower funding costs, less reliance on partner banks, and more control over customer financial products."
     },
     {
       "url": "https://www.finextra.com/blogposting/32229/open-payments-beyond-open-banking?utm_source=tldrfintech",
@@ -50,14 +50,14 @@
       "summary": "Alipay announced the enhancement of its Tap! services by upgrading the Alipay Tap! devices widely used by millions of merchants into an AI agent-powered network, building the world's first large-scale AI-powered offline business operations network."
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-legal-startup-norm-valued-at-1-2-billion-in-funding-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ2MDU2NiwiZXhwIjoxNzg0MDY1MzY2LCJhcnRpY2xlSWQiOiJUSEpXU0xUOTZPU0gwMCIsImJjb25uZWN0SWQiOiJBODlERUQ0MjI1Qjk0Q0I4QkJBRUE0ODAwRTE5Mjk4NiJ9.CUIibs2m3btYMmZiiTbBzTBNxwyreWh-Z_TY31udnEw&utm_source=tldrfintech",
-      "title": "AI legal startup Norm valued at $1.2B in funding round",
-      "summary": "Norm AI raised $120 million at a $1.2 billion valuation to expand its AI-powered legal services and supervisory compliance systems. Unlike legal AI startups that sell software to law firms, Norm has launched its own affiliated law firm, Norm Law, which delivers AI-assisted legal services directly to clients and charges based on outcomes rather than billable hours."
-    },
-    {
       "url": "https://www.finextra.com/blogposting/32224/the-hidden-economics-of-payment-success-rates?utm_source=tldrfintech",
       "title": "The Hidden Economics of Payment Success Rates",
       "summary": "Every payment tells a story. On the surface, a successful transaction simply means money has moved from one account to another. However, beneath that single confirmation lies a chain of economic outcomes that influence revenue, customer trust, operational efficiency, and long-term business growth. For many organizations, payment success rates are still viewed as a technical performance metric owned by engineering teams. In reality, they are one of the most important business metrics a company can monitor. As digital commerce continues to grow, improving payment success rates is no longer just about reducing technical failures - it is about protecting revenue and creating sustainable competitive advantage."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-legal-startup-norm-valued-at-1-2-billion-in-funding-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ2MDU2NiwiZXhwIjoxNzg0MDY1MzY2LCJhcnRpY2xlSWQiOiJUSEpXU0xUOTZPU0gwMCIsImJjb25uZWN0SWQiOiJBODlERUQ0MjI1Qjk0Q0I4QkJBRUE0ODAwRTE5Mjk4NiJ9.CUIibs2m3btYMmZiiTbBzTBNxwyreWh-Z_TY31udnEw&utm_source=tldrfintech",
+      "title": "AI legal startup Norm valued at $1.2B in funding round",
+      "summary": "Norm AI raised $120 million at a $1.2 billion valuation to expand its AI-powered legal services and supervisory compliance systems. Unlike legal AI startups that sell software to law firms, Norm has launched its own affiliated law firm, Norm Law, which delivers AI-assisted legal services directly to clients and charges based on outcomes rather than billable hours."
     },
     {
       "url": "https://www.finextra.com/pressarticle/110347/paypal-joins-the-european-payments-council?utm_source=tldrfintech",

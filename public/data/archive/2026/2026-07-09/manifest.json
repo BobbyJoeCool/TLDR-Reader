@@ -7,10 +7,6 @@
       "file": "tldr.json"
     },
     {
-      "name": "TLDR AI",
-      "file": "tldr-ai.json"
-    },
-    {
       "name": "TLDR Dev",
       "file": "tldr-dev.json"
     },
