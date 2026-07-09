@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-07-09",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/?utm_source=tldrmarketing",
+      "title": "HubSpot reverses course after customers reject data sharing",
+      "summary": "HubSpot's attempt to build a shared enrichment pool across customer accounts exposed a broader tension in how vendors profit from data flowing through their own platforms. Customers contribute business contact, engagement, and tracking data simply by using the product, so once that data becomes an input for a commercial dataset sold back to every other account, including competitors, the value exchange shifts without customers getting anything new in return. HubSpot's five enrichment controls only governed whether an account's own records got refreshed, not whether its data flowed into the shared pool, making participation effectively mandatory."
+    },
+    {
+      "url": "https://www.brainlabsdigital.com/social-media-algorithms-2026/?utm_source=tldrmarketing",
+      "title": "User-controlled algorithms: should you care?",
+      "summary": "User-controlled feed settings should not change your core ad strategy because platforms still rely more on user behavior than declared interests to decide what people see. Create ads that hold attention and earn meaningful engagement because watch time, rewatches, and skips reveal more than interest categories. Test multiple creative formats and messages so the platform can identify which version resonates with each audience based on real viewing behavior. Use performance data to guide creative decisions instead of relying on the preferences users select in platform settings."
+    },
+    {
+      "url": "https://www.thestateofbrand.com/news/local-news-content-syndication?utm_source=tldrmarketing",
+      "title": "The Same Article is Running on a Hundred Local News Sites. Google Has Noticed",
+      "summary": "Local news outlets are increasingly publishing syndicated articles created from public datasets, with the same stories appearing across hundreds of sites. While publishers get free content, syndicators gain backlinks, distribution, and brand partnerships by leveraging trusted mastheads. The model weakens local journalism by replacing original reporting with duplicate content that competes in search and erodes reader trust. As Google cracks down on duplicate and third-party content, outlets may need to prioritize original reporting and owned audiences over rented reach."
+    },
+    {
+      "url": "https://conversion-rate-experts.com/reversing-the-funnel-win-report/?utm_source=tldrmarketing",
+      "title": "Win Report: How reversing the funnel increased orders by 22%",
+      "summary": "Moving a customer's first moment of personal investment earlier in the purchase journey can increase conversions. A flower and gift retailer moved the card message step to immediately after product selection and orders increased by 22%. Writing a personal message creates commitment and helps customers picture the outcome before payment. Look for opportunities to let customers personalize or create something early in the funnel and test whether it increases purchase completion."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/joshua-blyskal_is-running-the-same-ai-prompt-once-a-day-share-7480696854683279361-kyuv/?utm_source=tldrmarketing",
+      "title": "Is running the same AI prompt once a day actually enough?",
+      "summary": "Analysis of one million AI responses found running prompts 10X daily offers minimal gains over once per day, with only a 0.25 point difference in citation share. While higher frequency slightly reduces variability, the impact is small. The bigger driver of accuracy is prompt selection, not repetition. A well-constructed, representative prompt portfolio matters more than run volume, since poor prompt choices can skew results far more than day-to-day AI response variation."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/dbusta_ive-built-hundreds-of-lead-magnets-for-share-7479592853929795584-Fcqo/?utm_source=tldrmarketing",
+      "title": "Email course &gt; PDF lead magnet",
+      "summary": "Most lead magnets fail because PDFs get downloaded once and forgotten, missing the opportunity to build an email habit. Instead, turn the content into a 5-day email course that delivers each lesson, framework, and takeaway through daily emails. This keeps subscribers engaged and creates a natural transition into a 3-5 email pitch sequence that drives the next step."
+    },
+    {
+      "url": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms?utm_source=tldrmarketing",
+      "title": "See how content from social and video platforms performs on Google Search",
+      "summary": "Google launched platform properties in Search Console, enabling creators to track how Instagram, TikTok, X, and YouTube content performs on Search and Discover. It surfaces queries, clicks, impressions, and engagement through performance and insights reports, with options to filter or export data. Users can connect accounts via verification, with a gradual rollout designed to give a unified view of content discovery across platforms."
+    },
+    {
+      "url": "https://ai-native-quiz.cxl.com/?utm_source=tldrmarketing",
+      "title": "How AI-native are you as a marketer? (Quiz)",
+      "summary": "Built by CXL, this quick assessment gauges how AI-native you are as a marketer. It tracks how consistently you use AI across workflows, research, content creation, experimentation, and team operations. Your level reflects how broadly and often you apply these behaviors in your day-to-day work."
+    },
+    {
+      "url": "https://mediaadsandcommerce.substack.com/p/why-does-the-middle-of-the-funnel?utm_source=tldrmarketing",
+      "title": "Why Does the Middle of the Funnel Always Get the Middle Finger?",
+      "summary": "CMOs now spend 71% of budget on performance media and just 29% on brand-building, with performance gaining 11 percentage points since 2023, moving further from the 60/40 optimal split. A comparison of premium and non-premium publisher placements found the gap was modest at the top and bottom of the funnel but reached +267% in the middle, the exact zone budgets are abandoning. Mid-funnel performance depends on media quality, specifically placement prominence and contextual receptiveness, neither of which shows up in reach and frequency or click and ROAS metrics."
+    },
+    {
+      "url": "https://www.cmswire.com/digital-marketing/everyones-a-marketing-expert-until-theyre-not/?utm_source=tldrmarketing",
+      "title": "Everyone's a Marketing Expert ... Until They're Not",
+      "summary": "Marketing's biggest blind spot is not inexperience but certainty, since years of success can calcify a personal lens that has quietly drifted out of alignment with the audience. Performance metrics like conversions and cost per acquisition measure whether a campaign worked, but they cannot explain why an audience felt connected or alienated in the first place. The marketers who avoid that trap treat their own reactions as a starting hypothesis rather than a final verdict, testing and adjusting based on what the data shows rather than what they personally like."
+    },
+    {
+      "url": "https://www.wsj.com/cmo-today/whoop-hires-nike-marketing-veteran-as-wearables-wars-heat-up-2695c3cf?utm_source=tldrmarketing",
+      "title": "Whoop Hires Nike Marketing Veteran as Wearables Wars Heat Up",
+      "summary": "Former Nike CMO Dirk-Jan van Hameren joins Whoop as CMO."
+    },
+    {
+      "url": "https://valuegravity.io/insights/email-tracking-pixel-consent-how-to.html?utm_source=tldrmarketing",
+      "title": "Email open tracking now needs consent in France and Italy",
+      "summary": "France's CNIL and Italy's Garante now require consent for email tracking pixels; deadlines July 14 and October 28, respectively."
+    },
+    {
+      "url": "https://www.digitaltrends.com/social-media/metas-new-ai-can-generate-images-of-you-from-your-instagram-and-youre-opted-in/?utm_source=tldrmarketing",
+      "title": "Meta's new AI can generate images of you from your Instagram, and you're opted in",
+      "summary": "Muse Image lets anyone @-mention a public Instagram account to generate AI images of that person, switched on by default with no consent request or notification."
+    }
+  ]
+}

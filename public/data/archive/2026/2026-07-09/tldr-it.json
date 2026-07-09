@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-09",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://claude.com/blog/cowork-web-mobile?utm_source=tldrit",
+      "title": "Claude Cowork is coming to mobile and web",
+      "summary": "Anthropic expanded Claude Cowork, its general knowledge-work agent, from a desktop app to web and mobile. In beta first for Max subscribers, the Dispatch feature maintains a persistent thread so tasks can continue and be completed even while the laptop is closed, with usage data showing business process and content work dominate over coding."
+    },
+    {
+      "url": "https://m.economictimes.com/news/company/corporate-trends/google-cloud-plants-its-ai-flag-in-india-gemini-local-hosting-data-sovereignty-what-it-means-for-the-country/articleshow/132257905.cms?utm_source=tldrit",
+      "title": "Google Cloud plants its AI flag in India",
+      "summary": "Google Cloud is bringing Gemini Flash and Gemini Enterprise onto infrastructure physically located in India, letting enterprises keep both data and AI processing in-country. The move reflects the growing importance of AI residency, not just data residency, for regulated industries."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message/?utm_source=tldrit",
+      "title": "Salesforce turns Slackbot into an agentic workflow hub",
+      "summary": "Salesforce is upgrading Slackbot into a more capable AI work assistant that can pull CRM data, generate Tableau charts, trigger Agentforce workflows, and send DocuSigns directly from a Slack message. The move positions Slack as a conversational front door for enterprise work, not just chat, with users able to ask for business context and take action without jumping across apps. It also shows how major SaaS platforms are racing to turn chat into the control layer for business data, approvals, and execution."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/07/07/enterprise-ai-still-smarting-from-leaping-before-looking/5267353?utm_source=tldrit",
+      "title": "Enterprise AI still smarting from leaping before looking",
+      "summary": "A DigiCert-commissioned survey of 1,001 IT and cybersecurity leaders found 78% of enterprises have experienced AI-related security incidents or identified AI-related vulnerabilities. Most issues are attributed to unauthorized or misconfigured AI agents rather than flaws in AI-generated code. Many organizations also lack sufficient AI governance, budgeting, and traceability."
+    },
+    {
+      "url": "https://franklyspeaking.substack.com/p/why-ai-has-made-security-hard?utm_source=tldrit",
+      "title": "Why AI has made security hard",
+      "summary": "AI makes enterprise security harder not because it creates entirely new threats, but because it accelerates existing organizational and engineering weaknesses. There are three structural problems: companies' “experimentation entitlement,” the asymmetry of failure between product teams and security teams, and how AI acts like a force-multiplier that compounds technical debt."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/?utm_source=tldrit",
+      "title": "Microsoft to enable Windows settings backup by default for orgs",
+      "summary": "Microsoft will change the default behavior of the Windows settings backup policy to enable eligible enterprise devices joined to Microsoft Entra (Entra ID) after upgrading to Windows 11 26H2. Restore will still require explicit admin configuration, and default-on can be overridden via MDM/Intune or Group Policy."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-live/?utm_source=tldrit",
+      "title": "OpenAI launches GPT-Live for more natural ChatGPT Voice conversations",
+      "summary": "OpenAI launched GPT-Live, a new generation of voice models that can listen and speak at the same time. The rollout powers ChatGPT Voice with GPT-Live-1 for paid users and GPT-Live-1 mini for free users, improving interruptions, turn-taking, and live translation."
+    },
+    {
+      "url": "https://www.nextplatform.com/store/2026/07/08/why-ai-ready-data-is-the-real-advantage/5268409?utm_source=tldrit",
+      "title": "Why AI-ready data is the real advantage",
+      "summary": "The bottleneck for enterprise AI is increasingly messy, fragmented, and ungoverned data rather than GPUs or models. “AI-ready data” will become a durable competitive advantage as companies move from experiments to production AI factories."
+    },
+    {
+      "url": "https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing?utm_source=tldrit",
+      "title": "You shouldn't trust Trusted Publishing",
+      "summary": "PyPI's “Trusted Publishing” should not be treated as a signal that a package is safe or high quality. Trusted Publishing is only an authentication mechanism that ties CI/CD machine identities to publishing on an index, and anyone can still use it to upload malicious or vulnerable code."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/?utm_source=tldrit",
+      "title": "3 ways AI powers service desk attacks and how to prevent them",
+      "summary": "AI is making service desk social engineering more convincing, more personalized, and easier to scale. Attackers can use public employee data, polished scripts, and even voice or video impersonation to make access requests look routine, especially during onboarding or password resets. The practical defense is to stop relying on agent judgment alone and require stronger identity verification, tighter access workflows, and better escalation paths for suspicious requests."
+    },
+    {
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute?utm_source=tldrit",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "summary": "Hugging Face models are supported on Microsoft Foundry Managed Compute, providing enterprise-ready hosting for open-source and custom weights."
+    },
+    {
+      "url": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog?utm_source=tldrit",
+      "title": "CISA adds new exploited vulnerabilities to KEV catalog",
+      "summary": "CISA added newly exploited vulnerabilities to its KEV catalog, giving federal agencies and enterprise security teams another patch-prioritization signal."
+    }
+  ]
+}

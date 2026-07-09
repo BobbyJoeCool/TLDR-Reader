@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-09",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/?utm_source=tldrdev",
+      "title": "A bug which only affected left-handed users",
+      "summary": "A bug in WordPress impacted only left-handed users, causing comment boxes to appear unexpectedly while scrolling, which the author found did not affect right-handed users like himself. The issue came from outdated code that had not been addressed in years, which was finally fixed by removing a few lines of code."
+    },
+    {
+      "url": "https://bun.com/blog/bun-in-rust?utm_source=tldrdev",
+      "title": "Rewriting Bun in Rust",
+      "summary": "Bun was initially developed as a port of esbuild's transpiler from Go to Zig, with a broad scope including transpilation, package management, and HTTP client capabilities. Following its acquisition by Anthropic and to address stability issues linked to Zig's manual memory management, Bun has been rewritten in Rust, using Rust's safety features like automatic memory cleanup to improve stability and reduce bugs."
+    },
+    {
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/?utm_source=tldrdev",
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "A recent audit by Anthropic showed that approximately 30% of tasks in SWE-Bench Pro, a widely used coding evaluation benchmark, are broken due to issues such as overly strict tests, underspecified prompts, and misleading instructions. The analysis involved a combination of automated screening and human reviews by experienced software engineers. Given the flaws discovered, a recommendation to transition to SWE-Bench Pro has been retracted."
+    },
+    {
+      "url": "https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev",
+      "title": "I Think I Have LLM Burnout",
+      "summary": "Frequent use of LLMs for coding tasks has led to feelings of burnout for devs due to the repetitive and often flawed nature of their outputs, which include false assumptions and excessive stylistic quirks. Despite increased productivity and a learning curve, the monotony of LLM-generated content is becoming increasingly tiresome and frustrating."
+    },
+    {
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html?utm_source=tldrdev",
+      "title": "Experiences with local models for coding",
+      "summary": "Recent experiences with locally run models for agentic coding reveal both challenges and successes, particularly influenced by task complexity and the machines used. The evaluations show that while these models can handle straightforward coding tasks effectively, their performance varies a lot."
+    },
+    {
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/?utm_source=tldrdev",
+      "title": "Announcing TypeScript 7.0",
+      "summary": "TypeScript 7.0 introduces a large performance boost, achieving up to 10 times faster compilation through a native port built in Go. This release has been rigorously tested in real-world environments, leading to improvements in development efficiency and user experience across various large-scale projects and organizations."
+    },
+    {
+      "url": "https://x.ai/news/grok-4-5?utm_source=tldrdev",
+      "title": "Introducing Grok 4.5",
+      "summary": "Grok 4.5 is the latest and most advanced model by SpaceXAI, designed to excel at coding, agentic tasks, and knowledge work."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-live/?utm_source=tldrdev",
+      "title": "Introducing GPT-Live",
+      "summary": "GPT-Live introduces a new generation of voice models designed for more natural and interactive human-AI conversations, using a full-duplex architecture that allows for simultaneous listening and speaking. This advancement allows for smoother dialogue, better responsiveness, and the capability of delegating complex tasks to specialized models."
+    },
+    {
+      "url": "https://blog.cloudflare.com/meerkat-introduction/?utm_source=tldrdev",
+      "title": "Introducing Meerkat: an experiment in global consensus",
+      "summary": "Cloudflare Meerkat is a distributed consensus service designed to manage global control-plane state across its numerous data centers while ensuring strong consistency and fault tolerance. Unlike traditional consensus algorithms like Raft, which rely on a single leader, Meerkat uses the QuePaxa algorithm, allowing all replicas to write simultaneously and maintaining system availability even during failures."
+    },
+    {
+      "url": "https://www.anthropic.com/research/off-switch-dual-use?utm_source=tldrdev",
+      "title": "An off switch for dual use knowledge in AI models",
+      "summary": "AI models contain dual-use knowledge that can be used positively or negatively, such as cyber defense or exploitation. GRAM (Gradient-Routed Auxiliary Modules) allows a single model to have dedicated compartments for different categories of dual-use knowledge. Preliminary results show GRAM can effectively isolate and control dual-use capabilities while resisting attempts to recover removed knowledge."
+    },
+    {
+      "url": "https://registerspill.thorstenball.com/p/ownership?utm_source=tldrdev",
+      "title": "Ownership",
+      "summary": "The concept of ownership in engineering means taking full responsibility for problem-solving from identification to implementation, which means detailed consideration of the problem, potential solutions, edge cases, testing, and communication."
+    },
+    {
+      "url": "https://www.cloudflare.com/drop/?utm_source=tldrdev",
+      "title": "Cloudflare Drop (Website)",
+      "summary": "Cloudflare allows users to quickly upload and deploy HTML, CSS, and JS files to see their site live instantly."
+    },
+    {
+      "url": "https://github.com/dekart-xyz/geosql?utm_source=tldrdev",
+      "title": "GeoSQL (GitHub Repo)",
+      "summary": "GeoSQL is a geospatial analytics tool that helps with data science and analysis workflows on platforms like PostGIS, BigQuery, and Snowflake by integrating a map-based validation loop to improve accuracy and performance of spatial queries."
+    },
+    {
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/?utm_source=tldrdev",
+      "title": "GitLost: How We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "summary": "Noma Labs uncovered a critical vulnerability named GitLost in GitHub's newly launched Agentic Workflows, which allowed unauthorized users to extract data from private repositories by exploiting an indirect prompt injection attack through public GitHub issues."
+    }
+  ]
+}

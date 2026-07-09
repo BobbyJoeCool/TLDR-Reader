@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-07-09",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.finextra.com/newsarticle/48054/visa-moves-beyond-payments-to-become-travel-companion?utm_source=tldrfintech",
+      "title": "Visa moves beyond payments to become travel companion",
+      "summary": "Visa is expanding its remit beyond payments with the launch of a new mobile-first travel platform in ten international locations. Visa Destinations delivers tastemaker recommendations, city guides, and curated experiences to support Visa's shift from being the way to pay for travel to becoming a travel companion."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html?utm_source=tldrfintech",
+      "title": "Klarna seeks US bank charter in latest push beyond BNPL",
+      "summary": "Klarna applied to create an FDIC-insured US bank in Utah, a move that would let the company bring more of its lending, payments, deposits, and merchant services infrastructure in-house. The application reflects a broader fintech shift toward owning bank charters, as firms like Klarna and Mercury seek lower funding costs, less reliance on partner banks, and more control over customer financial products."
+    },
+    {
+      "url": "https://www.wsj.com/finance/banking/jpmorgan-bank-of-america-and-other-banks-explore-a-deal-to-shake-up-payments-world-9d8639fb?utm_source=tldrfintech",
+      "title": "Fiserv explores sale of debit card network to big US banks",
+      "summary": "Fiserv has reportedly held talks with JPMorgan, Bank of America, Wells Fargo, and PNC about selling its STAR Network debit payments infrastructure business as part of a broader turnaround effort. A deal could give large banks more control over debit routing and potentially help them navigate federal debit-card fee caps, though some potential buyers are reportedly wary of regulatory, lawmaker, and merchant backlash."
+    },
+    {
+      "url": "https://www.cfo.com/news/finance-teams-spend-13-hours-a-week-verifying-ai-outputs-aaron-harris-michael-friedman-trial-balance/824390/?utm_source=tldrfintech",
+      "title": "Finance teams spend 13 hours a week verifying AI outputs",
+      "summary": "A new IDC-Sage report finds finance teams spend an average of 13 hours per week verifying AI-generated outputs, creating what the report calls a “verification tax” that consumes part of the productivity gains from automation. The findings highlight why finance leaders still favor explainable “glass box” AI systems with audit trails and human-readable reasoning, especially for compliance, reporting, and invoice-payment workflows where errors can quickly undermine trust."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/32229/open-payments-beyond-open-banking?utm_source=tldrfintech",
+      "title": "Open Payments: Beyond Open Banking",
+      "summary": "The financial services industry is undergoing one of the most significant transformations in its history. Over the past decade, Open Banking has fundamentally reshaped how banks, financial institutions, FinTechs, and consumers interact with financial data and services. Through standardized APIs and customer-consented data sharing, Open Banking enabled innovation at an unprecedented scale, giving rise to account aggregation platforms, digital wallets, embedded finance solutions, and intelligent financial applications."
+    },
+    {
+      "url": "https://blog.starpointllp.com/2026/07/challenger-banks/?utm_source=tldrfintech",
+      "title": "Challenger banks: What the sell-side is telling us",
+      "summary": "Tom Noyes revisits his skepticism on neobanks using sell-side research, concluding that leaders like Nubank, Revolut, and Monzo have proven profitability but that the US remains the hardest market for challenger banks to penetrate. The piece argues the next test is not customer growth, but durable multi-product relationships, with key watchpoints including Revolut's US charter, Chime's trajectory, Nubank's ability to export its credit model, and stress among lower-income US consumers."
+    },
+    {
+      "url": "https://www.coinbase.com/en-es/blog/coinbase-obtains-mifid-license-in-the-united-kingdom?utm_source=tldrfintech",
+      "title": "Coinbase obtains MiFID license in the United Kingdom",
+      "summary": "Coinbase secured UK investment services authorization, allowing it to expand beyond crypto into derivatives and equities for UK users under one platform. The license advances Coinbase's “everything exchange” strategy, combining crypto, stablecoin payments, savings, borrowing, equities, and tokenized real-world assets as traditional and digital finance converge."
+    },
+    {
+      "url": "https://privy.io/blog/introducing-global-fiat-onramps?utm_source=tldrfintech",
+      "title": "Privy introduces global fiat onramps",
+      "summary": "Privy launched global fiat onramps that let users buy crypto with a card directly inside an app, reducing the friction of leaving a product to create an exchange account, buy assets, and transfer funds into a wallet. The integration uses Stripe Crypto Onramp in the US and EU for payments, KYC, and compliance, while Privy routes users in 100+ other countries through its global onramp network with one unified developer integration."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110364/alipay-upgrades-tap-devices-for-agentic-commerce?utm_source=tldrfintech",
+      "title": "Alipay upgrades Tap! devices for agentic commerce",
+      "summary": "Alipay announced the enhancement of its Tap! services by upgrading the Alipay Tap! devices widely used by millions of merchants into an AI agent-powered network, building the world's first large-scale AI-powered offline business operations network."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/32224/the-hidden-economics-of-payment-success-rates?utm_source=tldrfintech",
+      "title": "The Hidden Economics of Payment Success Rates",
+      "summary": "Every payment tells a story. On the surface, a successful transaction simply means money has moved from one account to another. However, beneath that single confirmation lies a chain of economic outcomes that influence revenue, customer trust, operational efficiency, and long-term business growth. For many organizations, payment success rates are still viewed as a technical performance metric owned by engineering teams. In reality, they are one of the most important business metrics a company can monitor. As digital commerce continues to grow, improving payment success rates is no longer just about reducing technical failures - it is about protecting revenue and creating sustainable competitive advantage."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-legal-startup-norm-valued-at-1-2-billion-in-funding-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ2MDU2NiwiZXhwIjoxNzg0MDY1MzY2LCJhcnRpY2xlSWQiOiJUSEpXU0xUOTZPU0gwMCIsImJjb25uZWN0SWQiOiJBODlERUQ0MjI1Qjk0Q0I4QkJBRUE0ODAwRTE5Mjk4NiJ9.CUIibs2m3btYMmZiiTbBzTBNxwyreWh-Z_TY31udnEw&utm_source=tldrfintech",
+      "title": "AI legal startup Norm valued at $1.2B in funding round",
+      "summary": "Norm AI raised $120 million at a $1.2 billion valuation to expand its AI-powered legal services and supervisory compliance systems. Unlike legal AI startups that sell software to law firms, Norm has launched its own affiliated law firm, Norm Law, which delivers AI-assisted legal services directly to clients and charges based on outcomes rather than billable hours."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110347/paypal-joins-the-european-payments-council?utm_source=tldrfintech",
+      "title": "PayPal joins the European Payments Council",
+      "summary": "PayPal has officially joined the European Payments Council (EPC), marking an important milestone in our commitment to the future of payments in Europe."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/sytaylor_robinhood-now-runs-a-crypto-exchange-a-clearinghouse-ugcPost-7479879505696870400-b5fD/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAA32rJkBCFg6qK7f7aa8EYzYJ9ha6bbpnfk",
+      "title": "Robinhood's market structure ambitions move beyond brokerage",
+      "summary": "Robinhood's recent shipping streak shows it is no longer just competing with Schwab, but rebuilding pieces of US market structure inside one vertically integrated financial platform."
+    }
+  ]
+}

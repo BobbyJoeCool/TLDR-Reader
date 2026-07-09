@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-09",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://threadreaderapp.com/thread/2074383012939141407.html?utm_source=tldrcrypto",
+      "title": "JPMorgan Enters Vault Curation With $700M USDC Vault",
+      "summary": "JPMorgan Chase has entered the vault curation business through Kinexys, its blockchain division formerly known as Onyx, launching the JLTXX vault at $700 million in assets under management. The USDC-denominated vault runs on JPMorgan's proprietary protocol settled on Ethereum and allocates to US Treasury bills, bonds, and overnight repurchase agreements. The launch size immediately makes JPMorgan the fifth-largest vault curator, surpassing existing players TelosConsilium and upshift_fi. The move comes from a bank whose CEO, Jamie Dimon, has repeatedly criticized stablecoins, DeFi, and crypto more broadly."
+    },
+    {
+      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report?utm_source=tldrcrypto",
+      "title": "EU Looks to Expand MiCA Just One Week After Full Implementation",
+      "summary": "The European Commission is seeking stakeholder comment through September 30 on whether to expand MiCA to cover tokenized securities and non-EU stablecoin issuers, just one week after the landmark rules came into full effect following an 18-month grace period. The revision is being driven by two gaps. Firstly, MiCA currently has no direct framework for tokenized stocks, a category that has grown to $2.16 billion onchain, up nearly 45% in a month. Secondly, the US GENIUS Act's passage has shifted the global stablecoin regulatory landscape since MiCA was written."
+    },
+    {
+      "url": "https://x.com/borjaneira_/status/2074485951934435702?utm_source=tldrcrypto",
+      "title": "The Collateral Dollar: Stablecoins and the Haircut Channel",
+      "summary": "Stablecoins create a two-layer dollar claim structure: the base token is the issuer's promise to redeem at par, but the economically significant layer is the second-order liability that a lender writes against the controlled token and that second claim only becomes money-like if another balance sheet is willing to fund it near par without re-underwriting the full collateral chain. The haircut prices the distance between effective token control and reliable conversion into bank dollars, and in stress that distance widens as haircut increases and token price falls together, compressing funding capacity in a reflexive loop. Unlike the classic Eurodollar system, stablecoin collateral chains have no settled dealer-of-last-resort or central bank swap line architecture above the token, meaning full reserves at the issuer are entirely compatible with a broken credit system above it."
+    },
+    {
+      "url": "https://ethresear.ch/t/augmented-mechanism-design-one-operator-every-substrate/25379?utm_source=tldrcrypto",
+      "title": "Augmented Mechanism Design: One Operator, Every Substrate",
+      "summary": "Augmented Mechanism Design (AMD) is a framework for hardening protocols without replacing core mechanisms, applying four strategies: making bad states unrepresentable by design, using bonding and slashing to render attacks unprofitable, deploying time-locks to eliminate speed advantages, and requiring cryptographic attestations for verifiable claims. Deployed DeFi implementations include Augmented Bonding Curves with exit tributes, Augmented Harberger Taxes with loyalty multipliers, and commit-reveal batch auctions using Fisher-Yates shuffling to block front-running. A consensus implementation requires both capital and contribution dimensions to independently supply 50% of finality weight, preventing plutocratic capture without administrative oversight."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074855389913288840.html?utm_source=tldrcrypto",
+      "title": "How to Scale a Neobank from 0 to 60,000 Customers",
+      "summary": "Luka Ivicevic, who grew Penta's customer base to 60,000 over four years, breaks down the GTM playbook into three stages. At the top of funnel, B2B neobanks should skip Meta ads (mobile-only, incompatible with desktop KYC flows) and focus on Google ads, SEO, and affiliate programs. Comparison sites like NerdWallet that ranked Penta first drove 50% of paid acquisition. In the middle of funnel, optimizing the website for education before conversion and the onboarding flow for drop-off (Penta achieved 50-60% lead-to-customer conversion) compounds faster than any additional ad spend. At the bottom of funnel, the real metric is active users (e.g., those with money on account and transacting), not accounts opened, and the window to activate a new signup is roughly four days before they churn."
+    },
+    {
+      "url": "https://x.com/aaronjmars/status/2074618934205227220?utm_source=tldrcrypto",
+      "title": "We Accidentally Won the Gambling War",
+      "summary": "Speculation reliably throws off enormous cash flow, so the real fight is over who captures the surplus: state lotteries pocket roughly 50% of every dollar wagered, FanDuel and DraftKings extract 5-9% on standard bets and up to 30% on parlays across a $100B global market projected to hit $187B by 2030, and casinos run 6-9% house edges, all funneled to shareholders. Crypto rails already undercut this economics, with DEX fees around 0.12% and token launchers taking just 1%, while Solana and Base process thousands of TPS and millions of users respectively. This harkens back to Rio de Janeiro's 1892 Jogo do Bicho lottery, where bicheiros routed gambling surplus into samba schools and community infrastructure because the money stayed local, which contrasts with crypto's own public-goods funding (Gitcoin, Protocol Guild, RetroPGF, and DAO treasuries) that rely on grant committees substituting curator judgment for market signal with weak feedback loops. The proposed fix is mechanical: platforms like Bags.fm let a token launch assign any public address as fee receiver, no consent required, so 1% of every trade routes onchain to that recipient permanently, pointing speculative surplus straight at builders and causes instead of shareholders or grant panels."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074773759873962092.html?utm_source=tldrcrypto",
+      "title": "The Hidden Risk in Neobank Earn Products",
+      "summary": "Most Earn products inside neobanks and wallets lack any dedicated DeFi or risk personnel as sourcing is handled by BD teams, which leads to paid integrations where yields are propped up by incentives rather than real returns, often masking underlying APYs of around 2%. Advertising 6-7% without those incentives requires reaching for riskier products, and when incentives dry up, fintechs face a choice between dropping to the DeFi base rate or launching a separate high-yield account."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074502643788214760.html?utm_source=tldrcrypto",
+      "title": "The One Dollar Audit",
+      "summary": "\"The one dollar audit\" is an AI-driven smart contract security review priced at 1 USDC."
+    },
+    {
+      "url": "https://thedefiant.io/news/security/certik-says-h1-2026-web3-losses-topped-1-31b-up-28-excluding-bybit-baseline?utm_source=tldrcrypto",
+      "title": "H1 2026 Web3 Losses Topped $1.31B",
+      "summary": "CertiK's Hack3d H1 2026 Report logged $1.31 billion in losses across 344 incidents."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074483879612936468.html?utm_source=tldrcrypto",
+      "title": "Tether Invests $20M in Brazil's Mercado Bitcoin",
+      "summary": "Tether is investing $20 million in Mercado Bitcoin, expanding its footprint in Latin American onchain finance."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2074705960388673735.html?utm_source=tldrcrypto",
+      "title": "USDT Dominates Payments, USDC Dominates DeFi",
+      "summary": "Dune Analytics data shows USDT processed roughly $95 billion in commercial payment settlements in the first half of 2026, nearly seven times USDC's $14 billion, capturing 92% of B2B payments."
+    }
+  ]
+}
