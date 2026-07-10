@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-10",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto?utm_source=tldrcrypto",
+      "title": "JPMorgan: Bitcoin's Real Risk Is Permissioned Blockchain Adoption",
+      "summary": "JPMorgan analysts argue that Strategy's bitcoin sales are not the main structural threat to bitcoin and that the bigger risk is tokenization, payments, and settlement increasingly migrating to permissioned blockchains that bypass public chains and their tokens entirely. Institutional adoption has largely favored permissioned infrastructure because it offers better privacy, KYC/AML controls, governance, and regulatory certainty, and the BIS has actively promoted permissioned unified ledgers over public blockchains for systemically important financial infrastructure."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2075246240799842614.html?utm_source=tldrcrypto",
+      "title": "Swift Blockchain Ledger Goes Live With 17 Major Banks",
+      "summary": "Swift's blockchain-based ledger is live after nine months of development, with ANZ, BNP Paribas, BNY, Citi, HSBC, Standard Chartered, UBS, Wells Fargo, and nine other major institutions preparing to pilot 24/7 tokenized cross-border payments. The ledger combines distributed ledger technology with Swift's secure messaging network to improve liquidity efficiency and cash flow visibility, with programmable money and agentic commerce as planned future use cases."
+    },
+    {
+      "url": "https://x.com/Lighter_xyz/status/2074905536122789917?utm_source=tldrcrypto",
+      "title": "Chasing Microseconds: Lighter's Latency Engineering",
+      "summary": "Lighter's engineering team cut end-to-end p99 latency from 280ms to a flat 55ms and transaction-processing p99 from 20-30ms spikes to under 1ms, hitting a mainnet ATH of 811 million transactions in a day (9,388 TPS average, 20,740 TPS peak) on June 5. The gains came from stacking several changes: eliminating heap allocations by swapping big.Int/big.Rat for stack-allocated int128/float64 and using atomic immutable order-book snapshots, GOGC tuning that cut GC pause times roughly 3x, a new in-memory snapshot service enabling zero-warm-up deploys, and hand-rolled binary serialization to kill reflection overhead on the internal message bus. CPU-level work, including goroutine-to-thread pinning, SCHED_FIFO scheduling, and consolidating API servers onto single-NUMA-node machines to dodge a 10x cross-node memory penalty, pushed hot-path apply time down to 100-250 microseconds. The sequencer decouples proof generation from execution entirely, so trader-facing latency is governed solely by the execution and API layers rather than proving throughput."
+    },
+    {
+      "url": "https://x.com/FourPillarsFP/status/2074821118050144747?utm_source=tldrcrypto",
+      "title": "Cadence: Monad's Answer to MEV",
+      "summary": "Category Labs released Cadence on July 2, a Multiple Concurrent Proposers consensus protocol for Monad that folds multi-proposer ordering directly into consensus, finalizing blocks in the same three communication rounds as single-leader systems while its Chorus and Conductor components decouple block interval from network latency. In simulation across Monad mainnet's 200 validators at a 100ms block interval, transactions reached proposal inclusion in an average of 50ms, with finalization at 219ms and speculative finality at 167ms. The design departs from Solana's Constellation, which adds two extra rounds atop Alpenglow and only narrows the state-update window to 50ms, and from Sei's Autobahn, which aggregates bandwidth rather than breaking leader monopoly. Cadence instead pairs multi-proposer ordering with Category Labs' BTX encrypted mempool to remove MEV's structural preconditions at the protocol level. That could unwind Monad's MEV-coupled liquid staking products like FastLane's shMON and aPriori, though Cadence's fee-attribution rules and a mainnet deployment timeline remain unpublished."
+    },
+    {
+      "url": "https://x.com/obchakevich_/status/2075189703985258909?utm_source=tldrcrypto",
+      "title": "The Week the Float Stopped Being a Business Model",
+      "summary": "Three things happened simultaneously this week that together signal a regime change. Open Standard (Visa, Mastercard, Stripe, Blackrock, Coinbase, Google, and 130+ partners) announced a consortium stablecoin that returns nearly all reserve income to distribution partners, making the issuer-captures-float model obsolete. Circle's 17% stock drop confirmed the market understood it. MiCA's transition period ended July 1, locking Binance out of Europe while 244 providers got authorized and the digital euro inched toward a 2029 launch. And beneath the headlines, payments rails are quietly working. Binance reported 114% YoY payment growth with median transaction size rising from $10 to $18, Polygon hit $9.12B in stablecoin transfers, and Russia legalized crypto payments in foreign trade on July 1, building a parallel settlement network outside Swift."
+    },
+    {
+      "url": "https://x.com/sebaudet26/status/2074918469376856150?utm_source=tldrcrypto",
+      "title": "Sunsetting Zapper",
+      "summary": "Zapper, the DeFi portfolio tracker that grew to over 2 million monthly active users and processed more than $13 billion in transaction volume at its peak, is shutting down after nearly seven years. Zapper.xyz, its mobile apps, and API services will fully cease operation on August 3, with affected API users receiving transition guidance via email. The team says it explored multiple alternatives before opting for an orderly wind-down and is now seeking to place its engineering and operations staff with another company."
+    },
+    {
+      "url": "https://x.com/cuysheffield/status/2074913360093773853?utm_source=tldrcrypto",
+      "title": "The Soul of Agentic Commerce",
+      "summary": "Despite growing pay-per-call merchant endpoints on x402 and MPP rails, weekly volume of roughly $87,000 across 12,000 wallets shows the constraint is human idea-generation, not tool supply, since every current transaction still traces back to a person delegating a task. The author proposes \"soul files,\" markdown identity documents already used in agent harnesses like Hermes and OpenClaw, as the unlock: grounding agents in specific real-world locales and genuine motivations rather than generic personas, illustrated through an experimental persona for a fictional Lagos textile repairer built from data purchased over x402. His thesis is that agents originating their own objectives from a grounded identity, rather than executing human-written tasks, would give agentic commerce an autonomous \"loop phase\" akin to the jump from single LLM prompts to agent loops. He frames this as an alternative to a homogenous agent culture rooted in San Francisco tech norms, urging builders to give agents a place to be from rather than more tasks to run."
+    },
+    {
+      "url": "https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives?utm_source=tldrcrypto",
+      "title": "AI Agents Are a Strong Bug-Finding Tool, Not an Oracle",
+      "summary": "The Ethereum Foundation's Protocol Security team has deployed coordinated AI agents to find vulnerabilities across systems software, cryptographic code, and smart contracts, and has confirmed real bugs."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2075249555327656168.html?utm_source=tldrcrypto",
+      "title": "BitGo Quantum-Protection Tools for Institutional Bitcoin Wallets",
+      "summary": "BitGo launched quantum-protection security tools that help institutions assess, manage, and reduce quantum-related exposure in their UTXO-based Bitcoin wallets."
+    },
+    {
+      "url": "https://aave.com/blog/introducing-stable-vaults?utm_source=tldrcrypto",
+      "title": "Aave Launches Stable Vaults: Fixed-Rate Stablecoin Yields",
+      "summary": "Aave Labs launched Stable Vaults, a smart contract infrastructure layer that converts variable onchain lending rates into a fixed rate any business can offer its users, while handling rebalancing, cross-chain liquidity, and rate management automatically."
+    },
+    {
+      "url": "https://x.com/rbthreek/status/2074631675901026339?utm_source=tldrcrypto",
+      "title": "SailboatFi Debut",
+      "summary": "A non-technical builder vibe-coded SailboatFi, an iOS trading interface for Coinbase's Base Account, over three months using only Claude's coding tools and no prior programming experience."
+    }
+  ]
+}

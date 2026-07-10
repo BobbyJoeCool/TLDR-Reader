@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-07-10",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thenextweb.com/news/lovable-is-reportedly-in-talks-to-raise-300m-at-a-13-2bn-valuation?utm_source=tldrdesign",
+      "title": "Lovable is Reportedly in Talks to Raise $300M at a $13.2bn Valuation",
+      "summary": "Lovable is reportedly in talks to raise $300m at a $13.2bn valuation, roughly double its $6.6bn December Series B, according to Sifted. The Swedish vibe-coding startup has surpassed $500m in annualized revenue with just 146 staff, though the round remains unconfirmed and Lovable declined to comment. The surge reflects both Europe's push to prove it can produce AI giants and broader concerns about a possible AI-funding bubble."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/?utm_source=tldrdesign",
+      "title": "Character.AI enters the microdrama arena with its own productions, but there's a twist",
+      "summary": "Character.AI is entering the microdrama market with three AI-produced series spanning romance, horror, and survival, while adding a twist that lets adult users chat and roleplay with the shows' characters. The company plans to use this studio-led experiment to develop creator tools that could eventually let users build and share their own character-driven series. Character.AI is also testing AI-powered audio dramas and fiction tools as it expands further into interactive entertainment."
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/google-photos-can-now-turn-your-ordinary-videos-into-ai-generated-works-of-art/?utm_source=tldrdesign",
+      "title": "Google Photos can now turn your ordinary videos into AI-generated works of art",
+      "summary": "Google Photos is adding Video Remix, a new Gemini-powered tool that transforms videos up to 10 seconds long into stylized versions using AI effects like cinematic relighting, new backgrounds, watercolor, oil painting, and sketchbook styles. Users simply choose a template from the Create tab, and Gemini generates a reimagined version of the clip in a few minutes without requiring manual editing. The feature is rolling out first to Google AI Plus, Pro, and Ultra subscribers in select countries, continuing Google's expansion of Gemini-powered creative tools in Google Photos."
+    },
+    {
+      "url": "https://marcelochaman.ca/s/design-engineering?utm_source=tldrdesign",
+      "title": "Design Engineering",
+      "summary": "Design engineering is shifting from bridging the gap between design and engineering toward one person owning as much of that gap as possible, especially as coding agents and cross-disciplinary skills reduce implementation friction. Marcelo Chaman frames it as a spectrum from prototyping-focused historical roles to full production ownership, exemplified at Gumloop where design engineers turn ambiguous problems directly into shipped, coherent product. He argues taste—combined with decisiveness and shipping ability—matters more as software becomes easier to build, since the person who can both judge and execute has outsized leverage."
+    },
+    {
+      "url": "https://thedesignersfieldguide.substack.com/p/how-do-you-talk-about-the-impact?utm_source=tldrdesign",
+      "title": "How Do You Talk About the Impact of Scrapped Design Projects?",
+      "summary": "Designers often assume a scrapped project's impact disappears with it, but preliminary evidence exists if they defined and collected the right signals early. A signal is an observable user behavior change—visible in prototypes or usability tests, not requiring launch—that predicts whether a design achieved its intended effect. Unlike lagging metrics (revenue) or leading metrics (activation rates) that need a live product, signals can be captured before shipping, giving designers a lasting record of impact even when projects get cancelled."
+    },
+    {
+      "url": "https://uxdesign.cc/the-15-minute-ai-stress-test-every-designer-can-run-ce8de95ff5c9?utm_source=tldrdesign",
+      "title": "The 15-minute AI Stress Test Every Designer Can Run",
+      "summary": "The Spaghetti Table Protocol tests whether multimodal AI systems apply physical grounding when generating images, using a prompt for an impossible dining table with dry spaghetti legs, a concrete slab top, and a water-filled fishbowl. Testing GPT-4o, Gemini 1.5 Pro, and Claude 3.5 Sonnet in February–March produced an aggregate score of 4/30, with Claude notably flagging the physical impossibility in words while still rendering it anyway. The author invites designers to run the same two-prompt test themselves and contribute results to a shared public dataset mapping where current AI architectures lack physical grounding."
+    },
+    {
+      "url": "https://overflowguard.dev/?utm_source=tldrdesign",
+      "title": "Build Around Content, Not Breakpoints (Website)",
+      "summary": "A React component that knows when content stops fitting. No media queries. No container queries. No magic numbers."
+    },
+    {
+      "url": "https://replit.com/slides?utm_source=tldrdesign",
+      "title": "Create Stunning Slides with Replit in Minutes (Website)",
+      "summary": "Start with a doc, choose a template, and get polished, structured decks ready to present."
+    },
+    {
+      "url": "https://slidesgo.io/?utm_source=tldrdesign",
+      "title": "PPT Generator (Website)",
+      "summary": "Create professional presentations in minutes with AI. Generate, beautify, and enhance your PPT with intelligent automation."
+    },
+    {
+      "url": "https://evilmartians.com/chronicles/storybook-workbench-audit-vibe-coded-uis-and-find-hidden-bugs-in-hours?utm_source=tldrdesign",
+      "title": "Storybook Workbench: Audit Vibe-coded UIs and Find Hidden Bugs in Hours",
+      "summary": "Evil Martians built Storybook Workbench, an open-source set of agent skills that audits vibe-coded apps by rendering every component state in Storybook, catching dead code, duplicate design systems, and hidden accessibility bugs no build would flag. On one internal test app, it found 31 dead components and six accessibility bugs in hours rather than the three days manual audits used to take. The toolkit runs via simple /sb commands covering onboarding, orchestration, navigation, and reporting, and outputs structured JSON that teams can feed into Linear tickets, PDF reports, or Figma sync."
+    },
+    {
+      "url": "https://abduzeedo.com/studio-moara-crafts-organic-branding-bori-cafe?utm_source=tldrdesign",
+      "title": "Studio Moara Crafts Organic Branding for Bori Cafe",
+      "summary": "Studio Moara refreshed Bori Cafe's identity with a warm, minimalist branding system that combines earthy colors, clean typography, and organic illustrations to create a welcoming yet contemporary feel. The visual language extends consistently across digital and physical touchpoints—including cups, packaging, and signage—using simple layouts and modular elements to strengthen recognition and improve usability. The redesign demonstrates how a cohesive, strategically crafted identity can elevate a local café by making the brand feel both approachable and premium."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/branding/what-happens-when-clients-trust-ai-more-than-creative-expertise?utm_source=tldrdesign",
+      "title": "What Happens When Clients Trust AI More than Creative Expertise?",
+      "summary": "Clients are increasingly arriving with AI-generated concepts already \"finished,\" skipping the concept development process agencies see as their real value."
+    },
+    {
+      "url": "https://www.creativeboom.com/tips/if-ai-production-is-making-production-cheaper-how-can-you-sell-design-thinking-instead/?utm_source=tldrdesign",
+      "title": "If AI Production is Making Production Cheaper, How Can You Sell Design Thinking Instead?",
+      "summary": "As AI makes production cheap, designers should sell judgment, taste, and problem-framing instead—the thinking behind the work, not just its execution."
+    }
+  ]
+}

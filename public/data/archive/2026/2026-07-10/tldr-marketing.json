@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-07-10",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://lbbonline.com/news/What-Happens-When-Every-Product-Becomes-Scannable?utm_source=tldrmarketing",
+      "title": "What Happens When Every Product Becomes Scannable?",
+      "summary": "Scannable packaging is turning products into dynamic digital touchpoints. QR codes are replacing static labels with interactive, updatable experiences that deliver personalization and real-time engagement at the moment of use. Packaging becomes a media channel and data layer, giving brands post-purchase visibility and ongoing interaction. With Digital Product Passports accelerating adoption, packaging is shifting from fixed design to flexible infrastructure. Static packaging is fading as consumers expect products to inform and respond."
+    },
+    {
+      "url": "https://emaillove.com/email-marketing-benchmarks-q2-2026?utm_source=tldrmarketing",
+      "title": "Email Marketing Trends: What We Learned From 79,235 Real Emails",
+      "summary": "Weekend sends now match weekdays, shrinking the old gap and making Monday the least crowded inbox. Subject lines are getting shorter and less shouty, favoring clear specifics over urgency. Per-brand volume is flat, but more brands are sending consistently, with weekly cadence on the rise. Emails remain heavy on images and links. Industry differences are wide, so broad benchmarks mislead. Attention is shifting toward newsletters and re-engagement, not one-off promos."
+    },
+    {
+      "url": "https://www.therevenuearchitect.com/p/the-top-10-gtm-mistakes-founders?utm_source=tldrmarketing",
+      "title": "The top 10 GTM mistakes founders make",
+      "summary": "Founders who fire off thousand-contact cold outbound sequences in month two are usually avoiding the harder work of a handful of real conversations earned through warm intros. That shortcut skips the only way to learn what a target market actually cares about before trying to scale it. The same premature-scale instinct shows up in handing buyers product access and calling it a pilot, when a real pilot needs defined success criteria, a timeline, and an internal champion driving usage. Hiring a salesperson follows the identical trap, since no rep can run a closing process a founder hasn't already proven works."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/danielhinckley_seo-ai-tip-use-gsc-generative-ai-data-share-7480656831107899392-1s80/?utm_source=tldrmarketing",
+      "title": "SEO & AI Tip: Use GSC Generative AI data, Screaming Frog, and Claude Sonnet to identify the prompts you're likely being cited or referred by Google AI Overviews",
+      "summary": "A five-phase pipeline that tells you which questions are likely triggering AIO appearances and whether Google is treating you as a source or a recommendation. Start with Google Search Console's Generative AI report to find the pages that appear in AI Overviews. Analyze those pages with Screaming Frog and Claude Sonnet to identify citable topics, likely search prompts, and content gaps. Test those prompts in Gemini to see which ones cite your site and which ones mention your brand."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/jonnylongden_cro-experimentation-ecommerce-share-7479889404329766912-9Qzq/?utm_source=tldrmarketing",
+      "title": "Be wary of 'meta-analysis' in digital experimentation",
+      "summary": "Meta-analysis combines the results of similar A/B tests into one dataset to identify patterns across many experiments. It can help generate new experiment ideas, but it should not become a source of best practices. Test categories rely on subjective labeling, and different teams can classify the same experiment in very different ways. Most experiments happen under different conditions, so combined results rarely isolate a single variable or reveal the real cause of performance changes."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3okzHvSIkV0&utm_source=tldrmarketing",
+      "title": "Trust Is the New SEO: Marketing in the AI Era with Kevin Indig (31 minute video)",
+      "summary": "Clicks are disappearing as users stay in-platform, making brand mentions more valuable than citations. Trust is becoming the deciding factor in what people believe and whether they verify elsewhere. Visibility is highly inconsistent across models and prompts, and “ghost citations” make attribution mostly invisible. AI scans for answers, so content that gets to the point quickly performs best."
+    },
+    {
+      "url": "https://www.marketingdive.com/news/why-unpaid-media-is-now-essential-to-ai-visibility/822485/?utm_source=tldrmarketing",
+      "title": "Why unpaid media is now essential to AI visibility",
+      "summary": "AI search engines score every brand claim for confidence before deciding whether to recommend it, weighing backlink quality, media coverage, and third-party mentions the same way search algorithms once weighed keywords. Earned coverage carries outsized weight in that scoring, as AI systems cite premium publisher content 3 times more often than brand-owned pages. Traffic that arrives via AI referral converts at up to 4 times the rate of standard organic search."
+    },
+    {
+      "url": "https://strategybreakdowns.com/p/logitech-mx-master?utm_source=tldrmarketing",
+      "title": "How Logitech turned a $20 commodity into a $100 status symbol",
+      "summary": "Logitech turned a commodity mouse into a premium product by rebuilding its brand around design, productivity, and quality before launching the MX Master. It made the higher price feel credible through visible product craftsmanship, patented features, and productivity claims such as scrolling 1,000 lines per second and a reported 33% reduction in work time. The product gained strong word of mouth before remote work created a surge in demand. Logitech then built repeat purchases through regular product updates instead of competing on price."
+    },
+    {
+      "url": "https://app.sciencesays.com/p/why-and-how-managers-should-join-sales-meetings?utm_source=tldrmarketing",
+      "title": "Why and how managers should join sales meetings",
+      "summary": "Adding a manager to high-value sales meetings can increase revenue if the salesperson stays in the lead and the manager supports the conversation. Research across 5.5 million sales found manager and salesperson teams produced 13.2% higher sales value for new customers and 12.5% higher sales value for returning customers than teams with two salespeople. The manager signals that the customer and the deal matter while the salesperson gains credibility when the manager defers to their expertise. Use lead scores to decide when senior leaders should join sales calls instead of sending them to every meeting."
+    },
+    {
+      "url": "https://www.marketingideas.com/p/vibe-coding-cheat-sheet-for-growth?utm_source=tldrmarketing",
+      "title": "Vibe-coding workflows",
+      "summary": "Beyond lead-gen tools, teams are building internal utilities like UTM link builders and brief generators with the same one-prompt approach."
+    },
+    {
+      "url": "https://www.netinfluencer.com/the-10-fastest-growing-us-instagram-accounts-of-june-2026/?utm_source=tldrmarketing",
+      "title": "The 10 Fastest-Growing US Instagram Accounts of June",
+      "summary": "These accounts include @olivertree, @ishowspeed, and @chatgpt."
+    }
+  ]
+}

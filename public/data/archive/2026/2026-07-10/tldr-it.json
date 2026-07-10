@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-10",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://deploy.co/news/the-openai-deployment-company-to-acquire-northslope?utm_source=tldrit",
+      "title": "The OpenAI Deployment Company to Acquire Northslope",
+      "summary": "The OpenAI Deployment Company has agreed to acquire Northslope, an applied AI firm focused on enterprise AI deployment for real-world business operations. The deal follows the Deployment Company's earlier acquisition of Tomoro and is expected to expand its workforce and capacity for building production AI systems. Closing is subject to regulatory approvals."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4195002/jetbrains-seeks-to-unify-fragmented-ai-based-software-development-with-governance-suite.html?utm_source=tldrit",
+      "title": "JetBrains seeks to unify fragmented AI-based software development with governance suite",
+      "summary": "JetBrains introduced a suite that gives enterprises a central layer for managing AI-assisted software development across tools such as Claude, Codex, Gemini, Junie, and JetBrains IDEs. It combines shared project context, cloud agents, automation, access controls, usage visibility, and cost management while letting developers continue using their preferred coding tools."
+    },
+    {
+      "url": "https://www.cio.com/article/4192383/its-not-the-it-holding-ai-back-its-the-business-processes.html?utm_source=tldrit",
+      "title": "It's Not The IT Holding AI Back, It's The Business Processes",
+      "summary": "Most IT leaders believe their teams can deploy and govern AI, but 75% say their operating models and business processes must change to unlock meaningful value. Rather than simply buying AI tools and teaching employees prompting, companies need to redesign outdated workflows, clarify where work gets stuck, and involve business leaders directly in deciding what AI should automate, augment, or leave to humans."
+    },
+    {
+      "url": "https://postgresisenough.dev/?utm_source=tldrit",
+      "title": "Postgres Is Enough",
+      "summary": "Most applications don't need a “webscale™” stack of many databases and microservices. Postgres is often enough. Adding additional systems usually increases operational overhead and maintenance burden, and it exhausts Postgres features before introducing other infrastructure."
+    },
+    {
+      "url": "https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/?utm_source=tldrit",
+      "title": "IBM and Red Hat launch Lightwell to defend open-source code from AI attacks",
+      "summary": "IBM and Red Hat have moved their Lightwell open-source defense initiative from project to two commercial products: Lightwell Network (generally available) and Lightwell Clearinghouse Premier (limited onboarding). The services use AI-driven remediation and backports to deliver validated security fixes for open-source dependencies into enterprise software workflows, while coordinating with upstream projects to keep fixes upstream."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/07/streamline-identity-lifecycle-management-in-Google-Workspace-with-new-inbound-SCIM-support.html?utm_source=tldrit",
+      "title": "Google Workspace Adds Inbound SCIM For Automated User Lifecycle Management",
+      "summary": "Google Workspace now supports inbound SCIM, letting compatible identity providers, HR systems, and custom apps automatically provision, update, and deactivate users and groups in real time. This reduces custom Directory API work while improving onboarding, offboarding, and access security."
+    },
+    {
+      "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research?utm_source=tldrit",
+      "title": "Shared API Keys Expose AI Agents At 69% Of Enterprises, New VentureBeat Research Finds",
+      "summary": "VentureBeat research found that 69% of enterprises share credentials across at least some AI agents, creating broad access and accountability risks if one agent is compromised. Just 32% assign every agent its own managed identity, while 54% reported an agent-related security incident, highlighting the need for unique identities, tightly scoped permissions, sandboxing, and agent-level audit trails."
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/?utm_source=tldrit",
+      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+      "summary": "Aspire used GitHub Agentic Workflows to automate writing feature documentation across two separate repositories without granting the agent broad write permissions. The workflow drafts documentation after product PRs merge, maps product milestones to docs release branches, and creates a draft PR in the docs repo for SME review via a constrained “safe-outputs” pipeline. This reduced docs PR delays to a median of 44.8 hours after feature PR merge."
+    },
+    {
+      "url": "https://stackoverflow.blog/2026/07/08/what-s-left-for-infrastructure-as-code-after-ai-moves-in/?utm_source=tldrit",
+      "title": "What's left for infrastructure-as-code after AI moves in? (30 minute podcast)",
+      "summary": "This podcast episode discusses why guardrails still lag adoption and breaks down what it means when “anyone can deploy” and why deep systems knowledge still matters."
+    },
+    {
+      "url": "https://www.theregister.com/software/2026/07/09/sap-makes-it-easier-for-customers-to-shop-for-legacy-product-support-ending-eu-antitrust-probe/5269437?utm_source=tldrit",
+      "title": "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe",
+      "summary": "SAP agreed to eliminate reinstatement fees, reduce back-maintenance charges, and give customers more freedom to use third-party support, ending an EU antitrust investigation."
+    }
+  ]
+}

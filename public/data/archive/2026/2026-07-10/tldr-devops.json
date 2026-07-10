@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-07-10",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/making-ai-search-smarter/?utm_source=tldrdevops",
+      "title": "Making AI search smarter",
+      "summary": "Cloudflare announced initiatives to make AI search more efficient using content freshness signals that reduce unnecessary crawling and improve results, while evolving Pay Per Crawl into Pay Per Use to compensate creators based on how their content is used in AI search through experimental partnerships and new analytics."
+    },
+    {
+      "url": "https://blog.cloudflare.com/meerkat-introduction/?utm_source=tldrdevops",
+      "title": "Introducing Meerkat- an experiment in global consensus",
+      "summary": "Cloudflare Meerkat is an experimental distributed consensus service powered by the QuePaxa algorithm, which allows all replicas to perform writes simultaneously without relying on a single leader or timeouts—addressing availability issues the company has experienced with Raft-based systems across its 330+ global data centers. The system, which will be the first industrial deployment of QuePaxa at global scale, is designed to manage small pieces of control-plane state like database leadership and resource placement while maintaining strong consistency guarantees even when servers, data centers, or network links fail."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/?utm_source=tldrdevops",
+      "title": "Announcing etcd v3.7.0",
+      "summary": "etcd v3.7.0 introduces the highly anticipated RangeStream feature, which allows large result sets to be sent in chunks rather than buffered entirely, reducing latency and memory usage for both servers and clients. The release also delivers significant performance improvements, including reduced CPU usage for Kubernetes control planes, completes a major protobuf library overhaul, and removes the last dependencies on the legacy v2 store after a multi-year effort spanning releases v3.4 through v3.7."
+    },
+    {
+      "url": "https://www.pagerduty.com/blog/insights/custom-on-call-shift-based-schedules/?utm_source=tldrdevops",
+      "title": "Make the most of shift-based schedules",
+      "summary": "PagerDuty's Shift-Based Schedules provide flexible on-call management for complex coverage patterns, including weekday-only rotations, alternating weeks, overlapping team schedules, and temporary unavailability. New features like Custom Schedules and the Unassigned user simplify creating tailored rotations without complicated layered schedules."
+    },
+    {
+      "url": "https://hakibenita.com/postgresql-partition-pruning?utm_source=tldrdevops",
+      "title": "How to achieve pruning when querying by non-partitioned columns in PostgreSQL",
+      "summary": "PostgreSQL can prune partitions on non-partition-key filters when check constraints encode guaranteed relationships in the data. An events table partitioned by timestamp can still avoid scanning every partition for session_id queries by adding per-partition session_id range constraints, and multi-range constraints can handle outlier sessions that span partitions without losing pruning for the common case."
+    },
+    {
+      "url": "https://github.com/ruvnet/ruflo?utm_source=tldrdevops",
+      "title": "Ruflo (GitHub Repo)",
+      "summary": "Ruflo (formerly Claude Flow) is an open-source \"agent meta-harness\" that wraps around Claude Code and Codex with 100+ specialized agents, coordinated swarms, self-learning memory, and federated communication that lets AI agents securely collaborate across different machines and organizations. The MIT-licensed tool can be installed via a single `npx ruflo init` command and includes a web UI for multi-model chat, a GOAP (Goal-Oriented Action Planning) interface at goal.ruv.io, and an enterprise-grade federation system that uses mTLS and ed25519 verification to enable cross-machine agent coordination with automatic PII stripping and trust management."
+    },
+    {
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP?utm_source=tldrdevops",
+      "title": "Desktop Commander (GitHub Repo)",
+      "summary": "Desktop Commander, an open-source Model Context Protocol (MCP) server, lets Claude Desktop users execute terminal commands and manage files directly through their $20/month Pro subscription without additional API costs. The tool offers six installation methods, including automatic updates via npx and Smithery, features Docker containerization for complete system isolation, and works across multiple MCP-compatible clients like Cursor, VS Code, and Windsurf."
+    },
+    {
+      "url": "https://bun.com/blog/bun-in-rust?utm_source=tldrdevops",
+      "title": "Bun is being rewritten in Rust",
+      "summary": "Bun is rewriting large parts of its runtime from Zig to Rust while keeping Zig for the JavaScriptCore bindings that require low-level C++ interop. The team says Rust gives them stronger ecosystem support, better tooling, and safer concurrency for high-level runtime code, while preserving Zig where it remains useful for systems-level integration with WebKit's JavaScript engine."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/07/06/the-4-body-problem-of-sre-why-autonomous-operations-depend-on-context/?utm_source=tldrdevops",
+      "title": "The 4-body problem of SRE: Why autonomous operations depend on context",
+      "summary": "AI-driven SRE adoption is limited less by model capability than by fragmented operational context across code, infrastructure state, runtime signals, and institutional knowledge. Reliable autonomous operations require a unified, versioned knowledge graph and auditable decision traces so agents can reason accurately, act safely, and earn trust in production environments."
+    },
+    {
+      "url": "https://www.tigera.io/blog/save-the-address-save-the-cloud-a-hands-on-kubevirt-live-migration-workshop/?utm_source=tldrdevops",
+      "title": "Save the Address, Save the Cloud: A Hands-on KubeVirt Live Migration Workshop",
+      "summary": "Calico v3.32.0 now enables live migration of virtual machines in Kubernetes clusters without network disruptions, solving the longstanding challenge of preserving a VM's IP address and identity during migration between nodes."
+    },
+    {
+      "url": "https://www.digitalocean.com/blog/public-preview-managed-weaviate?utm_source=tldrdevops",
+      "title": "Scale Faster with Managed Weaviate: Now in Public Preview on DigitalOcean",
+      "summary": "DigitalOcean launched Managed Weaviate in public preview, offering the open-source vector database as a fully managed service starting at $20/month with flat pricing and no per-query or per-dimension fees."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab/?utm_source=tldrdevops",
+      "title": "AWS Secrets Manager adds managed external secrets support for Paddle and GitLab",
+      "summary": "AWS Secrets Manager now supports managed external secret rotation for Paddle API keys and GitLab personal, group, and project access tokens, enabling automatic credential rotation through native third-party APIs."
+    }
+  ]
+}

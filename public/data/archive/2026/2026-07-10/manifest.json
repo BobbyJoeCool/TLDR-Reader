@@ -1,0 +1,50 @@
+{
+  "id": "2026-07-10",
+  "date": "2026-07-10",
+  "editions": [
+    {
+      "name": "TLDR",
+      "file": "tldr.json"
+    },
+    {
+      "name": "TLDR AI",
+      "file": "tldr-ai.json"
+    },
+    {
+      "name": "TLDR Dev",
+      "file": "tldr-dev.json"
+    },
+    {
+      "name": "TLDR DevOps",
+      "file": "tldr-devops.json"
+    },
+    {
+      "name": "TLDR Product",
+      "file": "tldr-product.json"
+    },
+    {
+      "name": "TLDR IT",
+      "file": "tldr-it.json"
+    },
+    {
+      "name": "TLDR InfoSec",
+      "file": "tldr-infosec.json"
+    },
+    {
+      "name": "TLDR Founders",
+      "file": "tldr-founders.json"
+    },
+    {
+      "name": "TLDR Design",
+      "file": "tldr-design.json"
+    },
+    {
+      "name": "TLDR Marketing",
+      "file": "tldr-marketing.json"
+    },
+    {
+      "name": "TLDR Crypto",
+      "file": "tldr-crypto.json"
+    }
+  ]
+}

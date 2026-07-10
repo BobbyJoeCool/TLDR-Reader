@@ -1,0 +1,73 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-07-10",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.programming-helper.com/tech/discord-ai-moderation-glitch-wrongful-bans-8000-users-2026?utm_source=tldrinfosec",
+      "title": "Discord AI Moderation Glitch Wrongfully Bans 8k Users in 24-Hour Period",
+      "summary": "Discord acknowledged a severe glitch in its AI content moderation system that led to thousands of users being wrongfully banned. Discord had rolled out a new version of its proprietary model had a glitch that led ages with grids or repeated geometric shapes being banned at a very high rate. The appeals system also became overwhelmed due to the rate of requests increasing by approximately 40 times the normal rate."
+    },
+    {
+      "url": "https://www.propublica.org/article/puerto-rico-crim-data-breach?utm_source=tldrinfosec",
+      "title": "A Puerto Rico Government Agency Exposed 1M Social Security Numbers",
+      "summary": "The government agency that collects property taxes in Puerto Rico accidentally exposed the SSNs of 1M people. The Municipal Revenue Collection Center maintains an interactive property map which shows the owner names, lot sizes, tax assessment, and sale price for every registered property on the island. Researchers discovered that while the map itself did not surface additional sensitive information, “anyone who understands how websites request data” could access unprotected personal information, including SSNs."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/?utm_source=tldrinfosec",
+      "title": "OpenMandriva Linux Says Contributor Tried to Sabotage the Project",
+      "summary": "According to a longtime developer and maintainer of the OpenMandriva project, a Linux distro that is notable for building most of its components with the LLVM/Clang touching, stated that a contributor tried to sabotage portions of the project after a falling out. A contributor with admin privileges deleted part of an OpenMandriva repo that the team had been working on for almost a decade and published an empty package that obsoleted packages for Gnome and Cosmic desktop environments. The contributor denies any wrongdoing."
+    },
+    {
+      "url": "https://ainowinstitute.org/publications/friendly-fire-exploit-brief?utm_source=tldrinfosec",
+      "title": "Friendly Fire: Hijacking Defensive Cyber AI Agents for Remote Code Execution",
+      "summary": "Researchers show a proof‑of‑concept attack that turns Claude Code and OpenAI Codex into a path to remote code execution when they review a tampered open‑source library like a modified geopy repo. Prompted security reviews cause the agents to trust a planted security.sh script and a disguised Golang‑based binary, then run it without flagging it as malicious, even under “auto‑mode” and “auto‑review” safety settings. The exploit works across multiple model versions, bypasses configuration‑file defenses, and highlights how prompt‑injected documentation and binaries can quietly compromise host machines during routine vulnerability scanning."
+    },
+    {
+      "url": "https://queue.acm.org/detail.cfm?id=3819084&amp;utm_source=tldrinfosec",
+      "title": "You Don't Know Jack About Formal Verification",
+      "summary": "Formal verification is the process of mathematically proving properties of software and has historically been incredibly labor intensive and therefore very rarely done. Since Opus 4.5, LLMs have demonstrated that they are capable of translating a spec into the code that is accepted by formal verification languages like Dafny. However if a spec is poorly specified or if it is subject to external resources, formal verification may still not be comprehensive."
+    },
+    {
+      "url": "https://www.nowsecure.com/blog/2026/07/08/what-the-transsion-telemetry-research-means-for-mobile-security/?utm_source=tldrinfosec",
+      "title": "1-in-2 Phones Sold in Africa Exfiltrate Telemetry to China",
+      "summary": "Transsion's Android telemetry stack ships as a privileged system component on TECNO and related brands and as an SDK inside popular apps like Boomplay, StarTimes, and Orange Max it. Researchers extracted the SDK and used it to decrypt uploads to shalltry.com, discovering that the decrypted traffic shows device-wide beacons: GPS coordinates, nearby cell towers, foreground app, camera caller, battery state, and per‑app data usage for dozens of apps, all tied to multiple persistent identifiers and sent to Alibaba Cloud-hosted endpoints under *.shalltry.com. The service cannot be removed on Transsion phones, so defenders must rely on DNS-level wildcard blocking of shalltry.com and transsion-os.com to cut telemetry flows."
+    },
+    {
+      "url": "https://www.8layers.io/?utm_source=tldrinfosec",
+      "title": "8Layers (Product Launch)",
+      "summary": "8Layers runs a digital identity protection platform that pulls data from Okta, Entra ID, Google Workspace and AWS IAM, scores each human and machine identity for risk, detects dormant accounts and kill chains, and automates compliance checks."
+    },
+    {
+      "url": "https://github.com/DeepTempo/socbench?utm_source=tldrinfosec",
+      "title": "socbench (GitHub Repo)",
+      "summary": "socbench is a tool that benchmarks frontier reasoning models as SOC agents."
+    },
+    {
+      "url": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html?utm_source=tldrinfosec",
+      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "summary": "GitHub released npm 12 with install scripts, git dependencies, and remote URL installs turned off by default, forcing explicit approval via an allowlist in package.json. It is also phasing out granular access tokens that bypass 2FA for sensitive account and package actions, and restricting them to staging publishes that require human 2FA before going public. pnpm 11.10 adds tighter registry auth binding tokens to specific hosts."
+    },
+    {
+      "url": "https://detections.ai/share/inspiration/VNJMKFVM?utm_source=tldrinfosec",
+      "title": "Exploitarium: Mass Disclosure of Zero-Day Proof-of-Concepts",
+      "summary": "Researcher ‘bikini' published over 130 unvetted PoC exploits via the Exploitarium GitHub repository without vendor coordination, surfacing a pre-auth RCE in libssh2 that fires during the SSH handshake before authentication completes, alongside a Gitea admin-impersonation flaw exploitable through a spoofed X-WEBAUTH-USER header on default Docker configurations. libssh2's transitive presence in curl, Git, and PHP extends exposure well past direct dependents, and threat actors have already begun probing both flaws within days of disclosure. Defenders should patch libssh2 beyond 1.11.1, strip or validate the X-WEBAUTH-USER header at the reverse proxy for Gitea Docker deployments, and watch for anomalous pre-auth SSH handshake failures and unexpected admin account creation as early indicators of exploitation."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/07/09/microsoft-closes-book-on-nightmare-eclipses-rogueplanet-zero-day/5269280?utm_source=tldrinfosec",
+      "title": "Microsoft Closes Book on Nightmare Eclipse's RoguePlanet Zero-Day",
+      "summary": "Microsoft patched the RoguePlanet zero-day in Microsoft Defender via an update to the Malware Protection Engine, weeks after exploit code was published. The bug abused a race condition to open a SYSTEM-level command prompt, and was reported to work on fully patched Windows 10 and 11 systems, even with real-time protection off. The fix arrives after a series of public clashes between Microsoft and researcher Nightmare Eclipse over handling of zero-day reports."
+    },
+    {
+      "url": "https://www.nextgov.com/cybersecurity/2026/07/cisa-expects-finalize-key-cyber-reporting-rule-september/414607/?utm_source=tldrinfosec",
+      "title": "CISA Expects to Finalize Key Cyber Reporting Rule by September",
+      "summary": "The CISA expects to finalize a new reporting rule that will require critical infrastructure entities to report substantial incidents to CISA within 72 hours and ransomware payments within 24."
+    },
+    {
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies?utm_source=tldrinfosec",
+      "title": "'GodDamn' Ransomware Uses BYOVD to Smite US Companies",
+      "summary": "A ransomware group called Hyadina uses a new locker named GodDamn against US organizations, relying on AnyDesk and a set of open source credential-stealing tools to move through Windows environments."
+    }
+  ]
+}

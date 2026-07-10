@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-07-10",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg?utm_source=tldrproduct",
+      "title": "A Script for Mark Zuckerberg",
+      "summary": "Meta should embrace AI to strengthen what it already does best: connecting, entertaining, and monetizing human attention."
+    },
+    {
+      "url": "https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery/?utm_source=tldrproduct",
+      "title": "The Spec Ceiling: Why AI Coding Speed Moves the Bottleneck to Product Discovery",
+      "summary": "AI makes coding faster, shifting the bottleneck to product discovery and specifications. Turning recorded conversations into human-reviewed specs helps teams build the right products at greater speed."
+    },
+    {
+      "url": "https://frontierai.substack.com/p/data-is-your-only-moat-884?utm_source=tldrproduct",
+      "title": "Data is your only moat",
+      "summary": "AI products win by turning usage and customer workflows into proprietary knowledge. Simple tools learn faster, but complex enterprise products can become much harder to replace."
+    },
+    {
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/?gift=bmvUiu0ra57xGI0zOa4kGmINu--qpr8lFEbQYPTWWTQ&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share",
+      "title": "The People Who Will Thrive in the AI Age",
+      "summary": "As AI makes intelligence abundant, the ability to embrace mental effort will become increasingly valuable. People and institutions must use AI to strengthen independent thought while cultivating the curiosity, discipline, and ambition needed to pursue difficult work."
+    },
+    {
+      "url": "https://amycmitchell.substack.com/p/product-building-lessons?utm_source=tldrproduct",
+      "title": "What Product Managers Learn Between the Frameworks",
+      "summary": "Product management judgment comes from experience: preserve key insights, work through the evidence, stay curious when priorities shift, and remain calm during organizational change."
+    },
+    {
+      "url": "https://www.lucasfcosta.com/blog/laws-of-software-project-management?utm_source=tldrproduct",
+      "title": "Lucas' Laws of Project Management",
+      "summary": "Great teams solve problems, not specifications. They learn early, adjust scope, build working versions, and keep everyone aligned on the project's true state."
+    },
+    {
+      "url": "https://kristenberman.substack.com/p/want-people-to-use-your-ai-features?utm_source=tldrproduct",
+      "title": "Want people to use your AI features? These 5 teardowns show you how",
+      "summary": "AI features gain adoption by delivering immediate value, fitting existing workflows, and making the first successful action easy."
+    },
+    {
+      "url": "https://jakobnielsenphd.substack.com/p/progressive-disclosure?utm_source=tldrproduct",
+      "title": "Progressive Disclosure: From Training Wheels to Week-Long AI Agents",
+      "summary": "AI products should show essential outcomes and decisions first, while keeping settings, reasoning, and activity details one click away."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/why-estimations-are-irrelevant?utm_source=tldrproduct",
+      "title": "How to drive more impact without ever talking about nonsense numbers",
+      "summary": "Replace estimates with small, outcome-focused investments that grow only when results justify them."
+    },
+    {
+      "url": "https://news.theuncommonexecutive.com/p/how-to-prioritize-your-relationship?utm_source=tldrproduct",
+      "title": "How to Prioritize Your Relationship-building Tasks",
+      "summary": "Prioritize work that builds both impact and influence, and decline tasks that advance neither."
+    }
+  ]
+}
