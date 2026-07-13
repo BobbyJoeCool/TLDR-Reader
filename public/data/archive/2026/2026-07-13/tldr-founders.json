@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-07-13",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://x.com/jaminball/status/2075602206099919159?utm_source=tldrfounders",
+      "title": "Own Your Weights",
+      "summary": "The complexity tax of owning your own weights is too high for most tasks. Companies need a place where they can bring their workload and get help building a task-specific model on their data, tuned to their tasks, running on infrastructure they control. This would give them the control benefits of owning their weights without having the human complexity cost and tax. They would not just own a model, but the engine to continually build and fine-tune the weights."
+    },
+    {
+      "url": "https://x.com/anshublog/status/2076001786520047732?utm_source=tldrfounders",
+      "title": "Models Have No Business Models",
+      "summary": "The AI boom has produced a new kind of company with enormous capital and power and genuine technical brilliance. However, they have no durable business model at their own layer. Foundation models are inventory, and every release obsoletes the last one. Enterprises now buy intelligence the same way they buy electricity. The model is, by design, the replaceable part of the workflow."
+    },
+    {
+      "url": "https://x.com/dkfromdk/status/2075696599242821979?utm_source=tldrfounders",
+      "title": "AI's Biggest Winners Have the Lowest Margins",
+      "summary": "The biggest winners of AI are businesses nobody would ever call AI companies. AI transformation creates value through revenue, cost, and risk. For low-margin businesses, the biggest lever is cost - even small reductions in operating expenses can create an outsized increase in earnings. The lowest-margin businesses can finally attack the coordination costs that have kept them structurally low-margin for decades. The next wave of AI winners will put agents behind the workflows of low-margin businesses and let the savings show up quietly in the operating model."
+    },
+    {
+      "url": "https://x.com/tonygentilcore/status/2075234683202531403?utm_source=tldrfounders",
+      "title": "Building an efficient harness for advanced enterprise work",
+      "summary": "Agent harnesses help agents take on longer-running, more complex work. Harness design is critical to token efficiency. This post looks at how Glean moved its harness to orchestrate tools for every query using code. The approach proved more efficient, even for simple queries, and reduced token usage by 24%."
+    },
+    {
+      "url": "https://x.com/neilrahilly/status/2075290325757608148?utm_source=tldrfounders",
+      "title": "AI-pilling our company",
+      "summary": "The best software engineers are dramatically more productive than their peers. This has caused every tech company to hunt for those rare individuals capable of generating extraordinary results. Sierra found that its engineers were getting 5x more done on some tasks by running agents in parallel with git worktrees. It then set up a six-person AI acceleration team to make everyone at the company more productive. This article explains what the company built and what it learned in the process."
+    },
+    {
+      "url": "https://thephysicsofstartups.substack.com/p/the-b2b-standard-v1?utm_source=tldrfounders",
+      "title": "The B2B Standard",
+      "summary": "Revenue is the usual evidence for product-market fit, and it is the one metric a determined founder can manufacture without fit by personally forcing every deal across the line. The B2B Standard replaces it with six behaviors that cannot be forced, including buyers pulling in 60% of first meetings, a 50% close rate on those pulled deals, and 95% of new customers reaching the leading indicator of retention within a month. Put the six numbers on one page and review them weekly. The exact cutoffs are debatable, but whether buyers are pulling or the founder is pushing is not."
+    },
+    {
+      "url": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/?utm_source=tldrfounders",
+      "title": "Build agentic full-stack apps with Genkit",
+      "summary": "Genkit is an open-source framework for building full-stack AI-powered and agentic applications for any platform. It features a conversational support assistant that remembers tickets and a copilot that works across several turns. Genkit's Agents API packages message history, the tool loop, streaming, persistence, and a frontend protocol behind a single interface. It is now in preview for TypeScript and Go."
+    },
+    {
+      "url": "https://www.anthropic.com/news/reflect-with-claude?utm_source=tldrfounders",
+      "title": "Introducing a way to reflect on how you use Claude",
+      "summary": "Anthropic has created a new feature that helps users reflect on and refine how they use Claude. It lets users easily track and visualize how they use the AI tool. The reflection dashboard can be found in Settings on Claude for the web or the desktop app. It is currently available in beta for Free, Pro, and Max users who have memory turned on."
+    },
+    {
+      "url": "https://x.com/satyanadella/status/2076323181154230284?utm_source=tldrfounders",
+      "title": "The Reverse Information Paradox",
+      "summary": "AI tools can learn how a company makes decisions from employee corrections, even when its source files stay private. A claims adjuster explains why a case deserves an exception; a sales manager flags an account as risky and says why. Satya Nadella calls this the Reverse Information Paradox. The company pays for the model and also supplies the judgment that improves it. Enterprise contracts now need to cover prompts, corrections, evals, traces, memory, and tuned weights, and the customer should be able to switch models without losing what the system learned. Otherwise, the model gets smarter, and the customer gets more locked in."
+    },
+    {
+      "url": "https://benn.substack.com/p/be-a-winner-or-join-one?utm_source=tldrfounders",
+      "title": "Be a Winner, or Join One?",
+      "summary": "Start a company, or join an AI company that's already winning? The old tradeoff was stability versus ownership, but now the big labs are where the risky technical work happens, and a two-person startup can end up building a minor feature around their models. A spreadsheet can compare salary, equity, and outcomes. It can't say how much responsibility you'll get, what you'll learn, or whether the problem matters, and those questions beat how ambitious the choice looks from outside."
+    },
+    {
+      "url": "https://investing101.substack.com/p/rats-nest-problems?utm_source=tldrfounders",
+      "title": "Rat's Nest Problems",
+      "summary": "For founders in markets where one sale hangs on permits, regulators, suppliers, or several companies agreeing on timing."
+    },
+    {
+      "url": "https://lethain.com/generated-demand/?utm_source=tldrfounders",
+      "title": "Generated and suppressed demand.",
+      "summary": "Teams experience \"generated demand\" when completing work reveals previously suppressed requests, leading them back to being overwhelmed despite progress."
+    },
+    {
+      "url": "https://www.proofofconcept.pub/p/hyper-local-hyper-cloud?utm_source=tldrfounders",
+      "title": "Hyper-local, Hyper-cloud",
+      "summary": "AI agent work should live in private notes, drafts, and cheap experiments stay on the laptop, and once it's useful to someone else, work moves to shared docs, repos, or company memory."
+    },
+    {
+      "url": "https://x.com/BrendanFoody/status/2076354243540435146?utm_source=tldrfounders",
+      "title": "Mercor's 2023 Seed Deck",
+      "summary": "Mercor posted the seed deck it used in September 2023."
+    }
+  ]
+}

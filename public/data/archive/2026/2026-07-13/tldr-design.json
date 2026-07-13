@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-07-13",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/?utm_source=tldrdesign",
+      "title": "Figma Acquires Team Behind a Vibe-coding App",
+      "summary": "Figma has acquired the team behind Bud, a vibe-coding and AI agent platform, to strengthen its coding and prototyping capabilities. Both Bud and Orchids will shut down by July 18, requiring users to migrate their projects, following an earlier BBC report that Orchids-built apps were vulnerable to cyberattacks. The deal follows Figma's recent moves toward app-building tools, including Figma Make, integrations with Codex and Claude Code, and its own AI agents."
+    },
+    {
+      "url": "https://thenextweb.com/news/meta-muse-image-instagram-privacy-backlash-pulled?utm_source=tldrdesign",
+      "title": "Meta Killed its Muse Image AI Feature Three Days After Launch. Hollywood Had Had Enough",
+      "summary": "Meta pulled its Muse Image AI tool from Instagram and WhatsApp just three days after launch, admitting it \"missed the mark\" on privacy. The feature allowed users to generate images from any public Instagram account by default, prompting swift backlash from SAG-AFTRA, CAA, and actor Hannah Einbinder. Meta Superintelligence Labs' companion tool, Muse Video, remains available despite the shutdown."
+    },
+    {
+      "url": "https://www.digitaltrends.com/cool-tech/apple-is-suing-openai-of-stealing-trade-secrets-in-blockbuster-lawsuit/?utm_source=tldrdesign",
+      "title": "Apple is suing OpenAI over theft of trade secrets in blockbuster lawsuit",
+      "summary": "Apple has sued OpenAI, alleging it stole confidential trade secrets and unreleased hardware information through former Apple employees who joined the company. Apple is seeking damages, the destruction of any misappropriated materials, and changes to future OpenAI hardware if it uses Apple's proprietary technology. The lawsuit marks a dramatic shift in the companies' relationship, as they remain AI partners through Apple Intelligence while increasingly competing in the race to build AI-powered devices."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/11/ipad-pro-needs-simpler-multitasking-with-ipados-27/?utm_source=tldrdesign",
+      "title": "iPadOS 27 still needs simpler multitasking, here's what I'd like to see",
+      "summary": "While the windowing system introduced in iPadOS 26 is powerful for advanced workflows, it makes simple multitasking more complicated by integrating Split View and Slide Over into the new interface. A better approach would be to offer two multitasking modes: a \"Classic\" mode with full-screen, Split View, and Slide Over, and a separate \"Pro\" mode with windowing and optional Stage Manager. This would better accommodate both users who want a traditional tablet experience and those who use the iPad as a laptop replacement."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=tldrdesign",
+      "title": "Design-System Maturity: A 6-Dimension Framework",
+      "summary": "Design-system maturity is better understood as a balance across six independent dimensions—organizational alignment, team effectiveness, infrastructure, governance, support, and adoption—rather than a linear progression through predefined stages. Assessing these dimensions together provides a clearer picture of a system's strengths, weaknesses, and trade-offs, helping teams identify the most impactful areas for improvement. The assessment process itself is equally valuable, as aligning different stakeholders around the system's current state builds shared understanding, ownership, and long-term support."
+    },
+    {
+      "url": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?utm_source=tldrdesign",
+      "title": "Craft still matters, but it's about outcomes",
+      "summary": "As AI makes design production increasingly commoditized, the true value of designers shifts from creating artifacts to exercising judgment—choosing the right problems, validating ideas with real users, defining quality standards, and evaluating AI-generated outputs. Success now depends on making tacit expertise explicit through clear principles, reusable context, and robust evaluation processes, while keeping humans and user research at the center of decision-making. Rather than replacing craft, AI relocates it from execution to strategy, taste, and accountability, making human judgment the key competitive advantage."
+    },
+    {
+      "url": "https://loading-ui.com/?utm_source=tldrdesign",
+      "title": "Loading UI Gallery (Website)",
+      "summary": "Free and open-source CSS and React loaders, spinners, and animations to create polished, accessible loading states for modern web apps."
+    },
+    {
+      "url": "https://styles.refero.design/?utm_source=tldrdesign",
+      "title": "DESIGN.md Examples for AI Agents (Website)",
+      "summary": "Browse 2,000+ AI-readable design systems from leading product websites. Open any style for colors, typography, spacing, components, and a DESIGN.md you can use in Cursor, Claude Code, Codex, v0, or Lovable."
+    },
+    {
+      "url": "https://www.uxpin.com/forge?utm_source=tldrdesign",
+      "title": "AI-Powered UI Design with Real React Components (Website)",
+      "summary": "UXPin's Forge is the AI system that generates, edits, and reviews UI using real React components from your library."
+    },
+    {
+      "url": "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/?utm_source=tldrdesign",
+      "title": "How Decagon Uses AI for Design System Saturation",
+      "summary": "Decagon, a fast-growing AI customer experience platform, built a design system called Deco to keep design and code consistent as it scaled quickly. Using Figma MCP and Figma Make, designers and coding agents stayed in sync, cutting back-and-forth revisions and speeding up prototyping. This allowed the team to build and test multiple prototypes with customers faster, since roughly 70 percent of Decagon's roadmap is customer-driven."
+    },
+    {
+      "url": "https://the-brandidentity.com/project/dipshop-gives-a-photography-festival-an-identity-without-photos?utm_source=tldrdesign",
+      "title": "dipshop gives a photography festival an identity without photos",
+      "summary": "The identity system for the 2026 Foto Wien photography festival is built around three photographic concepts: circles inspired by camera optics, rounded rectangles based on analog film perforations, and blur representing depth of field. A limited RGB color palette, geometric forms, and the EK Baumer typeface create a flexible visual system that adapts across print, digital, and exhibition materials while maintaining a consistent connection to photography. Rather than relying on fixed visual elements, the identity uses simple rules and interactions to create a cohesive and adaptable brand."
+    },
+    {
+      "url": "https://sparkbox.com/foundry/making_images_accessible?utm_source=tldrdesign",
+      "title": "Making Images Accessible",
+      "summary": "Image accessibility requires more than just an alt attribute—every image needs one, but its value depends on whether the image is decorative or conveys real content. Icons often function as decoration reinforced by nearby text, though standalone icons need accessible names via their surrounding interactive elements. Effective alt text depends on surrounding context rather than pixel description alone, and while automated tools catch missing attributes, only human judgment (aided by AI suggestions) can confirm whether alt text truly communicates an image's purpose."
+    },
+    {
+      "url": "https://www.antonsten.com/articles/designing-for-trust/?utm_source=tldrdesign",
+      "title": "Designing for Trust",
+      "summary": "Design's real currency is trust built through clear framing, confident copy, and friction-free moments that keep doubt from creeping in."
+    },
+    {
+      "url": "https://rosenfeldmedia.com/what-does-the-future-of-ux-look-like/?utm_source=tldrdesign",
+      "title": "What Does the Future of UX Look Like?",
+      "summary": "UX design isn't disappearing but transforming, shifting toward systems thinking, AI collaboration, and end-to-end user journeys rather than traditional pixel-pushing work."
+    }
+  ]
+}

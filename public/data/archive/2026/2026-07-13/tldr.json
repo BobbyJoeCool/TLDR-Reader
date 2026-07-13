@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-07-13",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzkxMjY1MCwiZXhwIjoxNzg0NTE3NDUwLCJhcnRpY2xlSWQiOiJUSTJFVzFSMjRVOEswMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.wIArJVWB1ST8yeIXgP9B-hXmhsBq_3WnFBf0X5faPNc&utm_source=tldrnewsletter",
+      "title": "Apple's M6, M7, and M8 Chips Show How AI Is Reshaping the Company",
+      "summary": "AI is no longer just another feature that Apple's chips need to support. It is now shaping how Apple's products are designed and when they are shipped. The Apple car project was not a futile exercise. The AI hardware effort developed for the vehicle now powers Macs and AI servers. What was seen as one of Apple's costliest failures may actually have been one of its most consequential technology investments."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html?unlocked_article_code=1.xVA.ioDl._RZeRJKFIYdf&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+      "summary": "Apple has accused OpenAI of stealing secrets about products still in development. OpenAI's new hardware business allegedly asked job candidates from Apple to share details about secret projects and to bring device components and prototypes to their interviews. It used the information to approach at least one of Apple's manufacturing partners, asking them to demonstrate Apple's technique for finishing metal on its devices. Apple is seeking an injunction that would prevent OpenAI from possessing, using, or sharing its trade secrets, as well as an order requiring OpenAI to return Apple's intellectual property."
+    },
+    {
+      "url": "https://thenextweb.com/news/1x-neo-robot-tendon-driven-hands?utm_source=tldrnewsletter",
+      "title": "Home robots already walk. 1X's new hands try to solve the part that actually matters",
+      "summary": "1X's new robotic hands have 25 backdrivable joints that give way when pushed rather than staying rigid. The skin's sensors read both pressure and sideways movement across the fingers, allowing it to notice a glass starting to slip. Factory robots use grippers because they work with parts placed exactly at the same spot every time, but homes have a much larger variation in object type and placement. 1X's robotic hands can bend past a human range and wrap around awkward shapes and are ready for chores."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/?utm_source=tldrnewsletter",
+      "title": "China recovered its first reusable rocket and showed a new way to do it",
+      "summary": "China has demonstrated its first-ever controlled rocket recovery. The Long March 10B successfully completed its maiden flight, and its first stage was recovered via a sea-based net. There are several other rockets in development in China that could soon achieve reusability. The country has four land-based spaceports and multiple ocean-going launch platforms and is ready to quickly ramp up its launch cadence."
+    },
+    {
+      "url": "https://danielmiessler.com/blog/intent-engineering?utm_source=tldrnewsletter",
+      "title": "From Prompt Engineering to Intent Engineering",
+      "summary": "Our thoughts about the smartest way to accomplish a task will become increasingly stupid compared to AI's way of doing it as time goes on. This necessitates a switch from prompt engineering to intent engineering, where you describe the outcome you want rather than how a thing should be done. People should review older prompts and switch their 'how' prompts into 'what' prompts."
+    },
+    {
+      "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/?utm_source=tldrnewsletter",
+      "title": "In defense of not understanding your codebase",
+      "summary": "People who work on small codebases with low-turnover teams use different methods, practices, and cultures than people who work on large codebases with high-turnover teams. The first group, which says you need to understand the codebase completely, otherwise you can't do good work, is over-represented in online discussions about software engineering. There's nothing wrong with being in a state of partial understanding in many software engineering environments. In large systems, a partial understanding is the best you can do."
+    },
+    {
+      "url": "https://www.geopolitechs.org/p/tang-jies-letter-to-zhipu-employee?utm_source=tldrnewsletter",
+      "title": "The Wave Has Arrived”: Zhipu Co-Founder Tang Jie's Letter to Staff",
+      "summary": "Zhipu's co-founder, Tang Jie, has published a full-staff letter announcing a full return to foundation-model research and a two-year plan. The letter covers Tang's views on AGI, AI safety, open source, and more. It also presents a road map to AGI that includes strategic investments in long-horizon tasks, autonomous agent systems, full self-training, and extreme safety governance."
+    },
+    {
+      "url": "https://x.com/satyanadella/status/2076323181154230284?utm_source=tldrnewsletter",
+      "title": "The Reverse Information Paradox",
+      "summary": "AI creates a problem where buyers risk giving away knowledge just to use what they bought. They essentially pay for intelligence twice: once with money, and again with the proprietary knowledge they must reveal to make that intelligence useful. Over time, the seller learns more and more about their customers while buyers learn very little about what the seller is learning in return. This reverse information paradox needs to be confronted, as companies should be able to use models without giving up knowledge that makes them unique."
+    },
+    {
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html?utm_source=tldrnewsletter",
+      "title": "AI 2040 and the Cult of Intelligence",
+      "summary": "Current predictions about AI are not grounded in reality."
+    },
+    {
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/?utm_source=tldrnewsletter",
+      "title": "Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits",
+      "summary": "The rounding of a cosine can betray the OS that a browser is running on."
+    },
+    {
+      "url": "https://suriya.cc/essays/memetic/?utm_source=tldrnewsletter",
+      "title": "Memetic transfer",
+      "summary": "A meme is anything that is able to capture cultural transport."
+    },
+    {
+      "url": "https://www.wsj.com/business/washingtons-bet-on-intel-is-starting-to-pay-off-0072065b?st=4jop7t&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Washington's Bet on Intel Is Starting to Pay Off",
+      "summary": "The White House made fixing chip maker Intel its pet project."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2075315309591044522.html?utm_source=tldrnewsletter",
+      "title": "Pepsi challenge for LLMs",
+      "summary": "LLMs are now good enough that we need new benchmarks to explain their differences."
+    },
+    {
+      "url": "https://thenextweb.com/news/brainco-wearable-brain-tech-china-neuralink?utm_source=tldrnewsletter",
+      "title": "While Neuralink drills into skulls, China's BrainCo is betting brain tech will be something you wear",
+      "summary": "Hangzhou-based BrainCo makes headbands and caps that pick up electrical signals through the scalp with no surgery required."
+    }
+  ]
+}

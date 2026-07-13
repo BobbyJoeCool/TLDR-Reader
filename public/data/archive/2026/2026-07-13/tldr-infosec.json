@@ -1,0 +1,78 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-07-13",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html?utm_source=tldrinfosec",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "summary": "Progress Software ordered ShareFile customers to shut down Windows-based Storage Zone Controllers after detecting a credible external threat, cutting affected systems off from the cloud while it works with security teams to investigate. Only on-prem controllers are impacted. Cloud-only accounts remain online. Customers have been told to keep controllers offline, treat exposed servers as possible incidents, preserve logs, and look for unfamiliar .aspx files."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/07/10/miinto-fesses-up-to-breach-says-customers-open-to-phishing/5269891?utm_source=tldrinfosec",
+      "title": "Fashion mart Miinto unzips breach details, warns shoppers to watch for phisherfolk",
+      "summary": "Danish retailer Miinto reported that an intruder accessed its internal order management system and viewed customer order records, including names, contact details, addresses, and payment method types, but not card or CVV numbers. The company removed the attacker, tightened access controls, notified police and regulators, and warned customers about targeted phishing using stolen data."
+    },
+    {
+      "url": "https://socket.dev/blog/compromised-injective-sdk-npm-package?utm_source=tldrinfosec",
+      "title": "Compromised Injective SDK npm Package Exfiltrates Wallet Keys and Mnemonics",
+      "summary": "A malicious Injective TypeScript SDK release (@injectivelabs/sdk-ts@1.20.21) logs mnemonics and private key material, then sends them via a POST request to an InjectiveLabs infrastructure endpoint, allowing attackers to rebuild wallet keys. The same version was pushed to 17 related packages, so developers must audit dependencies, move funds from affected wallets, and rotate keys and mnemonics."
+    },
+    {
+      "url": "https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/?utm_source=tldrinfosec",
+      "title": "Cavern Manticore: Exposing Iran-Linked Modular C2 Framework",
+      "summary": "Check Point Research attributes Cavern Manticore, an Iran MOIS-linked actor tied to the OilRig subgroup Lyceum, to intrusions against Israeli government and IT targets that begin with RMM and SysAid software-update abuse, then sideload a trojanized uxtheme.dll (Cavern Agent) via the legitimate WinDirStat.exe to establish a modular .NET C2 built across three compilation formats for anti-analysis, with per-module AppDomain isolation and startup directory wipes for anti-forensics. Post-exploitation modules pull LDAP/AD enumeration and brute-forcing, SQL database access, DPAPI credential decryption, SMB share/credential attacks, and SOCKS5/WebSocket tunneling, communicating over XOR-keyed (key 0x48) HTTPS/WSS traffic to C2 domains including auth[.]hospitalinstallation[.]com and google[.]com[.]hospitalinstallation[.]com. Defenders should audit for uxtheme.dll sideloading and unsigned binaries under C:\\ProgramData, monitor RMM tooling for anomalous deployment activity, and flag the fixed Edge-spoofed User-Agent and X-User-token header pattern as host-based detection points."
+    },
+    {
+      "url": "https://securelist.com/microsoft-device-code-phishing-attack/120350/?utm_source=tldrinfosec",
+      "title": "When checking the URL isn't enough: a Device Code Phishing attack via a Microsoft website",
+      "summary": "Attackers deliver a password-protected PDF impersonating a law firm, chain it through legitimate open redirects on Microsoft and Cacoo.com domains, and route victims through CAPTCHA gates to a landing page that auto-copies a Microsoft OAuth device_code obtained via the legitimate devicecode endpoint. The victim pastes that code into Microsoft's genuine verification_uri, completes real MFA, and the attacker harvests the resulting access_token, refresh_token, and id_token to read mail, exfiltrate OneDrive files, and access Teams, with refresh_token enabling silent long-term persistence. The same technique has since been observed retargeting Brazilian users. Defenders should disable the Device Code Flow via Conditional Access if unused, monitor DeviceCodeSignIn events and enforce device compliance, alert on anomalous sign-in locations, and train users to never approve unsolicited device code prompts, even when the verification page is a genuine login.microsoftonline.com or microsoft.com/devicelogin URL."
+    },
+    {
+      "url": "https://securitylabs.datadoghq.com/articles/guarddog-3-0-release/?utm_source=tldrinfosec",
+      "title": "Introducing GuardDog 3.0: A new rules engine, transparent sandboxing, and more",
+      "summary": "Datadog released GuardDog 3.0, its open source scanner for malicious PyPI and npm packages, replacing Semgrep with YARA rules run via yara-python for faster, less memory-hungry scans. The new risk engine correlates capability and threat-indicator rules across the attack lifecycle into a 0-10 score, benchmarked at 89.2% precision and 88.3% recall against a TLSH-deduplicated sample of Datadog's 27k-package malicious dataset. Scanning now runs inside a Nono sandbox by default (disable with --no-sandbox), limiting filesystem and network access even if a crafted package exploits GuardDog itself."
+    },
+    {
+      "url": "https://github.com/sufield/stave?utm_source=tldrinfosec",
+      "title": "Stave (GitHub Repo)",
+      "summary": "Open-source cloud configuration verifier. Proves your AWS configuration is correct instead of searching for what's wrong. Offline, credential-free."
+    },
+    {
+      "url": "https://github.com/ail-project/tempolocus?utm_source=tldrinfosec",
+      "title": "tempolocus (GitHub Repo)",
+      "summary": "tempolocus from the AIL Project infers a threat actor's probable location from time-series activity patterns: weekly hourly buckets, yearly daily buckets, or raw timestamp lists such as PE TimeDateStamp values. It ranks timezone offsets and probable countries from quiet-window analysis, matches yearly activity against public-holiday calendars across 80+ regions (including a public-worker profile covering China and Russia government closure patterns), and classifies activity as work-time, vacation-time, or mixed-time. Output is probabilistic JSON, usable via CLI or as a Python library with detect and analyze_activity entry points, licensed AGPL-3.0."
+    },
+    {
+      "url": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/?utm_source=tldrinfosec",
+      "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
+      "summary": "GigaWiper is a Go-based backdoor used since October 2025 that combines older wiper and ransomware components into a modular tool with robust command-and-control. It can wipe disks at the physical level, trigger a BSOD, encrypt files with both recoverable and unrecoverable keys, capture screenshots, execute PowerShell commands, and clear logs while maintaining remote control via RabbitMQ and Redis."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/?utm_source=tldrinfosec",
+      "title": "Phia accused of ‘cookie stuffing,' taking affiliate credit on purchases it didn't earn",
+      "summary": "Phia, a shopping extension backed by celebrity investors, was suspended from the affiliate platform Impact.com after a Bloomberg investigation reported that it injected its own referral codes during checkout, overriding other affiliates' tags and capturing commissions on purchases it did not drive. Phia says it has fixed the behavior, but retailers and partners have not publicly confirmed their position"
+    },
+    {
+      "url": "https://therecord.media/nsa-revives-tao-name-for-elite-hacking-unit?utm_source=tldrinfosec",
+      "title": "NSA revives 'Tailored Access Operations' name for elite hacking unit",
+      "summary": "NSA renamed its Office of Computer Network Operations back to Tailored Access Operations under new leadership, with Deputy Director Tim Kosiba at the helm, reversing the 2016 NSA21 restructuring that split TAO's developers and operators into separate directorates. The unit is set to open a dedicated building at Fort Meade next month."
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/?utm_source=tldrinfosec",
+      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+      "summary": "Angelo Martino, a former ransomware negotiator at DigitalMint, admitted to sharing victims' insurance limits and negotiation strategies with BlackCat operators to inflate ransom demands, taking a cut of payments exceeding $75 million."
+    },
+    {
+      "url": "https://gbhackers.com/wireshark-4-6-7-released-to-patch-12-vulnerabilitie/?utm_source=tldrinfosec",
+      "title": "Wireshark 4.6.7 Released to Patch 12 Vulnerabilities in SSH, TLS, Wi-Fi, and pcapng",
+      "summary": "Wireshark 4.6.7 fixes 12 dissector and parser flaws tracked as wnpa-sec-2026-53, -55, -56, -57, -60, and -61 (crashes and infinite-loop denial-of-service risks in pcapng, SSH, TLS ECH, IEEE 802.11, BLF, and other dissectors, none rated for remote code execution), and users who inspect untrusted pcapng, Wi-Fi, TLS, or SSH captures should upgrade promptly."
+    },
+    {
+      "url": "https://www.asahi.com/ajw/articles/16703618?utm_source=tldrinfosec",
+      "title": "Teen accused of using ChatGPT to delete 46,000 anime accounts",
+      "summary": "Tokyo police arrested a 15-year-old who admitted using ChatGPT to help write code that sent false deregistration commands to Bandai Namco Filmworks' servers, deleting 46,812 Bandai Channel accounts and exposing personal data from up to 1.36 million users."
+    }
+  ]
+}

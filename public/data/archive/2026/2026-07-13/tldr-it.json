@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-13",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://torrentfreak.com/google-opposes-site-blocking-in-europe-as-u-s-piracy-blocking-plans-gain-momentum/?utm_source=tldrit",
+      "title": "Google Opposes Site Blocking in Europe as US Piracy Blocking Plans Gain Momentum",
+      "summary": "Google has urged the European Commission against broad pirate site blocking, arguing that DNS, IP, and VPN blocking is ineffective and risks overblocking legitimate services. The filing comes as US lawmakers gain momentum on site-blocking legislation following a House IP subcommittee hearing, with multiple bills and renewed arguments after the Cox v. Sony ruling."
+    },
+    {
+      "url": "https://www.informationweek.com/it-infrastructure/how-the-memory-shortage-hits-cios-as-apple-boosts-hardware-prices?utm_source=tldrit",
+      "title": "How the memory shortage hits CIOs as Apple boosts hardware prices",
+      "summary": "A global memory shortage is raising PC, Mac, and server prices, forcing CIOs to reconsider device standards and replacement schedules. Some companies are extending laptop refresh cycles from four to six years as Apple increases Mac prices by 15% to 20% and Windows device makers face similar component-cost pressure."
+    },
+    {
+      "url": "https://fazamhd.com/mental-models/networking/?utm_source=tldrit",
+      "title": "Networking and the Internet, from First Principles",
+      "summary": "A deeply visual guide to how the internet works, tracing networking from telegraphs and circuit switching through packets, routers, TCP, DNS, and TLS. Interactive simulations explain concepts such as bandwidth versus latency, congestion, routing failures, encryption, and what actually happens when someone clicks a link."
+    },
+    {
+      "url": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from?utm_source=tldrit",
+      "title": "Up the Stack: How AI's Escape From the Commodity Trap Risks Enterprise Lock-in",
+      "summary": "Charging for frontier model inference is unlikely to sustain the massive AI infrastructure investment because models resemble commodities and switching costs are low. Labs will instead try to escape the “commodity trap” by migrating up the stack toward enterprise-style lock-in via vertical integration and embedded deployments, which could improve profitability but risks enterprise lock-in and reduced competition."
+    },
+    {
+      "url": "https://www.channeldive.com/news/bittitan-microsoft-365-migration-managed-services-platofrm/824997/?utm_source=tldrit",
+      "title": "BitTitan expands MigrationWiz with Microsoft Teams private chat migrations",
+      "summary": "BitTitan expanded MigrationWiz to support Microsoft Teams private chat migrations, adding to its email, documents, archives, and collaboration-data capabilities. The launch gives service providers and enterprise IT teams more options for large-scale Google Workspace and Microsoft 365 migrations while turning one-time migration projects into ongoing managed services."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4195291/ibm-bob-expands-beyond-code-generation-to-orchestrate-the-entire-sdlc.html?utm_source=tldrit",
+      "title": "IBM Bob expands beyond code generation to orchestrate the entire SDLC",
+      "summary": "IBM Bob, an agentic software development platform, is expanding beyond code generation to orchestrate the full software development lifecycle (SDLC). The update adds multi-agent workflows, parallel tool calling, built-in security/governance, and cost/usage analytics, along with specialized packages for Java modernization."
+    },
+    {
+      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/?utm_source=tldrit",
+      "title": "How GitHub gave every repository a durable owner",
+      "summary": "GitHub faced recurring ambiguity about who owns many internal repositories, which complicated security workflows like secret scanning remediation. To fix this, it introduced first-class repository ownership using GitHub custom properties, populated from its Service Catalog where applicable, and then enforced ownership by warning and archiving unowned repositories."
+    },
+    {
+      "url": "https://support.okta.com/help/s/article/update-office-365-to-support-application-based-authentication-for-provisioning?language=en_US&amp;utm_source=tldrit",
+      "title": "Update Office 365 to Support Application-Based Authentication for Provisioning",
+      "summary": "Okta is replacing the legacy service-account model used for Microsoft 365 provisioning with application-based authentication. Admins will need to update their Office 365 integration so Okta can continue securely creating, updating, and deactivating users without relying on a shared administrator account."
+    },
+    {
+      "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one?utm_source=tldrit",
+      "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+      "summary": "A VentureBeat survey of 101 enterprises found that 57% had traced confidently wrong AI-agent answers to missing or inconsistent business context, while only 25% had a governed context layer in production. The findings suggest companies need current, structured, and governed business data, not simply more documents or better models, to make enterprise agents reliable."
+    },
+    {
+      "url": "https://artificialanalysis.ai/?utm_source=tldrit",
+      "title": "AI Model & API Providers Analysis",
+      "summary": "Artificial Analysis provides an independent, benchmark-driven way to understand the AI model and API provider landscape, highlighting leaderboards and multiple indices."
+    },
+    {
+      "url": "https://axipro.co/shadow-ai-policy-template/?utm_source=tldrit",
+      "title": "Shadow AI Policy Template: Ready-to-Use IT Framework",
+      "summary": "A ready-to-use, copy-ready shadow AI policy template with twelve sections and customization guidance for different company sizes, industries, and regulatory needs."
+    }
+  ]
+}
