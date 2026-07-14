@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-07-14",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.thestateofbrand.com/news/brand-voice-ai-software-adjective-list-great-flattening?utm_source=tldrmarketing",
+      "title": "Every AI Marketing Platform Now Sells a “Brand Voice” Feature. They're All Selling the Same Voice",
+      "summary": "AI marketing platforms like Jasper standardize “brand voice” by applying generic tone guidelines to content that's already interchangeable, producing average output at scale. This creates a feedback loop of sameness. The issue isn't the tools, it's the input. Simple checks like swap, output, and reconstruction tests reveal weak voice. Brands grounded in clear beliefs and real decisions avoid being flattened."
+    },
+    {
+      "url": "https://mashable.com/tech/we-must-act-now-economists-issue-ai-job-loss-warning?utm_source=tldrmarketing",
+      "title": "Over 200 economists warn that more AI job losses are coming: “We must act now”",
+      "summary": "More than 200 economists, including 16 Nobel Laureates, have warned that AI could accelerate job displacement and reshape the economy faster than previous industrial shifts. A new open letter urges policymakers and tech leaders to create safeguards that ensure AI complements workers rather than replaces them. The warning comes as companies announce AI-related layoffs, with 99% of executives expecting AI to reduce headcount in some capacity within two years."
+    },
+    {
+      "url": "https://www.growth-memo.com/p/where-ai-agents-get-stuck-on-your?utm_source=tldrmarketing",
+      "title": "Where AI agents get stuck on your site",
+      "summary": "AI agents don't struggle with your site, they struggle with your pricing. When it's hidden, hard to parse, or blocked, they default to third-party sources. Even published pricing often fails if it's buried in JavaScript, calculators, or messy layouts. Make pricing explicit, centralized, in plain text, and crawlable. Add structure and reduce friction."
+    },
+    {
+      "url": "https://www.marketingideas.com/p/youre-losing-press-coverage-the-fix?utm_source=tldrmarketing",
+      "title": "You're losing press coverage",
+      "summary": "Press coverage can be lost when reporters can't quickly access the assets they need. Make it easy to cover a company by creating a public press kit with downloadable logos, screenshots, brand assets, and copy-ready stats. Avoid gated folders or hard-to-find pages, since journalists will move to easier sources. Adding a dedicated press page with clear URLs and frequently used metrics helps reporters quickly find and cite information."
+    },
+    {
+      "url": "https://www.pagesthatprint.com/?utm_source=tldrmarketing",
+      "title": "Pages that Print (Website)",
+      "summary": "A curated gallery of landing pages that generate verified revenue. It highlights what drives conversions, helping users avoid copying designs that don't perform. The platform also offers teardowns and diagnostics to identify what's hurting a page and how to fix it."
+    },
+    {
+      "url": "https://maven.com/p/cb3c2e/how-to-know-if-linked-in-paid-will-generate-better-leads?utm_source=tldrmarketing",
+      "title": "How to Know If LinkedIn Paid Will Generate Better Leads (Webinar)",
+      "summary": "LinkedIn Paid can be incredibly effective, but only when the right foundations are already in place. Lauren Loreto will walk through how to evaluate whether your business or brand is actually ready for paid visibility and what to focus on first before spending budget. The free webinar will take place on July 15 at 9 AM PT."
+    },
+    {
+      "url": "https://newsletter.mkt1.co/p/mutiny-growth-lessons?utm_source=tldrmarketing",
+      "title": "An inside look at Mutiny's growth engine",
+      "summary": "Mutiny built its growth engine by combining rapid testing and focused channel investments instead of spreading effort across many initiatives. It improved conversions by 71% after testing a more specific homepage headline, then paired broad awareness tactics with account-based outbound that focused on a small list of high-value prospects. It used borrowed audiences and ecosystem partnerships to expand reach while tracking performance across every stage of the funnel. The team treated every experiment as a way to find repeatable growth, then doubled down on the channels and tactics that produced results."
+    },
+    {
+      "url": "https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful?utm_source=tldrmarketing",
+      "title": "Empathy and delight mean nothing when the software is disrespectful",
+      "summary": "Empathy and delight haven't improved software because respect is missing. Products remove user control and push work onto users through rigid flows and forms. This starts with designers who overestimate their role and scales through systems that prioritize efficiency over agency. LLMs extend this by defaulting to doing tasks for users, generating low-value output that increases review burden and rewards volume over judgment. The result is bloated features and worse experiences. Respectful software gives users control, keeps useful friction, and communicates clearly."
+    },
+    {
+      "url": "https://www.adexchanger.com/marketers/this-k-beauty-brand-is-collapsing-the-marketing-funnel-to-grow-its-us-customer-base/?utm_source=tldrmarketing",
+      "title": "This K-Beauty Brand Is Collapsing The Marketing Funnel To Grow Its US Customer Base",
+      "summary": "Sulwhasoo is collapsing the funnel by pairing CTV and DOOH with retargeting."
+    },
+    {
+      "url": "https://www.socialmediatoday.com/news/eu-commission-preliminarily-finds-meta-apps-addictive/825018/?utm_source=tldrmarketing",
+      "title": "EU Commission preliminarily finds Meta apps addictive",
+      "summary": "Meta may face fines and forced product changes in Europe after the EU ruled that Facebook and Instagram's addictive features likely violate its laws."
+    },
+    {
+      "url": "https://moz.com/blog/4-s-of-youtube-success-whiteboard-friday?utm_source=tldrmarketing",
+      "title": "The 4 S's of YouTube Success",
+      "summary": "YouTube growth is attributed to subscribers, suggested, search, and shorts."
+    },
+    {
+      "url": "https://www.cbsnews.com/news/americans-credit-card-debt-buy-groceries/?utm_source=tldrmarketing",
+      "title": "Millions of Americans take on debt and drain savings to afford food",
+      "summary": "About 20% of working-age adults used long-term savings to pay for groceries in the past year."
+    }
+  ]
+}

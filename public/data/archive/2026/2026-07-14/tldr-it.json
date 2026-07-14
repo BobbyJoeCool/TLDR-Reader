@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-14",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/?utm_source=tldrit",
+      "title": "Apple says former employee exploited ‘rare' bug to download confidential files after leaving for OpenAI",
+      "summary": "Apple alleges that a former employee exploited an authentication flaw to access its network and download confidential hardware files weeks after joining OpenAI. Apple has since fixed the bug, but the incident highlights the risks of incomplete offboarding, retained devices, and lingering access after employees leave."
+    },
+    {
+      "url": "https://blog.dropbox.com/topics/news/trusted-dropbox-content-into-openai-workflows?utm_source=tldrit",
+      "title": "The context layer for AI: Bringing trusted Dropbox content into OpenAI workflows",
+      "summary": "Dropbox is adding new “context layer” capabilities inside OpenAI products (ChatGPT Work, ChatGPT, and ChatGPT Codex) using official Dropbox-created skills. The integrations let users organize Dropbox files/folders, generate shareable links, create file requests, and execute multi-step workflows grounded in Dropbox permissions and governance."
+    },
+    {
+      "url": "https://joereis.substack.com/p/your-agents-are-stuck-in-your-org?utm_source=tldrit",
+      "title": "Your Agents Are Stuck In Your Org Chart",
+      "summary": "Deploying AI agents inside companies will fail to deliver value unless organizations fix ownership gaps and cross-domain data/work coordination. By Conway's Law, agents inherit the company's org chart through schemas. It hits permission and models “hard walls” and then confidently answers using stale or unowned data “soft walls.”"
+    },
+    {
+      "url": "https://www.networkworld.com/article/4195689/routine-maintenance-as-a-failure-vector-in-modern-networks.html?utm_source=tldrit",
+      "title": "Routine maintenance as a failure vector in modern networks",
+      "summary": "Routine network changes such as firewall updates, DNS shifts, certificate renewals, and failovers can trigger outages by exposing hidden dependencies across interconnected systems. Network teams should validate complete application traffic paths, monitor real transactions rather than device health alone, and create rollback plans that account for lost sessions, caches, and routing state."
+    },
+    {
+      "url": "https://github.com/FluidifyAI/Regen?utm_source=tldrit",
+      "title": "Found Better Pagerduty Alternative (GitHub Repo)",
+      "summary": "Regen is an open-source PagerDuty alternative from the FluidifyAI suite that combines alert ingestion, on-call scheduling, and AI-generated incident postmortems/handoff digests. It supports multiple alert sources and integrates with Slack/Microsoft Teams, Grafana, and PagerDuty migration."
+    },
+    {
+      "url": "https://www.koreatimes.co.kr/business/companies/20260713/google-cloud-expands-partnership-with-samsung-to-accelerate-agentic-ai?utm_source=tldrit",
+      "title": "Google Cloud expands partnership with Samsung to accelerate agentic AI",
+      "summary": "Google Cloud said it is expanding its partnership with Samsung Electronics by rolling out the Gemini Enterprise AI platform to employees across Samsung's Device eXperience (DX) Division worldwide, including in Korea. The companies describe it as their largest enterprise agentic AI deployment in the country so far, using a dedicated tenant for data sovereignty and aiming to enable both low-code/no-code agent building and more advanced autonomous agents later."
+    },
+    {
+      "url": "https://ipurple.team/2026/07/13/amsi-provider/?utm_source=tldrit",
+      "title": "AMSI Provider",
+      "summary": "Threat actors with elevated privileges can abuse the Windows Antimalware Scan Interface (AMSI) by registering a fake provider to establish persistence. This malicious provider triggers arbitrary execution, such as launching calc.exe, whenever specific strings are scanned within PowerShell content. Threat actors register the component via regsvr32, converting a native security feature into a covert persistence mechanism."
+    },
+    {
+      "url": "https://www.bettercloud.com/monitor/self-service-access-provisioning/?utm_source=tldrit",
+      "title": "Self-service access provisioning: How to give employees what they need without losing control",
+      "summary": "BetterCloud outlines how IT teams can reduce repetitive access tickets by letting employees request software directly through Slack, with role-based eligibility, automated approvals, provisioning, and audit trails built into the workflow. It also stresses that self-service needs least-privilege controls, automated deprovisioning, and regular access reviews to avoid creating new SaaS sprawl and security gaps."
+    },
+    {
+      "url": "https://blogs.cisco.com/news/creating-the-intelligent-workplace-experience-a-connected-workplace-blueprint?utm_source=tldrit",
+      "title": "Creating the Intelligent Workplace Experience: A Connected Workplace Blueprint",
+      "summary": "Cisco shares how it uses connected networks, sensors, collaboration tools, and workplace data to optimize office space, reduce energy and real estate costs, and improve the employee experience."
+    },
+    {
+      "url": "https://www.openstack.org/blog/ovs-and-ovn-explained-the-networking-stack-behind-openstack/?utm_source=tldrit",
+      "title": "OVS and OVN Explained: The Networking Stack Behind OpenStack",
+      "summary": "Open vSwitch (OVS) and Open Virtual Network (OVN) work together to provide the networking stack behind OpenStack Neutron."
+    }
+  ]
+}

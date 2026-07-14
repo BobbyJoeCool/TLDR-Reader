@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-07-14",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://x.com/satyanadella/status/2076323181154230284?utm_source=tldrproduct",
+      "title": "The Reverse Information Paradox",
+      "summary": "Companies risk surrendering proprietary knowledge as their employees use and improve external AI systems. To retain that value, enterprises must control their data, feedback, evaluations, memory, and learning infrastructure while remaining independent from any single model provider."
+    },
+    {
+      "url": "https://www.a16z.news/p/the-most-human-technology-ever-made?utm_source=tldrproduct",
+      "title": "The Most Human Technology Ever Made",
+      "summary": "AI's greatest promise is not simply saving time. It gives more people the ability to create, experiment, and turn their ideas into reality, making individuality more valuable than technical expertise, capital, or permission."
+    },
+    {
+      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?utm_source=tldrproduct",
+      "title": "Taste cannot be delegated",
+      "summary": "AI can generate endless design options, but it cannot determine which one best serves a product's ambition and context. Strong design still requires a responsible leader who can apply taste, resolve tradeoffs, and confidently choose a direction."
+    },
+    {
+      "url": "https://x.com/KirkMarple/status/2076018722977005614?utm_source=tldrproduct",
+      "title": "Five Years Building the Context Layer - and Why It Belongs in the Agentic Loop",
+      "summary": "Graphlit built a powerful production platform but failed to become a scalable business because it lacked repeatable distribution and a clear, outcome-driven market position. Its core insight remains: agents need a portable context layer that stays separate from the runtime while supporting every stage of the work with durable organizational knowledge."
+    },
+    {
+      "url": "https://x.com/dkfromdk/status/2075696599242821979?utm_source=tldrproduct",
+      "title": "AI's Biggest Winners Have the Lowest Margins",
+      "summary": "Low-margin businesses could become some of AI's biggest winners because modest cost reductions can dramatically increase profits. The greatest opportunity lies in embedding AI into existing operations to remove coordination work without requiring employees to change how they work."
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-collect-product-feedback-when-your-ai-gives-every-user-a-different-answer/?utm_source=tldrproduct",
+      "title": "How to Collect Product Feedback When Your AI Gives Every User a Different Answer",
+      "summary": "AI outputs vary from one interaction to another, so traditional feedback methods often provide an incomplete picture. Product teams should focus on users' next actions, review a representative range of real outputs, and capture the context behind poor results."
+    },
+    {
+      "url": "https://moderndata101.substack.com/p/the-forgotten-measure-of-data-quality?utm_source=tldrproduct",
+      "title": "The Forgotten Measure of Data Quality: Decision Quality",
+      "summary": "Clean, reliable data has little economic value unless it leads to better decisions. Data teams should define the decisions each product is meant to improve and measure that impact alongside traditional quality metrics."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-430-incubate-compound-refinance?utm_source=tldrproduct",
+      "title": "Incubate, Compound, Refinance, Liquidate",
+      "summary": "AI's value depends on whether it moves software assets toward healthier economics, not simply whether it makes teams faster."
+    },
+    {
+      "url": "https://spin.atomicobject.com/ai-agents-attention-bottleneck/?utm_source=tldrproduct",
+      "title": "With AI Agents, Attention is the New Bottleneck",
+      "summary": "AI makes execution cheap, so the advantage shifts to teams that manage attention and judgment well."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/13/meta-admits-its-first-superintelligence-was-too-stupid-to-survive-for-three-days/5270234?utm_source=tldrproduct",
+      "title": "Meta admits its first ‘superintelligence' was too stupid to survive for three days",
+      "summary": "Meta pulled Muse Image after its lack of clear consent controls sparked immediate privacy and misuse concerns."
+    }
+  ]
+}

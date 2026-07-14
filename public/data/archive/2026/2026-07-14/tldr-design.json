@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-07-14",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.figma.com/blog/gpt-5-6-is-now-available-in-figma-make/?utm_source=tldrdesign",
+      "title": "GPT-5.6 is Now Available in Figma Make",
+      "summary": "Figma added OpenAI's GPT-5.6 to Figma Make, improving both quality and speed of first-pass prototypes generated from prompts or existing designs. Tests showed the model handling complex builds, self-healing errors, staying faithful to source Figma files, and adapting layouts across screen sizes without extra prompting. GPT-5.6 is available now in Figma Make's model selector, with further details in Figma's help center."
+    },
+    {
+      "url": "https://thenextweb.com/news/sonos-design-product-executive-layoffs?utm_source=tldrdesign",
+      "title": "Sonos Loses a Decade of Design Talent as Layoffs Hit its Top Ranks",
+      "summary": "Sonos laid off senior design, product, and research leaders with a decade or more of tenure, including VPs and heads of UX research, as part of cuts affecting about 3% of staff. CEO Tom Conrad called the move a push for speed and fewer management layers, denying any AI connection despite his own comments about AI transforming internal operations. Longtime employees dispute the framing, seeing it as cost-cutting that risks the institutional design knowledge behind Sonos's premium reputation."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/12/apple-pencil-ipad-new-battery-replacement/?utm_source=tldrdesign",
+      "title": "Apple developing new Apple Pencil models for release next year, possibly with replaceable batteries",
+      "summary": "Apple is reportedly planning new versions of the Apple Pencil (USB-C) and Apple Pencil Pro to launch alongside new iPad Pro models in spring 2027, with redesigned battery systems that users can replace themselves. The change is expected to help Apple comply with new EU battery regulations that take effect in February 2027, requiring portable device batteries to be removable and replaceable by end users. While making the Apple Pencil compliant appears relatively straightforward, meeting the same requirements for products like AirPods will likely be much more technically challenging."
+    },
+    {
+      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?utm_source=tldrdesign",
+      "title": "Taste cannot be delegated",
+      "summary": "AI and organizations share the same core limitation: both are good at identifying preferences but cannot replace human judgment. While AI can recognize patterns and predict what people are likely to prefer, it lacks the context, intent, and responsibility needed to decide what should exist, and organizations often undermine strong design decisions by optimizing for consensus instead of ownership. The future of design lies not in generating more options, but in combining taste, judgment, and leadership to recognize quality, make difficult decisions, and create work that goes beyond optimizing the present."
+    },
+    {
+      "url": "https://slack.design/articles/we-didnt-teach-our-designers-ai-we-built-a-place-where-they-could-learn-it-together/?utm_source=tldrdesign",
+      "title": "We Didn't Teach Our Designers AI: We Built a Place Where They Could Learn It Together",
+      "summary": "Slack's design team addressed a gap in AI readiness by building peer-led programming, including a Friday learning series and a company-wide \"Builder Days\" event. The three-day event produced key lessons: human judgment remains essential, upfront planning determines success, supporting infrastructure (\"the harness\") matters as much as the model, and AI shifts collaboration toward higher-value activities. The team concluded that lasting value came less from finished prototypes and more from creating a supportive community where designers could learn and stay curious together."
+    },
+    {
+      "url": "https://anthonyhobday.com/blog/20260409?utm_source=tldrdesign",
+      "title": "Career Advice for Designers",
+      "summary": "Most design career advice comes from people in ideal jobs, giving guidance that doesn't translate to designers stuck at typical, messier companies. Beyond critiquing that advice, the article lays out what actually impresses hiring managers and colleagues, how to defend visual choices under scrutiny, and what separates good employers from bad ones. It ends with blunt, sometimes cynical tactics — like leaning on social proof or a polished portfolio — for looking impressive even without a prestigious résumé."
+    },
+    {
+      "url": "https://usevelo.ai/?utm_source=tldrdesign",
+      "title": "AI Video Infrastructure (Website)",
+      "summary": "Create product demos, explainers, training videos, and support replies from your first product launch to every customer touchpoint."
+    },
+    {
+      "url": "https://transitions.dev/?utm_source=tldrdesign",
+      "title": "Ready to Use UI Transitions (Website)",
+      "summary": "Collection of the most essential UI transitions for web apps. Copy and paste them, or use them with skill directly in your project."
+    },
+    {
+      "url": "https://shortodella.com/?utm_source=tldrdesign",
+      "title": "AI Video Generator and Image Generator (Website)",
+      "summary": "Generate images, create videos, edit and compose — all through a simple conversation with AI."
+    },
+    {
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/?utm_source=tldrdesign",
+      "title": "Free the Icons",
+      "summary": "Apple should end macOS's forced squircle shape for third-party app icons, a rule introduced with Tahoe. While Golden Gate's beta shows welcome refinements to Apple's own first-party icons, third-party developers still must conform icons to one uniform shape or face being shrunk into a gray \"icon jail,\" reducing both visual distinctiveness and usability. Since Golden Gate proves Apple is willing to fix Tahoe-era mistakes, it should similarly restore freedom of icon shape."
+    },
+    {
+      "url": "https://whydesignishard.substack.com/p/how-to-fix-your-team?utm_source=tldrdesign",
+      "title": "How to Fix Your Team",
+      "summary": "Fixing a struggling design team starts with diagnosing root causes—like lack of trust or unclear goals—rather than reacting to surface symptoms such as poor morale. Interview teammates individually, identify allies and resistant \"liabilities,\" then tackle one small, fixable problem to build momentum. Trust grows gradually, and leaders themselves may be a major source of team dysfunction."
+    },
+    {
+      "url": "https://www.creativebloq.com/3d/video-game-design/this-hand-drawn-game-looks-like-a-surreal-graphic-novel-come-alive?utm_source=tldrdesign",
+      "title": "This Hand-drawn Game Looks Like a Surreal Graphic Novel Come Alive",
+      "summary": "I Shall Name the Dead is a surreal magical-realism horror adventure with hand-drawn, graphic-novel-style art featuring eerie orange-and-teal visuals that evoke fragmented memory and grief."
+    },
+    {
+      "url": "https://weandthecolor.com/adobe-topaz-labs-acquisition-what-actually-changes-for-creators-in-2026/210694?utm_source=tldrdesign",
+      "title": "Adobe Topaz Labs Acquisition: What Actually Changes for Creators in 2026?",
+      "summary": "The acquisition's real significance lies in who now controls the AI \"clean-up\" layer of professional photo and video work."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/poster-design/this-fan-made-movie-poster-trend-proves-cinema-is-in-a-creative-funk?utm_source=tldrdesign",
+      "title": "This fan-made movie poster trend proves cinema is in a creative funk",
+      "summary": "A viral trend of fan-made alternative movie posters showcases more creative and memorable designs than many official posters, highlighting how formulaic and celebrity-focused modern movie marketing has become."
+    }
+  ]
+}
