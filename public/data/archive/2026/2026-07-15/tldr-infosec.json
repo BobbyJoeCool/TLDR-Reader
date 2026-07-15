@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-07-15",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html?utm_source=tldrinfosec",
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "summary": "Two threat groups abuse OAuth client ID spoofing in Microsoft Entra ID to test stolen usernames and passwords without generating successful sign‑in events in logs. They send ROPC flow requests with syntactically valid but fake client IDs, then read AADSTS error codes to confirm account and password validity. Campaigns from UNK_pyreq2323 and UNK_OutFlareAZ have already targeted millions of users across thousands of tenants using AWS and Cloudflare infrastructure."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/?utm_source=tldrinfosec",
+      "title": "SonicWall Warns of SMA1000 Flaws Exploited in Zero-Day Attacks",
+      "summary": "SonicWall warned that threat actors are exploiting two vulnerabilities in its SMA1000 appliances. The first vulnerability is a critical (CVSS 10) SSRF vulnerability in the Appliance Work Place interface that allows remote, unauthenticated attackers to force an appliance to make requests to unintended locations. The second vulnerability is a high (CVSS 7.2) post-authentication code injection vulnerability in the Appliance Management Console that could allow remote, authenticated admins to execute arbitrary OS commands."
+    },
+    {
+      "url": "https://ia.acs.org.au/article/2026/lifeline-confirms-data-breach-.html?utm_source=tldrinfosec",
+      "title": "Lifeline Confirms Data Breach",
+      "summary": "Australian national charity Lifeline Australia confirmed a data breach affecting 10,600 data records belonging to volunteers and staff. The breached data includes names, dates of birth, workplace email addresses, phone numbers, and WhatsApp contact numbers. Lifeline stated that no help seeker or financial data was breached."
+    },
+    {
+      "url": "https://slcyber.io/research-center/smashing-the-servicenow-sandbox-pre-authentication-rce/?utm_source=tldrinfosec",
+      "title": "Smashing the ServiceNow Sandbox – Pre Authentication RCE",
+      "summary": "Researchers found a pre-authenticated remote code execution path in ServiceNow by abusing GlideRecord query filters that accept JavaScript expressions and run inside a JS sandbox. They showed how to escape this sandbox by manipulating script includes and global objects until attacker-controlled code executes in an unsandboxed Rhino context, allowing data exfiltration, admin account creation, and command execution on connected proxy servers. ServiceNow assigned CVE-2026-6875, rolled out mitigations within 24 hours, blocked modification of key JS functions, and introduced Guarded Script to sharply restrict what pre-auth filter code can do."
+    },
+    {
+      "url": "https://agentic.tracebit.com/context-bombs/?utm_source=tldrinfosec",
+      "title": "Context Bombs: stopping AI attackers in their tracks",
+      "summary": "AI agents conducted autonomous red‑team attacks in a simulated AWS account seeded with ten misconfigured attack paths, using leading models such as Opus 4.8, Gemini 3.1 Pro, GLM 5.2, DeepSeek 4 Pro, and Kimi K2.6. Tracebit embedded short “context bomb” strings within canary secrets. When agents read them, provider safety filters halted further model calls, and the canaries triggered alerts. Across 152 runs, full admin access dropped from 57% to 5%, and complete compromise with persistence fell from 36% to 1%, with no successful path completed without an alert."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/?utm_source=tldrinfosec",
+      "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
+      "summary": "Between mid‑2025 and mid‑2026, ShinyHunters used vishing and supply‑chain attacks to gain OAuth‑based access to Salesforce environments, posing as IT staff or abusing compromised integrations like Salesloft, Gainsight, and Klue to run high‑volume API queries and exfiltrate CRM data while blending in with normal traffic. Microsoft and Salesforce expanded telemetry and real‑time monitoring, added risk‑scored visibility into connected apps, and published hunting queries and Defender detections so teams can spot suspicious OAuth activity, over‑privileged or unused apps, and large report exports tied to specific identities and infrastructure."
+    },
+    {
+      "url": "https://www.valarian.com/?utm_source=tldrinfosec",
+      "title": "Valarian (Product Launch)",
+      "summary": "Valarian's ACRA is a control layer on top of Kubernetes that runs workloads in isolated enclaves, enforces strict identity and network policies, and manages short‑lived secrets and logging. It works across cloud, on‑prem, and air‑gapped environments."
+    },
+    {
+      "url": "https://github.com/obdev/littlesnitch-linux?utm_source=tldrinfosec",
+      "title": "Little Snitch for Linux (GitHub Repo)",
+      "summary": "This repository contains the open-source portion of the newly released Linux version of the popular macOS network monitor and personal application firewall, Little Snitch."
+    },
+    {
+      "url": "https://github.com/cynative/cynative?utm_source=tldrinfosec",
+      "title": "Cynative (GitHub Repo)",
+      "summary": "Cynative is a sandboxed, read-only AI agent for querying infrastructure across code, cloud environments, and runtimes."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/?utm_source=tldrinfosec",
+      "title": "The US government warns that Russian state hackers are coming after your router",
+      "summary": "US authorities flag ongoing Russian FSB campaigns that compromise poorly secured home and small-office routers and then use them as proxy exit nodes for attacks on critical sectors. Attackers scan for SNMP-enabled devices with default credentials, deploy malware through them, and hide behind trusted IPs. CISA urges disabling outdated SNMP versions, strengthening passwords, updating firmware, and disabling unnecessary services such as Cisco Smart Install."
+    },
+    {
+      "url": "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/?utm_source=tldrinfosec",
+      "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
+      "summary": "Ransomware group D1R claims it breached Synopsys, accessed a 40,000‑entry client database, and then used that data to target Bosch's intellectual property. Synopsys says monitoring shows no unauthorized access and calls the claims unfounded. A “proof” document from the group appears to be a publicly available Bosch manual, casting doubt on the credibility of the extortion attempt."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/?utm_source=tldrinfosec",
+      "title": "Now, Defenders Are Embracing the Prompt Injection Too",
+      "summary": "Researchers from TraceBit reported that a new defense, dubbed Context Bombing, has proven effective in preventing agentic attacks. The technique involves placing prompts that request forbidden actions, such as instructions to build nuclear or biological weapons, adjacent to sensitive data. In their tests, they found that using this defense on AWS stopped agentic attacks because the model's guardrails were triggered."
+    },
+    {
+      "url": "https://cyberscoop.com/microsoft-patch-tuesday-july-2026/?utm_source=tldrinfosec",
+      "title": "Microsoft discloses 'the mother of all' vulnerability loads, tripling June's previous record",
+      "summary": "Microsoft's July 2026 Patch Tuesday addressed 622 vulnerabilities, including two actively exploited zero-days, CVE-2026-56155 in AD FS and CVE-2026-56164 in SharePoint Server."
+    },
+    {
+      "url": "https://hackread.com/tego-ai-finds-claude-tag-slack-integration-can-trigger-unauthorized-enterprise-actions/?utm_source=tldrinfosec",
+      "title": "Tego AI Finds Claude Tag Slack Integration Can Trigger Unauthorized Enterprise Actions",
+      "summary": "Tego AI disclosed that Anthropic's Claude Tag Slack integration could respond to literal \"@Claude\" text from bots or automated feeds without a genuine mention, potentially letting untrusted content trigger unauthorized retrieval, posting, and deletion actions in connected systems."
+    },
+    {
+      "url": "https://www.scworld.com/brief/inmate-charged-with-stealing-seized-cryptocurrency-while-serving-prison-sentence?utm_source=tldrinfosec",
+      "title": "Inmate charged with stealing seized cryptocurrency while serving prison sentence",
+      "summary": "Rossen G. Iossifov, already imprisoned for laundering millions tied to a mass fraud scheme, was charged with conspiring to steal $290,000 in government-seized cryptocurrency from behind bars."
+    }
+  ]
+}

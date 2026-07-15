@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-15",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.resilientcyber.io/p/building-for-breach?utm_source=tldrdev",
+      "title": "Building for Breach",
+      "summary": "Many organizations struggle to manage the increasing rate of vulnerabilities and the threat landscape, particularly with AI playing a role in cyber offenses. Traditional remediation efforts are becoming less effective as the time available to contain breaches shortens and the complexity of managing dependencies grows. A focus on containment strategies is needed."
+    },
+    {
+      "url": "https://performance.dev/chatgpt?utm_source=tldrdev",
+      "title": "Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users",
+      "summary": "ChatGPT's web app runs on a boring stack: React 19, React Router 7 (streaming SSR), Tailwind, Radix, and TanStack Query. Every default is questioned in service of one goal: letting an anonymous visitor start typing instantly thanks to no auth wall and a fast time to first paint, with a prepaid Cloudflare/Sentinel bot-defense layer hiding the cost of that open door."
+    },
+    {
+      "url": "https://theengineeringmanager.substack.com/p/code-yellow-code-red?utm_source=tldrdev",
+      "title": "Code Yellow, Code Red",
+      "summary": "In late 2025, Provet experienced infrastructure issues that led to customer dissatisfaction and required the declaration of a Code Yellow. The initiative involved clear communication of the problem, specific exit criteria, and a collaborative approach to resolve identified issues over an eight-week period, achieving near-complete uptime."
+    },
+    {
+      "url": "https://adi.bio/reality?utm_source=tldrdev",
+      "title": "Punch Yourself in the Face with Reality",
+      "summary": "There are two primary approaches to using AI today: some users dive into excessive building that often leads to abandoned projects, while others focus on using AI to solve real problems more efficiently. Many startup founders fall into the trap of procrastination, mistaking the speed AI offers for genuine progress."
+    },
+    {
+      "url": "https://github.com/JetBrains/youtrackdb?utm_source=tldrdev",
+      "title": "YouTrackDB (GitHub Repo)",
+      "summary": "YouTrackDB is an object-oriented graph database that has efficient data processing with constant time complexity for links traversal and supports Gremlin query language alongside a SQL-based query language called YQL. It has snapshot isolation for transactions, strong security protocols, easy installation across platforms, and a scalable development workflow suitable for various application needs."
+    },
+    {
+      "url": "https://lexxy.dev/?utm_source=tldrdev",
+      "title": "Lexxy (Website)",
+      "summary": "Lexxy is a modern, open-source rich text editor for Rails that offers features such as clean HTML, Markdown support, code highlighting, attachment previews, and customizable extensions."
+    },
+    {
+      "url": "https://gwern.net/guardian-angel?utm_source=tldrdev",
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "summary": "The concept of 'Guardian Angels' (GAs) proposes creating highly personalized language models that emulate individual users' personalities, values, and preferences to improve productivity and safeguard personal information in the age of advanced AI. By integrating techniques such as dynamic evaluation and continual learning, these GAs aim to enable users to define meaningful tasks rather than merely executing commands, effectively allowing them to manage multiple AI agents for complex tasks while ensuring security against potential threats."
+    },
+    {
+      "url": "https://x.com/demishassabis/status/2076957440109625718?utm_source=tldrdev",
+      "title": "A Framework for Frontier AI and the Dawning of a New Age",
+      "summary": "Demis Hassabis, CEO of Google DeepMind, says we are on the brink of a transformative era marked by the impending arrival of Artificial General Intelligence (AGI), which promises to be as groundbreaking as the discovery of electricity or fire. While AGI holds the potential to profoundly benefit humanity by addressing societal challenges and fostering abundance, there are critical risks that require careful navigation and proactive measures."
+    },
+    {
+      "url": "https://www.404media.co/ai-made-cloning-games-easier-than-ever/?utm_source=tldrdev",
+      "title": "AI Made Cloning Games Easier Than Ever",
+      "summary": "Vibecoding has simplified the process of creating clone video games, allowing individuals to produce low-effort copies of existing games in just hours using generative AI. This has led to an increase in the number of plagiarized game concepts, causing anxiety among original creators like Freya Holmér, who fear their ideas will be quickly appropriated and monetized by others without skill or effort."
+    },
+    {
+      "url": "https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite?utm_source=tldrdev",
+      "title": "lobste.rs is now running on SQLite",
+      "summary": "Lobste.rs successfully migrated to SQLite, resulting in improved CPU and memory usage, reduced costs, and overall better site performance."
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/?utm_source=tldrdev",
+      "title": "The Tower Keeps Rising",
+      "summary": "AI-assisted programming improves individual capabilities but undermines collective understanding and coordination in software development, leading to chaotic growth."
+    },
+    {
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing?utm_source=tldrdev",
+      "title": "How to stop Claude from saying load-bearing",
+      "summary": "To alleviate frustration with Claude's repetitive phrases like \"honest takes\" and \"load-bearing,\" a script can be created to replace these terms with humorous alternatives."
+    },
+    {
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left?utm_source=tldrdev",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "summary": "A critical vulnerability in the Cursor IDE allows automatic execution of malicious binaries placed in project repositories without user interaction, yet despite multiple disclosures over seven months."
+    }
+  ]
+}

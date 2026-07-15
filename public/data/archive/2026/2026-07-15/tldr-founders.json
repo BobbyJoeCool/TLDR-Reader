@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-07-15",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://x.com/illscience/status/2076714595994206358?utm_source=tldrfounders",
+      "title": "The Most Human Technology Ever Made",
+      "summary": "An electrician built a $12.99 load calculator that can replace a $500 service call. A plumber says one afternoon with OpenClaw got him further than a $40,000 consulting project. The interesting shift is the minimum market size. A tool this narrow never justified a developer's salary, but when the domain expert builds it himself, a few thousand electricians is a viable market. Pricing is the easy part: the $500 service call already exists, so $12.99 reads as a discount on money the customer was spending anyway."
+    },
+    {
+      "url": "https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops?utm_source=tldrfounders",
+      "title": "You Just Hired a Million Bad Employees",
+      "summary": "A badly managed AI agent can cost more than the employee it was meant to replace. The money vanishes into loops: agents spending tokens redoing work nobody clearly defined. This article warns founders against giving AI agents vague jobs and assuming cheap tokens mean cheap labor. A badly managed agent can cost more than the employee it was meant to replace. It keeps retrying, replanning, and correcting work nobody properly defined, and every loop costs money."
+    },
+    {
+      "url": "https://mondaymorning.substack.com/p/the-discipline-premium?utm_source=tldrfounders",
+      "title": "The Discipline Premium",
+      "summary": "Founders benefit from setting initial valuations below market rates, enabling easier future fundraising and sustainable company growth. This strategy avoids the pitfalls of inflated valuations and offers opportunities to sell stock later at a higher price. The approach aligns with maintaining disciplined capital management, preventing overcapitalization, and ensuring long-term success."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/the-stuff-nobody-tells-you-about?utm_source=tldrfounders",
+      "title": "The Stuff Nobody Tells You About Startup Marketing",
+      "summary": "Everyone seems to be reaching $1 million ARR in record time. PostHog's account of its first 1,000 users is refreshing because it is mostly repetition. Hacker News worked, so the founders kept posting there. People liked candid stories, so they wrote about the launch, the fundraise, and six ideas that failed. No secret growth loop."
+    },
+    {
+      "url": "https://www.domain-sdk.dev/?utm_source=tldrfounders",
+      "title": "Domain SDK (Website)",
+      "summary": "The Domain SDK makes it easy to add, verify, monitor, and remove customer domains with one TypeScript API. Users just add a hostname to the platform they already run, and it returns the exact DNS records customers need, tracks them until they are ready, and removes them safely. The SDK features adapters for Vercel, Cloudflare for SaaS, Railway, Render, and Netlify. The tool is server-side only and requires Note 20+ or Bun."
+    },
+    {
+      "url": "https://zapier.com/mcp?utm_source=tldrfounders",
+      "title": "Zapier MCP (Website)",
+      "summary": "Zapier MCP connects Claude, ChatGPT, Cursor, and other AI tools to Gmail, Slack, Salesforce, and over 9,000 other apps. It can be set up in minutes with no terminal, config files, or coding required. Zapier MCP is included in existing Zapier plans. Guides on how to use the MCP are available."
+    },
+    {
+      "url": "https://x.com/NotionHQ/status/2077111491065766144?utm_source=tldrfounders",
+      "title": "Notion .md",
+      "summary": "Notion now supports opening Markdown files as a read-only preview. Users can then import them as Notion pages. A quick video demo of the feature is available in the thread."
+    },
+    {
+      "url": "https://x.com/alfred_lin/status/2077024925752422844?s=12&utm_source=tldrfounders",
+      "title": "Seeing People Clearly",
+      "summary": "One of the most valuable life skills is seeing people clearly. Seeing people clearly allows you to better appreciate them, help them grow, and put them in a position to succeed. The best references are from those who see you clearly."
+    },
+    {
+      "url": "https://x.com/BrainsAndTennis/status/2076767931053294017?utm_source=tldrfounders",
+      "title": "Building against the big labs that are trying to eat you",
+      "summary": "Startups have structural advantages over big model companies. Entrepreneurs should focus on leveraging these strengths rather than worrying about competition. This approach offers more opportunities for innovation and agility."
+    },
+    {
+      "url": "https://idiallo.com/blog/they-prefer-the-app?utm_source=tldrfounders",
+      "title": "They Prefer the App",
+      "summary": "Companies push users towards apps only so they can better harvest information from them."
+    },
+    {
+      "url": "https://hunterwalk.medium.com/product-market-fit-is-hard-to-find-but-false-pmf-is-even-more-painful-cd2a2caee624?utm_source=tldrfounders",
+      "title": "Product Market Fit is Hard to Find, but False PMF is Even More Painful",
+      "summary": "False product-market fit can sometimes be even worse than no PMF, because you're ramping up activity and spending while running in a straight line towards a cliff."
+    },
+    {
+      "url": "https://x.com/thejessezhang/status/2076749775043690715?utm_source=tldrfounders",
+      "title": "Why the \"Math Mafia\" is doing well",
+      "summary": "Math and science olympiads produce exceptional founders by developing rigorous problem-solving, resilience under pressure, and communities that reinforce ambitious career paths."
+    }
+  ]
+}

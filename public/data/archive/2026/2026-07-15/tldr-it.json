@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-15",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html?utm_source=tldrit",
+      "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
+      "summary": "Microsoft reports that threat activity aligned with ShinyHunters occurred for about a year against Salesforce environments without exploiting Salesforce platform vulnerabilities. The intrusions used three pathways, so attackers blended into normal authentication while abusing post-login API access."
+    },
+    {
+      "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis?utm_source=tldrit",
+      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
+      "summary": "1Password is expanding into AI cost governance with AI Spend, which discovers AI tools, tracks token usage, attributes spending to teams, and flags budget overruns. The move reflects a growing enterprise challenge as AI agents and automated workflows make token consumption a new category of cloud-like spend that IT and finance teams need to monitor and control."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-430-incubate-compound-refinance?utm_source=tldrit",
+      "title": "Incubate, Compound, Refinance, Liquidate",
+      "summary": "Software can be viewed as a portfolio of assets and bets with ongoing carrying costs and value that changes over time. The framework defines four economic postures - incubate, compound, refinance, and liquidate - which products can move through as uncertainty decreases and costs grow. It also highlights the risk of “build trap” dynamics, where teams continue investing in products without creating meaningful value."
+    },
+    {
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work?utm_source=tldrit",
+      "title": "What will be left for us to work on?",
+      "summary": "The ICML 2026 keynote discusses anxiety in the AI community and how people should adapt as AI capabilities grow. The “AI as Normal Technology” framing claims that there is no sudden lab milestone that will instantly eliminate jobs, and emphasizes that future work will be radically different and will require substantial adaptation, envisioning human/AI co-superintelligence."
+    },
+    {
+      "url": "https://slack.com/intl/en-gb/blog/news/the-ai-that-knows-your-work-and-organization?utm_source=tldrit",
+      "title": "Slackbot Now Has Memory, MCP, and Voice",
+      "summary": "Slackbot has gained new capabilities across April, May, and June: acting on your behalf, seeing and retrieving information from outside Slack, and learning organization-wide context, including via voice actions. The update emphasizes Slackbot memory for teams, skill sharing, and MCP to connect Slackbot with tools across the broader app stack."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/?utm_source=tldrit",
+      "title": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
+      "summary": "Microsoft Entra ID will make passkeys the default authentication method starting September 1, automatically prompting users currently enabled for SMS or voice to register a passkey during their next multifactor authentication. Microsoft will retire Microsoft-provided SMS and voice authentication on February 1. Customers who still need SMS/voice can use telecom partners via the Microsoft Security Store."
+    },
+    {
+      "url": "https://siliconangle.com/2026/07/14/fortinet-expands-fortiendpoint-ai-monitoring-data-controls/?utm_source=tldrit",
+      "title": "Fortinet expands FortiEndpoint with AI monitoring and data controls",
+      "summary": "Fortinet is adding shadow AI discovery, built-in data loss prevention, and an AI assistant to FortiEndpoint, letting security teams monitor or block AI tools, stop sensitive data from being uploaded, and investigate endpoint risks through natural-language queries. The additions are due in Q3 and continue Fortinet's push to consolidate endpoint security, access, and data controls into one agent and console."
+    },
+    {
+      "url": "https://www.cio.com/article/4196348/your-service-vendors-are-being-rebuilt-around-ai.html?utm_source=tldrit",
+      "title": "Your service vendors are being rebuilt around AI",
+      "summary": "AI-native firms are acquiring traditional support, finance, and managed-service providers, replacing labor-heavy delivery with agents and charging customers based on outcomes. CIOs should independently define and measure those outcomes while scrutinizing vendors' AI governance, auditability, human escalation, business stability, and exit terms before shifting critical operations to them."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html?utm_source=tldrit",
+      "title": "Data Centers to Add Billions in Power Costs in 13 States",
+      "summary": "Surging electricity demand from data centers is expected to add $6.3 billion to consumer and business power bills across 13 states and Washington, D.C., as the region's largest grid struggles to expand supply fast enough."
+    },
+    {
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html?utm_source=tldrit",
+      "title": "Fundamentals of Wireless Communication",
+      "summary": "An openly accessible online textbook (with exercises) that provides a unified, graduate-level treatment of physical-layer wireless communication."
+    }
+  ]
+}
