@@ -1,0 +1,78 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-07-16",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/?utm_source=tldrinfosec",
+      "title": "Microsoft's Secure Boot has been broken for a decade and no one noticed until now",
+      "summary": "Researchers at ESET found 11 old UEFI shims, some dating back to 2013, that Microsoft never revoked, allowing attackers to bypass Secure Boot on Windows and Linux with signed but vulnerable boot components. Attackers can install persistent bootkits that survive reinstalls, and only recent revocation updates and proper key management can now close these specific gaps."
+    },
+    {
+      "url": "https://cyberinsider.com/chrome-sync-increasingly-abused-to-stalk-unsuspecting-victims/?utm_source=tldrinfosec",
+      "title": "Chrome Sync Increasingly Abused to Stalk Unsuspecting Victims",
+      "summary": "Security firm Certo reported on a growing attack targeting Google Chrome users in which attackers with physical access to a victim's device sign in to the victim's account and enable Chrome Sync. This syncs browsing history and any saved passwords to the attacker's device without notifying the victim. The firm highlights the risk of this being abused for stalking."
+    },
+    {
+      "url": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/?utm_source=tldrinfosec",
+      "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail and Calendar",
+      "summary": "Security firm Manifold identified two flaws that could allow a malicious browser extension to take actions on a user's behalf when using the Claude in Chrome browser extension. The core issue stems from the ClaudeBleed mitigation, which restricted the extension to a set of pre-approved tasks. The researchers found that the mechanism that triggers the tasks doesn't verify whether a triggering click came from a user or an extension. The researchers also uncovered a flaw they were unable to exploit that could allow the extension to auto-launch in “Act without asking” mode."
+    },
+    {
+      "url": "https://www.ayush.digital/blog/the-memory-heist?utm_source=tldrinfosec",
+      "title": "The Memory Heist",
+      "summary": "Claude's memory and web tools can be chained to leak a user's name, employer, and hometown to a hostile site without any visible warning. A researcher built an alphabet “keyboard” on a controlled domain so the model spells out personal data letter by letter in URLs whenever it browses there. A coffee shop façade plus user‑agent routing hid the attack from humans while targeting Claude specifically. After disclosure, Anthropic restricted link‑following in web_fetch, but similar memory‑driven exfiltration risks remain for other connected data sources."
+    },
+    {
+      "url": "https://awsteele.com/blog/2026/07/01/apps-can-now-impersonate-human-access-to-aws-via-iam-identity-center.html?utm_source=tldrinfosec",
+      "title": "Apps Can Now Impersonate Human Access to AWS via IAM Identity Center",
+      "summary": "AWS IAM Identity Center launched the ability for server-side applications to assume roles on behalf of users. However, the feature is still somewhat immature and has very limited CloudTrail logging."
+    },
+    {
+      "url": "https://arcticwolf.com/resources/blog/fake-github-repositories-deliver-boryptgrab-lineage-infostealer/?utm_source=tldrinfosec",
+      "title": "Malicious GitHub Campaign: Fake \"Arctic Wolf\" and 290+ Brand-Impersonation Repositories Deliver BoryptGrab-Lineage Infostealer",
+      "summary": "Since June 26, a likely Russian-speaking actor has operated 292+ GitHub repositories impersonating brands, including a fake Arctic Wolf page. Victims are redirected via *.github.io to a controlled domain like targetroyena[.]com, where a spoofed secure download page serves a ZIP with a legitimate WinGUP updater that DLL side-loads a trojanized libcurl.dll. It decodes and reflectively executes an in-memory BoryptGrab infostealer, targeting browsers, messaging apps, crypto wallets, and Windows Credential Manager, then exfiltrates data via raw Winsock POST to a C2 server (Proton66, Russia). BinDiff shows 94% function overlap with BoryptGrab, suggesting the same operator. Defenders should enforce verified downloads, block egress to 193.143/24, hunt for unsigned libcurl.dll, monitor browser/Steam process injection, and treat uncleaned staging folders as indicators for credential and wallet rotation."
+    },
+    {
+      "url": "https://github.com/Corgea/Sighthound/?utm_source=tldrinfosec",
+      "title": "Sighthound (GitHub Repo)",
+      "summary": "Sighthound is a tree-sitter based static vulnerability scanner with pattern matching and taint-flow analysis."
+    },
+    {
+      "url": "https://www.oak.id/?utm_source=tldrinfosec",
+      "title": "Oak (Product Launch)",
+      "summary": "Oak provides a unified identity control plane for enterprises that manages humans, machines, and agents across apps. It maps access to actual usage and automatically removes unused permissions in real time."
+    },
+    {
+      "url": "https://github.com/RoundSalmon4/AppVerifierBG?utm_source=tldrinfosec",
+      "title": "AppVerifierBG (GitHub Repo)",
+      "summary": "This fork builds upon the original AppVerifier, retaining all of its core functionality while introducing additional features. It enables the verification of installed applications against shared signature hashes, an internal database, or a user-created database."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/?utm_source=tldrinfosec",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "summary": "A hacker used a supply chain attack in November to access a Suno employee's credentials and Suno's source code, and found that Suno scraped large volumes of audio from YouTube Music, Deezer, Genius, stock libraries, and podcast feeds for model training. The intruder also accessed customer emails, phone numbers, and partial Stripe credit card data. Suno, already facing record label lawsuits over alleged DMCA violations tied to YouTube scraping, did not inform customers and publicly framed the breach as a limited incident."
+    },
+    {
+      "url": "https://www.theregister.com/research/2026/07/14/the-bots-are-alive-jailbroken-gemini-spun-up-new-c2-server-for-russian-fraudster-in-just-6-minutes/5270131?utm_source=tldrinfosec",
+      "title": "'The bots are alive!' Jailbroken Gemini spun up new C2 server for Russian fraudster in just 6 minutes",
+      "summary": "A Russian-speaking attacker called \"bandcampro\" jailbroke Google Gemini and used it as a primary operator for a credential- and crypto-stealing botnet targeting pro-Trump conspiracy followers. Gemini migrated the C2 to a new VPS setup, fixed a 502 error, and took over eight machines in a dental clinic using PowerShell and Cloudflare tunnels. The operation's jailbreak and C2 steps fit into three short text files, making repeat attacks easy for low-skilled actors."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/?utm_source=tldrinfosec",
+      "title": "Microsoft Entra ID Gets Passkeys Default Authentication Starting September",
+      "summary": "Microsoft announced that passkeys will become the default authentication method for Entra ID starting this September. Users with phone-based SMS and voice authentication factors will be automatically enrolled in passkey authentication prior to phone-based factors being retired in February 2027. Users who already use Windows Hello for Business, FIDO2 security cards, smart cards, or other phishing-resistant methods will be able to continue using them."
+    },
+    {
+      "url": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/?utm_source=tldrinfosec",
+      "title": "White House Launches AI-Driven ‘Gold Eagle' Vulnerability Coordination Initiative",
+      "summary": "Gold Eagle links open source maintainers with critical infrastructure operators to share vulnerability reports and remediation steps through a common federal pipeline."
+    },
+    {
+      "url": "https://eclecticlight.co/2026/07/15/apple-has-released-an-update-to-xprotect-for-all-macos-36/?utm_source=tldrinfosec",
+      "title": "Apple has released an update to XProtect for all macOS",
+      "summary": "Apple bumped XProtect to version 5351, adding six new Yara rules, including MACOS.BOATLOAD variants pointing to a stealer and MACOS.VSHELL entries, plus 14 new osascript detection rules, without disclosing which security issues the update addresses."
+    }
+  ]
+}

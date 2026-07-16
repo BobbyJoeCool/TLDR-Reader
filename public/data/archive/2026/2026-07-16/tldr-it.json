@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-16",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.ft.com/content/83aa00c5-e773-47be-b76d-5e15ea43eb3a?syn-25a6b1a6=1&amp;utm_source=tldrit",
+      "title": "IBM share plunge is a warning to the IT sector",
+      "summary": "IBM's weak earnings suggest enterprises may be shifting IT budgets away from traditional software and infrastructure toward AI data centre investments, raising concerns that AI spending is beginning to crowd out other technology purchases. Rising costs for AI hardware such as memory chips and accelerators could make AI infrastructure spending more volatile and keep AI services expensive as demand grows."
+    },
+    {
+      "url": "https://www.bettercloud.com/monitor/the-2026-state-of-saas-report/?utm_source=tldrit",
+      "title": "The 2026 State of SaaS report",
+      "summary": "BetterCloud's survey of 525 IT and security professionals found that SaaS stacks are growing again, driven largely by AI, with mid-market companies seeing their average app count jump 41% in one year. Only 56% of apps in use are IT-approved, while 62% of IT leaders say manual work prevents strategic projects and 90% still lack true cross-app automation."
+    },
+    {
+      "url": "https://devops.com/atlassian-extends-ai-reach-of-jira-into-agentic-engineering-workflows/?utm_source=tldrit",
+      "title": "Atlassian Extends AI Reach of Jira Into Agentic Engineering Workflows",
+      "summary": "Atlassian is turning Jira into a hub for managing agentic software development, with integrations for Claude Code, Cursor, GitHub Copilot, and soon OpenAI Codex. New capabilities can convert Jira tickets into review-ready pull requests, generate technical specifications, automate background development tasks, and track AI tool and token spending across projects."
+    },
+    {
+      "url": "https://vinvashishta.substack.com/p/the-context-moat-is-real-but-most?utm_source=tldrit",
+      "title": "The Context Moat Is Real, But Most Enterprises Don't Have One Yet",
+      "summary": "Enterprises have been oversold the idea that their moat will come from proprietary model knowledge (“context”) alone. While vendors emphasize protecting context and moving AI into closed boundaries, most companies lack the actual contextual data and workflows needed to produce valuable, continuously improving learning information."
+    },
+    {
+      "url": "https://blogs.cisco.com/security/we-third-party-tested-our-firewall-built-for-ai-scale-the-test-tools-hit-their-limit-first?utm_source=tldrit",
+      "title": "We third-party tested our firewall built for AI-scale. The test tools hit their limit first",
+      "summary": "Cisco says its Secure Firewall 6160 exceeded NetSecOPEN's testing capacity, reaching 269.59 Gbps of inspected HTTP traffic, 222.37 Gbps over HTTPS, and 5.6 million concurrent connections without hitting the firewall's ceiling. It also blocked all 5,388 tested threats under load, including malware, evasions, and public and private CVEs."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/?utm_source=tldrit",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "summary": "Codex Micro is a $230 programmable mini keyboard built with Work Louder for controlling and monitoring AI coding agents. Its illuminated keys show agent status, while a joystick, dial, voice input, and customizable shortcuts let developers switch tasks, approve changes, and adjust reasoning levels."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/?utm_source=tldrit",
+      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+      "summary": "Identity startup Oak has emerged from stealth with a unified control plane for governing access across employees, machines, and AI agents. Its platform maps permissions against actual application usage and removes unnecessary access in real time, while the company launches with enterprise customers and $60 million in seed funding led by Accel, CRV, and Greylock."
+    },
+    {
+      "url": "https://www.cio.com/article/4190605/5-ways-for-cios-to-avoid-ai-bill-shock.html?utm_source=tldrit",
+      "title": "5 ways for CIOs to avoid AI bill shock",
+      "summary": "As AI shifts from predictable per-seat pricing to usage-based agents capable of making dozens of model calls per task, CIOs need to forecast costs by workflow, account for retries and failures, embed token and runtime limits, route tasks to appropriately priced models, and tie consumption back to measurable business value."
+    },
+    {
+      "url": "https://www.zdnet.com/article/managed-self-hosted-or-open-source-how-to-choose-the-right-version-of-openvpn/?utm_source=tldrit",
+      "title": "I tested all three OpenVPN tiers: Why the free version is still the best choice for most users",
+      "summary": "OpenVPN's three offerings suit different needs: CloudConnexa provides a fully managed service, Access Server offers self-hosted control with business-friendly administration, and the free Community Edition delivers maximum flexibility for teams willing to handle configuration and ongoing maintenance themselves."
+    },
+    {
+      "url": "https://workos.com/blog/audit-log-events-enterprise-buyers?utm_source=tldrit",
+      "title": "The audit log events enterprise buyers will actually ask about",
+      "summary": "There are 10 audit log event categories enterprise security teams most often ask for, in roughly the order they tend to review them. Emphasis is on logging both human and automated activity, keeping enough context for investigations (especially around MFA resets, sessions, and impersonation), and using retention periods long enough for later audits and incidents."
+    },
+    {
+      "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d?utm_source=tldrit",
+      "title": "Designing with web standards: The playbook for this AI moment",
+      "summary": "A playbook for creating widely adopted interface conventions, drawing parallels to design systems and semantic separation of structure, presentation, and behavior."
+    },
+    {
+      "url": "https://dev.moe/en/3025?utm_source=tldrit",
+      "title": "Mysteries of Telegram DC",
+      "summary": "This technical deep dive investigates how Telegram assigns accounts and files across its five data centers, finding that phone-number country codes largely determine placement and that DC3 appears to have stopped accepting users after its accounts were likely migrated to DC1."
+    }
+  ]
+}
