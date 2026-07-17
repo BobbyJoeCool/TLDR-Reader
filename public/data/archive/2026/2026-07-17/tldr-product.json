@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-07-17",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://itamargilad.com/ai-pm-jobs/?utm_source=tldrproduct",
+      "title": "Is AI Going to Take PM Jobs?",
+      "summary": "AI will reshape product management, not eliminate it. A broader technology downturn poses a greater threat to PM jobs than automation."
+    },
+    {
+      "url": "https://newsletter.thelongcommit.com/p/the-prototype-is-a-question-not-a?utm_source=tldrproduct",
+      "title": "The Prototype Is a Question, Not a Product",
+      "summary": "AI makes convincing prototypes easier to build, but polish can create a false sense of product readiness. A clear decision framework helps teams define what each prototype can prove, gather the right evidence, and prevent experimental code from becoming an accidental production commitment."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/are-pms-becoming-irrelevant?utm_source=tldrproduct",
+      "title": "Are PMs becoming irrelevant?",
+      "summary": "AI is replacing routine PM work, not strategic product judgment. The PMs who thrive will focus on choosing the right problems and creating measurable value."
+    },
+    {
+      "url": "https://productpower.substack.com/p/the-farabis-guide-to-building-products?utm_source=tldrproduct",
+      "title": "The Farabi's Guide to Building Products That Matter",
+      "summary": "Great products help users flourish rather than merely capture attention. Shared purpose, careful research, and continuous iteration keep teams focused on that goal."
+    },
+    {
+      "url": "https://romanpichler.medium.com/how-to-create-a-truly-inspiring-product-vision-7b8e8c71bc22?utm_source=tldrproduct",
+      "title": "How to Create a Truly Inspiring Product Vision",
+      "summary": "A strong product vision captures the lasting positive change a product aims to create, rather than describing features or business goals. Concise, emotionally engaging, and collaboratively developed, it motivates teams and provides stable direction for product strategy."
+    },
+    {
+      "url": "https://www.producttalk.org/quality-of-evidence-all-things-product-podcast-with-teresa-torres-petra-wille/?utm_source=tldrproduct",
+      "title": "All Things Product Podcast with Teresa Torres & Petra Wille (17 minute video)",
+      "summary": "Customer data can reveal what to investigate, but rarely what to build. Rich, story-based interviews provide the context teams need to make better product decisions."
+    },
+    {
+      "url": "https://www.a16z.news/p/reactors-have-a-surprising-amount?utm_source=tldrproduct",
+      "title": "Reactors Have a Surprising Amount of Detail",
+      "summary": "Early momentum can hide the details that determine whether a product succeeds. Rigorous testing and continuous iteration turn promising technology into something reliable."
+    },
+    {
+      "url": "https://theengineeringmanager.substack.com/p/code-yellow-code-red?utm_source=tldrproduct",
+      "title": "Code Yellow, Code Red",
+      "summary": "Code Yellows help teams resolve serious engineering problems before they become emergencies. Clear ownership, measurable exit criteria, and transparent communication keep the response focused and temporary."
+    },
+    {
+      "url": "https://www.armank.dev/thoughts/2?utm_source=tldrproduct",
+      "title": "AI products generate more signal than teams know how to use",
+      "summary": "AI conversations reveal what users want and where products fall short."
+    },
+    {
+      "url": "https://lethain.com/generated-demand/?utm_source=tldrproduct",
+      "title": "Generated and suppressed demand",
+      "summary": "Improving teams often uncover hidden demand, causing their backlogs to grow again."
+    }
+  ]
+}

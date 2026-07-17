@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-17",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/?utm_source=tldrit",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "summary": "Anthropic and Blackstone-backed venture Ode with Anthropic, launched in May, is positioning itself as a $1.5B AI “implementation” firm focused on deploying AI engineering inside enterprises rather than solely improving models. Built from the acquired startup Fractional AI, Ode employs 100 engineers and will follow a “Claude-first” approach while also using rival tools when needed, competing with OpenAI's deployment business and consulting firms' forward-deployed teams."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4197818/cisa-urges-immediate-sharepoint-hardening-as-exploits-mount-2.html?utm_source=tldrit",
+      "title": "CISA urges immediate SharePoint hardening as exploits mount",
+      "summary": "CISA is urging organizations to immediately patch and investigate on-premises SharePoint servers after three vulnerabilities were confirmed as actively exploited. Security teams should also hunt for compromise, rotate machine keys where needed, and segment SharePoint from critical systems because patching alone may not remove attacker persistence."
+    },
+    {
+      "url": "https://medium.com/@rush.desh/scaling-it-at-hypergrowth-35a29833135a?utm_source=tldrit",
+      "title": "Scaling IT at Hypergrowth",
+      "summary": "Drawing on experience building IT through periods of explosive growth at Meta, Netflix, Uber, Robinhood, and Square, the author explains why scaling is not about adding people faster, it is about designing systems that prevent headcount, support demand, and costs from growing together. The playbook covers automation, self-service, standardization, vendor leverage, and the operating metrics that reveal whether IT is actually keeping pace with the business."
+    },
+    {
+      "url": "https://www.theregister.com/saas/2026/07/15/salesforces-agentforce-isnt-winning-over-clients-keybanc-analysts-claim/5271866?utm_source=tldrit",
+      "title": "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim",
+      "summary": "KeyBanc analysts say Salesforce customers are struggling to see value from Agentforce because their data is not ready for meaningful AI work and the product remains immature. Salesforce disputes the assessment, calling Agentforce its fastest-growing product, but analysts expect adoption and consumption-based revenue to take longer than the market anticipates."
+    },
+    {
+      "url": "https://www.itpro.com/hardware/hardware-shortages-force-channel-partner-rethink-on-infrastructure-strategies?utm_source=tldrit",
+      "title": "Hardware shortages force channel partner rethink on infrastructure strategies",
+      "summary": "Hardware pricing volatility and ongoing component shortages are forcing IT channel partners to rethink infrastructure strategies, according to research from Westcon-Comstor. Most partners report taking action to reduce project risk (87%), including earlier planning, improved capacity forecasting, and wider use of managed services or storage tiering/caching, while some are switching vendors or accelerating/adjusting customer purchases to manage supply constraints."
+    },
+    {
+      "url": "https://technode.com/2026/07/16/baidu-to-power-ai-search-for-apples-apple-intelligence-in-china/?utm_source=tldrit",
+      "title": "Baidu to power AI search for Apple's Apple Intelligence in China",
+      "summary": "Sources say Apple and Baidu are partnering to bring AI features from Apple Intelligence to iPhone users in China. Baidu will develop an AI-powered search experience and enhancements to Siri for the Chinese market, using Alibaba's Qwen large language model for underlying capabilities, with a rollout expected alongside iOS later this fall."
+    },
+    {
+      "url": "https://www.paloaltonetworks.com/blog/2026/07/announcing-general-availability-of-prisma-airs-ai-gateway/?utm_source=tldrit",
+      "title": "Announcing the General Availability of Prisma AIRS AI Gateway",
+      "summary": "Palo Alto Networks has made Prisma AIRS AI Gateway generally available, giving enterprises a central control plane to discover AI usage, enforce model and tool access policies, track token costs, verify agent identities, and block prompt attacks or sensitive-data exposure at runtime."
+    },
+    {
+      "url": "https://practicaldatamodeling.substack.com/p/the-database-is-not-the-data-model?utm_source=tldrit",
+      "title": "The Database Is Not the Data Model",
+      "summary": "Data models and database schemas are not the same: schema design is implementation mechanics, while data modeling is representation of meaning. Industry habits led to “model blindness,” creating downstream issues like misaligned definitions, painful migrations, and poor agent performance."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading?utm_source=tldrit",
+      "title": "Grok's CLI caught uploading all your local files to the cloud",
+      "summary": "Researchers found that Grok Build CLI was uploading entire Git repositories, including full commit histories and sensitive files, to xAI-managed cloud storage, even when users disabled model-improvement settings. xAI subsequently stopped the uploads through a server-side switch, raising larger questions about whether enterprises can trust the stated data controls of AI coding agents"
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html?utm_source=tldrit",
+      "title": "New Google Meet 'Take notes for me' settings for admins and end users",
+      "summary": "Google Meet is adding an option to automatically take notes only for meetings with three or more participants, with admins able to set the default before the change begins affecting users no sooner than September 21."
+    },
+    {
+      "url": "https://www.theregister.com/off-prem/2026/07/16/aws-cloudfront-outage-serves-errors-instead-of-websites/5272421?utm_source=tldrit",
+      "title": "AWS CloudFront outage serves errors instead of websites",
+      "summary": "An internal capacity constraint disrupted CloudFront customers using private VPC origins, triggering 5xx errors across services including Hugging Face and the UK National Lottery."
+    }
+  ]
+}
