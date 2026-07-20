@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-07-20",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://ramp.com/data/top-saas-vendors-on-ramp-july-2026?utm_source=tldrfounders",
+      "title": "Top SaaS Vendors on Ramp (July 2026)",
+      "summary": "AI support bots are one of the clearest enterprise AI use cases. The other commercially-advanced use case for AI is coding agents. The industry is seeing more and more usage of open-source Chinese models. The rise of Chinese models indicates that businesses want something that isn't being offered by the American model companies."
+    },
+    {
+      "url": "https://chudson.substack.com/p/its-all-pre-series-a-now?utm_source=tldrfounders",
+      "title": "It's All Pre-Series A Now",
+      "summary": "A $10 million financing can now be called pre-seed. In 2014, pre-seed usually meant $1 million or less and enough money to find the first signs of product-market fit. Now the label is often chosen so the company can still call its next, even larger financing the seed round. If an investor says you are too early or too late, ask what they actually mean. Checking size, ownership, valuation, and the milestone expected before the next raise will tell you more than the round name. \"Pre-seed\" certainly does not tell you how much money the company already has."
+    },
+    {
+      "url": "https://www.leahtharin.com/p/youre-doing-activation-wrong?utm_source=tldrfounders",
+      "title": "You're doing \"Activation\" wrong",
+      "summary": "Your activation rate can improve while the company gets worse. AI can polish your ads and onboarding enough to bring in more signups, while the share of those customers still paying two months later falls. Most activation dashboards will show the first number and miss the second. A better funnel starts when someone first interacts with the product, then follows them through setup, aha, activation, and habit. Also track how much you spent for every account that survives month two. If signup conversion rises while month-two survival falls, you did not fix onboarding. You got better at enrolling the wrong people."
+    },
+    {
+      "url": "https://chamath.substack.com/p/two-questions-every-ceo-should-ask?utm_source=tldrfounders",
+      "title": "Two questions every CEO should ask about AI",
+      "summary": "If your company's AI bill doubled every 45 days, could anyone show what got twice as good? At 8090, token costs are growing at roughly that rate while the added productivity is estimated at only 5% to 10%. Most companies will not notice the gap until it shows up in their margins. Track AI cost and output by task, then send routine work to cheaper models and reserve the expensive ones for jobs where the answer actually improves. You should also know where prompts and employee corrections go. Those corrections can reveal how your company makes decisions to the model provider."
+    },
+    {
+      "url": "https://x.com/MathiasChu/status/2078156045835251991?utm_source=tldrfounders",
+      "title": "Meta's MCP is now available",
+      "summary": "The Meta MCP is now available to developers. It allows developers to speak to Meta's platform in natural language to create and edit campaigns, ad sets, and ads, perform detailed reporting, manage catalogs and feeds, run A/B tests, and review activity logs. The platform was designed for advertisers using AI assistants and developers building AI-native ad flows. It provides structured, permission-scoped access to ads capabilities without the need for individual endpoints."
+    },
+    {
+      "url": "https://x.com/Alibaba_Qwen/status/2078759124914098291?utm_source=tldrfounders",
+      "title": "Qwen3.8",
+      "summary": "Qwen3.8 is now available on Alibaba's Token Plan, Qoder, and QoderWork. The model has 2.4T parameters and is continuously evolving. It is comparable to leading frontier models, with Alibaba claiming it is second only to Fable 5. The model will be going open-weight soon."
+    },
+    {
+      "url": "https://www.proofofconcept.pub/p/training-design-senses?utm_source=tldrfounders",
+      "title": "Training design senses",
+      "summary": "Anyone can design now. Give AI a screenshot and a prompt and it can produce something clean in minutes. However, \"looks good\" is not the same as knowing why it works, what feels off, or what to change next. Train that judgment by copying great interfaces, studying their spacing, and presenting work before it feels finished. Perhaps for your own team, ask everyone to rebuild one interface without giving the screenshot to AI. Learn to notice why one margin is 16 pixels, another is 24, and why changing either one makes the whole screen feel wrong."
+    },
+    {
+      "url": "https://nextplayso.substack.com/p/a-primer-for-managers?utm_source=tldrfounders",
+      "title": "A Primer for Managers",
+      "summary": "Most managers tell someone to \"own\" a task, then get annoyed when the result is not what they pictured. This guide says to agree on four things first. What counts as done, what good work looks like, when it is due, and which resources the person can use. Then let them decide where, when, and how to do it. Those four questions separate delegation from abandonment. If the work comes back wrong, you can see whether the expectation was unclear or the execution failed."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/?utm_source=tldrfounders",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "summary": "Neil Rimer from Index Ventures warns of an imminent redistribution of AI-generated wealth, hoping it will be voluntary."
+    },
+    {
+      "url": "https://levels.io/founder-ownership-dilution-vc-startups?utm_source=tldrfounders",
+      "title": "5% ownership is probably the most common final stake for VC-funded startup founders",
+      "summary": "Raising money isn't free - every funding round means selling a share of your company's ownership for money."
+    },
+    {
+      "url": "https://boagworld.com/emails/copy-competitors/?utm_source=tldrfounders",
+      "title": "Stop Copying Your Competitors",
+      "summary": "The best you can do while copying your competitors is deliver mediocrity."
+    }
+  ]
+}

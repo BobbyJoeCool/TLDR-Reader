@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-20",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation?utm_source=tldrit",
+      "title": "Databricks is Raising a Strategic Round of Funding at a $188 Billion Valuation",
+      "summary": "Databricks announced a strategic funding round at a $188 billion valuation, backed by a term sheet expected to close later this summer and led by existing investor Coatue. The company plans to use the new capital to accelerate its AI strategy, including Unity AI Gateway, Genie, and Lakebase, and it expects the funding to support future AI acquisitions and deeper AI research."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/?utm_source=tldrit",
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "summary": "Attackers compromised a third-party support ticketing platform used by EY's IT staff and downloaded documents that may have contained client tax, personal, and financial information. EY detected the incident on April 23, although the unauthorized access reportedly occurred between March 28 and April 12."
+    },
+    {
+      "url": "https://www.reuters.com/technology/meta-talks-10-billion-anthropic-compute-deal-nyt-reports-2026-07-17/?utm_source=tldrit",
+      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal",
+      "summary": "Anthropic is reportedly discussing a two-year compute agreement worth as much as $10 billion with Meta. The preliminary deal would give Anthropic another major infrastructure provider while advancing Meta's potential move into the commercial cloud market."
+    },
+    {
+      "url": "https://vinvashishta.substack.com/p/ai-makes-software-quality-a-board?utm_source=tldrit",
+      "title": "AI Makes Software Quality A Board Conversation. Are You Ready For It?",
+      "summary": "Software quality has become a board-level concern, especially as AI coding tools change development and introduce new quality risks. There is a “23-point gap” between C-suite confidence and practitioner agreement on testing coverage, and also a framework for translating AI quality initiatives into opportunity and risk language that different executives will fund."
+    },
+    {
+      "url": "https://www.informationweek.com/machine-learning-ai/the-ai-coding-rollout-worked-now-cios-have-a-bigger-problem?utm_source=tldrit",
+      "title": "The AI coding rollout worked. Now CIOs have a bigger problem",
+      "summary": "With AI coding tools now mainstream, productivity is no longer the only question for CIOs. Organizations must redesign teams, account for review and maintenance work, establish more useful performance measures, and ensure junior engineers still develop foundational skills."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html?utm_source=tldrit",
+      "title": "Google Workspace Updates: New refinement capabilities allow custom editing with Help me write in Gmail",
+      "summary": "Google Workspace is rolling out new “Help me write” refinement capabilities in Gmail that let users provide custom refine instructions to edit and revise email drafts. The feature replaces limited preset options (e.g., Polish, Formalize, and Shorten) with user-written prompts and supports undo/redo of edits."
+    },
+    {
+      "url": "https://research.perplexity.ai/articles/making-space-secure-and-efficient-runtimes-for-long-running-agents?utm_source=tldrit",
+      "title": "Perplexity launches SPACE runtime for AI agent tasks",
+      "summary": "Perplexity launched SPACE (Sandboxed Platform for Agentic Code Execution), a sandboxed runtime for long-running AI agents that can execute code, edit files, and complete multi-step tasks over hours to months. The system uses Firecracker microVMs with disposable sandboxes, plus snapshotting and paused-session restoration. It was deployed for Perplexity Computer in June, powering all Computer sessions with large-scale sandbox activity."
+    },
+    {
+      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html?utm_source=tldrit",
+      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+      "summary": "Hugging Face says an autonomous AI agent compromised part of its production infrastructure through malicious dataset-processing code, stole cloud and cluster credentials, and moved laterally across internal systems. The company found no evidence that public models or its software supply chain were altered, but is recommending that customers rotate access tokens and review account activity."
+    },
+    {
+      "url": "https://blog.canoozie.net/the/?utm_source=tldrit",
+      "title": "The Advisory Layer",
+      "summary": "A “Fleet plane” sits above one or more Constellations (hard failure domains) and is strictly advisory: it can aggregate summaries, provide placement hints, and do global quota accounting, but it is not allowed to command or block operations. This design preserves correlated-failure isolation while still enabling fleet-wide optimization, contrasting Kubernetes-style federation (coordination becomes load-bearing) with Borg's cell-scaling approach."
+    },
+    {
+      "url": "https://www.cio.com/article/4198467/the-audit-trail-cios-need-before-the-next-cyber-crisis.html?utm_source=tldrit",
+      "title": "The audit trail CIOs need before the next cyber crisis",
+      "summary": "CIOs need more than compliance reports and green dashboards after a breach—they need a documented trail showing when risks were identified, escalated, accepted, and addressed."
+    },
+    {
+      "url": "https://blog.cloudflare.com/wordpress-vulnerabilities/?utm_source=tldrit",
+      "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+      "summary": "Cloudflare deployed new WAF protections for two high-severity WordPress vulnerabilities: an unauthenticated REST API remote code execution (CVE-2026-63030) and a related SQL injection (CVE-2026-60137)."
+    }
+  ]
+}
