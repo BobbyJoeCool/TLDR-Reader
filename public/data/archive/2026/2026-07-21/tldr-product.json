@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-07-21",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.antmurphy.me/newsletter/8-strategy-concepts-every-pm-should-know?utm_source=tldrproduct",
+      "title": "8 Strategy Concepts Every PM Should Know",
+      "summary": "Strong product strategies combine several sources of competitive advantage. Those advantages must be chosen carefully and revisited as the market changes."
+    },
+    {
+      "url": "https://benn.substack.com/p/is-jobs-a-four-letter-word?utm_source=tldrproduct",
+      "title": "Is \"jobs\" a four-letter word?",
+      "summary": "AI is changing Silicon Valley's definition of ambition from building large teams to needing fewer people. This shift could make hiring look inefficient and layoffs look impressive."
+    },
+    {
+      "url": "https://jennywanger.com/articles/your-ai-should-keep-a-diary/?utm_source=tldrproduct",
+      "title": "Your AI Should Keep a Diary",
+      "summary": "An AI activity log makes invisible work easier to review and improve. It helps users delegate more effectively, preserve context, and build stronger AI habits."
+    },
+    {
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/?utm_source=tldrproduct",
+      "title": "Who's Afraid of Chinese Models?",
+      "summary": "Chinese models are less of an economic threat than restrictive US AI policies. America should expand access to powerful models and support open innovation."
+    },
+    {
+      "url": "https://www.kellblog.com/what-mr-jambo-and-levis-can-teach-us-about-listening-to-customers/?utm_source=tldrproduct",
+      "title": "What Mr. Jambo and Levi's Can Teach Us About Listening to Customers",
+      "summary": "Leaders often reshape customer feedback to confirm existing beliefs. Teams should test their assumptions and consider that customers may mean exactly what they say."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-431-the-denominator-that-matters?utm_source=tldrproduct",
+      "title": "The Denominator That Matters",
+      "summary": "Successful AI adoption requires technical understanding, problem knowledge, evolving practices, and trust. Without a credible social contract, resistance is rational."
+    },
+    {
+      "url": "https://codemanship.wordpress.com/2026/07/19/the-power-of-why/?utm_source=tldrproduct",
+      "title": "The Power Of “Why?”",
+      "summary": "Requirements often prescribe solutions instead of identifying real needs. Asking “why” and testing small increments helps teams preserve options and find simpler answers."
+    },
+    {
+      "url": "https://bakadesuyo.com/2026/07/how-to-live-a-good-life/?utm_source=tldrproduct",
+      "title": "This Is How To Live A Good Life",
+      "summary": "A good life is built through repeated action, not insight alone. We become better by practicing virtue, pursuing meaningful goals, and investing in relationships."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2078567715544121815.html?utm_source=tldrproduct",
+      "title": "AI's Next Winners Won't Just Be the Frontier Labs",
+      "summary": "AI's value is spreading beyond frontier labs."
+    },
+    {
+      "url": "https://x.com/saranormous/status/2079102679578706308?utm_source=tldrproduct",
+      "title": "The Rude Duck: What Are You Avoiding?",
+      "summary": "Fear often hides behind reasonable excuses."
+    }
+  ]
+}

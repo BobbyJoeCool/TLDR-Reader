@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-21",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.googlecloudpresscorner.com/2026-04-22-Google-Cloud-Commits-750-Million-to-Accelerate-Partners-Agentic-AI-Development?utm_source=tldrit",
+      "title": "Google Cloud commits $750M to accelerate partner-built AI agents",
+      "summary": "Google Cloud is investing $750 million to help partners build and deploy enterprise agentic AI on Gemini and its cloud platform. The move reinforces that hyperscalers are increasingly competing on ecosystems and enterprise adoption—not just foundation models."
+    },
+    {
+      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html?utm_source=tldrit",
+      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+      "summary": "Hugging Face says its production infrastructure was breached by an autonomous AI agent system earlier last week. The attackers gained access via malicious entries in a data processing pipeline, escalated to node-level access, and moved through internal clusters. Hugging Face reports no evidence of tampering with public models, datasets, Spaces, or its software supply chain."
+    },
+    {
+      "url": "https://thenewstack.io/serving-environments-agent-speed/?utm_source=tldrit",
+      "title": "Platform engineering's new job: serving environments at agent speed",
+      "summary": "As coding agents become the most demanding tenants of platform environments, platform engineering needs to shift from provisioning environments on demand to serving them like a low-latency, high-concurrency system. Both full-copy and shared-single-environment approaches fail under agent traffic patterns, and a delta-based “serve the changed services” architecture routed per request can reduce latency and cost while preserving isolation."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/?utm_source=tldrit",
+      "title": "Anthropic and Blackstone are betting AI implementation, not models, is the trillion-dollar opportunity",
+      "summary": "As frontier models become increasingly commoditized, the next competitive advantage is helping enterprises deploy AI into real workflows. Investors are shifting attention toward implementation, orchestration, and enterprise services rather than building ever-larger models."
+    },
+    {
+      "url": "https://www.oracle.com/news/announcement/oracle-introduces-ai-native-builder-experience-2026-07-14/?utm_source=tldrit",
+      "title": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications",
+      "summary": "Oracle added an AI-native builder environment to Oracle AI Agent Studio for Fusion Applications. The new “Fusion Agentic Applications” run natively inside Oracle Fusion Cloud Applications, inheriting existing security/governance policies and built-in audit trails while letting multiple AI agents collaborate to execute business processes."
+    },
+    {
+      "url": "https://m.economictimes.com/small-biz/security-tech/technology/xebia-launches-xebia-axis-agentic-data-foundation-for-faster-ai-readiness/articleshow/132508269.cms?utm_source=tldrit",
+      "title": "Xebia launches AI agents to accelerate enterprise data migrations",
+      "summary": "Xebia Axis is an AI-agent-powered platform that automates data assessments, migrations, and operations. The company says it can complete migrations up to three times faster while improving enterprise AI readiness."
+    },
+    {
+      "url": "https://computer.rip/2026-07-19-email-encryption.html?utm_source=tldrit",
+      "title": "Email encryption",
+      "summary": "Email was designed without built-in confidentiality or integrity, prompting efforts to develop more secure messaging systems. X.400 sought to provide end-to-end encryption through mechanisms such as ASN.1 and X.509-based directory services, but its complexity prevented it from replacing internet email."
+    },
+    {
+      "url": "https://www.marketwatch.com/story/irens-stock-surges-as-the-neocloud-lands-2-8-billion-worth-of-new-deals-831302c3?utm_source=tldrit",
+      "title": "IREN signs $2.8B in new AI cloud contracts",
+      "summary": "Neocloud provider IREN announced $2.8 billion in new multi-year AI infrastructure agreements with customers including Microsoft, Nvidia, and Perplexity. Customer prepayments will also fund nearly half of future GPU purchases, reducing capital risk while expanding AI capacity"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1810019/000181001926000078/ex991-pressrelease.htm?utm_source=tldrit",
+      "title": "Rackspace doubles down on enterprise AI infrastructure",
+      "summary": "Rackspace outlined its strategy to become a full-stack enterprise AI infrastructure operator and announced a new partnership with Palantir."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/07/20/microsoft-dusseldorf-out-of-band-application-security-testing-oast-platform/?utm_source=tldrit",
+      "title": "Meet Dusseldorf, Microsoft's open-source out-of-band security platform",
+      "summary": "Microsoft has released Dusseldorf, an open-source out-of-band application security testing (OAST) platform designed to capture network traffic from applications during attacks."
+    }
+  ]
+}

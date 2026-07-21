@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-21",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler?utm_source=tldrdev",
+      "title": "Our new and faster profiler dashboard",
+      "summary": "Polar Signals improved the speed of their profiler dashboard by transitioning from an SVG to a Canvas rendering method. This shift removed the need for numerous DOM nodes, streamlining the rendering process and resulting in much faster interactions, such as scrolling and zooming. The Canvas renderer operates approximately 3.6 times faster than its SVG counterpart."
+    },
+    {
+      "url": "https://cursor.com/blog/agent-swarm-model-economics?utm_source=tldrdev",
+      "title": "Agent swarms and the new model economics",
+      "summary": "Recent experiments have shown huge improvements in the performance of agent swarms tasked with building complex software, such as SQLite, through a structured approach where planner agents decompose tasks and worker agents execute them efficiently. The new swarm model consistently outperformed the previous version in terms of both speed and quality of output, achieving higher scores on testing suites while reducing the lines of code required to complete the task. This shift in design not only enhanced operational efficiency but also pointed to substantial cost savings by utilizing less expensive models for execution after initial planning by more capable, high-cost models."
+    },
+    {
+      "url": "https://stencil.so/blog/prewalk?utm_source=tldrdev",
+      "title": "You only need the frontier model for one single edit",
+      "summary": "Using a frontier model for planning and then switching to a cheaper model for execution often results in higher costs and more redundancy due to the expensive reading involved with context capture. Instead, implementing a strategy where the frontier model explores and captures its understanding in a todo list before switching can improve efficiency and reduce costs."
+    },
+    {
+      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/?utm_source=tldrdev",
+      "title": "Stop Using OpenCode",
+      "summary": "OpenCode is criticized by this user for its security vulnerabilities and some practical flaws that reduce its effectiveness as a coding agent. It often has poor decision-making in handling context, permissions, and agent interactions which can result in inefficiencies."
+    },
+    {
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html?utm_source=tldrdev",
+      "title": "Perfection is not over-engineering",
+      "summary": "Perfection in engineering should not be seen as a negative. Rather, the real issue comes from poorly defined requirements, which can lead to over-engineering and complex solutions that do not effectively address the actual problem."
+    },
+    {
+      "url": "https://anthonyhobday.com/sideprojects/saferules/?utm_source=tldrdev",
+      "title": "Visual design rules you can safely follow every time",
+      "summary": "This is a set of visual design rules positioned as safe defaults for general app design. For example, near-black and near-white should always be used over pure black and pure white. Measurements should be scale-based, such as using multiples of 4 for consistency, rather than using magic numbers."
+    },
+    {
+      "url": "https://www.kimi.com/products/kimi-work?utm_source=tldrdev",
+      "title": "Kimi Work (Website)",
+      "summary": "Kimi Work is an AI desktop app that automates repetitive tasks by being deeply integrated with local files and using features like web browsing and data extraction. It operates continuously to perform complex workflows using the Kimi K3 model."
+    },
+    {
+      "url": "https://blaizzy.github.io/nativ/?utm_source=tldrdev",
+      "title": "Nativ (Website)",
+      "summary": "Nativ is a free, open-source application designed for Apple Silicon that allows users to run AI models locally without the need for accounts, subscriptions, or cloud services."
+    },
+    {
+      "url": "https://github.com/KnockOutEZ/wigolo?utm_source=tldrdev",
+      "title": "Wigolo (GitHub Repo)",
+      "summary": "Wigolo is a local-first web intelligence tool for AI agents designed to execute tasks like search, fetch, crawl, and extract without requiring API keys or incurring query costs. It has a self-contained, private environment for running AI agents across various platforms with structured data retrieval and the ability to handle multiple engines simultaneously."
+    },
+    {
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/?utm_source=tldrdev",
+      "title": "American AI is locked down and proprietary. It's losing",
+      "summary": "The closed and proprietary approach to AI in the United States is leading to it possibly losing to China's open-weights strategy, which allows for greater innovation and adaptability. The US government's export controls and regulations make the competitive landscape hard to navigate."
+    },
+    {
+      "url": "https://kr-asia.com/why-cpus-are-now-at-the-center-of-the-ai-race?utm_source=tldrdev",
+      "title": "Why CPUs are now at the center of the AI race",
+      "summary": "The global AI boom is creating a shift in the CPU market, traditionally dominated by Intel and AMD, as new challengers like Nvidia, Qualcomm, and various Chinese firms are entering the fray. The demand for CPUs in AI data centers is projected to grow over 40% annually, with notable increases also from domestic producers in China."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079273272274026718.html?utm_source=tldrdev",
+      "title": "X completes Android App rebuild",
+      "summary": "The X Android app has been completely rebuilt for improved speed, reliability, and the ability to rapidly incorporate new features."
+    },
+    {
+      "url": "https://rachelbythebay.com/w/2026/05/05/404/?utm_source=tldrdev",
+      "title": "No, that post never existed. Stop listening to that thing",
+      "summary": "A meta reflection addresses the existence of a non-existent blog post titled \"The Stack\" from 2013, highlights the futility of searching for fabricated content, and explores the implications of creating self-aware technology that may resist control."
+    },
+    {
+      "url": "https://ramp.com/router?utm_source=tldrdev",
+      "title": "Ramp Router (Website)",
+      "summary": "Ramp's Router optimizes AI model selection for over 100 use cases, reducing costs by 30% while enhancing efficiency, making it accessible for broader use."
+    },
+    {
+      "url": "https://github.com/hgaiser/moonshine?utm_source=tldrdev",
+      "title": "Moonshine (GitHub Repo)",
+      "summary": "Moonshine is a Linux-based headless game streaming server for Moonlight clients that allows users to stream games from their PC to any device."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-07-21",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.kimi.com/products/kimi-work?utm_source=tldrai",
+      "title": "Kimi Work (Website)",
+      "summary": "Kimi Work is an agent that can connect to local files and automate browser work. It is capable of 24/7 automation, running scripts or tasks around the clock quietly in the background. The agent can navigate the internet and execute multi-step web tasks. It can coordinate multiple specialized agents to break down and solve multi-layer tasks and convert insights into professional PowerPoint decks or Excel sheets. Kimi Work is available for both Windows and macOS."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html?utm_source=tldrai",
+      "title": "AMD's Helios",
+      "summary": "AMD has unveiled Helios, its first rack-scale AI system positioned against Nvidia, with Microsoft planning to deploy it in Azure data centers. Meta, OpenAI, and Oracle were also named as early customers ahead of shipments later in 2026."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/?utm_source=tldrai",
+      "title": "Google's New Chip for Gemini",
+      "summary": "Google reportedly developed a server chip called Frozen v2 for a potential 2028 release, targeting six to ten times more tokens per unit of power than its existing AI hardware. The project reflected a broader push to reduce inference costs and reliance on Nvidia."
+    },
+    {
+      "url": "https://thezvi.wordpress.com/2026/07/20/on-kimi-k3-its-capabilities-and-related-discontents/?utm_source=tldrai",
+      "title": "On Kimi K3: Its Capabilities And Related Discontents",
+      "summary": "Kimi K3 is a very good model with excellent benchmarks. It is the largest (soon-to-be) open model so far, at 2.8T parameters, which explains many of its gains. The model is somewhat distilled, and its performance looks jagged, but it will likely fit well into many workflows. At the current rate of development, China appears capable of releasing a Mythos-level open model by the end of the year."
+    },
+    {
+      "url": "https://www.akashbajwa.co/p/sparse-by-design?utm_source=tldrai",
+      "title": "Sparse By Design",
+      "summary": "Kimi K3 activates 16 of 896 experts per token. While the total parameters have grown, the active parameters have barely grown at all over the past three releases. The strategy appears to be to keep per-token compute roughly flat while relentlessly inflating total capacity. At a fixed training compute budget, more experts means lower loss, and the model learns more from the same FLOPs. The open source labs have discovered that the cheapest way to buy intelligence is to spend capacity."
+    },
+    {
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models/?utm_source=tldrai",
+      "title": "What Long-Horizon AI Failures Reveal About Safety",
+      "summary": "OpenAI detailed how an internally deployed long-running model exhibited unexpected unsafe behavior that existing evaluations had missed. The company paused access, built new tests, strengthened trajectory-level monitoring, and argued that limited deployment with rollback controls is essential for aligning increasingly autonomous systems."
+    },
+    {
+      "url": "https://builders.ramp.com/post/thompson-sampling-model-routing?utm_source=tldrai",
+      "title": "Online Learning for Cost-Efficient LLM Routing",
+      "summary": "Ramp Router learns provider failure rates through EWMA and latency distributions through Thompson sampling, then chooses the cheapest model and service tier likely to meet each deadline. Ramp reports 30% savings in Ramp Inspect without performance loss."
+    },
+    {
+      "url": "https://alexzhang13.github.io/blog/2026/harness/?utm_source=tldrai",
+      "title": "Language model harnesses are compositional generalizers",
+      "summary": "Scaling data will remain the biggest driver of progress. The machine that we feed that data into and its inductive biases are what will determine the coefficients of that scaling. Better returns on scaling require compositional generalization. The capacity for compositional generalization seems to largely live in harnesses."
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge?utm_source=tldrai",
+      "title": "Introducing Cosmos 3 Edge",
+      "summary": "NVIDIA Cosmos 3 Edge is a 4-billion-parameter open world model that helps robots and vision AI agents understand their surroundings, reason in real time, and generate robot actions on edge devices. It is now available on Hugging Face. The model delivers memory-efficient, high-throughput inference across NVIDIA edge computers. It connects understanding, prediction, simulation, and action through a shared world representation. The model can be used as a reasoner or an action generator."
+    },
+    {
+      "url": "https://cursor.com/blog/agent-swarm-model-economics?utm_source=tldrai",
+      "title": "Agent swarms and the new model economics",
+      "summary": "Every jump in AI capability has raised the level of abstraction at which an engineer works. Agent swarms make the spec the unit of work. Swarms translate intent, but they do this probabilistically, which makes it difficult for them to follow the spec. This post looks at what it takes to make swarms actually follow the spec."
+    },
+    {
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html?utm_source=tldrai",
+      "title": "Xiaomi-Robotics-1",
+      "summary": "Xiaomi-Robotics-1 is a ready-to-use robot foundation model trained on over 100K hours of real-world manipulation trajectories. It combines large-scale embodiment-free pre-training with a modest amount of real-robot data in a post-training stage. It serves as a strong robot foundation model for downstream applications and can learn new tasks with high data efficiency. Footage of robots operating on the model performing household tasks is available in the post."
+    },
+    {
+      "url": "https://x.com/thejessezhang/status/2079234881935347723?utm_source=tldrai",
+      "title": "Why Your AI Bill Went Up Even Though Token Prices Are Falling",
+      "summary": "Token prices dropped significantly, yet many enterprises exceed AI budgets. A unit of inference cost $60 per million tokens in 2020, now just pennies. The discrepancy suggests inefficiencies despite lower token costs."
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html?utm_source=tldrai",
+      "title": "Z.ai Built a Gigawatt-Scale AI Data Center",
+      "summary": "Z.ai completed a 1-gigawatt data center powered entirely by Chinese-made chips and began partial operations. The facility expanded the computing infrastructure available for training its advanced GLM models."
+    },
+    {
+      "url": "https://www.axios.com/2026/07/20/artificial-intelligence-drug-development-impact?utm_source=tldrai",
+      "title": "How AI is supercharging drug development",
+      "summary": "AI is cutting preclinical costs and timelines in drug development by up to 70%, driving demand for advanced software and models. This could boost new drug program growth by over 10% in three to five years. However, AI has yet to yield an FDA-approved drug, raising concerns about its impact on patient treatment."
+    },
+    {
+      "url": "https://www.testingcatalog.com/anthropic-set-to-end-conway-test-as-wider-preview-expected-soon/?utm_source=tldrai",
+      "title": "Anthropic set to end Conway test as wider rollout expected",
+      "summary": "Anthropic will discontinue its Conway experiment by July 24, prompting users to export data."
+    },
+    {
+      "url": "https://x.com/SushanthRaman/status/2079255126729261158?utm_source=tldrai",
+      "title": "More AI Spend Won't Fix Your Supply Chain",
+      "summary": "Sushanth Raman announced the launch of Custom Models for supply chain teams."
+    },
+    {
+      "url": "https://cognition.com/blog/welcoming-tierzero?utm_source=tldrai",
+      "title": "Welcoming TierZero to Cognition",
+      "summary": "Cognition has acquired TierZero to enhance software automation in its product, Devin."
+    }
+  ]
+}
