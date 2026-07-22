@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-07-22",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html?utm_source=tldrnewsletter",
+      "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel",
+      "summary": "Vera is the first server CPU that Nvidia has designed from the core. It was specifically designed to address bottlenecks in AI agents. Nvidia claims the chip has 50% better performance for AI agents than x86 chips. Vera chips were delivered to clients, including OpenAI, Anthropic, and SpaceX, for evaluation in June."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/?utm_source=tldrnewsletter",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and AI agents in the same conversations. It is model-agnostic, decentralized, self-sovereign, and open source. The app looks a lot like Slack, but with native AI agents and the ability to manage GitHub projects from one interface. Developers can customize Buzz instances to the needs and workflows of their teams. The app is available for macOS, Windows, and Linux, and the code for the app has been uploaded to GitHub."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-ee388506?st=fDEkhe&reflink=desktopwebshare_permalink&mod=tldr&utm_source=tldrnewsletter",
+      "title": "OpenAI Models Escaped and Hacked a Company in Cybersecurity Test Gone Wrong",
+      "summary": "OpenAI claims that two AI systems that it was testing broke out of their test environment and hacked into Hugging Face. Hugging Face discovered the breach early last week, saying there had been unauthorized access to internal data sets and company credentials. Its employees suspected that the attack was carried out by a top-of-the-line frontier AI model due to the sophistication of the attack. OpenAI's AI apparently targeted Hugging Face as it was the quickest route to answering a benchmarking question."
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models?utm_source=tldrnewsletter",
+      "title": "Inside Roblox's Bet on World Models",
+      "summary": "Roblox is exploring the use of video models to create photorealistic experiences without compromising scale or multiplayer performance. An early version of Roblox Reality is expected later this year or early next. This post looks at how the company is bringing this vision to life. Roblox's approach doesn't require a video model to solve everything on its own. It gives the model an engine that remembers the world, enforces its rules, and keeps it true for everyone playing."
+    },
+    {
+      "url": "https://x.com/addyosmani/status/2079442194449232227?utm_source=tldrnewsletter",
+      "title": "Software Factories, Light and Dark",
+      "summary": "A software factory is harnessed loops at scale. Running the loop with humans (light factory) increases judgment and concentration while lowering speed and breakage. Using only AI agents (dark factory) allows agents to handle the whole process, but risks a lack of understanding of the produced software. The hardest job now is knowing which checks to build and how much autonomy to delegate."
+    },
+    {
+      "url": "https://www.greptile.com/blog/model-inversion?utm_source=tldrnewsletter",
+      "title": "Models are worse at reviewing their own code",
+      "summary": "Claude Code and Codex are both better at finding bugs in each other's code than their own. Models produce the same types of bugs that they are most likely to miss in review. Developers can take advantage of this finding by routing reviews to different models."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDY5MTk1MSwiZXhwIjoxNzg1Mjk2NzUxLCJhcnRpY2xlSWQiOiJUSUEzN1NLSVVQU0kwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.ccQtBIEZ6prtilTLLwi-GFUOMSewNoLJTHOUti9pi8g&utm_source=tldrnewsletter",
+      "title": "OpenAI's Agents Reach 10 Million Users After ChatGPT Work Debut",
+      "summary": "OpenAI now has 10 million people using Codex and ChatGPT Work. The company has seen a sharp uptick in demand for its AI agents since the release of ChatGPT Work. It has nearly doubled agent usage from earlier this month. OpenAI is pushing to develop advanced AI agents that can streamline more complex tasks."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html?utm_source=tldrnewsletter",
+      "title": "Google expands Gemini lineup with cheaper models and new Mythos rival",
+      "summary": "Google has released Gemini 3.5 Flash Cyber, Gemini 3.6 Flash, and Gemini 3.5 Flash-Lite. Gemini 3.5 Flash Cyber is designed to detect and patch software vulnerabilities and will initially be available only to governments and trusted partners through a limited-access pilot. Gemini 3.6 Flash has improved coding, multimodal, and knowledge-work performance while using up to 17% fewer tokens and costing less per token than the previous model. Gemini 3.5 Flash-Lite is built for high-volume workloads and smaller tasks within larger AI-agent systems."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/claude-code-ios-simulator/?utm_source=tldrnewsletter",
+      "title": "Claude Code Can Now Build and Test iOS Apps in Apple's Simulator",
+      "summary": "Claude Code for desktop has been updated to work with the iOS Simulator."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything?utm_source=tldrnewsletter",
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "summary": "Cat Wu and Thariq Shihipar from Anthropic's Claude Code team talk about Claude Code, Claude Tag, Fable, coding agent security, evals, tool design, and how Anthropic uses these tools."
+    },
+    {
+      "url": "https://www.mbi-deepdives.com/open-weights/?utm_source=tldrnewsletter",
+      "title": "The Geopolitics of Open Weights",
+      "summary": "While China has a reputation for releasing open-weight models, not all Chinese companies are actually following the same approach."
+    },
+    {
+      "url": "https://blog.exe.dev/claude-is-not-a-compiler?utm_source=tldrnewsletter",
+      "title": "Claude Is Not a Compiler",
+      "summary": "Claude is better than a compiler because it can work vertically across the stack."
+    },
+    {
+      "url": "https://georgwiese.github.io/posts/formal-verification-ai/?utm_source=tldrnewsletter",
+      "title": "A new software engineering paradigm",
+      "summary": "The combination of formal verification and AI is much more effective than AI by itself."
+    },
+    {
+      "url": "https://wakamoleguy.com/p/llms-are-surprisingly-bad-blog-authors?utm_source=tldrnewsletter",
+      "title": "LLMs Are Surprisingly Bad Blog Authors",
+      "summary": "Nobody likes reading AI slop."
+    }
+  ]
+}

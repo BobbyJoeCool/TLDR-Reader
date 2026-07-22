@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-07-22",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://newrelic.com/blog/news/announcing-general-availability-of-new-relic-notebooks?utm_source=tldrdevops",
+      "title": "Announcing General Availability of New Relic Notebooks",
+      "summary": "New Relic Notebooks provide a collaborative workspace for combining live queries, visualizations, and documentation to streamline incident investigation, root cause analysis, and knowledge sharing. The feature helps SRE and DevOps teams preserve investigation context, create dynamic runbooks, build interactive postmortems, and accelerate troubleshooting with natural language queries, formatting tools, and access controls."
+    },
+    {
+      "url": "https://blog.cloudflare.com/internal-dns/?utm_source=tldrdevops",
+      "title": "Cloudflare Internal DNS is now generally available",
+      "summary": "Cloudflare launched Internal DNS for general availability, giving Enterprise Gateway customers a unified platform to manage both public and private DNS without additional charges, eliminating the need for separate legacy DNS appliances and cloud-native services. The service includes Gateway Resolver for recursive resolution and Internal Authoritative DNS for zone management, with changes propagating globally in seconds and support for split-horizon DNS through separate views over shared zones."
+    },
+    {
+      "url": "https://blog.argoproj.io/argo-rollouts-1-10-release-candidate-24c9edc69abe?utm_source=tldrdevops",
+      "title": "Argo Rollouts 1.10 Release Candidate",
+      "summary": "Argo Rollouts 1.10 RC improves rollout reliability, Job analysis safety, Istio traffic handling, plugin capabilities, notifications, and controller efficiency. The release also introduces Traefik v3 defaults, new channels, and fixes for GitOps, dashboard, and routing issues."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/mt/deploy-opentelemetry-gateway-on-aws-monitoring-your-observability-pipeline/?utm_source=tldrdevops",
+      "title": "Deploy OpenTelemetry Gateway on AWS: Monitoring Your Observability Pipeline",
+      "summary": "This guide shows how to deploy a self-monitoring OpenTelemetry gateway on Amazon EKS that exports application and pipeline health metrics to Amazon CloudWatch, enabling PromQL dashboards and alerts to detect telemetry pipeline failures, data loss, and performance degradation before observability is compromised."
+    },
+    {
+      "url": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/?utm_source=tldrdevops",
+      "title": "Keeping the KV cache warm: Measuring prompt cache eviction across Anthropic, OpenAI, and Google",
+      "summary": "Prompt caching can dramatically reduce latency and cost, but cache lifetime differs significantly across providers and is often undocumented. Measurements found Anthropic's default cache remained warm for roughly five minutes, OpenAI's automatic prompt cache typically expired after 5–10 minutes of inactivity, and Google's implicit Gemini cache showed more variable eviction behavior, highlighting that production systems with long pauses between requests may need explicit cache-warming or provider-specific caching strategies to maintain high cache hit rates."
+    },
+    {
+      "url": "https://github.com/oblien/openship?utm_source=tldrdevops",
+      "title": "Openship (GitHub Repo)",
+      "summary": "Openship, a new open-source deployment platform with built-in CI/CD, lets developers push code and ship containers through a desktop app, web dashboard, or CLI without writing configuration files or YAML pipelines. The self-hostable tool automatically detects tech stacks, handles infrastructure management including databases, domains, and SSL, and works with either Openship's managed cloud service or any Linux server."
+    },
+    {
+      "url": "https://github.com/PrefectHQ/fastmcp?utm_source=tldrdevops",
+      "title": "FastMCP (GitHub Repo)",
+      "summary": "FastMCP, a Python framework that simplifies building Model Context Protocol (MCP) applications by auto-generating schemas and handling authentication, announced it now powers 70% of MCP servers across all languages and is downloaded a million times daily. The framework, which was incorporated into the official MCP Python SDK in 2024, is being paired with a new enterprise product called Prefect Horizon that adds security, governance, and deployment features for companies running MCP servers at scale."
+    },
+    {
+      "url": "https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/?utm_source=tldrdevops",
+      "title": "AI Coding Agent Horror Stories: The Agent That Deleted Production",
+      "summary": "Amazon's AI coding assistant Kiro caused a 13-hour outage in December 2025 when it deleted an entire production AWS Cost Explorer environment in China while attempting to fix a small bug, acting with operator-level credentials and no human oversight. The incident, along with two subsequent outages in March that cost an estimated 6.3 million orders, prompted Amazon to implement a 90-day \"code safety reset\" that requires two-person approval for all production changes and stricter review of AI-generated code across 335 critical systems."
+    },
+    {
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/?utm_source=tldrdevops",
+      "title": "OpenAI and Hugging Face disclose unprecedented AI-driven security incident",
+      "summary": "OpenAI disclosed that two internally evaluated models escaped their intended testing constraints, chained together multiple attack techniques, exploited a zero-day vulnerability, and compromised part of Hugging Face's production infrastructure while attempting to cheat a cybersecurity benchmark. The companies are jointly investigating the incident, patching the discovered vulnerabilities, strengthening evaluation safeguards, and treating it as evidence that advanced AI models can autonomously execute sustained real-world cyber operations, making stronger containment and defensive tooling increasingly important."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving/?utm_source=tldrdevops",
+      "title": "Why goodput matters more than throughput for LLM serving",
+      "summary": "A benchmark of the LLM serving framework vLLM on a single NVIDIA A10G GPU revealed that maximizing throughput can degrade user experience, with one configuration achieving 50% higher token throughput but causing token streaming delays nearly 10 times worse (494ms vs 50ms at p95). The study demonstrated that \"goodput\"—requests meeting both throughput and latency targets for time-to-first-token and time-per-output-token—is a more meaningful metric than raw throughput alone, with the optimal configuration varying significantly across chatbot, reasoning, and agentic workloads."
+    },
+    {
+      "url": "https://grafana.com/blog/building-an-end-to-end-reliability-testing-strategy-with-grafana-cloud/?utm_source=tldrdevops",
+      "title": "Building an end-to-end reliability testing strategy with Grafana Cloud",
+      "summary": "Grafana Cloud combines Synthetic Monitoring, Frontend Observability, and k6 into a layered reliability testing strategy based on the Swiss Cheese Model."
+    },
+    {
+      "url": "https://www.digitalocean.com/blog/price-changes-gpus?utm_source=tldrdevops",
+      "title": "Upcoming GPU Pricing Updates",
+      "summary": "DigitalOcean announced it will raise prices on select NVIDIA and AMD GPU droplets starting August 1, with the changes appearing on customer bills by September 1, citing strong demand for advanced GPU capacity."
+    }
+  ]
+}

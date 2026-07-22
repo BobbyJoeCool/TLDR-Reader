@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-07-22",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/?utm_source=tldrinfosec",
+      "title": "7-Zip Fixes RCE Flaw Exploitable With Malicious Archives",
+      "summary": "The popular 7-Zip Windows archive tool released an update to fix a heap-based buffer overflow vulnerability that could be exploited by attackers to achieve arbitrary code execution. The vulnerability exists in 7-Zip's processing of XZ-compressed data. 7-Zip does not have automatic update functionality, so users will need to manually download the new version to update."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/?utm_source=tldrinfosec",
+      "title": "Critical ServiceNow Code Execution Flaw Now Exploited in Attacks",
+      "summary": "Threat Intelligence platform Defused reported that they have observed a recently disclosed vulnerability in the ServiceNow AI Platform being actively exploited. The vulnerability could allow unauthenticated attackers to escape the sandbox and execute code remotely within the ServiceNow platform. ServiceNow has denied that the vulnerability is being actively exploited."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/?utm_source=tldrinfosec",
+      "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
+      "summary": "A hacker stole data on about 55.3 million Suno users, including names, postal and email addresses, phone numbers, purchase records, and partial card numbers from Stripe with expiry dates. The breach also exposed Suno source code showing large‑scale scraping of music and lyrics from major platforms and occurred in November 2025. Suno has yet to notify affected users or clearly disclose the incident."
+    },
+    {
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/?utm_source=tldrinfosec",
+      "title": "Exploit Brokers Pay $500,000 For A Wordpress Rce. I Found One With Gpt5.6 Sol Ultra And $25",
+      "summary": "A researcher used GPT5.6 Sol Ultra to find a pre-auth SQL injection in WordPress's batch API, abusing a validation desync and an unsafe author filter to gain database access. By chaining cache poisoning, embed handling, and customize_changeset posts, the attack escalates from SQLi to temporary admin privileges. It then abuses WordPress hooks, especially parse_request, to replay the batch request as admin and create a new administrator account, enabling plugin-based RCE on default WordPress installs."
+    },
+    {
+      "url": "https://www.elastic.co/security-labs/contagious-interview-malware-svg-steganography?utm_source=tldrinfosec",
+      "title": "New North Korean campaign uses fake coding interviews to steal developer credentials",
+      "summary": "Elastic Security Labs tracked a Contagious Interview campaign (REF9403) in which DPRK-aligned actors posted fake job offers in developer Slack channels, moved targets to DMs, and delivered trojanized e-commerce \"coding challenge\" repos that reassembled Base64 payload chunks hidden in SVG flag images via steganography, then executed them with eval() on every server start. The four-stage OTTERCOOKIE-aligned payload combined a browser credential and crypto wallet stealer, a recursive file stealer, a Socket.IO RAT, and a clipboard stealer, exfiltrating to rightwidth[.]dev subdomains and IPs 195.26.248[.]212 and 188.40.64[.]61, with zero AV detections at the time of writing. Defenders should treat unsolicited take-home coding tests as hostile, run them only in isolated VMs, hunt for node.exe spawning cmd.exe/powershell.exe with Get-Clipboard, and block the listed C2 domains. MITRE techniques include T1027.003 (Steganography), Clipboard Data, and Credentials from Password Stores."
+    },
+    {
+      "url": "https://workos.com/blog/oauth-mix-up-attacks-rfc-9207?utm_source=tldrinfosec",
+      "title": "OAuth mix-up attacks and RFC 9207: The issuer check that never made it to token exchange",
+      "summary": "WorkOS traces the OAuth mix-up attack (a client talking to multiple authorization servers gets confused about which server sent a response and routes a code or token to the wrong one) and how RFC 9207's 2022 fix, an iss parameter the client must compare against the expected issuer and reject when absent, only covers redirect flows and never extended to back-channel grants. That gap is what CVE-2026-59208 exploited in n8n's token exchange: the endpoint confirmed a subject_token's signature matched a trusted key but never confirmed the key belonged to the issuer named in the token's iss claim, so a token from one tenant resolved to a same-named account in another because signature validation and account-namespace scoping were treated as separate questions. Defenders should enforce RFC 9207 client-side (reject a missing iss when the server supports it), partition trusted signing keys per issuer rather than pooling them flat across RFC 8693/7523/7522 grants, and scope sub account lookups to the confirmed issuer's namespace, the single check that would have stopped the CVE, treating this as first-class in MCP and agent architectures where multi-issuer topologies are becoming default."
+    },
+    {
+      "url": "https://github.com/instavm/tarit?utm_source=tldrinfosec",
+      "title": "Tarit (GitHub Repo)",
+      "summary": "Tarit is a Rust/rust-vmm-based microVM platform that boots hardware-virtualized, kernel-isolated sandboxes in milliseconds for AI agent and RL workloads, pairing a minimal one-process-per-VM hypervisor with a multi-node orchestrator offering warm pools, live snapshots, suspend/restore, per-VM egress allowlisting, and PTY access."
+    },
+    {
+      "url": "https://github.com/microsoft/EventLogExpert?utm_source=tldrinfosec",
+      "title": "EventLogExpert (GitHub Repo)",
+      "summary": "EventLogExpert is a Windows Event Log viewer built by Microsoft that provides a Wireshark-like interface for viewing evtx files."
+    },
+    {
+      "url": "https://github.com/penberg/chimera?utm_source=tldrinfosec",
+      "title": "Chimera (GitHub Repo)",
+      "summary": "Chimera is a userspace sandbox for running untrusted code that doesn't require a VM, container, or kernel features."
+    },
+    {
+      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/?utm_source=tldrinfosec",
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "summary": "Google is replacing Gemini 3.5 Flash with 3.6 Flash, which improves DeepSWE coding scores, adds built‑in computer use, cuts token use by about 17 percent, and lowers output token pricing. Gemini 3.5 Flash Lite powers faster search and app responses, while the new 3.5 Flash Cyber model runs inside DeepMind's CodeMender agent for vetted partners and governments to find and fix vulnerabilities, staying out of broad public release."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/07/21/german-authorities-lead-takedown-of-kratos-phishing-platform/5275666?utm_source=tldrinfosec",
+      "title": "Kratos phishing-as-a-service kit loses its battle with international law enforcement",
+      "summary": "German and US-backed investigators shut down more than 200 servers tied to the Kratos phishing kit and arrested its alleged developer in Indonesia. Kratos helped low-skill attackers steal Microsoft 365 credentials and bypass MFA, enabling large campaigns across the US and Europe."
+    },
+    {
+      "url": "https://www.aikido.dev/blog/benchmarking-ai-models-known-cves?utm_source=tldrinfosec",
+      "title": "Benchmarking 13 AI models on rediscovering known CVEs",
+      "summary": "Aikido ran 13 models from OpenAI, Anthropic, xAI, Google, and open-weight vendors against 26 known GitHub-advisory CVEs inside its production AI Code Analysis harness (pass@3, model pointed at the vulnerable snippet), and found that GPT-5.6 topped recall at 23/26 (88.5%) with Kimi K3 tying it, grok-4.5 at 20, and the Claude Opus models at 15 to 18. The operationally useful finding is variance: single runs miss bugs other runs catch, so pooling three passes of a cheap model beats one pass of a flagship, with three gpt-5.4-nano runs reaching 18/26 for roughly $170 against a flagship single pass, and claude-haiku-4-5 swinging from 7 to 13 on the same task. The capability ceiling is reasoning, not sinks: every model found both critical bugs and obvious injection/deserialization flaws, but only GPT-5.5 and the strongest GPT-5.6 variants traced an indirect SQL injection through an unescaped ORM column alias, so defenders should pool multiple cheaper runs and treat the harness, not raw model tier, as the variable that aims reasoning at the right code."
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/20/iphone-hacking-firm-sues-ex-worker-over-alleged-theft-of-secrets?utm_source=tldrinfosec",
+      "title": "iPhone hacking firm sues ex-worker over alleged theft of secrets",
+      "summary": "Magnet Forensics sued former iOS exploit engineer Mario Del Gaudio and rival Paradigm Shift Technology in Georgia federal court, alleging Del Gaudio helped disclose a zero-day in Apple's A12 and A13 chips (which Magnet sold to government customers to unlock iPhones) on Paradigm's blog, destroying its value by alerting Apple to a potential fix."
+    },
+    {
+      "url": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/?utm_source=tldrinfosec",
+      "title": "Clover Health Investments Discloses Data Breach",
+      "summary": "Hackers used social engineering to take over three non‑managerial Clover Health employee accounts tied to visit scheduling and broker‑facing sales functions, giving them access to personally identifiable and protected health information, but not financial or claims systems."
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/estee-lauder-says-it-was-hit-by-data-breach-caused-by-oracle-e-business-issue?utm_source=tldrinfosec",
+      "title": "Estée Lauder says it was hit by data breach caused by Oracle E-Business issue",
+      "summary": "Estée Lauder identified that an attacker accessed its Oracle E‑Business Suite HR system around August 2025."
+    }
+  ]
+}

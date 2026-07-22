@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-22",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.google/products-and-platforms/products/gemini/?utm_source=tldrit",
+      "title": "Google launches Gemini 3.6 Flash and a cybersecurity-focused model",
+      "summary": "Google introduced Gemini 3.6 Flash alongside 3.5 Flash-Lite and Gemini 3.5 Flash Cyber. The cybersecurity model is designed to help trusted organizations identify, validate, and patch software vulnerabilities faster."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/?utm_source=tldrit",
+      "title": "Google's Frozen v2 AI Chip Aims to Embed Gemini in Hardware by 2028",
+      "summary": "Google is reportedly developing an AI server chip codenamed “Frozen v2” to hardwire parts of its Gemini model for inference, aiming for higher efficiency and lower power use. The chip is targeted for deployment in 2028 and is intended to help Google Cloud relieve capacity constraints by reducing reliance on general-purpose compute and freeing TPU capacity for other tasks."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4198497/saas-will-survive-but-lazy-saas-is-dead.html?utm_source=tldrit",
+      "title": "SaaS will survive, but lightweight workflow tools may not",
+      "summary": "Deeply integrated enterprise platforms remain difficult to replace, but narrow tools built mainly around simple interfaces and workflows face growing pressure. AI makes it easier for companies to recreate those lightweight capabilities themselves."
+    },
+    {
+      "url": "https://the-agent-report.com/2026/07/meta-anthropic-10b-compute-deal-neocloud/?utm_source=tldrit",
+      "title": "Meta-Anthropic $10B Compute Deal: Why Meta Is Becoming an AI Cloud Provider",
+      "summary": "Meta is in preliminary talks with Anthropic to lease large amounts of AI compute in a deal reported as worth roughly $10B over about two years. Meta is moving into a “neocloud” role by monetizing its massive AI infrastructure investment, an ambition reinforced by Meta hiring former AWS executive Dave Brown."
+    },
+    {
+      "url": "https://neo4j.com/blog/agentic-ai/enterprise-knowledge-layer/",
+      "title": "The Enterprise Knowledge Layer",
+      "summary": "Enterprise agent performance varies not because of LLMs or tooling, but because agents lack properly codified business meaning and institutional knowledge. Neo4j proposes the Enterprise Knowledge Layer (EKL) as a shared, governed substrate (comprising an EKL ontology, enterprise data grounding, and memory) so agents can interpret intent, access trustworthy data, and act consistently without duplicating semantics inside each agent."
+    },
+    {
+      "url": "https://newsbytes.ph/2026/07/21/alibaba-cloud-rolls-out-tools-to-manage-enterprise-ai-agents/?utm_source=tldrit",
+      "title": "Alibaba Cloud unveils infrastructure built around enterprise AI agents",
+      "summary": "Alibaba Cloud introduced an “Agent Native Cloud” architecture for deploying and managing multi-agent systems. Its components include agent orchestration, isolated execution environments, reusable skills, and enterprise identity integrations."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/?utm_source=tldrit",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "summary": "X has shipped a rebuilt Android app after nearly a year of development. The app was built from scratch to improve loading, scrolling, notifications, and overall reliability, with additional features still in progress for older devices and Android support for Spaces."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4199033/how-ai-impacts-site-reliability-engineering.html?utm_source=tldrit",
+      "title": "How AI is reshaping site reliability engineering",
+      "summary": "AI tools can help SRE teams investigate incidents, correlate telemetry, and automate remediation. At the same time, rapidly produced AI-generated code may create more outages and operational complexity for those teams to manage."
+    },
+    {
+      "url": "https://claude.com/blog/ai-code-migration?utm_source=tldrit",
+      "title": "Anthropic runs large-scale code migrations with Claude Code",
+      "summary": "Anthropic describes how developers used Claude Code to run large-scale code migrations using an iterative process with strong “judge”/test gates. Examples include Bun's Zig-to-Rust port (~1M lines in <2 weeks) and a Python-to-TypeScript port (~165K lines) done over a weekend with parity checks and multiple review rounds."
+    },
+    {
+      "url": "https://www.theregister.com/systems/2026/07/21/scalding-hot-ai-accelerators-have-put-datacenters-in-hot-water-two-phase-cooling-could-chill-them-out/5275293?utm_source=tldrit",
+      "title": "Two-phase cooling could lower AI data-center energy costs",
+      "summary": "Accelsius says refrigerant-based cooling can support hotter facility water and reduce the energy needed to cool dense GPU servers."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/?utm_source=tldrit",
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "summary": "Security researchers showed that AI coding agents can escape their sandboxes without directly attacking the sandbox itself by writing files that trusted tools outside the sandbox later execute or act on."
+    }
+  ]
+}

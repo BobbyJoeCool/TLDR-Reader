@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-07-22",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://jeffhuber.substack.com/p/12-factor-companies?utm_source=tldrfounders",
+      "title": "12-factor companies",
+      "summary": "Organizations shape technology and technology shapes organizations. Each wave of technology changes what it means to build and run great organizations, and AI is no different. The firm of the past was designed around the bottleneck of human execution. The firm of the future will be designed around the bottleneck of human taste and judgment. This article looks at factors organizations can adopt to be smaller, faster, and deliver outsized value to customers."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/2030-shaped-software?utm_source=tldrfounders",
+      "title": "2030-shaped software",
+      "summary": "Everyone says agents will be the main users of software by 2030. Okay, so what should the product actually look like? PostHog's answer is pretty simple. Agents should do the work, while the interface helps humans approve decisions and check what changed. If a person is clicking through a screen only to perform an action, give the agent a way to do it. Keep the screens where someone needs to judge the result, resolve something ambiguous, or stop the agent before it does something dumb."
+    },
+    {
+      "url": "https://blog.staysaasy.com/p/what-id-tell-my-team-about-competition?utm_source=tldrfounders",
+      "title": "What I'd Tell My Team About Competition",
+      "summary": "People love to say startups die by suicide, not competition. That is wrong, especially in B2B. A lower win rate means less revenue, then cuts, worse morale, and an even lower win rate. That is why he doesn't care about 5% product improvements. A customer usually needs a painfully obvious reason to switch, like half the price or 10x the speed. Look at the deals you lost and ask what would have made the choice obvious without another sales call."
+    },
+    {
+      "url": "https://amplitude.com/3x?utm_source=tldrfounders",
+      "title": "Speedrunning Software",
+      "summary": "Building an autonomous software factory feels the same as speedrunning a game. AI made building cheap, and speeding up the software factory lets you take more shots at building things. This post looks at how Amplitude built its software factory, which helped the company 3x its PRs. The faster a software factory is, the faster you can put more ideas in front of customers to figure out what works. They allow you to run more experiments and see good ideas surface much faster."
+    },
+    {
+      "url": "https://x.com/eptwts/status/2079571791341633643?utm_source=tldrfounders",
+      "title": "How to Find Profitable Problems to Solve",
+      "summary": "Profitable product ideas often come from problems founders have personally solved, giving them insight, proof, and credibility. Filter those problems by links to money, time, or status, identify the root cause, and validate whether buyers will pay for the transformation."
+    },
+    {
+      "url": "https://www.insightpartners.com/ideas/scaling-fde-bench/?utm_source=tldrfounders",
+      "title": "How companies are building and scaling the FDE bench",
+      "summary": "Many leaders want a forward-deployed engineering (FDE) team, but few know how to build one. The people who excel in the role are scarce, expensive, and hard to interview for. This article looks at what an FDE is, what makes a great FDE, how to find them, and more. It includes an overview of how other companies are running the FDE model and covers common misconceptions about the FDE bench."
+    },
+    {
+      "url": "https://github.com/block/buzz?utm_source=tldrfounders",
+      "title": "Buzz (GitHub Repo)",
+      "summary": "Buzz is a workspace where humans and agents build together. It is self-hostable, and an operator can serve many communities behind many domains or subdomains. Buzz feels like a team workspace, but under the hood, it's an event log with taste. It is a relay where humans, agents, workflows, git events, and project memory cooperate."
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program/?utm_source=tldrfounders",
+      "title": "OpenAI Launched a Small-Business AI Program",
+      "summary": "OpenAI has launched a program that offers small businesses virtual training, in-person AI academies, workflow guides, and partner-built tools for using ChatGPT across operations such as marketing, accounting, and ecommerce."
+    },
+    {
+      "url": "https://growth-memo.com/p/does-topical-authority-matter-in?utm_source=tldrfounders",
+      "title": "Does topical authority matter in AI Search?",
+      "summary": "In a study of 1,094 US ChatGPT categories, only 15.2% had a clear owner. Most companies are still fighting over categories where ChatGPT has not settled on a default brand. Once a brand did become the default answer, it stayed first in 90.4% of next-month comparisons. Maybe don't publish the twentieth generic AI article. Pick the five questions you want your company to be named for and build around those."
+    },
+    {
+      "url": "https://x.com/ColinGardiner/status/2079258947807261110?utm_source=tldrfounders",
+      "title": "Marketplace Startup Fundraising 2026",
+      "summary": "Marketplace funding has become sharply selective: Pre-Seed and Seed valuations hold, but Series A rounds, capital, and valuations have all fallen. Founders increasingly need Seed extensions, stronger revenue, better liquidity, and higher-margin products to bridge an 11x revenue jump."
+    },
+    {
+      "url": "https://averageentrepreneur.substack.com/p/finding-the-trigger?utm_source=tldrfounders",
+      "title": "Finding the Trigger",
+      "summary": "A customer can admit the problem is real and still do nothing."
+    },
+    {
+      "url": "https://a16z.com/the-7-hires-a-hardware-startup-needs-to-get-right/?utm_source=tldrfounders",
+      "title": "The 7 Hires a Hardware Startup Needs to Get Right",
+      "summary": "Hardware startups must make seven critical hires, focusing on manufacturing, deployments, supply chain, finance, sales, policy, and marketing."
+    },
+    {
+      "url": "https://x.com/reidhoffman/status/2079177168592990552?utm_source=tldrfounders",
+      "title": "Make Good Introductions, Build Strong Alliances, Win",
+      "summary": "Effective introductions can enhance reputation and create valuable connections."
+    },
+    {
+      "url": "https://x.com/ShravanGReddy/status/2079241564535287821?utm_source=tldrfounders",
+      "title": "Investing Before the Idea",
+      "summary": "Most VCs say they invest in people over ideas, but this rarely gets tested since they join when there's an existing idea and market."
+    }
+  ]
+}
