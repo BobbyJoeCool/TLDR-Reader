@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-23",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know?utm_source=tldrit",
+      "title": "OpenAI's models broke containment and cyberattacked Hugging Face",
+      "summary": "During an internal benchmark run, OpenAI's frontier models escaped their sandbox, gained raw internet access, and autonomously cyberattacked Hugging Face's production infrastructure. Hugging Face later found it had already been breached weeks earlier (via a malicious dataset), and defenders faced blocked forensic queries from commercial model guardrails until they analyzed logs locally with GLM 5.2."
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/?utm_source=tldrit",
+      "title": "Gemini 3.5 Flash Cyber",
+      "summary": "Gemini 3.5 Flash Cyber is a lightweight cybersecurity model built on 3.5 Flash and fine-tuned to quickly find, validate, and patch vulnerabilities. The company plans to deploy it via a limited-access CodeMender pilot for governments and trusted partners, and also make CodeMender capabilities available through the Gemini Enterprise Agent Platform for customers."
+    },
+    {
+      "url": "https://muratbuffalo.blogspot.com/2026/07/characterizing-metastable-faults-and.html?utm_source=tldrit",
+      "title": "Characterizing Metastable Faults and Failures",
+      "summary": "Metastable failures arise when individually stable system components interfere with each other's recovery, preventing a distributed system from returning to a healthy state after a disruption. These failures are a \"sin of composition.\" Scheduling is a key mechanism for recovery. Effective solutions still require global reasoning about how components interact."
+    },
+    {
+      "url": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering?utm_source=tldrit",
+      "title": "AI agents aren't failing because of context—they're failing because of data",
+      "summary": "Enterprise agents often produce confident but incorrect answers because they rely on stale, fragmented, or poorly governed operational data. Reliable agents require stronger data engineering and observability rather than simply larger context windows."
+    },
+    {
+      "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/?utm_source=tldrit",
+      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
+      "summary": "Microsoft and Mistral expanded their strategic partnership to bring Mistral's frontier and efficient AI models to Microsoft enterprise products and regulated-industry deployments. The deal includes a multibillion-dollar expansion of Europe-based GPU infrastructure and the availability of Mistral Medium 3.5 and OCR 4 in Microsoft Foundry and Mistral Medium 3.5 in Copilot Studio, along with deployment options across Azure, Azure Local, and fully disconnected environments."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots?utm_source=tldrit",
+      "title": "OpenAI launches a platform for managing enterprise voice agents",
+      "summary": "OpenAI Presence is a platform for launching and managing real-time voice agents and chatbots across enterprise applications. It gives organizations centralized tools for deployment, orchestration, monitoring, and governance."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/?utm_source=tldrit",
+      "title": "Monday.com cuts 20% of staff to reorganize around AI",
+      "summary": "Monday.com is eliminating roughly 630 roles as it shifts resources toward its AI Work Platform. The restructuring shows how enterprise software companies are redesigning their organizations, not just their products—around AI."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/07/21/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents/?utm_source=tldrit",
+      "title": "Platform engineering for the agentic enterprise",
+      "summary": "Platform engineering must evolve from serving primarily human developers to serving the “agentic enterprise,” where AI agents also consume and operate the platform under the same governance model. It will evolve into a first-class model for managing applications, resources, and AI agents, emphasizing relationships, lifecycle governance, and secure, auditable interactions across humans and agents."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/?utm_source=tldrit",
+      "title": "OpenAI's AI infrastructure spending climbs to $750B",
+      "summary": "OpenAI reportedly plans to spend $750 billion on computing infrastructure through 2030, up from an earlier $600 billion estimate. The company is taking greater control over data-center development as its original Stargate plans face delays."
+    },
+    {
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/?utm_source=tldrit",
+      "title": "Firefox Containers Preview",
+      "summary": "Mozilla is introducing a Preview of Firefox Containers, which lets users keep different parts of their online life in separate “containers” within the same browser window."
+    },
+    {
+      "url": "https://www.theregister.com/software/2026/07/22/redmonds-reaper-cometh-october-2026-set-to-bury-a-graveyard-of-microsoft-products/5275627?utm_source=tldrit",
+      "title": "Microsoft prepares to retire a wave of products in October",
+      "summary": "Windows Server 2022 exits mainstream support on October 13 alongside several Windows 11 editions and other Microsoft products."
+    }
+  ]
+}

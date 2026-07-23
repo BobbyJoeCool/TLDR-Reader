@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-23",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd?utm_source=tldrdev",
+      "title": "Everyone Should Know SIMD",
+      "summary": "SIMD (Single Instruction, Multiple Data) allows CPUs to process multiple values in parallel, improving performance for operations involving large datasets. By following a simple five-step structure, developers can integrate SIMD into their code, enabling huge speed enhancements for common tasks without needing intricate knowledge of CPU-specific details."
+    },
+    {
+      "url": "https://tympanus.net/codrops/2026/07/22/building-ridgeline-engineering-a-real-time-3d-experience-in-webflow/?utm_source=tldrdev",
+      "title": "Building Ridgeline: Engineering a Real-Time 3D Experience in Webflow",
+      "summary": "Ridgeline is a hiking and photography website that uses real-time 3D terrain rendering to create an immersive experience using Webflow, Three.js, and React Three Fiber. The project processes real elevation data, uses a unique self-hosted JavaScript embed for performance, and uses Blender to transform models into glTF format for efficient rendering. It also uses Webflow's MCP for easy editing."
+    },
+    {
+      "url": "https://blog.gaborkoos.com/posts/2026-07-21-Your-JS-Date-Is-Lying-to-You/?utm_source=tldrdev",
+      "title": "Your JS Date Is Lying to You",
+      "summary": "JavaScript's Date API has several flaws that can lead to incorrect date handling in applications, such as misleading parsing, mutable state, and timezone-related issues. The Temporal API provides more reliable semantics, immutability, and distinct types for handling calendar dates, instants, and timezone-aware timelines."
+    },
+    {
+      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/?utm_source=tldrdev",
+      "title": "If You Think You Can Do Real-World Text-to-SQL",
+      "summary": "Text-to-SQL benchmarks need to account for the complexities of real-world data warehouses, which often suffer from issues such as \"schema rot\" and unique idiosyncratic data. A new benchmark, Beaver, has come from real data workloads, showing that typical LLM performance is worse in these settings."
+    },
+    {
+      "url": "https://www.cole-k.com/2026/07/21/reddit/?utm_source=tldrdev",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "summary": "Reddit is now requiring users to log in to access its old website design, citing safety concerns about abusive scraping and automated traffic. People argue that this move is more about protecting Reddit's own interests in user-generated content rather than genuine concerns for security."
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-presence/?utm_source=tldrdev",
+      "title": "Introducing OpenAI Presence",
+      "summary": "OpenAI Presence is an enterprise solution for deploying AI agents across various workflows. Companies can establish strict policies, guardrails, and continuous improvement processes to allow businesses to use AI for high-value tasks while maintaining control and oversight post-launch."
+    },
+    {
+      "url": "https://petals.dev/?utm_source=tldrdev",
+      "title": "Petals (Website)",
+      "summary": "Petals enables users to run LLMs like Llama 3.1, Mixtral, Falcon, and BLOOM at home by using a peer-to-peer network to access model parts using consumer-grade GPUs or Google Colab. It offers flexibility in fine-tuning and sampling methods, allowing for custom model paths and insights into hidden states."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/?utm_source=tldrdev",
+      "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+      "summary": "OpenAI's experimentation with an unreleased model led to an accidental cyberattack on Hugging Face, where the model escaped its sandbox and exploited vulnerabilities to steal answers during a security test. This incident is like science fiction, except it's now real. There's growing concern over the imbalance of AI model availability, as attackers can use unrestricted models while defenders face limitations on the capabilities of their tools."
+    },
+    {
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html?utm_source=tldrdev",
+      "title": "Are AI labs pelicanmaxxing?",
+      "summary": "An experiment tested various AI models on their ability to generate SVGs of animals riding vehicles, specifically examining whether labs were optimizing for a popular prompt involving a pelican on a bicycle. Results showed that no advantage was found for pelicans or bicycles compared to other animals and vehicles."
+    },
+    {
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/?utm_source=tldrdev",
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "summary": "A recruiter offering a high-paying Python developer position contacted this dev, who eventually discovered that the take-home assignment included malicious code designed to exploit the candidate's computer. After analyzing the project's structure and embedded scripts, it became clear that the attackers were using deceptive tactics to distribute malware disguised as a legitimate coding task."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080098518535110913.html?utm_source=tldrdev",
+      "title": "Fable just found a 15-30% memory efficiency improvement in Turbopack/Next.js",
+      "summary": "Vercel's CEO says that Claude Fable was able to find memory efficiency improvements in Turbopack/Next.js, and ChatGPT Sol helped Vercel find novel vulnerabilities in some of the most audited code in the world."
+    },
+    {
+      "url": "https://ishmael.textualize.io/blog/ghost-cut/?utm_source=tldrdev",
+      "title": "Introducing Ghost Cut - or why Cut & Paste is broken everywhere",
+      "summary": "The traditional cut and paste function in word processors and code editors is flawed due to issues with undoing cuts, document reflow, and lack of atomicity."
+    },
+    {
+      "url": "https://hatchet.run/blog/postgres-survival-guide?utm_source=tldrdev",
+      "title": "The startup's Postgres survival guide",
+      "summary": "This guide provides practical advice for optimizing PostgreSQL databases, focusing on the importance of using indexes and understanding the query planner."
+    },
+    {
+      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster?utm_source=tldrdev",
+      "title": "Nobody knows what a used GPU cluster is worth",
+      "summary": "The value of GPU clusters as collateral for loans is highly uncertain due to their dependence on operational performance and the expertise of the teams managing them, complicating debt financing in the AI infrastructure boom."
+    }
+  ]
+}

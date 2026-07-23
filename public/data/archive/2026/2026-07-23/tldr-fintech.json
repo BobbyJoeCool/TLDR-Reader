@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-07-23",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://finovate.com/chime-launches-in-app-investing/?utm_source=tldrfintech",
+      "title": "Chime launches in-app investing",
+      "summary": "Chime has introduced commission-free stock and ETF trading alongside professionally managed portfolios, making investing available directly within its banking app with no account minimums. The launch expands Chime's strategy of becoming an all-in-one financial platform, adding wealth management to its existing banking, credit-building, and cash flow tools. The move reflects a broader fintech trend toward combining banking, investing, lending, and other financial services in a single app to increase engagement and customer lifetime value."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/?utm_source=tldrfintech",
+      "title": "Natural raises $30M to build payments infrastructure for AI agents",
+      "summary": "Natural raised a $30 million Series A led by Forerunner to build financial infrastructure that lets AI agents autonomously hold funds, make payments, collect money, and transact with humans or other agents. The startup plans to support both stablecoins and traditional bank rails, positioning itself against Stripe in a market where machine-speed commerce could generate orders of magnitude more transactions."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110474/intuit-launches-business-credit-card-that-syncs-natively-with-quickbooks?utm_source=tldrfintech",
+      "title": "Intuit launches business credit card that syncs natively with QuickBooks",
+      "summary": "Intuit today introduced Intuit Business Credit Card, a new World Elite Business Mastercard product designed to transform how small businesses manage spending, access credit, and understand their financial health in one place. For QuickBooks users, the card syncs natively with the platform they already rely on, automatically matching receipts to transactions and delivering visibility into spending and cash flow in one place. With unlimited 2% cash back on everyday purchases and 5% cash back on Intuit products and services, the card can help ensure that every dollar spent works harder to drive businesses forward."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/payments-ma-spools-up/825653/?utm_source=tldrfintech",
+      "title": "Payments M&A spools up",
+      "summary": "Payments deal activity is accelerating as depressed valuations, stablecoin infrastructure, agentic commerce, and global expansion push companies toward acquisitions and divestitures. The piece highlights Stripe's reported bid for PayPal, potential debit-network sales by Fiserv and FIS, card-network acquisitions, and continued consolidation across cross-border payments, point-of-sale software, and merchant services."
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/big-banks-record-wall-street-profits-are-increasingly-tied-to-ai-115540382.html?utm_source=tldrfintech",
+      "title": "Big banks' record Wall Street profits are increasingly tied to AI",
+      "summary": "JPMorgan, Bank of America, Citi, Goldman Sachs, and Morgan Stanley generated a record $114 billion in capital-markets revenue during the first half of 2026, driven by AI-related trading, IPOs, financing, and wealth creation. The boom is creating a powerful new earnings engine for Wall Street, but banks also face concentration risk if AI investment, valuations, or capital-market activity cool sharply."
+    },
+    {
+      "url": "https://fintechmagazine.com/news/massmutual-why-is-finance-advice-demand-rising/?utm_source=tldrfintech",
+      "title": "MassMutual: why is finance advice demand rising?",
+      "summary": "Financial uncertainty is driving demand for professional guidance, yet many Americans still delay major money decisions or never engage an advisor. 80% believe an advisor would help, but misconceptions about minimum asset requirements and distrust of online financial advice keep many on the sidelines, creating a significant opportunity for fintech companies to deliver more accessible, transparent planning tools."
+    },
+    {
+      "url": "https://appleinsider.com/articles/26/07/21/seven-years-after-apple-card-samsung-leaps-into-fintech-with-its-own-credit-card?utm_source=tldrfintech",
+      "title": "Samsung launches Galaxy Card seven years after Apple Card",
+      "summary": "Samsung's Galaxy Card is a Barclays-issued Visa that offers up to 5% cash back on Samsung purchases and 3% on transactions made through Samsung Wallet. The card deepens Samsung's push into fintech. Its appeal will depend on how seamlessly rewards and payments work inside Samsung Wallet and whether users are willing to prioritize it over more widely accepted digital wallets."
+    },
+    {
+      "url": "https://www.aboutamazon.com/news/small-business/amazon-business-affirm-buy-now-pay-later?_sp=1e577e5e-b66a-4ed0-91cc-a7da3e6e9a09&amp;utm_source=tldrfintech",
+      "title": "Amazon Business adds Affirm as its first BNPL option at checkout",
+      "summary": "Amazon Business added Affirm as its first pay-over-time option for eligible US sole proprietors, allowing approved customers to finance purchases over three to 48 months without late or hidden fees. The partnership extends Affirm's relationship with Amazon into B2B commerce, giving small businesses more flexibility to manage cash flow and fund operating purchases."
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/ramp-launches-ai-token-spend-130000381.html?utm_source=tldrfintech",
+      "title": "Ramp launches AI token spend controls",
+      "summary": "Ramp has introduced a finance platform that helps businesses monitor, optimize, and control AI spending across providers like OpenAI, Anthropic, Gemini, and Cursor as token usage becomes a rapidly growing operating expense. AI token spending across Ramp customers has increased 20.7x since June 2025, and the new product gives finance teams real time visibility, spending limits, anomaly alerts, and AI-generated insights to reduce waste. One in three early users identified opportunities to switch workloads to lower cost models, with customers reporting savings of as much as $10,000 per month through optimizations like prompt caching."
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/data-centers-track-suck-fifth-110000467.html?utm_source=tldrfintech",
+      "title": "Data centers on track to suck up a fifth of US power use by 2035",
+      "summary": "AI infrastructure is expected to consume one-fifth of all US electricity by 2035, up from 5.9% today, as demand for new data centers accelerates far faster than previous forecasts. BloombergNEF estimates data center power demand will reach 194 gigawatts, creating grid bottlenecks, increasing investment in energy infrastructure, and highlighting electricity as one of the biggest constraints on the next wave of AI growth."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute?utm_source=tldrfintech",
+      "title": "Broker Alpaca raises $435M and explores prime brokerage expansion",
+      "summary": "Alpaca raised $135 million in equity and $300 million in debt to expand its brokerage infrastructure across tokenization, agentic trading, crypto access, and global securities markets. The company also plans to move further upmarket into prime brokerage services for institutions, hedge funds, and market makers, building on its regulated US broker-dealer and recent international acquisitions."
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/ant-international-raises-12-billion-global-expansion-push-2026-07-21/?utm_source=tldrfintech",
+      "title": "Ant International raises $1.2B for global expansion",
+      "summary": "Ant International raised $1.2 billion from investors including Ant Group and Alibaba to expand merchant payments, account management, and financial services for businesses globally. The Singapore-based fintech, previously valued at about $10 billion, says its network spans 150 million merchants and 2 billion user accounts across Asia, Europe, the Middle East, and Latin America."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48135/nubank-to-acquire-banco-porto-real-de-investimentos-strengthen-brazil-operation?utm_source=tldrfintech",
+      "title": "Nubank to acquire Banco Porto Real de Investimentos, strengthen Brazil operation",
+      "summary": "Nubank aims to continue strengthening its presence in Brazil after ensuring 31.5 million people in the country now have access to accounts, credit, and savings solutions."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110473/juspay-integrates-with-recurly-to-enable-faster-go-to-market-for-subscription-businesses?utm_source=tldrfintech",
+      "title": "Juspay integrates with Recurly to enable faster go-to-market for subscription businesses",
+      "summary": "Juspay, a global payments technology company serving enterprises and banks, today announced a partnership with Recurly, a leading subscription management and recurring billing platform."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48134/augustus-secures-180-million-series-b?utm_source=tldrfintech",
+      "title": "Augustus secures $180 million Series B",
+      "summary": "Clearing bank Augustus aims to provide dollar access to banks and fintech firms around the world."
+    }
+  ]
+}

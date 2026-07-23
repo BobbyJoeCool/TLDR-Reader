@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-23",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://threadreaderapp.com/thread/2079641014067925232.html?utm_source=tldrcrypto",
+      "title": "Movement Labs Files for Chapter 11 Bankruptcy",
+      "summary": "Movement Labs, the team behind the Movement blockchain, has filed for Chapter 11 bankruptcy protection, listing $100,000 to $500,000 in assets against more than $1 million in liabilities and fewer than 1,000 creditors. Top creditors named in the filing include co-founder Rushi Manche, the Delaware Division of Revenue, and custodian Anchorage Digital. The filing caps a fallout that began with controversy over MOVE token market-making, an internal investigation, and Binance's ban of the associated market-making account. Manche exited the company in May 2025 amid that controversy and now ranks among its largest creditors in the bankruptcy proceeding."
+    },
+    {
+      "url": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=tldrcrypto",
+      "title": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement",
+      "summary": "Newly approved ethics language signed by Trump would bar federal officials, including the president, vice president, and members of Congress, from issuing digital assets, and would put the DOJ rather than state attorneys general in charge of enforcement. The provision is the last hurdle for the Clarity Act, with Senator Angela Alsobrooks calling DOJ-only enforcement \"unserious\" given Trump's financial ties to his memecoins and World Liberty Financial, while the White House blamed Democrats for any delay in passing the bill."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079891859439030635.html?utm_source=tldrcrypto",
+      "title": "Marqeta partners with Zerohash for stablecoin-linked cards",
+      "summary": "Marqeta will let customers embed stablecoin payments into card programs via Zerohash's infrastructure without new regulatory burden, targeting existing clients like Square, Uber, and Affirm. Visa ran 130+ stablecoin card programs across 50+ countries last year with volume up 319% to $5.2 billion, though Marqeta faces competition from Rain, a $1.95 billion-valued Visa principal member with better interchange economics as a direct issuer."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079612449330749738.html?utm_source=tldrcrypto",
+      "title": "Melee Launches Parimutuel Market Maker for Solana Prediction Markets",
+      "summary": "Melee, a permissionless prediction market platform on Solana, launched the Parimutuel Market Maker (PMM), a pooled betting mechanism built specifically for its markets. Instead of matching orders on a book or relying on continuous AMM liquidity, PMM collects all wagers into a shared pool and splits payouts pro-rata among winners once an outcome resolves, removing the need for a market-making counterparty. That design targets long-tail, permissionlessly-created markets where order-book depth or LP incentives would be hard to sustain. Melee frames PMM as achievable only on Solana, tying the mechanism to the chain's throughput and low-cost settlement."
+    },
+    {
+      "url": "https://www.theblock.co/post/409193/bis-warns-stablecoins-capital-controls?utm_source=tldrcrypto",
+      "title": "BIS warns USD stablecoins can evade capital controls",
+      "summary": "A Bank for International Settlements study of stablecoin flows across 130+ economies found dollar-backed stablecoins are largely unaffected by capital controls and FX restrictions, which the BIS says are less effective against stablecoins than against foreign currency bank deposits. The report warns emerging-market policymakers that stablecoin-driven dollarization is hard to reverse once established, as total USD stablecoin supply hit $292.6 billion, up from $253 billion a year earlier."
+    },
+    {
+      "url": "https://x.com/officer_secret/status/2079594342948192597?utm_source=tldrcrypto",
+      "title": "How onchain analysts demix Tornado Cash transactions",
+      "summary": "Investigators de-anonymize Tornado Cash withdrawals not by exploiting behaviors (e.g., address reuse, matching gas prices, tight deposit-withdrawal timing windows, and matched multi-note \"voucher\" counts). Open-source tools like tornado-demix (deposit-withdrawal correlation) and retrace (withdrawal-side tracking) formalize these heuristics into probabilistic candidate links, which analysts corroborate with graph analysis and off-chain intelligence rather than treating as definitive proof."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079802343202414918.html?utm_source=tldrcrypto",
+      "title": "Morpho Midnight Analysis",
+      "summary": "Morpho, which holds over $11 billion in deposits as the second-largest onchain money market, launched Midnight, letting lenders buy discounted credit units that redeem at par at maturity to create bond-like fixed rates rather than pool-based floating rates. Multi-Market Offers let a single offer serve multiple maturities and collateral types, addressing liquidity fragmentation that hurt earlier fixed-rate attempts like Yield Protocol and Notional Finance."
+    },
+    {
+      "url": "https://x.com/FTDA_US/status/2079527739288158472?utm_source=tldrcrypto",
+      "title": "Franklin Templeton: Agentic AI Is the Killer Use Case for Crypto",
+      "summary": "Autonomous AI agents transacting on their own behalf, without human intermediaries, need programmable money and permissionless settlement to pay each other, hold value, and execute transactions, making blockchain payments and on-chain identity the infrastructure layer for an emerging agent economy. This is a reason institutional investors should look beyond buying shares of AI-aligned companies as the primary way to capture AI-driven upside. The agentic use case, rather than speculative trading activity, is the source of durable, enterprise-grade demand for crypto rails. This signals growing institutional interest in crypto infrastructure tied directly to AI-agent adoption rather than token speculation."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079878095184740438.html?utm_source=tldrcrypto",
+      "title": "Wu Blockchain: Zilliqa Ledger flaw exposes private keys",
+      "summary": "Zilliqa disclosed a critical Ledger app flaw, affecting versions from 2019-2026, that lets private keys be recovered after roughly five native transactions."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079839736555073770.html?utm_source=tldrcrypto",
+      "title": "Why vaults are the wrong structure for fixed-rate lending",
+      "summary": "Pooled vaults mismatch fixed-rate loans' locked terms against depositors' expectation of on-demand withdrawal, meaning duration risk and bad debt get socialized across everyone in the pool rather than priced to a specific counterparty who chose to take it on."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079627923083112518.html?utm_source=tldrcrypto",
+      "title": "Definitive Flash API as the Execution Layer for Trading Agents",
+      "summary": "Flash API by Definitive is a cross-chain execution layer aimed at AI trading agents, packaging order types like DCA, stop loss, TWAP, and sniping behind a single integration."
+    },
+    {
+      "url": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=tldrcrypto",
+      "title": "Vietnam Sets New Crypto Trading Fines",
+      "summary": "Vietnam's Decree No. 284/2026/NĐ-CP, effective September 1, introduces tiered administrative penalties for crypto violations."
+    }
+  ]
+}

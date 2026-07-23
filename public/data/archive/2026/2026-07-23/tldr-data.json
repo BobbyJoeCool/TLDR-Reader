@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-07-23",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond?utm_source=tldrdata",
+      "title": "How Our Universal Content Processing Platform Riviera Evolved for AI and Beyond",
+      "summary": "Riviera, Dropbox's internal content processing platform, runs hundreds of thousands of transformations per second. It uses a plugin model where new file formats add a plugin rather than touching core infrastructure, so improvements such as better text extraction propagate across previews, search, and AI document preparation simultaneously."
+    },
+    {
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-2?utm_source=tldrdata",
+      "title": "DuckDB Internals: Why is DuckDB Fast? (Part 2 Vectorized Execution)",
+      "summary": "DuckDB is fast because it processes data in cache-friendly batches of 2,048 rows instead of one row at a time. Its vector formats, selection vectors, precompiled operations, and push-based pipelines reduce copying, function-call overhead, and parallel execution costs."
+    },
+    {
+      "url": "https://hatchet.run/blog/postgres-survival-guide?utm_source=tldrdata",
+      "title": "The startup's Postgres survival guide",
+      "summary": "Postgres usually fails at scale because of avoidable operational mistakes such as poor indexing, long transactions, blocking migrations, connection storms, and autovacuum falling behind. The key is to design schemas around real query patterns, keep writes and migrations non-blocking, batch heavy workloads, and monitor query plans and bloat before they cause outages."
+    },
+    {
+      "url": "https://thesis.optoinvest.com/posts/backfilling-most-underrated-feature/?utm_source=tldrdata",
+      "title": "Backfilling: the most underrated feature of a data pipeline",
+      "summary": "Backfills should use the same production pipeline as incremental loads, with configuration controlling whether it processes new data, everything, or a single record. This avoids fragile one-off scripts and, with bi-temporal writes, makes reprocessing safe and repeatable."
+    },
+    {
+      "url": "https://joereis.substack.com/p/to-every-agent-its-own-database?utm_source=tldrdata",
+      "title": "To Every Agent Its Own Database",
+      "summary": "Each agent gets a local DuckDB instance, and exchanges immutable pinned SliceRef objects containing a snapshot ID and content digest instead of mutable snapshots to avoid cache coherence problems. Semantic contracts written in Malloy define governed queries as machine-checkable artifacts, and a contract comparison layer classifies changes as identical, additive, breaking, or unrelated before any downstream computation runs."
+    },
+    {
+      "url": "https://latlng.cloud/?utm_source=tldrdata",
+      "title": "latlng (Tool)",
+      "summary": "latlng is an open-source Rust engine for indexing moving objects, running geofences, and streaming location events natively or in the browser."
+    },
+    {
+      "url": "https://datafusion.apache.org/blog/2026/07/20/sort-pushdown?utm_source=tldrdata",
+      "title": "Optimizing for Almost Sorted Data: Sort Pushdown in Apache DataFusion",
+      "summary": "Apache DataFusion now exploits exact and partial sortedness automatically for ORDER BY and ORDER BY ... LIMIT N, using Parquet min/max statistics, file reordering, and dynamic filters to avoid full scans and blocking sorts."
+    },
+    {
+      "url": "https://blog.dataengineerthings.org/ai-schema-analyzer-powered-by-iceberg-and-lakekeeper-94adc7a7c65f?utm_source=tldrdata",
+      "title": "AI Schema Analyzer: Powered by Iceberg and Lakekeeper",
+      "summary": "Iceberg and Lakekeeper are used to build an AI schema-drift impact analyzer for lakehouse tables, turning schema changes into near-real-time alerts and recommendations. The flow is: query engines issue DDL, Lakekeeper updates the Iceberg catalog and emits change events to Kafka/Redpanda, and a FastAPI + aiokafka + Anthropic service analyzes impact within seconds without scanning table metadata. Output is delivered to Slack and SQLite."
+    },
+    {
+      "url": "https://arxiv.org/pdf/2607.13276?utm_source=tldrdata",
+      "title": "Aurora DSQL: Scalable, Multi-Region OLTP",
+      "summary": "Aurora DSQL provides PostgreSQL-compatible, strongly consistent, active-active multi-region OLTP without managing servers, shards, replicas, or failover, with cross-region latency mostly paid at commit. Teams still need short transactions and must work around current limits such as 3,000 rows or 10 MiB per transaction and no enforced foreign keys."
+    },
+    {
+      "url": "https://machinelearningmastery.com/the-current-state-of-agentic-ai/?utm_source=tldrdata",
+      "title": "The Current State of Agentic AI",
+      "summary": "Production systems now deploy specialized agent teams, such as triage, SQL, and Python agents, with MCP connecting them to systems like GitHub, Slack, and PostgreSQL. Persistent memory graphs extract facts from execution histories so agents accumulate organizational knowledge across calls, and multi-agent handoffs introduce lateral prompt injection risks addressed through cryptographic tool provenance and ephemeral sandboxes."
+    },
+    {
+      "url": "https://performancede.substack.com/p/lakekeeperminio?utm_source=tldrdata",
+      "title": "LakeKeeper+MinIO",
+      "summary": "DuckDB's Iceberg extension now supports CTAS, MERGE INTO, INSERT, UPDATE, and DELETE, making it viable for full CRUD-style Iceberg ETL locally without Spark. Paired with MinIO for S3-compatible storage and LakeKeeper as a Rust Iceberg catalog, teams can test scripts cheaply in Docker and switch to AWS S3Tables by toggling environment variables and secrets."
+    },
+    {
+      "url": "https://medium.com/@vincent_daniel/optimizing-cte-on-apache-spark-when-to-cache-and-when-not-to-0fe764766a63?utm_source=tldrdata",
+      "title": "Smart caching with CTE on Spark",
+      "summary": "Spark recomputes reused and nested CTEs by default, so cache selectively at fan-out points when intermediate results are complex, fit in memory, and reused. Avoid caching huge or trivial datasets, use eager caching for clearer monitoring, and materialize deep transformation chains to reduce redundant work and prevent stack overflows."
+    },
+    {
+      "url": "https://deepsql.ai/blog/the-database-is-a-liability-you-cant-revert?utm_source=tldrdata",
+      "title": "The Database Is a Liability You Can't Revert",
+      "summary": "Database schema decisions can create years of costly technical debt, so irreversible choices like primary keys, partitioning, and column types need strong guardrails before they reach production."
+    },
+    {
+      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/?utm_source=tldrdata",
+      "title": "If You Think You Can Do Real-World Text-to-SQL",
+      "summary": "Text-to-SQL benchmarks overstate performance because real data warehouses are messy and complex."
+    }
+  ]
+}
