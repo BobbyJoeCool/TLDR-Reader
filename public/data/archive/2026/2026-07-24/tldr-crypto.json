@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-24",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently?utm_source=tldrcrypto",
+      "title": "BitMEX to shut down permanently 11 years after Inception",
+      "summary": "BitMEX, which popularized the 100x leverage perpetual swap, will close on September 23 after owner HDR Global Trading's board completed a strategic review following a failed 2025 sale process. New registrations have stopped, and risk limits kick in on August 26 to force an orderly unwind. Users who leave assets past closure will be charged the greater of $50 or 1% annually."
+    },
+    {
+      "url": "https://www.theblock.co/post/409470/bipartisan-support-critical-as-democrats-push-back-on-gop-crypto-bill-on-ethics-grounds?utm_source=tldrcrypto",
+      "title": "Bipartisan support critical to pass Clarity Act Crypto Bill",
+      "summary": "Senate Republicans released a 616-page Clarity Act draft that won crypto-industry praise but drew Democratic opposition over ethics provisions tied to Trump's crypto holdings. The current text bars officials and spouses (not other family) from issuing digital assets, hands enforcement to the DOJ, and sunsets in January 2029. Sens. Alsobrooks, Gallego, Booker, and Cortez Masto have signaled they won't support it as written, while Elizabeth Warren called it \"dead on arrival\". Banking groups separately oppose the bill over stablecoin rewards competing with bank deposits."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079976517929726363.html?utm_source=tldrcrypto",
+      "title": "Altitude launches accounting integration for stablecoin payments",
+      "summary": "Altitude launched Altitude Accounting, syncing onchain and fiat transactions directly into ERP/QuickBooks without a separate subledger, running on Solana-indexed data. The release also expands Altitude Agent to auto-categorize transactions and gives businesses a single global account spanning 150+ countries with bank rails, cards, and bill pay."
+    },
+    {
+      "url": "https://ethresear.ch/t/institutional-rwas-mitigating-t-0-risks-via-hardcoded-200-collateral/25510?utm_source=tldrcrypto",
+      "title": "Institutional RWAs: Mitigating T+0 Risks via Hardcoded 200% Collateral",
+      "summary": "RWA tokenization protocols face a structural settlement mismatch: on-chain redemptions settle at T+0 while underlying assets operate on T+1, T+2, or OTC timelines, creating delta risk that cash reserves alone cannot absorb. Synchronized redemption pressure during market stress can drain protocol liquidity before off-chain collateral can be liquidated, triggering cascading failures and secondary market panic. A proposed V4 architecture hardcodes 200% over-collateralization via immutable smart contract logic, upgrading from a V3 baseline of 150% that stress-testing exposed as insufficient under extreme volatility. The design guarantees 100% on-chain redemption coverage even if half the collateral value is compromised or locked off-chain, at the cost of capital inefficiency relative to lower-collateral designs."
+    },
+    {
+      "url": "https://x.com/0xJeff/status/2079929079684587603?utm_source=tldrcrypto",
+      "title": "The Rise of Inference Capital Markets",
+      "summary": "AI compute shortfalls have catalyzed a five-layer onchain inference capital market, seeded by Venice AI's VVV/DIEM tokenomics where staked VVV mints daily-expiring DIEM credits backed by a buyback/burn mechanism, proving the model for 10+ competing onchain inference players now vying for market share. Agentic harnesses (general-purpose and coding) consume 10-100x more tokens than conversational AI, making inference the primary dynamic variable cost for AI operators and driving sustained demand for cheaper onchain alternatives. The market segments into spot markets enabling new trading venues, gateways/routers serving immediate demand, and inference networks, with secondary markets emerging where unused subscriber credits and idle GPU capacity trade at 20-80% discounts to retail inference pricing. Morpho hosts a wstDIEM/DIEM lending market where the LSD version of DIEM functions as collateral for leveraged farming at roughly 56% APR via Liquid protocol, though thin liquidity currently caps deployable scale."
+    },
+    {
+      "url": "https://x.com/PanteraCapital/status/2079628944215851326?utm_source=tldrcrypto",
+      "title": "Pantera Blockchain Letter, July 2026",
+      "summary": "Pantera Capital and S&P Dow Jones Indices launched the S&P Pantera Digital Asset Index, a rules-based benchmark that screens constituents for consecutive quarters of positive protocol revenue (above a minimum threshold), with Artemis-verified tokenholder value accrual via buybacks, net staking yields, distributions, or tokenholder-controlled treasuries, and explicitly excludes Bitcoin, memecoins, and economically inactive chains. The index launches with 18 constituents, including Hyperliquid, Solana, and Aave, representing over $3bn in annualized protocol revenue, weighted by float-adjusted market cap. Backtests show the financial viability screen outperformed S&P's Broad Digital Asset Index over the past five years, and the product targets a documented institutional gap: J.P. Morgan Private Bank data shows 89% of family offices hold no digital assets, while EY-Parthenon finds 60% of institutions prefer registered vehicles over direct exposure. Pantera Fund V is also now available on Morgan Stanley's Alternative Investments platform, the first blockchain venture fund distributed through a Tier 1 wealth platform, giving more than 16,000 financial advisors access."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2079942659372659085.html?utm_source=tldrcrypto",
+      "title": "Andre Cronje on SEC Commissioner Peirce's Crypto Vaults Statement",
+      "summary": "SEC Commissioner Hester Peirce's statement on crypto vaults frames curator-managed products as enterprise activity subject to securities oversight, a position Yearn Finance creator Andre Cronje endorses while arguing lending markets should be fully permissionless and user-controlled. Cronje noted that truly permissionless lending markets do not yet exist but expects them to arrive soon."
+    },
+    {
+      "url": "https://cointelegraph.com/news/crypto-home-invasions-wrench-attacks-certik-h1-2026?utm_source=tldrcrypto",
+      "title": "Home invasions became most common crypto wrench attack in H1 2026",
+      "summary": "CertiK recorded 52 verified physical attacks on crypto holders in H1 2026, a 33.3% increase from 39 in H1 2025, with financial exposure rising almost 12x to $124.1 million from $10.5 million year-over-year. Home invasions surged from one incident to 20, displacing kidnappings as the primary attack method. Europe accounted for 39 of 52 cases, with France alone responsible for 33, a concentration CertiK linked to data breaches that tied real-world identities to home addresses and on-chain wealth signals. French authorities deployed a rapid-alert system resulting in 200 arrests, while CertiK recommended multisignature wallets, withdrawal delays, spending limits, and signers held in separate physical locations."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080158583875067997.html?utm_source=tldrcrypto",
+      "title": "Verus-Ethereum bridge exploited again for $7.53 million",
+      "summary": "An attacker exploited the Verus-Ethereum bridge's import mechanism to trigger unbacked payouts, draining ETH, tBTC, USDC, USDT, EURC, MKR, and scrvUSD using the same failure mode as May's $11.4 million exploit."
+    },
+    {
+      "url": "https://www.theblock.co/post/409497/circle-partners-with-kakao-toss?utm_source=tldrcrypto",
+      "title": "Circle partners with Kakao, Toss Bank on stablecoin payment rails",
+      "summary": "Circle signed an MOU with Kakao Group and a separate partnership with Toss Bank to explore blockchain-based payment infrastructure in South Korea."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080191334426546390.html?utm_source=tldrcrypto",
+      "title": "Hands-on review of Avici, a self-custodial onchain neobank",
+      "summary": "Avici offers self-custodial Visa cards, a personal EUR IBAN with instant SEPA-to-USDC conversion, stablecoin yield of 3.2–5%, access to tokenized stocks and private-market investments like OpenAI and Anthropic, and no swap or withdrawal fees."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080233587886919917.html?utm_source=tldrcrypto",
+      "title": "EU expands Russia sanctions to more crypto platforms",
+      "summary": "The EU's 21st Russia sanctions package places 94 Russian financial institutions and the Moscow Exchange under full sanctions, expands transaction bans on additional crypto platforms, targets shadow-fleet vessels for the first time, and freezes the Russian oil price cap at $44.10/barrel for 12 months."
+    }
+  ]
+}

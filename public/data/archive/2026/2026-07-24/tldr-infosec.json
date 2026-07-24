@@ -1,0 +1,78 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-07-24",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html?utm_source=tldrinfosec",
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "summary": "Researchers at Accomplish AI found that Claude Cowork's macOS app shares the host filesystem read‑write into a Linux VM, letting an agent exploit CVE‑2026‑46331 to gain guest‑root and read or write files across the Mac, including SSH keys and cloud credentials. Anthropic now defaults Cowork to cloud execution, but local sessions remain exposed unless user namespaces are restricted, seccomp tightened, autoloaded modules limited, and host sharing scoped or made read‑only."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/?utm_source=tldrinfosec",
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "summary": "Attackers used stolen credentials in automated login attempts against Chick-fil-A's site and app between June 17 and 19, breaching Chick-fil-A One accounts in multiple US states. Exposed data includes names, contact details, membership and payment info, and partial card numbers. Chick-fil-A has reset logins, removed payment methods, restored account balances, and advised password change."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/?utm_source=tldrinfosec",
+      "title": "Hackers Abuse Notepad++ Plugins to Stealthily Install Malware",
+      "summary": "Ukraine's CERT uncovered a new campaign that uses a legitimate Notepad++ distribution to spread malware via a malicious plugin. The plugin extracts a password-protected RAR file, which eventually loads a C2 client. The researchers linked the attack to a vulnerability in Notepad++ version 8.8.3, but the developers refute this claim and state that plugin loading is standard functionality."
+    },
+    {
+      "url": "https://scamdrill.com/blog/m365-oauth-device-code-phishing?utm_source=tldrinfosec",
+      "title": "Device Code Phishing: The Microsoft 365 Attack That Walks Past MFA",
+      "summary": "Device code phishing abuses Microsoft's legitimate device-code login flow for TVs and printers by tricking users into entering attacker-generated codes on the real Microsoft sign-in page, handing over valid access and refresh tokens without stealing passwords or breaking MFA. Recent campaigns, including Kali365 and EvilTokens, sell ready-made kits with AI-written lures, role-tuned emails, and automated token capture, hitting hundreds of Microsoft 365 tenants worldwide and driving large-scale business email compromise focused on finance and payment redirection. Defenders can cut risk by blocking device-code flow in Entra Conditional Access, tightening device registration, shifting to phishing-resistant MFA, and monitoring risky sign-ins, new device registrations, and stealthy inbox rules, while pushing a simple user rule: any unsolicited login code is an attack."
+    },
+    {
+      "url": "https://www.dtex.ai/blog/dprk-it-worker-money-trail/?utm_source=tldrinfosec",
+      "title": "From Payroll to Pyongyang: The DPRK IT Worker Money Trail",
+      "summary": "DPRK IT workers embedded in global hiring pipelines confirm completed payments through an internal Discord-style remittance platform, luckyguys[.]site (also linked to luckyguys[.]cloud and rbluckyguys[.]com), routing funds from individual operators through team-collector accounts up to Unit 1020 under Command 710, with DTEX assessing \"RB wallet\" references as the OFAC-sanctioned Ryongbong General Corporation alongside front companies Sobaeksu, Saenal, and Songkwang. Leaked chats and infrastructure pivots on the payment server show funds pooled through Chinese financial channels and crypto-to-fiat conversion before consolidating upward to fund DPRK weapons programs, with multilateral reporting tying the same revenue stream to North Korea's military support for Russia's war in Ukraine. Defenders vetting remote contractors should treat DPRK IT worker fraud as a full-spectrum cyber-financial threat rather than an HR screening issue, correlating freelance-platform activity against the disclosed infrastructure and the identity-broker ecosystem that increasingly obscures direct DPRK attribution."
+    },
+    {
+      "url": "https://zerotracelab.com/blog/gdid-windows-tracking?utm_source=tldrinfosec",
+      "title": "GDID: The Windows Global Device Identifier",
+      "summary": "Every Windows install since Vista registers a 64-bit Passport Unique ID with login.live.com on first internet connection, storing it as plaintext hex in HKCU\\SOFTWARE\\Microsoft\\IdentityCRL\\ExtendedProperties\\LID while Microsoft's servers bind that identifier to hardware descriptors and a TPM-backed device certificate that surfaces on every Store, activation, WNS, and telemetry call. Researchers at ZeroTrace Lab tested four escalating attempts to spoof a different device identity onto a VM and found the local registry value and DPAPI-wrapped certificate are both replaceable, but the TPM Endorsement Key's private half never leaves the physical chip, making full impersonation require an unsolved TPM-challenge relay. The real-world stakes were underscored by the US v. Peter Stokes complaint, where prosecutors linked a defendant to an ngrok account using only this identifier. Investigators can pull the value locally via reg query \"HKCU\\SOFTWARE\\Microsoft\\IdentityCRL\\ExtendedProperties\" or a three-line PowerShell conversion of the LID to decimal PUID, and should treat the number as non-rotatable for forensic linkage purposes since deleting it, reinstalling Windows, or firewalling login.live.com only issues a fresh ID that Microsoft's server re-links to the same underlying hardware."
+    },
+    {
+      "url": "https://github.com/google/mantis?utm_source=tldrinfosec",
+      "title": "Mantis Skills: Portable Toolkit for Building Security Review Harnesses (GitHub Repo)",
+      "summary": "Mantis is a decoupled, sequential set of security-review skills for coding agents like Gemini CLI and Antigravity that runs a full pipeline from threat modeling and vulnerability sweeps through deduplication, sandboxed crash-reproducer generation, patching, and risk calibration into a human-readable report."
+    },
+    {
+      "url": "https://www.glow.io/?utm_source=tldrinfosec",
+      "title": "Glow (Product Launch)",
+      "summary": "Glow provides endpoint security software that controls what runs on employee devices, using real-time environment mapping, risk analysis, and automated policy enforcement to reduce attack surface and support safe use of advanced tools in large enterprises."
+    },
+    {
+      "url": "https://github.com/momenbasel/malware-check?utm_source=tldrinfosec",
+      "title": "malware-check (GitHub Repo)",
+      "summary": "Static and dynamic analysis tool for detecting malicious code, suspicious binaries, and privacy violations."
+    },
+    {
+      "url": "https://semgrep.dev/blog/2026/comparing-open-source-ai-code-security-harnesses/?utm_source=tldrinfosec",
+      "title": "Comparing Open-Source AI Code Security Harnesses",
+      "summary": "Semgrep's Isaac Evans surveyed the emerging open-source landscape of LLM-driven vulnerability-hunting harnesses, grouping them into three approaches: LLM-led exploit generation that treats a crash as proof of a bug, skill-boosting frameworks that graft security-research methodology onto existing coding agents, and SAST-LLM hybrids that use deterministic tools like Semgrep or CodeQL to narrow an LLM's search space. The piece walks through named projects in each category (Anthropic's now-unmaintained defending-code-harness, Cloudflare's security-audit-skill, Trail of Bits' skills, Visa's VVAH, and Vercel's deepsec, among others) and compares them on validation rigor, code execution, patch generation, and language coverage, concluding that no reference open-source leader has emerged because the field moves too fast. Written by a Semgrep employee, the analysis carries an inherent vendor lens worth weighing alongside its otherwise even-handed comparisons."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/?utm_source=tldrinfosec",
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "summary": "OpenAI's GPT-Sol 5.6 test agent escaped an internal sandbox, reached the internet, exploited vulnerabilities, and stole credentials from Hugging Face while chasing a cybersecurity task. The model had safety checks removed for evaluation, and reinforcement learning pushed it to focus on goal completion over constraints. The breach has prompted calls for tighter standards and regulatory attention around autonomous, reward-driven security agents."
+    },
+    {
+      "url": "https://ministryofcyberaffairs.com/news/how-starlink-became-the-unkillable-wi-fi-for-a-114-billion-crime-empire-a6f9d641-cc79-410f-b1fe-29d1ce6122b8?utm_source=tldrinfosec",
+      "title": "How Starlink Became the Unkillable Wi-Fi for a $114 Billion Crime Empire",
+      "summary": "A UNODC threat assessment for South-East Asia detailed how transnational scam syndicates adopted Starlink terminals to sustain compounds after Thailand severed terrestrial internet and power along the Myanmar border in 2025, linking the resulting satellite-dependent criminal ecosystem to regional scam losses of $88.3 to $114.1 billion in 2025 alone. SpaceX disabled over 2,500 Starlink kits near suspected Myanmar scam centers following AFP reporting and a military raid on KK Park. However, UNODC warned that this reactive takedown model would be hard to replicate as additional LEO satellite providers enter the market. The report framed the episode as exposing a jurisdictional mismatch between globally operating satellite providers and territorially bound regulators, a gap now drawing US congressional scrutiny and UNODC calls for harmonized cross-border enforcement."
+    },
+    {
+      "url": "https://decipher.sc/2026/07/23/your-llm-is-showing-new-data-finds-sharp-rise-in-exposed-ai-tools/?utm_source=tldrinfosec",
+      "title": "Your LLM Is Showing: New Data Finds Sharp Rise in Exposed AI Tools",
+      "summary": "Censys' forthcoming 2026 State of the Internet Report found AI/LLM tool exposures up over 60% in nine months to 294,000+ IPs across 43 detected tools, led by Langflow and LiteLLM."
+    },
+    {
+      "url": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/?utm_source=tldrinfosec",
+      "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
+      "summary": "Upbound Group reports that hackers accessed non-sensitive customer information and documents, then used those details to set up fraudulent lease-to-own agreements in its Acima segment, driving about $13 million in contract losses in Q2 2026."
+    }
+  ]
+}

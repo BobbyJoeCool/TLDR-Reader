@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-07-24",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitaltrends.com/phones/google-photos-adds-a-quick-toggle-between-ai-and-classic-search/?utm_source=tldrdesign",
+      "title": "Google Photos Adds a Quick Toggle Between AI and Classic Search",
+      "summary": "Google Photos introduced a toggle letting users switch instantly between Gemini-powered Ask Photos and classic keyword search, without navigating through settings. The addition responds to user complaints about irrelevant AI results and the previous absence of a quick way back to classic search, following a mid-2025 rollout pause. Users can now choose their preferred search mode per query, though Google still applies its own judgment about which system fits, and non-adopters must complete onboarding before accessing the AI option."
+    },
+    {
+      "url": "https://webflow.com/blog/mcp-2-features?utm_source=tldrdesign",
+      "title": "Webflow MCP 2.0 is a Big Upgrade. Here's What it Can Do",
+      "summary": "Webflow's MCP 2.0 upgrade lets AI agents build components from screenshots, edit over 50 CSS-variable design tokens per conversation, and query analytics conversationally, without needing the previous bridge app for most tasks. New \"Instructions\" features—rules and skills—let teams embed always-on guardrails and on-demand workflows directly into Webflow for agent use. Additional capabilities include managing forms, assets, page branches, custom code, and Enterprise-level site history tracking."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/23/samsung-has-just-given-us-a-preview-of-the-creaseless-iphone-ultra-display/?utm_source=tldrdesign",
+      "title": "Samsung has just given us a preview of the creaseless iPhone Ultra display",
+      "summary": "Apple is expected to unveil its first foldable iPhone, likely called the iPhone Ultra, in September after waiting for foldable display technology to mature and for Samsung to eliminate the screen crease. Samsung's new Galaxy Z Fold 8 Ultra demonstrates a nearly crease-free display that is believed to closely match the panel Apple will use, marking a significant improvement over previous generations."
+    },
+    {
+      "url": "https://uxdesign.cc/how-to-apply-nir-eyals-hook-model-to-ai-products-safely-f6a986305a2d?utm_source=tldrdesign",
+      "title": "How to Apply Nir Eyal's Hook Model to AI Products, Safely",
+      "summary": "Nir Eyal's Hook Model—trigger, action, reward, investment—maps onto AI products almost perfectly, with variable rewards and frictionless chat boxes arriving nearly pre-built. Eyal's own \"Manipulation Matrix\" and regret test offer a check: products that improve users' lives and that builders would use themselves qualify as facilitators, while those failing both tests risk becoming exploitative \"dealers.\" The loop measures consumption, not benefit, so real success requires tracking outcomes like time saved rather than engagement metrics like messages sent."
+    },
+    {
+      "url": "https://thedesignersfieldguide.substack.com/p/how-to-turn-your-competitors-worst?utm_source=tldrdesign",
+      "title": "How to Turn Your Competitor's Worst Reviews Into Your Strongest Design Argument",
+      "summary": "Designers can turn competitors' negative reviews into persuasive evidence, since scattered complaint patterns reveal gaps stakeholders can't dismiss as opinion. Mining sources like Reddit, G2, and Trustpilot for recurring 1-2 star complaints—time-boxed and counted, not curated—surfaces real user language and frustration clusters. Charting these clusters' frequency converts qualitative gripes into data-backed arguments that move stakeholder conversations from opinion to evidence."
+    },
+    {
+      "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c?utm_source=tldrdesign",
+      "title": "AI can fake your portfolio. It can't fake the second question",
+      "summary": "AI has made polished portfolios, case studies, and take-home assignments easy to generate, shifting the real proof of a designer's ability from artifacts to live conversations where they must explain, defend, and reflect on their decisions under pressure. Future interviews will increasingly focus on these \"room tests,\" which reveal judgment, trade-off thinking, and experience through unscripted follow-up questions rather than polished presentations. The solution isn't to perfect portfolios but to regularly practice articulating decisions, discussing failures, and defending work in real time, because those skills are becoming the strongest signal of genuine expertise."
+    },
+    {
+      "url": "https://www.ditto.site/?utm_source=tldrdesign",
+      "title": "Clone Any Website (Website)",
+      "summary": "Ditto is an open-source deterministic website cloner. Point it at any site and receive a copy with clean, componentized Next.js or Vite code within 5 minutes."
+    },
+    {
+      "url": "https://loova.ai/?utm_source=tldrdesign",
+      "title": "All-in-One Creative Suite (Website)",
+      "summary": "Loova brings together top AI models like Seedance 2.0, Nano Banana Pro, Sora 2, VEO 3.1, and Kling O1 in one powerful platform."
+    },
+    {
+      "url": "https://toontone.games/?utm_source=tldrdesign",
+      "title": "Cartoon Color Guessing Game (Website)",
+      "summary": "Toon Tone is a free cartoon color guessing game where your memory for animated characters gets tested using hue, saturation, and lightness controls."
+    },
+    {
+      "url": "https://the-brandidentity.com/typeface/how-did-studio-chapeaux-build-a-typeface-specifically-for-packaging?utm_source=tldrdesign",
+      "title": "How did Studio Chapeaux build a typeface specifically for packaging?",
+      "summary": "Studio Chapeaux argues that typography has become the most important element of packaging design, with bold, distinctive typefaces outperforming logos and illustrations by remaining legible, expressive, and impactful on crowded shelves. To demonstrate this approach, the studio created SC Ostrea, a custom typeface designed specifically for its oyster and beer brand, showing how typography can become an integral part of a product's identity rather than a supporting element. The project also marks the beginning of a type foundry focused on packaging, addressing what the studio sees as a lack of typefaces optimized for high-impact commercial products."
+    },
+    {
+      "url": "https://designwanted.com/scintillab-stem-design-science-classroom/?utm_source=tldrdesign",
+      "title": "What if Design Could Make Science Irresistible to Kids?",
+      "summary": "Scintillab, an educational kit co-designed by Fondazione OpenDot with Fondazione Agnelli, Ferrari, and CNR, brings hands-on STEM experimentation into Italian primary school classrooms. In its first year, 2025/2026, it has reached 59 schools and about 4,700 students across six provinces, with plans to expand nationally to 15,000 students. Built on inquiry-based learning, it uses simple tools like shadow theatres and ramps, encouraging children to experiment and learn from mistakes rather than lectures."
+    },
+    {
+      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking?utm_source=tldrdesign",
+      "title": "AI Mania is Eviscerating Global Decision-Making",
+      "summary": "Companies overwhelmingly fail at AI adoption, yet fear and internal politics prevent executives, employees, and vendors from admitting these failures publicly or privately. This dynamic forces organizations to fake AI success, punish honest skeptics, and prioritize \"AI-washing\" projects over genuinely useful work. The result is widespread paralysis in institutional decision-making, with practical survival advice offered for professionals stuck navigating this manufactured mania."
+    },
+    {
+      "url": "https://www.creativebloq.com/tech/laptops/we-have-the-opportunity-to-change-the-way-we-use-computers-lenovos-design-chief-on-ai-modularity-and-the-death-of-the-keyboard?utm_source=tldrdesign",
+      "title": "Lenovo's Design Chief on AI, Modularity, and the Death of the Keyboard",
+      "summary": "Lenovo's design VP says AI is shifting computing from manual input toward users directing outcomes through personalised, intent-based interaction."
+    },
+    {
+      "url": "https://abduzeedo.com/lu-yan-crafts-dieter-rams-inspired-system-icon-design?utm_source=tldrdesign",
+      "title": "Lu Yan Crafts Dieter Rams Inspired System Icon Design",
+      "summary": "Rams System Icons reimagines skeuomorphic design with Braun-inspired aesthetics, combining tactile hardware details, clean typography, and a strict grid system to create a modern, highly functional icon set."
+    },
+    {
+      "url": "https://weandthecolor.com/why-substack-is-becoming-the-default-home-for-content-creators-and-creative-professionals/210873?utm_source=tldrdesign",
+      "title": "Why Substack is Becoming the Default Home for Content Creators and Creative Professionals",
+      "summary": "Substack surpassed 50 million active subscriptions and 5 million paid ones, drawing designers, illustrators, and other creative professionals away from algorithm-driven platforms like Instagram and LinkedIn."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-07-24",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.michaeldempsey.me/blog/2026/07/23/power-status-and-legitimacy-in-tech/?utm_source=tldrfounders",
+      "title": "Power, Status, and Legitimacy in Tech",
+      "summary": "What made someone admirable in one era can look quite different the next. Founders must continually reevaluate what earns legitimacy in order to survive these cycles. One could opt to not play in this game, but this would go against the industry's broad desire to change the world. It would be bad for tech to be more culturally and socially isolationist at the exact moment it gained the most power over culture and society."
+    },
+    {
+      "url": "https://x.com/zachlloydtweets/status/2080017115138994207?utm_source=tldrfounders",
+      "title": "The Problem with Hypergrowth AI Startups",
+      "summary": "With every AI startup seemingly hitting $100 million ARR in record time, this article asks how much of that revenue is actually theirs. A company can book $100 million and send $90 million straight to Anthropic, OpenAI, or another model provider. Cheaper models do not necessarily fix it. Customers will expect the savings or bring the inference they already pay for. For your own startup, ask what they would still pay for if the model were free. That is the part of the product you own."
+    },
+    {
+      "url": "https://insights.euclid.vc/p/the-open-weight-unbundling-jake-saper-emergence-capital?utm_source=tldrfounders",
+      "title": "The Open-Weight Unbundling",
+      "summary": "Kimi K3 is the latest in a series of open-weight models. Open-weight models are estimated to be used in 80% of startups. They represent 25% to 50% of the volume across major platforms like OpenRouter and Vercel. The gap between frontier and open-weight performance has compressed to 4 to 6 months and appears to be shrinking."
+    },
+    {
+      "url": "https://x.com/lindaxue/status/2074207099664683191?utm_source=tldrfounders",
+      "title": "VROOM Postmortem: What We Got Wrong About Events",
+      "summary": "VROOM started with a convincing idea. Event planners carry a list of venues, vendors, and prices in their heads, so why not turn it into software for a $90 billion market? Four months later, the team learned that prices went stale, coordination was not that hard, and customers were really paying for trust. They spoke to planners, but translated trust into \"information asymmetry.\" For your own startup, ask whether the expert's advantage still works after that person leaves. If it lives in relationships, you may be building a service."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080331924732850687.html?utm_source=tldrfounders",
+      "title": "Now in beta: Notion as code",
+      "summary": "Notion as code allows users to define and deploy an entire workspace in TypeScript. Users can build workspaces with coding agents, version-control the setup in git, and reproduce the same setup anywhere required. They can review every change and keep a clear history of how the work evolves in git. The same script can be used across dev, staging, and production."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080024320844452288.html?utm_source=tldrfounders",
+      "title": "Rogo Intelligence",
+      "summary": "Rogo Intelligence transforms firms' expertise into reusable institutional memory. It sits between a firm's knowledge and the AI systems that use it, forming fragmented information into structured and governable institutional memory. Rogo Intelligence transforms a firm's intelligence into durable infrastructure that is governed, permissioned, reusable, and continuously improving. This will allow firms to create an enduring advantage as frontier models continue to improve."
+    },
+    {
+      "url": "https://x.com/viks_rum/status/2075905915614842920?utm_source=tldrfounders",
+      "title": "Forward Deployment: The Roles, the Myths and the Legends",
+      "summary": "Everyone is hiring forward-deployed engineers now, but the title is starting to mean almost anything. An actual deployment means flying into a customer's operation, meeting everyone who touches the problem, and shipping a first version in about a week. Deployment one is ugly. By deployment ten, templates and integrations should turn most of the work into configuration. If customer ten still needs the same people and hours as customer one, you built a consultancy with a software demo."
+    },
+    {
+      "url": "https://colossus.com/article/invisible-companies/?utm_source=tldrfounders",
+      "title": "Invisible Companies",
+      "summary": "Steve Ross started by renting his father-in-law's unused funeral limousines at night. He added parking lots, cleaning companies, plumbing, and other fairly boring businesses. That collection eventually bought Warner Bros. These companies were attractive because ambitious people rarely bothered to look at them. Constellation Software found a similar opportunity in tiny software businesses serving marinas, funeral homes and libraries. There may now be more than 38,000 of these vertical software companies. Perhaps for your own startup, look one or two layers beneath the industry everyone is chasing. The better business may be selling to the supplier nobody at the conference thought was worth meeting."
+    },
+    {
+      "url": "https://x.com/Nithin0dha/status/2074098865511563473?utm_source=tldrfounders",
+      "title": "Why \"A Nice Place to Work\" Doesn't Just Happen",
+      "summary": "A new Zerodha employee knew the company does not push customers to trade, but could not explain why. For a 16-year-old business whose reputation rests on that decision, onboarding had preserved the rule but lost the reason. The same culture shows up in smaller choices. No 3 AM emails, no weekend work, and no random founder ideas derailing engineering. It can take almost two years for an employee to contribute properly, so burning people out at year two is expensive. Try asking a recent hire what your company refuses to do and why. If they only know the slogan, onboarding fails."
+    },
+    {
+      "url": "https://x.com/Chrismccann/status/2080360410713325783?utm_source=tldrfounders",
+      "title": "Series A is Discontinuous",
+      "summary": "Investors are now asking whether companies can become extreme outliers rather than whether they are strong companies."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2078196643879350331.html?utm_source=tldrfounders",
+      "title": "Doing 100% of Gumroad support while having a day job",
+      "summary": "This post looks at how to use agents to run Gumroad support from a phone."
+    },
+    {
+      "url": "https://x.com/terenzeyuen/status/2074491357930959253?utm_source=tldrfounders",
+      "title": "One Copy Change, 62% More Conversions",
+      "summary": "People open your product because they want something to happen."
+    },
+    {
+      "url": "https://www.svpg.com/the-ai-productivity-paradox/?utm_source=tldrfounders",
+      "title": "The AI Productivity Paradox",
+      "summary": "Adoption and investment in AI is growing, but sustained impact on performance is elusive."
+    },
+    {
+      "url": "https://www.veradiverdict.com/p/the-founder-market-fit-thesis?utm_source=tldrfounders",
+      "title": "The Founder Market Fit",
+      "summary": "Founder-market fit, the pairing of a specific founder to a specific market, is the most durable signal in venture."
+    }
+  ]
+}

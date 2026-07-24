@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-07-24",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://x.com/christinexzhu/status/2079922517469225362?utm_source=tldrproduct",
+      "title": "What systems thinking looks like for PM'ing AI products",
+      "summary": "AI products must be cultivated as evolving systems rather than designed as isolated features. Product teams can create lasting differentiation by building reusable interfaces, shared contracts, and feedback loops that help agents improve over time."
+    },
+    {
+      "url": "https://theskip.substack.com/p/inside-pm-at-stripe-what-comes-after?utm_source=tldrproduct",
+      "title": "What Comes After \"Become a Builder\"? (61 minute podcast)",
+      "summary": "As AI makes building easier, product managers must differentiate themselves through judgment, conviction, and customer impact. The best PMs build systems that scale their expertise and help teams make better decisions independently."
+    },
+    {
+      "url": "https://diginomica.com/most-ai-rollouts-fail-due-change-management-not-tech-we-learned?utm_source=tldrproduct",
+      "title": "Most AI rollouts fail due to change management, not technology",
+      "summary": "Enterprise AI succeeds when companies treat it as a people transformation, not simply a software rollout. Leaders must create safe conditions for experimentation while helping effective employee-led workflows spread across the organization."
+    },
+    {
+      "url": "https://blog.gopenai.com/why-your-ai-product-has-no-memory-and-why-thats-destroying-user-retention-938247376e8a?utm_source=tldrproduct",
+      "title": "Why Your AI Product Has No Memory",
+      "summary": "AI products improve retention by remembering relevant user context instead of making every session start over."
+    },
+    {
+      "url": "https://kristenberman.substack.com/p/want-users-to-stick-around-these?utm_source=tldrproduct",
+      "title": "Want users to stick around? These 5 onboarding teardowns show you how",
+      "summary": "Effective onboarding helps users experience value by guiding them toward one important behavior. The best flows combine timely instruction, purposeful questions, and immediate action to build trust and encourage repeat use."
+    },
+    {
+      "url": "https://platformengineering.org/blog/five-product-management-principles-for-internal-developer-platforms?utm_source=tldrproduct",
+      "title": "Five product management principles for internal developer platforms",
+      "summary": "Successful developer platforms make the right workflows easier and continuously improve based on developer outcomes."
+    },
+    {
+      "url": "https://x.com/thedankoe/status/2036824811712942576?utm_source=tldrproduct",
+      "title": "How to become so creative it feels illegal",
+      "summary": "Creativity thrives when the mind has space to wander, process experiences, and notice unexpected connections. Reducing stimulation and pursuing a meaningful project can restore curiosity and make original ideas easier to find."
+    },
+    {
+      "url": "https://x.com/PeterMcCrory/status/2079979321607745905?utm_source=tldrproduct",
+      "title": "Why hasn't AI increased unemployment?",
+      "summary": "AI is beginning to improve productivity without significantly increasing unemployment because it still depends on human expertise, direction, and oversight. That balance could change as models become more capable and automate longer, more complex tasks."
+    },
+    {
+      "url": "https://www.svpg.com/the-ai-productivity-paradox/?utm_source=tldrproduct",
+      "title": "The AI Productivity Paradox",
+      "summary": "AI improves outcomes when teams use it to validate the right solutions, not simply build faster."
+    },
+    {
+      "url": "https://newsletter.weskao.com/p/defensible-but-not-good?utm_source=tldrproduct",
+      "title": "Defensible, but not good",
+      "summary": "Strong teams pursue work that creates real value, not ideas that are merely defensible."
+    }
+  ]
+}

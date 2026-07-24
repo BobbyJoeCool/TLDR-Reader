@@ -1,0 +1,103 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-07-24",
+  "articleCount": 19,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/health-in-chatgpt/?utm_source=tldrai",
+      "title": "ChatGPT Health",
+      "summary": "OpenAI launched Health in ChatGPT for US adults, allowing users to connect Apple Health and supported medical records for more contextual health conversations. The company said connected health data and related chats would not be used to train foundation models or target ads."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080448772778373586.html?utm_source=tldrai",
+      "title": "Announcing Fugu-Ultra v1.1 🐡",
+      "summary": "Fugu-Ultra v1.1 is more capable across coding, agentic tasks, and advanced reasoning. It is now available at the same price as Fugu-Ultra v1.0. Fugu offers frontier-level performance without single-vendor dependency. It dynamically orchestrates the best models to tackle complex multi-step tasks."
+    },
+    {
+      "url": "https://x.com/runwayml/status/2080343130780655635?utm_source=tldrai",
+      "title": "Runway Launched an AI Router for Generative Media",
+      "summary": "Runway Media Router is a developer tool that automatically selected image, video, or audio models based on quality, speed, or cost. The release positions Runway Dev as an infrastructure layer offering unified API access to both Runway and third-party models."
+    },
+    {
+      "url": "https://www.engadget.com/2221938/claude-voice-mode-just-got-smarter/?utm_source=tldrai",
+      "title": "Updated Claude Voice Mode",
+      "summary": "Anthropic updated Claude's voice mode to support Opus, Sonnet, and Haiku, while adding integrations with apps such as Gmail, Slack, Notion, and Google Calendar. The beta remains available to all users, with free accounts limited to Haiku and one connected app."
+    },
+    {
+      "url": "https://www.latent.space/p/poolside?utm_source=tldrai",
+      "title": "How to Build a Frontier Model Factory",
+      "summary": "Poolside co-CEO Eiso Kant explains how a compact research team built the training infrastructure behind Laguna S, an 118B mixture-of-experts model reported to outperform much larger open-weight systems."
+    },
+    {
+      "url": "https://davefriedman.substack.com/p/a-gpu-hour-isnt-a-commodity-if-you?utm_source=tldrai",
+      "title": "A GPU-Hour Isn't a Commodity If You Need Four of Them",
+      "summary": "Compute pricing coverage runs on headline rates, but many workloads don't consume them that way. Training, fine-tuning, and high-throughput inference need multiple identical GPUs in the same machine or cluster. A company that buys H100 futures to hedge a future four- or eight-GPU requirement carries real basis risk. The futures will hedge a rise in the broad H100 price and do nothing about the lack of co-located capacity."
+    },
+    {
+      "url": "https://notes.designarena.ai/kimi-k3s-design-secret-may-be-in-its-thinking-traces/?utm_source=tldrai",
+      "title": "Kimi K3's Design Secret may be in its Thinking Traces",
+      "summary": "Kimi K3 uses an extreme amount of thinking tokens. It uses over 12 times more reasoning than Claude Opus 4.8 and over double that of Kimi K2.6. The model's performance is primarily due to its unique chain-of-thought approach in which it iterates upon designs like a full AI agent would, but inside its chain of thought. This article looks at Kimi K3's thinking traces to explain the model's performance."
+    },
+    {
+      "url": "https://github.com/andrewyng/openworker?utm_source=tldrai",
+      "title": "OpenWorker (GitHub Repo)",
+      "summary": "Runs a local desktop AI coworker that completes tasks across files and apps."
+    },
+    {
+      "url": "https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/?utm_source=tldrai",
+      "title": "Microsoft's New MAI-Image and MAI-Voice",
+      "summary": "Microsoft introduced MAI-Image-2.5-Pro for high-fidelity image generation and editing, alongside MAI-Voice-2-Flash for faster, lower-cost voice applications. Both models entered public preview and joined Microsoft's broader production model lineup."
+    },
+    {
+      "url": "https://bfl.ai/blog/flux-3?utm_source=tldrai",
+      "title": "FLUX 3",
+      "summary": "Black Forest Labs has launched FLUX 3, a multimodal model that can generate images and audio-video clips up to 20 seconds from a single prompt. Its architecture could be used in the future in robotic perception and action."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html?taid=6a6274f310d75400018f0789&amp;utm_source=tldrai",
+      "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+      "summary": "Intel reported better-than-expected results for its second quarter. The company's shares are up over 170% so far in 2026. It is starting to craft long-term agreements with customers for its server CPUs, a move that's becoming common in the industry. The company's CFO says Intel is supply constrained, with data center customers demanding more than it can produce."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/?utm_source=tldrai",
+      "title": "Understanding the AI economy",
+      "summary": "Google Research discusses the AI economy's rapid growth, focusing on innovations and impacts across industries. The piece highlights AI's transformative effects on sectors like healthcare and finance. It emphasizes the need for strategic investment and regulation to harness AI's potential responsibly."
+    },
+    {
+      "url": "https://www.geopolitechs.org/p/deepseek-founder-liang-wenfeng-in?utm_source=tldrai",
+      "title": "DeepSeek founder Liang Wenfeng in His Own Words",
+      "summary": "This post contains 64 quotes from DeepSeek's investor call. In the call, founder Liang Wenfeng discussed the company's vision, motivation, and culture. He also detailed the company's open-source strategy, plans for commercialization, roadmap to AGI, and much more."
+    },
+    {
+      "url": "https://cognition.com/blog/interaction?utm_source=tldrai",
+      "title": "Welcoming The Interaction Company",
+      "summary": "Cognition has added The Interaction Company of California, the makers of Poke, a personal agent that can text natively on Apple Messages, to its team."
+    },
+    {
+      "url": "https://runtimewire.com/article/sierra-acquires-takeoff-long-horizon-ai-agents?utm_source=tldrai",
+      "title": "Sierra acquires TakeOff, the long-horizon AI agent platform",
+      "summary": "The deal gives Sierra immediate access to a platform that can power autonomous, multistep applications across enterprises."
+    },
+    {
+      "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference?utm_source=tldrai",
+      "title": "AMD and Cerebras Launch AI Inference Solution",
+      "summary": "AMD and Cerebras have unveiled an AI inference solution that combines AMD Helios with Cerebras Wafer-Scale Engine, enhancing low-latency AI workloads."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop?utm_source=tldrai",
+      "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
+      "summary": "OpenAI's naturalistic GPT-Live audio AI model is now integrated with the ChatGPT desktop application."
+    },
+    {
+      "url": "https://www.etched.com/progress?utm_source=tldrai",
+      "title": "Progress",
+      "summary": "Etched's new architecture enables AI chips to run math blocks at half the usual voltage, boosting FLOPs density and tackling thermal issues."
+    },
+    {
+      "url": "https://www.implicator.ai/deepseeks-huawei-chip-training-claim-finally-gets-its-benchmarks-and-its-doubters/?utm_source=tldrai",
+      "title": "DeepSeek's Huawei-Chip Training Claim Finally Gets Its Benchmarks, and Its Doubters",
+      "summary": "A Huawei-led consortium has released a technical report that documents full-parameter post-training of DeepSeek's V4 family on Huawei Ascend chips, measuring the run at 34.22% model FLOPs utilization."
+    }
+  ]
+}

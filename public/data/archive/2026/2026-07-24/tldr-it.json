@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-24",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/?utm_source=tldrit",
+      "title": "Google Cloud revenue jumps 82% on enterprise AI demand",
+      "summary": "Google Cloud revenue reached $24.8 billion, while its backlog climbed to $514 billion. Alphabet attributed the growth largely to demand for AI infrastructure and enterprise AI products."
+    },
+    {
+      "url": "https://www.amd.com/en/corporate/events/advancing-ai.html?utm_source=tldrit",
+      "title": "AMD launches Helios rack-scale AI systems",
+      "summary": "AMD introduced its Helios rack-scale platform alongside new Instinct MI400 GPUs and EPYC CPUs. The company claims Helios can deliver up to 30% more inference tokens per dollar than competing systems."
+    },
+    {
+      "url": "https://www.infoq.com/presentations/ai-infrastructure-scaling-architecture/?utm_source=tldrit",
+      "title": "The hidden infrastructure problem behind production AI",
+      "summary": "Production agents create unpredictable tool calls, retries, and database load that traditional systems were not designed to handle. Teams need to limit runtime, autonomy, and blast radius before scaling their AI workloads."
+    },
+    {
+      "url": "https://thenewstack.io/high-reasoning-ai-coding/?utm_source=tldrit",
+      "title": "Are expensive reasoning models always worth it?",
+      "summary": "High-reasoning coding models can solve more complex problems, but their latency and cost make them unnecessary for many everyday tasks. Engineering teams may need routing systems that choose between fast and reasoning-heavy models based on the job."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/?utm_source=tldrit",
+      "title": "Runway launches an AI model router for generative media",
+      "summary": "Runway's Media Router automatically selects image, video, or audio models based on cost, quality, or latency. The launch positions Runway as an infrastructure layer for developers building generative-media products."
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-presence/?utm_source=tldrit",
+      "title": "OpenAI launches enterprise agent platform Presence",
+      "summary": "OpenAI Presence helps companies deploy voice and chat agents that can access internal systems, follow company policies, take approved actions, and escalate to humans. It includes guardrails, evaluations, simulations, and human-review workflows."
+    },
+    {
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus?utm_source=tldrit",
+      "title": "AMD invests up to $5B in Anthropic compute partnership",
+      "summary": "Anthropic plans to deploy up to two gigawatts of AMD Instinct GPUs through Helios systems, beginning in 2027. The companies will also optimize Claude for AMD hardware and expand ROCm support."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/?utm_source=tldrit",
+      "title": "Synthesia turns AI training videos into live roleplay",
+      "summary": "Synthesia launched interactive sessions where employees practice sales pitches, reviews, and customer conversations with responsive AI avatars. The system evaluates each conversation against a company-defined rubric."
+    },
+    {
+      "url": "https://thenewstack.io/vespa-realtime-personalization-ranking/?utm_source=tldrit",
+      "title": "Personalization is an infrastructure problem",
+      "summary": "Real-time personalization systems depend as much on scalable ranking and retrieval architecture as they do on the underlying data."
+    },
+    {
+      "url": "https://thenewstack.io/regulated-ai-continuous-verification/?utm_source=tldrit",
+      "title": "How regulated organizations can increase AI coding velocity",
+      "summary": "Continuous verification can help regulated enterprises adopt AI coding tools without sacrificing compliance, security, or software quality."
+    },
+    {
+      "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start?utm_source=tldrit",
+      "title": "Black Forest Labs launches FLUX 3",
+      "summary": "FLUX 3 can generate images and videos up to 20 seconds long with synchronized audio, though access is initially limited."
+    }
+  ]
+}

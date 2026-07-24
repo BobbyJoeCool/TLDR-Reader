@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-24",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://ishadeed.com/article/fifa-layout/?utm_source=tldrdev",
+      "title": "Rebuilding FIFA Standings Layout with CSS Subgrid",
+      "summary": "FIFA's standings bracket splits each round's left and right halves into separate sibling elements. The rebuild with CSS Subgrid keeps semantic markup (one wrapper per round with .start/.end children) and uses grid-template-columns/rows: subgrid so children inherit the outer grid tracks and sit at opposite ends via negative line numbers that survive column-count changes."
+    },
+    {
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md?utm_source=tldrdev",
+      "title": "Why Software Factories Fail",
+      "summary": "Fast development with AI often leads to a decline in code quality, as automated systems generate more defects and reduce the rigor of code reviews. The shift towards “lights-off” software factories, which limit human oversight, does not result in the expected efficiencies, as models struggle to maintain the codebase's quality over time. Maintaining human involvement in planning and reviewing code is still necessary for long-term software sustainability."
+    },
+    {
+      "url": "https://neciudan.dev/do-we-need-state-management-libraries?utm_source=tldrdev",
+      "title": "Do we need state management libraries anymore?",
+      "summary": "This article goes over how Redux, Zustand, Jotai, MobX, and Valtio work internally, showing they reduce to three patterns (pub/sub with selectors, atom graphs, and proxy read-tracking) that nearly all funnel through useSyncExternalStore to prevent tearing under concurrent rendering. It then rebuilds a Zustand equivalent in ~50 lines, hitting the classic pitfalls along the way: subscription races, stale selector closures, and infinite loops from selectors returning fresh object literals. Once state is split into UI, server cache, URL, and config buckets, the leftover slice is small enough that 50 lines you understand will do."
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22?utm_source=tldrdev",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "summary": "Users can choose between accessible chatbots for low-stakes inquiries or opt for more sophisticated models for high-stakes issues, with tools like ChatGPT and Claude providing capabilities for both personal and professional use. To use these systems best, people should carefully set permissions, understand the limitations, and experiment with real tasks to learn how AI can effectively support their needs. For example, computer use is powerful but also dangerous in certain cases."
+    },
+    {
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/?utm_source=tldrdev",
+      "title": "The Arguments Against Open Source AI are Very Bad",
+      "summary": "The debate surrounding open source AI has gained momentum, with critics arguing it poses risks and advocating for controlled access managed by \"responsible gatekeepers.\" However, the reality is that open source software is fundamental to technology, difficult to suppress, and its development is driven by various commercial interests across the globe."
+    },
+    {
+      "url": "https://jelly-ui.com/?utm_source=tldrdev",
+      "title": "Jelly UI (Website)",
+      "summary": "Jelly UI is a dependency-free library of web components designed for creating soft, tactile product interfaces with features such as dark mode and accessibility support."
+    },
+    {
+      "url": "https://github.com/onecli/onecli?utm_source=tldrdev",
+      "title": "OneCLI (GitHub Repo)",
+      "summary": "OneCLI is an open-source credential management gateway that securely injects API keys into AI agents without exposing the keys directly to them. It allows for easier management of credentials, with features such as encrypted secret storage, pattern-based routing for API calls, and support for multi-agent environments."
+    },
+    {
+      "url": "https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured?utm_source=tldrdev",
+      "title": "Which AI actually reads your site? Two months of LLM traffic, measured",
+      "summary": "Two months of server-side tracking on evilmartians.com logged 268,000 agent requests vs 107,000 human pageviews, showing that “AI traffic” is really two opposite clients. ChatGPT-User is 73% of it and reads HTML almost exclusively, while Claude Code asks for Markdown 76% of the time via Accept: text/markdown. llms.txt drew about 660 fetches but only ~37 from named AI assistants, and their hidden hint div got exactly zero attributable follows."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-concern-about?utm_source=tldrdev",
+      "title": "New trend - concern about massive increase in code review load",
+      "summary": "Engineering leaders are increasingly concerned about the rising workload associated with code reviews, especially as developers are perceived to be less thorough in their evaluations due to this burden. The introduction of AI code review tools has seen a surge in popularity as companies experiment with in-house solutions to streamline the review process. As thorough code reviews become overwhelming for engineers, there is a need for effective testing methodologies to guarantee code quality without relying only on traditional review practices."
+    },
+    {
+      "url": "https://learnopengl.com/?utm_source=tldrdev",
+      "title": "Learn OpenGL (Website)",
+      "summary": "LearnOpenGL is a free online resource designed to teach modern OpenGL from basic to advanced levels, providing clear examples and practical applications for those interested in graphics programming."
+    },
+    {
+      "url": "https://github.com/izeigerman/claude-thermos?utm_source=tldrdev",
+      "title": "Claude Thermos (GitHub Repo)",
+      "summary": "Claude Thermos is a tool designed to keep the prompt cache warm during prolonged AI sessions, reducing costs associated with re-encoding conversation history when the main agent waits on subagents."
+    },
+    {
+      "url": "https://github.com/palmier-io/palmier-pro?utm_source=tldrdev",
+      "title": "Palmier Pro (GitHub Repo)",
+      "summary": "Palmier Pro is an open-source video editor for macOS that integrates AI features and allows users to work collaboratively with AI agents on video projects."
+    },
+    {
+      "url": "https://echo.tracerml.ai/?utm_source=tldrdev",
+      "title": "Echo (Website)",
+      "summary": "Echo is an AI model that adapts to tasks without needing multiple modes, delivering Claude Fable-level results at about one-third the cost compared to traditional models."
+    }
+  ]
+}
