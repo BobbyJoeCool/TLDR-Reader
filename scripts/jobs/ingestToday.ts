@@ -84,6 +84,12 @@ async function main() {
     writeEdition(articles, edition, date);
     written.push({ name: edition.name, file: edition.file });
     console.log(`✓  ${articles.length} articles`);
+
+    // Step 4: pause before the next request to avoid triggering TLDR's
+    // rate limiter. Without a delay, rapid sequential fetches occasionally
+    // receive a redirect-to-root response, causing editions to be silently
+    // skipped. 1 second is enough; 14 editions adds ~14s to the total runtime.
+    await new Promise((resolve) => setTimeout(resolve, 1000));
   }
 
   // If nothing was written, something is wrong (weekend, holiday, network issue).
