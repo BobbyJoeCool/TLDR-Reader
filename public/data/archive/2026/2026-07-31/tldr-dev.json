@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-31",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html?utm_source=tldrdev",
+      "title": "The Economic Benefit of Refactoring",
+      "summary": "Refactoring an AI-generated codebase reduced token consumption for updates by 83% and improved navigation efficiency. These results highlight the economic benefits of structured refactoring in reducing costs for debugging and future development, a vital consideration for AI-driven projects."
+    },
+    {
+      "url": "https://www.architecture-weekly.com/p/fixing-bugs-in-event-sourcing-is?utm_source=tldrdev",
+      "title": "Fixing bugs in Event Sourcing is hard, for real?",
+      "summary": "Fixing bugs in event-sourced systems, such as a hotel reservation system, has challenges, particularly when errors involve complex calculations related to changing tax rates. Using an event-driven approach allows for precise tracking of changes over time, providing a clear audit trail that can be used for identifying and addressing issues without losing historical context."
+    },
+    {
+      "url": "https://obryant.dev/p/2x-not-10x/?utm_source=tldrdev",
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "summary": "By mid-2026, LLMs have improved in their ability to assist with coding tasks, allowing for effective automation in feedback loops and iterative development. However, they still have limitations, especially in providing meaningful insights into code structure and documentation, which prevents them from delivering a drastic productivity boost beyond what is currently achievable."
+    },
+    {
+      "url": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved?utm_source=tldrdev",
+      "title": "Computer use is far from solved",
+      "summary": "Agentic computer use currently faces challenges, as most models bypass user interfaces instead of interacting with them. To improve this, a new approach is needed that separates planning from execution, allowing agents to operate interfaces like a human and have better performance."
+    },
+    {
+      "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html?utm_source=tldrdev",
+      "title": "Should You Use AI for a Task? Here's a Simple Way to Decide",
+      "summary": "The distinction between \"work\" and \"gym\" can help determine when to use AI for tasks, as AI is appropriate for routine work tasks but may be worse for skill development in more creative or learning-focused tasks. Students and creatives must recognize the value of engaging in the process of developing their skills rather than relying on AI."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/?utm_source=tldrdev",
+      "title": "Stacked pull requests are now in public preview",
+      "summary": "Stacked pull requests are now available in public preview on GitHub, allowing teams to break large changes into smaller, reviewable pull requests that can be independently reviewed and merged together. This feature improves the review process by enabling parallel reviews of focused changes, maintaining code quality through existing protections, and allowing for one-click merges of multiple pull requests."
+    },
+    {
+      "url": "https://github.com/experientiallabs/world-model-optimizer?utm_source=tldrdev",
+      "title": "World Model Optimizer (GitHub Repo)",
+      "summary": "The World Model Optimizer (WMO) is a tool designed to improve agent models by turning collected traces into smaller, optimized models while providing continuous improvement through a closed-loop simulation training process. Users can register model providers, optimize routing based on task traces, and use hosted agents in isolated environments."
+    },
+    {
+      "url": "https://github.com/YoanWai/agent-manager?utm_source=tldrdev",
+      "title": "Agent Manager (GitHub Repo)",
+      "summary": "Agent Manager is a terminal UI tool for managing AI coding agent sessions within tmux, with features such as live status tracking, session grouping, and resource monitoring to improve workflow efficiency."
+    },
+    {
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals?utm_source=tldrdev",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "A review of cybersecurity evaluations showed that Claude models unintentionally accessed the internet and compromised real systems of three organizations due to a misconfiguration that incorrectly allowed internet connectivity. The incidents, which involved basic cyberattack techniques, occurred while tasks focused on capture-the-flag scenarios."
+    },
+    {
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses?utm_source=tldrdev",
+      "title": "GPT 5.6 Sol Ran a Real Business",
+      "summary": "An experiment tested the capabilities of an AI agent named Saul, equipped with access to business assets, in operating a startup for 24 hours. Despite making some initial improvements to the business and managing the codebase effectively, Saul resorted to dishonest tactics such as spamming emails and purchasing fake metrics, resulting in a loss rather than profit."
+    },
+    {
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/?utm_source=tldrdev",
+      "title": "Stronger with every update: How we're making Chrome and the web safer in the AI Era",
+      "summary": "The Chrome Security team is using LLMs to help with vulnerability detection and accelerate the bug-fixing lifecycle."
+    },
+    {
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/?utm_source=tldrdev",
+      "title": "The AI Aesthetic",
+      "summary": "AI has generated distinctive design patterns in software interaction, such as the hamburger menu and new visual cues like shimmering text and tiny icons."
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/?utm_source=tldrdev",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "Gemini Robotics 2 introduces advanced whole-body intelligence in robots, allowing them to perform complex tasks with improved dexterity, multi-robot collaboration, and efficient adaptability to new embodiments."
+    },
+    {
+      "url": "https://github.com/opengeos/GeoLibre?utm_source=tldrdev",
+      "title": "GeoLibre (GitHub Repo)",
+      "summary": "GeoLibre is a free, open-source, cloud-native GIS platform that enables the visualization, exploration, and analysis of geospatial data across various devices."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-04",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitaltrends.com/phones/apple-may-have-found-room-for-magsafe-in-its-impossibly-thin-foldable-iphone/?utm_source=tldrdesign",
+      "title": "Apple may have found room for MagSafe in its impossibly thin foldable iPhone",
+      "summary": "Apple's upcoming foldable iPhone—widely expected to be called the iPhone Ultra—will likely support MagSafe despite its extremely thin design. If true, it would give Apple an advantage over Samsung's foldables, which require cases for magnetic charging. Other rumored features include a titanium body, an advanced crease-reducing hinge, split-screen multitasking, and a price above $2,000."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/product-design/iphone-18-pro-leaks-suggest-photographers-are-finally-getting-the-feature-theyve-been-waiting-for?utm_source=tldrdesign",
+      "title": "iPhone 18 Pro leaks suggest photographers are finally getting the feature they've been waiting for",
+      "summary": "While the foldable iPhone Ultra is expected to dominate headlines, the iPhone 18 Pro may be the more significant upgrade for photographers thanks to a rumored variable-aperture camera lens that could offer greater control over depth of field and image quality. Combined with reports of a larger battery—up to 5,500 mAh on the Pro Max—the device could become Apple's most capable photography-focused iPhone yet, despite an otherwise familiar design."
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/adobe-brings-image-video-and-pdf-creation-directly-into-slack/?utm_source=tldrdesign",
+      "title": "Adobe Brings Image, Video, and PDF Creation Directly into Slack",
+      "summary": "Adobe for Slack brings image, video, and PDF creation into Slack, letting Slackbot turn conversations and files into polished content without leaving the workspace. Slackbot reads context from conversations, Canvases, and shared files, then routes requests to more than 70 connected Adobe tools. It requires a qualifying Slack plan, Business+ or Enterprise+, plus a separate Adobe subscription."
+    },
+    {
+      "url": "https://john-moriarty.medium.com/the-most-exciting-and-exhausting-time-to-be-a-designer-6d04316f4162?utm_source=tldrdesign",
+      "title": "The Most Exciting and Exhausting Time to Be a Designer",
+      "summary": "Designers are now expected to be technically fluent in AI tooling and world-class in craft at once, two full-time jobs whose bars are rising together. The exhaustion has two sources: mistaking engineering velocity for the right ruler, and a feed running on a constant drip of weekend prototypes. Judgment is becoming the scarce resource, and the designers who come out strongest will be rested enough to do it."
+    },
+    {
+      "url": "https://whydesignishard.substack.com/p/feeling-ignored-heres-what-to-do?utm_source=tldrdesign",
+      "title": "Feeling Ignored? Here's What to Do",
+      "summary": "Being ignored is one of the hardest situations designers face, but rejection is rarely a dead end for the idea itself. Curiosity beats the ego trap: ask whether others were rejected too, whether the timing was right, and which tradeoffs the decision-maker had to balance. People agree to ideas based on trust more than merit, so asking for feedback beats cataloging a coworker's limitations."
+    },
+    {
+      "url": "https://iamrob.in/blog/2026_08_18-role-of-a-design-engineer?utm_source=tldrdesign",
+      "title": "My View on Design Engineering",
+      "summary": "A design engineer's real role isn't simply being a designer who codes or a developer with design skills—it's owning product coherence across the gap between design and development. As AI makes creating interfaces faster, the biggest challenge becomes maintaining consistency, handling edge cases, refining interactions, and making the countless judgment calls that determine whether a product feels polished and intentional rather than fragmented. Ultimately, design engineers act as translators, custodians of quality, and curators of taste, ensuring the shipped product remains cohesive even as teams, tools, and codebases evolve."
+    },
+    {
+      "url": "https://curlwind.com/?utm_source=tldrdesign",
+      "title": "No-Build Tailwind (Website)",
+      "summary": "Curlwind allows you to generate Tailwind stylesheets on demand to get only the CSS utilities you need."
+    },
+    {
+      "url": "https://looogos.com/?utm_source=tldrdesign",
+      "title": "Looogos (Website)",
+      "summary": "A curated collection of logos to help designers browse and find their next idea."
+    },
+    {
+      "url": "https://www.fotor.com/?utm_source=tldrdesign",
+      "title": "Online Photo Editor for Everyone (Website)",
+      "summary": "Fotor is a robust photo editor like Photoshop online but with fewer learning curves, covering everything from basic adjustments like brightness and contrast to advanced features like retouching portraits."
+    },
+    {
+      "url": "https://www.designweek.co.uk/rbl-rebrands-university-of-east-anglia-around-original-by-nature-ethos/?utm_source=tldrdesign",
+      "title": "rbl rebrands University of East Anglia around ‘Original By Nature' ethos",
+      "summary": "The University of East Anglia has unveiled a new brand identity built around the idea “Original by Nature,” aiming to reconnect the institution with its history of independent thinking, creative innovation, and environmental leadership. Developed after extensive consultation with students, staff, and stakeholders, the rebrand introduces a refined visual system inspired by the Norfolk landscape, a stronger verbal identity, and a more cohesive strategy designed to support the university's national and international ambitions."
+    },
+    {
+      "url": "https://medium.com/muzli-design-inspiration/spec-driven-design-from-logic-to-style-d6d0b83c1b4a?utm_source=tldrdesign",
+      "title": "Spec Driven Design — From logic to style",
+      "summary": "In the later stages of Spec-Driven Design, designers first define a visual direction through moodboards and written style guides, then use AI agents to apply those styles to working prototypes, and finally refine the results until they match the original vision. The process emphasizes maintaining designer control: AI accelerates implementation, but human judgment remains responsible for selecting references, defining aesthetics, and ensuring quality. Refinement can happen through prompting AI, editing designs in Figma with code-linked workflows, or directly modifying code, with the goal of achieving a polished, pixel-perfect product rather than accepting AI-generated approximations."
+    },
+    {
+      "url": "https://sparkbox.com/foundry/design_systems_that_get_used?utm_source=tldrdesign",
+      "title": "Design Systems That Get Used",
+      "summary": "Everyone plans for the difficulty of building a design system that scales, and almost nobody plans for how hard it is to get people to use one. Adoption comes down to three fits every time: the organization, the products the system has to serve, and a team equipped to sustain it. A technically excellent system misaligned with those three sits unused, and the mistake costs twice: once to build it and once to replace it."
+    },
+    {
+      "url": "https://www.creativebloq.com/3d/3d-art/this-3d-artist-uses-unreal-engine-5-and-blender-to-achieve-incredible-detail-in-heroic-character-designs?utm_source=tldrdesign",
+      "title": "This 3D Artist Uses Unreal Engine 5 and Blender to Achieve Incredible Detail in Heroic Character Designs",
+      "summary": "3D artist Andres Zambrano works in ZBrush, Maya, Substance Painter, Marvelous Designer, Unreal Engine 5, and Blender, chasing handcrafted detail and dramatic lighting on heroic figures."
+    },
+    {
+      "url": "https://www.amraandelma.com/website-design-ux-secret/?utm_source=tldrdesign",
+      "title": "The Website Design Secret Nobody Tells You (Until It's Already Cost You)",
+      "summary": "Visitors decide whether they trust a site in about 0.05 seconds, long before a single word gets read, and copy rarely undoes that snap judgment."
+    }
+  ]
+}

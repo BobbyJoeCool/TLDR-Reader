@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-08-05",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://almund6ef.substack.com/p/ai-is-becoming-a-second-brain-at?utm_source=tldrmarketing",
+      "title": "AI is becoming a second brain at the expense of your first one",
+      "summary": "Belief offloading describes what happens when people let AI perform the labor of forming a judgment instead of testing an idea against experience, values, and other people's pushback. A chatbot delivers a calm, complete-sounding answer within seconds, creating the feeling of having reached a conclusion without doing that work. AI can strengthen memory and function as a second brain, but repeated reliance risks weakening the first brain responsible for judgment and accountability."
+    },
+    {
+      "url": "https://www.theguardian.com/society/commentisfree/2026/aug/03/social-media-addiction-loneliness?utm_source=tldrmarketing",
+      "title": "Lonely planet: why are we addicted to the social media scroll when it is so clearly harming us?",
+      "summary": "People keep scrolling because social media exploits a tension between connection and loneliness. While feeds create the feeling of being connected through endless updates, curated lives and online communities often leave people feeling more isolated and inadequate. The scroll is reinforced by FOMO, habit and the search for belonging, even when it worsens feelings of emptiness. Many users stay because these platforms offer brief moments of connection and entertainment, despite the emotional cost of constant comparison and digital dependence."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/chris-long-marketing_seo-test-we-influenced-major-llms-to-position-share-7490367215922270208-ncby/?utm_source=tldrmarketing",
+      "title": "SEO Test: We influenced major LLMs to position us exactly how we want",
+      "summary": "Consistent brand messaging across owned and third-party channels can influence how AI search describes a brand. In this test, updates to the homepage, About page, LinkedIn profiles, and other sources led most major LLMs to describe the company as serving B2B technology companies with $20M+ ARR within one week. That consistency can help AI recommend a brand to the right audience when it compares vendors. Smaller companies may see faster results because they have fewer conflicting signals across the web."
+    },
+    {
+      "url": "https://app.sciencesays.com/p/use-ai-bots-to-reply-to-followers?utm_source=tldrmarketing",
+      "title": "Use AI bots to reply to followers",
+      "summary": "Using a clearly labeled AI bot to reply to social media comments can increase future engagement if the replies are timely, relevant, and match the brand or creator's voice. In a study of more than 22,000 follower interactions, people who received an AI reply commented 41% more often on later posts and reposted content 43% more often than people who received no reply. The strongest results came when the AI responded within 45 minutes and fit the conversation. Test AI replies on platforms that allow them and reserve personal or sensitive conversations for human responses."
+    },
+    {
+      "url": "https://www.getsiftsy.com/?utm_source=tldrmarketing",
+      "title": "Siftsy (Tool)",
+      "summary": "Siftsy is a comment intelligence platform that helps brands, agencies, and publishers understand what people are actually saying in the comments. It measures sentiment, relevance, and consensus, and highlights topics of conversation."
+    },
+    {
+      "url": "https://www.marketingtechnews.net/news/reddit-ad-technology-targeting-community-conversations/?utm_source=tldrmarketing",
+      "title": "How Reddit uses community conversations to improve ad targeting",
+      "summary": "Reddit is turning community conversations into a core advertising signal across targeting, creative, campaign optimization, and commerce. It uses AI to match ads and products to discussion context, generate Reddit-specific creative, and automate campaign decisions. Early results show Max campaigns cut cost per acquisition by 15% and increased result volume by 28%, while Redditor Highlights increased clickthrough rate by 10.7%. The strategy has helped Reddit reach $762 million in advertising revenue and ~70% year-over-year growth in active advertisers."
+    },
+    {
+      "url": "https://vogueadria.com/myspace-social-media-comeback/?utm_source=tldrmarketing",
+      "title": "MySpace is making a comeback just as we're growing tired of social media",
+      "summary": "MySpace's comeback taps into fatigue with algorithm feeds and a growing desire for a more personal internet. It once gave users full control to build expressive profiles that felt human. Today's platforms feel uniform and optimized for engagement. As people crave more ownership and unpredictability, its return reflects demand for more self-made spaces."
+    },
+    {
+      "url": "https://shiras-newsletter.beehiiv.com/p/the-hank-green-ai-backlash-is-bigger-than-you-think?utm_source=tldrmarketing",
+      "title": "The Hank Green AI Backlash is Bigger Than You Think",
+      "summary": "The Hank Green AI backlash is a broader debate about transparency and AI use in the creator economy. After viewers questioned his use of AI, Green openly reflected on his reliance on tools like ChatGPT and decided to scale back. The situation shows that audiences are still forming expectations around AI, with some accepting thoughtful use while others see any use as a loss of authenticity. As creators face pressure to produce more, the challenge will be using AI while maintaining transparency and audience trust."
+    },
+    {
+      "url": "https://www.ama.org/2026/08/04/90-of-consumers-distrust-influencers-how-can-marketers-rebuild-influencer-authenticity/?utm_source=tldrmarketing",
+      "title": "90% of Consumers Distrust Influencers. How Can Marketers Rebuild Influencer Authenticity?",
+      "summary": "Audiences respond to whether a sponsorship gets acknowledged honestly rather than to the sponsorship existing at all. Influencers who openly discuss what they're being paid for, especially with some humor, read as more trustworthy than ones who stay quiet about it, and the same holds for disclosing AI use in content creation. Authenticity turns out to hinge less on staying in a narrow lane and more on being upfront about what's really going on behind a post."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/ashleylewin_ive-run-a-webinar-program-that-pulled-700-share-7487869055245168641-WuOR/?utm_source=tldrmarketing",
+      "title": "15 tips to running a good webinar",
+      "summary": "Use strong guests, prep early, promote 2 weeks out, and follow up fast."
+    },
+    {
+      "url": "https://www.marketingideas.com/p/link-in-the-comments-is-dead?utm_source=tldrmarketing",
+      "title": "\"Link in the comments\" is dead",
+      "summary": "Posting a URL directly in a post carries no measurable reach cost on major platforms like LinkedIn, X, and IG."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/kate-reeves-0b068a3a_six-quick-wins-you-can-make-to-level-up-your-share-7488674469604044800-LVZ3/?utm_source=tldrmarketing",
+      "title": "6 quick wins to level up your email flows",
+      "summary": "Fix drop-off emails, align timing to real behavior, and test your highest-traffic flows continuously."
+    }
+  ]
+}

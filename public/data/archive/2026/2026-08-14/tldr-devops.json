@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-08-14",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.docker.com/blog/docker-vmm-public-beta/?utm_source=tldrdevops",
+      "title": "Announcing: Docker VMM Public Beta",
+      "summary": "Docker has released a public beta of Docker VMM, a new first-party virtualization layer built in-house, available in Docker Desktop v4.86 for Mac and Windows. The new engine replaces the third-party VMM Docker Desktop previously relied on, and promises faster container startup, better file I/O, and smarter memory management that returns RAM to the host when containers are idle. Windows users can opt in via Settings, General, and the Docker VMM option. General availability is targeted for the end of October, when Docker VMM becomes the default engine for new installs across Mac, Windows, and Linux."
+    },
+    {
+      "url": "https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task?utm_source=tldrdevops",
+      "title": "Smart Routing in Unity AI Gateway: Match frontier quality with 30%+ lower cost per task",
+      "summary": "Databricks has launched Smart Routing in Beta through its Unity AI Gateway, a system that automatically matches coding tasks to models based on complexity rather than defaulting to the most expensive option. On internal workloads, Smart Routing outperformed any single model at 65% of the cost per task compared to a leading model like Opus 5, and matched Opus 5 on public benchmarks at less than half the cost. The system works natively inside Claude Code and Codex, and also runs through Omnigent, Databricks' meta-harness that routes across both models and coding harnesses. A lightweight classifier reads each task and labels it across several fields before the router decides whether to escalate to a frontier model or delegate to a cheaper one."
+    },
+    {
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html?utm_source=tldrdevops",
+      "title": "AI is removing the middle class of software engineering",
+      "summary": "AI has made code generation dramatically faster without making review, debugging, or architectural understanding equally cheap, allowing bad decisions and technical debt to accumulate much faster than before. Engineers who can evaluate tradeoffs, understand complex systems, and take responsibility for AI-generated changes may become more valuable, while implementation skill alone becomes less differentiating."
+    },
+    {
+      "url": "https://octopus.com/blog/octo-easy-mode-18-progressive-rollouts?utm_source=tldrdevops",
+      "title": "Octopus Easy Mode - Progressive Rollout",
+      "summary": "Octopus Easy Mode demonstrates progressive rollouts by promoting the same release through Development, Prod 10, Prod 50, and Prod 100 environments, with validation gates stopping failed deployments. A runbook uses delayed API calls to automatically advance successful deployments, while environments provide clearer lifecycle visualization and release progression controls than tenants."
+    },
+    {
+      "url": "https://newrelic.com/blog/observability/digital-experience-monitoring-tools?utm_source=tldrdevops",
+      "title": "How to Choose Digital Experience Monitoring Tools",
+      "summary": "Digital experience monitoring measures user-facing performance through RUM, synthetic monitoring, session replay, and endpoint monitoring, complementing APM by connecting frontend issues with backend telemetry. The guide emphasizes unified observability, privacy controls, integration, and total cost when evaluating DEM platforms such as New Relic, Datadog, Dynatrace, ThousandEyes, and Catchpoint."
+    },
+    {
+      "url": "https://github.com/smicallef/spiderfoot?utm_source=tldrdevops",
+      "title": "Spiderfoot (GitHub Repo)",
+      "summary": "SpiderFoot is an open source, OSINT automation tool written in Python 3 that integrates with over 200 data source modules. It can be run via a web-based interface or the command line. The tool supports both offensive and defensive use cases, including penetration testing and monitoring an organization's internet exposure."
+    },
+    {
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard?utm_source=tldrdevops",
+      "title": "Switchyard (GitHub Repo)",
+      "summary": "Switchyard is an open-source Rust proxy and library for routing LLM traffic across providers, released under the Apache 2.0 license by NVIDIA Corporation. It translates between OpenAI Chat, OpenAI Responses, and Anthropic Messages formats, so coding agents like Claude Code or Codex can talk to backends like vLLM, Ollama, or NVIDIA NIM without changing their native API calls. The project is pre-alpha and not intended for production use, with the API expected to change significantly before v1.0."
+    },
+    {
+      "url": "https://github.com/henrygd/beszel?utm_source=tldrdevops",
+      "title": "Beszel (GitHub Repo)",
+      "summary": "Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. It has a friendly web interface, simple configuration, and is ready to use out of the box. Beszel supports automatic backup, multi-user, OAuth authentication, and API access."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_source=tldrdevops",
+      "title": "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents",
+      "summary": "Cloudflare Computer is an open-source runtime for AI agents that combines scalable Cloudflare isolates with on-demand containers and browsers, reducing reliance on costly ephemeral containers. Its shared SQLite-based filesystem lets agents move between execution environments while preserving state, with auditing and observability built in, though the system remains an early preview."
+    },
+    {
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug?utm_source=tldrdevops",
+      "title": "How we tracked down a 16-year-old SQLite bug",
+      "summary": "A rare race condition between SQLite WAL checkpointing and concurrent writes could permanently lose committed pages and corrupt databases, a bug that had existed for at least 16 years. Tailscale uncovered it after months of production forensics and 19 corruption incidents, working with SQLite maintainers to build new VFS tracing that isolated the race and led to a fix released in SQLite 3.51.3."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/08/12/good-apps-arent-born-theyre-guided-building-observable-policy-as-code/?utm_source=tldrdevops",
+      "title": "Good apps aren't born, they're guided: Building observable policy as code",
+      "summary": "VictoriaMetrics and Kyverno have published a guide on combining Kubernetes-native policy enforcement with time-series observability using open-source tooling."
+    },
+    {
+      "url": "https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/?utm_source=tldrdevops",
+      "title": "Keeping ChatGPT Fast as AI Development Accelerates",
+      "summary": "Agentic development has sharply increased code change volume and parallelism at OpenAI, creating hidden performance, resource, and scalability costs beyond GPUs."
+    }
+  ]
+}

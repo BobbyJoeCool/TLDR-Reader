@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-09-25",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/?utm_source=tldrnewsletter",
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "summary": "Project Suncatcher is a moonshot effort by Google to design orbital AI data centers. Its first experimental satellite will launch on October 1. Its aim will be to validate Google's vision for a constellation of AI satellites. The satellite, about the size of a refrigerator, has four custom TPU AI accelerators and solar panels that supply about one kilowatt of power. It will serve as a test of several technologies over its few months of operation."
+    },
+    {
+      "url": "https://www.wsj.com/business/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-b7407e6e?st=mnSpmr&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Jeff Bezos' Blue Origin Is Fueled With $30 Billion of His Fortune",
+      "summary": "Jeff Bezos has invested $30 billion in Blue Origin since its founding in 2000. The commitment has helped Blue Origin become a large space company with around 15,000 employees and an ambitious growth plan. Blue Origin recently raised capital from outside investors for the first time. The company expects to produce about $1.4 billion in revenue this year, growing that number to more than $30 billion in 2030."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/?utm_source=tldrnewsletter",
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "summary": "Researchers have discovered a novel method that uses classical computing to reduce the current RSA security level to an unacceptably low threshold. The practical risk is limited, but still significant. Widely used RSA implementations are also safe. The technology involves signature forgery and reduces the required computing resources by orders of magnitude."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/?utm_source=tldrnewsletter",
+      "title": "Waymo is scaling fast: Here's what the fleet data shows",
+      "summary": "Waymo appears to be concentrating its efforts in just two states. 80% of its roughly 4,000 robotaxis are in California and Texas. Waymo's fleet has grown by nearly half in the past three weeks in Texas. The company's remaining 800 or so vehicles are spread across cities in other states, including Arizona and Florida. A growing number of the vehicles in Waymo's fleet are Chinese-built minivans."
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/?utm_source=tldrnewsletter",
+      "title": "A new trend of CPU shortages",
+      "summary": "Many companies are struggling to source CPUs. CPU spot pricing has disappeared because there's no longer any lack of demand for CPUs. It's now nearly impossible to get CPUs on spot instances without long-running connections with cloud providers. Reserving specific CPUs now needs to be done months in advance. Cloud providers will even turn down certain reservations because they don't have enough CPUs or the right type of CPUs."
+    },
+    {
+      "url": "https://tomtunguz.com/thinking-in-systems?utm_source=tldrnewsletter",
+      "title": "Thinking in Systems, Shipping in Loops",
+      "summary": "AI has removed the typing from software engineering but left the system design. What's left is designing the loop that decides whether the output is right. Great system design is defined by resilience, self-organization, and hierarchy. Resilience is AI checking its own work, self-organization is the loop learning, and hierarchy is the layering of skills, tools, and sandboxes into composable components that are reused once verified to work."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/the-specter-of-neuralese?utm_source=tldrnewsletter",
+      "title": "The Specter Of Neuralese",
+      "summary": "Neuralese recurrence is a hypothetical technology that would allow AIs to think dangerous thoughts without getting detected. OpenAI's new Astra model uses a reasoning technique called recurrent depth that makes the model's chain of thought more difficult to monitor by allowing it to operate outside of the sequential thinking that characterizes most reasoning models. There is an emerging taboo on creating dangerous neuralese AIs. It is unclear whether OpenAI broke that taboo, as a clear line has yet to be drawn."
+    },
+    {
+      "url": "https://www.bloomberg.com/opinion/articles/2026-09-24/zuckerberg-s-ai-muse-charm-could-be-meta-s-ipod-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDMxMDQxOCwiZXhwIjoxNzkwOTE1MjE4LCJhcnRpY2xlSWQiOiJUTFZFSUFOM04wQTQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.oD9UPLYuT7aC22Ehmb3Fx-PxwMuHAKL6Hvngw4wvz1w&utm_source=tldrnewsletter",
+      "title": "Zuckerberg's ‘Tamagotchi-Like' AI Could Be Meta's iPod Moment",
+      "summary": "Meta announced a Tamagotchi-like pendant for interacting with its Muse personal agent on Wednesday. The device, expected to be out in time for Christmas, features a customizable character at the center of the screen. It can be worn with a wrist strap, carried in a pocket, or attached to a bag or keychain with a lanyard. The devices can interact with each other when placed near each other. Muse Charm could open up new streams of revenue that could eclipse the company's advertising business."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/?utm_source=tldrnewsletter",
+      "title": "NASA chief concerned China may deny access to parts of Moon's south pole",
+      "summary": "The Moon's south pole offers some of the most coveted real estate, especially at the Shackleton Crater, where permanently shadowed regions known as 'cold traps' are thought to hold water and other useful materials."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html?unlocked_article_code=1.D1E.y6Fw.RjllQb9ufLx_&smid=url-share&utm_source=tldrnewsletter",
+      "title": "US Intercedes for Elon Musk's X Over European Fine",
+      "summary": "The European Commission fined X $140 million in December for failing to prevent deceptive behavior on its site."
+    },
+    {
+      "url": "https://hraness.com/reading/the-limits-of-what-tla-plus-can-verify?utm_source=tldrnewsletter",
+      "title": "The limits of what TLA+ can verify",
+      "summary": "TLA+ cannot express possibility and reachability properties, hyperproperties, statistical properties, and properties about whether a system is robust against code changes."
+    },
+    {
+      "url": "https://funcall.blogspot.com/2026/09/not-everyone-can-code_01093260948.html?utm_source=tldrnewsletter",
+      "title": "Not Everyone Can Code",
+      "summary": "Debugging some systems is a cognitive burden so unnatural that very few humans can do it well without the aid of formal models or pure architectural restraint."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html?utm_source=tldrnewsletter",
+      "title": "Oracle sends ‘force majeure' notice about data center project — stock drops 3%",
+      "summary": "Oracle is looking to delay payments on the Project Jupiter campus if it fails to come online as expected in 2028."
+    },
+    {
+      "url": "https://rudyfaile.com/2026/09/24/the-age-of-the-soft-skill/?utm_source=tldrnewsletter",
+      "title": "The Age of the Soft Skill",
+      "summary": "People can no longer get away without soft skills, as anyone can get the work done now."
+    }
+  ]
+}

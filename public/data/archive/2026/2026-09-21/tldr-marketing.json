@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-21",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/?utm_source=tldrmarketing",
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "summary": "Founders are investing in businesses built around offline connection. New ventures include social groups, hands-on craft schools, and shared gaming experiences. People are wanting real-world interaction as technology makes socializing more isolated. Some founders are also targeting younger consumers seeking alternatives to traditional education or more meaningful ways to spend time offline."
+    },
+    {
+      "url": "https://www.marketingdive.com/news/creator-content-preferred-in-ai-recommendations-heres-what-the-numbers-sa/830523/?utm_source=tldrmarketing",
+      "title": "Creator content preferred in AI recommendations",
+      "summary": "Creator content is particularly relevant to younger shoppers, with 65% of Gen Z and millennials preferring AI recommendations that cite creators. However, only 29% say those citations increase their likelihood of purchasing. Creators are most useful for discovering brands and comparing products. Credibility matters more than audience size when consumers assess their recommendations."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/5-levers-drive-cac-says-ad-pro?utm_source=tldrmarketing",
+      "title": "5 Levers Drive CAC, Says Ad Pro",
+      "summary": "Lowering CAC on Meta and Google starts with giving platforms the right signals and creative. Ads should lead with novel hooks tied to customer pain points and use language that reflects the target audience. Brands should optimize for new-customer purchases rather than total purchases. Then, test creative across personas, angles, and formats. 5 levers ultimately drive CAC: the offer, creative, account structure, landing page, and optimization signals."
+    },
+    {
+      "url": "https://theindiepreneur.substack.com/p/why-building-a-free-audience-is-keeping?utm_source=tldrmarketing",
+      "title": "Why Building a Free Audience is Keeping You Broke",
+      "summary": "Free audiences are much harder to monetize than paying customers. A campaign generated 3 paid subscribers from 7,500+ free readers versus 34 from roughly 350 existing customers. Instead of building an audience or product in isolation, build a small product, share the process publicly, and build relationships with potential customers. This creates distribution and trust while validating demand before scaling."
+    },
+    {
+      "url": "https://www.semrush.com/blog/semrush-mcp-use-case/?utm_source=tldrmarketing",
+      "title": "Semrush MCP use cases: 16 prompts for Claude or ChatGPT",
+      "summary": "Semrush MCP connects Semrush data to Claude and ChatGPT for live SEO research through natural language. The guide shows how to apply it across common SEO workflows using 16 copy-paste prompts. Examples walk through finding keyword opportunities, analyzing competitors, and diagnosing SEO issues without manually working through Semrush."
+    },
+    {
+      "url": "https://exitfive.com/live/ai-assisted-creativity-6-b2b-marketers/?utm_source=tldrmarketing",
+      "title": "AI-Assisted Creativity: 6 B2B Marketers Share How AI Fits Into Their Process (Webinar)",
+      "summary": "A panel of B2B marketers on September 25 will share how they use AI across creative workflows, from brainstorming through production. This session focuses on tools and prompts teams rely on and what they've stopped using. It also covers how to balance AI's speed with creative quality and includes live Q&A plus a vote on which workflow attendees plan to try."
+    },
+    {
+      "url": "https://9to5google.com/2026/09/17/google-ai-contribution-pilot-tests-paying-websites-when-theyre-used-in-ai-results/?utm_source=tldrmarketing",
+      "title": "Google ‘AI contribution pilot' tests paying websites when they're used in AI results",
+      "summary": "Google is testing a model that pays publishers when their content materially contributes to AI-generated search results. The AI Contribution Pilot includes dozens of mostly small and midsized publishers across various industries. It could create a new revenue stream as AI Overviews reduce traffic from traditional search and establish a model for compensating publishers based on their content's contribution to AI answers."
+    },
+    {
+      "url": "https://dribbble.com/stories/2026/09/16/cl-deswave-boris-sage-brand-identity-trueroll-case-study?utm_source=tldrmarketing",
+      "title": "How To Read A Design Brief: TrueRoll Golf Brand Identity Case Study",
+      "summary": "A design brief often reveals only what clients know how to articulate. The real brief may emerge later through casual comments about how the brand will actually be used. For TrueRoll Golf Club, that meant designing for golf courses rather than travelers. The identity used familiar green and gold and minimal golf imagery. Designing for physical applications also shaped the system. Listen beyond the form and design for the brand's real audience and use cases."
+    },
+    {
+      "url": "https://searchenginewatch.com/openai-and-microsoft-saw-the-publisher-traffic-problem-coming-court-filing-says/?utm_source=tldrmarketing",
+      "title": "OpenAI and Microsoft saw the publisher traffic problem coming",
+      "summary": "OpenAI and Microsoft reportedly knew AI search could cut publisher traffic."
+    },
+    {
+      "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/?utm_source=tldrmarketing",
+      "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
+      "summary": "Across 34 of 37 countries surveyed, more people expect AI to eliminate jobs than create them."
+    }
+  ]
+}

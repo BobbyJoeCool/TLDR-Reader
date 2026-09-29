@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-09-07",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thenextweb.com/news/deepseek-huawei-ai-chip-order-data-centre?utm_source=tldrhardware",
+      "title": "DeepSeek plans large Huawei chip order for new Inner Mongolia data centre",
+      "summary": "DeepSeek is preparing a large order of Huawei AI chips to power a reported one-gigawatt data center in Ulanqab, Inner Mongolia, which could begin partial operations in late 2027 or early 2028. Nvidia's most capable accelerators can't legally sell into China, leaving Huawei's Ascend family as one of the few domestic options at this scale. DeepSeek has already been tuning models for Ascend, its V4 model launched in April built for the Ascend 950, prompting Chinese cloud providers to order hundreds of thousands of units. Nvidia's Jensen Huang has called this shift a “horrible outcome” for the US, since every model optimized for Ascend chips away at CUDA's ecosystem advantage."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?utm_source=tldrhardware",
+      "title": "How a blacklisted Chinese tech giant kept buying America's best AI chips",
+      "summary": "A New York Times investigation traces how Inspur Group, the Shandong-based server manufacturer Commerce placed on its Entity List in March 2023 specifically to cut it off from restricted US technology, kept acquiring Nvidia's most advanced AI chips for years afterward. The workaround was structural rather than clandestine: Inspur and entities connected to it routed purchase orders through affiliated subsidiaries and third-party resellers whose names never appeared on the blacklist itself, letting racks of cutting-edge hardware flow through channels the Entity List was never built to catch."
+    },
+    {
+      "url": "https://media.irobot.com/2026-09-04-iRobot-Unveils-Roomba-R-Duo-at-IFA-2026,-Proving-the-Future-of-Floor-Care-Has-a-Familiar-Name?utm_source=tldrhardware",
+      "title": "Roomba Duo lets one autonomous robot carry and deploy another robot",
+      "summary": "The Roomba Duo is a dual-robot architecture where the larger autonomous machine physically carries and deploys an ultra-compact companion using a top-mounted mechanical arm. Both robots share a map and coordinate in real time, while dual-line LiDAR, PrecisionVision AI, and additional top-mounted cameras provide navigation and perception. The main robot adds a 60 mm roller mop with 46 N downforce, steam pre-treatment, 17 cm hub-motor wheels, and a centralized autonomous maintenance dock."
+    },
+    {
+      "url": "https://github.com/EspiroFares/Autonomous-UAV?utm_source=tldrhardware",
+      "title": "Open Source Human Tracking Drone for Indoor Applications with Full Sim-to-Real Pipeline",
+      "summary": "This open-source repository provides a simulation-first autonomy stack for an indoor person-following quadcopter using ROS 2, ArduPilot SITL, and the Gazebo simulator. It integrates real-time visual tracking, state estimation, and dynamic trajectory planning designed to transition reliably from virtual digital twins to physical flight."
+    },
+    {
+      "url": "https://cosmiic.org/?utm_source=tldrhardware",
+      "title": "COSMIIC — Open Source Implantable Neuromodulation Platform",
+      "summary": "The COSMIIC System is an open-source, modular implantable neuromodulation platform designed for adoption by medical technology researchers and startups. It provides standardized, interoperable hardware modules—such as pulse generators, power supplies, and biopotential recording units networked over a Controller Area Network (CAN) bus—to accelerate translational development from benchtop testing to human clinical trials."
+    },
+    {
+      "url": "https://github.com/gmsanchez/skd1?utm_source=tldrhardware",
+      "title": "SKD-1: A Low-Cost Open Source Skid-Steer Ground Vehicle",
+      "summary": "The SKD-1 repository provides open-source ROS 2 packages and configuration files for developing and operating a custom skid-steer mobile ground vehicle. It includes URDF robot descriptions, ros2_control hardware interfaces, and Gazebo simulation environments to support kinematic validation and autonomous navigation."
+    },
+    {
+      "url": "https://www.notateslaapp.com/news/4652/nhtsa-launches-probe-into-tesla-cybercab-as-public-rides-begin?utm_source=tldrhardware",
+      "title": "NHTSA launches probe into Tesla Cybercab as public rides begin",
+      "summary": "Right as Tesla's steering-wheel-less Cybercab began offering public commercial rides in Austin, NHTSA opened a formal investigation into whether the vehicle was properly certified, reviewing the technical data and compliance procedures Tesla used to self-certify up to 1,000 units under Federal Motor Vehicle Safety Standards. The core issue is hardware: the Cybercab has no steering wheel, pedals, or side-view mirrors, and automakers building vehicles without manual controls generally have to petition NHTSA for a regulatory exemption, a path Amazon's Zoox used successfully in July, but Tesla never filed one, instead self-certifying SAE Level 4 autonomy in Texas under new state rules and maintaining the Cybercab isn't subject to the standard 2,500-vehicle exemption cap."
+    },
+    {
+      "url": "https://www.gravisrobotics.com/series-a?utm_source=tldrhardware",
+      "title": "Gravis Robotics Raises $200M for Construction Autonomy",
+      "summary": "Gravis Robotics secured $200 million in Series A funding to accelerate the commercial deployment of autonomous retrofit systems for heavy construction machinery."
+    },
+    {
+      "url": "https://www.thingiverse.com/thing:6641450?utm_source=tldrhardware",
+      "title": "Open Source 3 Axis Micromanipulator",
+      "summary": "This Thingiverse project shares a 3D-printable, three-axis manual micromanipulator designed for precise positioning in benchtop experiments and inspection tasks."
+    },
+    {
+      "url": "https://github.com/local-inference-lab/rtx6kpro?utm_source=tldrhardware",
+      "title": "Running frontier LLMs on Nvidia's RTX PRO 6000 Blackwell without NVLink",
+      "summary": "A community-maintained wiki has emerged documenting reproducible Docker builds, runbooks, and benchmarks for running frontier LLMs like GLM-5, DeepSeek-V4, and Kimi on Nvidia's RTX PRO 6000 Blackwell cards over PCIe alone, without needing NVLink."
+    },
+    {
+      "url": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building/?utm_source=tldrhardware",
+      "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building",
+      "summary": "Boston's Reframe Systems raised $40 million in Series A funding to expand its network of robotic microfactories that manufacture modular, zero-carbon housing components."
+    }
+  ]
+}

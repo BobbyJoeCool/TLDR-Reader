@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-16",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.firstpost.com/lifestyle/gen-z-romanticised-the-library-into-relevance-again-14042932.html?utm_source=tldrmarketing",
+      "title": "Gen Z romanticised the library into relevance again",
+      "summary": "Gen Z is driving a library revival through viral TikTok and Instagram content. Creators frame libraries as aesthetic, free places to study, work, and socialize. 67% report visiting public libraries, including many who are not active readers. The trend also ties into growing interest in physical books and digital detox. For libraries, social content can turn cultural relevance into real-world visits and stronger evidence for continued public funding."
+    },
+    {
+      "url": "https://themarketinglabuk.substack.com/p/stop-trying-to-go-viral-you-need?utm_source=tldrmarketing",
+      "title": "Stop Trying to Go Viral. You Need the Right 100 People to Know Who You Are First",
+      "summary": "Personal branding isn't a numbers game, it's a positioning game. Being known for one specific thing, not several, is what makes a name and a topic become inseparable in someone else's mind. The first time an idea gets posted, it's scrolled past. The fifth time, it starts to register, and by the twentieth repetition a name becomes the person others associate with that topic. That kind of association compounds into leverage long before any follower count does."
+    },
+    {
+      "url": "https://app.sciencesays.com/p/don-t-use-questions-in-your-titles?utm_source=tldrmarketing",
+      "title": "Don't use questions in your titles",
+      "summary": "Use statement-based headlines instead of questions to increase engagement with marketing content. A Stanford study found that question titles generated 71.6% fewer comments and 12.6% fewer clicks across experiments and analyses of more than 22,000 news articles, 3 million academic articles, and 53,000 Reddit posts. Questions may perform worse because they signal uncertainty and provide less immediate information to readers. Test statement formats such as “X compared to Y” against question-based titles, then check that title changes don't hurt SEO."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/jenna-kamal-9977a38b_4-week-follower-audit-ugcPost-7504088715301040128-tqgY/?utm_source=tldrmarketing",
+      "title": "I audited 4 weeks of my LinkedIn posts. Here's what grew my following",
+      "summary": "A 4-week LinkedIn audit found that conversation-starting posts, relatable humor, and provocative takes drove the most follower growth. Shorter copy also performed better than long paragraphs. Memes were fast to produce and often earned strong engagement, but they didn't build followers or trust as effectively as video. The best mix is repeatable, high-engagement formats like memes alongside videos and posts that spark debate or make the audience feel seen."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/?utm_source=tldrmarketing",
+      "title": "Salesforce and Nvidia's new reasoning model is everything the AI labs should fear",
+      "summary": "Koa answers a problem Salesforce couldn't solve without Nvidia, a reasoning model trained for sales and support work that never has to touch a customer's actual data. It was post-trained entirely on synthetic conversations, including simulated irate customers and negotiating sales reps, and its architecture is built to reach a token-efficient answer faster than a general-purpose frontier model would. Its own AI gateway can now route reasoning-heavy requests to Koa instead of paying frontier-lab rates for the same work."
+    },
+    {
+      "url": "https://searchengineland.com/ai-overviews-paid-search-fight-influence-generate-demand-488451?utm_source=tldrmarketing",
+      "title": "AI Overviews and paid search: When to fight, influence, or generate demand",
+      "summary": "AI Overviews make it harder to use one bidding strategy across every search query, so marketers should classify terms by intent and AI visibility before allocating budget. High-intent terms belong in the “Fight” bucket, where paying for absolute top placement can still generate direct sales. Informational terms belong in “Influence”, where SEO and PPC should work together to earn citations and brand mentions in AI answers. Zero-click opportunities belong in “Generate Demand”, where budget should move to YouTube, Demand Gen, and content that builds demand before the eventual commercial search. In one B2B account, 83.3% of queries triggering AI answer blocks were informational, showing why reallocating budget across these buckets can matter more than simply adjusting bids."
+    },
+    {
+      "url": "https://drriven.substack.com/p/the-job-market-has-been-contracting?utm_source=tldrmarketing",
+      "title": "The Job Market Has Been Contracting for 31 Months",
+      "summary": "White-collar hiring has contracted for 31 months, with professional and technical roles shrinking despite stable overall employment. The bigger change is repeated headcount deferrals, leaving existing teams to absorb work indefinitely. Instead of waiting for hiring to recover, identify what you're actually paid for beyond your job title. Turn those skills into something clients or smaller companies would pay for. Build a small version while still employed, then review your progress in 6 months."
+    },
+    {
+      "url": "https://post.substack.com/p/does-tv-actually-suck-now-emmys?utm_source=tldrmarketing",
+      "title": "Does TV actually suck now?",
+      "summary": "Streaming didn't shrink television's quality - it multiplied its supply, turning a manageable weekly lineup into a catalog large enough to produce real decision fatigue. An audience now half-watching on a second screen while scrolling through that catalog is bound to feel worse about whatever it lands on, regardless of how well made it actually is. The fix is a shift in viewing habits, not a demand on the industry to make better shows."
+    },
+    {
+      "url": "https://microsoft.ai/news/mai-code-of-conduct/?utm_source=tldrmarketing",
+      "title": "Humanist AI in practice: A public consultation on our Code of Conduct for MAI Models",
+      "summary": "Microsoft published a first draft of its AI training and deployment manual."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/warren-hance-86869b122_unnecessarily-weird-seo-tip-go-to-the-shops-share-7505490016861597696-pvY7/?utm_source=tldrmarketing",
+      "title": "Weird ecommerce SEO tip: Go to the shops",
+      "summary": "The physical taxonomy of store aisle signage can inform ecommerce website structure."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/curtishowland_ive-spent-150m-on-meta-heres-how-when-share-7504192633540444160-D42y/?utm_source=tldrmarketing",
+      "title": "Here's how & when I run geo-lift tests",
+      "summary": "A mental model for geo-lift testing on Meta ads."
+    }
+  ]
+}

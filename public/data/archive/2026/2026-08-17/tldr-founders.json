@@ -1,0 +1,93 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-17",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://tomtunguz.com/model-release-exhaustion/?utm_source=tldrfounders",
+      "title": "Honestly, Who Buys SOTA?",
+      "summary": "Labs are shipping smarter models faster than ever, but 84% of tokens on OpenRouter are not state-of-the-art. The most popular models deliver about 77% of frontier models at 2.5% of Claude Fable 5's price. Frontier models are still winning on software architecture and security design, but application deployment is optimizing price over performance."
+    },
+    {
+      "url": "https://gtm.stage2.capital/p/do-you-need-a-gtm-engineer?utm_source=tldrfounders",
+      "title": "Do You Need a GTM Engineer?",
+      "summary": "A GTM engineer focuses on optimizing and strategizing go-to-market systems, leveraging tools like Clay and Unify. Arda's founder, Kyle Henson, shares that hiring this role arose from a pipeline failure when one key employee was on leave, highlighting the need for a systematic approach. Candidates underwent practical challenges without clear instructions, allowing them to demonstrate problem-solving and initiative, ensuring they're more than just order-takers."
+    },
+    {
+      "url": "https://99d.substack.com/p/what-capital-wants?utm_source=tldrfounders",
+      "title": "What capital wants",
+      "summary": "Startups are now competing for dollars with every other tech asset in the world. Being the best company in a category is no longer enough. Founders are never going to change an investor's mind if they've already considered an idea and rejected it. Only novel ideas stand a shot."
+    },
+    {
+      "url": "https://99tech.alexlazarow.com/p/competition-is-for-losers-in-the?utm_source=tldrfounders",
+      "title": "Competition Is For Losers In The AI Era: A Geographic Perspective",
+      "summary": "The Bay Area dominates access to venture capital. AI is radically lowering the barrier to build and scale startups. The same strategies applied in Silicon Valley to other geographies could be interesting. The global market has much less competition and more opportunity."
+    },
+    {
+      "url": "https://x.com/hnshah/status/2088663964116983856?utm_source=tldrfounders",
+      "title": "Notes on building products people love when software gets cheap",
+      "summary": "Meta treats the rest of the consumer internet like a giant external product lab. It understands what gets people to create, share, connect, consume, come back, and generally spend more time with their products. When other companies spend years and a bunch of money and discover a new behavior that people clearly like, Meta takes notice. Every software company is going to need to get much better at doing some version of this as software is becoming too easy to build. A lot of software scarcity used to come from implementation, but that is changing fast."
+    },
+    {
+      "url": "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/?utm_source=tldrfounders",
+      "title": "The 0% Quota Club (And Why the Same Mediocre Rep Hits 70% at One Company and 0% at Yours)",
+      "summary": "In surveys, only 18% of early-stage teams had 70%+ of their reps hitting quota, and a majority were sitting at 20% to 40% attainment or worse. Inside those averages was a group of reps who closed essentially nothing all year. Mediocre reps are an output of the system, not an input. Companies need extreme product-market fit, tight processes, and substantial support for reps to succeed."
+    },
+    {
+      "url": "https://knowledge.gtmstrategist.com/p/how-to-find-your-beachhead-segment?utm_source=tldrfounders",
+      "title": "The One GTM Decision You Cannot Afford to Get Wrong",
+      "summary": "By the time a product is ready to go to market, it is largely a given input. Launch broadly, then reverse-engineer, or do the digging first and use the data to find the segment most likely to convert in the next three to six months. This article looks at how to do market research. It covers market segmentation, segment scoring, research methods, the ECP prototype, and the GTM roadmap."
+    },
+    {
+      "url": "https://z.ai/blog/glm-5.3?utm_source=tldrfounders",
+      "title": "GLM-5.3 (Tool)",
+      "summary": "Power complex coding agents with post-trained open-source model and cyber defense capabilities."
+    },
+    {
+      "url": "https://antigravity.google/blog/introducing-custom-agents?utm_source=tldrfounders",
+      "title": "Introducing Custom Agents",
+      "summary": "Google has introduced Custom Agents in Antigravity 2.0 and the Antigravity CLI, with the Antigravity IDE following shortly. Custom Agents are specialized, file-based configurations that define a particular role with its own scoped instructions, tools, and constraints. The system keeps users' active contexts clean, minimizes token overhead, and gives them a predictable partner for specific tasks. Custom agents don't replace skills and dynamic subagents - they just provide even more customizability for another level of optimization."
+    },
+    {
+      "url": "https://www.modernretail.co/operations/the-pros-and-cons-of-taking-on-private-equity/?utm_source=tldrfounders",
+      "title": "The pros and cons of taking on private equity (28 minute podcast)",
+      "summary": "The transition from bootstrapped startup to major retail player is the ultimate test of sustainable growth for many founder-led brands. This means taking on more debt or venture capital for some. For others, it may mean bringing on private equity investors to shoulder the costs. This podcast discusses the strategic decisions behind that evolution."
+    },
+    {
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers?utm_source=tldrfounders",
+      "title": "Who Are the Token Brokers?",
+      "summary": "If you've been following along, you know model routers are everywhere right now. A grey market is running the same play without permission. Founders are getting offers for OpenAI and Anthropic usage at 40% to 50% below list price. One broker claimed access to $100,000 of daily spend and routed requests through its own endpoint instead of handing over provider keys. Public marketplaces list credits across cloud and model providers at discounts reaching 80%, while Telegram and founder forums supply smaller lots. The report estimates tens of millions of dollars in credits are for sale."
+    },
+    {
+      "url": "https://thephysicsofstartups.substack.com/p/the-demand-lens?utm_source=tldrfounders",
+      "title": "The Demand Lens",
+      "summary": "Demand exists independently of supply. It is the factor that determines whether a startup's product is relevant or not. Demand describes 'what wants to happen'. A founder's job is to find out what wants to happen but is currently blocked from happening, and then simply enable that thing to happen."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?utm_source=tldrfounders",
+      "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot. Click here to learn more!"
+    },
+    {
+      "url": "https://druriley.com/how-i-got-my-first-customer-with-8-notion-docs/?utm_source=tldrfounders",
+      "title": "How I Got My First Customer With 8 Notion Docs",
+      "summary": "Short feedback loops make failure cheap."
+    },
+    {
+      "url": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/?utm_source=tldrfounders",
+      "title": "Solving a largely imaginary user goal",
+      "summary": "Most dark-mode toggles make users pick between light, dark, and a confusing third option that follows the system."
+    },
+    {
+      "url": "https://readonpaper.substack.com/p/sales-still-obeys-the-laws-of-physics?utm_source=tldrfounders",
+      "title": "Sales Still Obeys the Laws of Physics",
+      "summary": "You can cut engineering by an order of magnitude, and a product will still ship, but you can't compress a relationship, which is often rated in literal touchpoints, sometimes in real life."
+    },
+    {
+      "url": "https://stratnotes.substack.com/p/jobs-to-be-done?utm_source=tldrfounders",
+      "title": "Jobs to be done",
+      "summary": "Products are not bought - they are hired for specific jobs."
+    }
+  ]
+}

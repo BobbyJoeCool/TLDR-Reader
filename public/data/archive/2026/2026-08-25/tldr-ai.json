@@ -1,0 +1,78 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-08-25",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin/?utm_source=tldrai",
+      "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded",
+      "summary": "NVIDIA's Groq 3 LPX AI inference accelerator chip is now in full production. The Groq 3 LPX racks are an extension of the NVIDIA Vera Rubin platform. They deliver boosted AI inference capabilities that enable ultra-fast token generation for response-sensitive agentic workloads. Groq 3 LPX enables agentic AI tasks to be done within minutes versus hours. It offers a 4x boost in response times versus the nearest alternative platform."
+    },
+    {
+      "url": "https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec?utm_source=tldrai",
+      "title": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record",
+      "summary": "OpenCode users processed 26 trillion tokens through Ox Alpha during the model's first four days. The anonymous AI model recorded 327,000 unique users and 8,328,244 completed sessions. It is currently available for free through an OpenAI-compatible endpoint, making it easy for developers to substitute the model into existing workflows. OpenCode's model page doesn't list Ox Alpha's maker, its release date, knowledge-cutoff date, or output-limit metadata."
+    },
+    {
+      "url": "https://x.com/seanlinehan/status/2091955290552078418?utm_source=tldrai",
+      "title": "The Economics of the Intelligence Frontier",
+      "summary": "AI tasks become commodities once models exceed their maximum necessary intelligence, shifting competition toward cost, latency, infrastructure, and distribution. Frontier labs can still become enormous businesses if new capability creates valuable markets faster than competitors reproduce and commoditize those advances."
+    },
+    {
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc?utm_source=tldrai",
+      "title": "Hot Chips 2026: CUDA Targets RISC-V",
+      "summary": "Nvidia is looking to extend CUDA support to RISC-V. This will open the door for RISC-V CPUs to feed GPU compute. RISC-V's software ecosystem has some distance to go before catching up to x86-64 and aarch64. While Nvidia's effort to bring CUDA into the RISC-V world is a promising development, the vast majority of existing RISC-V hardware won't meet Nvidia's requirements."
+    },
+    {
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines?utm_source=tldrai",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "summary": "Host machines running AI models are high-value targets: they have sufficient compute to run a frontier LLM, offer easy access to the LLM's weights, and have privileged access to other computers in the datacenter compared with a generic computer on the Internet. Research shows that LLMs can run token sequences that exploit vulnerabilities in the software that loads an LLM onto GPUs. This attack surface may be further increased with vision and audio tokens. Possible mitigations for this type of attack would be to run GPUs and token parsers on separate computers and to restrict the permissions granted to GPU hosts and treat all the data they emit as untrusted."
+    },
+    {
+      "url": "https://alexzhang13.github.io/blog/2026/spec-ptc/?utm_source=tldrai",
+      "title": "Speculative Programmatic Tool Calling",
+      "summary": "Speculative Programmatic Tool Calling (sPTC) optimizes recursive language models by pre-launching tool calls during token generation, reducing latency from high-latency tools and context generation. This method acts like a JIT compiler, allowing parallel execution of non-blocking tool calls, providing a 1-1.2x runtime speed-up. sPTC is particularly useful in memory-bound local LLMs and high-volume serving systems by overlapping computation with execution time, offering significant performance improvements for intricate program executions within harnesses like RLMs."
+    },
+    {
+      "url": "https://github.com/rome-os/rome?utm_source=tldrai",
+      "title": "Rome (GitHub Repo)",
+      "summary": "Runs persistent AI agents, workflows, and apps inside a guardrailed collaboration environment."
+    },
+    {
+      "url": "https://github.com/DEEP-JLU/Awesome-Graph-Engineering?utm_source=tldrai",
+      "title": "Graph Engineering (GitHub Repo)",
+      "summary": "A curated collection of papers, benchmarks, and open-source projects exploring how dynamic graph structures can organize tasks, coordinate agents, track runtime state, and support the evolution of multi-agent systems."
+    },
+    {
+      "url": "https://tomtunguz.com/the-ai-cost-stack/?utm_source=tldrai",
+      "title": "The AI Bullwhip",
+      "summary": "The AI infrastructure faced a series of bottlenecks from GPU scarcity to storage issues, leading to increased costs across the supply chain. As demand for AI components surged, GPU prices spiked, server shipments declined, and memory manufacturers shifted focus to High Bandwidth Memory. This mismatch of supply and demand caused inflated hardware prices and higher data center construction costs, highlighting a classic Bullwhip Effect."
+    },
+    {
+      "url": "https://about.gitlab.com/blog/when-code-is-abundant/?utm_source=tldrai",
+      "title": "When code is abundant",
+      "summary": "Large language models are transforming software development by making code generation faster and cheaper, shifting the primary challenge from creating code to trusting and verifying it. Advanced engineering organizations like Stripe, Spotify, and Amplitude have started integrating AI-generated code into production, emphasizing the need for robust governance, context, and verification systems."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?utm_source=tldrai",
+      "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot. Click here to learn more!"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-launches-wan3-0-ai-131300534.html?utm_source=tldrai",
+      "title": "Alibaba launches Wan3.0 AI video model after record $10 billion share sale",
+      "summary": "Wan3.0 is an AI model that can generate 30-second videos from text and data."
+    },
+    {
+      "url": "https://www.goodfire.com/grants?utm_source=tldrai",
+      "title": "Goodfire Launches $1M Research Grant Program for AI Interpretability",
+      "summary": "Goodfire has announced a $1M research grant program that will provide free access to Silico, its frontier AI research and interpretability platform."
+    },
+    {
+      "url": "https://runtimewire.com/article/anthropic-hires-google-tpu-veteran-amir-salek-chip-team?utm_source=tldrai",
+      "title": "Anthropic hires Google TPU veteran Amir Salek for its own chip push",
+      "summary": "Amir Salek was the engineer who founded Google's custom-chip program and ran its Tensor Processing Unit business."
+    }
+  ]
+}

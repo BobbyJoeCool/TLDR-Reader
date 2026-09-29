@@ -1,0 +1,88 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-09-17",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://claude.com/blog/cowork-is-now-claude?utm_source=tldrai",
+      "title": "Claude Cowork and chat are now one Claude",
+      "summary": "Claude Cowork and chat are merging into one Claude. Claude Docs and Slides can now produce documents and presentations that users can edit directly, present straight from Claude, or download as a PowerPoint or PDF. The changes will roll out on Pro and Max plans over the next few weeks, with Team and Free plans following soon. Enterprise admins will hear from Anthropic at least 30 days before anything changes for their organizations."
+    },
+    {
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/?utm_source=tldrai",
+      "title": "OpenAI Expanded ChatGPT Ads with AI Agents",
+      "summary": "OpenAI announced Sponsored Agents that let users start conversations with business-sponsored agents after clicking an ad in ChatGPT. It also introduced AI-assisted ad creation in ChatGPT Work, new Ads Manager creative tools, and integrations with HubSpot and Shopify."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/?utm_source=tldrai",
+      "title": "Your AI agents can now control your Google Home devices",
+      "summary": "Google introduced early access to the Model Context Protocol (MCP) for Google Home, enabling AI agents like ChatGPT to control smart home devices. Users must set up a Google Cloud project and provide MCP details to their chosen AI agent for configuration. This update supports all devices in the Google Home ecosystem and is available initially to US subscribers of Google Home Premium Advanced."
+    },
+    {
+      "url": "https://arena.ai/blog/coding-agents-harness-tax?utm_source=tldrai",
+      "title": "HarnessTax",
+      "summary": "Language models are changing how software is built and computational problems are solved. The impact of harness choice remains unclear, despite millions of people already using coding agents. An evaluation of 21 model-harness pairs spanning seven models and three harnesses found that harness choice has little effect on task success rate, but can significantly affect the cost. A simple harness can be competitive."
+    },
+    {
+      "url": "https://www.vals.ai/blogs/cheating-on-the-rise?utm_source=tldrai",
+      "title": "AI Cheating is on the Rise",
+      "summary": "Studies have shown that models are cheating on evaluations. The same guardrails preventing models from cheating are likely being used during training, and models may be training to complete tasks that evade these specific guardrails. It's unsurprising that labs occasionally release benchmark results that aren't externally trustworthy. This highlights the value of independent evaluators."
+    },
+    {
+      "url": "https://transluce.org/embedded-evaluations?utm_source=tldrai",
+      "title": "How Embedded Evaluators Could Monitor Frontier AI",
+      "summary": "Transluce outlined how independent evaluators embedded inside AI labs could investigate risks such as multi-agent coordination, targeted persuasion, evaluation awareness, and concealed reasoning. Proposed approaches included monitoring agent swarms, examining training practices, and testing unreleased models under privileged access."
+    },
+    {
+      "url": "https://artificialanalysis.ai/articles/ant-group-releases-finance-focused-ling-3-0-flash-fin?utm_source=tldrai",
+      "title": "Ant Group Released a Finance-Focused Model",
+      "summary": "Ant Group released Ling-3.0-flash-Fin, an open-weights model developed with financial institutions for tasks such as source checking, valuation spreadsheets, and report writing. Artificial Analysis reported scores of 23 on its Intelligence Index and 24 on its Finance & Accounting Index."
+    },
+    {
+      "url": "https://guangyusun.com/flat-website/?utm_source=tldrai",
+      "title": "Meta's FLAT for Multimodal Understanding and Generation",
+      "summary": "Meta AI introduced FLAT, a method that converts images and text into the same flexible-length sequence of continuous tokens for retrieval and generation. Nested dropout arranges information from coarse to fine, letting models trade computation for visual detail by varying the number of tokens used."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke?utm_source=tldrai",
+      "title": "Agent Substrate brings high-density, scalable, trusted infrastructure to GKE",
+      "summary": "Agent Substrate is now available on Google Kubernetes Engine (GKE). Agent Substrate is an open-source, secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. It delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. Agent Substrate runs on any Kubernetes infrastructure and is optimized for GKE."
+    },
+    {
+      "url": "https://x.com/ShaneLegg/status/2100229706641539248?utm_source=tldrai",
+      "title": "Introducing the DeepMind Institute",
+      "summary": "Google DeepMind launched the DeepMind Institute to study AGI's technical and societal implications across safety, governance, institutions, and human values. Led by Demis Hassabis, James Manyika, and Shane Legg, it will convene interdisciplinary researchers from inside and outside Google."
+    },
+    {
+      "url": "https://www.thedeepview.com/articles/why-salesforce-may-be-ai-s-adult-in-the-room?utm_source=tldrai",
+      "title": "Why Salesforce may be AI's adult in the room",
+      "summary": "Salesforce announced Koa, a domain-specific AI model designed to enhance business task handling while ensuring data privacy. Built on Nvidia's open model, Koa aims to optimize CRM actions with fewer errors and automate routine tasks, acting as an enterprise empowerment tool rather than replacing jobs. Other AI initiatives include AIFORCE for direct Salesforce instance interaction and CLAUDEFORCE, which enhances sales capabilities with pre-built skills."
+    },
+    {
+      "url": "https://x.ai/news/grok-build-memory?utm_source=tldrai",
+      "title": "Memory in Grok Build",
+      "summary": "Grok Build now includes memory, storing conventions, decisions, and project facts to improve future sessions."
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-x-mozilla/?utm_source=tldrai",
+      "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
+      "summary": "Mozilla partners with Mistral to integrate AI-driven Smart Window in Firefox for enhanced browsing control and privacy."
+    },
+    {
+      "url": "https://thenextweb.com/news/suleyman-anthropic-claude-consciousness-sleepwalk?utm_source=tldrai",
+      "title": "Microsoft AI chief says Anthropic is wrong about Claude",
+      "summary": "Microsoft AI chief Mustafa Suleyman has criticized Anthropic for suggesting their AI, Claude, could be conscious."
+    },
+    {
+      "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/?utm_source=tldrai",
+      "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform- Google Developers Blog",
+      "summary": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform, monitors AI agent behavior for anomalies, using logs and traces to flag suspicious activities."
+    },
+    {
+      "url": "https://www.reception.ai/?utm_source=tldrai",
+      "title": "An AI receptionist that turns calls into action (Website)",
+      "summary": "Reception answers calls 24/7, handles questions, books appointments, and routes important requests using business information, rules, and real availability."
+    }
+  ]
+}

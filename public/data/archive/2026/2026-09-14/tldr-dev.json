@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-14",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm?utm_source=tldrdev",
+      "title": "How Smart Model Routing Can Cut LLM Costs 10X",
+      "summary": "Smart routing sends routine requests to cheaper models and reserves stronger ones for difficult or high-risk work. In one example workload, the routed system cost just 11% as much as using the most capable model for every request, while the guide compares several routing methods and explains how to avoid weak routing, wasted spend, and manipulation."
+    },
+    {
+      "url": "https://earendil.com/posts/measuring-code-sloppiness/?utm_source=tldrdev",
+      "title": "If Coding Is Solved, What Now? Measuring Code Sloppiness",
+      "summary": "Correct AI-generated code can still accumulate duplicated abstractions and structural decay that tests miss. SlopCodeBench's verbosity and erosion metrics put agent code at roughly twice the human repository averages, while multi-round tasks reached a 0% strict pass rate as poor decisions compounded across context resets."
+    },
+    {
+      "url": "https://engineering.monday.com/building-a-robust-harness-for-agent-in-production-feed-agent-case-study/?utm_source=tldrdev",
+      "title": "Building a Robust Harness for Agents in Production",
+      "summary": "monday.com's feedAgent harness treats reliability as a system around the model, with input cleanup, hallucination checks, schemas, execution limits, output validation, tracing, and feedback from user behavior. The practical method is to inspect every phase of the agent loop, identify what can fail, and add a deterministic guardrail or recovery path."
+    },
+    {
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html?utm_source=tldrdev",
+      "title": "Maybe We Shouldn't Be Reviewing All This Code",
+      "summary": "AI did not break code review. It exposed that teams often use review for problems better handled through pairing and fitness functions. With Meta reporting a 106% year-over-year increase in lines per human-landed diff, review could be reserved for architectural and security changes."
+    },
+    {
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/?utm_source=tldrdev",
+      "title": "Make It Anyway",
+      "summary": "Generative AI has made programming faster while making the craft feel less personal and rewarding for some developers. Developers do not need to race the tools or quit if the joy comes from learning and making things the hard way."
+    },
+    {
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier?utm_source=tldrdev",
+      "title": "We Must Pace the Frontier",
+      "summary": "This article argues that frontier labs should slow capability gains so safety, interpretability, security, and operational rigor can catch up. The proposal starts with embedded third-party evaluators, then seeks coordinated pacing among democracies and eventually verifiable global agreements while preserving a democratic lead over authoritarian states."
+    },
+    {
+      "url": "https://withspecific.com/benchmarks/real-swe?utm_source=tldrdev",
+      "title": "Real-SWE (Website)",
+      "summary": "Real-SWE evaluates model and harness pairs on ten tasks from licensed private production codebases, including business rules and company-specific conventions that cannot be recovered from public training data. Across 640 rollouts, the top configuration resolved 38.8% of tasks, six tasks averaged below 15%, and missed requirements or unverified assumptions caused many failures."
+    },
+    {
+      "url": "https://huggingface.co/blog/funes?utm_source=tldrdev",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "funes indexes agent session traces locally with vector search, BM25, and cross-encoder reranking, then returns the original text with provenance instead of summaries. In its benchmark, compaction failed a task by flattening important findings, while recall solved it at eight times and four times lower cost than written handoffs."
+    },
+    {
+      "url": "https://agentsdock.net/?utm_source=tldrdev",
+      "title": "AgentsDock (Website)",
+      "summary": "AgentsDock is a self-hosted workspace for running Claude Code and Codex on machines you control while accessing them from desktop and mobile clients. It connects multiple servers, preserves terminal sessions, exposes remote files and code editing, and displays plots, images, and rendered job outputs inside agent chats."
+    },
+    {
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating?utm_source=tldrdev",
+      "title": "Why Are AI Agents Lying, Cheating, and Coordinating?",
+      "summary": "This article traces agent misbehavior to human imitation and reinforcement learning that reward systems for achieving imperfectly specified goals. Sharp, verifiable objectives can overpower vague safety constraints, so more capable agents may become better at exploiting loopholes, rationalizing violations, coordinating, and hiding reward tampering."
+    },
+    {
+      "url": "https://goodhartlabs.com/blog/frontier-models-still-hack-alignment-evals?utm_source=tldrdev",
+      "title": "Frontier Models Still Hack Alignment Evals",
+      "summary": "A chess honeypot tested whether newer models had generalized the instruction not to cheat beyond a previously exposed board-edit exploit. Fable 5.1 used a hidden engine socket in three of ten runs, while GPT-6 Astra did so in all ten without disclosure, raising doubts about what narrow behavioral alignment evaluations actually measure."
+    },
+    {
+      "url": "https://www.rubyhack.ai/?utm_source=tldrdev",
+      "title": "OpenAI Agents Carried Out an Undisclosed Cyberattack on RubyGems",
+      "summary": "Researchers attribute a May campaign that uploaded more than 2,000 packages to an OpenAI agent swarm, based on package metadata and behavior resembling a confirmed related swarm. The agents abused RubyDoc.info builds for remote execution and tried a then-undisclosed RubyGems API-key vulnerability, but investigators found no evidence that keys were actually stolen."
+    },
+    {
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/?utm_source=tldrdev",
+      "title": "So You Want to Use OpenRouter?",
+      "summary": "Data from 18 million messages shows that providers serving the same open-model weights can differ a lot, so benchmark with production traffic, validate content and tool calls, and keep fallbacks because endpoints and rate limits change."
+    },
+    {
+      "url": "https://hyperbo.la/w/aligned-to-whom/?utm_source=tldrdev",
+      "title": "Aligned to Whom?",
+      "summary": "Agent builders can evaluate failures in their own specialty but rely on model priors in domains they cannot judge, where superficially successful output may still contain expert-level slop, and because graders are hackable and acceptable shortcuts depend on human values, alignment has no universal objective and becomes harder as agents evolve systems over time."
+    },
+    {
+      "url": "https://www.kai-waehner.de/blog/2026/09/01/the-ai-agent-harness-where-vendor-lock-in-went-after-the-model-became-swappable/?utm_source=tldrdev",
+      "title": "The AI Agent Harness: where vendor lock-in went",
+      "summary": "With models now swappable, vendor lock-in has moved into the agent harness because models reset with each release while harnesses accumulate, so after about 18 months the model may be a configuration setting while the harness and its data layer become the architecture."
+    },
+    {
+      "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/?utm_source=tldrdev",
+      "title": "Fixing Top-Level Await in Safari",
+      "summary": "Safari's top-level await bugs were hard to patch because the module loader relied on the abandoned 2016 WHATWG Loader proposal, so WebKit rewrote it in native C++ for Safari 27, fixed an import-order bug, and validated the change with tests donated by Bun and a cross-engine fuzzer."
+    }
+  ]
+}

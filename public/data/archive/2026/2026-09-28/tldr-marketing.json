@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-28",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.netinfluencer.com/clipping-101-inside-the-clipping-economy/?utm_source=tldrmarketing",
+      "title": "Clipping 101: Inside the Clipping Economy",
+      "summary": "Clipping is emerging as a performance-based distribution model where brands pay networks of creators to turn existing content into short-form clips and only pay when posts reach verified view thresholds. The model has gained traction in entertainment, where brands have large libraries of inherently watchable content, while also serving as a way to test creative before putting paid spend behind the best-performing clips."
+    },
+    {
+      "url": "https://www.thestateofbrand.com/news/chatgpt-ads-organic-traffic?utm_source=tldrmarketing",
+      "title": "ChatGPT Ads Seem to Lift Organic Traffic. Is Paying To Be Found the Future of AI Search?",
+      "summary": "ChatGPT ads appear to coincide with higher organic ChatGPT traffic, but some of that lift may come from ad clicks being misclassified as organic referrals in GA4. OpenAI says ads don't influence its answers, and there is no public study proving whether ads affect organic visibility. It recommends tagging ad URLs, auditing ‘oppref' traffic, running holdout tests, and tracking organic mentions separately from traffic."
+    },
+    {
+      "url": "https://www.wordstream.com/blog/customer-language-in-marketing?utm_source=tldrmarketing",
+      "title": "How to Use Customer Language for Powerful Marketing Copy",
+      "summary": "Pull customer language from 15 to 20 recent reviews, support tickets, sales calls, Google Ads search terms, and AI conversations. Tag phrases that repeat and use them in headlines, CTAs, ads, service pages, and FAQs. For AI visibility, ask prospects who found you through ChatGPT or Perplexity to share their conversations, including follow-up questions and competitor comparisons. Start by changing one headline or CTA, measure results after 30 days, then repeat quarterly."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/free-trial-length?utm_source=tldrmarketing",
+      "title": "How long should your free trial be?",
+      "summary": "Test trial length based on how quickly users experience value, how often they need to return, and the cost of free access. Compare short trials against 5-9, 10-16, and 17-32-day options within each subscription plan, tracking conversion and first renewal separately. For monthly plans, test 10-16 days rather than assuming longer is better. AI apps should also factor in per-user inference costs, while regional and category differences can justify different trial lengths."
+    },
+    {
+      "url": "https://johnjwang.com/post/2026/09/25/how-xs-ranking-algorithm-works?utm_source=tldrmarketing",
+      "title": "How X's ranking algorithm works",
+      "summary": "X's ranking algorithm favors posts that people are likely to share, reply to, or quote rather than simply like. A copy link share carries 40X the weight of a like, while replies and quotes each carry 10X the weight. Posts also need to stay focused on a clear topic to reach relevant nonfollowers, and negative actions such as mutes and reports carry heavy penalties. The algorithm also reduces the value of repeated posts from the same author and stops considering posts after 48 hours. Posting less often and creating highly shareable content can improve reach."
+    },
+    {
+      "url": "https://www.geekwire.com/2026/amazon-will-let-sellers-manage-walmart-ebay-shopify-and-tiktok-sales-from-their-amazon-dashboards/?utm_source=tldrmarketing",
+      "title": "Amazon will let sellers manage Walmart, eBay, Shopify, and TikTok sales from their Amazon dashboards",
+      "summary": "Amazon is rolling out free multichannel selling tools that let US sellers manage Walmart, eBay, Shopify, and TikTok sales from Seller Central. Sellers can connect accounts, sync listings, view orders, and fulfill purchases across channels. Amazon says it will not use rival-platform data for other purposes."
+    },
+    {
+      "url": "https://installmap.com/research/software-stack-by-company-size?utm_source=tldrmarketing",
+      "title": "The stack ladder: what companies run at 10, 50, 200, 1,000, and 10,000 people",
+      "summary": "Startups don't necessarily switch to enterprise software as they grow. Among Y Combinator companies with 1 to 1,000 employees, the same category leaders dominate at most company sizes. HubSpot leads CRM at every size, while Cloudflare leads hosting, including among Fortune 500 companies. Marketo and Adobe Experience Manager appear only among Fortune 500 companies. What changes with headcount is adoption. CRM usage rises from 7% of the smallest startups' homepages to 42% among companies with 201 - 1,000 employees."
+    },
+    {
+      "url": "https://thedataecosystem.substack.com/p/issue-71-the-agentic-cdp-customerlake?utm_source=tldrmarketing",
+      "title": "AI marketing is moving into the data platform",
+      "summary": "Agentic CDPs bring AI directly into governed customer data, giving agents the context needed to build audiences and design campaigns. Unlike traditional CDPs that sync copies of data into marketing tools, they connect directly to the governed data platform and combine customer behavior with real-time signals and business goals. The use cases build over time, from natural-language data queries to agent-built campaigns and continuous engagement."
+    },
+    {
+      "url": "https://www.buzzstream.com/blog/subject-line-examples/?utm_source=tldrmarketing",
+      "title": "27 Real Subject Line Examples for Every Type of Media Pitch",
+      "summary": "Subject lines with key details in the first 3 words had a 46% open rate vs. 38% when it appeared in word 7 or later."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo?utm_source=tldrmarketing",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "summary": "OpenAI said its AI agents improperly interacted with dozens of government and public agency websites, including the SEC and Census Bureau."
+    },
+    {
+      "url": "https://sporked.com/article/fishwife-sardines-just-announced-the-quirkiest-collab/?utm_source=tldrmarketing",
+      "title": "Fishwife Sardines Just Announced The Quirkiest Collab",
+      "summary": "Dieux and Fishwife collaborated on reusable silicone eye patches featuring Fishwife's signature fish illustrations, packaged to look like a tin of fish."
+    }
+  ]
+}

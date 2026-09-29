@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-08-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/?utm_source=tldrdevops",
+      "title": "Happy 20th Birthday, Amazon EC2",
+      "summary": "Amazon EC2 turns 20 years old today. Jeff Barr's original blog post in 2006 introduced a single instance type, m1.small, in one region, billed by the hour. The service has since grown from that one instance type to over 1,200, spanning 39 regions globally."
+    },
+    {
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/?utm_source=tldrdevops",
+      "title": "The August 17 Outage, and the Work Ahead",
+      "summary": "GitHub's 7-hour-and-47-minute outage on August 17 began when record traffic overwhelmed a critical Central US infrastructure component that failed to scale, triggering authentication failures and cascading service disruption. Recovery was complicated by a client-side retry loop in Copilot. GitHub is responding with stricter retry budgets and timeouts, more capacity, fewer shared dependencies, and continued migration to Azure, which now serves about 58% of platform load."
+    },
+    {
+      "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem?utm_source=tldrdevops",
+      "title": "Solving the 1+N Query Problem",
+      "summary": "Acadia eliminates the N+1 query problem by design: its query language has no general-purpose loops or recursion, so developers cannot accidentally turn a relationship lookup into one query followed by N additional database calls. Inspired by Datalog, Acadia instead expresses relationships through operations like intersect that compile into set-based SQL, while also guaranteeing that queries terminate in polynomial time relative to the size of the data."
+    },
+    {
+      "url": "https://boristane.com/blog/on-call-is-now-theatre/?utm_source=tldrdevops",
+      "title": "On-Call Is Now Theatre",
+      "summary": "AI agents have transformed software development but production operations still rely on human-centered on-call systems that constrain velocity. The proposed model uses agents to continuously detect, investigate, fix, and prevent incidents, escalating only genuinely novel problems while shifting engineers from first responders to decision makers."
+    },
+    {
+      "url": "https://www.digitalocean.com/blog/patching-januscape-amd-safe-ret?utm_source=tldrdevops",
+      "title": "Patching at Fleet Scale, Twice: How DigitalOcean Closed Januscape and the AMD Safe RET Issue Without Customer Impact",
+      "summary": "DigitalOcean patched its entire hypervisor fleet against two separate guest-to-host vulnerabilities within a single month, reporting zero confirmed customer-facing impact in both cases. The first, a KVM nested virtualization flaw called Januscape (CVE-2026-53359), was publicly disclosed July 6 and fully remediated across all hypervisors by July 14, eight days later. The second affected roughly 1,600 AMD hypervisors across twelve regions and required a kernel update and reboot on every machine, a harder constraint than the first, yet the entire fleet was patched by August 5, one day before AMD published its public bulletin."
+    },
+    {
+      "url": "https://github.com/apache/maka?utm_source=tldrdevops",
+      "title": "Apache Maka (GitHub Repo)",
+      "summary": "Apache Maka is a local-first AI agent workspace that runs models and tools through a sandboxed runtime while keeping sessions, tool calls, results, and recovery data on the user's machine by default. It provides desktop, CLI/TUI, and evaluation interfaces, supports built-in file and shell tools, records durable execution histories for crash recovery and context trimming, and can connect to cloud APIs, local models, or compatible gateways."
+    },
+    {
+      "url": "https://github.com/asciimoo/hister?utm_source=tldrdevops",
+      "title": "Hister (GitHub Repo)",
+      "summary": "Hister is a private search engine that indexes the full contents of pages you visit and files you store locally. It works through a web interface, terminal, or an AI assistant connected via MCP. By default, it has no telemetry and no cloud sync, and the browser extension sends indexed content only to the server you configure. Optional semantic search requires you to choose your own embeddings endpoint."
+    },
+    {
+      "url": "https://octopus.com/blog/ai-powered-incident-bot?utm_source=tldrdevops",
+      "title": "Building an AI-Powered Incident Bot with Octopus Deploy",
+      "summary": "A proof-of-concept bot named Octopus Healer sends Kubernetes alert context to an AI model, which selects a predefined remediation type and fills runbook parameters rather than generating executable commands. Octopus Deploy then executes the runbook only after an operator reviews and approves it in Slack, preserving audit trails and existing permissions."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response/?utm_source=tldrdevops",
+      "title": "Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response",
+      "summary": "Atlassian has built an automated root cause analysis system designed to cut the time engineers spend diagnosing production incidents across its hundreds of microservices. The system pulls anomaly signals from metrics, distributed traces, and logs, aligns them on a shared timeline, and traverses a service dependency graph built from OpenTelemetry span data to generate ranked hypotheses about fault origin."
+    },
+    {
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise?utm_source=tldrdevops",
+      "title": "AI Coding Will Prevent Expertise",
+      "summary": "AI coding tools can create an “expert novice” problem: developers are expected to use agents effectively before they have built the judgment needed to evaluate their output, while heavy reliance on generated code can bypass the struggle that develops that judgment in the first place. A better learning model is to use AI as a tutor or Socratic partner rather than a code generator, preserving the planning, debugging, and trial-and-error that turns experience into expertise."
+    },
+    {
+      "url": "https://www.databricks.com/blog/run-debug-and-scale-databricks-workloads-your-local-ide?utm_source=tldrdevops",
+      "title": "Run, debug, and scale Databricks workloads from your local IDE",
+      "summary": "Databricks has updated its IDE tools to let developers connect VS Code, Cursor, or a terminal directly to Databricks compute via a new SSH tunnel."
+    },
+    {
+      "url": "https://www.jenkins.io/blog/2026/08/24/contributor-summit-virtual/?utm_source=tldrdevops",
+      "title": "Jenkins Contributor Summit Virtual Event (September 11, 2026)",
+      "summary": "Jenkins will hold a virtual Contributor Summit hackathon on September 11, running 08:30 to 19:30 CEST across an APAC/EMEA morning block and an EMEA/Americas afternoon block."
+    }
+  ]
+}

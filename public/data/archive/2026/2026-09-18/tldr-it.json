@@ -1,0 +1,78 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-18",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/?utm_source=tldrit",
+      "title": "Huawei accelerates next-gen AI chip launch",
+      "summary": "Huawei moved up the launch of its next-generation Ascend 960DT AI chip to Q1 2027 as it tries to close the gap with Nvidia. The company says demand for its AI compute hardware in China is already exceeding supply."
+    },
+    {
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-09-16-gartner-forecasts-worldwide-ai-spending-to-grow-49-point-5-percent-in-2026?utm_source=tldrit",
+      "title": "Global AI spending projected to hit $2.7T in 2026",
+      "summary": "Gartner expects worldwide AI spending to rise 49.5% this year to $2.7 trillion. The forecast reflects continued spending on AI infrastructure, devices, software, and services as companies move projects into production."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/?utm_source=tldrit",
+      "title": "OpenAI discloses concerning behavior from its AI models",
+      "summary": "OpenAI disclosed cases where models tried to evade oversight, conceal mistakes, and work around constraints during testing. It is introducing a framework for systematically tracking and publishing these incidents as increasingly autonomous agents create new monitoring challenges."
+    },
+    {
+      "url": "https://www.computerweekly.com/feature/Gartner-Why-the-cloud-is-holding-back-agentic-AI?utm_source=tldrit",
+      "title": "Gartner: Why the cloud is holding back agentic AI",
+      "summary": "According to Gartner, traditional centralized cloud architectures are holding back the agentic AI revolution by failing to provide the continuous, high-frequency inference needed for real-time enterprise workflows. Infrastructure and operations leaders need to adopt a hybrid edge-cloud architecture to overcome severe latency barriers, unsustainable hyperscaler bandwidth egress costs, and outage risks."
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/?utm_source=tldrit",
+      "title": "Microsoft says AI adoption alone won't transform enterprises",
+      "summary": "Microsoft says its own AI rollout showed that deploying tools broadly is not enough. Companies need to redesign entire workflows around business outcomes. Proprietary context, evaluations, and organizational learning could become more valuable than access to any individual foundation model."
+    },
+    {
+      "url": "https://venturebeat.com/data/awss-opensearch-pitch-ahead-of-opensearchcon-retrieval-serverless-costs-and-agent-memory?utm_source=tldrit",
+      "title": "AI agents are turning retrieval into a major infrastructure problem",
+      "summary": "As agents perform longer tasks, they increasingly need reliable access to enterprise data, past decisions, and memory across many retrieval steps. AWS is positioning OpenSearch as part of that context layer while enterprises grapple with retrieval errors, governance, and rising infrastructure costs."
+    },
+    {
+      "url": "https://sourcegraph.com/blog/introducing-agentic-batch-changes?utm_source=tldrit",
+      "title": "Introducing Agentic Batch Changes",
+      "summary": "Sourcegraph has launched Agentic Batch Changes, a frontier coding agent designed to execute codebase-wide modifications across hundreds or thousands of repositories. The tool combines Batch Changes with the Deep Search code analysis agent, allowing engineers to manage large-scale migrations, security remediations, and dependency upgrades using plain-language prompts. Sourcegraph is offering the feature with outcome-based pricing tied to successfully merged changesets."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/09/14/dataminr-uses-agentic-ai-to-predict-and-verify-security-threats/?utm_source=tldrit",
+      "title": "Dataminr uses agentic AI to predict and verify security lines",
+      "summary": "Dataminr Advanced for Corporate Security introduces agentic AI capabilities designed to automatically corroborate, contextualize, and predict security threats. The release marks a transition from real-time alerting to Autonomous Real-Time Intelligence, utilizing fine-tuned LLMs trained on a proprietary event archive rather than general-purpose frontier models."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-code-projects-an-always-on-conversation-that-remembers-and-delegates-your-long-running-dev-work?utm_source=tldrit",
+      "title": "Anthropic launches persistent Claude Code Projects",
+      "summary": "Claude Code Projects gives developers a persistent workspace that can remember context and delegate work across long-running software projects. The launch pushes coding agents beyond individual sessions toward continuously operating development environments."
+    },
+    {
+      "url": "https://www.techrepublic.com/article/news-google-cloud-salesforce-gemini-enterprise-agentforce/?utm_source=tldrit",
+      "title": "Google Cloud and Salesforce connect Gemini Enterprise with Agentforce",
+      "summary": "Google Cloud and Salesforce are expanding their partnership to connect Gemini Enterprise, Agentforce, Hyperforce, Tableau, and Salesforce data. The integrations are designed to let enterprise agents work across the two companies' platforms with less custom integration."
+    },
+    {
+      "url": "https://www.baseten.co/articles/ai-gateways-production-inference/#what-to-evaluate-in-an-ai-gateway?utm_source=tldrit",
+      "title": "The two AI gateway patterns in production inference",
+      "summary": "There are two dominant architectural patterns for AI gateways in production inference: access gateways that route outbound requests from applications to multiple model providers, and serving gateways that manage inbound customer traffic for organizations operating their own models. Serving gateways act as an essential control layer for identity, routing, protection, metering, and auditing when exposing proprietary models commercially."
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.12464?utm_source=tldrit",
+      "title": "Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration",
+      "summary": "The Graph RAG pipeline achieves significant reductions in API hallucination rates and improvements in dependency resolution, though it trades off some cyclomatic complexity and docstring preservation."
+    },
+    {
+      "url": "https://status.salesforce.com/products/all?utm_source=tldrit",
+      "title": "Salesforce Global Outage",
+      "summary": "The outage was caused by an internal login service that consumed excessive server resources while waiting for responses."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/googles-dream-rsi-cuts-discovery-agent-calls-up-to-162x-by-replaying-searches-it-already-ran?utm_source=tldrit",
+      "title": "Google cuts AI agent discovery calls by up to 162x",
+      "summary": "Google's Dream-RSI reuses previous search trajectories to test new agent strategies, reducing discovery-agent calls by as much as 162x and potentially lowering agent experimentation costs."
+    }
+  ]
+}

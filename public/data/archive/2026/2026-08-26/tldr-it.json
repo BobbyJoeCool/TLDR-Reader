@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.networkworld.com/article/4213820/cisco-bulks-up-its-ai-infrastructure-portfolio-with-supermicros-liquid-cooled-servers.html?utm_source=tldrit",
+      "title": "Cisco adds Supermicro servers to its NVIDIA AI Factory stack",
+      "summary": "Cisco is adding Supermicro's liquid- and air-cooled systems to its Secure AI Factory with NVIDIA. The expanded stack targets enterprises, neoclouds, and sovereign clouds deploying increasingly dense GPU infrastructure."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/?utm_source=tldrit",
+      "title": "OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)",
+      "summary": "OpenAI's GPT-5.6 Terra and Luna models are now generally available through Amazon Bedrock in AWS GovCloud (US-West) and (US-East). Terra targets balanced performance while Luna emphasizes faster, lower-cost inference. Both offer million-token context windows and support prompt caching with a stated 90% discount for repeated context."
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/openai-details-jalape%C3%B1o-ai-chip-with-700w-tdp/?utm_source=tldrit",
+      "title": "OpenAI's Jalapeño AI chip is optimized for inference efficiency",
+      "summary": "OpenAI has revealed more details about Jalapeño, its first custom AI accelerator built with Broadcom. The chip is rated at 700W but stayed at or below 550W in tested workloads, as OpenAI pushes to reduce inference costs and power use."
+    },
+    {
+      "url": "https://aicoding.leaflet.pub/3mtu6c5wsvc2n?utm_source=tldrit",
+      "title": "SaaS Isn't Dead. Sameness Is",
+      "summary": "SaaS is not disappearing, but cheap AI-assisted software generation will weaken the standardized applications and seat-based pricing that defined it. Vendors may instead provide underlying services such as authoritative data, compliance, security, integrations, networks, and operational accountability, while customers create more tailored applications for smaller internal audiences."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388?utm_source=tldrit",
+      "title": "McKinsey says enterprise AI is finally moving toward ROI",
+      "summary": "Enterprise AI investment keeps climbing, but measurable earnings impact remains limited. McKinsey's latest analysis suggests companies are beginning to find clearer paths to ROI as deployments move into redesigned workflows."
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs?utm_source=tldrit",
+      "title": "Perplexity and Nvidia launch an AI agent that runs locally",
+      "summary": "Perplexity's new Portable Computer runs agent workloads locally on Nvidia DGX Spark and RTX-powered Linux machines, avoiding token charges for local work. Tasks remain on-device by default and can move to cloud models when needed."
+    },
+    {
+      "url": "https://www.theregister.com/databases/2026/08/24/oracle-exadata-databaseaws-offers-advantages-but-trade-offs-remain/5291731?utm_source=tldrit",
+      "title": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
+      "summary": "Oracle has made Exadata Database Service generally available through Oracle Database@AWS, extending its high-performance database platform into AWS datacenters. Licensing experts say the service can reduce processor-license requirements and suit license-constrained customers, but higher compute and storage costs, less granular capacity, and Oracle sales claims may undermine its value compared with native AWS options."
+    },
+    {
+      "url": "https://supabase.com/blog/enterprise-managed-auth-for-the-supabase-mcp-server?utm_source=tldrit",
+      "title": "Enterprise-managed auth for the Supabase MCP server",
+      "summary": "Supabase has generally released enterprise-managed authentication for its MCP server on Team and Enterprise plans, built with Anthropic and Okta. The feature lets an administrator authorize Supabase in Claude once and manage access through the organization's identity provider, while each employee retains the projects, role, and permissions they already have in Supabase."
+    },
+    {
+      "url": "https://www.constellationr.com/research/blog/open-weight-models-are-gaining-ground-enterprise-ai?utm_source=tldrit",
+      "title": "Open-Weight Models Are Gaining Ground in Enterprise AI",
+      "summary": "Open-weight models are moving from developer experimentation into enterprise production workloads, according to usage data cited from Vercel's AI Gateway. Cost advantage, growing role in multi-model deployments, managed inference availability, developer adoption, and suitability for agentic workloads could make open-weight models a durable part of enterprise AI without requiring widespread self-hosting."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4213538/google-adds-ai-powered-assessments-to-migration-center-to-speed-up-cloud-migration-planning.html?utm_source=tldrit",
+      "title": "Google adds AI assessments to its cloud Migration Center",
+      "summary": "Google is adding AI-powered assessments to Migration Center to automate parts of cloud migration planning and business-case development. The tools aim to speed up early analysis before deeper technical validation."
+    },
+    {
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/?utm_source=tldrit",
+      "title": "Apple's new Macs lean heavily into local AI inference",
+      "summary": "Apple's new Mac Studio and Mac mini emphasize running increasingly capable AI models directly on local hardware."
+    },
+    {
+      "url": "https://blog.apnic.net/2026/08/25/ai-ipv6-and-the-future-internet-at-ietf-126/?utm_source=tldrit",
+      "title": "AI, IPv6, and the future Internet at IETF 126",
+      "summary": "At IETF (Internet Engineering Task Force) 126, discussions across IPv6, DNS, and AI focused on how Internet protocols may support large-scale deployment of AI agents."
+    }
+  ]
+}

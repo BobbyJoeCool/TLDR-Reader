@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-28",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.saastr.com/a-quiet-salute-to-the-ceos-still-rebuilding-for-the-age-of-ai-most-are-maybe-40-there/?utm_source=tldrfoundersa",
+      "title": "A Quiet Salute to the CEOs Still Rebuilding for the Age of AI. Most Are Maybe 40% Of The Way There",
+      "summary": "CEOs truly rebuilding for AI rather than just adding features face significant challenges, with many only 40% complete. Examples like Fin's four-year rebuild leading to a $3.6 billion exit highlight the difficulties, as most companies experience modest growth rates of 10% to 30%."
+    },
+    {
+      "url": "https://startupfortune.com/us-startups-are-quietly-replacing-openai-and-anthropic-with-chinese-ai/?utm_source=tldrfounders",
+      "title": "US Startups Are Quietly Replacing OpenAI and Anthropic With Chinese AI",
+      "summary": "US startups are increasingly switching to Chinese AI models due to significantly lower costs. Chinese models dominate OpenRouter traffic, largely displacing US-developed systems, as cost differences are vast - DeepSeek offers services at $0.14 per million tokens, compared to OpenAI's $5.00. However, this shift raises concerns about data privacy and security risks, with US lawmakers investigating potential cybersecurity threats from these models."
+    },
+    {
+      "url": "https://read.first1000.co/p/growing-lazyweb-to-50k-agents?utm_source=tldrfounders",
+      "title": "Growing Lazyweb to 50k+ Agents",
+      "summary": "Lazyweb grew to 50,000 signups with $0 market in a couple of months. Its founder built the product in public and focused on reducing friction for agents using their product. This post reflects back on what worked and what didn't for the startup."
+    },
+    {
+      "url": "https://tomtunguz.com/how-long-should-an-agent-live/?utm_source=tldrfounders",
+      "title": "How Long Should an AI Agent Live?",
+      "summary": "How long your AI agent stays alive between resets is a product decision, and the data here says the long-lived ones quietly forget their instructions. This essay proposes a coordinator agent that lives a day, specialist agents that live about 30 seconds, and state written to ordinary files rather than held in the agent's head. It cites research where squeezing a conversation down to fit dropped standing rules in 30 to 59% of runs. Memory quality falls as it grows across every frontier model tested. Memory carried between sessions is also somewhere an attacker can plant text."
+    },
+    {
+      "url": "https://thenextweb.com/news/salesforce-anthropic-claudeforce-partnership?utm_source=tldrfounders",
+      "title": "Salesforce is putting Claude at the centre of its products, and itself inside Claude",
+      "summary": "Claude is now the reasoning model behind Salesforce's Atlas Reasoning Engine. It also powers Agentforce Vibes and Agentforce Coworker by default, and is available in Agent Builder. Slack is now also powered by Claude. Salesforce for Claude is a plugin that gives sellers 37 prebuilt sales skills that work inside Anthropic's own interface rather than inside Salesforce's."
+    },
+    {
+      "url": "https://cohere.com/blog/parse?utm_source=tldrfounders",
+      "title": "Introducing Parse: Enterprise document intelligence at scale",
+      "summary": "Cohere Parse is a cost-effective vision language model for processing large volumes of enterprise documents. It converts complex, multimodal files into structured machine-readable data. Parse detects and understands key visual elements and can process documents and images across nine major world languages. It can be accessed through the Cohere API for just $1.50 per 1,000 pages."
+    },
+    {
+      "url": "https://jaredheyman.medium.com/on-why-you-should-invest-in-the-most-expensive-yc-startups-d5edcc9cb684?utm_source=tldrfounders",
+      "title": "On why you should invest in the most expensive YC startups",
+      "summary": "A fund that buys into the top slice of YC batches just published what it now reads into your Demo Day valuation cap. If you raised at one, an investor somewhere is running this math on you. The fund looked at 642 companies from the 2021 through 2024 batches. Companies priced above their batch median reached a Series A or beyond 25% of the time, against 8% for those priced below, and shut down at 6% versus 16%. The pattern holds inside each batch and among companies the fund passed on. Median caps went from $15M to $40M between W21 and P26."
+    },
+    {
+      "url": "https://www.stripeeconomics.com/p/ai-and-the-city?utm_source=tldrfounders",
+      "title": "AI and the city",
+      "summary": "AI-era businesses are far more distributed than ever before. They are increasingly forming in the outer suburbs rather than in city centers and high-density areas. The companies that are most responsible for AI development itself continue to cluster in major metro areas. AI-era business formation appears to be broadly distributed across the US, but major metro areas are seeing below-average business formation relative to their sizes."
+    },
+    {
+      "url": "https://beomniscient.com/blog/listening-to-the-market/?utm_source=tldrfounders",
+      "title": "Listening to the Market",
+      "summary": "Connecting with your customer and market and listening to your organic marketing efforts will enable you to see trends and opportunities before they show up in third-party data sets."
+    },
+    {
+      "url": "https://swizec.com/blog/focus-and-followthrough-are-the-moat?utm_source=tldrfounders",
+      "title": "Focus and followthrough are the moat",
+      "summary": "No one wants a half-finished spaceship or just a shiny idea."
+    },
+    {
+      "url": "https://bankstatementconverter.com/blog/posts/2026-08-28-business-is-dying/?utm_source=tldrfounders",
+      "title": "My business is dying",
+      "summary": "Bank Statement Converter is seeing more people canceling subscriptions and fewer people buying subscriptions, possibly because people are using AI to convert their bank statements."
+    },
+    {
+      "url": "https://newsletter.notablecap.com/p/in-the-ai-talent-wars-this-startup-s-solution-was-a-billboard-almost-nobody-could-understand?utm_source=tldrfounders",
+      "title": "In the AI talent wars, this startup's solution was a billboard almost nobody could understand",
+      "summary": "Listen Labs used a cryptic billboard in San Francisco to attract top engineering talent by challenging them to decode AI-related tokens."
+    }
+  ]
+}

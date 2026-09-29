@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-09-16",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865?utm_source=tldrcrypto",
+      "title": "DOJ charges Robinhood engineers with front-running crypto listings",
+      "summary": "The DOJ charged Robinhood engineers Hefu Chai and Huaisong Xiang with commodities fraud and wire fraud for allegedly misappropriating confidential listing information and trading perpetual futures on Hyperliquid ahead of announcements between 2025 and 2026, each profiting more than $50,000. Both face up to 10 years under the Commodity Exchange Act and up to 20 years for wire fraud. US Attorney Jamie McDonald said the case shows insiders can't evade securities and commodities laws by trading through derivatives instead of underlying tokens. It echoes the DOJ's 2022 Coinbase insider-trading case, though this is the first such charge involving perpetuals rather than spot tokens."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html?utm_source=tldrcrypto",
+      "title": "Senate Cloture Vote on Clarity Act Fails",
+      "summary": "The Senate failed a cloture vote Tuesday on the Clarity Act, falling short of the 60-vote threshold needed to advance the Digital Asset Market Structure bill to a floor debate. The bipartisan legislation would have created a statutory test for classifying crypto assets as securities or commodities and granted the CFTC expanded jurisdiction over digital asset spot markets, resolving a multi-year jurisdictional dispute with the SEC. The procedural defeat leaves both regulators operating under enforcement-driven guidance rather than a congressional mandate, pushing any market structure resolution into the next legislative session at the earliest."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099469319730057479.html?utm_source=tldrcrypto",
+      "title": "Wall Street Slot: Onchain RWA Slot Machine",
+      "summary": "Wall Street Slot is a 3D-printed slot machine wired to Base mainnet contracts that pays out tokenized shares of Apple, NVIDIA, Alphabet, Amazon, and SpaceX alongside gold, ENS domain registrations, and event passes. Each spin executes as a USDC transaction with results determined and published by the contract, making every outcome verifiable on BaseScan. Privy handles wallet creation through a QR code scan with no seed phrases required, while Arkiv Network indexes all rounds into a live seasonal leaderboard, per-spin receipt explorer, and per-player stats page. The physical cabinet runs on an Arduino UNO R4 WiFi with a PIR motion sensor, a mechanical lever, an LCD display, and an LED strip that reacts to wins."
+    },
+    {
+      "url": "https://governance.aave.com/t/arfc-custodied-collateral-lending-aave-v4-isolated-hub-spoke/25639?utm_source=tldrcrypto",
+      "title": "Custodied Collateral Lending: Aave V4 Isolated Hub & Spoke",
+      "summary": "Aave Labs proposed a new Aave V4 Isolated Hub and Spoke that lets institutional borrowers use assets custodied at Anchorage as collateral for onchain stablecoin loans without moving them onchain. The custodied balance is represented by a non-transferable Custodied Collateral Token (CoCT), minted and burned exclusively by a Chainlink-built CustodySync contract that reconciles custody state with onchain state each cycle, and keeps the position independently verifiable by both sides. Liquidation runs as an OTC sale executed by Anchorage, with proceeds settling the onchain debt atomically in a single transaction that repays, withdraws, and burns the CoCT. The proposal is fully isolated from existing Aave markets, sets the CoCT draw cap to zero permanently so custodied collateral can never be borrowed out of the Hub, and initially lists one CoCT instance backed by BTC held in Anchorage custody, with risk parameters to follow from the DAO's risk providers before an AIP vote."
+    },
+    {
+      "url": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=tldrcrypto",
+      "title": "EU Cyber Rules Put Crypto Wallet Makers on 24-Hour Reporting Clock",
+      "summary": "The EU's Cyber Resilience Act took effect on September 12, placing crypto wallet manufacturers on a tiered disclosure schedule: a 24-hour early warning for severe vulnerabilities, a 72-hour full notification, and a final report due 14 days after corrective measures are available. The regulation covers all hardware and software wallet products distributed in the EU, with penalties reaching €15 million or 2.5% of global annual turnover for violations of core reporting articles, and €5 million for inaccurate or incomplete disclosures. The effective date coincides with active security events: Trezor disclosed that 67,000 US customers faced exposure from a third-party shipping breach, and both Trezor and BitBox issued phishing warnings tied to compromised email services in September."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687?utm_source=tldrcrypto",
+      "title": "Robinhood Chain's 4 Growth Drivers Behind $1B TVL",
+      "summary": "Robinhood Chain has reached nearly $1 billion TVL and $1.88 billion in daily DEX volume since its July 1 launch, capturing more than half of all Uniswap volume and growing its stablecoin market cap 72% monthly to exceed $1 billion. StoneX analyst Mark Palmer attributes the expansion to four factors: brand recognition amplified by viral moments like CEO Vlad Tenev's CASHCAT engagement, and permissionless token issuance that produced roughly 25,000 launches on September 2 alone via the Pons platform. Robinhood covers gas fees on wallet swaps above $5, removing a direct cost barrier for users, while platforms like Long.xyz pair community memecoins with Robinhood's tokenized equities to build a flywheel between speculative and equity activity. Crypto-native traders account for 98–99% of chain transactions, meaning Robinhood's existing retail brokerage base has not meaningfully migrated to the chain and growth has come from capturing established DeFi participants instead."
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable?utm_source=tldrcrypto",
+      "title": "Trump's $800M WLFI Stake Locked Until May 2028 After Vesting Entry",
+      "summary": "Six World Liberty Financial insider wallets entered a vesting contract in May, giving Trump's approximately 14 billion WLFI tokens (valued at roughly $800 million) their first defined path to liquidity. Entry imposed a mandatory 10% token burn, reducing the largest depositor's position from 15.75 billion to 14.175 billion tokens. The vesting structure sets a two-year cliff followed by a three-year release period, preventing any insider sales before May 2028. The contract now holds 46.1 billion WLFI tokens, nearly half the 96.7 billion total supply, while the revised Clarity Act requires senior government officials with significant crypto positions to divest or place assets in qualified blind trusts, conditions Trump reportedly accepted."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099835584231440395.html?utm_source=tldrcrypto",
+      "title": "Rain adds support for KRW1, the first won-backed stablecoin",
+      "summary": "Rain is adding support for KRW1, a Korean won-backed stablecoin issued by BDACS on Avalanche, making it spendable anywhere Visa is accepted."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768?utm_source=tldrcrypto",
+      "title": "US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales",
+      "summary": "The DOJ filed a civil forfeiture complaint against $61 million in crypto proceeds from black-market Iranian oil sales, alleging Chinese companies Blessed Trust and Hexa Whale used Binance accounts to launder funds to the Iranian government and the IRGC."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099845602880504304.html?utm_source=tldrcrypto",
+      "title": "Bitcoin miners pay to exit as average mining cost hits $75,500 per BTC",
+      "summary": "CoinShares found listed bitcoin miners fell below cash breakeven in aggregate in Q2 2026."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099548753271132424.html?utm_source=tldrcrypto",
+      "title": "Robinhood Chain's falling revenue is intentional",
+      "summary": "After Robinhood raised the gas limit and cut fees on Robinhood Chain, chain revenue dropped sharply while DEX volume held strong, keeping it the number two chain behind Solana."
+    }
+  ]
+}

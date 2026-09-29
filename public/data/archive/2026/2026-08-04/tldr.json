@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-08-04",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html?unlocked_article_code=1.21A.iVJ-.7Lgmj2U960Y0&smid=url-share&utm_source=tldrnewsletter",
+      "title": "SpaceX's Bumpy Ride on the Stock Market May Get Bumpier",
+      "summary": "The first lockup on SpaceX shares is set to expire today. Employees and other company insiders who were prevented from trading stock after SpaceX's IPO will now be able to do so. Lockups prevent shares from flooding the market and driving down their price after an IPO. More than double the current supply that can be traded will be made available, which may further depress the price."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/?utm_source=tldrnewsletter",
+      "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+      "summary": "SpaceX is close to finalizing a deal to acquire about 130,000 acres along the northern coast of the Gulf of Mexico. The deal is expected to be officially announced later this month. The site, known as Pecan Island, is an 18-mile stretch of marshland. It became available as part of a legal settlement that resolved dozens of lawsuits blaming ExxonMobil for pollution and coastal land loss."
+    },
+    {
+      "url": "https://electrek.co/2026/08/03/base-power-raises-1b-to-roll-out-its-giant-new-home-battery/?utm_source=tldrnewsletter",
+      "title": "Base Power raises $1B to roll out its giant new home battery",
+      "summary": "Base Power's Core is a 39.2-kWh home battery that can keep a house running for up to 36 hours. Core, which can be installed in under an hour, can be connected to solar and has a built-in port for recharging from a portable generator. The lithium iron phosphate battery is designed to operate between -22F and 122F and has an IP67 rating for submersion in up to 3 feet of water. Core will only be available as part of a subscription service, and the company will retain ownership of the battery."
+    },
+    {
+      "url": "https://www.a16z.news/p/drug-discovery-has-no-magic-wands?utm_source=tldrnewsletter",
+      "title": "Drug Discovery Has No Magic Wands",
+      "summary": "AI is set to transform human health. However, it will not be a magic wand: we don't understand human biology well enough for a clever enough reasoner to find the cures hidden in what we know. Aimed at biology we barely understand, AI will mostly help us generate failures faster. The path to real cures is to measure biology in the right way and use AI to derive novel insights from those measurements."
+    },
+    {
+      "url": "https://blog.cloudflare.com/cloudflare-computer/?utm_source=tldrnewsletter",
+      "title": "Cloudflare Computer",
+      "summary": "Cloudflare Computer is a virtual file system that lives inside a Durable Object which holds the authoritative state in SQLite and exposes a pluggable execution surface. It handles the details and mechanics of what code runs in an isolate, a container sandbox, or a web browser. Cloudflare Computer gives each agent a computer optimized for efficiency and scalability."
+    },
+    {
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/?utm_source=tldrnewsletter",
+      "title": "LLMs reward expertise",
+      "summary": "The most important skill in prompting is expertise in the domain you're prompting for. The domain knowledge makes you better at using AI because you have a sense of what a good solution might look like and can therefore write better prompts. The usefulness of domain knowledge suggests that human expertise will continue to be useful even as models get stronger."
+    },
+    {
+      "url": "https://www.akashbajwa.co/p/the-endgame-of-vertical-integration?utm_source=tldrnewsletter",
+      "title": "The Endgame Of Vertical Integration",
+      "summary": "Model labs and agent labs are converging. Model labs continue to develop first-party applications that compete with their customers, while agent labs are starting to train models. The gains from co-designing models with harnesses is why agent labs need to move into model training. The challenge is for agent labs to offer the best intelligence per dollar at margins that the model labs can't match."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html?unlocked_article_code=1.21A.BmOO.lBmFxXLGMXVE&smid=url-share&utm_source=tldrnewsletter",
+      "title": "What Are Companies Getting for All That AI Spending?",
+      "summary": "The cost and benefits of AI are difficult to weigh. There are now thousands of models, and there is no consensus around how much energy a token requires, which model is best to perform a given task, or how many tokens it should take. The Linux Foundation established the Tokenomics Foundation in June to create common parameters for AI providers to disclose. Being able to measure the costs and benefits of AI will help researchers understand how AI is going to change everything."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the?utm_source=tldrnewsletter",
+      "title": "Does Forecasting Have Room At The Top?",
+      "summary": "AI superforecasters have come close to the accuracy of top humans, and their performance is rising rapidly."
+    },
+    {
+      "url": "https://openrouter.ai/ori/eval?utm_source=tldrnewsletter",
+      "title": "Ori Eval (Website)",
+      "summary": "OpenRouter's Ori Eval helps users find the best model for what they're building."
+    },
+    {
+      "url": "https://daniel.haxx.se/blog/2026/08/03/what-the-bliss-taught-us/?utm_source=tldrnewsletter",
+      "title": "What the bliss taught us",
+      "summary": "The maintainers of curl took the entire month of July off from vulnerability reporting, and this post explains the lessons they learned."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/03/apple-iphone-windows-copy-paste/?utm_source=tldrnewsletter",
+      "title": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
+      "summary": "Apple plans to introduce cross-device copy and paste by early 2028."
+    },
+    {
+      "url": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=tldrnewsletter",
+      "title": "Why Silicon Valley is divided over China's powerful, cheap AI models",
+      "summary": "Whether to embrace or reject Chinese models has become a divisive issue in the US tech industry."
+    },
+    {
+      "url": "https://yegge.ai/essays/the-shape-of-things-to-come/?utm_source=tldrnewsletter",
+      "title": "The Shape of Things to Come",
+      "summary": "Software will be excavated rather than designed, created without a concrete plan, just a lot of accretion over thousands of working days."
+    }
+  ]
+}

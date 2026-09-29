@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-28",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://tanstack.com/blog/we-stopped-using-rsc-on-tanstack-com?utm_source=tldrdev",
+      "title": "We Stopped Using RSC on TanStack.com",
+      "summary": "TanStack.com initially benefited from using React Server Components (RSC) by reducing the amount of JavaScript sent to the client, which improved site performance. However, it opted to replace RSC with simpler server-side rendering (SSR) that maintained site speed without the complexity of RSC. While RSC solved initial dependency issues, its architectural overhead was no longer justified once the underlying content renderer was optimized."
+    },
+    {
+      "url": "https://cachebag.sh/journal/interactive-rebasing/?utm_source=tldrdev",
+      "title": "git rebase -i is not that scary",
+      "summary": "The fear surrounding the use of the git rebase -i command is often misplaced, as it just opens a text file for editing with straightforward instructions, allowing developers to manage commits more effectively. Since it has built-in safety nets to recover from mistakes, it's helpful to use this tool to improve one's workflow and branch history management."
+    },
+    {
+      "url": "https://shopify.engineering/upgrading-checkout-blocks-app-to-polaris-web-components?utm_source=tldrdev",
+      "title": "Upgrading Checkout Blocks app to Polaris web components",
+      "summary": "Shopify has upgraded its Checkout Blocks app to use remote-dom and Polaris web components, reducing bundle sizes and improving load times for checkout extensions. The transition was carefully managed, with the help of AI, to guarantee performance gains while addressing compatibility issues, resulting in faster and leaner extensions that improve the checkout experience for users."
+    },
+    {
+      "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/?utm_source=tldrdev",
+      "title": "Why care about programming languages",
+      "summary": "The importance of deeply understanding programming languages lies in the foundational concepts they embody rather than their syntax or tools. These concepts, such as ownership in Rust or first-class functions in functional languages, provide frameworks for managing complexity and problem-solving."
+    },
+    {
+      "url": "https://jcs.org/2026/07/23/ai?utm_source=tldrdev",
+      "title": "On AI",
+      "summary": "In 2019, the author began following Andreas Kling's programming videos and became fascinated by the speed of coding with advanced IDEs like CLion, especially with AI-assisted features like GitHub Copilot. Despite initially being skeptical of AI, the author later explored AI tools like Claude. However, they have concerns about the proliferation of AI-generated projects overshadowing personal efforts in the programming community."
+    },
+    {
+      "url": "https://blog.mozilla.ai/stop-chasing-new-models-build-once-and-access-them-all/?utm_source=tldrdev",
+      "title": "Stop Chasing New Models. Build Once and Access Them All",
+      "summary": "Integrating new LLMs into apps poses challenges due to varying provider-specific requirements, which can lead to a dependency hell reminiscent of past software issues. A more effective approach is to decouple application code from model integration, allowing for easy updates and evaluations without extensive rewrites."
+    },
+    {
+      "url": "https://github.com/vercel-labs/scriptc?utm_source=tldrdev",
+      "title": "Scriptc (GitHub Repo)",
+      "summary": "Scriptc is a compiler that converts standard TypeScript code into efficient native executables without relying on a JavaScript engine, providing both static and dynamic execution modes. The tool focuses on performance, with fast startup times and memory efficiency."
+    },
+    {
+      "url": "https://edge-aura.js.org/?utm_source=tldrdev",
+      "title": "Edge Aura (Website)",
+      "summary": "Edge Aura is a customizable screen effect that creates an organic glow along the edges of your display, with adjustable settings for color palettes, thickness, opacity, and more. It can be implemented in projects using an npm installation and React component integration."
+    },
+    {
+      "url": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/?utm_source=tldrdev",
+      "title": "Measuring developer productivity with the DX Core 4",
+      "summary": "The DX Core 4 is a unified framework designed to measure developer productivity by incorporating established methodologies like DORA, SPACE, and DevEx, focusing on four key dimensions: speed, effectiveness, quality, and business impact. By using this framework, companies have reported improvements in engineering efficiency and overall workforce engagement, allowing leaders to address productivity questions more effectively."
+    },
+    {
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone?utm_source=tldrdev",
+      "title": "The Computer That Helped Win World War II",
+      "summary": "During World War II, the British codebreakers at Bletchley Park faced a challenging new German cipher system called \"Tunny,\" which surpassed the earlier Enigma encryption. In response, engineer Tommy Flowers developed Colossus, the first large-scale programmable electronic digital computer, which automated the process of breaking complex codes and sped up intelligence gathering. By the war's end, multiple Colossus machines were operational, providing insights into German military strategies."
+    },
+    {
+      "url": "https://www.anthropic.com/news/position-open-weights-models?utm_source=tldrdev",
+      "title": "Our position on open-weights models",
+      "summary": "Recent discussions surrounding bans on Chinese open-weights AI models highlight concerns about national security and the potential misuse of powerful technologies, with a call for focused measures such as restricting chip sales to authoritarian regimes and requiring safety testing for all capable models."
+    },
+    {
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html?utm_source=tldrdev",
+      "title": "Watching Go's new garbage collector move through the heap",
+      "summary": "Go 1.26 introduced a new garbage collector called Green Tea, which improves cache-friendliness during memory allocation, although it struggles with reclaiming memory from sparse pages due to its non-moving nature."
+    },
+    {
+      "url": "https://world.hey.com/dhh/i-m-sorry-dave-380ec27d?utm_source=tldrdev",
+      "title": "I'm sorry, Dave",
+      "summary": "Stanley Kubrick's \"2001: A Space Odyssey\" serves as a cautionary tale for the current state of AI, especially when it comes to issues of ideological bias and censorship in technology."
+    },
+    {
+      "url": "https://cassidoo.co/post/clustering-tiles/?utm_source=tldrdev",
+      "title": "A simple clustering algorithm for lists",
+      "summary": "A new clustering algorithm inspired by sorting patterns with Magna-Tiles shows a playful approach to organizing list values through reversals."
+    },
+    {
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html?utm_source=tldrdev",
+      "title": "How is the Bun Rewrite in Rust Going?",
+      "summary": "There are questions about the actual costs and claims surrounding the rewrite of Bun in Rust, particularly the assertion that it was completed for $165,000."
+    }
+  ]
+}

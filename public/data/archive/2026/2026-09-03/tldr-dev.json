@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-03",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/?utm_source=tldrdev",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "summary": "Shortening individual tool outputs can make an AI coding agent more expensive when missing context forces it to reopen files, rerun commands, or take extra turns. GitHub reduced Copilot costs without materially hurting quality by selectively compressing repetitive logs, preserving source-like output, removing unused formatting such as line-number prefixes, shortening prompts carefully, and eliminating unnecessary retrieval steps."
+    },
+    {
+      "url": "https://blog.cloudflare.com/cache-transcoding/?utm_source=tldrdev",
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "summary": "Cloudflare prototyped Cache Transcoding, a system that compresses eligible HTML, JSON, CSS, and JavaScript with Zstandard before storing and transferring them between cache tiers. Initial tests shrank these assets to roughly one-third of their original size while adding only a few percent of CPU overhead, potentially creating petabytes of effective cache capacity without deploying more storage."
+    },
+    {
+      "url": "https://cline.ghost.io/how-we-migrated-11-million-users-to-clines-biggest-refactor?utm_source=tldrdev",
+      "title": "How We Migrated 11 Million Users to Cline's Biggest Refactor",
+      "summary": "Cline replaced its VS Code extension's roughly 76,000-line monolithic agent core with a shared SDK while protecting workflows used by more than 11 million developers. Since the VS Code Marketplace lacks gradual rollouts, the team bundled legacy and new engines together behind a feature flag with automatic fallback, then ran a month-long A/B rollout that reduced tasks hitting three consecutive agent mistakes from 6.34% to 0.62%."
+    },
+    {
+      "url": "https://blog.val.town/aeo?utm_source=tldrdev",
+      "title": "A docs page is a very long and complex search query to find wandering AI agents and make them route interested people to your company",
+      "summary": "Most known Val Town Pro referrals now come from AI, forcing the company to think about Answer Engine Optimization as traditional search traffic declines. Its early strategy is to measure model referrals and citations, selectively allow useful crawlers, and publish genuinely helpful material for both humans and agents without filling the web with AI-generated content."
+    },
+    {
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html?utm_source=tldrdev",
+      "title": "Maybe We Shouldn't Be Reviewing All This Code",
+      "summary": "AI is exposing the limits of mandatory code review by generating more code than humans can realistically inspect, turning senior engineers into a bottleneck. Teams should move design, knowledge sharing, testing, and architectural feedback earlier through pairing, collaborative design, automation, and fitness functions, then reserve human code review for exceptional changes involving security boundaries, major architectural decisions, large blast radii, or low confidence."
+    },
+    {
+      "url": "https://uppy.io/blog/uppy-6.0/?utm_source=tldrdev",
+      "title": "Uppy 6.0: fewer packages, fewer moving parts, and a robust S3 Plugin",
+      "summary": "Uppy 6.0 rewrites its AWS S3 plugin around three explicit signing modes and adds direct support for S3-compatible services like Cloudflare R2, MinIO, and DigitalOcean Spaces. It also folds four frequently duplicated packages into Uppy Core, improves multipart-upload reliability and recovery, and tightens supply-chain protections."
+    },
+    {
+      "url": "https://developer.meta.com/ai/models/muse-spark/?utm_source=tldrdev",
+      "title": "Muse Spark 1.3 (Website)",
+      "summary": "Muse Spark 1.3 is Meta's updated model for long-running agentic and coding workflows. It better tracks prior work, handles messy or conflicting context, asks for clarification when needed, and uses roughly 20% fewer tool calls and 25% fewer tokens than Muse Spark 1.2 in Meta's internal coding comparisons."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/?utm_source=tldrdev",
+      "title": "Introducing Gemini 3.8 Flash and Gemini 3.8 Flash Cyber",
+      "summary": "Gemini 3.8 Flash improves coding, long-running agent tasks, and specialized reasoning while retaining 3.7 Flash's introductory price of $0.75 per million input tokens and $3.75 per million output tokens. Google also introduced 3.8 Flash Cyber for trusted defenders, reporting a success rate above 70% on an internal vulnerability-discovery benchmark spanning 20 programming languages and near-frontier performance on automated patching."
+    },
+    {
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/?utm_source=tldrdev",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "summary": "Trellner queried two Perplexity models across 380 software categories and found that 59.8% of their 7,534 citations came from domains outside the 100,000 most-visited websites. Three apparently connected sites alone had published 215,128 machine-generated recommendation pages, highlighting how AI retrieval systems can ground purchase recommendations in content designed primarily for machines."
+    },
+    {
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/?utm_source=tldrdev",
+      "title": "Wasmi 2.0: Engineering one of the fastest Wasm interpreters",
+      "summary": "Wasmi 2.0 runs about 2.2 times faster than Wasmi 1.0 across its benchmark suite while preserving its strong startup performance. The Rust-based WebAssembly interpreter gains four instruction-dispatch modes, a fixed 64-bit cell representation, smaller binary options, stable fuel metering, and support for WebAssembly's deterministic profile."
+    },
+    {
+      "url": "https://github.com/PhiloLabs/fable51-worlds?utm_source=tldrdev",
+      "title": "Fable 5.1 World Modeling (GitHub Repo)",
+      "summary": "Claude Fable 5.1 agent swarms autonomously researched, modeled, and quality-checked browser-native 3D reconstructions of real places, shipping each world as a plain Three.js application."
+    },
+    {
+      "url": "https://cursor.com/blog/self-hosted-machines?utm_source=tldrdev",
+      "title": "Run cloud agents on machines you manage",
+      "summary": "Cursor's Self-Hosted Machines let cloud agents execute tools against internal services, custom hardware, and private repositories on dynamically scheduled infrastructure you manage, while planning and inference remain in Cursor's cloud."
+    },
+    {
+      "url": "https://openteams.com/intelligence-vs-cost/?utm_source=tldrdev",
+      "title": "LLMs: Intelligence vs. cost",
+      "summary": "Most users can satisfy the majority of their needs with models costing a fraction of the frontier options."
+    },
+    {
+      "url": "https://tomtunguz.com/ai-productivity-doesnt-mean-what-i-think?utm_source=tldrdev",
+      "title": "AI Productivity Doesn't Mean What I Thought It Means",
+      "summary": "Tomasz Tunguz found that AI did not reduce his median 136 line-level edits per article, but it raised his writing's quality floor."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-08-20",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.mediapost.com/publications/article/417237/apple-officially-rolls-out-ads-in-maps.html?utm_source=tldrdesign",
+      "title": "Apple Maps Rolls Out Ads, Locates Madison Avenue",
+      "summary": "Apple launched \"Ads on Maps\" on Friday, letting US and Canadian businesses buy ad placements with no minimum spend, photo uploads, and promotional messaging. Early adopters paying by credit card before October 11 get a 15% monthly credit (up to $1,000) for a year, targeting the platform's over one billion monthly business searches. Some categories, including home-services businesses, alcohol, and cryptocurrency ATMs, are barred from advertising under policy terms Apple published in July."
+    },
+    {
+      "url": "https://9to5google.com/2026/08/18/spotify-rolling-out-user-notes-and-running-mode-features-heres-what-they-do/?utm_source=tldrdesign",
+      "title": "Spotify rolling out ‘User Notes' and ‘Running Mode' features on Android – here's what they do",
+      "summary": "Spotify is rolling out Running Mode, a feature that generates workout playlists tailored to your running pace, workout type, duration, BPM, and music preferences, with optional audio coaching cues. Initially available to Premium users in select countries, it is now expanding to Android. Spotify is also introducing User Notes (now evolving into Playlist Notes), allowing users to add personal comments to tracks that can be seen in shared playlists, with the feature available to free and Premium users in selected markets."
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/?utm_source=tldrdesign",
+      "title": "Here's everything new for Apple Calendar in iOS 27",
+      "summary": "iOS 27 brings several upgrades to Apple Calendar, including natural-language event creation powered by Apple Intelligence, which can automatically fill in event details from a simple text description. The app also gets a refreshed design for viewing and editing events, adds a long-requested Busy/Free status option for iCloud calendars, supports new extra-large widgets for showing more upcoming events and reminders, and benefits from major Siri AI enhancements, including the ability to create events by scanning flyers and understanding personal context and on-screen content."
+    },
+    {
+      "url": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?utm_source=tldrdesign",
+      "title": "We're gorging on borrowed trust and it's going to cost us",
+      "summary": "As AI becomes embedded in products and trusted brands, the biggest risk is that it delivers wrong answers with the same confidence as correct ones, making people more likely to trust it without questioning. Humans often equate confidence with expertise, so AI can borrow credibility from the brands that deploy it, potentially damaging trust when mistakes occur. The key challenge is ensuring meaningful human accountability rather than relying on unchecked automation, especially in situations where accuracy and trust matter most."
+    },
+    {
+      "url": "https://www.futurice.com/blog/spec-driven-design?utm_source=tldrdesign",
+      "title": "Faster Prototypes Miss the Point: The Case for Spec-driven Design",
+      "summary": "Design risks being sidelined in agentic development teams unless it moves beyond faster mockups toward actively authoring specs and managing knowledge. Two persistent inefficiencies—slow knowledge retrieval and lossy intent handoffs—can be resolved through a shared Product Knowledge Base and a single living feature spec that evolves from discovery through handover. This \"spec-driven design\" approach shifts designers' time toward user research and co-creation, letting intent and accumulated knowledge reach development intact rather than degrading through meetings and interpretation."
+    },
+    {
+      "url": "https://southleft.substack.com/p/the-design-system-was-fine-until?utm_source=tldrdesign",
+      "title": "The Design System Was Fine Until the Agents Moved In",
+      "summary": "AI-assisted development quietly erodes design systems, as agents default to generating or pulling components instead of using governed ones, leaving documentation increasingly inaccurate. New design-system extraction tools added to Figma Console MCP analyze a codebase as it actually exists, pulling tokens and components and scaffolding a matching Storybook with a deterministic evaluation pass. Tested on Rateshare, a vibe-coded app with no prior system, the tools detected React, found 21 components, and verified them via Playwright, demonstrating the extraction mechanics rather than recovering from drift."
+    },
+    {
+      "url": "https://isolate.video/?utm_source=tldrdesign",
+      "title": "AI Product Video Editor (Website)",
+      "summary": "isolate.video is a video editing app that turns screen recordings into polished product videos with automatic zoom, AI music, and spotlight effects."
+    },
+    {
+      "url": "https://state-of-ai-in-design-systems.netlify.app/?utm_source=tldrdesign",
+      "title": "How Design Systems Talk to Machines (Website)",
+      "summary": "A study of the current state of the art in how design systems implement and distribute agentic tooling for DS contribution and consumption."
+    },
+    {
+      "url": "https://gkurt.com/tegaki/?utm_source=tldrdesign",
+      "title": "Animated Handwriting from Any Font (Website)",
+      "summary": "Generate stroke data, render beautiful writing animations in React, Svelte, Vue, SolidJS, Astro, Web Components, or vanilla JS."
+    },
+    {
+      "url": "https://boldjourney.com/designing-for-people-first-how-mark-williams-is-helping-businesses-turn-better-user-experiences-into-meaningful-growth/?utm_source=tldrdesign",
+      "title": "How Mark Williams is Helping Businesses Turn Better User Experiences into Meaningful Growth",
+      "summary": "User experience functions as a business growth strategy rather than a purely aesthetic exercise. Treat AI as an accelerant for research and early-stage design work, not a replacement for human judgment, empathy, and strategic thinking in building great products."
+    },
+    {
+      "url": "https://designbeep.com/2026/08/15/stopping-the-icon-sprawl-in-large-component-libraries/?utm_source=tldrdesign",
+      "title": "Stopping the Icon Sprawl in Large Component Libraries",
+      "summary": "Icon fragmentation across shared React libraries stems from teams pulling mismatched assets, prompting platforms like Icons8 to offer 1.4 million assets organized into consistent visual styles. Its Collections feature lets teams build, bulk-recolor, and export unified asset sets as SVG sprite sheets, while animated Lottie icons and in-browser overlay editors handle micro-interactions and custom states. Limitations remain, including generic visual identity, restrictive free-tier formats, and simplified SVGs that complicate path-level customization."
+    },
+    {
+      "url": "https://www.wallpaper.com/watches-jewellery/seiko-power-design-project-2026?utm_source=tldrdesign",
+      "title": "Seiko's Designers Let Their Imaginations Run Wild with a New Generation of Watches",
+      "summary": "Seiko's annual Power Design Project returned to Japan House London, letting in-house designers experiment freely with unconventional watch elements like dials, hands, and indices."
+    },
+    {
+      "url": "https://www.creativeboom.com/inspiration/inspired-by-man-made-objects-and-nature-naruhiko-paints-ordinary-neighbourhoods-and-parks-across-japan/?utm_source=tldrdesign",
+      "title": "Inspired by man-made objects and nature, Naruhiko paints 'ordinary' neighbourhoods and parks across Japan",
+      "summary": "Japanese illustrator Naruhiko transforms ordinary neighbourhood scenes into quiet, atmospheric oil paintings that find beauty, nostalgia and emotional resonance in everyday parks, streets and overlooked urban details."
+    }
+  ]
+}

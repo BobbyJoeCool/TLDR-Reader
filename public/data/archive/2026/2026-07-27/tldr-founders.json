@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-07-27",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.usv.com/obliterate?utm_source=tldrfounders",
+      "title": "Obliterate, Don't Automate",
+      "summary": "Duolingo did not sell better software to schools. Coinbase did not sell better ledgers to banks. Both moved something the gatekeeper controlled directly to the customer. AI founders now face the same choice. An AI doctor that can prescribe changes the market more than software that helps a doctor type notes. Software that runs a factory changes more than a dashboard sold to its manager. If your customer still needs the same gatekeeper after buying the product, you may be making the old market faster rather than building a new one."
+    },
+    {
+      "url": "https://tomtunguz.com/ai-engineering-productivity-anything-but-normal/?utm_source=tldrfounders",
+      "title": "AI Engineering Productivity Is Anything But Normal",
+      "summary": "An AI IDE can make engineers ship faster. That does not mean the team is getting better. NVIDIA saw 3x more committed code across 30,000 developers without more bugs, but the companies closest to that result had rebuilt the workflow around GitHub, Linear, review, and testing. Another dataset is the warning: epics finished 66% faster while bugs per developer rose 54%. If your AI dashboard only shows pull requests, it is probably hiding half the story."
+    },
+    {
+      "url": "https://x.com/dexhorthy/article/2080697380379427275?utm_source=tldrfounders",
+      "title": "Why Software Factories Fail",
+      "summary": "A software factory is a coding pipeline where agents take a spec and return working code with little or no human review. The pitch borrows from lights-out manufacturing: the line runs while nobody is on the floor. HumanLayer tried it in July 2025. Three months later, a production bug dropped the team into code nobody had been reading, and the cofounder spent two weeks rewriting the core patterns. Agents can run the line. Someone still has to understand the factory well enough to know when it is drifting."
+    },
+    {
+      "url": "https://knowledge.gtmstrategist.com/p/10-ways-clays-gtm-engineers-use-ai?utm_source=tldrfounders",
+      "title": "10 Ways Clay's GTM Engineers Use AI to Accelerate Sales",
+      "summary": "This post shares how the team at Clay uses AI in their day-to-day. It covers how to generate on-brand decks from a single prompt, spin up custom apps for each customer, and clear the Salesforce chores nobody wants to touch. The post walks through Clay's full AI sales stack, the exact tools used, and 10 concrete ways the team puts AI to work."
+    },
+    {
+      "url": "https://x.com/jakecastilloooo/article/2080670471394091502?utm_source=tldrfounders",
+      "title": "The Ultimate Paywall & Onboarding Playbook",
+      "summary": "Most founders cut onboarding. Cal AI made users do more of it, then built a multimillion-dollar subscription business. Before the price appeared, users entered their goals, body type, habits, and timeline, then watched the app assemble a plan. By the time they saw the paywall, it felt less like buying another calorie tracker and more like walking away from a plan made for them. That only works when the pain is real: every question must sharpen the product or increase commitment."
+    },
+    {
+      "url": "https://thephysicsofstartups.substack.com/p/the-b2b-standard-v1?utm_source=tldrfounders",
+      "title": "The B2B Standard",
+      "summary": "What does a healthy B2B pipeline actually look like? One founder with real revenue and Fortune 500 customers discovered that most of his pipeline was fake. This is the scorecard he wished he had. For a $100K+ product, each seller should book three first meetings a week. 60% should show real buying behavior, half of those should close within 90 days, and 95% of customers should reach the first retention milestone within a month. You can disagree with the numbers. At least they are hard to explain away."
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-opus-5?utm_source=tldrfounders",
+      "title": "Introducing Claude Opus 5",
+      "summary": "Claude Opus 5 is now available on all platforms, priced at $5 per million input tokens and $25 per million output tokens. A Fast mode that runs around 2.5 times the default speed is available at twice the base price. Anthropic has also introduced mid-conversation tool changes on the Claude Platform and automatic fallbacks on the API. Details about what has been improved in Claude Opus 5 are available in the article."
+    },
+    {
+      "url": "https://github.com/features/ai/github-app?utm_source=tldrfounders",
+      "title": "GitHub Copilot app",
+      "summary": "The GitHub Copilot app is an interface for agent-driven development built natively on GitHub. It allows developers to move from issue to merge all in one app. Developers can run multiple sessions across every area of work with parallel workflows fully in view. The app can be extended with MCP servers, plugins, and skills."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-432-bundling-and-unbundling-capabilities?utm_source=tldrfounders",
+      "title": "Bundling & Unbundling Capabilities (and AI)",
+      "summary": "A junior engineer does not become senior by doing senior work. They get there by doing the routine work first: reading the codebase, seeing exceptions, and learning what \"good\" looks like. Coding agents can remove that apprenticeship while making output look better in the short term. The useful question is not \"which jobs can AI replace?\" It is \"which capabilities disappear with the task?\" Before automating work, ask whether it was also building context, taste, or the person who would catch the weird case later."
+    },
+    {
+      "url": "https://nextview.vc/blog/the-autonomous-middle/?utm_source=tldrfounders",
+      "title": "The Autonomous Middle",
+      "summary": "After reviewing 15 of her own agent sessions, NextView's Melody Koh found that the agent was not wasting her time on the work. It was wasting it on corrections. The same mistakes kept returning because she had never told the model what \"good\" meant for quality or positioning. Her fix was to make those judgment calls upfront, let the agent handle the checkable middle, and review once at the end. If you correct the same mistake twice, it belongs in the instructions."
+    },
+    {
+      "url": "https://newsletter.equal.vc/p/the-power-of-patience?utm_source=tldrfounders",
+      "title": "The Power of Patience",
+      "summary": "Patience is a form of arbitrage."
+    },
+    {
+      "url": "https://shreyasdoshi.substack.com/p/the-antithesis-principle?utm_source=tldrfounders",
+      "title": "The Antithesis Principle",
+      "summary": "Sometimes it is wiser to eliminate the defaults within yourself."
+    },
+    {
+      "url": "https://www.digitalnative.tech/p/the-post-agentic-founder?utm_source=tldrfounders",
+      "title": "The Post-Agentic Founder",
+      "summary": "This fund now looks for founders who are good at StarCraft because they already know how to allocate scarce resources, sequence parallel work, and intervene before one bad unit loses the map."
+    },
+    {
+      "url": "https://hellooperator.substack.com/p/dumb-sales-questions?utm_source=tldrfounders",
+      "title": "Dumb Sales Questions",
+      "summary": "Winning teams are quick to admit what they don't know, and quicker to help each other fill those gaps."
+    },
+    {
+      "url": "https://adriengonin.com/writing/service-with-a-software/?utm_source=tldrfounders",
+      "title": "Micro-SaaS Is Dead. Service with a Software Replaces It",
+      "summary": "Service with a Software - private tools that never get sold, built to make one service impossible to compete with - is the strongest position left for independent builders."
+    }
+  ]
+}

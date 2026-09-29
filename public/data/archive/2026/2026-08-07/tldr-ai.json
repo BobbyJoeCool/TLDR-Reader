@@ -1,0 +1,63 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-08-07",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/?utm_source=tldrai",
+      "title": "GPT-5.6 Luna Became ChatGPT's Default Free Model",
+      "summary": "OpenAI removed limits on text-based chats and made GPT-5.6 Luna the default model for Free and Go users. Separate limits remain for files, images, voice, and image generation. A new Think button adds optional higher reasoning."
+    },
+    {
+      "url": "https://betakit.com/us-chip-giant-amd-to-acquire-taalas/?utm_source=tldrai",
+      "title": "AMD to Acquire AI Chip Startup Taalas",
+      "summary": "AMD agreed to acquire Toronto-based Taalas, whose custom silicon hardwires AI models to reduce inference compute and memory bottlenecks. Financial terms were undisclosed, and the deal remains subject to regulatory approval."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights?utm_source=tldrai",
+      "title": "Tradeoffs in Open-Weights Models",
+      "summary": "The report examines how open-weight models could expand user control and defensive capabilities while also increasing risks from hacking, biological misuse, and loss of centralized safeguards."
+    },
+    {
+      "url": "https://github.com/huangruiteng/loopx?utm_source=tldrai",
+      "title": "LoopX (GitHub Repo)",
+      "summary": "Keeps long-running AI agent teams aligned with goals, to-dos, logs, and handoffs."
+    },
+    {
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/?utm_source=tldrai",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "WeatherNext is an AI model that achieves state-of-the-art accuracy in predicting a cyclone's track, intensity, and wind structure. The model gives forecasters, on average, an extra day's worth of predictive accuracy compared to current methods. Google has open-sourced its WeatherNext 2 and WeatherNext Cyclones models to empower the research community and amplify AI's impact on building more resilient communities. The research has already had real-world impact - it predicted Hurricane Melissa's rapid intensification and landfall in Jamaica during the 2025 hurricane season, enabling advanced warnings to be issued and giving teams on the ground critical time to prepare."
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05000?utm_source=tldrai",
+      "title": "How Modalities Learn Together",
+      "summary": "Meta researchers explored how modalities learn together during pretraining. They also identified architectures that promote cross-modal synergy and recipes that achieved strong generation performance with 5% of the compute budget."
+    },
+    {
+      "url": "https://x.com/sawyerhood/status/2085039905529597982?s=12&utm_source=tldrai",
+      "title": "An Agentic IDE that builds itself",
+      "summary": "bb is an agent IDE that builds itself. It is a full agent orchestrator with solid fundamentals. It can be extended any way users see fit. Users just have to ask bb to build the feature for them."
+    },
+    {
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/?utm_source=tldrai",
+      "title": "The next chapter of our AI momentum",
+      "summary": "Google advances AI capabilities with new features across products like Gmail and Maps. These updates include improved personalization and contextual understanding. This push aims to enhance user experience and maintain a competitive edge in the tech industry."
+    },
+    {
+      "url": "https://www.kucoin.com/news/flash/bytedance-training-10-trillion-parameter-ai-model-aiming-for-global-leadership?utm_source=tldrai",
+      "title": "ByteDance trains a 10-trillion-parameter AI model, aiming for global leadership",
+      "summary": "The model is currently undergoing pre-training, a phase that typically takes three to six months."
+    },
+    {
+      "url": "https://blog.cloudflare.com/kitesurf/?utm_source=tldrai",
+      "title": "Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
+      "summary": "Kitesurf is a lightweight browser designed for AI agents, running on Cloudflare Workers."
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-agent-plugins?utm_source=tldrai",
+      "title": "Agent Plugins",
+      "summary": "Agent Plugins 1.0.0 is an open standard that simplifies packaging reusable AI Agent Skills and MCP servers into plugins."
+    }
+  ]
+}

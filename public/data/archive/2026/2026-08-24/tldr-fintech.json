@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-08-24",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://finainews.com/banking/banks-looking-to-insure-against-ai-hallucination/?utm_source=tldrfintech",
+      "title": "Banks looking to insure against AI hallucination",
+      "summary": "Testudo, a Lloyd's-backed startup, is offering coverage of up to $10 million for liabilities arising from generative AI, with annual premiums typically ranging from $10,000 to $20,000. Interest is emerging as financial institutions consider deploying tools that can interact with customers or execute transactions, although some vendors prefer to guarantee their own products and skeptics question whether a separate category of coverage is necessary."
+    },
+    {
+      "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings?utm_source=tldrfintech",
+      "title": "Washington goes all-in on crypto as CLARITY Act negotiations intensify",
+      "summary": "President Donald Trump urged lawmakers to pass a “fair version” of the CLARITY Act as crypto executives met with the White House over remaining disputes, particularly ethics provisions tied to government officials' crypto interests. At the same time, the CFTC warned it could use existing authority to build its own crypto regulatory regime if Congress stalls, while the SEC proposed its first crypto-specific fundraising framework with new exemptions and a conditional safe harbor."
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/jpmorgan-debanked-polymarket-last-year-over-regulatory-concerns-source-says-2026-08-15/?utm_source=tldrfintech",
+      "title": "JPMorgan debanked Polymarket last year over regulatory concerns, source says",
+      "summary": "JPMorgan ended a banking relationship with Polymarket in October 2025 as prediction markets faced growing scrutiny from regulators over their resemblance to gambling. Polymarket pushed back on the characterization of the relationship, saying it continues to work closely with the bank across multiple entities and customer fund flows. The episode highlights the regulatory uncertainty surrounding the fast-growing prediction market sector, with platforms including Polymarket and Kalshi facing increased attention from state officials."
+    },
+    {
+      "url": "https://www.forbes.com/sites/jeffkauflin/2026/08/19/inside-paypal-mafia-billionaire-max-levchins-slow-and-steady-path-to-fintech-profitability/?utm_source=tldrfintech",
+      "title": "Inside Max Levchin's slow-and-steady path to Affirm profitability",
+      "summary": "Affirm has finally reached profitability after years of heavy investment and more than $2 billion in cumulative losses, validating Max Levchin's long-term strategy of building much of the company's technology and risk infrastructure in-house. That philosophy can be traced back to Levchin's experience fighting fraud at PayPal. The same operational discipline helped turn Affirm into a roughly $25 billion fintech company."
+    },
+    {
+      "url": "https://www.tidemarkcap.com/vskp-chapter/system-of-action-part-4-the-application-layer?utm_source=tldrfintech",
+      "title": "System of Action Part 4: The case for the application layer",
+      "summary": "Foundation models alone cannot reliably “do the work” inside most businesses because real jobs require domain-specific workflows, deterministic software, permissions, semantics, human escalation, and continuous learning loops. There is a major opportunity for vertical SaaS incumbents and AI-native challengers to become the System of Action for their industries, potentially expanding software TAM by roughly 10x by capturing labor spend rather than just software budgets."
+    },
+    {
+      "url": "https://fortune.com/article/airwallex-fundraise-lucy-liu-ai-fintech-ipo-08-20-2026/?utm_source=tldrfintech",
+      "title": "Airwallex expands from cross-border payments into autonomous finance",
+      "summary": "Airwallex is using its recent $320 million Series H at an $11 billion valuation to expand beyond cross-border payments into autonomous finance, including T:0 for automated bookkeeping and Airi for agentic commerce. The company now serves more than 675,000 businesses with over $1 billion in annualized revenue, but president Lucy Liu says an IPO still depends on market conditions as Airwallex expands globally and navigates growing regulatory scrutiny in the US and Australia."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/venmo-connects-colleges/828506/?utm_source=tldrfintech",
+      "title": "PayPal and Venmo expand into college tuition payments",
+      "summary": "PayPal and Venmo have integrated with Illumia, Nelnet Campus Commerce, and TouchNet to let students and parents pay tuition directly through participating college payment portals. The move expands PayPal's campus strategy beyond peer-to-peer payments and athletics, giving Venmo and PayPal access to thousands of higher-education institutions through existing payments infrastructure."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html?utm_source=tldrfintech",
+      "title": "Citadel unwinds more than 80% of risk from Situational Awareness portfolio",
+      "summary": "Ken Griffin said Citadel has shed more than 80% of the risk from the portfolio it acquired from Leopold Aschenbrenner's Situational Awareness, using more than 100 block trades representing over $4 billion in market value. The deal came after the AI-focused hedge fund was forced to liquidate public positions amid steep losses, while Citadel's flagship Wellington fund returned 5.94% in July, its best month since 2022."
+    },
+    {
+      "url": "https://www.reuters.com/world/jpmorgan-hiring-bank-americas-david-fishman-head-technology-ma-memo-says-2026-08-21/?utm_source=tldrfintech",
+      "title": "JPMorgan hires Bank of America's David Fishman to lead North America technology M&A",
+      "summary": "JPMorgan is hiring veteran Bank of America dealmaker David Fishman as head of North America technology M&A, while elevating Vineet Seth to vice chair of investment banking and forming a new advisory group for key technology clients. The move adds to a broader talent reshuffling across Wall Street tech banking, with several senior Bank of America executives recently departing for JPMorgan, Barclays, Deutsche Bank, and Citi."
+    },
+    {
+      "url": "https://dealroom.co/news/145643-ripple-raises-275m-in-bond-financing-to-grow-us-business/?utm_source=tldrfintech",
+      "title": "Ripple raises $275M in bond financing to grow US business",
+      "summary": "Ripple Prime plans to use the new capital to expand its multi-asset clearing, financing, and prime brokerage services in the US."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/weave-scooped-up-for-650m/828260/?utm_source=tldrfintech",
+      "title": "Francisco Partners acquires Weave for $650M",
+      "summary": "Francisco Partners agreed to acquire healthcare payments and communications software provider Weave for $650 million, taking the company private and backing further investment in AI."
+    }
+  ]
+}

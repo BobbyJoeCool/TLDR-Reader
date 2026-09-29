@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-08-11",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.svpg.com/a-fresh-definition-of-the-product-role?utm_source=tldrproduct",
+      "title": "A Fresh Definition of the Product Role",
+      "summary": "AI makes building easier, but product judgment remains scarce. Strong product managers identify the right problems, discover valuable solutions, and ensure they work for the business."
+    },
+    {
+      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve?utm_source=tldrproduct",
+      "title": "Can Agents Use a Computer Yet? We've Got the Data",
+      "summary": "Computer-using agents are reaching production, but the real moat is no longer model capability. It is the context, infrastructure, and reliability needed to automate real business workflows at scale."
+    },
+    {
+      "url": "https://www.davesresearch.com/good-move-grounded/?utm_source=tldrproduct",
+      "title": "A Good Move is Grounded",
+      "summary": "Effective product work connects internal changes directly to external user activity. Validate initiatives like MVPs against specific hypotheses and behavioral goals. If a clear link is missing, use small probes or targeted adjustments to bridge the gap."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-435-20-unfiltered-operating-takes?utm_source=tldrproduct",
+      "title": "20 Unfiltered Operating Takes",
+      "summary": "Great product teams win through strong habits, small iterations, and continuous learning, not rigid frameworks. AI will amplify whatever operating system a team already has, good or bad."
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review?utm_source=tldrproduct",
+      "title": "Build an AI code review bot in 30 minutes + Claude Code for normal people (24 minute video)",
+      "summary": "AI can handle routine code reviews when teams define clear risk thresholds, preserve human oversight for higher-risk changes, and continuously evaluate the agent's decisions. New agent platforms also make these systems surprisingly easy to build, putting more emphasis on good instructions and operational design than infrastructure."
+    },
+    {
+      "url": "https://age-of-product.com/agile-product-operating-model-survey-results/?utm_source=tldrproduct",
+      "title": "From Agile to the Product Operating Model: What Practitioners Say Is Actually Changing",
+      "summary": "Product Operating Models may improve delivery and collaboration, but they often leave the underlying decision system unchanged. AI, meanwhile, is reshaping product decisions with or without a formal transformation."
+    },
+    {
+      "url": "https://diginomica.com/how-grindr-overhauled-its-back-end-while-terraforming-future-ai-native-no-engineering-constraints?utm_source=tldrproduct",
+      "title": "How Grindr overhauled its back end while ‘terraforming' a future as an AI-native",
+      "summary": "AI has made engineering dramatically faster at Grindr, shifting the bottleneck toward product judgment and accelerating the convergence of engineering, design, and product roles."
+    },
+    {
+      "url": "https://martech.zone/i-built-a-travel-tech-startup-using-ai/?utm_source=tldrproduct",
+      "title": "I'm a PM Who Built a Travel-Tech Startup Solo — Using AI as My Engineering Team",
+      "summary": "A product manager built Simsima (a global travel eSIM marketplace) in weeks by leveraging AI as an engineering team."
+    },
+    {
+      "url": "https://randsinrepose.com/archives/fifteen-tics/?utm_source=tldrproduct",
+      "title": "Fifteen Tics",
+      "summary": "Effective leadership requires managing one's personal 'tics' and habits rather than imposing them as rules."
+    },
+    {
+      "url": "https://www.elliotcsmith.com/want-taste-eat-your-slop/?utm_source=tldrproduct",
+      "title": "Want taste? Eat your slop",
+      "summary": "Developers build \"taste\" by \"dogfooding\" their own products to identify workflow issues."
+    }
+  ]
+}

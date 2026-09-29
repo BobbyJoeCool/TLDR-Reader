@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-15",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/?utm_source=tldrdesign",
+      "title": "Apple is designing its own game controllers for iPhone, could be Beats branded",
+      "summary": "Apple is reportedly developing its own game controllers for iPhone, with beta code revealing two models that include thumbsticks, a D-pad, haptic feedback, and potentially built-in motion controls. The controllers may launch under the Beats brand, offering a more affordable option while strengthening gaming across iPhone, iPad, Mac, and Apple TV, where Apple continues to expand support for AAA titles and dedicated gaming accessories."
+    },
+    {
+      "url": "https://slack.com/blog/productivity/slack-surfaces?utm_source=tldrdesign",
+      "title": "Slack Can Now Vibe-Code Interactive Charts and Reports inside Chats",
+      "summary": "Slackforce Surfaces lets Slackbot build interactive reports, polls, dashboards, presentations, and microsites directly inside a chat from a plain description. Slackbot pulls information from relevant conversations and connected apps such as Google Drive or Salesforce, and the result can be pinned to channels for colleagues to use. The feature is available to all customers with Slackbot enabled, including free users, with live data support arriving in October."
+    },
+    {
+      "url": "https://techstartups.com/2026/09/10/bending-spoons-to-acquire-miro-for-1-36-billion-in-all-cash-deal-as-tech-buying-spree-accelerates/?utm_source=tldrdesign",
+      "title": "Bending Spoons to Acquire Miro for $1.36 Billion in All-Cash Deal as Tech Buying Spree Accelerates",
+      "summary": "Bending Spoons is buying Miro in a $1.36 billion all-cash deal, days after closing its acquisition of Airtable. Miro brings around $600 million in annual recurring revenue, nearly 90 percent from business and enterprise customers, and roughly 4 million paying users. The transaction is expected to close in the fourth quarter of 2026, with some Miro shareholders reinvesting $295 million into Bending Spoons equity."
+    },
+    {
+      "url": "https://www.erikkroes.nl/blog/accessible-colours-dont-exist/?utm_source=tldrdesign",
+      "title": "Accessible Colors Don't Exist",
+      "summary": "No single color can be accessible, because contrast is a property of two colors together rather than of one. WCAG asks for 4.5:1 on regular text and 3:1 on large text and UI components, so a bright yellow fails on white yet works on dark. Brands should hand designers a palette of pre-approved color combinations with sufficient contrast instead of chasing an accessible color."
+    },
+    {
+      "url": "https://thedesignersfieldguide.substack.com/p/if-you-want-to-design-for-underserved?utm_source=tldrdesign",
+      "title": "If you want to design for underserved users, look at farmer's markets",
+      "summary": "Designing for the \"bottom third\" means creating products that remove the cost and complexity that exclude underserved users rather than simply offering cheaper versions of existing solutions. By focusing on the barriers faced by people who try but fail to use a product, designers can simplify workflows, reduce support needs, and unlock entirely new markets—just as Square did by rethinking payment processing for small merchants."
+    },
+    {
+      "url": "https://design.lightspark.com/limit-the-number-of-details?utm_source=tldrdesign",
+      "title": "Limit the Number of Details",
+      "summary": "Every feature, control, mode, and exception competes for a team's finite attention, so limiting the number of details is what makes perfecting each one possible. The original iPod concentrated a thousand songs into one scroll wheel, while the Porsche 918's touchscreen reportedly controlled more than 800 functions. Software accumulates because another button is essentially free. Volkswagen has admitted that deleting physical buttons was a mistake."
+    },
+    {
+      "url": "https://sidebranch.dev/?utm_source=tldrdesign",
+      "title": "Git-Based Visual Diffing, Made Easy (Website)",
+      "summary": "Switch back and forth between branches and visually compare UI changes side by side — without ever touching your own working tree."
+    },
+    {
+      "url": "https://book.motion.dev/?utm_source=tldrdesign",
+      "title": "The Book of Motion (Website)",
+      "summary": "Why animation feels right, what it costs, and how to build it."
+    },
+    {
+      "url": "https://fal.ai/?utm_source=tldrdesign",
+      "title": "Generative Media Platform for Developers (Website)",
+      "summary": "The world's best generative image, video, and audio models, all in one place. Develop and fine-tune models with serverless GPUs and on-demand clusters."
+    },
+    {
+      "url": "https://buzzusborne.com/writing/ai-operating-principles/?utm_source=tldrdesign",
+      "title": "AI Operating Principles",
+      "summary": "Five principles protect a strong creative practice as AI expands what designers can do, keeping human judgment firmly in control. They cover protecting the why over the how, staying in the unknown, earning the right to slow down, balancing logic with humanity, and refusing to normalize complexity. Bolting AI onto an existing process raises speed and output, but quality still depends on knowing what matters and when to stop."
+    },
+    {
+      "url": "https://blog.damato.design/posts/typography-scales/?utm_source=tldrdesign",
+      "title": "Typography Scales",
+      "summary": "A modular type scale can be computed directly from a base size and ratio using CSS pow(), instead of chaining each step from the previous one. Negative steps quickly generate unreadable sizes, such as 5.6px three steps below a 1.2rem base. Defining Heading, Body, and Detail categories with a minimum base size and only positive exponents keeps every generated size accessible."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/branding/this-bakerys-clever-branding-was-inspired-by-the-irregular-air-pockets-formed-in-dough?utm_source=tldrdesign",
+      "title": "This bakery's clever branding was inspired by the irregular air pockets formed in dough",
+      "summary": "Montreal bakery chain Toledo has introduced a new brand identity inspired by the airy, irregular pockets found in laminated pastry dough, creating a flexible visual system that extends across packaging, signage, interiors, and digital touchpoints. Designed by Nouvelle Idée, the rebrand pairs a contemporary sans-serif wordmark with warm, bakery-inspired colors and organic shapes, balancing French baking heritage with a fresh, modern aesthetic that reflects the craftsmanship and character of its pastries."
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai?utm_source=tldrdesign",
+      "title": "Can NVIDIA and Adobe Work Together to Get Creatives to Actually Like AI?",
+      "summary": "Locally run AI agents in Photoshop, enabled by NVIDIA's RTX Spark, do the heavy lifting without overwriting the artist's sketch or reinterpreting the brief, which encourages experimentation if Adobe keeps the local-first approach."
+    },
+    {
+      "url": "https://www.basenor.com/blogs/news/cybercab-wait-times-and-ux-what-tesla-needs-to-get-right?utm_source=tldrdesign",
+      "title": "Cybercab Wait Times and UX: What Tesla Needs to Get Right",
+      "summary": "Tesla's Cybercab wait times in Austin are improving after the launch-week rush, but the fleet still needs more vehicles to consistently reach a 5–10 minute wait window."
+    }
+  ]
+}

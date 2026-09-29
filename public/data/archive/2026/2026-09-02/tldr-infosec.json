@@ -1,0 +1,73 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-09-02",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cyberinsider.com/aesto-healthcare-data-breach-impacts-9-5-million-people/?utm_source=tldrinfosec",
+      "title": "Aesto Healthcare Data Breach Impacts 9.5 Million People",
+      "summary": "Aesto reported that unauthorized access to part of its AWS infrastructure exposed data tied to 9,540,683 people. The intrusion ran from about December 2 to December 18, 2025. Records may include medical, insurance, financial, and government ID data. Aesto confirmed affected files in May, notified clients in June, and offered 24 months of Experian IdentityWorks."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/?utm_source=tldrinfosec",
+      "title": "Recently Patched PaperCut Zero-Days Used in Data Theft Attacks",
+      "summary": "PaperCut Software announced two new vulnerabilities that have been patched in its PaperCut NG and MF print management software. The vulnerabilities involve an authentication bypass vulnerability which can be chained with a separately disclosed vulnerability to achieve RCE. Threat intelligence firm Defused reports that the authentication bypass vulnerability is being exploited by attackers for data theft."
+    },
+    {
+      "url": "https://cyberpress.org/hackers-target-aws-root-accounts/?utm_source=tldrinfosec",
+      "title": "Hackers Target AWS root Accounts at 150+ Organizations With Password Spraying Attack",
+      "summary": "Datadog Security Labs uncovered a password spraying campaign targeting AWS root accounts. Datadog stated that it has not identified a successful login yet, making the attacker's motive unclear. AWS root account logins require an account email, so it is possible that the attackers have access to a dataset or exposed email addresses that they are using in their campaign."
+    },
+    {
+      "url": "https://www.forescout.com/blog/can-ai-create-plc-attacks-yes-but-it%e2%80%99s-not-that-easy-yet/?utm_source=tldrinfosec",
+      "title": "Can AI Create PLC Attacks? Yes, But It's Not That Easy Yet",
+      "summary": "Forescout used an AI model to port an RCE exploit from a WAGO 750-852 PLC to a 750-831 PLC running the same vulnerable Nucleus FTP server (CVE-2021-31886). The AI needed constant human guidance: correcting false leads, supplying disassembly context, and running Ghidra scripts it wrote itself. The final exploit stage took 8 hours 32 minutes and cost $535.74 in API tokens. A follow-up attempt to build a C2 implant bricked the PLC. Once code execution worked, the AI wrote working ICMP and UDP payloads within minutes."
+    },
+    {
+      "url": "https://clearbluejar.github.io/posts/does-abliteration-skew-your-bug-hunting/?utm_source=tldrinfosec",
+      "title": "Don't Let Abliteration Abliterate Your Bug Hunting: Discovering Verdict Bias in Uncensored Models",
+      "summary": "Tests of Gemma and Qwen builds found that abliterated variants approved of far more vulnerability candidates. In FreeBSD's sys/rpc, one Heretic build marked 138 of 144 candidates VALID, while the base marked 26 of 40. The Heretic run missed CVE-2026-4747 after spending its scan on false findings. A false heap-overflow claim survived because abliterated builds described the buffer bound, then still confirmed an overflow."
+    },
+    {
+      "url": "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/?utm_source=tldrinfosec",
+      "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams",
+      "summary": "Threat actors are executing voice phishing campaigns by registering external .onmicrosoft[.]com tenants with fake help desk names, initiating Microsoft Teams chats, and escalating to calls to trick victims into launching remote management tools. Following initial access, the attackers deliver distinct payloads that include an obfuscated PowerShell RAT designed to disable AMSI via the amsiInitFailed flag, and a Python-based execution chain that attempts PetitPotam coercion against domain controllers over port 445. To mitigate this threat, organizations must restrict external Teams access by default, block the associated payload hash, and proactively hunt for rapid chat-to-call sequences originating from commercial VPN nodes."
+    },
+    {
+      "url": "https://github.com/Kritt-ai/open-kritt/tree/main?utm_source=tldrinfosec",
+      "title": "open-kritt (GitHub Repo)",
+      "summary": "open-kritt is an open-source, self-hosted vulnerability research platform that turns focused AI analysis into de-duplicated, ranked findings with configurable validation and enrichment."
+    },
+    {
+      "url": "https://github.com/humanbound/humanbound?utm_source=tldrinfosec",
+      "title": "Humanbound (GitHub Repo)",
+      "summary": "Open-source adversarial testing engine, SDK, and CLI for AI agents. Attack your agent the way real users and attackers will: live endpoints, multi-turn conversations, and tool abuse. Then turn every failure into a firewall rule. Runs locally or against the Humanbound Platform. No login required to start."
+    },
+    {
+      "url": "https://github.com/Netspi/Microburst?utm_source=tldrinfosec",
+      "title": "Microburst (GitHub Repo)",
+      "summary": "MicroBurst includes functions and scripts that support Azure Services discovery, weak configuration auditing, and post-exploitation actions such as credential dumping. It is intended to be used during penetration tests where Azure is in use."
+    },
+    {
+      "url": "https://www.catonetworks.com/blog/cato-ctrl-when-trust-becomes-payload-in-fake-codex-clickfix-campaign/?utm_source=tldrinfosec",
+      "title": "Cato CTRL Insights: When Trust Becomes the Payload in a Fake Codex ClickFix Campaign",
+      "summary": "Sponsored Codex searches routed macOS users to Google Sites lures with attacker-controlled iframes. Fake installers copied Terminal commands that decoded URLs, fetched shell loaders, and launched Mach-O payloads from /tmp/helper. The chain sent event=pasted telemetry, cleared quarantine attributes with xattr -c, and showed delivery overlap with AMOS."
+    },
+    {
+      "url": "https://cdt.org/press/british-public-oppose-secret-surveillance-powers-and-want-strong-protections-for-encrypted-communications/?utm_source=tldrinfosec",
+      "title": "British Public Oppose Secret Surveillance Powers and Want Strong Protections for Encrypted Communications",
+      "summary": "CDT polling of 2,000 UK adults found 53% judge encryption-access security risks greater than law-enforcement benefits. 84% fear hidden access would create exploitable vulnerabilities, fraud, data leaks, and cybercrime. The findings follow Apple's tribunal challenge to UK Technical Capability Notices after a demand for encrypted iCloud access."
+    },
+    {
+      "url": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/?utm_source=tldrinfosec",
+      "title": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
+      "summary": "Attackers reportedly began exploiting CVE-2026-82329 days after disclosure, minting admin tokens in vulnerable JFrog Artifactory deployments."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662?utm_source=tldrinfosec",
+      "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
+      "summary": "AliExpress scripts generate inaudible WebAudio sawtooth signals, collect frequency data, and query display size, memory, plugins, WebGL, and mouse activity."
+    }
+  ]
+}

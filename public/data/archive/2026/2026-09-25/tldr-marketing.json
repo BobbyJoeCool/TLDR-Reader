@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-25",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.marketingdive.com/news/inside-mcdonalds-new-marketing-model-as-it-enters-media-network-fray/831170/?utm_source=tldrmarketing",
+      "title": "Inside McDonald's new marketing model as it enters media network fray",
+      "summary": "McDonald's is piloting a media network across 450 US company-owned restaurants, selling ad space on its app, kiosks, and menu boards, with the goal of building a billion-dollar business. Its marketing is shifting to fewer, bigger global campaigns built on its own IP. It is roughly doubling spending on long-running programs about its brand and food quality while cutting short-term promotions."
+    },
+    {
+      "url": "https://forkast.news/61-million-consumers-ask-ai-what-to-buy-then-they-buy-it-on-amazon/?utm_source=tldrmarketing",
+      "title": "61 Million Consumers Ask AI What to Buy. Then They Buy It on Amazon",
+      "summary": "23% of US consumers, or roughly 61 million people, now start retail research with AI. Average AI-assisted spending rose 17% from $889 in June to $1,039 in August. Yet 60% of AI-assisted purchases still close on Amazon. In a controlled test, 40% of consumers chose a marketplace even when told other retailers offered the same product, price, shipping, and returns."
+    },
+    {
+      "url": "https://www.saastr.com/the-saastr-ai-guide-to-building-a-top-tier-inbound-ai-agent-17000-conversations-600-meetings-booked-and-60-more-new-business/?utm_source=tldrmarketing",
+      "title": "AI Guide to Building a Top-Tier Inbound AI Agent",
+      "summary": "SaaStr's inbound AI agent held 17,000 conversations with prospects and booked about 600 meetings in a year. Together with a newer self-serve agent, it drove a 60% jump in new business, and three people created the whole setup. The on-site agent sits on the sponsor page, qualifies visitors on budget and goals, then books the meeting itself. For buyers who skip the chat, a second agent swaps the PDF prospectus for a page unique to each company. It checks first-party signals, then drafts a pitch that a human approves and that updates the same link in place."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/sales-frameworks-sam-mckenna?utm_source=tldrmarketing",
+      "title": "Is this the last place to automate?",
+      "summary": "Use AI to research prospects, but write the outreach yourself. Find a genuine connection on LinkedIn, tie it to a specific buyer problem, and address likely objections before they come up. Write 50 emails Monday through Wednesday, send them Thursday and Friday, then follow up within 48 hours over the weekend. On intro calls, skip generic discovery questions and let the buyer talk. If someone asks to reconnect later, respect the timing and nurture them with useful insights instead of “just checking in” messages."
+    },
+    {
+      "url": "https://www.buzzstream.com/blog/human-stories-podcast/?utm_source=tldrmarketing",
+      "title": "How to Find Real Human Stories for PR and Journalism",
+      "summary": "Brands can strengthen PR pitches by pairing their data or news angle with a real customer or person who has experienced the issue firsthand. A strong human story gives journalists an interviewee who can provide specific details and memorable quotes that make the story more relatable. Brands can find these people through targeted social media searches and OSINT techniques, then offer the verified source to journalists as part of the pitch. Only 5% to 10% of people contacted cold on social media may respond, so you may need to contact many potential sources and verify each person carefully."
+    },
+    {
+      "url": "https://later-com.s3.us-east-1.amazonaws.com/download/Marketer%27s+Guide-+How+to+Win+AI+Search+with+Creators.pdf?utm_source=tldrmarketing",
+      "title": "How to win AI search with creators",
+      "summary": "AI answers lean on third-party voices, so less than 10% of what they say about a brand comes from the brand's own content. 1 in 3 answers cite creators directly. Follower count barely matters, since 57% of cited YouTube videos come from channels under 100K. This playbook recommends combining SEO keyword data with real customer questions to build a shared prompt list, picking creators for authority and specificity, and reposting content stuck behind Instagram and TikTok login walls to YouTube as transcripts that AI crawlers can reach."
+    },
+    {
+      "url": "https://cogsend.com/?utm_source=tldrmarketing",
+      "title": "CogSend (Tool)",
+      "summary": "CogSend is a free, open-source social media scheduler that lets you manage posts across Mastodon, Bluesky, LinkedIn, Threads, and X from one place. You can write a post once, customize it for each platform, then publish or schedule it. It runs on your own Cloudflare account, so you keep control of your accounts and data without a monthly fee. The setup takes a few steps, with a demo video showing how to get it up and running."
+    },
+    {
+      "url": "https://searchengineland.com/google-veo-video-ads-pmax-demand-gen-490571?utm_source=tldrmarketing",
+      "title": "How to use Google Veo to create video ads for PMax and Demand Gen",
+      "summary": "Google Veo lets you turn existing static assets into 5 or 10 second video ads for Performance Max and Demand Gen campaigns. Strong, high resolution product images matter because the tool animates two images into sequential scenes and supports 16:9, 9:16, and 1:1 formats. The two 30 character headlines should focus on the ad message rather than branding since the business name already appears first. Advertisers should test Veo as a low cost way to refresh creative and evaluate clicks and website engagement alongside conversions."
+    },
+    {
+      "url": "https://www.kieranflanagan.io/p/is-the-traditional-marketing-team?utm_source=tldrmarketing",
+      "title": "Is the Traditional Marketing Team Dying, Shrinking, or Turning Into Something Else?",
+      "summary": "The modern marketing team is built around three principles. 0-1 marketers use AI systems to take work from idea to shipped output with fewer handoffs. Pods replace traditional team hierarchies with small groups that share context, own a specific outcome, and ship and learn weekly. Depth of craft becomes more valuable as AI handles production, giving specialists more time to apply the judgment and expertise needed to make standout work."
+    },
+    {
+      "url": "https://karandhir.substack.com/p/how-google-and-uber-measure-what?utm_source=tldrmarketing",
+      "title": "How Google and Uber Measure What Cannot Be Randomized",
+      "summary": "Major marketing investments that can't be randomized still need causal measurement, rather than post-hoc narratives. Google's CausalImpact and Uber's synthetic control methods show how you can estimate the effect of national launches, sponsorships, and other whole market interventions by building counterfactuals from historical data or comparable markets. These methods are weaker than randomized tests, so you should preregister the analysis, establish a strong pre period, run placebo tests, and report uncertainty intervals. Synthetic control should be a last resort for spending that cannot support randomization."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/?utm_source=tldrmarketing",
+      "title": "Even Americans who use AI every day are worried about it",
+      "summary": "In Gallup's survey of 37 countries, the US was the most anxious, with 74% worried and only 36% expecting AI to mostly help the country."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/?utm_source=tldrmarketing",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "summary": "Users will be able to create custom feeds around specific interests, while AI will play a bigger role in search and recommendations."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/digital-marketing-joe_actual-hack-that-works-send-your-demo-ads-share-7502830688946278402-6eZ_/?utm_source=tldrmarketing",
+      "title": "Lead Gen Tip: Send your demo ads straight to a calendar",
+      "summary": "Test sending your demo ads straight to a calendar, which raises CPL but drops cost per meeting booked."
+    }
+  ]
+}

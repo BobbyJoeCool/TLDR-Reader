@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-28",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third?utm_source=tldrcrypto",
+      "title": "Lido begins moving $16.5 billion in stETH; cut validator count by a third",
+      "summary": "Lido started its largest upgrade since 2023, consolidating over 8 million staked ETH (~$16.5 billion) onto Ethereum's post-Pectra validator design, a move expected to cut total validator count by roughly a third and reduce attestation messages by about 29% per epoch without directly affecting gas fees or speeds. The upgrade moves Lido's 34 curated node operators to Curated Module v2, requiring them to post locked ETH bonds for the first time in the protocol's five-year history, adding financial accountability alongside its existing reputation-based system. Lido estimates the transition will trim annual staking rewards across the protocol by about 0.28%."
+    },
+    {
+      "url": "https://www.theblock.co/post/409792/ondo-launches-new-execution-network-calling-it-evolution-of-ondo-chain?utm_source=tldrcrypto",
+      "title": "Ondo launches new execution network",
+      "summary": "The Ondo Network is a new execution layer that replaces its earlier Ondo Chain blockchain plan, aiming to match centralized exchange speed while keeping non-custodial, onchain settlement. CEO Ian De Bode said the shift came after concluding execution, not settlement, was the real bottleneck for high-performance trading. The architecture separates execution from verification and settlement, uses secure hardware enclaves with a decentralized attestor network to verify approved code, and currently settles asset transfers on Ethereum. Ondo Perps, a 24/7 perpetual futures platform for equities and commodities using tokenized RWAs as collateral, is the first application built on the network, with the ONDO token remaining the governance token as the network decentralizes."
+    },
+    {
+      "url": "https://www.theblock.co/post/409705/kraken-parent-payward-acquires-magic-labs-embedded-wallet-business?utm_source=tldrcrypto",
+      "title": "Kraken parent Payward acquires Magic Labs' embedded wallet business",
+      "summary": "Magic Labs, which has created over 60 million wallets since 2018, sold its embedded wallet business to Payward (Kraken's parent) and rebranded as Newton Labs to focus on Newton Protocol, an onchain finance authorization layer that entered mainnet beta in June. The deal extends Payward's acquisition spree, which also includes Bitnomial (up to $550 million), Reap Technologies ($600 million), and NinjaTrader ($1.5 billion)."
+    },
+    {
+      "url": "https://www.theblock.co/post/409716/sparkkitty-malware-hidden-in-mobile-apps-scans-photos-for-crypto-wallet-seed-phrases?utm_source=tldrcrypto",
+      "title": "SparkKitty malware hidden in mobile apps scans for seed phrases",
+      "summary": "SparkKitty is a cross-platform malware distributed via the App Store, Google Play, and third-party channels that uses OCR to scan device photo libraries for wallet seed phrases, an evolution of 2025's SparkCat. It was found embedded in an iOS crypto app called \"币coin\" and an Android app \"SOEX\" that hit over 10,000 downloads before removal."
+    },
+    {
+      "url": "https://ethresear.ch/t/proprietary-amms-and-ethereum/25543?utm_source=tldrcrypto",
+      "title": "Proprietary AMMs and Ethereum",
+      "summary": "PropAMMs, which use frequent onchain parameter updates to deliver active market-making with composability, account for roughly one-third of Solana's DEX volume but generate only about $10M in daily Ethereum activity versus $500M on Solana. Two structural barriers explain the gap: Ethereum's 12-second slot time amplifies stale-pricing risk relative to Solana's 1.6-second slots, and profit-maximizing builders can censor oracle updates then auction block-end trading access, negating PropAMM utility. Current workarounds rely on trusted relationships with Titan (50%+ of blocks) and Quasar (approximately 20%), concentrating block-construction risk in two entities. Same-slot, top-of-block censorship resistance, via FOCIL (EIP-7805) or in-protocol execution controls, is the prerequisite for viable PropAMM deployment on Ethereum."
+    },
+    {
+      "url": "https://x.com/alfongj/status/2081464019123146892?utm_source=tldrcrypto",
+      "title": "The Everything Router",
+      "summary": "Stripe is reportedly in talks to acquire OpenRouter at ~$10B, an 8x premium over the AI gateway's $1.3B valuation from three months ago. The price cannot be justified by gateway margins alone, as Cloudflare, Vercel, and open-source LiteLLM offer equivalent routing for free or near-zero cost. The strategic case rests on OpenRouter's product trajectory: it began as a synchronous token proxy, added reasoning passthrough in January 2025, and in May 2026 shipped server-side tool execution (web_search, web_fetch, and image generation), meaning a single API call now triggers multi-step reasoning and external actions without any client-side harness. As Anthropic, OpenAI, and Google race to absorb tool integrations and OAuth connections into their own platforms to create switching costs, enterprises building vendor-agnostic AI stacks will need a neutral aggregation layer, and OpenRouter's model-agnostic positioning and developer distribution make it the leading candidate to run that layer. Stripe's bet is that the router holding payment credentials on file when agents transact becomes the commerce intermediary for the agentic era, making the $10B an option premium on routing everything beyond tokens."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2081488277794603372.html?utm_source=tldrcrypto",
+      "title": "68 Crypto Projects That Shut Down in 2026",
+      "summary": "There were over 68 crypto projects that shut down or disappeared in 2026, spanning exchanges, DeFi protocols, NFT marketplaces, L1 and L2 chains, wallets, lending platforms, analytics tools, and gaming studios. High-profile closures include BitMEX, Balancer Labs, Nifty Gateway, Across Protocol, DappRadar, and Polygon zkEVM, representing losses across legacy infrastructure and recent-cycle deployments alike. Web3 gaming recorded the densest cluster of failures, with Pirate Nation, Nyan Heroes, Ember Sword, and Wildcard all ceasing operations, while NFT marketplaces (JPG Store, Foundation, and Exchange Art) and lending protocols (Radiant Capital, Goldfinch, ZeroLend, and Ionic) each shed multiple platforms."
+    },
+    {
+      "url": "https://www.circle.com/pressroom/circle-acquires-ibm-blockchain-patent-portfolio?utm_source=tldrcrypto",
+      "title": "Circle acquires IBM blockchain patent portfolio",
+      "summary": "Circle acquired IBM's blockchain patent portfolio, comprising over 680 patent families and nearly 1,000 issued patents spanning blockchain, banking, and enterprise infrastructure, making Circle the leading US blockchain patent holder and reinforcing its foundation for USDC, Circle Payments Network, and Arc."
+    },
+    {
+      "url": "https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=tldrcrypto",
+      "title": "Arbitrum protocol AFX Trade hit by $24 million bridge exploit",
+      "summary": "AFX Trade, an Arbitrum-based protocol, lost $24.15 million in USDC after an attacker exploited a vulnerability in the protocol's proprietary custody bridge."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2081608228853686377.html?utm_source=tldrcrypto",
+      "title": "Storj Labs files Chapter 11 as STORJ token craters",
+      "summary": "STORJ dropped roughly 15% after Storj Labs filed for Chapter 11 to restructure legacy debt while keeping its decentralized storage network running."
+    }
+  ]
+}

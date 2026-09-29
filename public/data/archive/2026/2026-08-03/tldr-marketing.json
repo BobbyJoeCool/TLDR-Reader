@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-08-03",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.creativebloq.com/design/advertising/from-tobacco-to-tesla-how-the-subvertising-has-held-up-a-mirror-to-some-of-the-biggest-brands?utm_source=tldrmarketing",
+      "title": "From tobacco to Tesla, how subvertising has held up a mirror to some of the biggest brands",
+      "summary": "Subvertising uses parody and imitation to critique brand messaging, often gaining traction when it feels more honest or aligned with public sentiment than the original ads. From billboard hacking in the 1970s to coordinated campaigns today, these efforts have influenced perception, exposed ethical gaps, and even contributed to policy change. With AI making imitation easier, brands face greater risk of losing control of their narratives, especially when messaging lacks credibility or contradicts real practices."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/?utm_source=tldrmarketing",
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "summary": "Reddit's stock fell more than 20% after an earnings report that beat expectations on nearly every metric except search referral traffic. Google's AI Overviews cut website referral clicks by almost half compared to traditional search results, and Reddit's now weighing whether to end its $60M Google licensing deal over it. Google disputes the decline, saying organic click volume to websites has stayed relatively stable year over year. The Economist and Reuters are reportedly weighing similar exits, since the same referral squeeze hits any publisher still dependent on Google search traffic."
+    },
+    {
+      "url": "https://www.therevenuediaries.com/p/revenue-diaries-entry-74?utm_source=tldrmarketing",
+      "title": "Why aren't you building your employees' personal brand?",
+      "summary": "Employee personal brands should be treated as an investment, not a retention risk. Companies that help employees build audiences create stronger advocacy and visibility, even if those employees eventually move on. Instead of relying on one executive voice, encourage teams to develop their own presence through personal content, employee-led podcasts, and shared expertise. The goal is to make employees so valuable that they never have to rely on a resume alone."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/benjamingoodey_simple-yet-powerful-keyword-research-tip-share-7486399802776395776-5ff3/?utm_source=tldrmarketing",
+      "title": "Simple keyword research tip",
+      "summary": "Use customer interview recordings as a source for keyword research by extracting pain point questions with AI. Search those questions, analyze top-ranking pages in Semrush, and identify the keywords they rank for. Expand the list with related URLs and create content targeting low-volume, low-competition terms that closely match customer needs."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/email-pro-open-rate-is-a-vanity-metric?utm_source=tldrmarketing",
+      "title": "Email Open Rate Is a Vanity Metric",
+      "summary": "Open rates can be misleading, with revenue serving as the stronger measure of email performance. Segment audiences by engagement, purchase frequency, and customer value to send more relevant campaigns. Increase frequency when subscribers are engaged, test different opt-in offers beyond discounts, and review automations for missed revenue. Instead of removing inactive subscribers, use reactivation campaigns to bring back customers who may still convert."
+    },
+    {
+      "url": "https://support.google.com/google-ads/answer/10227746?utm_source=tldrmarketing",
+      "title": "Google publishes its first dedicated guide for YouTube audio ads",
+      "summary": "Google released its first standalone help page explaining how to create YouTube audio ads. It's an official reference for the format's specifications and setup."
+    },
+    {
+      "url": "https://maven.com/p/a7811c/how-to-stop-chasing-the-wrong-clients?utm_source=tldrmarketing",
+      "title": "How to stop chasing the wrong clients (Webinar)",
+      "summary": "This webinar, on August 5, will show how to stop pursuing prospects who won't convert by recognizing early signs of misalignment. It will explain how to separate curiosity from real intent and why the right audience requires less effort to close. The session will focus on using buyer behavior and timing to improve targeting and drive more consistent sales."
+    },
+    {
+      "url": "https://martech.zone/ends-tonight-how-false-urgency-became-emails-500-per-subscriber-mistake/?utm_source=tldrmarketing",
+      "title": "Ends Tonight? How False Urgency Became Email's $500 per Subscriber Mistake",
+      "summary": "Marketing emails now carry legal risk. Courts have ruled that misleading subject lines alone can trigger damages even if unopened. This applies to any company emailing consumers, since lists can't exclude specific states and federal anti-spam laws offer no protection. Nearly 200 lawsuits have targeted retailers, airlines, and colleges over extended “deadline” claims, with damages up to $500 per email, now reduced to $100 under a 2026 law."
+    },
+    {
+      "url": "https://thegtmnewsletter.substack.com/p/ai-token-price-collapse-costs-rising?utm_source=tldrmarketing",
+      "title": "The Token Price Collapse And Why AI Costs Still Increase",
+      "summary": "Cheaper tokens didn't shrink AI bills - they multiplied how many calls get made. Token prices fell more than 95% in three years, yet enterprise LLM spend more than doubled in 6 months to $8.4 billion. The volume surge lands directly on margin, since AI-native gross margins run 50-60% against 80-90% for traditional per-seat SaaS, and a flat seat price can't absorb a cost that scales with usage. That's forcing a shift toward per-action and per-outcome pricing, the model Salesforce, Intercom, and GitHub Copilot have already adopted."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/thomaslalas_you-get-four-chances-to-ask-your-customers-activity-7488241778148634624-xCgK?utm_source=tldrmarketing",
+      "title": "The 4 moments to ask customers why they purchased from you",
+      "summary": "Ask pre-purchase, post-checkout, via follow-up survey, and at delivery with a QR code."
+    },
+    {
+      "url": "https://martech.org/the-ai-shopping-stats-2026-what-you-need-to-know/?utm_source=tldrmarketing",
+      "title": "AI shopping stats 2026: What you need to know",
+      "summary": "43% of US shoppers used AI for product research recently, and 20% used it on their last $50+ purchase."
+    }
+  ]
+}

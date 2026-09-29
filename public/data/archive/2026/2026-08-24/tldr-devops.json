@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-08-24",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/?utm_source=tldrdevops",
+      "title": "Docker Verified Publisher Apps Are Now Self-Serve",
+      "summary": "Docker has made its Verified Publisher program self-serve, so software vendors can now apply directly through Docker Hub instead of going through a sales team. Approved publishers get a verified badge, prioritized search ranking, and access to analytics that identify which companies are pulling their images. The badge covers all content types on Docker Hub, including MCP servers, models, sandboxes, and agents. Current verified publishers include Google, Microsoft, AWS, Datadog, and Grafana Labs."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/?utm_source=tldrdevops",
+      "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
+      "summary": "AWS Glue 6.0 is now generally available in all AWS regions where Glue operates, with pricing 30% lower than previous versions. The release is built on Apache Spark 4.1, Python 3.13, and Scala 2.13, and includes full support for the Apache Iceberg v3 specification via Iceberg 1.11.0. A new VARIANT data type with shredding support lets teams store and query JSON, logs, and event data without flattening schemas. No API changes are required to use the new version."
+    },
+    {
+      "url": "https://www.digitalocean.com/blog/inference-router-cache-aware?utm_source=tldrdevops",
+      "title": "DigitalOcean Inference Router, Now Cache-Aware: Why the Cheapest Model Isn't Always the Best Deal",
+      "summary": "DigitalOcean has added cache-aware routing to its Inference Router, letting the system account for the cost of breaking a warm prompt cache when deciding whether to switch models mid-session. The update pairs with two new controls: an explicit model affinity header that ties requests to a session, and a routing budget parameter that caps how much extra cost a model switch can incur."
+    },
+    {
+      "url": "https://surfingcomplexity.blog/2026/08/16/quick-thoughts-on-azure-regional-outage-from-july-23-26/?utm_source=tldrdevops",
+      "title": "Quick thoughts on Azure Regional Outage from July 23, '26",
+      "summary": "A July 23 Azure West US outage lasted about five hours after a networking repair triggered an unexpectedly broad device isolation. Contributing factors included flawed blast radius analysis, inadequate aggregate safety validation, misleading health signals, incomplete event logging, and rollback automation that depended on the disrupted connectivity."
+    },
+    {
+      "url": "https://octopus.com/blog/octo-easy-mode-20-microservices?utm_source=tldrdevops",
+      "title": "Octopus Easy Mode - Kubernetes Microservice Orchestration",
+      "summary": "Octopus can orchestrate independently deployable Kubernetes microservices through a parent project using Deploy a Release steps, coordinating sequential or parallel deployments across environments. The approach preserves individual service deployment while enabling teams to promote multiple services together as a single unit with consistent lifecycle management."
+    },
+    {
+      "url": "https://github.com/wbsmolen/aerospork?utm_source=tldrdevops",
+      "title": "Aerospork (GitHub Repo)",
+      "summary": "AeroSpork is a fork of AeroSpace, an i3-style tiling window manager for macOS. It adds a settings GUI, notarized universal builds for both arm64 and x86_64, and a fix for monitor identity that uses CoreGraphics UUIDs instead of IOKit."
+    },
+    {
+      "url": "https://github.com/databasus/databasus?utm_source=tldrdevops",
+      "title": "Databasus (GitHub Repo)",
+      "summary": "Databasus is a free, open source, self-hosted backup tool for PostgreSQL that supports storage backends like S3, Google Drive, and FTP, plus notifications via Slack, Discord, and Telegram. It focuses on Point-in-Time Recovery and verifies backups by performing actual restores, not just checking files on disk."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/cisa-bod-26-04-vulnerability-prioritization/?utm_source=tldrdevops",
+      "title": "How CISA's BOD 26-04 changes vulnerability prioritization",
+      "summary": "CISA's Binding Operational Directive 26-04 requires federal agencies to prioritize vulnerability remediation by actual risk rather than static severity scores. This post describes how Datadog's tools help teams identify and remediate the critical findings the directive targets."
+    },
+    {
+      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/?utm_source=tldrdevops",
+      "title": "Wild AI-Related Reliability Incidents Are Coming",
+      "summary": "AI agents acting as autonomous first responders may successfully resolve many routine incidents, but their ability to take operational actions also creates new failure modes when they encounter situations they cannot handle. The most dangerous scenario is an agent attempting remediation in an unexpected way, making an already complex outage worse before humans enter the loop and forcing responders to diagnose the combined behavior of the software system and the agent itself."
+    },
+    {
+      "url": "https://typesanitizer.com/blog/performance-issues.html?utm_source=tldrdevops",
+      "title": "There Continue to Be Reasons for Software to Be Slow",
+      "summary": "LLMs can make performance work cheaper to implement, but implementation cost is often not the main reason optimizations do not ship: teams may tolerate slower software, cut engineering budgets, deprioritize performance, or face larger costs in testing, migration, correctness, and long-term maintenance. AI-generated optimizations can also overfit benchmarks or introduce reliability problems, so faster code generation does not necessarily translate into faster production software."
+    },
+    {
+      "url": "http://www.devopsdigest.com/google-agent2agent-protocol-joins-aaif?utm_source=tldrdevops",
+      "title": "Google Agent2Agent Protocol Joins AAIF",
+      "summary": "Google's Agent2Agent Protocol, an open standard for cross-vendor agent communication, is joining the Agentic AI Foundation alongside the Linux Foundation-backed MCP ecosystem."
+    },
+    {
+      "url": "https://octopus.com/blog/local-ai-agent-sandboxes?utm_source=tldrdevops",
+      "title": "Sandboxing local AI Agents",
+      "summary": "Local AI coding agents run arbitrary prompts with full access to a developer's machine, risking accidental or malicious file deletion and secret exfiltration."
+    }
+  ]
+}

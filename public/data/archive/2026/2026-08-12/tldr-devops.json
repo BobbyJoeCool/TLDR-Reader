@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-08-12",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cncf.io/announcements/2026/08/11/cncf-announces-graduation-of-cloud-native-buildpacks-advancing-the-standard-for-container-builds/?utm_source=tldrdevops",
+      "title": "CNCF Announces Graduation of Cloud Native Buildpacks, Advancing the Standard for Container Builds",
+      "summary": "The Cloud Native Computing Foundation has graduated Cloud Native Buildpacks, an open source project that builds OCI-compliant container images directly from application source code. The project was jointly created by Pivotal and Heroku in January 2018 and joined the CNCF later that year. It now has 535 contributors across 164 organizations, with adopters including DigitalOcean, GitLab, Google, and Bloomberg, where the project powers AI infrastructure. To reach graduation, the project completed a third-party security review with Quarkslab and the Open Source Technology Improvement Fund, and received an OpenSSF Best Practices passing badge."
+    },
+    {
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/?utm_source=tldrdevops",
+      "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
+      "summary": "Cloudflare mitigated 23.2 million network-layer and 29.64 trillion HTTP DDoS requests in the first half of 2026, according to the company's 25th DDoS Threat Report. April was the peak month, hitting 6.46 trillion requests and 165 petabytes of volume, with activity declining afterward following Operation PowerOFF, a 21-country action that took down 53 domains and targeted over 75,000 DDoS-for-hire users. Network-layer attacks exceeding 1 terabit per second rose more than six-fold from Q1 to Q2, with Cloudflare recording 805 such attacks in the second quarter alone. Brazil overtook the United States as the top source country for DDoS traffic, accounting for 14.9% of mitigated requests versus 13.4% for the US."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/engineering/improving-apm-java-startup-with-a-prefix-trie/?utm_source=tldrdevops",
+      "title": "How we improved APM Java startup by encoding a prefix trie as a JVM constant",
+      "summary": "Datadog's APM team cut class-matching overhead during Java startup by 30% over four years, with one key technique being a prefix trie encoded as a JVM string constant called ClassNameTrie."
+    },
+    {
+      "url": "https://typesanitizer.com/blog/code-review.html?utm_source=tldrdevops",
+      "title": "Reviewing code is a skill",
+      "summary": "Code review can improve through deliberate practice, with experienced reviewers learning to spot bugs, design problems, hidden assumptions, and operational risks that automated checks or LLM reviews can miss. Strong reviews draw on system history, invariants, failure modes, and organizational context, making code review useful not only for defect detection but also for knowledge transfer, maintaining norms, and understanding changes."
+    },
+    {
+      "url": "https://spacelift.io/blog/the-hidden-cost-of-homegrown-iac?utm_source=tldrdevops",
+      "title": "The Hidden Cost of Homegrown IaC",
+      "summary": "Homegrown infrastructure-as-code systems offer flexibility and low initial costs but often create hidden expenses through maintenance, scaling challenges, governance gaps, and drift management. Prebuilt IaC orchestration platforms typically provide lower total ownership costs, except for small-scale or highly restricted environments."
+    },
+    {
+      "url": "https://github.com/paperclipai/paperclip?utm_source=tldrdevops",
+      "title": "Paperclip (GitHub Repo)",
+      "summary": "Paperclip is an open-source Node.js server and React UI that orchestrates teams of AI agents to run a business. It supports agents like Claude Code, Codex, Cursor, and Gemini, giving each one roles, budgets, reporting lines, and permissions."
+    },
+    {
+      "url": "https://github.com/vitali87/code-graph-rag?utm_source=tldrdevops",
+      "title": "Code-Graph-RAG (GitHub Repo)",
+      "summary": "Code-Graph-RAG is an open source tool that parses multi-language codebases using Tree-sitter, stores the resulting structure as a knowledge graph in Memgraph, and lets users query and edit code in plain English. It supports Python, TypeScript, JavaScript, Rust, Go, Java, C, C++, C#, PHP, Lua, Dart, and several others. The tool runs as an MCP server, allowing Claude Code and other MCP clients to query and edit codebases directly."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/session-replay-investigate-collaborate/?utm_source=tldrdevops",
+      "title": "Find, analyze, and collaborate on user sessions in Datadog Session Replay",
+      "summary": "Datadog Session Replay consolidates session discovery, AI-powered summaries, friction analysis, and timestamped collaboration into one workspace. Teams can quickly identify relevant sessions, jump to key moments, share context through anchored comments, and coordinate troubleshooting and UX improvements from a shared source of evidence."
+    },
+    {
+      "url": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/?utm_source=tldrdevops",
+      "title": "Unveiling good and bad behaviors on the Agentic Internet",
+      "summary": "Cloudflare is advancing bot management by evaluating continuous behavior and trust rather than relying on static human-versus-bot checks, recognizing hybrid human-agent sessions and legitimate automation. Precursor provides session-wide behavioral detection, while upcoming Adaptive Intelligence and advanced mitigations will enable self-adjusting detection and more nuanced bot controls."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances/?utm_source=tldrdevops",
+      "title": "AWS IAM Identity Center supports one-click multi-Region option for new organization instances",
+      "summary": "AWS IAM Identity Center now offers one-click multi-Region configuration for new organization instances, automatically creating a multi-Region KMS key and replicating the instance to another Region for improved resilience."
+    },
+    {
+      "url": "https://www.fastly.com/blog/beyond-bot-block-fastly-experian-turning-ai-agent-traffic-into-revenue?utm_source=tldrdevops",
+      "title": "Beyond the Bot Block: How Fastly and Experian Are Turning AI Agent Traffic into Revenue",
+      "summary": "Fastly has joined the Experian Agent Trust ecosystem to help enterprises verify, authorize, and monetize legitimate AI agents at the network edge."
+    },
+    {
+      "url": "https://www.databricks.com/blog/introducing-file-type-native-column-type-multimodal-data?utm_source=tldrdevops",
+      "title": "Introducing FILE type: a native column type for multimodal data",
+      "summary": "Databricks is launching a beta of FILE type, a new column type that stores unstructured data like videos, images, and documents as native columns in lakehouse tables."
+    }
+  ]
+}

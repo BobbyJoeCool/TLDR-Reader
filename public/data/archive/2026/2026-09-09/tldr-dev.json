@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-09",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cohere.com/blog/megakernels?utm_source=tldrdev",
+      "title": "Inside the Megakernel Serving Engine for North Mini Code",
+      "summary": "Cohere combines an entire decoding pass into one persistent GPU kernel instead of launching a separate kernel for each operation. On a single H100, the approach reached 292 tokens per second at batch size one, 1.58x vLLM, and delivered 1.25x to 1.41x higher end-to-end decode throughput."
+    },
+    {
+      "url": "https://theaiengineer.substack.com/p/what-makes-inference-nondeterministic?utm_source=tldrdev",
+      "title": "What Makes Inference Nondeterministic?",
+      "summary": "When the same prompt is sent to an AI model multiple times at zero temperature, variations in the results can occur due to the nondeterministic nature of floating-point arithmetic combined with server load dynamics. The model's output can differ based on how requests are batched and how the GPU processes the addition of numbers, leading to discrepancies despite identical settings."
+    },
+    {
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html?utm_source=tldrdev",
+      "title": "I've Factored the RSA Keys of a Certificate Authority From the '90s",
+      "summary": "Matthew McPherrin found two 512-bit E-Certify root certificates shipped with Netscape in 1999 and factored each key on a desktop in about 30 hours. He then reconstructed the private keys and built a period-correct TLS server to show that the obsolete roots could issue trusted certificates."
+    },
+    {
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default?utm_source=tldrdev",
+      "title": ".gitignore everything by default",
+      "summary": "Instead of allowing all files by default and selectively ignoring certain ones, a new approach suggests ignoring everything by default and only allowing specific files to be tracked by Git, which can prevent accidental commits of unwanted local files."
+    },
+    {
+      "url": "https://www.anaconda.com/blog/openai-astra-ai-security?utm_source=tldrdev",
+      "title": "What OpenAI's Astra Means for AI Security Teams",
+      "summary": "Astra's ability to discover and chain zero-day exploits makes periodic pentests inadequate as a sole defense. Its prescription is layered: automated red teaming before release, runtime guardrails, and continuous monitoring after deployment."
+    },
+    {
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5?utm_source=tldrdev",
+      "title": "Introducing Mercury 2.5",
+      "summary": "Inception's latest diffusion LLM runs at a claimed 1,107 tokens per second, with a 260K-token context window and a 40% intelligence gain over Mercury 2. It also adds parallel tool calls and structured JSON, while previews of Mercury Voice and Mercury Router target latency-sensitive agents."
+    },
+    {
+      "url": "https://ai.meta.com/muse/?utm_source=tldrdev",
+      "title": "Introducing Muse",
+      "summary": "Muse is Meta's personal AI agent designed to automate everyday tasks, fill out forms, and navigate the web via a dedicated, secure virtual machine. Accessible through everyday apps like WhatsApp, it proactively organizes goals and builds custom tools while requiring direct user approval for sensitive actions like making purchases or sending emails."
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data?utm_source=tldrdev",
+      "title": "Pretraining Progress Is Mostly Coming From Data",
+      "summary": "A controlled study of open model recipes and datasets from 2019 to 2025 found that data improvements produced a 12x compute-efficiency gain at a 10^19 FLOPs budget, versus 3.7x from model improvements. The authors stress that the experiment covers small models and pretraining only, while architecture work still makes larger-scale training possible."
+    },
+    {
+      "url": "https://openai.com/index/navier-stokes-solution/?utm_source=tldrdev",
+      "title": "OpenAI's Agents Claim a Navier-Stokes Breakthrough",
+      "summary": "OpenAI published a claimed solution to the Navier-Stokes existence and smoothness problem, produced by a system of roughly 10,000 agents and accompanied by a Lean-formalized proof. The company says the effort used about 130 billion output tokens, with GPT-6 Astra handling the final formalization and verification."
+    },
+    {
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03?utm_source=tldrdev",
+      "title": "DaVinci Resolve 21.1",
+      "summary": "DaVinci Resolve 21.1 has been released, featuring AI assistant integration, expanded camera support, enhanced multi-cam workflows, and over 25 new Krokodove graphics tools to improve editing and color grading efficiency."
+    },
+    {
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/?utm_source=tldrdev",
+      "title": "LLM Attention Visualization",
+      "summary": "This interactive explainer lets you hover over generated tokens to see which earlier tokens contributed most to them."
+    },
+    {
+      "url": "https://mg-crea.com/blog/the-late-software-developer/?utm_source=tldrdev",
+      "title": "The Late Software Developer",
+      "summary": "A developer describes the strange shift from flow-state coding to orchestrating 20-plus agents, and why the software factory itself is becoming the product."
+    },
+    {
+      "url": "https://blog.sshh.io/p/i-asked-100-agents-to-hack-me?utm_source=tldrdev",
+      "title": "I Asked 100 Agents to Hack Me",
+      "summary": "Shrivu Shankar gave roughly 100 self-hosted, guardrail-removed agents five hours to compromise his online accounts, and they broke into five lower-tier accounts through old software flaws and password attacks, attempted social engineering 16 times, and assembled sensitive personal data for about $210 in GPU time."
+    }
+  ]
+}

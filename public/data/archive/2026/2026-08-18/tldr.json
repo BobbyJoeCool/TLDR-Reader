@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-08-18",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.teslarati.com/tesla-cybercab-launch-preparations-have-begun/#google_vignette?utm_source=tldrnewsletter",
+      "title": "Tesla Cybercab launch preparations have begun",
+      "summary": "Tesla plans to launch the Cybercab in Austin, Texas, later this month. Employees have been told to prepare for a public launch as soon as the end of the month. Tesla has launched a lottery to ride the vehicle at the launch event. The Cybercab entered production back in April, and the company has been testing units in a variety of environments and climates around the US."
+    },
+    {
+      "url": "https://9to5google.com/2026/08/17/google-just-bought-a-bunch-of-spirit-airlines-data-for-ai-training/?utm_source=tldrnewsletter",
+      "title": "Google just bought a bunch of Spirit Airlines data for AI training",
+      "summary": "Google has purchased a huge dump of data from the now-defunct Spirit Airlines for $10 million. The dump includes data on operations and business, as well as software code, but not personal information. All personally identifiable information will be rigorously scrubbed by a third party before receipt. Google will use the data to improve its products and AI models."
+    },
+    {
+      "url": "https://press.asimov.com/articles/clinic-loop?utm_source=tldrnewsletter",
+      "title": "Clinic-in-the-Loop",
+      "summary": "Faster testing in the clinic creates a feedback loop. Ideas become trials that generate rich data, which improves data models, and better models inform the next generation of ideas. The clinic is a central component of discovery. Even data from failed trials can be useful. Optimizing trial efficiency is about learning fast enough to make success more likely."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/?utm_source=tldrnewsletter",
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "summary": "1872 is a startup founded by three former SpaceX engineers that aims to manufacture steel parts using AI-driven software and robots. The company's immediate goal is to establish a prototype factory that can automate most of the steel fabrication process for crucial infrastructure components by 2027. It aims to supply customers who are developing AI data centers or small modular nuclear reactors. 1872 will first focus on automating the production of rectangular steel skids."
+    },
+    {
+      "url": "https://cursor.com/changelog/origin-code-hosting?utm_source=tldrnewsletter",
+      "title": "Origin Code Hosting",
+      "summary": "Cursor can now host code through its Origin platform. Origin is designed for agent scale. It supports repositories, pull requests, code browsing, and GitHub sync. GitHub repositories can sit alongside the ones Cursor hosts. Synced repositories update in real time, and users can choose what gets synced and disconnect a repository at any time. Origin is now rolling out in early beta to all paid plan users, except enterprise organizations whose admins opt out."
+    },
+    {
+      "url": "https://linear.app/data?utm_source=tldrnewsletter",
+      "title": "AI usage patterns in software teams",
+      "summary": "Tens of thousands of teams build software inside Linear every day. The company is unusually well placed to see the entire workflow behind building a product. This post provides a picture of AI adoption within Linear's customer base. It looks at who is using AI, how it reshapes where teams spend their time across Linear, and whether it has changed how much they ship."
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build?utm_source=tldrnewsletter",
+      "title": "Waymo vs Tesla: Two Ways to Build Self-Driving Cars",
+      "summary": "Waymo and Tesla have come up with different answers to the self-driving car problem. Both approaches depend heavily on machine learning, but they differ in how much gets fixed in advance. Waymo has a reported 220.6 million rider-only miles, while almost all of Tesla's miles involve a driver who remains responsible for the vehicle. This article looks at the companies' different approaches to self-driving and explains how they work."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html?utm_source=tldrnewsletter",
+      "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+      "summary": "Anthropic's annualized run rate hit $65 billion at the end of July. The company has seen its enterprise popularity surge as it gears up for what's expected to be a blockbuster IPO. It filed its prospectus with the SEC in June and has been holding preliminary meetings with potential investors. There is still no official timeline for the debut."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?utm_source=tldrnewsletter",
+      "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot. Click here to learn more!"
+    },
+    {
+      "url": "https://danluu.com/benchpocalypse/?utm_source=tldrnewsletter",
+      "title": "The benchmarkpocalypse",
+      "summary": "It is now easier than ever to reward hack a benchmark and make fake performance gains."
+    },
+    {
+      "url": "https://oppi.li/posts/disposable_ci/?utm_source=tldrnewsletter",
+      "title": "Your CI should be disposable",
+      "summary": "CIs have one job: scheduling."
+    },
+    {
+      "url": "https://blog.sshh.io/p/how-i-use-ai-in-2026-coding-writing?utm_source=tldrnewsletter",
+      "title": "How I use AI in 2026 (Coding, Writing, Learning, Assistant-ing)",
+      "summary": "One of the best ways to learn how to use AI effectively is to see how 'power users' use these technologies."
+    },
+    {
+      "url": "https://www.davesresearch.com/good-move-constructive/?utm_source=tldrnewsletter",
+      "title": "A Good Move is Constructive",
+      "summary": "Every good move in the product game creates strategic possibility."
+    },
+    {
+      "url": "https://www.seangoedecke.com/help-peer/?utm_source=tldrnewsletter",
+      "title": "Help peer",
+      "summary": "Modern AI research teams are full of people who read Isaac Asimov and Scott Alexander and believe themselves to be building an artificial God, but in reality, they're building beings that are superhuman but fallible, each with their own interests and vulnerable to the same 'race to the bottom' dynamic as humans."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-437-tokens-hours-points-and-other?utm_source=tldrnewsletter",
+      "title": "TBM 437: Tokens, Hours, Points, and Other Curious Proxies",
+      "summary": "AI introduces some genuinely new twists on the problem of measuring ROI, but in the end, it still hinges on a theory of value."
+    }
+  ]
+}

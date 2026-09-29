@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-09-14",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://eng.lyft.com/refreshing-the-travel-time-map-behind-lyfts-marketplace-rebuilding-neighborhood-reachability-5be3efbc82ea?utm_source=tldrdata",
+      "title": "Refreshing the Travel-Time Map Behind Lyft's Marketplace: Rebuilding Neighborhood Reachability Signals",
+      "summary": "Lyft rebuilt its outdated neighborhood travel-time dataset with more accurate ETAs, better coverage, drivable-location filtering, and self-service fields, improving how pricing and driver heatmaps understand nearby supply. It will now refresh every six months, with time-aware ETAs planned to reflect changing traffic throughout the week."
+    },
+    {
+      "url": "https://softwaremill.com/diskless-kafka-object-storage-kip-1150-and-kafkas-future/?utm_source=tldrdata",
+      "title": "Diskless Kafka: What Happens When Brokers Stop Owning the Data?",
+      "summary": "Diskless Kafka keeps the Kafka API while moving durable payload storage from broker-owned logs to object storage and strongly consistent metadata. The tradeoff is not just cheaper retention: batching, offset assignment, recovery, compaction, latency, and feature support all change, making diskless topics a per-workload storage choice rather than a universal Kafka replacement."
+    },
+    {
+      "url": "https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01?utm_source=tldrdata",
+      "title": "Evolving Pinterest's Embedding Retrieval Platform",
+      "summary": "Pinterest's Manas retrieval platform serves billions of embeddings across Home Feed, Search, Related Pins, Ads, and Notifications. Quantization is cutting serving cost by 20–30%, SSD-backed ANN experiments reduce memory and CPU needs, and multi-embedding retrieval moves beyond single-vector two-tower matching toward richer candidate scoring."
+    },
+    {
+      "url": "https://boringsql.com/posts/unbearable-lightness-of-one-more-index/?utm_source=tldrdata",
+      "title": "The unbearable lightness of one more index",
+      "summary": "Coding agents now produce competent PostgreSQL schemas, but they tend to stack indexes onto hot operational tables. In a measured support-ticket workload, extra indexes nearly doubled update time and WAL while increasing VACUUM work. Index review needs write-path evidence, HOT-update awareness, and usage counters, not just fast read plans."
+    },
+    {
+      "url": "https://thenewstack.io/ai-agent-trace-debugging/?utm_source=tldrdata",
+      "title": "It passed CI. It passed your evals. The customer still got the wrong answer",
+      "summary": "AI agents can return successful, well-grounded responses that are still wrong because they retrieved invalid context or followed a faulty execution path. Debugging requires end-to-end traces of model calls, tool calls, retrieval inputs, and outputs, plus separate tests for deterministic system behavior and answer quality."
+    },
+    {
+      "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki?utm_source=tldrdata",
+      "title": "118 million queries per second on Neki",
+      "summary": "PlanetScale set out to run 1 million queries per second against Neki, its new sharded Postgres, hit that on 5 shards almost immediately, then kept going until 512 shards were serving 118 million queries per second across 1.22 PiB of data. The workload is deliberately narrow: a single-shard point select fetching one row by primary key with no writes, joins, or cross-shard queries, which is what makes the scaling curve clean."
+    },
+    {
+      "url": "https://openai.com/index/put-data-to-work/?utm_source=tldrdata",
+      "title": "Now everyone can put data to work",
+      "summary": "ChatGPT Work's Data agent connects to approved company data and business definitions, letting employees investigate questions and build shareable dashboards using plain language. It respects existing permissions, works with major data and BI platforms, and can recommend or carry out approved follow-up actions."
+    },
+    {
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/?utm_source=tldrdata",
+      "title": "Why DuckDB 2.0 is faster",
+      "summary": "DuckDB 2.0 speeds up S3 queries by 2-3x through asynchronous I/O, dramatically improves deep recursive queries, and makes semi-structured VARIANT data smaller and faster than JSON. It also adds practical SQL features including triggers, nested schemas, and data-modifying CTEs."
+    },
+    {
+      "url": "https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/?utm_source=tldrdata",
+      "title": "Your AI Adoption Lift Is a Selection Effect",
+      "summary": "Comparing AI adopters with non-adopters usually exaggerates impact because more engaged customers are also more likely to adopt. Instead, estimate causality using variation that customers did not choose, such as an eligibility threshold, while clearly limiting conclusions to the population and decision it measures."
+    },
+    {
+      "url": "https://estuary.dev/blog/postgres-cdc-backfill?utm_source=tldrdata",
+      "title": "PostgreSQL CDC Backfills at Scale: Running a Multi-Day Backfill While Production Keeps Writing",
+      "summary": "Large PostgreSQL CDC backfills fail less from historical reads than from WAL retention, delayed slot acknowledgments, long-running transactions, and stale snapshot rows racing live changes. Safer designs keep consuming WAL during chunked reads, checkpoint progress, reconcile overlaps with watermarks and fences, and size chunking around real write rates."
+    },
+    {
+      "url": "https://blog.dataengineerthings.org/investigating-spark-waste-across-the-stack-188aa622e12a?utm_source=tldrdata",
+      "title": "Investigating Spark Waste Across the Stack",
+      "summary": "Four production Spark cases cut runtime, compute, S3 operations, and costs by tracing hidden waste beyond top-level CPU and memory metrics."
+    },
+    {
+      "url": "https://covertaltruism.substack.com/p/the-half-life-of-a-query?utm_source=tldrdata",
+      "title": "The Half-Life of a Query",
+      "summary": "Tools like dbt turn fragile, undocumented analysis into reproducible systems, while AI often misses the constraints of real workplaces."
+    },
+    {
+      "url": "https://muratbuffalo.blogspot.com/2026/09/jetpack-consensus-made-generally-fast.html?utm_source=tldrdata",
+      "title": "Jetpack: Consensus Made Generally Fast (OSDI '26)",
+      "summary": "Jetpack adds a portable 1-RTT fast-commit path to existing consensus systems, cutting latency for write-heavy workloads by up to 60% while adding redundant work, delaying execution, and requiring careful recovery to remain safe during leader changes."
+    }
+  ]
+}

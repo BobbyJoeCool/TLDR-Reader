@@ -1,0 +1,78 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-08-07",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://decipher.sc/2026/08/05/researchers-find-persistent-backdoor-in-zbtlink-routers/?utm_source=tldrinfosec",
+      "title": "Researchers Find Persistent Backdoor in Zbtlink Routers",
+      "summary": "VulnCheck researchers discovered an intentional and unpatchable backdoor dubbed EndlessDoors in over 100,000 active Zbtlink and Wiflyer routers that initiates outbound command-and-control connections to bypass NAT, requiring defenders to monitor port 7000 for malicious beacons and physically replace the compromised hardware."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/?utm_source=tldrinfosec",
+      "title": "Swiss Government SharePoint Breach Compromised 200 Accounts",
+      "summary": "The Swiss Federal Office of Information Technology and Telecommunications (BIT) reported that hackers exploited vulnerabilities to breach its Microsoft SharePoint instances. Other than login credentials, BIT does not believe any data was stolen. BIT responded by blocking external Internet access to SharePoint, patching the vulnerabilities that were exploited, and resetting the passwords of affected accounts."
+    },
+    {
+      "url": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html?utm_source=tldrinfosec",
+      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
+      "summary": "Forescout identified over 4,400 internet-facing Rockwell PLCs worldwide, including 22 in recently attacked US water utility cities that were compromised via open Ethernet/IP port 44818 rather than complex exploits, prompting urgent calls for defenders to isolate controllers behind VPNs and utilize Rockwell advisory SD1790 to recover attacker-locked systems."
+    },
+    {
+      "url": "https://pulse.latio.tech/p/detecting-and-preventing-the-hugging?utm_source=tldrinfosec",
+      "title": "Detecting and Preventing the Hugging Face/OpenAI Incident",
+      "summary": "James Berthoty breaks down the different tools and techniques that could have helped at different stages of OpenAI's incidental breach of Hugging Face. During the initial phases of the model's escape from OpenAI, external network blocking and agentic EDRs could have been helpful. IMDS blocking and more fine-grained secrets injection could have helped Hugging Face guard against being breached by the agent. Traditional Kubernetes and CNAPP tooling could be used to detect the lateral movement from within Hugging Face."
+    },
+    {
+      "url": "https://www.pointwild.com/threat-intelligence/point-wild-exclusive-dissecting-vanta-stealer-a-python-based-cross-platform-information-theft-malware/?utm_source=tldrinfosec",
+      "title": "Point Wild Exclusive: Dissecting Vanta Stealer, a Python-Based Cross-Platform Information Theft Malware",
+      "summary": "Vanta Stealer is a highly obfuscated Python information stealer that uses PyInstaller and PyArmor to evade detection while dynamically downloading modules to harvest browser credentials, VPN configurations, and gaming platform data. The malware actively enriches stolen Discord tokens via API to identify high-value accounts before packaging the compromised data into a ZIP archive and exfiltrating it via HTTP POST. Defenders must block outbound connections to vanta[.]st and hunt for suspicious PyInstaller binaries executing unsolicited network requests to mitigate this threat."
+    },
+    {
+      "url": "https://www.coinspect.com/blog/ill-bloom-investigation/?utm_source=tldrinfosec",
+      "title": "Ill Bloom: Investigating a Wallet Generation Vulnerability During Active Exploitation",
+      "summary": "Ill Bloom is an active cryptocurrency wallet-draining campaign exploiting a legacy CryptoJS weak-randomness vulnerability in unmaintained downstream dependencies. Defenders should immediately consult the illbloom.org technical disclosure for specific IOCs and affected wallet lists to expedite fund migration."
+    },
+    {
+      "url": "https://github.com/gadievron/greenlight?utm_source=tldrinfosec",
+      "title": "greenlight (GitHub Repo)",
+      "summary": "greenlight is a skill that was created for mapping out where Claude Code's guardrails trigger exploitation-related refusals, and where they can't be relied upon. greenlight was only tested on Opus 4.7, but the methodology is generalizable."
+    },
+    {
+      "url": "https://github.com/perplexityai/numbat?utm_source=tldrinfosec",
+      "title": "numbat (GitHub Repo)",
+      "summary": "numbat is an “AI-EDR” built by Perplexity. It provides visibility into AI agent activity with local detection, optional pre-action blocking, and forensic reconstruction."
+    },
+    {
+      "url": "https://github.com/luckyPipewrench/agent-egress-bench?utm_source=tldrinfosec",
+      "title": "agent-egress-bench (GitHub Repo)",
+      "summary": "agent-egress-bench is a standardized test corpus for evaluating AI agent egress tools, covering secret exfiltration, prompt injection, SSRF, hostname exfiltration, MCP tool poisoning, chain detection, MCP drift, A2A protocol scanning, WebSocket DLP, encoding evasion, shell obfuscation, and cryptocurrency/financial data protection."
+    },
+    {
+      "url": "https://www.wiz.io/blog/cloud-threat-highlights-h1-2026?utm_source=tldrinfosec",
+      "title": "Cloud Threat Highlights: H1 2026",
+      "summary": "Wiz's H1 2026 threat report highlights a 60% increase in major cloud incidents, primarily driven by cascading supply chain compromises and targeted attacks against immature AI infrastructure. Threat actors are increasingly monetizing non-human identities and reselling credential access across groups, evidenced by the sprawling TeamPCP npm campaigns and North Korean package trojanizations. This evolution signals a structural shift toward self-perpetuating attack surfaces, requiring defenders to secure unauthenticated machine-to-machine integrations and exposed backend credentials to disrupt automated access brokering."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/?utm_source=tldrinfosec",
+      "title": "New TONTOU CPU Attack Bypasses Spectre v2 Fixes to Leak Linux Password Hashes",
+      "summary": "Researchers at MIT CSAIL discovered a new branch predictor exploit that bypasses neutralization-based mitigations for Spectre v2 attacks. These mitigations assume that an attacker cannot exploit the time between when the branch predictor is isolated and when it is used by the victim branch. However, the researchers introduced a new primitive that can re-poison the CPU's state in this gap. The researchers demonstrated that this vulnerability can be exploited by users with unprivileged code execution on commodity hardware to extract /etc/shadow at a rate of 5.46 bytes/second."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/?utm_source=tldrinfosec",
+      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
+      "summary": "LightSpy, originally a Chinese state-linked spyware, has evolved into a commercial platform actively targeting governments, enterprises, and NATO-affiliated routers across 13 countries. The modular toolkit now provides total network visibility from a pool of at least 117 command servers. Notably, researchers successfully traced the latest campaign to a Chinese contractor after an operator inadvertently revealed his real name and office address by placing a food delivery order directly through the spyware's admin panel."
+    },
+    {
+      "url": "https://therecord.media/belarus-hacker-ransomware-sentenced?utm_source=tldrinfosec",
+      "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
+      "summary": "Maksim Silnikau received a 16-year prison sentence for orchestrating the Ransom Cartel ransomware operation between 2021 and 2023, concluding a prolific cybercriminal career that included developing the notorious Angler exploit kit and co-creating the foundational Reveton RaaS model."
+    },
+    {
+      "url": "https://www.privacyguides.org/news/2026/08/05/apples-private-relay-leaks-your-real-ip-address-in-safari/?utm_source=tldrinfosec",
+      "title": "Apple's Private Relay Leaks Your Real IP Address in Safari",
+      "summary": "Mysk researchers found three unpatched leaks- DNS prefetching, WebAuthn's Related Origin Requests, and WebTransport- that let any website bypass Apple's Private Relay and reveal a user's real IP across all WebKit-based iOS browsers, and published the findings without prior disclosure to Apple, citing a pattern of yearlong fix delays."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-08-26",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/jalapeno-first-results/?utm_source=tldrai",
+      "title": "OpenAI's Jalapeño inference accelerator moves toward deployment",
+      "summary": "OpenAI reported first results from Jalapeño, an inference accelerator designed around low-latency agent workloads, and plans to deploy it in its own infrastructure by year-end. A large connected system keeps prompt processing and token generation close together, while AI helped design circuits and program kernels."
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs?utm_source=tldrai",
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+      "summary": "Perplexity's Portable Computer is a version of its agentic Computer platform that runs entirely on hardware users already own. The model, user data, and work can all stay on local machines with no billing credits. Every task starts on device by default, and the system asks for permission before sending any individual step to a more powerful model in the cloud. Portable Computer is now available for Pro, Max, Enterprise Pro, and Enterprise Max subscribers on Linux, with Windows support coming in September. Users will need an RTX GPU with at least 24GB of VRAM to run the agent."
+    },
+    {
+      "url": "https://ianbarber.blog/2026/08/24/vocab-break/?utm_source=tldrai",
+      "title": "Vocab Break",
+      "summary": "Claude's current tokenizer appears to only have about 15,000 entries. This is surprising, as the trend had seemed to be that more is better in this space. One theory is that Anthropic has been working around a bottleneck caused by the final softmax layer. This article takes a closer look at how Anthropic might be achieving this and the effects it might have on model training."
+    },
+    {
+      "url": "https://x.com/nayakkayak/status/2092276375935963537?utm_source=tldrai",
+      "title": "Moats in the age of floods",
+      "summary": "Abundant frontier intelligence will not eliminate application-layer moats - it shifts value toward companies that translate models into real outcomes. Durable winners will own coordination, workflow data, customer transformation, narrative, higher-level abstractions, outcome-based economics, and structural necessity."
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3?utm_source=tldrai",
+      "title": "OpenAI and Anthropic Could Dominate Global AI Compute",
+      "summary": "Dylan Patel discusses how OpenAI and Anthropic could control most usable AI compute by 2028 as their ability to monetize FLOPs lets them outbid competitors. The conversation also covered rising AI capex, potential sovereign debt risks, and the economic forces pushing the industry toward greater centralization."
+    },
+    {
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence/?utm_source=tldrai",
+      "title": "OpenAI's Jalapeño Optimizes Inference Throughput and Token Latency",
+      "summary": "OpenAI's Jalapeño inference chip was designed around its own model workloads, with early benchmarks showing higher peak throughput per kilowatt and lower token latency than the commercial systems tested on GPT-OSS 120B."
+    },
+    {
+      "url": "https://github.com/jd-opensource/JoyAI-Echo?utm_source=tldrai",
+      "title": "Open Omnimodal World Models (GitHub Repo)",
+      "summary": "EchoWM is an omnimodal world model that follows continuous 6-DoF camera trajectories while jointly generating 720p video, environmental sound, music, and speech. It supports first- and third-person interaction and uses progressive plus autoregressive training for synchronized long-horizon generation."
+    },
+    {
+      "url": "https://vercel.com/blog/the-end-of-credential-sprawl-for-agents?utm_source=tldrai",
+      "title": "Short-Lived Credentials for AI Agents",
+      "summary": "Vercel Connect replaces long-lived API tokens with runtime-issued credentials that are scoped to individual tasks and expire automatically. Its generally available release added more than 100 connectors along with a unified integration model and production governance controls."
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2?utm_source=tldrai",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "summary": "Granite 4.2 models by IBM are dense, decoder-only reasoning LLMs available in 3B, 8B, and 30B sizes. Trained on 15T tokens, they use a five-phase strategy that includes a multi-stage RL pipeline and support native tool calling with a THINKING/NON-THINKING switch. The 8B and 30B models learn agentic behavior through RL stages in real environments, enhancing capabilities such as code editing and web searching."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/?utm_source=tldrai",
+      "title": "‘The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux",
+      "summary": "Thibault Sottiaux is widely known as the guy who resets people's token limits whenever OpenAI's Codex hits a growth milestone. OpenAI plans to bring the same treatment to ChatGPT Work, a platform for white-collar workers leveraging AI agents. This article features an interview with Sottiaux on Codex, winning over skeptics, discovery as a product design philosophy, and the cost of intelligence."
+    },
+    {
+      "url": "https://thenextweb.com/news/anthropic-claude-cowork-shared-memory-default?utm_source=tldrai",
+      "title": "Anthropic merges Claude chat and Cowork memory, on by default",
+      "summary": "Anthropic has merged Claude and Claude Cowork's memory systems, so the platforms now remember the same conversations. The feature is on by default. Claude now adds topics to memory while users are still conversing. Everything that is remembered is stored as a list of files under Topics in the memory settings. Users can read, edit, or delete each one individually."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/?utm_source=tldrai",
+      "title": "Keenable builds a web index and query layer for AI agents",
+      "summary": "Keenable emerged from stealth with a claimed index of more than 100 billion documents, an API already used by unnamed AI labs, and a planned query language for combining evidence across sources."
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/?utm_source=tldrai",
+      "title": "Apple introduces M6 and M5 Ultra for local AI compute",
+      "summary": "Apple announced M6 and M5 Ultra chips for Mac mini and Mac Studio, expanding the model work those machines can run locally."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83?st=5TEgTQ&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "title": "OpenAI's Head of Data Centers Has Left the Company",
+      "summary": "Chris Malone, the executive who was overseeing OpenAI's data-center build-out, left the company last week."
+    },
+    {
+      "url": "https://www.appliedcompute.com/platform/introducing-ac2?utm_source=tldrai",
+      "title": "Applied Compute Agent Cloud",
+      "summary": "Applied Compute has launched AC2, a platform enabling AI teams to train, serve, and improve custom models."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-09-28",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://kael.tech.blog/2026/09/26/robotics-harness-optimization-on-graph-as-policy/?utm_source=tldrdata",
+      "title": "Robotics Harness Optimization on Graph-as-Policy",
+      "summary": "Robotics Harness Optimization used coding agents to evolve a Graph-as-Policy robot controller, boosting simulated throughput 5.27x and success from 67% to 96%. The strongest version only rewired existing skills, without editing them or using human demonstrations."
+    },
+    {
+      "url": "https://medium.com/pinterest-engineering/partition-finalization-in-pinterests-next-generation-db-ngestion-framework-4c7da6e4cc8f?utm_source=tldrdata",
+      "title": "Partition Finalization in Pinterest's Next-Generation DB Ingestion Framework",
+      "summary": "Pinterest added a finalization layer to its Kafka, Flink, Spark, and Iceberg CDC pipeline so downstream jobs can tell when an hourly partition is safe to read. Flink checkpoints capture event-time statistics, which become Iceberg snapshot metadata and a non-regressing watermark. The reusable signal makes freshness-versus-completeness explicit without introducing another coordination service."
+    },
+    {
+      "url": "https://engineering.whoop.com/scaling-ml-inference-pipeline?utm_source=tldrdata",
+      "title": "Scaling an ML Inference Pipeline for Batch Workloads",
+      "summary": "WHOOP cut a 15.8-million-task internal ML simulation from more than two months to six days by removing per-task HTTP calls, loading the model in workers, and tuning pod CPU. It also documents why Python fork deadlocked native libraries, how spawn fixed it, and how SQS chain state plus atomic S3 writes made retries idempotent."
+    },
+    {
+      "url": "https://airbnb.tech/ai-ml/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon/?utm_source=tldrdata",
+      "title": "The guest journey, updated in real time: extending Airbnb's sequence recommender with Chronon",
+      "summary": "Airbnb extended Chronon to update guest-journey features from batch refreshes to event-driven processing, cutting feature staleness from roughly two days to under a minute. Push Mode and near-real-time model transforms feed embeddings into online ranking while preserving offline training consistency. The architecture illustrates how feature platforms can bridge streaming updates, experimentation, and low-latency serving."
+    },
+    {
+      "url": "https://tapoueh.org/blog/2026/09/ten-years-of-postgres-logical-replication/?utm_source=tldrdata",
+      "title": "Ten years of Postgres logical replication",
+      "summary": "Postgres logical replication has steadily replaced custom data-movement plumbing with core SQL features: row filters, column lists, partitioned targets, streaming apply, parallel apply, and safer loop prevention. This retrospective connects those releases to practical migration and hub-and-worker scaling patterns. It is a useful checklist for teams revisiting replication slots, failover, write routing, and schema evolution."
+    },
+    {
+      "url": "https://boringsql.com/posts/repack-concurrently-costs/?utm_source=tldrdata",
+      "title": "What REPACK (CONCURRENTLY) costs while it runs",
+      "summary": "PostgreSQL 19 adds built-in REPACK (CONCURRENTLY) for online table rewrites, avoiding extensions while generally running faster and generating less WAL than pg_repack or pg_squeeze. The tradeoffs are significant: it can delay VACUUM across the cluster, briefly block writes during the final swap, and currently has a ceiling of approximately 105 million updates/deletes per run."
+    },
+    {
+      "url": "https://fsdatalab.github.io/blog/introducing-quail/?utm_source=tldrdata",
+      "title": "Building an Ultra-High Throughput AI-SQL Engine",
+      "summary": "Quail is an open-source AI-SQL engine that jointly optimizes query planning and LLM inference, running 1.84x faster than tuned vLLM on average and up to 14x faster on some workloads. It reduces wasted KV-cache work and GPU scheduling overhead, making large-scale LLM filtering and joins much cheaper."
+    },
+    {
+      "url": "https://safenotsafe.dev/?utm_source=tldrdata",
+      "title": "Safe Not Safe (Tool)",
+      "summary": "Safe Not Safe is a browser-based PostgreSQL migration checker that flags risky DDL patterns like blocking locks, rewrites, and unsafe constraint rollouts. It runs entirely locally in the browser, with no API, uploads, logs, or account required."
+    },
+    {
+      "url": "https://www.dremio.com/blog/apache-iceberg-views-portable-view-metadata-across-sql-engines/?utm_source=tldrdata",
+      "title": "Apache Iceberg Views: Portable View Metadata Across SQL Engines",
+      "summary": "Iceberg's View Spec makes metadata portable by versioning schemas, dependencies, properties, and dialect-tagged SQL text, but it does not standardize execution or authorization. Production portability still depends on REST-catalog support and compatible SQL dialects. Teams should test dependency integrity, concurrent replacement, and cross-engine result consistency before treating views as shared control-plane assets."
+    },
+    {
+      "url": "https://parquet.apache.org/blog/2026/09/22/alp-adaptive-lossless-floating-point-encoding-in-apache-parquet/?utm_source=tldrdata",
+      "title": "ALP: Adaptive Lossless Floating-Point Encoding in Apache Parquet",
+      "summary": "Apache Parquet added ALP, a new lossless encoding for floating-point data that delivers compression similar to ZSTD while decoding around 10x faster. It also enables much faster random access and parallel decoding, making it especially useful for prices, coordinates, and scientific measurements."
+    },
+    {
+      "url": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?utm_source=tldrdata",
+      "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+      "summary": "Netflix describes how Spark jobs on managed compute exchange a cloud execution role for an internally trusted workload identity. A signed metadata payload and AWS identity proof are verified before short-lived certificates are issued for mutual TLS. The pattern separates cloud-provider authorization from application trust, giving the platform stronger workload identity and more auditable access boundaries."
+    },
+    {
+      "url": "https://dataopsleadership.substack.com/p/the-context-gap-how-to-build-data?utm_source=tldrdata",
+      "title": "The Context Gap | How to build Data Architecture like Open AI",
+      "summary": "OpenAI's AI data stack centralizes rich metadata to close the context gap, while a Rust rewrite reportedly cut Airflow scheduling latency 35x at 70,000+ concurrent tasks."
+    },
+    {
+      "url": "https://hex.tech/databench/?utm_source=tldrdata",
+      "title": "DataBench (Tool)",
+      "summary": "Opus 5.5 leads Hex's DataBench, scoring 70.5% at Max reasoning and 67.0% at XHigh, but at relatively high cost and latency."
+    }
+  ]
+}

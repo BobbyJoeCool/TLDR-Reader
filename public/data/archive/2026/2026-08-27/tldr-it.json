@@ -1,0 +1,73 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-27",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://itnerd.blog/2026/08/25/the-cisa-orders-federal-agencies-to-patch-actively-exploited-oracle-flaw-by-august-27/?utm_source=tldrit",
+      "title": "The CISA orders federal agencies to patch actively exploited Oracle flaw by August 27",
+      "summary": "CISA added the maximum-severity Oracle vulnerability CVE-2026-21962 to its Known Exploited Vulnerabilities catalog after confirming active exploitation and ordered federal agencies to patch by August 27. The flaw affects Oracle HTTP Server and the Oracle WebLogic Server Proxy Plug-in, can be exploited remotely without authentication, and may allow attackers to access, modify, or delete critical data."
+    },
+    {
+      "url": "https://apnews.com/article/dc8d556e709b50915cca9217a60b1991?utm_source=tldrit",
+      "title": "Nvidia revenue hits $96B as AI demand keeps surging",
+      "summary": "Nvidia reported $96.2 billion in quarterly revenue, more than doubling year over year, with data center revenue reaching $89 billion. The company expects $108 billion next quarter as demand for AI infrastructure continues to outpace supply."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again?utm_source=tldrit",
+      "title": "Salesforce puts its CRM directly inside Claude",
+      "summary": "Salesforce and Anthropic launched Claudeforce, bringing live CRM data and Salesforce workflows directly into Claude. The initial release includes 37 sales skills for tasks like pipeline analysis, account research, and deal reviews."
+    },
+    {
+      "url": "https://platforms.substack.com/p/strategy-in-the-age-of-ai-eight-points?utm_source=tldrit",
+      "title": "Strategy in the age of AI",
+      "summary": "AI is changing the rules of competition, not merely automating existing work, so companies must rethink strategy around shifting scarcity and industry boundaries. The strongest advantages may come from redefining the unit of value, translating across incompatible systems, and owning feedback loops that connect activities and enable learning across organizational boundaries."
+    },
+    {
+      "url": "https://pub.towardsai.net/mcp-2-0-what-changed-what-remained-and-how-it-impacts-practitioners-8f553e62448c?utm_source=tldrit",
+      "title": "MCP 2.0? What Changed, What Remained, and How it Impacts Practitioners",
+      "summary": "MCP's 2026-07-28 breaking revision makes the protocol easier to operate as a first-class HTTP workload, rather than creating an “MCP v2.” Removing handshakes and protocol sessions simplifies load-balanced deployment, while state shifts into requests and server-side data models. The revision also standardizes an authorization profile, tool-risk annotations, and embedded interfaces, making MCP an HTTP ecosystem profile with practical value for enterprise teams."
+    },
+    {
+      "url": "https://www.hpcwire.com/aiwire/2026/08/26/are-ai-data-center-bans-going-too-far/?utm_source=tldrit",
+      "title": "AI data center bans are gaining momentum",
+      "summary": "Communities and lawmakers are increasingly pushing for moratoriums on new AI data centers over electricity costs, water use, and local infrastructure strain. The backlash is becoming another constraint on how quickly AI compute capacity can expand."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents-on-google-cloud?utm_source=tldrit",
+      "title": "Google Cloud adds new cost controls for AI agents",
+      "summary": "Google Cloud has introduced pay-as-you-go Gemini Enterprise pricing, centralized AI spending caps, and savings plans offering up to 20% off token costs. The controls are designed to make rapidly growing agent workloads easier for enterprises to govern."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/big-data/aws-and-ducklabs-building-the-future-of-analytics-together/?utm_source=tldrit",
+      "title": "AWS moves to acquire the company behind DuckDB",
+      "summary": "Amazon has signed an agreement to acquire DuckLabs, the company founded by DuckDB's creators. The team will join AWS. DuckDB will remain open source under its independent foundation and MIT license."
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-run?utm_source=tldrit",
+      "title": "Introducing Run SDK: secure eval for your agents",
+      "summary": "Vercel's Run SDK is a package for executing untrusted JavaScript and type-stripped TypeScript in a sandbox without direct access to an application's secrets, Node.js, or network. Applications expose narrow host functions and can pause runs for authentication or human approval, then resume them using recorded results. The SDK powers code mode in the AI SDK and targets agent workflows inside applications."
+    },
+    {
+      "url": "https://www.theregister.com/storage/2026/08/26/memory-crunch-cloud-operators-may-be-pushed-to-splurge-68-of-capex-on-dram-and-nand/5292648?utm_source=tldrit",
+      "title": "Cloud memory could consume 68% of provider capex",
+      "summary": "Soaring DRAM and NAND prices could push memory to roughly 68% of cloud infrastructure spending. Higher hardware costs could increasingly flow through to enterprise cloud bills."
+    },
+    {
+      "url": "https://bubble.ro/2026/08/25/the-history-of-rpm-how-a-pristine-sources-rule-became-the-backbone-of-enterprise-linux/?utm_source=tldrit",
+      "title": "The History of RPM: How a Pristine-Sources Rule Became the Backbone of Enterprise Linux",
+      "summary": "RPM's defining innovation was not package installation but the “pristine sources” build philosophy: unmodified upstream code, explicit patches, and reproducible spec-file instructions. RPM's local package database differs from dependency resolution. Yum eventually hit scalability and API limits, and DNF replaced Yum's solver with libsolv while preserving the RPM format and most familiar commands."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services?utm_source=tldrit",
+      "title": "Google launches Gemini Enterprise for financial services",
+      "summary": "Google Cloud launched a financial-services version of Gemini Enterprise with specialized agents for research and institutional workflows."
+    },
+    {
+      "url": "https://www.databricks.com/blog/how-databricks-uses-ai-accelerate-incident-investigation?utm_source=tldrit",
+      "title": "How Databricks Uses AI to Accelerate Incident Investigation",
+      "summary": "Databricks describes AI SRE, an AI-powered debugging agent and platform that investigates incidents across its microservices and Kubernetes infrastructure."
+    }
+  ]
+}

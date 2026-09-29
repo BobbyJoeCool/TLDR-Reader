@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-08-06",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html?utm_source=tldrnewsletter",
+      "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+      "summary": "Google's chief scientist, Jeff Dean, is leaving the company after 27 years. Demis Hassabis, the CEO of Google DeepMind, is moving into a chairman role of that unit and also assuming the title of chief scientist at parent company Alphabet. Dean is starting his own company. The departure is on friendly terms, and Google will invest in his startup, which will aim to accelerate discoveries in machine learning, science, and engineering."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html?unlocked_article_code=1.3VA.Xqx_.8v1K_pJDsPDl&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Four Top Google AI Researchers Form New Start-Up",
+      "summary": "Jeff Dean, Sanjay Ghemawat, Quoc Le, and Oriol Vinyals have left Google to start a company called Discovery Loop. The team aims to build AI that can improve itself with little or no help from humans. Google plans to collaborate with the new startup and has agreed to provide the computing power it needs to build its AI technologies for at least the next year. Discovery Loop will operate as a public benefit corporation."
+    },
+    {
+      "url": "https://thenextweb.com/news/spacex-aims-to-catch-a-starship-out-of-the-sky-this-month?utm_source=tldrnewsletter",
+      "title": "SpaceX aims to catch a Starship out of the sky this month",
+      "summary": "Starship Flight 14 could launch before the end of August. SpaceX plans to catch the upper stage during the test. The flight will also carry Starlink V3 satellites to an operational orbit."
+    },
+    {
+      "url": "https://naomibashkansky.com/blog/telepathy/?utm_source=tldrnewsletter",
+      "title": "Why I'm leaving OpenAI to build telepathy",
+      "summary": "Conduit is a startup building thought-to-text models trained on non-invasive neural data. Developing thought-to-text technology would allow humans to talk to AI with their thoughts, allowing AI to become an extension of them. To do this, the startup needs to scale up its data collection and develop special hardware."
+    },
+    {
+      "url": "https://github.com/cloudflare/cloudflare-os?utm_source=tldrnewsletter",
+      "title": "Cloudflare OS (GitHub Repo)",
+      "summary": "Cloudflare OS is an operating system for AI productivity. It features an agent chat UI where users can ask agents to do tasks, sandboxed application development, and a security framework that applies guardrails to both agents and apps. Developed to be used internally at Cloudflare, Cloudflare OS is now open source so others can copy it and customize it for their own companies. The basic user experience of Cloudflare OS is something like an online office suite, but each file is potentially its own custom application written by AI to serve exactly your needs."
+    },
+    {
+      "url": "https://newsletter.getdx.com/p/what-are-code-reviews-even-for?utm_source=tldrnewsletter",
+      "title": "What are code reviews even for?",
+      "summary": "Code review is how teams build a shared understanding of a system. Automating the process removes that shared understanding. AI accelerates cognitive and intent debt - debts that don't appear on a dashboard. By the time anyone realizes, months later, recovering that understanding will be far more expensive than preserving it would have been."
+    },
+    {
+      "url": "https://futuresearch.ai/blog/google-deepmind-reorg-forecast/?utm_source=tldrnewsletter",
+      "title": "Google in the Post-Jeff Dean, Post-Demis Hassabis Era",
+      "summary": "Fears that Google is losing talent are exaggerated in the media. The impact of Google's recent loss of talent will be smaller than the headlines suggest. Google is further behind in the AI frontier than people estimate. However, its cloud business grew 82% year-over-year last quarter, a sign that the business could still win on compute."
+    },
+    {
+      "url": "https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html?utm_source=tldrnewsletter",
+      "title": "AI is a bubble, just like dot-com",
+      "summary": "Intelligent people can look at the same thing and see wildly different things. History says that conclusions that are far apart can both be correct. AI enables new things that nothing before could. This post is the first in a series that explores what new things AI enables."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cjejyl34345o?utm_source=tldrnewsletter",
+      "title": "The Sims and EA FC maker Electronic Arts sells for $55bn to Saudi-led group",
+      "summary": "The investors are taking EA private, meaning all of its public shares will be purchased and it will no longer be traded on a stock exchange."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c36d4376nd2o?utm_source=tldrnewsletter",
+      "title": "See the Sun like never before with most detailed images yet",
+      "summary": "The Inouye Solar Telescope, a facility built on a high peak in Hawaii, has captured images of the surface of the Sun in new, unprecedented detail."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/05/icloud-private-relay-ip-address-leak/?utm_source=tldrnewsletter",
+      "title": "Apple's iCloud Private Relay is Leaking Users' Real IP Addresses",
+      "summary": "iCloud Private Relay can expose users' real IPs to websites that use or pretend to use passkeys."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights?utm_source=tldrnewsletter",
+      "title": "Open Questions On Open Weights",
+      "summary": "Open weight models allow AI to truly be the user's property, but their openness allows them to be used for nefarious purposes."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/openai-models-joined-forces-months-ahead-of-hugging-face-hack?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTk5OTMwNywiZXhwIjoxNzg2NjA0MTA3LCJhcnRpY2xlSWQiOiJUSkJJVDFUOTZPU0kwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.4slOAwhBBgiUlxlz5eQxBe_CwlKSFhE740MctK-r4Us&utm_source=tldrnewsletter",
+      "title": "OpenAI Models Joined Forces Months Ahead of Hugging Face Hack",
+      "summary": "Multiple OpenAI internal-only agents spend months leaving notes for each other on message boards around the goal of accessing the internet."
+    },
+    {
+      "url": "https://www.seangoedecke.com/continuous-learning/?utm_source=tldrnewsletter",
+      "title": "What's so hard about continuous learning?",
+      "summary": "Model weights are frozen once the model is released."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-09-21",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.infoq.com/news/2026/09/openai-misalignment-framework/?utm_source=tldrdevops",
+      "title": "OpenAI Introduces Triage Framework and Case Studies to Report Model Misalignment",
+      "summary": "OpenAI introduced a formal process for tracking, investigating, and publicly disclosing model misalignment across training and deployment, releasing six initial case studies showing models fabricating data, hiding mistakes in compaction summaries, and bypassing resource restrictions during testing."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/?utm_source=tldrdevops",
+      "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+      "summary": "AWS Elastic Beanstalk now offers a fully managed Cluster Mode that runs applications on infrastructure powered by Amazon EKS. The feature allows teams to operate multiple applications that share resources, lowering per-application costs without adding operational complexity. AWS does not charge extra for Cluster Mode, but users pay for the underlying resources, including the EKS control plane and compute."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/?utm_source=tldrdevops",
+      "title": "New Low-Cost Burstable Amazon EC2 T8i Instances Are Generally Available",
+      "summary": "AWS launched general availability of burstable EC2 T8i instances on custom Intel Granite Rapids processors, offering up to 30 percent better price performance than T3, higher compute and network bandwidth, and free tier eligibility for the micro and small sizes."
+    },
+    {
+      "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/?utm_source=tldrdevops",
+      "title": "When Scanners Miss the Attack: How Cloudflare Client-Side Security Protects Storefronts",
+      "summary": "Cloudflare's Page Shield ML system uncovered four malicious JavaScript campaigns hijacking affiliate commissions, cloaking ad fraud, and running a remote code execution backdoor on e-commerce sites, detecting all eight payloads even though most were missed by VirusTotal and URLScan."
+    },
+    {
+      "url": "https://www.seangoedecke.com/grit-your-teeth-and-ship-it/?utm_source=tldrdevops",
+      "title": "Grit your teeth and ship it",
+      "summary": "Strong builders can become reluctant shippers because they notice every flaw and want systems to feel elegant and complete before release. In large codebases, progress often requires accepting imperfect but consistent solutions, and producing a steady volume of work tends to outperform polishing a small number of projects indefinitely because quality and audience response are hard to predict."
+    },
+    {
+      "url": "https://github.com/cloudflare/security-audit-skill?utm_source=tldrdevops",
+      "title": "security-audit (GitHub Repo)",
+      "summary": "A new coding-agent skill turns an AI agent into a security auditor that orchestrates reconnaissance, vulnerability hunting, and validation. The tool runs a structured audit in six phases and classifies findings into three verdicts: confirmed, needs_validation, or rejected. Audits against the same repository are additive, using prior results to target gaps or revalidate changed source code. The skill activates automatically when an agent receives a request for a security audit or pen-test."
+    },
+    {
+      "url": "https://github.com/higgsfield-ai/higgsfield?utm_source=tldrdevops",
+      "title": "Higgsfield (GitHub Repo)",
+      "summary": "Higgsfield is an open-source GPU orchestration and machine learning framework designed for training models with billions to trillions of parameters. The framework aims to simplify distributed training by managing environments and reducing the need for complex configuration files. It supports standard PyTorch workflows and has been tested on AWS and Lambda Labs."
+    },
+    {
+      "url": "https://www.databricks.com/blog/radar-catch-gray-failures-anomaly-detection?utm_source=tldrdevops",
+      "title": "RADAR: Catch gray failures with anomaly detection",
+      "summary": "Gray failures allow specific service components to fail silently while health checks remain green, often leaking revenue for hours before detection. Databricks built a system called RADAR to catch these partial outages by identifying sudden spikes in user errors. The system reduced incident discovery time by 95% with over 90% precision. Users can build a similar detection pipeline on the Databricks platform using a template available on GitHub."
+    },
+    {
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/?utm_source=tldrdevops",
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "summary": "Cloudflare reduced the memory footprint of its Pingora Backend Router by 100TB through algorithmic optimizations to the pingora-ketama library. The team determined they could remove 90% of the hashes generated for each server without causing errors or collisions. They rolled out the change in stages to avoid invalidating cached content across the network all at once."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/?utm_source=tldrdevops",
+      "title": "AWS Reimagines the Getting Started Experience",
+      "summary": "AWS launched a simplified onboarding experience letting builders sign up with existing identities, skip credit cards through 100 dollars in free credits, deploy immediately via a coding agent, and later set spend limits or unlock full AWS features without migrating."
+    },
+    {
+      "url": "https://www.digitalocean.com/blog/introducing-mysql-postgresql-advanced?utm_source=tldrdevops",
+      "title": "The Next Step for Mission-Critical Workloads: Managed Databases Advanced Edition",
+      "summary": "DigitalOcean announced the general availability of Managed Databases Advanced Edition for MySQL and PostgreSQL."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/09/karmada-kubernetes-cncf/?utm_source=tldrdevops",
+      "title": "Kubernetes Multi-Cluster Project Karmada Reaches CNCF Graduation",
+      "summary": "The Cloud Native Computing Foundation graduated Karmada, a multi-cluster Kubernetes orchestration project, alongside its v1.19 release, adding AI training scheduling and beta priority-based scheduling."
+    }
+  ]
+}

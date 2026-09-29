@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-08-07",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/?utm_source=tldrdesign",
+      "title": "Design Arena Creators Raise $7.9 Million to Bring Taste to AI Models",
+      "summary": "Intelligence, maker of Design Arena, raised $7.9 million in seed funding led by Index Ventures, with Conviction, A*, and Valkyrie also participating. The platform lets users rank AI-generated designs and now serves 5.3 million users while generating $60 million in ARR by selling human feedback data to frontier AI labs. This crowdsourced evaluation model has mixed results industry-wide: Yupp shut down despite $33 million raised, while LM Arena secured $150 million at a $1.7 billion valuation in January."
+    },
+    {
+      "url": "https://www.fastcompany.com/91584892/linkedins-new-anti-slop-button-is-coming-to-every-platform?utm_source=tldrdesign",
+      "title": "LinkedIn's New Anti-Slop Button is Coming to Every Platform",
+      "summary": "LinkedIn has introduced a button letting users flag posts as \"AI slop,\" aiming to help the platform refine detection models and improve feeds. The move follows a July study finding two-thirds of AI-flagged long-form posts across major platforms originated on LinkedIn, reflecting a wider industry struggle with automated content. Similar tools have emerged elsewhere, including Pinterest's AI content settings, TikTok's AI-content slider, and Substack's integration with detection service Pangram."
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/05/ios-27-lock-screen-customization/?utm_source=tldrdesign",
+      "title": "iOS 27 adds four new ways to customize your iPhone's Lock Screen",
+      "summary": "iOS 27 expands Lock Screen customization with AI-powered wallpaper features, including Extend, which intelligently expands photos to fit the screen, and Image Playground, which lets users generate custom wallpapers from photos or text prompts. It also lets users move the clock higher to reveal more of the wallpaper and dismiss the Now Playing widget without stopping audio playback."
+    },
+    {
+      "url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262?utm_source=tldrdesign",
+      "title": "Bottle your judgment and make it outlive you",
+      "summary": "AI is making it possible to capture and share a person's judgment—not just their knowledge—by turning years of experience into systems others can learn from. However, the most valuable expertise is often tacit and can't be fully documented, so the best approach combines structured knowledge with apprenticeship, using AI to preserve what can be written down while relying on human mentorship to pass on intuition, context, and judgment. Rather than replacing experts, AI gives them a way to extend their expertise beyond themselves and create lasting institutional knowledge."
+    },
+    {
+      "url": "https://nervegna.substack.com/p/claude-cowork-for-designers-a-working?utm_source=tldrdesign",
+      "title": "Claude Cowork for Designers: A Working Field Guide",
+      "summary": "Claude Cowork, launched by Anthropic and expanded to web and mobile in beta on July 7, acts as an agent that executes multi-step design tasks rather than just answering prompts. This guide walks through setup, permission modes, and hands-on exercises for research synthesis, competitive audits, and scheduled client briefings, plus building reusable \"skills\" that encode a designer's judgment. It also flags real limitations—file overwriting, hallucination, thin memory, rising usage costs, immature team governance, and browser-based security risks—while positioning Cowork as best for documents and synthesis versus Claude Code for technical, ship-ready work."
+    },
+    {
+      "url": "https://www.figma.com/blog/the-benefits-of-code-connect-in-mcp/?utm_source=tldrdesign",
+      "title": "Better Code, Fewer Tokens: The Benefits of Code Connect in MCP",
+      "summary": "Figma's Code Connect feature links Figma components to real codebase components, giving coding agents production-accurate context instead of generic React output. Testing across 27 design-to-code tasks showed Code Connect reduced median token usage by 29.5% and task duration by 19.6%, while raising code quality by a full point on a 1–4 scale. Improvements scaled with Code Connect coverage: higher coverage meant fewer exploratory searches and closer matches to real design-system components, as illustrated by Coinbase's experience avoiding fabricated components."
+    },
+    {
+      "url": "https://vibepaper-ai.com/en/?utm_source=tldrdesign",
+      "title": "AI Creative Workspace (Website)",
+      "summary": "VibePaper is an AI creative workspace. Agents decompose the task, multimodal models generate in parallel, and everything stays editable on one canvas."
+    },
+    {
+      "url": "https://crafiq.ai/?utm_source=tldrdesign",
+      "title": "AI Studio for 2D, 3D, Video, and Audio Assets (Website)",
+      "summary": "Crafiq brings together the latest AI models in one place. Generate stunning assets across 2D, 3D, video, and audio."
+    },
+    {
+      "url": "https://trydoxy.com/?utm_source=tldrdesign",
+      "title": "Markdown and HTML Editor (Website)",
+      "summary": "Doxy is a browser-based editor for creating clean, professional documents with Markdown and HTML without the complexity of LaTeX or the frustration of compile times. Write, format, and preview your work in one simple, fast editor."
+    },
+    {
+      "url": "https://measuringu.com/can-we-trust-ai-to-moderate-ux-interviews/?utm_source=tldrdesign",
+      "title": "Can We Trust AI to Moderate UX Interviews?",
+      "summary": "A three-year-old prediction about AI replacing UX moderators is revisited, as AI now handles interactive interviewing beyond simple comment coding, prompting 419 researchers to sign opposition letters. A 2025 Philippines study of over 70,000 job applicants found AI-interviewed candidates were more likely to be offered, start, and remain employed, though humans still made hiring decisions for structured, closed questions. Anthropic's December 2025 study of 80,000 users found AI interviews elicited surprisingly candid disclosures, but NN/Group's research suggests AI still falls short for semi-structured, open-ended UX interviews requiring real-time judgment."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/logos-icons/berlin-museum-breaks-the-rules-of-branding-with-eighty-one-different-logos?utm_source=tldrdesign",
+      "title": "Berlin Museum breaks the rules of branding with EIGHTY-ONE different logos",
+      "summary": "Berlin Museum's new identity replaces a single logo with 81 interchangeable wordmarks, each combining typefaces inspired by different parts of the city's typographic heritage. Rather than prioritizing consistency, the flexible system reflects Berlin's diverse voices and history, turning the museum's identity into a celebration of the city's design culture itself."
+    },
+    {
+      "url": "https://www.robin-cannon.com/p/the-ai-can-do-the-ux-mistake?utm_source=tldrdesign",
+      "title": "The \"AI Can Do the UX\" Mistake",
+      "summary": "AI has narrowed the gap between design and development execution, but unevenly: designers can now build, while developers still can't easily judge whether an interface truly fits user needs."
+    },
+    {
+      "url": "https://www.creativebloq.com/art/animation/this-blender-deep-paint-artist-makes-3d-look-like-a-childrens-book-brought-to-life?utm_source=tldrdesign",
+      "title": "This Blender Deep Paint Artist Makes 3D Look Like a Children's Book Brought to Life",
+      "summary": "Gaku Tada's Blender scene, made with Deep Paint, resembles a children's book illustration rather than a typical 3D render, with painterly, watercolor-like textures."
+    }
+  ]
+}

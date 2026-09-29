@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-08-07",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.unite.ai/amd-buys-taalas-to-put-hard-wired-ai-models-in-its-accelerator-roadmap/?utm_source=tldrhardware",
+      "title": "AMD to Buy Startup Taalas for New AI Chips",
+      "summary": "AMD announced a definitive agreement to acquire Toronto-based chip startup Taalas to expand its specialized AI inference portfolio. Taalas develops custom silicon architectures that hard-wire individual AI model weights directly into semiconductor metal layers during manufacturing. AMD plans to integrate Taalas' low-cost, ultra-efficient inference technology directly into its broader accelerator roadmap alongside Instinct GPUs."
+    },
+    {
+      "url": "https://www.reuters.com/business/anthropic-build-in-house-chip-design-team-claude-hire-engineers-2026-08-05/?utm_source=tldrhardware",
+      "title": "Anthropic Is Building an In-House Chip Team for Claude",
+      "summary": "Anthropic has officially confirmed the assembly of an in-house chip design team to engineer custom AI processors tailored for its Claude platform. By co-designing hardware specifically alongside software models, the AI startup aims to slash inference costs, boost execution speeds, and optimize scaling for enterprise workloads."
+    },
+    {
+      "url": "https://www.reuters.com/science/blue-origin-zeroes-rocket-engine-issue-source-new-glenn-explosion-2026-08-05/?utm_source=tldrhardware",
+      "title": "Blue Origin Traces May's New Glenn Explosion to a Faulty BE-4 Engine Valve",
+      "summary": "Blue Origin CEO Dave Limp said the May explosion that destroyed a New Glenn rocket during a prelaunch engine test originated at the main oxygen valve on one of its BE-4 engines, confirmed through hardware recovery and inspection. The fix is straightforward: small modifications to the valve that can be quickly retrofitted onto existing engines, with the company aiming to return New Glenn to flight later this year. The BE-4 also powers United Launch Alliance's Vulcan rocket, so ULA has been collaborating with Blue Origin on the investigation. The finding gives both companies a clear, containable root cause rather than an open-ended engine redesign."
+    },
+    {
+      "url": "https://www.thelec.net/news/articleView.html?idxno=12859&amp;utm_source=tldrhardware",
+      "title": "PCIe Gen 6 Storage Architecture Showcased (3 minutes read)",
+      "summary": "Microchip Technology and Micron showcased a high-performance PCIe Gen 6 storage system demonstration at the Future of Memory and Storage conference. Combining Microchip's 3nm Switchtec PCIe 6.0 fanout switches with Micron 9650 NVMe SSDs, the architecture achieves transfer speeds of 64 GT/s per lane—doubling available bandwidth over PCIe 5.0."
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/d-wave-demonstrates-major-hardware-150500935.html?utm_source=tldrhardware",
+      "title": "D-Wave's Dual-Rail Qubit Gate Hits 99.9% Fidelity, Cutting Error-Correction Overhead",
+      "summary": "D-Wave published research in Nature demonstrating a new two-qubit entangling gate for its superconducting \"dual-rail\" qubit architecture, which is designed so the most common quantum errors are also the easiest kind to detect and fix. The gate hit roughly 99.9% fidelity with fast ~500 nanosecond operation times, while preserving native hardware-level error detection, meaning errors get caught directly by the qubit design rather than requiring extra correction circuitry bolted on afterward."
+    },
+    {
+      "url": "https://semiengineering.com/how-to-scale-ai-arithmetic-efficiently/?utm_source=tldrhardware",
+      "title": "How To Scale AI Arithmetic Efficiently",
+      "summary": "This technical analysis explores how arithmetic specialization is essential for scaling artificial intelligence compute performance. As traditional transistor scaling slows down, hardware designers are replacing general-purpose IEEE floating-point units with specialized arithmetic engines tailored to low-precision representations like FP8, FP4, and Microscaling (MX) formats. By optimizing number format combinations and operation depth directly within silicon arithmetic units, modern AI accelerators drastically reduce energy consumption per operation while maximizing throughput without swelling total die area or power budgets."
+    },
+    {
+      "url": "https://io-fund.com/ai-stocks/nvidia-google-tsmc-n3-node-intel-opportunity?utm_source=tldrhardware",
+      "title": "Nvidia and Google Are Crowding TSMC's N3 Node, Creating a Rare Opening for Intel",
+      "summary": "Nvidia's next-gen Rubin GPUs are moving from 4nm to TSMC's 3nm node just as Google's TPUs, which are already on N3, plan to stay there, while new AI CPUs from Nvidia, Amazon, Microsoft, and Arm are converging on the same process simultaneously. TSMC has already hit its planned N3 capacity and is still adding more, warning the node could stay \"very tight\" for years, with three of its four Arizona fabs reportedly already fully booked despite only one being operational, driving reported price hikes of up to 25% for some customers. That squeeze creates a real opening for Intel, whose Fab 52 in Arizona just entered full production at 40,000 18A wafer starts per month, more capacity than TSMC's original Fab 21 campus."
+    },
+    {
+      "url": "https://www.thediligencestack.com/p/breaking-the-memory-wall-with-cxl?utm_source=tldrhardware",
+      "title": "Breaking the Memory Wall With CXL",
+      "summary": "The Diligence Stack analyzes how Compute Express Link (CXL) technology breaks the persistent memory wall in high-density AI infrastructure. By utilizing PCIe physical interfaces to provide memory-semantic access, CXL enables memory expansion and multi-node pooling directly across server clusters. This architecture offloads Key-Value caches and massive vector databases from constrained GPU memory without severe latency penalties. Consequently, data centers can eliminate stranded DRAM resources, drastically reducing hardware costs, and scale memory capacity independently from fixed CPU channel limits."
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/unitree-expected-be-worth-over-50-billion-yuan-ipo-sponsor-citic-securities-says-2026-08-04?utm_source=tldrhardware",
+      "title": "Unitree Eyes $7.4B Valuation Ahead of Shanghai IPO",
+      "summary": "Chinese humanoid and quadruped robot maker Unitree is expected to be valued at 50.6-55.9 billion yuan ($7.4-8.2 billion) after its planned Shanghai IPO, a sharp jump from its 12 billion yuan valuation just last month, according to sponsor Citic Securities."
+    },
+    {
+      "url": "https://www.theregister.com/storage/2026/07/29/a-requiem-for-optane-intels-kv-cache-killer-that-could-have-eased-the-ram-price-crunch/5280063?utm_source=tldrhardware",
+      "title": "A Requiem for Optane: Intel's KV-Cache Killer That Could Have Eased the RAM Price Crunch",
+      "summary": "Intel's discontinued Optane memory, which thanks to its unmatched write endurance and low latency for small random writes, would have been an ideal fit for today's write-intensive LLM KV-caching workloads."
+    },
+    {
+      "url": "https://www.moove.io/drive-to-own/news/moove-series-c?utm_source=tldrhardware",
+      "title": "Moove raises $250 million to scale robotaxi fleet infrastructure",
+      "summary": "Moove raised a Series C at a $2.1 billion valuation to build out “Nests,” robotics-first depots that charge, maintain, service, and orchestrate autonomous vehicles continuously."
+    },
+    {
+      "url": "https://thenextweb.com/news/lumilens-700m-stealth-5-51bn-ai-optical-interconnect?utm_source=tldrhardware",
+      "title": "Lumilens Raises $700 Million to Replace Data-Center Wires With Light",
+      "summary": "Lumilens emerged from stealth after securing over $700 million in funding, reaching a $5.51 billion valuation."
+    },
+    {
+      "url": "https://www.androidheadlines.com/2026/08/apples-iphone-18-pro-launch-is-six-weeks-away-and-theres-a-1-billion-supply-chain-problem.html?utm_source=tldrhardware",
+      "title": "TSMC Sitting On $1B Worth of Apple A20 Pro SoCs Due to DRAM Deficit",
+      "summary": "TSMC is reportedly holding nearly $1 billion worth of Apple A20 Pro processors in inventory that cannot ship due to severe global mobile DRAM shortages."
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/frore-claims-its-liquidjet-can-drop-nvidia-rubin-gpu-temperatures-by-10-c-can-also-boost-performance-by-15-percent-as-hyperscalers-eye-using-delidded-gpus-in-production-environments?utm_source=tldrhardware",
+      "title": "Frore Claims LiquidJet Drops Nvidia Rubin GPU Temperatures by 10°C",
+      "summary": "Frore Systems claims its LiquidJet coldplate technology can lower Nvidia Rubin GPU junction temperatures by up to 12°C, by etching targeted microchannels near thermal hotspots."
+    },
+    {
+      "url": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota?utm_source=tldrhardware",
+      "title": "Walden Robotics Skips the Legs, Betting Wheels and Simple Grippers Win in Factories",
+      "summary": "Walden Robotics, a Toyota Research Institute spinout, emerged from stealth with $300 million in funding at a $1.1 billion valuation."
+    }
+  ]
+}

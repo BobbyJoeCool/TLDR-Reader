@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-08-04",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.semrush.com/blog/chatgpt-topical-focus-study/?utm_source=tldrmarketing",
+      "title": "How topical authority spreads (and where it doesn't) in ChatGPT",
+      "summary": "Topical authority works best when brands build deep expertise in a core area before expanding. ChatGPT cited brands in 74% of closely related categories compared to 50% of distant ones, but overall brand mentions declined from 44% to 25%. Consistent coverage within a category drove stronger visibility than spreading content across unrelated topics. Brands should expand into adjacent areas gradually, as the impact of broader coverage varies by industry."
+    },
+    {
+      "url": "https://www.facebook.com/business/2026-meta-holiday-insights-center/customer-insights?utm_source=tldrmarketing",
+      "title": "What 14,473 holiday shoppers told us about how the world shops",
+      "summary": "Social has become a core part of the holiday shopping journey, moving shoppers from discovery to purchase. 37% of shoppers use social for gift inspiration, close to search at 41%. Social also drives transactions, with 78% purchasing in-app. Creators play a central role, with 94% of social shoppers turning to them for guidance. AI is already used by 23% of shoppers, while messaging remains a key touchpoint throughout the buying process."
+    },
+    {
+      "url": "https://later.com/blog/instagram-reels-audio/?utm_source=tldrmarketing",
+      "title": "Why audio matters for Instagram Reels engagement, and how scheduling it actually helps",
+      "summary": "Instagram uses Reel audio as a distribution signal, so brands should monitor rising sounds and publish during the early adoption window before trends peak. Similar videos can see very different reach depending on the audio choice, making real-time trend tracking more effective than planning content too far in advance. Teams should leave room in their calendars to adapt as new sounds gain momentum."
+    },
+    {
+      "url": "https://www.standingongiants.com/blog/online-community-management-services-underperforming/?utm_source=tldrmarketing",
+      "title": "9 Hidden Reasons Your Online Community Management Services Are Underperforming",
+      "summary": "Online communities often underperform because teams launch them without a clear strategy for long-term engagement. The biggest issues come from unclear goals, weak internal support, and community operations that don't match member needs. Teams should define what the community is meant to achieve and invest in the right infrastructure. Members need to be given room to create valuable discussions instead of relying on heavy moderation."
+    },
+    {
+      "url": "https://www.hypebot.com/3-new-spotify-updates-that-are-changing-music-marketing/?utm_source=tldrmarketing",
+      "title": "3 New Spotify Updates That Are Changing Music Marketing",
+      "summary": "Spotify now rewards active fan engagement over automated growth tactics. User Notes lets artists and playlist curators add context to songs, which creates new opportunities for storytelling and music discovery inside playlists. Campaign Lift provides a clearer way to measure the impact of Discovery Mode by estimating results beyond organic streams, which helps validate ROI and choose the right tracks for promotion. Spotify also now requires fans to reconnect third-party app permissions every 6 months, so artists need to build email and SMS lists and keep a steady release schedule to maintain fan connections."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/?utm_source=tldrmarketing",
+      "title": "These App Store hidden gems prove there's still room for great software in the AI era",
+      "summary": "The App Store is seeing a resurgence of niche apps. Rather than replacing apps, AI is helping independent developers build focused tools that solve everyday problems. Apps like Albo organize saved content from across social platforms, PI.FYI brings back friend-driven recommendations, and ThingsBook offers a personal space for tracking interests and memories. Simple, human-centered experiences can still stand out in the AI era."
+    },
+    {
+      "url": "https://news.designrush.com/agency-vs-in-house-marketing?utm_source=tldrmarketing",
+      "title": "What 18 Years in the Trenches Teaches About Agency vs. In-House Marketing",
+      "summary": "The agency vs. in-house debate is outdated as budgets stall and AI turns execution into a commodity. Agencies still provide speed and cross-industry exposure, but their reliance on utilization and margins often leads to diluted ownership and limited visibility into real business outcomes. Freelancers offer cost-efficient execution, but are constrained by capacity and tend to diagnose problems through a narrow lens. In-house teams align deeply with product and strategy, yet can lose external perspective and default to safer decisions due to higher personal stakes."
+    },
+    {
+      "url": "https://www.marketingbrew.com/stories/nadya-okamoto-pie-cmo?utm_source=tldrmarketing",
+      "title": "The perks of being a creator executive",
+      "summary": "Pie named creator Nadya Okamoto as co-founder and CMO as brands lean more on individuals over traditional marketing. Okamoto built a large audience while scaling her previous company and now uses her platform to introduce Pie, gather feedback, and influence product decisions in real time. The role focuses on testing ideas publicly and iterating quickly, reflecting how marketing is becoming more creator-led and experimental."
+    },
+    {
+      "url": "https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:e3a8a8c9-199c-5004-9591-dfb6be314469?utm_source=tldrmarketing",
+      "title": "Social Media Case Study Template",
+      "summary": "A 1-page case study template to document your projects and campaigns, helping you build a portfolio you can showcase."
+    },
+    {
+      "url": "https://strategybreakdowns.com/p/byd-vertical-integration?utm_source=tldrmarketing",
+      "title": "The battery shop that beat Tesla",
+      "summary": "BYD reverse-engineered every production step to drive costs down, which created a price war that Tesla couldn't win."
+    },
+    {
+      "url": "https://sfstandard.com/2026/08/03/billboard-advertising-ai-arms-race/?utm_source=tldrmarketing",
+      "title": "One billboard, $3M a year: Welcome to AI's advertising arms race",
+      "summary": "AI startups have driven the top-tier US 101 billboard rate up 20-30% from pre-pandemic levels."
+    }
+  ]
+}

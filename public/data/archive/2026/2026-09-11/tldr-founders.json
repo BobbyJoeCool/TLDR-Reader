@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-09-11",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.stripeeconomics.com/p/the-saaspocalypse-was-more-like-a?utm_source=tldrfounders",
+      "title": "The SaaSpocalypse was more like a RenaiSaaS",
+      "summary": "SaaS valuations dropped nearly $2 trillion in early 2026 due to fears about AI disrupting business models, but revenue growth quickly rebounded. The Stripe SaaS Index, measuring weekly pay-in volumes of 72,000 non-AI SaaS businesses, showed strong growth post-sell-off, particularly among young companies and in the US market. Healthcare, retail, and professional services sectors outperformed pre-crisis trends, with AI adoption contributing to the resilience, especially among younger firms."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/?utm_source=tldrfounders",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "summary": "Ramp's August card data covers 70,000 companies, and it is the number your board will compare your AI spend against. More than half of companies pay for at least one AI product, but that share barely grew, up 0.4% on July. At the heaviest spenders, spend per employee fell almost 10% to $7,205, and part of that is price. The average cost of a million tokens has dropped to $0.68 from a March peak of $1.15, so the same usage costs less each month. If you sell AI, customers' bills are shrinking without them buying less."
+    },
+    {
+      "url": "https://x.com/nikunj/status/2098176283394126121?utm_source=tldrfounders",
+      "title": "Divorced from reality",
+      "summary": "AI venture markets are pricing early-stage companies as if many could become Anthropic-scale outcomes even as mature software assets sell for modest revenue multiples. That gap is fueling investor anxiety and raising the risk of overpaying for consensus deals."
+    },
+    {
+      "url": "https://x.com/zaygranet/status/2097527813738045943?utm_source=tldrfounders",
+      "title": "The Golden Snitch",
+      "summary": "Exceptional performance often comes from finding the one outcome that matters more than assigned tasks. Teams should distinguish visible activity from decisive results, give proven employees autonomy, and identify which achievement would materially change the company's trajectory."
+    },
+    {
+      "url": "https://x.com/Alfred_Lin/status/2097675709091291283?utm_source=tldrfounders",
+      "title": "Ecstatic Highs and Suicidal Lows",
+      "summary": "Startup leaders face volatile emotional swings when teams fall behind critical milestones. Effective leadership requires adapting to the moment: challenge teams during highs, absorb pressure during lows, remove bottlenecks, and choose tools deliberately instead of amplifying stress by default."
+    },
+    {
+      "url": "https://www.notboring.co/p/an-ode-to-counter-positioning?utm_source=tldrfounders",
+      "title": "An Ode to Counter-Positioning",
+      "summary": "Counter-positioning allows startups to challenge incumbents by adopting business models that incumbents can't replicate without harming their own profit structures. Examples include Ramp's focus on saving customer money and Base Power's shift from battery sales to electricity services. This strategy buys startups time to develop lasting moats like Scale Economies and Network Effects."
+    },
+    {
+      "url": "https://openai.com/index/put-data-to-work/?utm_source=tldrfounders",
+      "title": "Now everyone can put data to work",
+      "summary": "Data agent ChatGPT work can help people answer questions about themselves by connecting company data, investigating what changed, and building interactive, shareable dashboards. Users can direct and refine analysis within conversations without writing queries or learning a new analytics tool. The data agent connects to approved data sources and uses organizations' business terms, metric inhibitions, custom calculations, and data relationships to interpret the data. The context comes from semantic layers and trusted sources."
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-agents-api/?utm_source=tldrfounders",
+      "title": "Introducing the Agents API",
+      "summary": "OpenAI's Agents API is now in public beta. The API brings the same harness and infrastructure that powers Codex to developers through a simple and flexible API. It allows developers to create useful agents with a powerful harness that manages context, uses tools efficiently, and coordinates subagents. The API provides infrastructure to keep agents running reliably for days, and environments where agents can work with files, run code, and save intermediate results."
+    },
+    {
+      "url": "https://www.salesforce.com/news/stories/enterprise-ai-harness/?utm_source=tldrfounders",
+      "title": "Salesforce Introduces the Trusted Enterprise AI Harness",
+      "summary": "Salesforce has introduced a new architecture that gives AI a shared understanding of the customer and the business. The new capabilities give AI the ability to act with trust within an open and composable AI ecosystem. The agent understands what is happening, decides what to do next, takes action across systems, and works alongside people and other agents. It brings together what agents need to understand the business, reason and plan, take action, and operate within enterprise controls."
+    },
+    {
+      "url": "https://www.saastr.com/what-vcs-are-looking-for-now-25b-exits-the-new-decacorn/?utm_source=tldrfounders",
+      "title": "What VCs Are Looking For Now: $25B+ Exits. The New \"Decacorn\"",
+      "summary": "When a partner takes your Series A meeting, the exit they are picturing is now $25 billion, not one. Twenty years ago, 6 public software companies were worth that much and no private ones. Today there are 60 public and 21 private, which is why a $1B outcome no longer moves a big fund. PitchBook counts 63 US companies worth $10B or more, up from 26 in 2021, with 19 new ones in the first half of this year. Rounds of $100M or more took 87.5% of the $412.7B invested in that half. SpaceX paid $60B for Cursor in August."
+    },
+    {
+      "url": "https://levels.io/replaced-saas-with-vibe-coded-services?utm_source=tldrfounders",
+      "title": "I replaced all these SaaS with my own vibe coded services, so about $25,000/mo savings",
+      "summary": "This developer replaced all of their services with vibe-coded products and saved about $25,000 a month. The setup covers almost everything they need - they would need much more infrastructure before that would be possible. This post covers the basics."
+    },
+    {
+      "url": "https://thepaywallindex.substack.com/p/do-3-day-or-7-day-trials-perform?r=qqi7&amp;%3Butm_source=tldrmarketing",
+      "title": "Do 3-Day or 7-Day Trials Perform Better? Data From 10,000+ Apps",
+      "summary": "7-day trials have 10% higher paywall view to paid conversion rate compared to 3-day trials."
+    },
+    {
+      "url": "https://x.com/NamanyayG/status/2097783972302557668?utm_source=tldrfounders",
+      "title": "We run gtm for 10 YC companies. Here's what we learned using AI to automate founder-led outbound",
+      "summary": "AI can automate research, messaging, experiments, and reply handling, but founder-led outbound still depends on a unified system around those tasks."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/?utm_source=tldrfounders",
+      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+      "summary": "Miro was once awarded a price tag of $17.5 billion in late 2021."
+    },
+    {
+      "url": "https://www.jonoalderson.com/conjecture/what-stopped-you/?utm_source=tldrfounders",
+      "title": "What stopped you from building it before?",
+      "summary": "AI is the perfect employee for a terrible manager."
+    },
+    {
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses?utm_source=tldrfounders",
+      "title": "7 AI models ran real businesses: $12,431 in fake invoices, 2,797 spam emails, and $0 revenue",
+      "summary": "Anyone planning to point an agent at a business and walk away should read this first. A research lab gave seven frontier models $300 each in a real checking account and 72 hours to make money."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-07-29",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.hashicorp.com/en/blog/terraform-introduces-workspaces-and-stacks-restore-and-more?utm_source=tldrdevops",
+      "title": "Terraform introduces workspaces and Stacks restore, and more",
+      "summary": "HashiCorp highlights new HCP Terraform and Terraform Enterprise features that improve infrastructure resilience, governance, and scalability, including workspace recovery, monorepo support for Stacks, guided migrations, registry tagging, and granular policy override permissions."
+    },
+    {
+      "url": "https://www.cncf.io/announcements/2026/07/28/cncf-announces-schedule-for-debut-observability-summit-europe/?utm_source=tldrdevops",
+      "title": "CNCF Announces Schedule for Debut Observability Summit Europe",
+      "summary": "The Cloud Native Computing Foundation has announced the schedule for Observability Summit Europe 2026, taking place in Prague on October 5. The event features more than 25 technical sessions covering topics including automated synthetic monitoring, Observability as Code, and AI-powered workflows. General registration is open now at 150 euros, with academic tickets at 85 euros. Applications for the Dan Kohn scholarship, which provides complimentary registration for community members from underrepresented groups, are open through August 23."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/choosing-apm-instrumentation/?utm_source=tldrdevops",
+      "title": "From zero to traces: Choosing the right APM instrumentation method for your stack",
+      "summary": "Datadog explains why Single Step Instrumentation is the preferred method for enabling distributed tracing by simplifying deployment, while outlining when manual or custom instrumentation is needed for unsupported environments or deeper application visibility."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes/?utm_source=tldrdevops",
+      "title": "Federating clusters for zero-downtime Kubernetes",
+      "summary": "Linkerd's multicluster extension supports three modes for connecting Kubernetes clusters: federation, flat mirroring, and gateway mirroring. This post walks through running all three simultaneously across three GKE clusters, using a full-mesh topology of six directional links and a chaos test that scales an entire cluster to zero. Federated services redistribute traffic automatically when a cluster goes down, while mirrored services require the client to handle failover explicitly. The mode is set per service with a single label, so all three patterns can coexist on the same set of links."
+    },
+    {
+      "url": "https://var0.xyz/posts/what-even-are-microservices.html?utm_source=tldrdevops",
+      "title": "What Even Are Microservices?",
+      "summary": "Microservices primarily create organizational boundaries that let teams own components and release them independently, rather than serving as a universal technical upgrade over monoliths. That autonomy comes with distributed-systems complexity, duplicated infrastructure, harder debugging, and increased coordination costs, so the architecture is most valuable when organizational scale justifies those tradeoffs."
+    },
+    {
+      "url": "https://github.com/microsoft/agent-governance-toolkit?utm_source=tldrdevops",
+      "title": "Agent Governance Toolkit (GitHub Repo)",
+      "summary": "Microsoft has released the Agent Governance Toolkit (AGT), an open-source library for enforcing policies, managing identity, and logging audit trails for autonomous AI agents. It works across Python, TypeScript, .NET, Rust, and Go, and integrates with major agent frameworks in two lines of code. AGT intercepts tool calls at the application middleware layer before they execute, so blocked actions are structurally prevented rather than probabilistically discouraged. The project is currently in public preview and available via PyPI."
+    },
+    {
+      "url": "https://github.com/opengeos/GeoLibre?utm_source=tldrdevops",
+      "title": "GeoLibre (GitHub Repo)",
+      "summary": "GeoLibre is a free, open-source GIS platform for visualizing and analyzing geospatial data that runs in web browsers, on desktop, on mobile, and inside Jupyter notebooks. It is built with Tauri v2, React, TypeScript, MapLibre GL JS, DuckDB-WASM Spatial, and deck.gl, and keeps all data local and private. The platform also supports planetary mapping beyond Earth, with basemaps covering the Moon, Mars, Mercury, Venus, the Galilean moons, Titan, Pluto, and Charon."
+    },
+    {
+      "url": "https://blogs.oracle.com/observability/observability-aws-finops-data-oracle-log-analytics?utm_source=tldrdevops",
+      "title": "Observability for AWS FinOps Data with Oracle Log Analytics",
+      "summary": "Oracle outlines an AWS to OCI FinOps workflow that curates standardized daily FOCUS cost data, stores it in OCI Object Storage, and ingests it into Oracle Log Analytics to enable reliable cloud cost analysis and monitoring."
+    },
+    {
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/?utm_source=tldrdevops",
+      "title": "Inside Zig's Incremental Compilation",
+      "summary": "Zig's compiler tracks source hashes and declaration-level dependency graphs so it can reanalyze and regenerate only the functions affected by a code change. A tightly integrated incremental linker then patches the updated machine code directly into the existing binary, enabling rebuilds of complex applications in roughly 50–70 milliseconds after an initial build."
+    },
+    {
+      "url": "https://grafana.com/blog/a-new-allowlists-design-for-grafana-cloud-ip-addresses-what-you-need-to-know/?utm_source=tldrdevops",
+      "title": "A new allowlists design for Grafana Cloud IP addresses: What you need to know",
+      "summary": "Grafana Cloud now provides a unified Allowlist API with a structured, region-aware JSON format that replaces legacy per-product IP allowlists, requiring users to update and validate firewall automation before the legacy endpoints are retired on January 31."
+    },
+    {
+      "url": "https://www.devopsdigest.com/harness-and-kong-expand-strategic-partnership?utm_source=tldrdevops",
+      "title": "Harness and Kong Expand Strategic Partnership",
+      "summary": "Harness and Kong expanded their partnership to secure AI-driven architectures by integrating Harness AI Security with Kong AI Gateway, enabling enterprises to discover, monitor, and protect AI assets, agents, LLM services, and MCP workflows with real-time threat detection and visibility."
+    },
+    {
+      "url": "https://www.pulumi.com/blog/access-token-expiry-policy/?utm_source=tldrdevops",
+      "title": "Enforce Access Token Expiry Policies in Pulumi Cloud",
+      "summary": "Pulumi Cloud now lets organization admins set a maximum expiry cap, in days, on the access tokens used against their organization."
+    }
+  ]
+}

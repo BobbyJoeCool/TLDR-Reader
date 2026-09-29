@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-08-11",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitaltrends.com/wearables/geminis-revamped-wear-os-design-is-finally-rolling-out-and-it-was-worth-the-wait/?utm_source=tldrdesign",
+      "title": "Gemini's Revamped Wear OS Design is Finally Rolling out, and It Was Worth the Wait",
+      "summary": "Gemini's new Wear OS look, first shown with Wear OS 7, is rolling out with a Neural Expressive overlay that sits on top of the watch face. Rather than taking over the screen as a separate app, it matches the assistant's appearance on Android phones and tablets. Play Store screenshots show a live transcript of requests and confirmations once an action completes."
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/a-production-snag-could-leave-the-iphone-18-pro-in-short-supply/?utm_source=tldrdesign",
+      "title": "A production snag could leave the iPhone 18 Pro in short supply",
+      "summary": "A reported DRAM shortage could limit iPhone 18 Pro availability at launch, despite strong production of Apple's new A20 Pro chip, as TSMC is unable to complete final packaging without the required memory components. Apple is expected to have enough inventory for the initial release, but online delivery times may slip and retail stock could sell out quickly after the first wave. The shortage could be amplified because Apple reportedly isn't launching a standard iPhone 18 or a new iPhone Air this fall, leaving the iPhone 18 Pro lineup and the premium foldable iPhone Ultra as the main new options for buyers."
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/09/apple-watch-revamp-redesign-round-screen/?utm_source=tldrdesign",
+      "title": "Apple considers round screens and more radical designs for future Apple Watch revamp",
+      "summary": "Apple is reportedly rethinking the future of the Apple Watch as competition from devices like the Oura Ring grows, exploring new concepts that could include circular watch faces, screenless fitness wearables, and both more premium and more affordable models. The company is also considering a broader health-focused strategy tied to AI-powered software experiences, though no major redesigns have been finalized and any radical changes are likely years away. In the near term, Apple is expected to launch the Apple Watch Series 12 and Ultra 4 this September alongside the iPhone 18 Pro and the first foldable iPhone, with updates focused on processors, colors, and fitness features."
+    },
+    {
+      "url": "https://medium.com/workable-design/the-prototype-was-a-beautiful-lie-f78a206e0887?utm_source=tldrdesign",
+      "title": "The prototype was a beautiful lie",
+      "summary": "Instead of creating high-fidelity prototypes disconnected from the product, a design team began prototyping directly inside the real codebase using Git branches, shared components, and AI coding tools like Cursor. This approach lets designers explore ideas in a safe, isolated environment while working with real constraints, resulting in more accurate prototypes, better collaboration with engineers, and clearer implementation handoffs. Figma remains useful for exploration and concept development, but the prototype becomes a working version of the product itself, reducing the gap between “looks done” and “is done.”"
+    },
+    {
+      "url": "https://whydesignishard.substack.com/p/why-ceos-ignore-design-leaders?utm_source=tldrdesign",
+      "title": "Why CEOs Ignore Design Leaders",
+      "summary": "CEOs and VPs ignore almost everyone because the entire organization competes for their attention, so feeling overlooked is not specific to design. Designer ego turns that frustration into self-centered complaints that executives hear all day and tune out as static. Curiosity works better: asking who holds influence, how they got it, and what would need to change personally."
+    },
+    {
+      "url": "https://blog.mozilla.org/ux/2026/08/let-your-designs-fail-for-the-right-reasons/?utm_source=tldrdesign",
+      "title": "Let Your Designs Fail for the Right Reasons",
+      "summary": "Prototypes built in Figma limit users to predefined paths, making it hard to tell whether a usability failure came from the design or the prototype. Building the Report Broken Site feature directly into a local Firefox Android build with AI produced a prototype with native fidelity to the device. The approach handles branching logic and real network conditions, but demands comfort with terminals, build environments, and IDEs."
+    },
+    {
+      "url": "https://loova.ai/ai-agent/intro?utm_source=tldrdesign",
+      "title": "Director-Like AI Video Agent (Website)",
+      "summary": "Turn ideas into videos faster. Plan scenes, direct your story, and generate ads, films, UGC videos, and explainer videos on an infinite creative canvas."
+    },
+    {
+      "url": "https://www.a1.gallery/mcp?utm_source=tldrdesign",
+      "title": "Curated Design References for AI Agents (Website)",
+      "summary": "Connect your AI coding tool to a curated library of real websites. Search by style, font, technology, and colour — without leaving your editor."
+    },
+    {
+      "url": "https://appllama.io/?utm_source=tldrdesign",
+      "title": "UI & UX Design Inspiration from Top-Earning iOS Apps (Website)",
+      "summary": "Every onboarding, paywall, and flow — 28,200+ screens from 690+ top-earning iOS apps. New apps weekly."
+    },
+    {
+      "url": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec?utm_source=tldrdesign",
+      "title": "Defining Ethical Design for Machines",
+      "summary": "DESIGN.md files let AI follow documented design rules, and accessibility fits that format because WCAG requirements are measurable and built on decades of consensus. Broader ethical pillars — autonomy, transparency, privacy, inclusion, and well-being — resist the same treatment, since spelling them out would demand thousands of concrete rules. A modest first step is one testable rule, such as requiring no more steps to cancel a service than to sign up."
+    },
+    {
+      "url": "https://blog.logrocket.com/product-management/invisible-product-features/?utm_source=tldrdesign",
+      "title": "How to Find the Invisible Product Features Users Won't Ask For",
+      "summary": "Invisible features are safeguards like autosave, undo, and retry logic that users notice only when they fail, and they rarely survive roadmap planning. A five-step framework surfaces them: map the job, walk the unhappy path, test under adverse conditions, watch session replays, and prioritize with the Kano model. Neglecting them produces silent churn, accumulated micro-frustrations, and quiet regressions that go unreported."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/08/eugene-golovanchuks-cyberpunk-surrealism-has-quietly-reshaped-digital-fashion-design/?utm_source=tldrdesign",
+      "title": "Eugene Golovanchuk's Cyberpunk Surrealism Has Quietly Reshaped Digital Fashion Design",
+      "summary": "Eugene Golovanchuk is a self-taught Kyiv-based 3D artist known for cyberpunk-tinged dark surrealism and digital fashion, built through a daily practice begun in 2016."
+    },
+    {
+      "url": "https://www.creativeboom.com/resources/two-berlin-graduates-asked-30-design-leaders-if-ai-has-ended-their-industry-the-answers-surprised-them/?utm_source=tldrdesign",
+      "title": "Two Berlin Graduates Asked 30 Design Leaders If AI Has Ended Their Industry. The Answers Were Somewhat Surprising",
+      "summary": "Two communication design graduates interviewed nearly 50 agency leaders, artists, and AI provocateurs, then cut the results for a book titled Are we cooked?! that catalogues how differently its subjects describe AI — black magic, a weak intern, fast food, an exoskeleton."
+    }
+  ]
+}

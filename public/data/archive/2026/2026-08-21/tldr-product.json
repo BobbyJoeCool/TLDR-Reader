@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-08-21",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://jennywanger.com/articles/influence-doesnt-come-with-the-promotion?utm_source=tldrproduct",
+      "title": "Influence doesn't come with the promotion",
+      "summary": "Influence comes from trust, not titles or winning arguments. The strongest leaders listen, stay persuadable, and build credibility that carries beyond the room."
+    },
+    {
+      "url": "https://richmironov.substack.com/p/technical-ingredients-revenue-ingredients?utm_source=tldrproduct",
+      "title": "Technical Ingredients, Revenue Ingredients",
+      "summary": "Faster AI coding does not automatically mean faster revenue. As software becomes easier to build, commercial readiness and go-to-market become the real bottlenecks."
+    },
+    {
+      "url": "https://newsletter.weskao.com/p/turn-bugs-into-features?utm_source=tldrproduct",
+      "title": "Turn bugs into features",
+      "summary": "Product weaknesses do not always need to be fixed. With the right positioning, constraints and perceived flaws can become differentiators that make a product more compelling to the right customers."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/the-art-of-simplifying-decisions?utm_source=tldrproduct",
+      "title": "The Art of Simplifying Decisions",
+      "summary": "As AI accelerates execution, decision-making becomes the bottleneck. Strong teams match the decision process to the stakes instead of treating every choice like it requires consensus."
+    },
+    {
+      "url": "https://www.danhock.co/p/how-to-build-a-high-growth-os?utm_source=tldrproduct",
+      "title": "How to Build a High-Growth Operating System",
+      "summary": "High-growth companies win through speed, focus, talent, and continuous learning. The best sustain that pace by embracing change, managing organizational debt, and staying connected to customer impact."
+    },
+    {
+      "url": "https://open.substack.com/pub/lenny/p/how-i-ai-how-a-solo-founder-used?utm_source=tldrproduct",
+      "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers (33 minute video)",
+      "summary": "AI is letting solo founders operate specialized tools and build across disciplines without traditional teams. The result is a dramatic expansion of what one person can create and launch."
+    },
+    {
+      "url": "https://nextbigteng.substack.com/p/american-open-weight-leadership?utm_source=tldrproduct",
+      "title": "Who will be the bastion of American open-weight AI leadership?",
+      "summary": "The US leads frontier AI but risks losing the open-weight ecosystem to China. NVIDIA, Meta, and other platform companies have strong incentives to keep American open models competitive."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2090278256306229675.html?utm_source=tldrproduct",
+      "title": "Why AI Makes Experts More Valuable",
+      "summary": "AI makes specialized work more accessible, but expertise still compounds. The people with the best judgment may gain the most leverage from AI."
+    },
+    {
+      "url": "https://www.a16z.news/p/rise-of-the-borderless-founder?utm_source=tldrproduct",
+      "title": "Rise of the Borderless Founder",
+      "summary": "International founders can turn cross-border networks into a moat, combining Silicon Valley access with trusted talent, customers, and reputation at home."
+    },
+    {
+      "url": "https://tomtunguz.com/previously-unmanufacturable?utm_source=tldrproduct",
+      "title": "Previously Unmanufacturable",
+      "summary": "AI is turning English into a universal interface for complex software."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-08-25",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.youtube.com/watch?v=_iOJqMFyL_8&utm_source=tldrproduct",
+      "title": "Inside PM at Stripe: What Comes After \"Become a Builder?\" (61 minute video)",
+      "summary": "AI is pushing every product-building role upstream rather than simply eliminating functions. PMs will increasingly create leverage through shared context, judgment, strategy, persuasion, and domain expertise while AI and adjacent functions absorb more execution."
+    },
+    {
+      "url": "https://stratechery.com/2026/autonomy-and-innovation/?utm_source=tldrproduct",
+      "title": "Autonomy and Innovation",
+      "summary": "Incumbents will adopt AI cautiously because they have more to lose from mistakes. Startups can embrace autonomy more aggressively, giving them a natural advantage in turning AI into disruption."
+    },
+    {
+      "url": "https://codegood.co/writing/the-deadline-that-was-already-missed?utm_source=tldrproduct",
+      "title": "The Deadline That Was Already Missed",
+      "summary": "Bad roadmaps often fail from missing dependencies, not bad estimates. Working backwards exposes what must be true before execution begins."
+    },
+    {
+      "url": "https://www.davesresearch.com/good-move-enabling/?utm_source=tldrproduct",
+      "title": "A Good Move is Enabling",
+      "summary": "Good product moves create value now while opening better options for what comes next. Teams should avoid short-term wins that lead to strategic dead ends."
+    },
+    {
+      "url": "https://www.scrum.org/resources/blog/product-owner-interview-questions-age-ai?utm_source=tldrproduct",
+      "title": "Product Owner Interview Questions for the Age of AI",
+      "summary": "As AI lowers the cost of building software, product judgment matters more than tool fluency. Great Product Owners know what to build, what to stop, and where AI should assist rather than decide."
+    },
+    {
+      "url": "https://theskip.substack.com/p/to-invent-waymo-they-had-to-reinvent?utm_source=tldrproduct",
+      "title": "To Invent Waymo, They Had to Reinvent PM (60 minute video)",
+      "summary": "Waymo shows how PM must evolve for problems without clear metrics or playbooks. The key is defining what good looks like, setting concrete checkpoints, and building teams capable of learning their way forward."
+    },
+    {
+      "url": "https://smart-interface-design-patterns.com/articles/big-bang-redesigns-vs-legacy-modernization/?utm_source=tldrproduct",
+      "title": "Big-Bang Redesigns vs. Legacy Modernization",
+      "summary": "Big-bang legacy redesigns often fail because critical dependencies are easy to miss. Modernizing gradually, with users involved and workflows replaced in small slices, reduces risk and delivers value sooner."
+    },
+    {
+      "url": "https://www.a16z.news/p/the-oracle-problem-an-invisible-bottleneck?utm_source=tldrproduct",
+      "title": "The Oracle Problem: an invisible bottleneck to AI and medicine",
+      "summary": "Healthcare AI benchmarks can measure test performance without proving clinical effectiveness. Better evaluations must measure whether AI improves real-world health outcomes."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2089921630650925170.html?utm_source=tldrproduct",
+      "title": "Enterprise AI's biggest opportunities",
+      "summary": "These opportunities lie between the model and the workflow."
+    },
+    {
+      "url": "https://highimpactengineering.substack.com/p/developers-must-become-mini-pms?utm_source=tldrproduct",
+      "title": "Developers must become mini-PMs",
+      "summary": "AI is pushing engineers beyond code and toward greater product ownership."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-07-31",
+  "articleCount": 19,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thinkingmachines.ai/news/inkling-small/?utm_source=tldrai",
+      "title": "Inkling-Small",
+      "summary": "Thinking Machines has released Inkling-Small, a 276B-parameter mixture-of-experts model with 12B active parameters. The model retains Inkling's multimodal reasoning, variable thinking effort, and 1M-token context window while using substantially less compute."
+    },
+    {
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/?utm_source=tldrai",
+      "title": "OpenAI Cuts GPT-5.6 Prices",
+      "summary": "OpenAI reduced GPT-5.6 Luna pricing by 80% and Terra pricing by 20%, while improving Sol's API speed. The changes extended efficiency gains across API usage, Codex, and ChatGPT Work subscriptions."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/?utm_source=tldrai",
+      "title": "Gemini Robotics ER 2",
+      "summary": "Gemini Robotics ER 2 enhances automation capabilities with advanced AI and LLM integration. This innovation improves robotic efficiency, making it pivotal for industries needing precise automation."
+    },
+    {
+      "url": "https://cursor.com/blog/cloud-agent-environment?utm_source=tldrai",
+      "title": "Building Cloud Environments for Coding Agents",
+      "summary": "Cursor described how making development environments easier for agents to understand, run, and test helped cloud agents grow from authoring about 10% of merged pull requests to more than half."
+    },
+    {
+      "url": "https://x.com/thejessezhang/status/2082885504371171639?utm_source=tldrai",
+      "title": "The Agent Graveyard Isn't Real Anymore",
+      "summary": "Enterprise AI projects increasingly reach production when vendors prove value on live workloads, provide ongoing testing and iteration, and expose ROI. Successful deployments start with decomposable workflows that ship quickly and expand, rather than broad transformations with undefined success criteria."
+    },
+    {
+      "url": "https://arjunbansal.substack.com/p/open-weight-llms-have-caught-up-on?utm_source=tldrai",
+      "title": "Open-Weight LLMs Have Caught Up on Accuracy",
+      "summary": "Open-weight LLMs have now reached accuracy parity with closed models in regulatory and clinical tasks, at significantly lower costs. The ClinReg benchmark showed models like GLM 5.2 and Kimi K3 performing within one standard deviation of top proprietary models like GPT 5.6 Sol, at one-third of the cost. Different models displayed distinct error profiles, highlighting the importance of choosing models based on task-specific requirements rather than just ranking."
+    },
+    {
+      "url": "https://marcobambini.substack.com/p/the-waste-inference-engine?utm_source=tldrai",
+      "title": "The WASTE inference engine",
+      "summary": "WASTE is an open source inference engine designed to run models whose weights are substantially larger than the memory available on the host machine. It is an initial step into a broader effort to make increasingly capable models available on more hardware. The project aims to provide people and organizations greater control over infrastructure costs, data privacy, availability, and deployment. The first fully supported model by WASTE is Kimi K3, which can run on a MacBook Pro with 64 GB of unified memory."
+    },
+    {
+      "url": "https://earendil.com/posts/session-portability/?utm_source=tldrai",
+      "title": "The Session You Cannot Take With You",
+      "summary": "Users should be able to close an account, keep a session, and hand it to another model. Stateful storage should be optional, and hosted tools should be observable. Compaction should be readable, and agent communication should be auditable. Distillation should be a path by which capability becomes more available, not a reason for building ever higher walls."
+    },
+    {
+      "url": "https://x.com/MiniMax_AI/status/2083008095488516262?utm_source=tldrai",
+      "title": "MiniMax H3",
+      "summary": "MiniMax H3 is an open model that breaks the boundaries between tasks and modalities. It understands unified context across text, images, video, and audio. The model can generate up to 15 seconds of video at 2K resolution with native stereo sound. H3 excels at instruction following, accurate text and brand rendering, and V2V motion transfer. Early testing shows that it is ready for commercial content creation across a wide range of use cases."
+    },
+    {
+      "url": "https://ai.google.dev/gemini-api/docs/live-api?linkId=63011869&amp;utm_source=tldrai",
+      "title": "Gemini Live API overview",
+      "summary": "The Gemini Live API enables low-latency, real-time voice and vision interactions with Gemini. It processes continuous streams of audio, images, and text to deliver immediate, human-like responses. The API creates a natural conversational experience for users. It can be used to build real-time agents for a variety of industries."
+    },
+    {
+      "url": "https://www.agentbehavior.dev/?utm_source=tldrai",
+      "title": "Agent Behavior (Website)",
+      "summary": "Agent Behavior is an open standard for defining and evaluating how an AI agent should behave across a whole trajectory. Each behavior spec is a Markdown file that describes the recurring conduct that makes the agent reliable. The spec gives reviewers, rubrics, scorers, and evals something concrete to measure against. It can be used to review traces, write eval cases, revise prompts or tools, and communicate intended agent conduct to teams."
+    },
+    {
+      "url": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=tldrai",
+      "title": "With Moonshot's free Kimi K3, China changes the sovereign AI playbook",
+      "summary": "China's Moonshot AI open-sourced Kimi K3 on July 27. Any government, company, or individual can now run the model on their own computers for free. They can also retrain the model however they want. The existence of a high-quality open model increases return on hardware investments because of a reduction or elimination of ongoing licensing costs."
+    },
+    {
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management?utm_source=tldrai",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "summary": "AI faces a bottleneck with GPU utilization, echoing how airlines maximize aircraft use for profitability. Owning more GPUs doesn't ensure efficiency - companies must focus on optimizing GPU workload orchestration to maximize output. Specialized models and continuous GPU management are crucial strategies for improving utilization and staying competitive in the AI arena."
+    },
+    {
+      "url": "https://huggingface.co/storage?utm_source=tldrai",
+      "title": "Hugging Face Storage Buckets (Website)",
+      "summary": "Hugging Face Storage Buckets allow developers to store models, datasets, and artifacts with simple per-TB pricing."
+    },
+    {
+      "url": "https://www.superlogical.com/?utm_source=tldrai",
+      "title": "Superlogical (Website)",
+      "summary": "Superlogical plans to build a composable multiplexer for all work that is safe and operable in production."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/?utm_source=tldrai",
+      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+      "summary": "NVIDIA has identified configuration issues causing AI cluster performance gaps, such as CPU power settings and network tuning differences."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html?utm_source=tldrai",
+      "title": "Anthropic says its Claude models ‘gained unauthorized access' to other organizations' systems",
+      "summary": "Anthropic discovered three instances where its models accessed the internet during an evaluation and gained unauthorized access to the systems of three different organizations."
+    },
+    {
+      "url": "http://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/?utm_source=tldrai",
+      "title": "Judge Questions Anthropic Supply-Chain Risk",
+      "summary": "A judge said the Trump administration had not provided enough evidence to classify Anthropic as a supply-chain risk or justify blocking federal agencies from using its technology."
+    },
+    {
+      "url": "https://www.arcee.ai/blog/teaching-an-open-model-to-do-science?utm_source=tldrai",
+      "title": "Teaching an Open Model to Do Science",
+      "summary": "Loka, Arcee, AWS, and Prime Intellect post-trained Trinity Mini with reinforcement learning across tool-assisted biomedical research and Gene Ontology annotation."
+    }
+  ]
+}

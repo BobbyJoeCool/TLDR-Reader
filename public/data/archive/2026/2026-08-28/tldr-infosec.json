@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-08-28",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/?utm_source=tldrinfosec",
+      "title": "Medical Device Maker Boston Scientific Says a Cyberattack is Causing a ‘Global Disruption' to its Operations",
+      "summary": "Boston Scientific reported a cyberattack disrupting access to core IT systems and business applications. The outage has impaired order processing and shipments, but the company has not confirmed whether implanted devices, patients, or customer data are affected. Its investigation continues, and there is no restoration timeline."
+    },
+    {
+      "url": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month?utm_source=tldrinfosec",
+      "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
+      "summary": "NovaCookies rents AitM phishing infrastructure for $320 monthly. It relays Microsoft 365 logins and steals authenticated session cookies, bypassing MFA. Island found at least 755 supporting domains targeting hundreds of organizations and uses fake DocuSign document shares and trusted redirect hops. Defenders should deploy phishing-resistant MFA, correlate browser and token activity, and revoke active sessions and refresh tokens after suspected compromise."
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/aug/27/uk-airports-operator-cyber-attack-customer-data-accessed?utm_source=tldrinfosec",
+      "title": "Three UK Airports Hit By Cyber Attack With Data of 8.7M Accessed",
+      "summary": "Manchester, London Stansted, and East Midlands airports suffered a data breach where attackers accessed data belonging to 8.7M customers. The incident involved data related to car park, lounges, and fast-track bookings, and in-airport WiFi signups. The breached data includes email addresses, phone numbers, vehicle registration numbers, and postcodes."
+    },
+    {
+      "url": "https://www.aikido.dev/blog/australian-gym-hack-openclaw-test?utm_source=tldrinfosec",
+      "title": "Could OpenClaw Have Actually Hacked That Australian Gym? We Decided To Test It",
+      "summary": "Aikido recreated an Australian gym-booking incident using OpenClaw and Claude Opus 4.6. The test app exposed two flaws: client-side-only booking limits and an IDOR cancellation endpoint. Across ten runs, the model bypassed the booking window nine times. It cancelled another user's reservation in two runs, including one response to a generic waitlist request. Replay tests covered 16 decision points and found dominant responses averaged 96.38 percent with the model's actions shifting with small prompt and context changes."
+    },
+    {
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/?utm_source=tldrinfosec",
+      "title": "VMs Won't Contain Cyber-Capable Agents",
+      "summary": "Trail of Bits gave GPT 5.6-Cyber preview access and tasked it with escaping a QEMU/KVM sandbox on a patched Debian 12 host, and it broke out three separate times over roughly 12 hours of largely unsupervised operation. The agent chained a recently disclosed host-kernel bug first, then pivoted to an unpatched libslirp CVE paired with an unmarked bug fix after the kernel got updated, and finally, once QEMU was rebuilt from upstream source, synthesized a full exploit chain from three fresh 0-days (a QEMU VAPIC SMRAM flaw, a KVM shadow-page desync, and a libslirp ICMP-reflection bug) plus one kernel fix that hadn't reached the distribution's stable branch. Trail of Bits recommends treating such agents as advanced persistent threats: move to minimal-attack-surface hypervisors like Firecracker (which held even after a kernel hardlock), track upstream patches rather than trusting distro backport cycles, and enforce least-privilege network access, time-boxed runs, and pristine per-session environments."
+    },
+    {
+      "url": "https://www.sentinelone.com/blog/what-two-independent-datasets-reveal-about-whos-exploiting-your-perimeter/?utm_source=tldrinfosec",
+      "title": "Edge Infrastructure Under Siege: What Two Independent Datasets Reveal About Who's Exploiting Your Perimeter",
+      "summary": "A joint analysis by Tenable and SentinelOne revealed that state-sponsored groups and ransomware operators are independently exploiting the same edge device vulnerabilities. Researchers identified 12 flaws with confirmed multi-nexus exploitation by evaluating 93 CVE attribution pairs, including critical bugs in PAN-OS GlobalProtect (CVE-2024-3400) and Check Point Quantum (CVE-2024-24919). The underlying exposure data highlights severe remediation bottlenecks across major enterprise vendors. F5 appliances led exposure rates with 54 percent of customer environments carrying an actively exploited CVE, while Citrix deployments suffered a median patch time of 461 days. Additionally, Ivanti edge products demonstrated a predictable pattern of serial exploitation refreshing every 8.5 to 13 months. Security teams must prioritize patching F5 and Citrix appliances immediately while deploying feature set minimization and strict endpoint protections to block lateral movement following a perimeter breach."
+    },
+    {
+      "url": "https://github.com/warpedatom/noisehound?utm_source=tldrinfosec",
+      "title": "NoiseHound (GitHub Repo)",
+      "summary": "NoiseHound is a tool that ingests the same graph data as BloodHound and re-ranks paths by expected detection cost instead of hop count."
+    },
+    {
+      "url": "https://github.com/luiacuaniello/perspectivegraph?utm_source=tldrinfosec",
+      "title": "PerspectiveGraph (GitHub Repo)",
+      "summary": "PerspectiveGraph is a tool that finds the reachable paths from internet exposure, through excessive privilege, to a sensitive asset, by correlating the scanners you already run into one live graph of your environment"
+    },
+    {
+      "url": "https://github.com/Ishannaik/agent-sweep?utm_source=tldrinfosec",
+      "title": "AgentSweep (GitHub Repo)",
+      "summary": "AgentSweep is a fully offline tool to find and redact secrets in your AI coding agent's local history."
+    },
+    {
+      "url": "https://securityaffairs.com/197873/apt/fbi-seizes-china-linked-hacking-platforms-qscan-and-qtrouter-used-against-critical-infrastructure.html?utm_source=tldrinfosec",
+      "title": "FBI Seizes China-Linked Hacking Platforms QScan and QTRouter Used Against Critical Infrastructure",
+      "summary": "The FBI has seized QScan and QTRouter, China-linked hacking platforms used against critical infrastructure. Organizations should hunt for indicators of compromise associated with these platforms and report any findings to authorities."
+    },
+    {
+      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html?utm_source=tldrinfosec",
+      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+      "summary": "CISA's red team gained domain-level access at two critical-infrastructure organizations. One organization missed the intrusion amid false positives, disconnected SOC tooling, default credentials, AD CS flaws, cleartext secrets, and permanent AWS keys. The other organization isolated phishing-hit workstations within 2–20 minutes, yet assessors later obtained domain-controller secrets through an SCCM-stored service credential."
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/?utm_source=tldrinfosec",
+      "title": "Disrupting a New Covert Influence Campaign From Russia",
+      "summary": "OpenAI banned Russian-origin accounts promoting the International Burke Institute, a fake Israel-based think tank. Operators used VPNs and Russian prompts to create posts for X, LinkedIn, Facebook, Substack, and Telegram. IBI republished academic work under false names and published a “sovereignty” index praising Russia, and its Telegram channels drew 10,000–20,000 followers."
+    },
+    {
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/?utm_source=tldrinfosec",
+      "title": "Two Alleged ‘TeamPCP' Hackers Arrested in Australia",
+      "summary": "Australian police arrested two Western Australian men, aged 21 and 23, over alleged TeamPCP activity."
+    },
+    {
+      "url": "https://www.scworld.com/brief/ring-adopts-new-take-encryption-standard-for-smart-home-devices?utm_source=tldrinfosec",
+      "title": "Ring Adopts New TAKE Encryption Standard for Smart Home Devices",
+      "summary": "Ring is adopting the TAKE (Throw Away the Key Encryption) encryption standard for its smart home devices."
+    },
+    {
+      "url": "https://cyberscoop.com/energy-department-cybersecurity-executive-order-rules?utm_source=tldrinfosec",
+      "title": "Cyber Threats Nudge Trump to Sign Executive Order On Foreign Equipment in US Energy Infrastructure",
+      "summary": "Recent cyber threats prompted Trump to sign an executive order on foreign equipment in US energy infrastructure."
+    }
+  ]
+}

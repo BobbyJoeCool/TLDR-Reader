@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-01",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitaltrends.com/wearables/a-redesigned-apple-watch-now-seems-further-in-the-future/?utm_source=tldrdesign",
+      "title": "A redesigned Apple Watch now seems further in the future",
+      "summary": "Apple's Apple Watch Series 12 and Ultra 4 are expected to be modest upgrades focused on new ceramic case options and improved health tracking, including continuous heart-rate monitoring and more insightful wellness software, while a major redesign remains in development and could arrive in 2027 or be delayed until 2028."
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24/?utm_source=tldrdesign",
+      "title": "Alibaba Launches Wan3.0 AI Video Model after $10 Billion Share Sale",
+      "summary": "Alibaba officially rolled out Wan3.0, an upgraded AI video-generation model, a day after announcing a $10 billion share placement to fund rising AI spending. The model generates 30-second videos from documents, spreadsheets, slides, and web pages, and has been used since its August 6 public beta. The share sale is the largest-ever primary follow-on offering by a Hong Kong-listed company, coming after Alibaba reported a 75% plunge in quarterly earnings due to soaring AI capital expenditure."
+    },
+    {
+      "url": "https://www.engadget.com/2246914/instagram-will-demote-ai-generated-influencers-if-they-dont-clearly-label-their-account/?utm_source=tldrdesign",
+      "title": "Instagram Will Demote AI-generated Influencers if They Don't Clearly Label Their Account",
+      "summary": "Instagram now requires profiles featuring AI-generated personas to use a new \"AI-generated profile\" label, replacing the previous optional \"AI creator\" tag. Accounts that don't apply the label to AI-generated people will face reduced reach, though appeals are possible through the Account Status dashboard. The change targets only AI persona accounts specifically, not broader AI-generated content, amid rising concern over misleading AI \"influencers\" impersonating real humans."
+    },
+    {
+      "url": "https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/?utm_source=tldrdesign",
+      "title": "Workflow Lab: Moving between Design and Code with Agents",
+      "summary": "Figma's MCP server and Code Connect give coding agents access to a team's components, tokens, and layouts, so generated code matches design specs. In the example workflow, a developer diagrams the flow in FigJam, reuses existing components, and catches token drift before review."
+    },
+    {
+      "url": "https://christophhellmuth.com/open-design-system-bench/?utm_source=tldrdesign",
+      "title": "How AI-Ready is Your Design System? Now You Can Measure It.",
+      "summary": "open-design-system-bench is an open benchmark measuring whether AI coding agents use a design system correctly when generating UI. Four systems scored between 52.2 and 63.4 on its AI-readiness composite, and none reached the AI-native tier. Across 898 graded generations, some models ignored the design system entirely while others hallucinated component names."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=tldrdesign",
+      "title": "The Custodial Era of UX: Cleaning Up After AI",
+      "summary": "AI is pushing UX into a “custodial era” where teams can generate and ship features faster than they can properly evaluate them, creating UX debt. As a result, UX practitioners increasingly act as custodians who clean up, simplify, validate, and triage AI-generated experiences, helping organizations distinguish what can be built from what should be built, while adapting research and evaluation processes to keep pace with rapid production and embedding UX principles directly into AI generation workflows to prevent future problems."
+    },
+    {
+      "url": "https://www.browseract.com/?utm_source=tldrdesign",
+      "title": "Build a Reusable Web Scraper from One Prompt (Website)",
+      "summary": "BrowserAct builds and verifies a reusable scraper on a live website, then runs it whenever you need fresh results."
+    },
+    {
+      "url": "https://x1.new/?utm_source=tldrdesign",
+      "title": "Build Your iPhone App (Website)",
+      "summary": "x1 helps builders turn app ideas into working iPhone apps through guided planning, visual design, milestone-based building, QA, publishing prep, and iteration."
+    },
+    {
+      "url": "https://before.click/?utm_source=tldrdesign",
+      "title": "App Store Screenshot Design Inspiration (Website)",
+      "summary": "Browse curated App Store screenshots, paywalls, onboarding flows, and icons from the best-designed iOS apps."
+    },
+    {
+      "url": "https://1stwebdesigner.com/adobe-creative-cloud-ai-workflow/?utm_source=tldrdesign",
+      "title": "Two Adobe AI Features Worth a Web Designer's Attention",
+      "summary": "Adobe added a conversational AI Assistant to Photoshop, Illustrator, InDesign, Premiere, and Frame.io in June 2026, automating multi-step production tasks like batch resizing and background removal. Illustrator's Text to Vector tool generates genuinely editable SVG paths rather than raster images, a capability no major competing AI tool offers."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/logos-icons/the-new-cd-projekt-red-logo-has-sparked-the-weirdest-backlash-graphic-design-has-seen?utm_source=tldrdesign",
+      "title": "The new CD Projekt Red logo just sparked the weirdest backlash graphic design has ever seen",
+      "summary": "CD Projekt Red has refreshed its firebird logo with sharper, more aggressive features and a stronger use of red to better reflect the mythological Slavic raróg it represents, but despite the redesign being a relatively modest evolution, some social media users have bizarrely interpreted the shift to a black-and-red color scheme as a political statement, even though the company says the update is simply intended to create a more modern, confident, energetic, and culturally authentic brand identity."
+    },
+    {
+      "url": "https://www.petermerholz.com/newsletter/designs-legibility-gap/?utm_source=tldrdesign",
+      "title": "Design's Legibility Gap",
+      "summary": "Design's struggle for legitimacy stems from \"legibility,\" where organizations only value predictable, determinate work they can measure and plan around. Unlike engineering or marketing, UX/Design remained a synthetic, indeterminate practice, making its core work—research, iteration, and conceptual modeling—invisible to organizations. Design leadership's real challenge, then, is not translating design to the business, but expanding what businesses recognize as legitimate, valuable work."
+    },
+    {
+      "url": "https://www.itsnicethat.com/articles/moriz-oberberger-illustration-art-discover-270826?utm_source=tldrdesign",
+      "title": "Moriz Oberberger's bendy figures and whimsical cartoons reveal “the strange beauty of ordinary situations”",
+      "summary": "Illustrator and animator Moriz Oberberger creates playful yet subtly unsettling artwork featuring awkward characters, unusual proportions, and expressive mark-making, using experimental drawing and painting techniques to explore vulnerability, tension, and the strange beauty hidden within everyday situations."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/advertising/nope-the-new-apple-ad-isnt-ai-and-theres-a-bts-video-to-prove-it?utm_source=tldrdesign",
+      "title": "Nope, the new Apple Mac mini ad isn't AI – and there's a delightful BTS video to prove it",
+      "summary": "Apple's new Mac mini stop-motion ad celebrates human craftsmanship with handmade clay animation, positioning the computer as a tool that enhances rather than replaces creativity."
+    },
+    {
+      "url": "https://www.creativeboom.com/inspiration/this-rebrand-of-voice-journaling-app-untold-shows-what-happens-when-ai-branding-doesnt-look-like-ai/?utm_source=tldrdesign",
+      "title": "This Rebrand of a Voice-Journaling App Looks Lovely, but is an 'AI Illustration System' the Right Call?",
+      "summary": "The Working Assembly's new identity for voice-journaling app Untold centers on a bespoke AI illustration system trained to feel emotionally resonant rather than algorithmically generated."
+    }
+  ]
+}

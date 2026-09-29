@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-10",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html?msockid=21fe1823d3a6618b133a0ea7d2646098&amp;utm_source=tldrmarketing",
+      "title": "‘Model fatigue' sets in as AI labs race to roll out new versions at frenetic pace",
+      "summary": "AI labs are releasing model updates at a faster pace, making it harder for businesses to evaluate which tools are worth adopting. Anthropic, Meta, Google, and OpenAI all launched updates in one week. The rapid rollout is creating “model fatigue” as teams spend more time comparing capabilities and performance."
+    },
+    {
+      "url": "https://futuresocial.beehiiv.com/p/is-the-like-button-dead?utm_source=tldrmarketing",
+      "title": "Is the Like button dead?",
+      "summary": "Likes and comments are dropping across social platforms. Instagram likes are down 73% on carousels and 81% on Reels. Platforms are relying on signals like watch time, completion rate, replays, and dwell time to rank content. Engagement metrics are becoming less useful, while retention and strong hooks matter more."
+    },
+    {
+      "url": "https://annhandley.com/how-to-write-email-readers-want-to-open/?utm_source=tldrmarketing",
+      "title": "Make Posteingänge Sexy Again",
+      "summary": "Welcome emails already draw close to four times the click rate of a regular campaign, proof that readers respond fastest to something that feels personally addressed to them. Newsletters that open on a specific moment or an odd, memorable detail get read as correspondence instead of content to skim past. Confiding in a reader works better than performing for an audience, since specificity is what makes writing sound like an actual person rather than a content calendar. Replying when someone writes back extends that same logic into a growth strategy, not just a courtesy."
+    },
+    {
+      "url": "https://thepaywallindex.substack.com/p/do-3-day-or-7-day-trials-perform?r=qqi7&amp;utm_source=tldrmarketing",
+      "title": "Do 3-Day or 7-Day Trials Perform Better?",
+      "summary": "For mobile apps, 7-day trials convert 10% better than 3-day trials overall, with paywall-to-paid conversion rising from 1.55% to 1.70%. The difference is larger on Android, where 7-day trials deliver a 20% lift, compared with 5% on iOS. However, results vary by region. In North America, 3-day trials outperform 7-day on iOS, while 7-day performs better across most Android markets. The data suggests trial length should be tested by platform and region."
+    },
+    {
+      "url": "https://www.leadershipinseo.com/p/entities-are-the-foundation-of-modern?utm_source=tldrmarketing",
+      "title": "Entities Are The Foundation of Modern SEO",
+      "summary": "Entity SEO is now a core part of making a brand understandable to Google and AI systems. Start by auditing owned properties so brand names, people, products, relationships, and structured data are accurate and consistent. Then build credibility through relevant third-party mentions, expert commentary, and evidence that supports what the brand claims to be known for. An entity map can reveal gaps between intended positioning and how search data and the wider web actually connect the brand to people, products, services, and topics."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/drive-awareness-with-video-sequence-ads?utm_source=tldrmarketing",
+      "title": "Drive Awareness with Video Sequence Ads",
+      "summary": "Google Ads video ad sequence campaigns let advertisers build a planned narrative across multiple YouTube videos, moving viewers from brand introduction to reinforcement, differentiation, or action. Each step can use a different video format and transition based on whether viewers saw, watched, or skipped the previous ad. You can also test headlines, CTAs, and landing pages at each stage while using frequency caps to control exposure."
+    },
+    {
+      "url": "https://wondertools.substack.com/p/chatgpt-sites?utm_source=tldrmarketing",
+      "title": "ChatGPT Sites Is Surprisingly Good",
+      "summary": "ChatGPT Sites makes website creation possible without coding. Select Sites mode and describe the site to build. Add files or screenshots for context, then refine it with feedback. Create landing pages, guides, interactive tools, or games, and publish the finished site."
+    },
+    {
+      "url": "https://www.marketingdive.com/news/how-7-brews-first-cmo-is-marketing-the-fastest-growing-brand-in-the-us/829755/?utm_source=tldrmarketing",
+      "title": "How 7 Brew's first CMO is marketing the fastest-growing brand in the US",
+      "summary": "7 Brew's TikTok strategy runs on movie-parody videos tied to real brand moments, from a 2001 A Space Odyssey riff for its new app launch to earlier takes on Indiana Jones and Mean Girls, and has built a following of more than 685,000 with 7.5 million likes. The tactic works by riding cultural references fans already have affection for rather than manufacturing a campaign from scratch. That approach sits on top of a brand that already rates first in consumer satisfaction among US QSR chains, so the content amplifies existing goodwill instead of trying to create it."
+    },
+    {
+      "url": "https://www.021newsletter.com/p/dont-make-the-mistake-of-buying-attribution?utm_source=tldrmarketing",
+      "title": "Don't make the mistake of buying attribution too soon",
+      "summary": "Custom attribution is premature until a channel has proven it works and the marketing mix is genuinely difficult to measure. Attribution helps answer where to put the next dollar across multiple working channels, not which channel works in the first place. Test channels first, then fix tracking, standardize ROAS, and model conversion value before building an attribution model. Custom attribution can pay off above roughly $3M in annual paid media, but the right threshold depends more on the complexity of the channel mix than the budget itself."
+    },
+    {
+      "url": "https://www.thestateofbrand.com/news/chatgpt-ads-paid-ai-answers?utm_source=tldrmarketing",
+      "title": "Paid Is Now The Only Guaranteed Slot In An AI Answer",
+      "summary": "ChatGPT ads make paid placements a guaranteed AI answer surface, while earned citations remain unpredictable and harder for marketers to control."
+    },
+    {
+      "url": "https://searchenginewatch.com/google-people-also-ask-answers-are-now-nearly-100-ai-generated/?utm_source=tldrmarketing",
+      "title": "Google People Also Ask answers are now nearly 100% AI-generated",
+      "summary": "The text snippets that used to populate Google's People Also Ask boxes have been replaced by AI-written answers in 97% of cases."
+    },
+    {
+      "url": "https://startupgtm.substack.com/p/start-here-practical-ai-workflows?utm_source=tldrmarketing",
+      "title": "Practical AI workflows for founders and GTM teams",
+      "summary": "Build an ICP, give AI persistent business context that doesn't need to be re-explained every session, and audit content for risk reduction rather than just engagement."
+    }
+  ]
+}

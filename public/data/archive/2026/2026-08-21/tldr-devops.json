@@ -1,0 +1,73 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-08-21",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "http://www.devopsdigest.com/cncf-announces-kubeflow-graduation?utm_source=tldrdevops",
+      "title": "CNCF Announces Kubeflow Graduation",
+      "summary": "CNCF announced that Kubeflow, an open community-built ecosystem for standardizing data and AI workloads on Kubernetes, has graduated, confirming its technical maturity. The project now serves as an operational backbone for enterprises running AI training, fine-tuning, and inference in production, with nearly 260 million PyPI downloads."
+    },
+    {
+      "url": "https://blog.cloudflare.com/task-based-oauth-consent/?utm_source=tldrdevops",
+      "title": "From all-or-nothing to task-based OAuth consent",
+      "summary": "Cloudflare has added OAuth scope customization, letting users deselect optional permissions on the consent screen rather than facing an all-or-nothing choice. Client owners can now mark specific scopes as optional when configuring an OAuth app, and any access token generated after consent will only contain the scopes the user approved. Cloudflare says it plans to expand its account and zone-level role surface over the next few weeks to cover nearly every Cloudflare product, adding more API token roles, account membership options, and OAuth scopes."
+    },
+    {
+      "url": "https://bun.com/blog/bun-v1.4?utm_source=tldrdevops",
+      "title": "Bun 1.4",
+      "summary": "Bun 1.4 improves Node.js compatibility with more than 1,500 additional passing Node test cases while cutting idle CPU usage by up to 5×, reducing memory use by as much as 48% in some server workloads, and roughly doubling startup speed on Linux. The release also adds new built-ins including image processing, WebView, Markdown parsing, cron jobs, parallel test and script execution, package auditing, and deduplication, while continuing Bun's broader migration from Zig to Rust."
+    },
+    {
+      "url": "https://www.theregister.com/columnists/2026/08/17/code-fixers-have-fired-up-the-ai-warp-drive-strange-new-worlds-await/5287681?utm_source=tldrdevops",
+      "title": "Code fixers have fired up the AI warp drive. Strange new worlds await",
+      "summary": "AI is driving a surge in software vulnerabilities and security fixes as models uncover legacy bugs while generating new flawed code, creating competing pressures that may keep patch volumes elevated. The future could range from highly stable, rarely patched software to continuously changing applications where daily builds effectively replace traditional patching."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/engineering/gitretriever/?utm_source=tldrdevops",
+      "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
+      "summary": "Datadog built an internal Git mirror service called gitretriever to handle the scale of CI code fetches across its engineering infrastructure. The system now handles more than 100 million requests per week across roughly 5,500 repositories, and served over a billion Git requests and hundreds of terabytes of data in its first four months. Traffic grew about 20 times during that period while median serve latency held at around 40 milliseconds. Moving CI fetch traffic to gitretriever cut fetch-serving CPU on the previous backend by three to four times."
+    },
+    {
+      "url": "https://github.com/Tencent/AI-Infra-Guard?utm_source=tldrdevops",
+      "title": "AI-Infra-Guard (GitHub Repo)",
+      "summary": "Tencent Zhuque Lab has open-sourced AI-Infra-Guard (A.I.G), a red teaming platform for scanning AI infrastructure, MCP servers, agent skills, and testing large language models for jailbreak vulnerabilities."
+    },
+    {
+      "url": "https://github.com/agent-substrate/substrate?utm_source=tldrdevops",
+      "title": "substrate (GitHub Repo)",
+      "summary": "Agent Substrate delivers a performant, high-density runtime environment for large-scale agent deployments. The agent substrate control plane provides full lifecycle management for agent sandboxes, delivering sub-second agent resume/suspend operations, and allows heavy multiplexing of agents onto the same computer infrastructure."
+    },
+    {
+      "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/?utm_source=tldrdevops",
+      "title": "Announcing Rust 1.98.0",
+      "summary": "Rust 1.98 adds algebraic floating-point operations that let the compiler reorder calculations and enable broader vectorization, trading strict floating-point determinism for more optimization opportunities without introducing undefined behavior. The release also adds faster buffered integer formatting through format_into, which performs similarly to the popular itoa crate, and stabilizes a range of string, atomic, and numeric APIs."
+    },
+    {
+      "url": "https://octopus.com/blog/migrating-to-high-availability-fsi-success-story?utm_source=tldrdevops",
+      "title": "Migrating to High Availability - an FSI success story",
+      "summary": "A multinational financial services organization migrated from an outdated, stressed single Octopus Server to a five-node High Availability cluster through careful planning, staged testing, backups, and rollback checkpoints. The migration established a stable foundation and led to a regular six-month upgrade cadence with minimal support needs."
+    },
+    {
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/?utm_source=tldrdevops",
+      "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "summary": "Cloudflare researchers demonstrated a remote Spectre attack against its Workers production environment that reliably leaked up to 12 bits per second at 99% accuracy. The attack exploited a gap in Cloudflare's existing Dynamic Process Isolation defense, which only isolates suspicious scripts after an invocation ends, a delay attackers bypassed by keeping a single Durable Object invocation alive for hours via WebSocket messages. Cloudflare says no active exploitation was detected over the past three years. In response, the company has improved its isolation detection, integrated the V8 Sandbox, and deployed Memory Protection Keys to limit cross-isolate memory access within shared processes."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/two-ways-to-measure-cumulative-impact/?utm_source=tldrdevops",
+      "title": "Two ways to measure the cumulative impact of experiments",
+      "summary": "Summing individual experiment wins overstates their true combined effect on a business metric."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/ai-native-sast-detect-llm-vulnerabilities/?utm_source=tldrdevops",
+      "title": "Detect vulnerabilities in LLM applications with Datadog's AI-native SAST",
+      "summary": "Datadog has added AI-native static application security testing (SAST) to its Code Security product, with coverage for the OWASP Top 10 for LLM Applications."
+    },
+    {
+      "url": "https://www.docker.com/blog/make-zero-cves-your-new-default/?utm_source=tldrdevops",
+      "title": "Make zero CVEs your new default",
+      "summary": "Docker is expanding its software supply chain security platform with hardened images and packages, extended lifecycle support, customizable builds, Helm charts, MCP servers, and Scout policies."
+    }
+  ]
+}

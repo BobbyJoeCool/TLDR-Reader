@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-03",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets?utm_source=tldrit",
+      "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "summary": "Truffle Security Co. says it scanned 7.6 petabytes of public Hugging Face datasets and found 221,303 live, unique credentials across 6,003 datasets. The verified secrets included software supply-chain tokens, cloud credentials, database logins, communications keys, and AI-provider keys that the company says represent at least $920,000 in potential annual inference charges at default spending caps."
+    },
+    {
+      "url": "https://www.axios.com/2026/07/30/scale-ai-google-cloud-coo-francis-desouza?utm_source=tldrit",
+      "title": "Scale AI hires former Google Cloud COO as CEO",
+      "summary": "Scale AI appointed Francis deSouza as CEO as it expands beyond training data and evaluations into enterprise AI applications. The company expects its applications business to become larger than its original data operation within 18 months."
+    },
+    {
+      "url": "https://apnews.com/article/88b83cd517a4d47c115605e636d0b3e4?utm_source=tldrit",
+      "title": "EU plans seven AI gigafactories in $11.4B compute push",
+      "summary": "The EU plans to invest €10 billion in seven AI gigafactories, each designed to house at least 100,000 advanced chips. Officials hope the funding will attract another €20 billion privately and reduce Europe's reliance on foreign AI infrastructure."
+    },
+    {
+      "url": "https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=tldrit",
+      "title": "I'm (mostly) picking models on speed now, not intelligence",
+      "summary": "AI models have reached a sufficient intelligence level for many everyday tasks, making inference speed a more important factor in model choice. 100–200 tokens per second feels fast for human use, while tool calls and human oversight limit the benefits of faster models and intensifying competition may drive prices down."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4203054/most-corporate-it-is-off-premises-ai-is-reshaping-infrastructure-uptime-reports.html?utm_source=tldrit",
+      "title": "Most corporate IT now runs outside company-owned data centers",
+      "summary": "Companies now place 46% of their workloads with cloud and colocation providers, compared with 44% in their own data centers. AI is also making capacity planning harder while worsening staffing shortages and the cost of infrastructure failures."
+    },
+    {
+      "url": "https://github.com/Gyrus-Dev/frosty?utm_source=tldrit",
+      "title": "Gyrus-Dev/frosty: AI Agent for Snowflake (GitHub Repo)",
+      "summary": "Frosty is an open-source, self-hosted framework from Gyrus Inc that converts plain-English requests into Snowflake queries and administrative operations. The 153-agent system covers data engineering, security, governance, cost monitoring, and inspection, while its safety layer blocks DROP statements and requires approval for CREATE OR REPLACE operations. Users can run it locally with their Snowflake credentials and a supported language model."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/?utm_source=tldrit",
+      "title": "Meta sees an enterprise business beyond AI agents",
+      "summary": "Meta says it could sell businesses APIs, AI agents, compute capacity, and other enterprise services. The strategy could turn its enormous internal AI infrastructure investment into a new revenue stream beyond advertising."
+    },
+    {
+      "url": "https://back.engineering/blog/31/07/2026/?utm_source=tldrit",
+      "title": "Static Devirtualization of Tencent VM",
+      "summary": "Classic virtual-machine obfuscators remain vulnerable to flexible lifting, recompilation, and guided symbolic execution. A static devirtualization approach for Tencent VM obfuscation analyzes the VM dispatcher, boxed native instructions, and CET/SEH compatibility mechanisms to symbolically recover bytecode-driven control flow and virtualized loops."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/?utm_source=tldrit",
+      "title": "Uber is building an autonomous vehicle empire, and here's every company it's using to do it",
+      "summary": "Uber has partnered with or invested in more than 30 autonomous vehicle companies over the past two years, rebuilding an AV strategy focused on integrating outside technology and fleets globally. TechCrunch's tracker details deals involving robotaxis, autonomous trucks, sidewalk robots, drones, fleet operators and vehicle makers, including major investments in Aurora and Lucid."
+    },
+    {
+      "url": "https://postquantum.com/quantum-policies/eu-quantum-flagship-roadmaps/?utm_source=tldrit",
+      "title": "Europe Is Rewriting Its Quantum Roadmaps and Asking for Comments",
+      "summary": "The European Quantum Flagship has opened a public consultation on six draft technology roadmaps intended to guide the EU's quantum research, industry, and procurement priorities through 2035."
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/?utm_source=tldrit",
+      "title": "Google Cloud expands storage and networking for AI clusters",
+      "summary": "Google Cloud has made Managed Lustre generally available, with four performance tiers and support for up to 8 PB of storage."
+    }
+  ]
+}

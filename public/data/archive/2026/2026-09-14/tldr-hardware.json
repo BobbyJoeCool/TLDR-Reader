@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-09-14",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1?utm_source=tldrhardware",
+      "title": "Tesla sets October 1 unveiling for the long-delayed second-gen Roadster",
+      "summary": "Tesla posted \"Go for launch\" with a \"10.01\" graphic, pointing to an October 1 reveal of the second-generation Roadster, first announced back in November 2017 and delayed repeatedly since. The Information recently reported the original 2017 design has been scrapped entirely for a new, unrevealed one, and the teaser graphic hints at the promised SpaceX-developed cold gas thrusters meant to let the car briefly fly. Even after next month's unveiling, Musk has previously said the Roadster won't reach actual production for another 12 to 18 months."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/robert-friedland-on-the-world-s-monumental-shortage-of-copper-mty3hi1s?utm_source=tldrhardware",
+      "title": "Robert Friedland warns copper supply can't keep up with AI, EVs, and reindustrialization",
+      "summary": "Ivanhoe Mines founder Robert Friedland, on Bloomberg's Odd Lots podcast, argued the world isn't close to having enough copper for what's coming, with copper up 15% this year as demand from data centers, electric vehicles, and global reindustrialization compounds on top of the metal's already-tight supply. He framed US tariffs as a potential fix rather than just a cost, arguing that if a 30% tariff pushed copper from $6 to $7.80 a pound, domestic mining could again afford unionized US labor, pointing out that 10% of all copper ever mined came from Arizona before manufacturing and refining capacity was largely outsourced to China."
+    },
+    {
+      "url": "https://ane-guide.readthedocs.io/en/latest?utm_source=tldrhardware",
+      "title": "Georgia Tech researcher reverse-engineers Apple's Neural Engine from silicon to firmware",
+      "summary": "Every Apple chip since the A11 and M1 ships a Neural Engine that runs on-device AI across over 2.5 billion active devices, yet Apple has never published an instruction set, driver interface, or way to even confirm a computation ran on it. This guide bypasses Core ML entirely, reaching the ANE directly through the compiler, runtime, kernel driver, and firmware via a mix of live silicon measurement and static/dynamic reverse engineering, cross-checking both methods against each other."
+    },
+    {
+      "url": "https://en.sedaily.com/international/2026/09/12/amazon-bets-on-hollow-core-fiber-to-keep-a-million-chips-in?utm_source=tldrhardware",
+      "title": "Amazon Bets on Hollow Core Fiber to Keep a Million Chips in Sync",
+      "summary": "AWS is wiring AI data centers with hollow core fiber, an air-filled strand that moves light about 50% faster than glass and cuts latency roughly 30%. Amazon has already deployed it across more than 10 sites so million-chip clusters can stay synchronized as facilities spread out for power and land."
+    },
+    {
+      "url": "https://www.ionq.com/news/ionq-launches-superion-product-line-industry-leading-upgradeable-platform-designed-to-scale-manufacturable-fault-tolerant-quantum-computing?utm_source=tldrhardware",
+      "title": "IonQ debuts sixth-gen Superion QPU, moving qubit control onto the chip itself",
+      "summary": "IonQ unveiled its sixth-generation quantum computing platform, Superion 256, built around Electronic Qubit Control (EQC), integrating the control electronics directly onto CMOS silicon using standard high-volume semiconductor fabrication rather than the racks of external control electronics trapped-ion systems normally depend on. That integration is what shrinks the whole system down to fit in a standard server rack running on typical data center power and cooling, while significantly cutting cost-per-qubit."
+    },
+    {
+      "url": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm?utm_source=tldrhardware",
+      "title": "RPI and IBM propose REACH, a memory controller that cuts HBM error-correction overhead for LLM inference",
+      "summary": "Stronger HBM error correction usually means long-span codes that protect more efficiently, but coupling every small memory access to span-wide state and decoding at full HBM bandwidth is normally too costly to implement directly. REACH sidesteps that by exploiting a property specific to LLM decode workloads: reads are sequential, so they can be aggregated across a span cheaply, while writes are sparse, keeping parity-update traffic low. The controller uses standard inner codes to fix common errors and flag whichever chunks it can't resolve, then falls back to a long outer code reserved specifically for repairing those flagged erasures, avoiding the cost of running heavy decoding on every access."
+    },
+    {
+      "url": "https://dronexl.co/2026/09/11/zipline-drones-dive-for-speed-quieter?utm_source=tldrhardware",
+      "title": "Zipline's drones now dive for speed and climb to brake, no new hardware required",
+      "summary": "Zipline shipped a software update, \"Dynamic Flight Trajectories,\" that replaces its drones' flat climb-cruise-descend flight profile with a wave shape: climb while already moving, dip to build speed, deliver from altitude, then climb again to shed speed before landing, letting gravity do work the motors used to handle. The company reports the median mission got 48 seconds shorter, left 40.6 watt-hours more in the battery on landing, and brought the hottest hover motor home 8.9°C cooler, all from a firmware download to the existing fleet."
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/batteries/xai-massive-battery-memphis-data-center?utm_source=tldrhardware",
+      "title": "SpaceXAI quietly builds what may be the nation's largest grid battery at its Memphis site",
+      "summary": "Satellite imagery from July shows 720 Tesla Megapacks installed at SpaceXAI's Colossus 2 data center in Memphis, equating to roughly 2.8 gigawatt-hours and 720-1,400 megawatts depending on the exact model, with company and utility executives separately describing the completed system as 3.3 GWh or 2,000 MW of instant discharge, either of which would top the current largest US grid battery at California's Edwards & Sanborn plant."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute?utm_source=tldrhardware",
+      "title": "Microsoft plans to triple data center capacity to 38 gigawatts by 2032",
+      "summary": "Microsoft is planning to grow its global data center footprint from roughly 12 gigawatts today to more than 38 gigawatts by 2032."
+    },
+    {
+      "url": "https://nvlabs.github.io/Sana/Sol-Engine/Sol-H3-Spark?utm_source=tldrhardware",
+      "title": "Sol-H3: Speed-of-Light MiniMax-H3 on Single NVIDIA DGX Spark",
+      "summary": "NVIDIA Research's Sol-H3 pipeline turns a prompt into a 5-second 768p video with audio on one DGX Spark Blackwell in about 56 seconds end-to-end, roughly 6.7x faster than a quantized 4-step baseline."
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent?utm_source=tldrhardware",
+      "title": "Apple's A20 Pro shatters Geekbench 7 single-core record",
+      "summary": "Apple's A20 Pro set a Geekbench 7 single-thread record, beating desktop Intel Core i9 and AMD Ryzen 9 chips by up to 32%."
+    },
+    {
+      "url": "https://www.macobserver.com/news/macos-27-golden-gate-drops-intel-macs-rosetta/?utm_source=tldrhardware",
+      "title": "macOS 27 Golden Gate drops Intel Macs and Rosetta",
+      "summary": "macOS 27 ships Monday as Apple silicon only, so Intel Macs are locked out of the free update for the first time."
+    },
+    {
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/fujitsu-to-export-ai-chips-built-on-supercomputer-tech-to-us-asia?utm_source=tldrhardware",
+      "title": "Fujitsu to export AI chips built on supercomputer tech to US, Asia",
+      "summary": "Fujitsu will export Monaka, its 2nm CPU built on Fugaku supercomputer technology and manufactured by TSMC, to the US and Asia starting in 2027."
+    }
+  ]
+}

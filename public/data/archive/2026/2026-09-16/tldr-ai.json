@@ -1,0 +1,83 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-09-16",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://periodic.com/news/nature-is-our-learning-environment?utm_source=tldrai",
+      "title": "Nature Is Our Learning Environment",
+      "summary": "Periodic Neon outperforms GPT-6 Astra and Claude Fable 5.1 at lower cost on a highly challenging evaluation for scientific analysis. Neon is now deployed in labs to analyze experiments for better superconductors and magnets. The model establishes a Pareto-optimal cost-performance frontier through midtraining and reinforcement learning on lab data. Periodic Neon surpasses frontier models on FrontierXRD at a lower cost per analysis."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/?utm_source=tldrai",
+      "title": "Gemini 3.8 Live and 3.5 Transcribe",
+      "summary": "Google released Gemini 3.8 Live and Gemini 3.5 Transcribe for developing real-time voice applications. These tools offer enhanced features for voice recognition, transcription, and live interaction capabilities. They aim to improve accuracy and user experiences in voice-driven applications."
+    },
+    {
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev?utm_source=tldrai",
+      "title": "Introducing System One Models & Jev",
+      "summary": "Jev is a System One Model that achieves similar levels of intelligence on System One tasks compared to existing large language models while being two orders of magnitude faster and more efficient. System One Models are a new class of frontier models built to make fast, structured decisions that software can use directly. Jev is optimized for structured outputs and can not hallucinate. It is now available in early access."
+    },
+    {
+      "url": "https://suganthan.com/blog/x402-pay-per-crawl/?utm_source=tldrai",
+      "title": "I made my website charge AI agents a penny per page. Then I watched Claude pay it",
+      "summary": "This developer has been testing an approach to charging AI agents for using their content. Their page sets a price through the x402 protocol before an agent reads it. If the agent wants access, it pays. While the developer has yet to receive any real payments, testing shows the system works, so it's worth looking into if you own content and aren't big enough to negotiate fair licensing deals."
+    },
+    {
+      "url": "https://mnoukhov.github.io/posts/ngu/?utm_source=tldrai",
+      "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up",
+      "summary": "Standard RL results in disproportionately poor performance on the hardest problems. Simple scalar values may not be sufficient for accurate evaluations of large language models. This paper proposes a solution that reduces the compute spent on easy problems, which reallocates it towards harder problems. The solution appears to show substantial improvements on difficult tasks."
+    },
+    {
+      "url": "https://github.com/enactic/OpenArm?utm_source=tldrai",
+      "title": "OpenArm (GitHub Repo)",
+      "summary": "Provides an open-source humanoid arm for teleoperation, imitation learning, and physical AI research."
+    },
+    {
+      "url": "https://paperswithcode.co/paper/2609.14858?utm_source=tldrai",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "summary": "Progress in recursive self-improvement hinges on effective exploration. Accumulated discovery history can serve as a replay simulator over a realized search space. Dream-RSI closes a self-improvement loop at the exploration layer. It continuously collects discovery histories through online exploration, constructs replay simulators from them to refine meta-exploration strategies via dreaming, and redeploys the upgraded policy online. Dream-RSI improves both discovery effectiveness and efficiency in several settings."
+    },
+    {
+      "url": "https://x.com/ProfBuehlerMIT/status/2099834306046664792?utm_source=tldrai",
+      "title": "Recursive Meta-Intelligence",
+      "summary": "Recursive scientific AI can build executable worlds, populate them with agent swarms, and compress thousands of simulated trajectories into human-usable principles. In metamaterials, this revealed how architecture can program failure pathways, improving resilience through load redistribution and controlled collapse."
+    },
+    {
+      "url": "https://odyssey.systems/introducing-odyssey-3?utm_source=tldrai",
+      "title": "Introducing Odyssey-3: A General-Purpose Physical Intelligence",
+      "summary": "Odyssey-3 is a foundation world model with an autoregressive diffusion transformer trained to simulate highly diverse scenarios. The model is capable of controlling robots, powering humanoids, driving vehicles, piloting drones, training AIs, and playing video games. It has a learned understanding of physics, dynamics, cause-and-effect, human behaviors, and other concepts that make up reality. The model will enable physical agents that can interface natively with physical and virtual systems."
+    },
+    {
+      "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/?utm_source=tldrai",
+      "title": "Introducing Meta One",
+      "summary": "Meta One is a subscription service that offers enhanced AI and self-expression features across Instagram, Facebook, and WhatsApp. It includes single product plans as well as bundled offerings that combine features for individuals, creators, and businesses, starting at $2.99/month."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/?utm_source=tldrai",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "summary": "The Artificial Intelligence Underwriting Company (AIUC) hopes to bring AI safety to enterprises and companies building AI models and agents. It has built a third-party audit and certification layer for AI agents designed to give enterprises an independent assessment of how safe their AI agents are. Its tests show where companies can trust their agents and where there are concerns, allowing them to be more informed before making decisions. AIUC uses AI agents to run the tests and AI to analyze the data, but humans verify the final audit."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/?utm_source=tldrai",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+      "summary": "Relay, an AI workflow tool, shut down due to competition from larger companies integrating similar features."
+    },
+    {
+      "url": "https://g5labs.ai/press?utm_source=tldrai",
+      "title": "Programming is dead. Engineering is thriving",
+      "summary": "G5 Labs, an MIT CSAIL spinout, raised $14 million to develop a platform where natural language, structured as intent graphs, serves as the source code."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099871107226669391.html?utm_source=tldrai",
+      "title": "Noam Brown (@polynoamial) gave a very interesting interview on The Information on OpenAI's priorities and what comes next",
+      "summary": "OpenAI's clear priority is recursive self-improvement, and AI could surpass even Brown's own research intuition within one or two model releases from now."
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency?utm_source=tldrai",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "ALTK-Evolve introduces Consistency Guidelines to address the inconsistency gap, where a model's task success rate drops significantly across repeated runs."
+    }
+  ]
+}

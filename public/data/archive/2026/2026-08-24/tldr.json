@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-08-24",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzU0NjUzMCwiZXhwIjoxNzg4MTUxMzMwLCJhcnRpY2xlSWQiOiJUSzg2VzFLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.rmU0l-vsfqB1e_xHJXLMJlfTI2xaYwMnV5cFszphzek&utm_source=tldrnewsletter",
+      "title": "Apple's Foldable iPhone Will Help Bring Some Magic Back",
+      "summary": "Apple is set to introduce its foldable iPhone at a launch event on or around September 9. Samsung has stolen some of the thunder from the launch by introducing a similar design, but that just reinforces that the new form factor is a winner. Apple's device reportedly excels as a camera viewfinder, but it lacks a telephoto camera, which could be an issue for early adopters spending over $2,000. The design also relies on Touch ID rather than Face ID."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzU0NjUyMiwiZXhwIjoxNzg4MTUxMzIyLCJhcnRpY2xlSWQiOiJUSzZIQURLSUpIOFIwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.Wc6ZwJbx9gkhHWTcHlu7y-AsKUlMS3ChmCSkeSRqGu8&utm_source=tldrnewsletter",
+      "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+      "summary": "Some of Nvidia's biggest customers have been told that the price of the AI servers containing its flagship Vera Rubin and Grace Blackwell chips is going up by more than 15% due to the soaring costs of memory chips. The price hikes will go into effect early next year. The increases will depend on the generation of Nvidia chips and the memory configurations. Nvidia has also raised prices for its gaming-oriented PC graphics cards."
+    },
+    {
+      "url": "https://www.wsj.com/business/autos/amazons-toaster-shaped-robotaxis-are-hitting-the-road-111c7b90?st=zjrsPc&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Amazon's Toaster-Shaped Robotaxis Are Hitting the Road",
+      "summary": "Amazon's all-electric toaster-shaped Zoox taxis are the first robotaxis offering rides on the roads without standard driver features like a dashboard or pedals. They can drive in either direction and hold up to four passengers sitting facing each other. Amazon has started rolling out the vehicles across San Francisco and Las Vegas. Tesla's Cybercab lacks a steering wheel and pedals, but it has not received the same regulatory approval as Zoox to begin offering rides to the public."
+    },
+    {
+      "url": "https://apnews.com/article/china-humanoid-robot-games-us-86cb8e310843151a77057e4cb764b4e2?utm_source=tldrnewsletter",
+      "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
+      "summary": "The opening day of the World Humanoid Robot Games in Beijing on Saturday saw Chinese humanoid robots break records set by humans, including Usain Bolt's 100-meter sprint world record. More than 2,000 humanoid robots participated in the event. There were 51 events and more than 1,000 competitions, including running, table tennis, and soccer. While the games showcased humanoid robots' rapidly evolving abilities, experts say it will still take time to achieve mass real-world deployment and that these robots are mostly still used for demonstrations, performances, and research."
+    },
+    {
+      "url": "https://danluu.com/perf-opt/?utm_source=tldrnewsletter",
+      "title": "There's no reason for software to be slow anymore",
+      "summary": "A lot of the tedium it used to take to get a tricky optimization working is now gone. Many optimizations that were previously too risky to try make sense to try out now. AI drastically reduces the cost of optimization. It can turn days or weeks of work into a trivial loop."
+    },
+    {
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/?utm_source=tldrnewsletter",
+      "title": "The New MCP Roadmap",
+      "summary": "The updated roadmap for the Model Context Protocol (MCP) sets the direction for protocol work over the coming months. It is organized into five priority areas: agentic messaging primitives, HTTP-native transport unification and hardening, agent identity and enterprise-ready security, improved primitives, and improved SDK developer experience. Specification Enhancement Proposals that fall within these priority areas get expedited review and have the best chance of acceptance."
+    },
+    {
+      "url": "https://www.upstartsmedia.com/p/column-tech-twitter-is-too-online?utm_source=tldrnewsletter",
+      "title": "‘Maybe I'm Psycho': Why Tech Founders And VCs Are So Online",
+      "summary": "New news is coming out so fast that it seems crazy for a founder not to be fully plugged in. Being online can help build a presence and keep people as informed as possible. Posting frequently can help drive inbound interest. Tech Twitter can provide a view of emerging consensus, but few immediately actionable insights. It's important to actively maintain cognitive security and cognitive hygiene, as spending too much time online can be dangerous."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?utm_source=tldrnewsletter",
+      "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot. Click here to learn more!"
+    },
+    {
+      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html?utm_source=tldrnewsletter",
+      "title": "Fable & The End of the Free Lunch",
+      "summary": "When Moore's Law was in full effect, it didn't make sense to ruthlessly optimize code, as a new CPU would arrive in 18 months that would double performance. Developers only started to have to think about parallelization, architecture, memory locality, etc, after Moore's Law started slowing down in the mid-2000s. Prior to Fable, it felt like a waste to spend too much time improving coding harnesses or context strategies, as a new model would arrive at the same price or cheaper in just a few months that would cover most of the problem. Fable is incredible, but the cost is so high that developers are now starting to think about what work should go where and optimizing their harnesses to provide weaker models with sufficient context to perform well."
+    },
+    {
+      "url": "https://fabiensanglard.net/agent.md/index.html?utm_source=tldrnewsletter",
+      "title": "An agent.md to improve LLM-assisted code quality",
+      "summary": "A good coding harness can help improve code quality dramatically."
+    },
+    {
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/?utm_source=tldrnewsletter",
+      "title": "The asteroid currently hitting frontend web development",
+      "summary": "The front end is less risky to just hand to an agent, so many AI coders will feel comfortable just letting their agents handle it unsupervised."
+    },
+    {
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/?utm_source=tldrnewsletter",
+      "title": "How I Find Problems to Solve as a Staff Engineer",
+      "summary": "Finding problems comes from staying engaged with people's work long enough to see what no single request can show you."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc?st=LEwMmM&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Nvidia Is Spending $6 Billion to Build a Powerful US Alternative to Chinese AI",
+      "summary": "Nvidia will invest $1 billion in AI startup Poolside at a pre-money valuation of $12 billion and will pay $6 billion to license Poolside's technology and hire the bulk of its engineers."
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/?utm_source=tldrnewsletter",
+      "title": "Fast and Hard Code",
+      "summary": "AI enables developers to pick less common languages and work with much harder technologies."
+    },
+    {
+      "url": "https://jaechung.net/writings/starting-a-quant-trading-firm/?utm_source=tldrnewsletter",
+      "title": "Starting a quantitative trading firm with 0 experience",
+      "summary": "Table/game selection is just as important as execution, especially in markets."
+    }
+  ]
+}

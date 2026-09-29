@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-08-26",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/?utm_source=tldrdesign",
+      "title": "Apple Stores Preparing 'Significant' Changes for New Home Product Launches",
+      "summary": "Apple is reportedly preparing significant retail changes this fall, including rearranged sections and new accessory bays, ahead of upcoming Home product launches. A refreshed HomePod mini and Apple TV 4K are expected, and the scale of the changes suggests the rumored home hub with a display is coming too."
+    },
+    {
+      "url": "https://webflow.com/blog/webflow-is-now-available-in-codex-and-chatgpt?utm_source=tldrdesign",
+      "title": "Webflow is Now Available in Codex and ChatGPT",
+      "summary": "Webflow is now available in Codex alongside built-in Skills for both ChatGPT and Codex that automate common Webflow workflows. The Skills package tools, context, and best practices so users describe an outcome rather than choosing APIs or prompt sequences. Access is currently free and does not consume AI credits."
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/?utm_source=tldrdesign",
+      "title": "ChatGPT now lets users create custom iMessage and WhatsApp stickers",
+      "summary": "ChatGPT can now create custom sticker packs from photos or text prompts, allowing users to generate, remix, and edit stickers with transparent backgrounds before exporting them directly to iMessage or WhatsApp. Users can also apply styles from reference images, remove or add elements, and save stickers to their photo library. Once created, stickers can be added to supported chat apps with a single tap, making it easier to turn photos, ideas, or inside jokes into shareable sticker packs."
+    },
+    {
+      "url": "https://raw.studio/blog/card-sorting-and-tree-testing/?utm_source=tldrdesign",
+      "title": "Card Sorting and Tree Testing: Getting Your Information Architecture Right",
+      "summary": "Card sorting and tree testing are two UX research methods for building and validating information architecture using observed user behavior. Card sorting reveals how people naturally group and label content, while tree testing checks whether they can find things in a proposed structure. Run in sequence, they turn navigation decisions into evidence rather than internal debate."
+    },
+    {
+      "url": "https://www.viget.com/articles/building-may-be-cheap-now-being-wrong-still-isnt?utm_source=tldrdesign",
+      "title": "Building May Be Cheap Now. Being Wrong Still Isn't",
+      "summary": "AI has collapsed the cost of building software but left the cost of being wrong untouched, making knowing what to build the constraint. Discovery research answers whether something should exist at all, a question experiments and rapid prototyping are not built to address. Use discovery when uncertain about the problem and prototyping when uncertain about the solution."
+    },
+    {
+      "url": "https://www.itsnicethat.com/articles/pov-no-shortcuts-why-ai-threatens-creative-instinct-creative-industry-240826?utm_source=tldrdesign",
+      "title": "No shortcuts: why AI threatens creative instinct",
+      "summary": "As AI takes on more of the execution and ideation involved in creative work, the most valuable skill for designers is shifting from technical proficiency to judgment—the ability to make thoughtful, informed decisions about what should be created and why. While new tools have always changed creative practice, AI differs in its ability to generate complete outputs with minimal human involvement, making it easier to bypass the learning experiences that traditionally helped designers develop taste and critical thinking. The challenge for educators, practitioners, and organizations is to use AI as a tool for augmentation rather than replacement, preserving human creativity, agency, and decision-making while addressing broader concerns around labor, ownership, and ethics."
+    },
+    {
+      "url": "https://limora.ai/?utm_source=tldrdesign",
+      "title": "On-Brand Assets, Generated in Minutes (Website)",
+      "summary": "The only AI tool built specifically for the brand assets designers actually need. Upload your logo, colors, fonts, and direction once, and Limora learns your style for every asset."
+    },
+    {
+      "url": "https://blokdots.com/?utm_source=tldrdesign",
+      "title": "The Hardware Prototyping Tool for Designers (Website)",
+      "summary": "Build interactive prototypes with physical components — no code or setup required. Explore, define, and export your hardware prototypes, all in one app."
+    },
+    {
+      "url": "https://grainient.supply/?utm_source=tldrdesign",
+      "title": "Unlimited Gradients, Animated Gradients and AI-Generated Backgrounds (Website)",
+      "summary": "Grainient combines grainy and smooth gradients, animated gradients, AI backgrounds, and a shader tool to help you design interfaces that move, engage, and convert."
+    },
+    {
+      "url": "https://www.itsnicethat.com/features/teddy-blanks-chips-film-title-typography-graphic-design-spotlight-240826?utm_source=tldrdesign",
+      "title": "From Barbie logos to medieval manuscripts: step inside Teddy Blanks' film title design process",
+      "summary": "Teddy Blanks, co-founder of Chips, has built a career designing film titles for directors like Lena Dunham, Greta Gerwig, Robert Eggers, and David Lowery, treating title sequences less as branding systems and more as emotional moments that serve the story. His work often involves deep historical and visual research—from reconstructing vintage Barbie logos and fonts for Barbie to studying medieval manuscripts for Werwulf—but he sees titles as a subtle craft whose value lies in how they feel in a specific cinematic moment rather than in being noticed. For Blanks, successful title design is about creating atmosphere, meaning, and connection, even when the audience never consciously recognizes the work behind it."
+    },
+    {
+      "url": "https://blog.logrocket.com/ux-design/ai-ui-placement/?utm_source=tldrdesign",
+      "title": "Where Should AI Go in Your UI? A UX Guide to AI Feature Placement",
+      "summary": "Placement shapes how users perceive and adopt AI features, and the question is not only where AI sits but how prominently. Common patterns include floating widgets, toolbars and action bars, sidebars, dedicated hubs, and inline triggers, each signaling something different. Five questions — centrality, user expectations, frequency, scope, and whether a menu would do — guide the choice."
+    },
+    {
+      "url": "https://www.designweek.co.uk/onemays-surreal-visual-identity-for-sam-kerrs-wawa-sparkling-water/?utm_source=tldrdesign",
+      "title": "OneMay's surreal visual identity for Sam Kerr's WAWA sparkling water",
+      "summary": "OneMay developed the brand identity for WAWA, a sparkling water brand aiming to make healthy beverages feel exciting rather than restrictive. Built around the concept “Water With Aura,” the identity uses a playful wordmark, vibrant color palettes, and surreal collage-style illustrations to give each flavor its own personality and emotional appeal. Designed to stand out in a category dominated by minimalist health cues, the flexible system extends across packaging, digital content, merchandise, and advertising, positioning sparkling water as a product people actively choose rather than settle for."
+    },
+    {
+      "url": "https://lea.verou.me/blog/2026/dark-mode-toggles/?utm_source=tldrdesign",
+      "title": "Dark Mode Toggles: Two States Are Enough",
+      "summary": "A two-state dark mode toggle can express all three underlying states, making the common tri-state control unnecessary UI complexity."
+    },
+    {
+      "url": "https://www.dezeen.com/2026/08/25/digital-camouflage-shirt-ai-video-surveillance-simon-weckert/?utm_source=tldrdesign",
+      "title": "Simon Weckert creates Digital Camouflage shirt to avoid AI video surveillance",
+      "summary": "Designer Simon Weckert created a colorful AI-generated camouflage shirt that exploits weaknesses in computer vision systems, making the wearer harder for AI surveillance cameras to recognize as a person."
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/replacing-creative-jobs-with-ai-could-have-a-hidden-cost-new-report-warns?utm_source=tldrdesign",
+      "title": "Replacing Creative Jobs with AI Could Have a Hidden Cost, a New Report Warns",
+      "summary": "A D&AD report warns that replacing entry-level creative jobs with AI removes the training ground where future creative leaders build judgment."
+    }
+  ]
+}

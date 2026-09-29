@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-09-25",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-pod-snapshots/?utm_source=tldrdevops",
+      "title": "Scale your AI workloads faster and more efficiently with GKE Pod snapshots",
+      "summary": "Google Kubernetes Engine adds Pod snapshots, capturing a workload's running CPU and GPU memory state to restore it on demand, cutting AI inference startup by up to 89 percent and loading a 70B parameter model in 37 seconds. Codeway's Retake cut startup to eight seconds using the feature."
+    },
+    {
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6?utm_source=tldrdevops",
+      "title": "Better prompt caching for GPT-6",
+      "summary": "OpenAI launched an improved prompt caching system for the GPT-6 family that delivers higher cache hit rates by default. Developers get discounts of up to 90% on cached input tokens when the system reuses shared prefixes within a 30-minute window. New tools include a Prompt Caching Dashboard to track hit rates and a diagnostics tool to investigate unexpected misses. Developers can also prewarm the cache to reduce latency or adjust reasoning effort between responses without breaking cache."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/09/cloudflare-adlc-agents/?utm_source=tldrdevops",
+      "title": "Cloudflare Introduces the Agent Development Stack Lifecycle to Replace Traditional SDLC",
+      "summary": "Cloudflare introduced an Agent Development Lifecycle to replace traditional software pipelines with autonomous, event-driven systems for AI coding agents, built on its Workflows product and a new @cloudflare/ci tool. It adds OpenTelemetry-based observability and an Agent Access Model that issues short-lived, capability-limited credentials to prevent lateral movement."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/ai/investigate-production-alerts/?utm_source=tldrdevops",
+      "title": "Teaching a 9B model to investigate production alerts",
+      "summary": "Datadog fine-tuned Qwen3.5-9B on traces from a larger teacher model to automate change attribution during incident investigations. The specialized student model achieved 87% of the teacher's recall while reducing inference costs by roughly 20 times to $0.003 per investigation. A single 40 GB A100 GPU can support approximately 100,000 of these investigations per week."
+    },
+    {
+      "url": "https://techworkersinquiry.org/ai/?utm_source=tldrdevops",
+      "title": "AI Now: Tech Workers Inquiry",
+      "summary": "AI systems increasingly depend on hidden layers of human labor, including data labeling, content moderation, model evaluation, and other forms of contract work that shape how models behave. Making those labor relationships visible helps explain where AI systems get their capabilities, how failures are caught, and which costs are shifted onto workers outside the companies building the models."
+    },
+    {
+      "url": "https://github.com/NVIDIA/Model-Optimizer?utm_source=tldrdevops",
+      "title": "Model Optimizer (GitHub Repo)",
+      "summary": "NVIDIA has open sourced its Model Optimizer library, which offers techniques like quantization, pruning, and distillation to accelerate deep learning models. The tool supports inputs from Hugging Face, PyTorch, or ONNX and exports optimized checkpoints for deployment frameworks like TensorRT-LLM and vLLM. Users can install the stable release via PyPI or use NVIDIA container images with the software pre-installed."
+    },
+    {
+      "url": "https://github.com/strands-agents/harness-sdk?utm_source=tldrdevops",
+      "title": "Harness-sdk (GitHub Repo)",
+      "summary": "Strands Agents is a new open-source SDK for building AI agents in Python and TypeScript. It offers a \"harness\" with benchmarked defaults for models and memory, or developers can use the underlying SDK to write their own agent loops. The toolkit includes support for tools, structured output, and model providers such as Amazon Bedrock, Anthropic, and OpenAI."
+    },
+    {
+      "url": "https://www.docker.com/blog/docker-sandbox-kit-spec/?utm_source=tldrdevops",
+      "title": "Docker Sandbox Kit Spec: Authority as Code",
+      "summary": "The Docker Sandbox Kit Specification v3 defines how to package an agent's permissions and dependencies as an ordinary OCI image. The format specifies network rules, credentials, and volumes, allowing developer tooling to scan, sign, and diff agent authority changes. Docker Sandboxes is the first conforming runtime for the open source specification."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/?utm_source=tldrdevops",
+      "title": "Global AI routing with &lt;1% overhead on multi-cluster GKE Inference Gateway",
+      "summary": "Google's multi-cluster GKE Inference Gateway pools globally distributed accelerator capacity behind a single endpoint, routing LLM traffic based on live KV-cache utilization rather than round-robin. A 17,000-node benchmark across three regions showed near-linear throughput scaling with less than 1 percent routing overhead and a 99.9 percent success rate."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/?utm_source=tldrdevops",
+      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+      "summary": "Amazon CloudWatch Omni is a unified observability experience for application and AI workloads."
+    },
+    {
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/?utm_source=tldrdevops",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "summary": "Google is adding a persistent, encrypted memory layer to its Private AI Compute platform, letting AI assistants retain context across devices while keeping data unlockable only with device-held keys."
+    },
+    {
+      "url": "https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard?utm_source=tldrdevops",
+      "title": "ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns",
+      "summary": "SemiAnalysis's ClusterMAX 3.0 report rates 77 GPU cloud providers out of 323 tracked, drawing on over 200 customer interviews and testing across audit, performance, and reliability phases."
+    }
+  ]
+}

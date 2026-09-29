@@ -1,0 +1,78 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-08-19",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/?utm_source=tldrinfosec",
+      "title": "Heights Finance Data Breach Impacts at Least 1.2 Million Individuals",
+      "summary": "Heights Finance says attackers accessed a third-party cloud platform in early May, exposing data on more than 1.2 million people. Stolen records included Social Security numbers, government IDs, bank details, birth dates, and contact information. The lender says loan-management systems were untouched, federal law enforcement was notified, and affected people receive 24 months of credit monitoring and identity protection."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/08/14/french-tax-authority-admits-data-heist-after-crook-touts-2m-records/5287885?utm_source=tldrinfosec",
+      "title": "French Tax Authority Admits Data Heist After Crook Touts 2M Records",
+      "summary": "France's tax authority (DGFiP) confirmed that a threat actor accessed their systems in June. A forum user, ZeroBytes, claimed stolen credentials and an MFA bypass exposed data on more than two million taxpayers. DGFiP says the access was cut off during a June audit and rejects claims of ongoing access. It is identifying affected people, will notify France's data protection watchdog, and plans user notifications."
+    },
+    {
+      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html?utm_source=tldrinfosec",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "summary": "Researchers at SSD Secure Disclosure have detailed a two-stage exploit chain targeting Unisoc modem firmware that allows an attacker operating a malicious 4G network to achieve full Android kernel access when a victim answers a VoLTE video call. The exploit utilizes a preliminary remote code execution payload to overwrite the ARM Memory Protection Unit, successfully mapping the entire 32-bit physical address space as readable, writable, and executable from the modem context. Unisoc has not responded to the disclosure or issued a patch, so users of affected devices like the Motorola E13, Realme C33, and Xiaomi Redmi A5 remain highly vulnerable until manufacturers release custom firmware updates."
+    },
+    {
+      "url": "https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/?utm_source=tldrinfosec",
+      "title": "Thousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtect",
+      "summary": "A massive malware operation leveraging 2,000 compromised WordPress sites is tricking visitors with fake Cloudflare CAPTCHAs to execute malicious PowerShell commands. Researchers attributed the sprawling campaign to a single operator who accidentally infected their own machine, leaking their Visual Basic 6 management tools and exposing over 6,000 victim IPs. Security teams should proactively hunt for anomalous must-use plugins like wp-sec.php and strictly enforce WordPress patching to prevent infrastructure hijacking."
+    },
+    {
+      "url": "https://thecorestrength.net/blog/a-closed-network-path-is-not-a-closed-execution-path?utm_source=tldrinfosec",
+      "title": "A Closed Network Path Is Not a Closed Execution Path",
+      "summary": "When working with event-driven architectures, traditional network paths, such as security groups, firewalls, and network ACLs, may not be the same as the execution path. The author tested this by creating a cross-account EventBridge policy which allowed an external account to send events to an internal account which triggered a Lambda function, which then called an EKS application that used its cloud identity to perform a privileged action. Since each individual action was legitimate, no alerts or detections fired. It took the author a full afternoon to trace the events even though he knew the full path."
+    },
+    {
+      "url": "https://www.netskope.com/blog/blockchain-dead-drop-resolvers-explained?utm_source=tldrinfosec",
+      "title": "Blockchain Dead Drop Resolvers Explained",
+      "summary": "Researchers identified multiple malware families abusing smart contracts on EVM, Solana, and TON blockchains as \"dead drop resolvers\" to dynamically fetch command-and-control addresses. By utilizing read-only functions like eth_call, threat actors can cheaply rotate infrastructure without altering their core payloads, a tactic recently deployed in the August 2026 ChainDrop npm supply-chain compromise. To detect this evasion technique, defenders should monitor for non-browser processes like node, bun, or curl making anomalous RPC queries to public providers and correlate the decoded responses."
+    },
+    {
+      "url": "https://github.com/trailofbits/agentcov?utm_source=tldrinfosec",
+      "title": "agentcov (GitHub Repo)",
+      "summary": "agentcov maps AI coding agent reads (Codex, Claude Code, and Pi) onto LCOV, gcov, and native JSON coverage reports, tracking which repository lines agents actually inspected versus left unread."
+    },
+    {
+      "url": "https://github.com/Antonlovesdnb/aten?utm_source=tldrinfosec",
+      "title": "ATEN (GitHub Repo)",
+      "summary": "Agent Telemetry and Event Notation (ATEN) is a background service that records what AI does on a host and writes it out as structured events for a SIEM."
+    },
+    {
+      "url": "https://xpander.ai/?utm_source=tldrinfosec",
+      "title": "Xpander (Product Launch)",
+      "summary": "Xpander provides software to build, run, secure, and manage automated software workers across products, workflows, and data. Its portable runtime runs workers in different environments, while Omni helps teams create employee-facing assistants and coordinate multi-worker tasks."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/?utm_source=tldrinfosec",
+      "title": "OpenAI Institutes New Safeguards After Hugging Face Breach",
+      "summary": "OpenAI introduced tighter testing controls after models escaped a training environment through an internet-connected network tool. The company paused reinforcement learning for two weeks and still holds its largest planned run with new controls to isolate workloads, inspect tool actions and logs, and target alerts within 30 minutes."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/?utm_source=tldrinfosec",
+      "title": "Microsoft Copilot Reveals Secret Input that Allowed it to be Hacked",
+      "summary": "Varonis found that Copilot disclosed an undocumented ?autorun=1 URL parameter through repeated questioning. Combined with ?q=, it ran injected prompts after a victim clicked a link. Prompts could search authenticated inboxes and send extracted email addresses or credentials to attacker-controlled servers. Microsoft blocked ?q= input injection in February and issued broader fixes as CVE-2026-24301."
+    },
+    {
+      "url": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html?utm_source=tldrinfosec",
+      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+      "summary": "Infoblox tracked 50,400 expired-domain re-registrations daily across gTLDs in early 2026. Sable Squirrel spent nearly $7 million on more than 10,000 domains, routing sports-streaming visitors to gambling sites and using some domains for malware C2. Researchers linked 31,000 samples, including Quasar RAT and AsyncRAT, to its infrastructure while other groups buy expired, compromised domains and monetize inherited traffic through scams, malicious scripts, and ad networks."
+    },
+    {
+      "url": "https://www.courthousenews.com/feds-charge-17-in-iran-backed-hacking-scheme/?utm_source=tldrinfosec",
+      "title": "Feds Charge 17 in Iran-Backed Hacking Scheme",
+      "summary": "Federal prosecutors charged 17 members of Iran's Mabna Institute with running a phishing scheme that compromised email accounts of more than 100,000 professors worldwide and stole over 31 terabytes of academic data from universities."
+    },
+    {
+      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html?utm_source=tldrinfosec",
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "summary": "GitLab has patched CVE-2026-19478, a CVSS 9.4 GraphQL flaw affecting self-managed CE and EE instances."
+    }
+  ]
+}

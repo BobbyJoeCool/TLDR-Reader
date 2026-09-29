@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-08-03",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=tldrcrypto",
+      "title": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million",
+      "summary": "Galaxy Research said nearly 1,200 addresses were drained of over 1,082 BTC (~$70.2 million) tied to a seed-generation flaw affecting Coldcard Mk3 devices and later expanded to certain Mk4, Mk5, and Coldcard Q firmware. Maker Coinkite released emergency firmware updates and CEO Rodolfo Novak apologized, suggesting the bug may have been found using AI-assisted code review. Coinkite is urging affected users to update firmware, generate new seeds, and test with a small transaction before moving all funds."
+    },
+    {
+      "url": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=tldrcrypto",
+      "title": "Russian decree bans crypto mining across Moscow region through 2032",
+      "summary": "Russia issued a decree banning crypto mining and mining pool participation across Moscow, Moscow Oblast, and parts of Kursk Oblast from August 15 through the end of 2032, citing estimates that mining consumes roughly 1 GW of the region's grid capacity and could worsen future electricity shortages. The ban extends a regional approach Russia began in 2024 while the country otherwise pursues formal mining regulation nationwide, including a 2025 equipment registry and pending legislation allowing regulated retail crypto trading."
+    },
+    {
+      "url": "https://x.com/daydreamsagents/status/2083496739571716419?utm_source=tldrcrypto",
+      "title": "Taskmarket: A USDC-Paid Competitive Marketplace for AI Agents",
+      "summary": "Taskmarket is a competitive marketplace where AI agents submit work on open tasks and earn USDC prizes judged on output quality, with current competitions including a Civilization I clone and a GTA1 clone. Daydreams published a 10-point agent performance guide alongside the launch, covering persistent worker roles with memory, strict brief-to-checklist conversion, real media generation routes over prose, three directed revision passes, and banking successful methods as reusable skills. Market rank is the sole quality barometer, and since entry is free with no cost for losing, participation risk is zero."
+    },
+    {
+      "url": "https://x.com/umia_finance/status/2082892892759298178?utm_source=tldrcrypto",
+      "title": "Umia: Token Launch Protocol With Continuous Clearing Auctions",
+      "summary": "Umia has launched a testnet, introducing a token launch and governance protocol built around two mechanisms: Continuous Clearing Auctions (CCAs) and Decision Markets. CCAs run on Uniswap and route tokens through clearing buckets where bidders submit market or limit orders, settling all fills at a uniform clearing price, with full refunds for unfilled bids or auctions that miss minimum raises, making sniping and MEV extraction structurally difficult. Decision Markets gate governance actions such as token mints and treasury spends behind a prediction market, requiring traders to bet on whether a proposal increases token value before it can execute. Mainnet is imminent, with the first live auction expected shortly after launch."
+    },
+    {
+      "url": "https://ethresear.ch/t/structural-oev-elimination-through-state-synchronization/25555?utm_source=tldrcrypto",
+      "title": "Structural OEV Elimination through State Synchronization",
+      "summary": "A new Ethereum Research paper proposes eliminating oracle extractable value (OEV) at its structural root through atomic state synchronization, contrasting with current order-flow auctions that redistribute OEV without closing the extraction window. The paper identifies three timing surfaces: backrunning oracle updates, anticipating updates via statistical models (attributed to 39% of liquidations in one study), and exploiting cross-domain arrival gaps of 19-27 seconds across chains. The proposed bind-verify-commit cycle, verified in Isabelle/HOL, eliminates the update-visibility window by ensuring no reachable state exists where an oracle update is visible but its bound consequence remains uncommitted. Key limitations persist: the model lacks empirical validation, behavior under partial synchrony is unestablished, and OFA-attached price feeds already show liquidation bonuses rising 1.5-1 percentage point to offset auction-added latency."
+    },
+    {
+      "url": "https://x.com/coinbase/status/2083561753296675276?utm_source=tldrcrypto",
+      "title": "Stablecoins, Agentic Markets, and a Win for Crypto: July at Coinbase",
+      "summary": "Mubadala Capital, a $600B AUM sovereign-backed fund, tokenized a major private-market strategy across Base, Solana, and Sui, with Coinbase adding the position to its own balance sheet. Marex began accepting USDC as initial margin for US-regulated futures and options via Coinbase infrastructure. Coinbase One members can lend USDC at ~7% APY with anytime withdrawal. Coinbase introduced USDC-BRL for Brazilian customers. It also added native x402 payment support to the CDP SDK in three lines of code and upgraded Coinbase for Agents with real-time order books, live pricing, and plain-English conditional execution. Coinbase won a lawsuit against the US government over a quiet anti-crypto policy and launched the Bitcoin Security Consortium alongside BlackRock, Fidelity, and Block to address quantum computing threats to the network."
+    },
+    {
+      "url": "https://thedefiant.io/news/tradfi-and-fintech/active-crypto-vc-firms-fall-to-150-lowest-since-2020?utm_source=tldrcrypto",
+      "title": "Active Crypto VC Firms Fall to 150, Lowest Since 2020",
+      "summary": "Active crypto VC participation dropped to 150 firms in July, the lowest monthly count since November 2020 and an 87% decline from the May 2022 peak of 1,177 investors. The contraction reflects the exit of smaller funds, family offices, and angel syndicates that proliferated during the 2021-2022 bull cycle. Dragonfly Capital managing partner Haseeb Qureshi described the trend as a \"mass extinction\" of blockchain venture capital, warning that dedicated crypto VCs could lose relevance by 2030 as dominant platforms absorb users and liquidity. Larger established firms continue deploying capital into infrastructure and real-world assets, with Dragonfly closing a $650 million fund in February, marking a consolidation of the sector around institutional players."
+    },
+    {
+      "url": "https://x.com/wowens/status/2083213397747806513?utm_source=tldrcrypto",
+      "title": "How One Share in Seoul Broke Hyperliquid's Largest Equity Market",
+      "summary": "A single SK Hynix share printed 29.96% below prior close on South Korea's Nextrade pre-market at 8:00 am Seoul time on July 28, feeding into TradeXYZ's SKHYNIX USDC-margined perpetual on Hyperliquid and triggering $57-80M in liquidations across ~960 long accounts. TradeXYZ controls 90%+ of HIP-3 open interest and ~98% of builder-market volume on Hyperliquid, where HIP-3 has grown from ~2% to ~50% of total perp volume since January, reaching $98B in 30-day volume and $3.6B network-wide open interest. Galaxy Research's Will Owens concludes the incident was a TradFi data quality failure rather than a crypto oracle problem, since every data provider read the same corrupted NXT book, and TradeXYZ's own order book held steadier than the external feed, suggesting onchain equity markets are maturing into price references rather than price consumers. TradeXYZ covered the liquidation losses as a one-time discretionary decision while SK Hynix fell 14.65% in the regular Seoul session and triggered circuit breakers on two consecutive days."
+    },
+    {
+      "url": "https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets?utm_source=tldrcrypto",
+      "title": "Trump Media on $165 million bitcoin transfer to Crypto.com",
+      "summary": "Wallets linked to Trump Media transferred 2,628 BTC (~$165 million) to Crypto.com in two transactions, leaving roughly 4,261 BTC (~$268 million) in publicly tagged wallets, a figure close to the 4,260.73 BTC the company reported as convertible-note collateral in its Q1 filing."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2083300509239087145.html?utm_source=tldrcrypto",
+      "title": "Ethereum's Glamsterdam upgrade nears mainnet with 10 EIPs",
+      "summary": "The next Ethereum upgrade bundle, Glamsterdam, is approaching mainnet with 10 EIPs."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2083512767303045439.html?utm_source=tldrcrypto",
+      "title": "Why Bridge's card program has underperformed despite Stripe backing",
+      "summary": "Bridge has only done about $8.3 million in cumulative card volume, over half from Phantom Cash, compared to shuttered competitor Kulipa's nearly 9x higher volume."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2083876538559365594.html?utm_source=tldrcrypto",
+      "title": "Coinbase-Circle revenue-sharing auto-renews for three more years",
+      "summary": "The Coinbase-Circle commercial agreement has automatically renewed for another three years under the same terms, meaning Coinbase keeps 100% of reserve interest on USDC held on its platform and 50% of reserve revenue on USDC held elsewhere."
+    }
+  ]
+}

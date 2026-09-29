@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-07-27",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wsj.com/finance/banking/digital-bank-revolut-europes-most-valuable-startup-valued-at-115-billion-0344c14e?utm_source=tldrfintech",
+      "title": "Revolut valuation jumps to $115B in secondary share sale",
+      "summary": "Revolut is raising its valuation to $115 billion through an employee secondary share sale priced at $2,017 per share, up more than 50% from its $75 billion valuation in late 2025. The increase reinforces Revolut's position as Europe's most valuable startup and reflects strong investor confidence in its global banking expansion."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/?utm_source=tldrfintech",
+      "title": "Insurance startup Corgi reportedly raises at $4B valuation",
+      "summary": "Corgi reportedly raised another financing round at a $4 billion valuation, its third round in roughly eight weeks and nearly triple its valuation from May. The rapid fundraising reflects strong projected revenue growth, but also the capital intensity and risk of its insurance model, alongside expansion into data room software and physical coffee shops."
+    },
+    {
+      "url": "https://thefinancialbrand.com/news/customer-experience-banking/who-will-protect-banking-consumers-rights-in-the-age-of-ai-consumer-reports-has-thoughts-198617?utm_source=tldrfintech",
+      "title": "Who will protect banking consumers' rights in the age of AI? Consumer Reports has thoughts",
+      "summary": "Consumer Reports is urging banks and fintechs to adopt stronger AI safeguards as financial assistants become more autonomous, warning that AI should prioritize consumers' interests rather than simply maximize engagement or steer users toward decisions that benefit providers. Its proposed framework emphasizes transparency, human oversight, fairness, data minimization, and a fiduciary-like \"duty of loyalty,\" reflecting growing pressure on financial institutions to build trustworthy AI before regulation catches up."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/trillion-dollar-fintech?utm_source=tldrfintech",
+      "title": "Where is the trillion-dollar fintech company?",
+      "summary": "Fintech has yet to produce a trillion-dollar company because regulation limits global reach and narrow product sets weaken platform lock-in. AI and tokenization are removing those barriers by lowering the cost of launching new financial products and enabling more globally portable infrastructure, positioning companies like Stripe, Revolut, Nubank, and Ramp as potential hyperscale winners."
+    },
+    {
+      "url": "https://fintechmagazine.com/news/visa-airwallex-bring-fintech-overhaul-to-freight-payments?utm_source=tldrfintech",
+      "title": "Visa & Airwallex bring fintech overhaul to freight payments",
+      "summary": "Visa and Airwallex are partnering to embed cross-border payments, multi-currency capabilities, and working capital tools directly into freight and shipping platforms, helping logistics companies move money faster and reduce payment friction. The collaboration targets an industry where international settlements can take up to 42 days and payment administration accounts for nearly 20% of transportation costs, replacing manual processes with embedded financial services built into logistics software."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74?utm_source=tldrfintech",
+      "title": "Stripe in talks to buy AI-model marketplace OpenRouter",
+      "summary": "Stripe is reportedly in talks to acquire OpenRouter, a platform that helps developers route requests across different AI models, in a deal that could value the startup at around $10 billion. The potential acquisition would deepen Stripe's position in AI infrastructure by giving it a strategic role in how developers select, access, and pay for model usage."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/banking-regulator-rejects-fintech-wise-s-us-trust-charter-bid?utm_source=tldrfintech",
+      "title": "Wise shares sink after US rejects bank charter application",
+      "summary": "Wise's plan to secure a US national trust bank charter hit a roadblock after regulators rejected its application over anti-money laundering and compliance concerns, sending the fintech's shares down more than 10%. The decision highlights that even well-established fintechs face heightened regulatory scrutiny as they pursue banking licenses, though Wise says it has strengthened its compliance program and intends to reapply while positioning its infrastructure for future stablecoin-powered payments."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/amex-ups-marketing-tech-spend/826146/?utm_source=tldrfintech",
+      "title": "Amex increases marketing and technology spending",
+      "summary": "American Express plans to raise marketing spending by 10% in the second half of 2026 while accelerating technology upgrades to attract younger cardholders and increase engagement. The company continues to perform strongly in consumer cards, but is investing more heavily in commercial expense management as competition from Ramp, Brex, and Marqeta pressures its midsize business segment."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/revolut-gets-australian-bank-license-as-firm-deepens-growth-push?utm_source=tldrfintech",
+      "title": "Revolut gets Australian bank license as firm deepens growth push",
+      "summary": "Revolut has secured its first banking license in the Asia-Pacific region, allowing it to offer regulated banking products in Australia as it accelerates its global expansion."
+    },
+    {
+      "url": "https://www.franciscopartners.com/media/francisco-partners-closes-21-billion-across-flagship-and-agility-funds?utm_source=tldrfintech",
+      "title": "Francisco Partners closes $21B across flagship and Agility funds",
+      "summary": "Francisco Partners raised $21 billion across its eighth flagship fund and fourth middle-market Agility fund, exceeding both targets and marking the largest fundraising in the firm's history."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-09-28",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.finextra.com/newsarticle/48466/revolut-trials-pay-with-smile?utm_source=tldrfintech",
+      "title": "Revolut trials Pay with Smile",
+      "summary": "Revolut customers can now pay for coffee with their face at three Kiss the Hippo cafés in Bloomsbury, Chelsea, and Soho. The in-store facial recognition checkout, Revolut Pay with Smile, allows customers to pay for their purchases with a simple glance, with 0% processing fees for merchants on all transactions."
+    },
+    {
+      "url": "https://news.sky.com/story/digital-bank-monzo-in-talks-about-10bn-tie-up-with-brazil-s-nubank-13591770?utm_source=tldrfintech",
+      "title": "Monzo in talks about multibillion-pound sale to Brazil's Nubank",
+      "summary": "Monzo is in early talks with Nubank parent Nu Holdings about a potential £8 billion to £10 billion sale, with Morgan Stanley and Qatalyst advising as Monzo also weighs a new funding round to support European expansion. A deal would give Nubank an immediate UK and European banking foothold through Monzo's 16 million customers and £1.7 billion of annual revenue, while likely ending Monzo's near-term path to a standalone IPO."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/ach-use-rises-for-b2b-payments/831270/?utm_source=tldrfintech",
+      "title": "ACH use rises for B2B payments",
+      "summary": "ACH has overtaken checks as the most common US B2B payment method by transaction count, rising from 25% of payments in 2015 to 41% in 2024 while checks fell from 32% to 13%. ACH transaction value nearly doubled to $70 trillion over the period, though wires still dominate by value at roughly $1 quadrillion, showing that businesses are steadily shifting routine payments toward electronic rails even as checks remain widely used."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/agent-wars?utm_source=tldrfintech",
+      "title": "Agent Wars: Amazon vs. Muse",
+      "summary": "Simon Taylor argues that Amazon's decision to block Meta's Muse agent is an early battle over who owns the customer, captures commerce fees, and bears liability when AI agents transact on users' behalf. He expects the key infrastructure layer to be “Know Your Agent” standards that authenticate agents, define delegated authority, and allocate liability, with merchants, wallets, card networks, platforms, and infrastructure providers all competing to control that trust layer."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48467/uk-banks-pilot-tokenised-deposit-transactions?utm_source=tldrfintech",
+      "title": "UK banks pilot tokenised deposit transactions",
+      "summary": "UK banks have collaborated to complete the first live customer transactions using tokenised sterling deposits. The transactions were delivered through the Great British Tokenised Deposit (GBTD) initiative, which was convened by UK Finance and involves Barclays, HSBC UK, Lloyds Banking Group, Monzo, Nationwide, NatWest, and Santander."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111023/cleverbridge-completes-frances-first-passkey-authenticated-agentic-purchase-on-a-revolut-card?utm_source=tldrfintech",
+      "title": "Cleverbridge completes France's first Passkey-authenticated agentic purchase, on a Revolut card",
+      "summary": "Cleverbridge, a managed global commerce platform for software and technology companies, today announced that it completed France's first Passkey-authenticated agentic payment in a live checkout in a pilot with Visa and Revolut announced earlier this month."
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260923666467/en/Numeral-Raises-%24100-Million-Series-C-to-Expand-AI-Powered-Tax-Compliance-Across-Industries?utm_source=tldrfintech",
+      "title": "Numeral raises $100M Series C to expand AI-powered tax compliance",
+      "summary": "Numeral raised a $100 million Series C led by Insight Partners, bringing total funding to $157 million as it expands its AI-powered sales tax compliance platform across software, manufacturing, distribution, and wholesale. The company says transaction volume is up 327% year over year and is positioning itself as end-to-end tax infrastructure spanning nexus monitoring, registrations, calculation, filings, remittance, and exemption certificates, with support for VAT and GST in more than 90 countries."
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/crypto/articles/sec-clarifies-rules-staked-ethereum-062516954.html?utm_source=tldrfintech",
+      "title": "SEC clarifies that certain staked Ethereum receipt tokens are not securities",
+      "summary": "SEC staff clarified that liquid-staking receipt tokens tied to non-security crypto assets like ETH generally are not securities when they simply represent ownership of the underlying staked asset and do not add separate rights, returns, or managerial promises. The guidance builds on the SEC's earlier position on liquid staking, but remains staff guidance rather than binding law, meaning its treatment could change through future rulemaking, legislation, or a different administration."
+    },
+    {
+      "url": "https://x.com/karrisaarinen/status/2103512094981419349?utm_source=tldrfintech",
+      "title": "Tools Are Getting Better. Are We?",
+      "summary": "Product work creates both output and learning, and AI risks accelerating the first without compounding the second."
+    },
+    {
+      "url": "https://people.com/billy-porter-and-billy-zane-to-lead-broadway-musical-about-paying-bills-12114184?utm_source=tldrfintech",
+      "title": "Ramp turns bill pay into a one-night Broadway musical",
+      "summary": "Ramp is staging Bill Pay The Musical for one night on Broadway on September 25, starring Billy Porter, Billy Zane, and Jessica Vosk as an elaborate promotion for its accounts payable product."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/32973/bnpl-regulation-the-growing-role-of-data-in-credit-decisioning?utm_source=tldrfintech",
+      "title": "BNPL regulation: the growing role of data in credit decisioning",
+      "summary": "The old BNPL model made borrowing feel like a payment choice rather than a credit decision."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-09-07",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://threadreaderapp.com/thread/2095598512557772927.html?utm_source=tldrcrypto",
+      "title": "Coinbase Files SEC and CFTC Registrations for Single Stock Perps",
+      "summary": "Coinbase filed SEC-notice registrations for a derivatives exchange and broker, positioning the firm to offer single stock perpetual futures to US traders under formal regulatory oversight. The dual-regulator coordination with both the SEC and CFTC marks a deliberate effort to pull a crypto-native derivative structure into the US onshore market, expanding the range of instruments available through a regulated US venue."
+    },
+    {
+      "url": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626?utm_source=tldrcrypto",
+      "title": "Liquid Network paused after $320M \"white-hat\" withdrawal",
+      "summary": "~4,000 BTC was withdrawn from the Bitcoin sidechain's federation wallet by purported white-hat hackers via the SideSwap Peg-out Authorization Key, which Liquid says was not itself compromised. An on-chain message read, \"We are whitehats, contact us on chain.\" Blockstream paused the network, exchanges suspended LBTC deposits/withdrawals, and other Liquid-issued assets were unaffected. No confirmation yet on whether funds will be returned or a restart timeline."
+    },
+    {
+      "url": "https://x.com/econoar/status/2095618811689128021?utm_source=tldrcrypto",
+      "title": "Longbow Launches Coin Creation on Robinhood Chain",
+      "summary": "Longbow is a new coin creation platform on Robinhood Chain that lets users launch tokens paired to any stock or crypto asset of their choice. The tool extends Robinhood Chain's utility by enabling user-generated linked instruments that bridge retail equity and on-chain token markets."
+    },
+    {
+      "url": "https://x.com/_rishinsharma/status/2095576489240756553?utm_source=tldrcrypto",
+      "title": "Payment Channels: 1 Million Payments Per Second",
+      "summary": "A new Solana primitive called payment channels addresses the per-call signature bottleneck in agentic micropayment workflows by letting agents authorize a spending ceiling once, meter usage off-chain via signed messages at zero transaction cost, and settle the full session in a single on-chain transaction across the x402 and MPP protocols. Funds remain non-custodial throughout, held in program-controlled escrow rather than operator balances, unlike prepaid credit systems where balances are tracked off-chain by the service provider. Benchmarks showed 100,000 unique wallets processing over 1 million payments per second, equivalent to more than 80 billion payments in 24 hours at a processing cost of $0.0078 per million payments. The spec is public, and the program is open source. Alibaba Cloud launched live inference endpoints with payment channels on day one."
+    },
+    {
+      "url": "https://x.com/a16zcrypto/status/2095573652456534242?utm_source=tldrcrypto",
+      "title": "When Throughput Is Not Enough: What Financial Markets Need From Blockchains",
+      "summary": "Aggregate blockchain throughput has grown over 100x in five years, with some production systems now clearing tens of thousands of TPS, removing raw capacity as the primary barrier to onchain finance. The conversation has shifted to market microstructure: millisecond inclusion uncertainty forces market makers to widen spreads against stale prices, and discretionary block-building gives MEV extraction the same structural character as privileged order-flow access in traditional markets. a16z researchers propose \"Strong Chain Quality\" to prevent single-actor control over block inclusion by reserving portions of each block for transactions surfaced through alternate network paths, while protocol designers are evaluating timelock and threshold encryption to hide transaction contents until settlement. Predictable execution, unambiguous priority rules, resilient access, and pre-execution confidentiality with post-execution transparency together define what a settlement layer must deliver before onchain finance works at institutional scale."
+    },
+    {
+      "url": "https://x.com/chrisspickett/status/2095219421669118003?utm_source=tldrcrypto",
+      "title": "What 700+ x402-Enabled API Endpoints Are Teaching Us About Agent Commerce",
+      "summary": "Orthogonal has scaled its x402-based API marketplace to 700+ endpoints across 50+ providers, with commercial workflows in contact enrichment, investor signal monitoring, and lead generation already processing real agent transactions. Building production-grade agent commerce on x402 rails required three layers the protocol does not itself provide: refund management, request-time dynamic pricing, and natural-language discoverability through the Bazaar catalog. An early investor-signals deployment grounded 87% of surfaced company updates within two weeks, up from near zero prior to the agent-driven approach. Orthogonal's near-term roadmap targets governance and spend controls, self-service API onboarding, and an enterprise control plane for managing agent capabilities across providers."
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout?utm_source=tldrcrypto",
+      "title": "BitGo to Buy NYDIG Trading Arm for $42.5M in Cash and Stock",
+      "summary": "BitGo has agreed to acquire NYDIG IF Holdings, the institutional trading arm of Stone Ridge's bitcoin-focused subsidiary NYDIG, for $42.5 million in cash and stock plus a $15 million earnout. The deal is structured as $7 million in cash and approximately $35.5 million in BitGo equity, meaning the target receives roughly 83% of the base consideration in stock, with total consideration reaching $57.5 million if earnout targets are met. The acquisition adds institutional trading infrastructure to BitGo's existing custody and settlement stack, positioning the firm to serve a broader slice of the institutional client workflow under one roof."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2096624653083218001.html?utm_source=tldrcrypto",
+      "title": "Block's path to becoming a payment network",
+      "summary": "Block is assembling the pieces to become a full payment network rivaling Visa/Mastercard. It already has millions of Square merchants and 60M+ daily Cash App users, and its new \"Neighborhoods\" feature can route payments directly between Block-owned accounts via Cash App Pay, bypassing card networks and charging just 1% while still profiting. Future phases could extend Cash App Pay to non-Square merchants (leveraging fraud data from Cash App's user base) and eventually make it an official debit network accepting all cards, positioning Block as a genuine fifth payment network."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2096376498571886609.html?utm_source=tldrcrypto",
+      "title": "Hyperliquid ETF institutional holders",
+      "summary": "13F filings show 30 institutions held a combined $74.9M in Hyperliquid ETF exposure (~1.15M HYPE) as of June 30."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2096547444712501386.html?utm_source=tldrcrypto",
+      "title": "Coinbase vs. Bitget Wallet crypto cards",
+      "summary": "Coinbase's Visa debit card is custodial, linked directly to a Coinbase account, while Bitget Wallet's card is self-custodial, charges 0% on USD spend but 1.7% on non-USD transactions, and offers up to 3% \"Assetback\" in a choice of assets."
+    },
+    {
+      "url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635?utm_source=tldrcrypto",
+      "title": "Harmony sunsets its blockchain for an AI video venture",
+      "summary": "Harmony announced it will fully shut down its Layer 1 network, citing security threats from \"state actors and AI agents,\" and plans to migrate its ONE token to Ethereum via a snapshot-based airdrop."
+    },
+    {
+      "url": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639?utm_source=tldrcrypto",
+      "title": "Bitcoin ETFs pull in $987M weekly",
+      "summary": "US spot bitcoin ETFs saw $986.9M in net inflows last week, the third straight positive week, with BlackRock's IBIT leading at $691.5M."
+    }
+  ]
+}

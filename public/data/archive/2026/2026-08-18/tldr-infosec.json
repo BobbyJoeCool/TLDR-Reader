@@ -1,0 +1,73 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-08-18",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934?utm_source=tldrinfosec",
+      "title": "Wallet Provider SafePal Says Data Breach Exposed Personal Info of Nearly 40,000 Customers",
+      "summary": "This past weekend, crypto wallet provider SafePal announced that an authorization flaw in its order tracking system allowed unauthorized access to personal data belonging to nearly 40k customers. The breached data includes customer names, email and shipping addresses, phone numbers, and purchase details, but did not involve any wallet credentials, financial details, or government IDs."
+    },
+    {
+      "url": "https://cybersecuritynews.com/beacon-crm-database-theft/?utm_source=tldrinfosec",
+      "title": "Beacon CRM Confirms Full Database Theft After AWS Access Key Breach",
+      "summary": "Beacon CRM confirmed an attacker used an AWS access key exposed in public JavaScript. Cost data showed transfers matching all stored records and attachments. With valid credentials, the attackers were able to decrypt protected data during download. Beacon rotated keys, removed client-side secrets, and added endpoint and cloud monitoring."
+    },
+    {
+      "url": "https://koreaherald.com/article/10842345?utm_source=tldrinfosec",
+      "title": "Sogang University Hit By Personal Information Breach of 180,000",
+      "summary": "South Korea's Sogang University disclosed a data breach affecting 180k students, alumni, and employees. The compromised information includes student identification numbers, names, affiliations, email addresses, mobile phone numbers, and encrypted passwords for the university's integrated login system."
+    },
+    {
+      "url": "https://owasp.org/www-project-top-10-ci-cd-security-risks?utm_source=tldrinfosec",
+      "title": "OWASP Top 10 CI/CD Security Risks",
+      "summary": "The OWASP Top 10 CI/CD Security Risks initiative provides a framework to help defenders identify and secure vulnerabilities within continuous integration and delivery environments. The list catalogs critical risks including dependency-chain abuse, poisoned pipeline execution, inadequate access controls, credential hygiene issues, artifact integrity gaps, insecure configurations, and insufficient logging. The project provides recommended security controls and references to help organizations mitigate identified CI/CD risks."
+    },
+    {
+      "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox?utm_source=tldrinfosec",
+      "title": "CSS: The Bomb Inside Your Inbox",
+      "summary": "Portswigger demonstrates CSS and HTML attacks against webmail sanitizers. Outlook labels can trigger interface actions, while a CSS parser flaw enables arbitrary CSS injection and a spoofed login screen that captures passwords in Firefox. Yahoo Mail and AOL Mail allowed pasted CSS to race sanitization, exposing Medium email-login tokens. Fastmail image-proxy flaws enabled view tracking, ProtonMail could reveal an IP address, and hidden prompt instructions in email content directing Atlas browser actions. The recommended security controls include sandboxed iframes, restrictive allowlists, blocked image requests, and filtering dangerous selectors."
+    },
+    {
+      "url": "https://hackers-arise.com/digital-forensics-attacking-sam-and-extracting-hashes-with-7z/?utm_source=tldrinfosec",
+      "title": "Attacking SAM and Extracting Hashes With 7z",
+      "summary": "7z is an archiving and unarchiving tool that is incredibly popular on Windows systems. Users can extract hives by typing \\\\.\\ in the 7z address bar and then navigating to PhysicalDrive0 followed by 0.ntfs to locate the system hives which can be extracted to a separate system and then cracked. This technique requires GUI access as 7z can only parse physical disks and NTFS partitions through the File Manager GUI."
+    },
+    {
+      "url": "https://github.com/Bikebrainz/Nullock?utm_source=tldrinfosec",
+      "title": "Nullock (GitHub Repo)",
+      "summary": "Nullock is a free, self-hosted alternative to Burp Suite Pro that contains an MITM proxy with a full active scanner (SQLi/XSS/SSRF/XXE/SSTI/smuggling), recon, OAST, nuclei-style templates, and a CI security gate."
+    },
+    {
+      "url": "https://github.com/rabbitstack/fibratus?utm_source=tldrinfosec",
+      "title": "Fibratus (GitHub Repo)",
+      "summary": "Fibratus detects and eradicates advanced attacker tradecraft, malware, and emerging threats by scrutinizing and asserting a wide spectrum of system events against a behavior-driven rule engine and YARA memory scanner."
+    },
+    {
+      "url": "https://github.com/alephnull-sh/deadair?utm_source=tldrinfosec",
+      "title": "deadair (GitHub Repo)",
+      "summary": "deadair is an open-source tool that audits live SIEM rule inventories to identify active detections that are failing silently due to missing, stale, or schema-incompatible telemetry. By utilizing read-only metadata credentials, the tool resolves rule inputs against backend semantics to verify index resolution, document freshness, and ingest lag across Elastic Security and OpenSearch Security Analytics environments. Security engineering teams can deploy deadair to generate fleet-wide coverage reports or to automatically gate candidate detection rules within their CI pipelines."
+    },
+    {
+      "url": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/?utm_source=tldrinfosec",
+      "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
+      "summary": "SOCRadar tied 2,085 of 2,188 tracked data exposures to the earlier Trivy compromise. Data collection ran from March 19 to March 24 and showed that malicious LiteLLM packages appeared only for 40 minutes on March 24. The worm stole tokens, keys, and credentials from CI/CD systems, then used developer secrets to poison more packages. Stolen datasets are now being sold on Telegram."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908?utm_source=tldrinfosec",
+      "title": "Mozilla Revokes Firefox Signing Key After Unencrypted Copy Lands in GitHub",
+      "summary": "Mozilla revoked and replaced a GPG private subkey after an unencrypted copy of it was pushed to a private GitHub repository. The key signed Firefox and Thunderbird Linux tarballs, RPM packages, and checksums. Mozilla found no unauthorized access in the available audit records, but manual signature verifiers must import the new key and revoke the old key."
+    },
+    {
+      "url": "https://loongleakattack.com/?utm_source=tldrinfosec",
+      "title": "LoongLeak",
+      "summary": "LoongLeak affects Loongson 3A5000 and 3A6000 processors."
+    },
+    {
+      "url": "https://www.windowslatest.com/2026/08/17/windows-11-is-losing-a-legacy-tool-wmic-hat-malware-and-ransomware-have-abused-for-years/?utm_source=tldrinfosec",
+      "title": "Windows 11 is Fully Removing a Legacy Tool that Malware and Ransomware Have Abused for Years",
+      "summary": "Microsoft will be removing the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 systems starting in 24H2, 25H2, and 26H2."
+    }
+  ]
+}

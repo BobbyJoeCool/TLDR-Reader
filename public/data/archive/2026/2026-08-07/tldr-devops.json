@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-08-07",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/?utm_source=tldrdevops",
+      "title": "Amazon DynamoDB now supports real-time vector search at any scale",
+      "summary": "Amazon DynamoDB now supports native vector search, letting developers store vector embeddings alongside operational data and run similarity searches without copying data to a separate vector store. The feature supports up to 4,096 dimensions, Euclidean, Cosine, and Dot product distance functions, and returns up to 100 results per query with single-digit millisecond latency at 99% or higher recall. It is generally available in all commercial AWS regions, including the AWS GovCloud (US) regions."
+    },
+    {
+      "url": "https://blog.cloudflare.com/cloudflare-os/?utm_source=tldrdevops",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "summary": "Cloudflare has open-sourced Cloudflare OS, an AI agent platform the company has run internally since May. Thousands of Cloudflare employees across engineering and non-engineering functions have used it daily to create documents, automate tasks, and build small apps. Any organization can now deploy it by connecting it to internal systems through a public GitHub repository."
+    },
+    {
+      "url": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html?utm_source=tldrdevops",
+      "title": "On Building Scalable Control Planes",
+      "summary": "Scalable control planes should keep coordination off the critical data path, partition ownership cleanly, and rely on asynchronous reconciliation instead of synchronous global agreement for every change. Designs that minimize shared mutable state and let independent partitions make progress can absorb failures and growth without turning the control layer into the system's bottleneck."
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise/?utm_source=tldrdevops",
+      "title": "Automate your agent development lifecycle using any coding agent",
+      "summary": "Google's Agents CLI lets developers use coding agents to build, deploy, secure, evaluate, and publish production-ready AI agents through natural language prompts, streamlining the entire lifecycle with managed services, governance, automated testing, and Gemini Enterprise integration."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/?utm_source=tldrdevops",
+      "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
+      "summary": "Controller-runtime reads Kubernetes objects from a shared in-memory cache populated through list and watch rather than directly from the API server, making reads fast while introducing eventual consistency, memory tradeoffs, and indexing considerations that developers must understand to build efficient, reliable controllers."
+    },
+    {
+      "url": "https://github.com/huangruiteng/loopx?utm_source=tldrdevops",
+      "title": "LoopX (GitHub Repo)",
+      "summary": "LoopX is a local control plane for managing long-running AI agent work across tools like Codex, Claude Code, and Cursor. It keeps goals, task ownership, evidence, and handoffs stable across multiple turns and agents rather than replacing the agent runtime itself."
+    },
+    {
+      "url": "https://github.com/denoland/celld?utm_source=tldrdevops",
+      "title": "celld (GitHub Repo)",
+      "summary": "celld is an open-source daemon that runs Cloudflare Workers and Durable Objects on your own machines. Each object is its own SQLite database, addressed by name and replicated to an S3-compatible bucket you own. Nodes coordinate through that bucket alone, with no control plane or consensus."
+    },
+    {
+      "url": "https://newrelic.com/blog/observability/salesforce-observability-with-new-relic?utm_source=tldrdevops",
+      "title": "Salesforce Observability with New Relic",
+      "summary": "New Relic's open source Salesforce Exporter streams and batches Salesforce telemetry into New Relic, providing dashboards, alerts, and insights for performance, security, user activity, API usage, and org limits with an installer that simplifies deployment."
+    },
+    {
+      "url": "https://www.fastly.com/blog/teaching-coding-agents-to-check-their-vcl-with-fastly-fiddle?utm_source=tldrdevops",
+      "title": "Teaching Coding Agents to Check Their VCL with Fastly Fiddle",
+      "summary": "Fastly Fiddle is a free web-based sandbox that compiles and runs VCL on real Fastly edge infrastructure, enabling humans and coding agents to test, debug, validate, and share production-accurate behavior that local linting cannot replicate."
+    },
+    {
+      "url": "https://greptime.com/blogs/2026-07-31-prom-read-conversion-optimization?utm_source=tldrdevops",
+      "title": "Just One Function, 10x Faster? Reading a Rust Performance PR",
+      "summary": "GreptimeDB sped up Prometheus remote-read conversion by 4–16x by borrowing strings directly from Apache Arrow arrays instead of materializing every label value and by moving allocations from every row to every unique time series. The optimization eliminated repeated string copies, unnecessary heap allocations, and costly dictionary expansion in a CPU-heavy conversion path that previously processed only about 2 million rows per second."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/07/28/kubeflow-unveils-new-cloud-native-innovations-to-supercharge-ai/?utm_source=tldrdevops",
+      "title": "Kubeflow unveils new cloud native innovations to supercharge AI",
+      "summary": "Kubeflow announced major ecosystem advancements at Kubecon + CloudNativeCon Japan 2026, including Kale 2.0, SDK improvements, Kubeflow Trainer enhancements, and Community Distribution 26.03 updates."
+    },
+    {
+      "url": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review?utm_source=tldrdevops",
+      "title": "Why AI-Generated Vulnerability Patches Still Require Human Review",
+      "summary": "Across 6,080 AI-generated patches for six recent vulnerabilities, only 26% fully fixed the issue without materially changing application behavior, while 53.9% failed to fix the vulnerability, introduced a new one, or both."
+    }
+  ]
+}

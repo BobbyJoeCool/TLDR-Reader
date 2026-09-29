@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-09-17",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://lnkd.in/p/g6uhihzg?utm_source=tldrfintech",
+      "title": "Mercury launches AI-powered accounting software",
+      "summary": "Mercury Books is an AI-powered accounting product that automatically categorizes and reconciles card transactions, invoices, and bill payments, then lets users query their books in plain language through its Mercury Command agent. Customers can use their own accountant or bookkeeper or work with partners like Pilot, Fondo, and Ridgewood, as Mercury expands from banking deeper into accounting and finance operations."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110927/mastercard-and-tripcom-target-travel-sector-agentic-commerce?utm_source=tldrfintech",
+      "title": "Mastercard and Trip.com target travel sector agentic commerce",
+      "summary": "Mastercard and Trip.com have joined forces to showcase AI-powered booking experiences for the travel sector. Powered by Mastercard's Agent Suite for Merchants and in partnership with Network International, the organizations are showcasing how consumers will be able to search, book, and complete purchases through Trip.com's AI agent TripGenie."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099845210666574073.html?utm_source=tldrfintech",
+      "title": "Ramp launches in the UK",
+      "summary": "Ramp has officially launched in the UK, bringing its finance automation platform to British businesses as it expands beyond the US. The move opens a major new market for Ramp's corporate cards, spend management, and finance operations products, extending its push to become a global financial operations platform."
+    },
+    {
+      "url": "https://www.primary.vc/articles/enterprise-ai-is-finally-delivering-on-the-promise-saas-made?utm_source=tldrfintech",
+      "title": "Enterprise AI is finally delivering on the promise SaaS made",
+      "summary": "Primary Venture Partners argues that the strongest enterprise AI companies will win not by owning the best models, but by turning real-world workflow experience into compounding expertise. Their framework centers on “scorebooks” and continual learning loops that capture context, decision traces, expert feedback, and business outcomes, allowing domain-specific applications to improve across customers and build defensibility through workflow ownership, implementation depth, and accountability."
+    },
+    {
+      "url": "https://lex.substack.com/p/fintech-why-nasdaq-invested-100mm?utm_source=tldrfintech",
+      "title": "Why Nasdaq invested $100MM in Kraken at $21B valuation",
+      "summary": "The venture arm of Nasdaq announced it is investing $100M into Payward, the parent company behind crypto exchange Kraken, at a $21B valuation. The deal strives to make Kraken a major distribution platform for Nasdaq's tokenized equities, which are set to go live in 2027. This comes as the asset class hit a record $6B in monthly on-chain trading volumes in August."
+    },
+    {
+      "url": "https://x.com/mvernal/status/2099885132379500562?utm_source=tldrfintech",
+      "title": "Moats & the Barbell-ification of Software",
+      "summary": "AI will erode many traditional software moats by making products cheaper to replicate, migrations easier, and integrations more automated, pushing the industry toward a barbell structure. A smaller number of dominant platforms will try to own entire buying centers through relentless product expansion and scale, while an explosion of tiny, niche software businesses emerges at the other end, leaving mid-sized point solutions increasingly squeezed out."
+    },
+    {
+      "url": "https://betakit.com/radical-ventures-launches-canadas-largest-ai-fund-with-1-billion-usd-first-close/?utm_source=tldrfintech",
+      "title": "Radical Ventures launches Canada's largest AI fund with $1B first close",
+      "summary": "Radical Ventures launched its multi-billion-dollar Radical Breakouts Fund with a first close of more than $1 billion, backed by major Canadian pension funds and banks including CPP Investments, PSP Investments, HOOPP, TD, and BMO. The fund will target late-stage AI companies in Canada and globally, reflecting a push to give Canadian scaleups access to the kind of large private-growth capital that has historically been concentrated in the US."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099866222552596701.html?utm_source=tldrfintech",
+      "title": "American Express is building a small-business banking stack",
+      "summary": "American Express is expanding beyond cards with a new high-yield Business Savings account, grouping it with Business Checking under a broader “Business Banking” offering. Amex also plans to add Gusto-powered payroll, AI-driven payroll insights, and direct redemption of card rewards into checking, pushing toward a more complete operating account for small businesses rather than just a payments relationship."
+    },
+    {
+      "url": "https://unchainedcrypto.com/robinhood-plans-in-kind-redemptions-and-voting-rights-for-stock-tokens-after-amc-backlash/?utm_source=tldrfintech",
+      "title": "Robinhood plans in-kind redemptions and voting rights for Stock Tokens after AMC backlash",
+      "summary": "Robinhood plans to add one-for-one share redemptions and voting rights to its Stock Tokens, addressing criticism that the products currently provide only economic exposure without actual shareholder rights. The shift follows backlash from AMC CEO Adam Aron and comes as Coinbase and other tokenization platforms push toward structures that more closely replicate traditional equity ownership, including redemption, dividends, and voting."
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/gulf-fintech-tabby-clinches-65-billion-valuation-after-latest-funding-round-2026-09-14/?utm_source=tldrfintech",
+      "title": "Gulf fintech Tabby clinches $6.5B valuation after latest funding round",
+      "summary": "Saudi Arabia-based Tabby raised $233 million in a Series F led by Blue Pool Capital, valuing the BNPL fintech at $6.5 billion, up from $4.5 billion last year. Tabby plans to use the capital to deepen its presence in Saudi Arabia and the UAE, where it is expanding beyond BNPL into larger consumer financing, working capital and cash-account products, while processing more than $18 billion in annualized transaction volume across 25 million registered users."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/klarna-props-up-new-apple-phones/830272/?utm_source=tldrfintech",
+      "title": "Klarna props up new Apple phones",
+      "summary": "Klarna is powering Apple's new US device leasing program, including financing for the $1,999 foldable iPhone Duo and $1,199 iPhone 18 Pro, with 12- or 24-month terms that let customers upgrade, buy out the device, or return it. The partnership gives Klarna a major distribution win after failing to land Apple more than a decade ago, while helping Apple push hardware toward a subscription-style model that could encourage more frequent upgrades."
+    },
+    {
+      "url": "https://www.wsj.com/finance/investing/grab-to-buy-majority-stake-in-softbank-backed-atome-for-about-1-5-billion-5d62aad8?utm_source=tldrfintech",
+      "title": "Grab to buy majority stake in SoftBank-backed Atome for about $1.5B",
+      "summary": "Grab agreed to acquire a 60% stake in Atome Financial for $1.49 billion in cash, giving it control of the SoftBank-backed consumer finance company."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110919/wells-fargo-brings-international-money-transfers-to-mobile-app?utm_source=tldrfintech",
+      "title": "Wells Fargo brings international money transfers to mobile app",
+      "summary": "Wells Fargo announced the nationwide launch of ExpressSend Mobile, bringing its international money transfer service into the Wells Fargo Mobile app."
+    }
+  ]
+}

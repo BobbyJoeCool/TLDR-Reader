@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-08-03",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/world-at-work/chime-cut-10-total-workforce-or-about-140-jobs-source-says-2026-07-31/?utm_source=tldrfintech",
+      "title": "Chime to cut 10% of total workforce on AI-driven efficiencies",
+      "summary": "Chime is cutting about 10% of its workforce, or roughly 150 employees, as it restructures around AI and aims to improve profitability as a public fintech. CEO Chris Britt said smaller, flatter teams are enabling faster execution, reflecting a broader shift across financial services as companies like Block, Visa, Robinhood, and Mastercard use AI to reduce costs and increase operating efficiency. For fintech investors, the focus is moving beyond AI as a product feature toward AI as a driver of stronger margins and leaner operations."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html?utm_source=tldrfintech",
+      "title": "New York sues Kalshi over alleged illegal gambling operation",
+      "summary": "New York is suing Kalshi, alleging its sports, political, and other event contracts constitute unlicensed gambling and seeking a permanent injunction, user restitution, and penalties that could total $36 billion. Kalshi and the CFTC argue the federally licensed exchange falls under exclusive federal oversight, escalating the broader fight over whether prediction markets are financial derivatives or state-regulated gambling."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html?utm_source=tldrfintech",
+      "title": "AI investor Leopold Aschenbrenner forced to unwind public stock positions after steep losses",
+      "summary": "Leopold Aschenbrenner's hedge fund, Situational Awareness, was reportedly forced to sell its public equity portfolio after leveraged bets on AI infrastructure stocks and shorts against software companies moved sharply against it. Citadel agreed to acquire the public positions as the fund's prime brokers worked to raise cash and meet margin requirements, marking a major test of Aschenbrenner's concentrated AI investment thesis."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/robinhood-bets?utm_source=tldrfintech",
+      "title": "Robinhood now earns more from prediction markets than from stocks or crypto",
+      "summary": "Robinhood's Q2 earnings included data showing prediction markets overtook crypto and stock trading for the first time. Transaction revenue was $776m, up 44%. Options did $342m, event contracts did $156m, equities did $129m, and crypto did $100m, which fell 38% YoY. The company also posted record Q2 revenue of $1.31bn, up 32% YoY, with diluted EPS of $0.62 against a consensus nearer $0.42."
+    },
+    {
+      "url": "https://fintechmagazine.com/articles/from-systems-of-record-to-outcome-driven-ai-banking?utm_source=tldrfintech",
+      "title": "From systems of record to outcome-driven AI banking",
+      "summary": "The next generation of banking will be built around AI agents that orchestrate end-to-end workflows and continuously make decisions, shifting banks from maintaining records to delivering measurable business outcomes. Rather than replacing core banking systems, institutions can layer agentic AI on top of existing infrastructure to automate lending, payments, fraud detection, and compliance while improving governance and reducing operating costs. The fintech opportunity is less about deploying standalone AI features and more about building the orchestration, data, and governance layers that enable banks to operationalize AI at enterprise scale."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/why-fintechs-may-skirt-the-us/826668/?utm_source=tldrfintech",
+      "title": "Why fintechs may skirt the US",
+      "summary": "Delays to US open banking rules are widening the payments innovation gap with Europe, where standardized APIs and instant account-to-account payments make it easier for fintechs to launch and scale. Without clearer mandates, US banks may remain dependent on costly integrations and insecure screen scraping, while global fintechs prioritize markets with better data access, lower processing costs, and more consistent regulation."
+    },
+    {
+      "url": "https://www.bankingdive.com/news/flex-rent-fintech-fdic-utah-charter-industrial-loan-company-ilc-application/826375/?utm_source=tldrfintech",
+      "title": "Rent fintech Flex applies for ILC charter",
+      "summary": "Rent payments fintech Flex has applied for an industrial loan company (ILC) charter, a move that would let it issue its own credit products instead of relying on sponsor banks. Flex lets renters split a monthly rent payment into smaller installments that better align with when they get paid, helping users avoid late fees without compounding interest or stacking loans. Since 2019, the company has processed more than $40 billion in rent payments for 3.2 million users and says it has helped customers avoid more than $780 million in late fees."
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/juniper-square-launches-new-ai-powered-fund-admin-oversight-agent-for-gps-302835524.html?utm_source=tldrfintech",
+      "title": "Juniper Square launches AI-powered fund admin oversight agent",
+      "summary": "Fay is an AI agent that reviews fund administrator deliverables using more than 150 checks across financial statements, capital account statements, and supporting workbooks. The product combines AI-based document extraction with deterministic calculations to flag errors, reconcile figures across reports and periods, and reduce review time for CFOs and controllers while preserving source-level traceability and human judgment."
+    },
+    {
+      "url": "https://www.americanbanker.com/news/banks-see-marketing-opportunity-on-college-athletes-jerseys?utm_source=tldrfintech",
+      "title": "Banks see marketing opportunity on college athletes' jerseys",
+      "summary": "A recent NCAA rule change allowing corporate logos on college athletes' jerseys has created a new marketing opportunity for banks and fintechs. JPMorgan Chase's partnership with Ohio State and SoFi's deal with Notre Dame highlight how financial institutions are competing to reach students and young consumers through high-visibility sports sponsorships."
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260730538995/en/Ellis-Emerges-From-Stealth-With-More-Than-%2410-Million-to-Build-the-AI-Native-Operating-Foundation-for-Private-Credit?utm_source=tldrfintech",
+      "title": "Ellis emerges from stealth with $10M+ for AI-native private credit operations",
+      "summary": "Ellis raised more than $10 million in seed funding led by First Round Capital to build an AI-native operating platform for private credit managers. The platform unifies data from fund administrators, loan-servicing systems, general ledgers, banks, legal documents, and spreadsheets, then uses specialized agents to automate reconciliation, LP reporting, portfolio monitoring, and compliance while keeping humans in control of approvals."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/startup-founder-buys-washington-bank-to-extend-fintech-push?utm_source=tldrfintech",
+      "title": "Startup founder buys Washington Bank to extend fintech push",
+      "summary": "Increase founder and former Stripe engineer Darragh Buckley has acquired and rebranded a Washington community bank, giving his fintech direct control over regulated banking infrastructure instead of relying on partner banks. The move positions Increase to compete with banking-as-a-service providers like Lead Bank and Column, offering fintechs a more integrated platform that combines banking technology with a licensed bank while continuing to serve the local community."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/32420/payments-modernisation-starts-with-deciding-what-the-bank-should-own?utm_source=tldrfintech",
+      "title": "Payments modernisation starts with deciding what the bank should own",
+      "summary": "Most banks surveyed in a recent European payments study by BCG said they urgently needed to modernise their payments architecture, yet around one in five had already stopped or abandoned at least one modernisation programme."
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260731400151/en/Circle-Granted-Trust-Charter-by-the-New-York-Department-of-Financial-Services?utm_source=tldrfintech",
+      "title": "Circle receives New York trust charter from NYDFS",
+      "summary": "Circle received a limited-purpose trust charter from the New York Department of Financial Services for Circle New York Trust, strengthening the regulatory foundation supporting USDC and its broader digital asset platform."
+    }
+  ]
+}

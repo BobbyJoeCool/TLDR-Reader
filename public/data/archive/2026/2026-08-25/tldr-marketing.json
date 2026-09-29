@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-08-25",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://martechseries.com/mts-insights/staff-writers/martech-consolidation-is-the-era-of-the-15000-plus-marketing-technology-landscape-coming-to-an-end/?utm_source=tldrmarketing",
+      "title": "Is the Era of the 15,000 Plus Marketing Technology Landscape Coming to an End?",
+      "summary": "Consolidating a martech stack is less about cutting applications and more about whether each tool provides unique value a broader platform cannot. AI is making many single-purpose tools redundant by combining functions that once required separate systems. However, over-consolidation risks vendor lock-in and losing specialized capabilities. The likely outcome is a smaller core of shared platforms, with specialized tools kept only when they add clear value."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns?utm_source=tldrmarketing",
+      "title": "Double-Digit Ecommerce Growth Returns",
+      "summary": "US ecommerce sales grew 12.2% YoY to $340.2B in Q2 2026, marking a second straight quarter of double-digit growth and outpacing overall retail growth of 6.7%. Ecommerce now accounts for 17.1% of retail sales. Growth varied sharply by category, with general merchandise up 21.6% while clothing rose just 3.8%. The acceleration suggests renewed ecommerce momentum, though inflation and Amazon's earlier Prime Day may have boosted Q2 figures."
+    },
+    {
+      "url": "https://www.netinfluencer.com/how-long-should-brands-test-a-creator-partnership-28-creator-economy-experts-weigh-in/?utm_source=tldrmarketing",
+      "title": "How Long Should Brands Test a Creator Partnership? 28 Creator Economy Experts Weigh In",
+      "summary": "Brands should test creator partnerships broadly, then give creators 3-6 months or at least three activations to prove repeatability. A single post measures content performance, not the partnership, while short attribution windows can undercount conversions by 40-60%. Match evaluation to the goal and sales cycle, then shift budget toward creators showing brand fit and long-term potential."
+    },
+    {
+      "url": "https://scalingcrm.substack.com/p/your-best-customers-may-not-be-your?utm_source=tldrmarketing",
+      "title": "Your Best Customers May Not Be Your Most Engaged",
+      "summary": "More engagement doesn't always mean more value. The right lifecycle strategy starts by defining what healthy usage looks like for each product. A dating app may succeed when users leave, while a utility product may only need monthly use. Customer replies can also reveal intent that clicks and opens miss. As automation makes it easier to build and launch more campaigns, teams need stronger QA and guardrails to manage the added complexity."
+    },
+    {
+      "url": "https://www.marketscale.com/industries/marketing-tech/metas-ai-first-ad-buying-is-forcing-a-new-operating-model-for-paid-social-teams?utm_source=tldrmarketing",
+      "title": "Meta's AI-first ad buying is forcing a new operating model for paid social teams",
+      "summary": "Meta's AI-first ad buying is reducing the need for manual campaign optimization and shifting paid social teams toward managing the inputs that guide the system. Clean conversion signals become critical because they shape how Meta optimizes campaigns. Creative production also becomes a bigger performance lever as targeting gets automated. Teams will need to rethink workflows and governance as fewer campaign decisions remain under direct human control."
+    },
+    {
+      "url": "https://www.saasmag.com/saas-data-moats-proprietary-competitive-advantage/?utm_source=tldrmarketing",
+      "title": "SaaS Data Moats: Why Proprietary Data Is the Strongest Competitive Advantage in 2026",
+      "summary": "As AI makes software features easier to replicate, proprietary data is becoming a stronger competitive moat. The advantage comes from data that is unique and improves the product with each customer interaction. A data flywheel can make this advantage compound as more usage creates better insights. However, data only becomes a moat at sufficient scale and with strong governance. Otherwise, it can become an expensive liability rather than a defensible advantage."
+    },
+    {
+      "url": "https://www.adexchanger.com/data-driven-thinking/marketers-the-free-token-lunch-is-over-is-your-stack-ready/?utm_source=tldrmarketing",
+      "title": "Marketers, The Free Token Lunch Is Over. Is Your Stack Ready?",
+      "summary": "AI costs are changing as models use more tokens for reasoning and companies deploy them across more tasks. The biggest model isn't always the most economical choice. Simple decisions can use cheaper models, while complex problems may justify higher-cost reasoning models. The key metric is shifting from token price to the cost of getting the right answer. AI stacks need to match each task with the right model, rather than defaulting to one model for everything."
+    },
+    {
+      "url": "https://lbbonline.com/news/The-Efficiency-Trap-Jon-Reeves-VaynerMedia?utm_source=tldrmarketing",
+      "title": "Served vs Seen: Which Brand Are You?",
+      "summary": "Brands are optimizing for impressions and media efficiency while business growth declines. Being served an ad doesn't mean it was seen or remembered. Test creative organically on social platforms before investing in paid media, then put spend behind content that has already proven it can earn attention."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?utm_source=tldrmarketing",
+      "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot. Click here to learn more!"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/chloe-christine-allerton_cookies-ga4-ugcPost-7497363613255639040-OFri/?utm_source=tldrmarketing",
+      "title": "Cookie rejection ≠ invisible user",
+      "summary": "Enable Advanced Consent Mode and Google Signals in GA4 so that Google can model the behavior of users who declined cookies based on the patterns of those who accepted."
+    },
+    {
+      "url": "https://www.marketingbrew.com/stories/jack-in-the-box-collectibles-brand-strategy?utm_source=tldrmarketing",
+      "title": "Behind Jack in the Box's push into collectibles",
+      "summary": "Collectible merch has become its own acquisition channel for quick-service brands."
+    },
+    {
+      "url": "https://seths.blog/2026/08/thanks-for-your-quick-response/?utm_source=tldrmarketing",
+      "title": "“Thanks for your quick response”",
+      "summary": "Quick responses show thoughtfulness, helping brands stand out beyond price."
+    }
+  ]
+}

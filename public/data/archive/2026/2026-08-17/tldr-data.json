@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-08-17",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://codeblog.jonskeet.uk/2026/08/14/scratch-a-simple-data-model-find-a-complex-one/?utm_source=tldrdata",
+      "title": "Scratch a simple data model, find a complex one",
+      "summary": "A seemingly simple Bible data model quickly breaks down once real-world cases like verse ranges, missing verses, alternate numbering, repeated chapters, and out-of-order text appear. The practical lesson is to model only the complexity the product actually needs, rather than chasing perfect fidelity by default."
+    },
+    {
+      "url": "https://hudi.apache.org/blog/2026/08/14/hudi-for-read-heavy-workloads-point-lookups-with-indexes?utm_source=tldrdata",
+      "title": "Point Lookups on the Lakehouse: How Hudi Indexes Accelerate Read-Heavy Workloads",
+      "summary": "Apache Hudi's metadata-table indexes make selective lakehouse reads behave more like database lookups than full scans. Record-level, secondary, expression, and bloom-filter indexes can prune equality predicates to a few files."
+    },
+    {
+      "url": "https://www.datagravity.dev/p/why-ai-is-a-storage-workload?utm_source=tldrdata",
+      "title": "Why AI Is a Storage Workload",
+      "summary": "AI inference is becoming stateful infrastructure: long-context sessions, agents, RAG, and multimodal workflows create durable KV caches, prefixes, memories, and embeddings that are cheaper to store than recompute after enough reuse. The storage hierarchy is moving into the hot path, with HBM, DRAM, SSDs, object storage, CXL, and flash tiers shaping latency and cost."
+    },
+    {
+      "url": "https://aandreakis.com/posts/change-data-capture-doesnt-solve-dual-writes?utm_source=tldrdata",
+      "title": "Change-Data-Capture Doesn't Solve Dual-Writes",
+      "summary": "CDC makes downstream writes retryable, ordered, and observable, but it does not make destination systems safe to write twice. The destination still needs durable idempotency or a way to reject duplicates after recovery. This is a useful design-review lens for teams treating CDC as an automatic consistency fix."
+    },
+    {
+      "url": "https://www.dataengineeringweekly.com/p/on-benchmarking?utm_source=tldrdata",
+      "title": "On Benchmarking",
+      "summary": "A throughput number is not an architecture decision. Good benchmarks explain the workload, cache state, client behavior, failure modes, and scaling limit behind the result. Without that context, teams risk optimizing for a synthetic score instead of the bottlenecks their production data systems will actually hit."
+    },
+    {
+      "url": "https://wesmckinney.com/blog/agentic-engineering-aug-2026/?utm_source=tldrdata",
+      "title": "How Kenn is doing Agentic Engineering",
+      "summary": "Kenn uses coding agents at high volume while keeping humans in control of design, review, and final decisions. Detailed specs, adversarial reviews, and continuous verification let three engineers ship hundreds of PRs weekly without relying on autonomous loops."
+    },
+    {
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug?utm_source=tldrdata",
+      "title": "How we tracked down a 16-year-old SQLite bug",
+      "summary": "Tailscale spent six months tracing repeated SQLite corruption to a rare 16-year-old race condition between WAL checkpointing and write transactions, triggered more often by its aggressive manual checkpointing. The investigation led to a SQLite fix, stronger recovery tooling, and a broader lesson that even “boring” technology becomes risky when operated outside its common paths."
+    },
+    {
+      "url": "https://datafusion.apache.org/blog/2026/08/07/datafusion-comet-1.0.0?utm_source=tldrdata",
+      "title": "Apache DataFusion Comet 1.0.0 Release",
+      "summary": "Comet, the Spark accelerator built on Apache DataFusion, reached 1.0 with semantic versioning, Spark 4 support, broader operator coverage, and extensive correctness testing against Spark's own suite. It is aimed at teams that want faster Spark execution without rewriting jobs or replacing the surrounding Spark ecosystem."
+    },
+    {
+      "url": "https://hex.tech/blog/databench-agentic-analytics-benchmark/?utm_source=tldrdata",
+      "title": "Introducing DataBench",
+      "summary": "Hex's DataBench tests AI agents on realistic, messy analytics tasks and finds they are strong at gathering evidence but weaker at open-ended decisions where judgment matters. Models often fail by manufacturing certainty, missing subtle data traps or overthinking correct answers, showing why human review is still essential for complex analytical work."
+    },
+    {
+      "url": "https://opensearch.org/blog/whats-new-in-opensearch-3-8/?utm_source=tldrdata",
+      "title": "What's new in OpenSearch 3.8",
+      "summary": "OpenSearch 3.8 improves vector ingestion, radial query throughput, and median query latency while expanding AI-agent support. MCP now works across all agent types, tool discovery is richer, and gRPC streaming inference lowers token latency. Analytics teams also get new PPL/SQL tooling, Grok debugging, one-click Prometheus alerts, and search-relevance workflow improvements."
+    },
+    {
+      "url": "https://espresso.ai/post/snowflake-bytes-scanned-considered-harmful?utm_source=tldrdata",
+      "title": "Snowflake says this 149 GB query scanned -1.5 GB",
+      "summary": "Unloading Snowflake QUERY_HISTORY data to Parquet can corrupt values when large numbers are written as INT32. Casting the nine affected columns before export prevents overflow, bad joins, and incorrect analysis."
+    },
+    {
+      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/?utm_source=tldrdata",
+      "title": "Fairly Ranking the Most Brilliant Birds",
+      "summary": "A transparent ranking of the world's most brilliant birds combines chroma, colour variety, sample confidence and diversity, placing the orange-breasted bunting first. The bigger idea is that ranking systems are fairest when every factor is understandable, defensible and tied to a reasonable human judgement."
+    },
+    {
+      "url": "https://performancede.substack.com/p/querying-1-thousand-json-files-from?utm_source=tldrdata",
+      "title": "Querying 1 Thousand JSON Files From S3",
+      "summary": "DuckDB on ECS Fargate processed 1,000 JSON files about 3.4× faster than Spark on EMR Serverless and at lower cost."
+    },
+    {
+      "url": "https://github.com/EmbrasureAI/spark-observability-skills?utm_source=tldrdata",
+      "title": "Spark observability skills (GitHub Repo)",
+      "summary": "Embrasure has released agent skills for debugging and optimizing Spark using runtime data from the Spark History Server."
+    }
+  ]
+}

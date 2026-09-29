@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-09-25",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.elenaverna.com/p/what-its-like-to-work-at-an-ai-native?utm_source=tldrfounders",
+      "title": "What it's like to work at an AI-native company",
+      "summary": "AI-native company Lovable operates with a flat structure, minimizing traditional titles and meetings, while fostering high autonomy and rapid adaptation. The dynamic environment encourages employees to automate tasks and focus on high-impact, individual contributions, resulting in blurred roles and responsibilities. AI agents, paired with human \"agent parents,\" support daily operations, highlighting the shift towards leveraging AI in company operations."
+    },
+    {
+      "url": "https://installmap.com/research/yc-startups-llms-txt-api-mcp-by-batch?utm_source=tldrfounders",
+      "title": "YC startups are skipping the API and shipping an MCP server",
+      "summary": "36.1% of YC companies with an MCP server have no public API. 36.2% in the 2025 and 2026 batches served an llms.txt. The public API share has barely moved across batches. 81 of the 5,635 reachable YC domains are listed in the official MCP directory."
+    },
+    {
+      "url": "https://auren.substack.com/p/there-are-no-more-moats-you-never?utm_source=tldrfounders",
+      "title": "There are no more moats. You never had one",
+      "summary": "Companies are buying more software than ever, but there's no loyalty anymore. They leave the moment something better ships. Migrations are now free, and contracts are monthly. Companies need to have the best product for the week, and then do it again next week. It's no longer about protecting a moat, but going out on the attack."
+    },
+    {
+      "url": "https://www.saastr.com/the-saastr-ai-guide-to-building-a-top-tier-inbound-ai-agent-17000-conversations-600-meetings-booked-and-60-more-new-business/?utm_source=tldrfounders",
+      "title": "The SaaStr AI Guide to Building a Top-Tier Inbound AI Agent: 17,000 Conversations, ~600 Meetings Booked, and 60% More New Business",
+      "summary": "SaaStr's inbound AI agent conducted 17,000 conversations and booked 600 meetings, boosting new business by 60%. Key improvements included replacing long forms with real-time qualification and direct meeting booking on high-intent pages. The self-serve agent enhanced this by creating personalized, trackable documents and employing heat mapping for deeper insights, supported by a lightweight, custom booking system on their site."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/?utm_source=tldrfounders",
+      "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+      "summary": "Amazon CloudWatch Omni is an AI-powered observability experience for applications and agents. Working in Omni does not require access to the AWS Management Console. The telemetry sent to CloudWatch automatically appears in Omni with no reconfiguration required. Any other workload instrumented with OpenTelemetry sends its telemetry to an OpenTelemetry Protocol endpoint."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103225233725333516.html?utm_source=tldrfounders",
+      "title": "Introducing the Image & Video API",
+      "summary": "ElevenLabs' Image & Video API allows users to generate images and videos with the same ElevenLabs API used for speech. It supports 18 models, including Veo 3.1, Seedance 2.5, GPT Image 2.5, and Nano Banana Pro. The API is available today on Pro plans and above. Generations cost the same credits as in the ElevenLabs app, and failed generations aren't charged."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103184653373014509.html?utm_source=tldrfounders",
+      "title": "Introducing Fast Search in the Perplexity Search API",
+      "summary": "Fast Search runs on a Rust-based retrieval and ranking service called Photon that Perplexity built with a small team of engineers and hundreds of agents. It returns 95% of search results in 230 milliseconds or less. Fast Search has a median latency of 160 milliseconds, and it spends less on compute on ranking than Perplexity's default preset. Photon now handles all of the retrieval and ranking across Perplexity, replacing the open-source engine the company was using before."
+    },
+    {
+      "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/?utm_source=tldrfounders",
+      "title": "What it takes to build great products now",
+      "summary": "Getting there fast doesn't mean you've built something great. Teams need to decide whether a direction is the best, whether the product fits the team, and whether the product is worth building. The teams answering those questions well are strong in speed, direction, and differentiation. They'll keep moving through the final stretch, weigh many directions before betting on one, and shape the result into something only they would make."
+    },
+    {
+      "url": "https://postquantum.com/quantum-commercialization/venture-due-diligence-decline/?utm_source=tldrfounders",
+      "title": "Why Venture Due Diligence Got Worse for Deep Tech",
+      "summary": "Venture due diligence for deep tech has worsened, driven by deployment pressure, herding behavior, reliance on lead investors' reputations, and the removal of independent expert review layers. Deals in frontier tech sectors like AI and quantum often close rapidly without thorough technical vetting, exposing investors to unverified risks. Limited partners are advised to mandate independent technical feasibility reviews before deep-tech investments to enhance diligence and protect their capital."
+    },
+    {
+      "url": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle?utm_source=tldrfounders",
+      "title": "The Most Important Market in AI is the Middle",
+      "summary": "Demand is a normal distribution with a fat middle, and tokens may shift to a commodity as intelligence per dollar explodes."
+    },
+    {
+      "url": "https://www.indiehackers.com/post/tech/this-founder-solved-his-agencys-problem-and-turned-the-solution-into-a-3m-arr-saas-uS8zjhggjKA4eoXFAUZi?utm_source=tldrfounders",
+      "title": "This founder solved his agency's problem and turned the solution into a $3M ARR SaaS",
+      "summary": "Vacation Tracker's landing page sat online for 18 months before someone on the waitlist tracked down the founder to ask when it would launch."
+    },
+    {
+      "url": "https://itamargilad.com/good-ideas/?utm_source=tldrfounders",
+      "title": "Why Good Product Ideas Don't Survive",
+      "summary": "Good product ideas often fail to survive classic development processes due to ineffective prioritization, flawed specification, and compromised implementation."
+    }
+  ]
+}

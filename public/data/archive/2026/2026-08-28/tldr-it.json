@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-28",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/?utm_source=tldrit",
+      "title": "Nvidia is reportedly buying Hugging Face for $12.9B",
+      "summary": "Nvidia has reportedly agreed to acquire Hugging Face for $12.9 billion, though conflicting reports say a deal may not yet be signed. The acquisition would give Nvidia control of one of the largest open-source AI ecosystems and another route into cloud compute."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/?utm_source=tldrit",
+      "title": "Amazon triples its Nvidia GPU order with 2 million more chips",
+      "summary": "AWS plans to add another 2 million Nvidia GPUs, including Blackwell Ultra and Rubin systems, after demand exceeded its earlier million-GPU commitment. Nvidia's models and broader software stack will also expand across Bedrock and SageMaker."
+    },
+    {
+      "url": "https://www.differentshelf.com/the-coordination-tax-in-your-software-estate/?utm_source=tldrit",
+      "title": "The Coordination Tax in Your Software Estate",
+      "summary": "Large companies with proprietary software should reconsider polyrepo defaults because repository boundaries create recurring coordination costs across ownership, backlogs, releases, and controls. A monorepo can make related software cheaper to change, improve reuse and enable broader AI productivity, but the business case should be based on measured coordination work and must account for migration, tooling, ownership, and access-control costs."
+    },
+    {
+      "url": "https://siliconangle.com/2026/08/27/five-thoughts-on-nvidias-quarter-and-what-it-means-for-enterprise-it-buyers/?utm_source=tldrit",
+      "title": "Nvidia's AI demand is starting to look supply-constrained",
+      "summary": "Nvidia expects demand to continue outstripping supply as AI infrastructure spending expands across hyperscalers, enterprises, governments, and AI labs. Persistent constraints could increasingly shape enterprise pricing, procurement timelines, and architecture decisions."
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-45bn-compute-capacity-agreement-with-nscale-report/?utm_source=tldrit",
+      "title": "Anthropic signs $45B AI compute deal with Nscale",
+      "summary": "Anthropic will reportedly lease 460MW of AI capacity from Nscale's West Virginia campus in a six-year, $45 billion agreement. The deployment will use Nvidia Vera Rubin systems and is expected to come online in late 2027."
+    },
+    {
+      "url": "https://digitalitnews.com/dun-bradstreet-brings-commercial-graph-to-perplexity/?utm_source=tldrit",
+      "title": "Dun & Bradstreet Brings Commercial Graph to Perplexity",
+      "summary": "Dun & Bradstreet is partnering with Perplexity to integrate its D&B Commercial Graph and risk analytics into Perplexity and the Perplexity Computer agent platform through Model Context Protocol servers. The integration gives business users access to verified company identities, ownership relationships, risk intelligence, and auditable data for workflows including KYC/KYB, procurement, finance, compliance, and sales."
+    },
+    {
+      "url": "https://www.theregister.com/virtualization/2026/08/27/nutanix-built-20m-ai-cluster-to-reduce-use-of-copilot-and-claude-expects-roi-in-a-year/5292823?utm_source=tldrit",
+      "title": "Nutanix built a $20M internal AI cluster to cut SaaS AI costs",
+      "summary": "Nutanix built a $20 million internal AI cluster partly to reduce its reliance on services such as Copilot and Claude. The company expects the infrastructure to pay for itself within roughly a year."
+    },
+    {
+      "url": "https://support.claude.com/en/articles/14128775-claude-code-on-console-to-enterprise-migration?utm_source=tldrit",
+      "title": "Claude Code on Console to Enterprise migration",
+      "summary": "This guide explains how teams can migrate Claude Code access from the Console API to Claude Enterprise. Users generally do not need to move locally stored CLI session history. Administrators instead provision Enterprise accounts, configure identity and access controls, and have developers switch their login method, gaining centralized policies, analytics, audit logs, and hierarchical spend limits."
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/palo-alto-networks-ceo-held-144210530.html?utm_source=tldrit",
+      "title": "Palo Alto Networks CEO held acquisition talks with both Okta and Datadog",
+      "summary": "Palo Alto Networks CEO reportedly explored acquisitions of Okta and Datadog before pursuing a $25 billion CyberArk deal."
+    },
+    {
+      "url": "https://siliconangle.com/2026/08/26/z-ai-open-sources-ox-alpha-model-as-glm-5-3-flash/?utm_source=tldrit",
+      "title": "Z.ai open-sources GLM-5.3-Flash",
+      "summary": "Z.ai released GLM-5.3-Flash, previously known anonymously as Ox Alpha, as an open model."
+    }
+  ]
+}

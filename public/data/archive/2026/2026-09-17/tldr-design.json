@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-17",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://petapixel.com/2026/09/16/photoshop-and-premiere-elements-2027-make-photo-and-video-easy/?utm_source=tldrdesign",
+      "title": "Photoshop and Premiere Elements 2027 Make Photo and Video Easy",
+      "summary": "Adobe has launched Photoshop Elements 2027 and Premiere Elements 2027 with new AI-powered features aimed at beginners, including an AI Assistant, Generative Expand, Generative Upscale, and smarter editing tools that simplify photo and video workflows. Both apps also add improved organization, contextual editing guidance, and AI-generated creative tools while maintaining their focus on ease of use over professional-grade complexity."
+    },
+    {
+      "url": "https://webflow.com/blog/2026-builder-keynote?utm_source=tldrdesign",
+      "title": "For the Builders: Canvas, CMS, and Quality-of-Life Improvements from Webflow Conf 2026",
+      "summary": "Webflow Conf 2026's Builder Keynote introduced canvas, CMS, and workflow updates, following 151 improvements shipped since last year based on user feedback. New launches include visual editing for AI code components, components usable directly within CMS items, and a breakpoint canvas showing all device views simultaneously. Upcoming features include popovers, default slot components, Agentic Translation, and component style props, alongside reported performance gains of up to 98% faster copying and 80% faster publishing."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/15/ios-27-gives-camera-app-on-iphone-three-powerful-new-features/?utm_source=tldrdesign",
+      "title": "iOS 27 gives Camera app on iPhone three powerful new features",
+      "summary": "iOS 27 introduces major Camera app upgrades, including an AI-powered Siri mode that can understand what the camera sees, customizable camera controls, and exclusive iPhone 18 Pro features like manual aperture and shutter controls, enhanced Photographic Styles, and Apple Reference Image for verifying photo authenticity. The update also makes it easier to personalize the Camera interface by adding or removing controls based on how you shoot."
+    },
+    {
+      "url": "https://designtokens.substack.com/p/6-common-mistakes-in-design-tokens?utm_source=tldrdesign",
+      "title": "Six Common Mistakes in Design Tokens Naming",
+      "summary": "Weak design token names slow searches, inflate duplicates, and turn governance into guesswork, according to six recurring naming mistakes design systems teams make. Common pitfalls include naming tokens after components too early, baking current values like colors or pixel sizes directly into names, and reordering name segments inconsistently. Other traps are mixing casing and separators, using vague modifiers like \"primary\" without defined scope, and renaming tokens without a phased migration and alias strategy."
+    },
+    {
+      "url": "https://smart-interface-design-patterns.com/articles/children-centered-design/?utm_source=tldrdesign",
+      "title": "Designing with Children, Not for Them",
+      "summary": "A free handbook from Save the Children Finland outlines how to co-design digital products with children rather than for them, through consent, play, and trust-building. Practical techniques include sitting at a child's eye level, using pictures and props instead of direct interviews, and capping group sessions at six children per two adults. Success is measured by how heard a child felt rather than what adults intended, since children lose motivation quickly and need visible, steady progress."
+    },
+    {
+      "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?utm_source=tldrdesign",
+      "title": "For the Designless",
+      "summary": "AI hasn't changed what designers do—it has changed who can attempt design, making creative tools accessible to people who previously lacked the knowledge or budget to create effective visual communication. The key distinction is between users who genuinely benefit from AI assistance, those whose handmade work is more authentic than polished output, and businesses that use AI simply to cut corners, with the greatest value coming from helping underserved users create better, culturally relevant designs through strong visual references. The future of AI-assisted design depends less on generating attractive visuals and more on producing work that reflects local context and authentic visual traditions instead of generic, homogenized aesthetics."
+    },
+    {
+      "url": "https://handsontable.com/?utm_source=tldrdesign",
+      "title": "Pre-built Data Table Component (Website)",
+      "summary": "Get a production-ready table that feels like Excel and adapts to your use case with full control, performance at scale, and rock-solid reliability."
+    },
+    {
+      "url": "https://blenderhunt.com/?utm_source=tldrdesign",
+      "title": "Marketplace for Blender Artists and Creators (Website)",
+      "summary": "BlenderHunt features add-ons, geo nodes, materials, and 3D assets from independent artists worldwide. Human-made, hand-reviewed."
+    },
+    {
+      "url": "https://quackscreen.com/?utm_source=tldrdesign",
+      "title": "Native Mac Notch Screen Recorder and Screenshots (Website)",
+      "summary": "The fastest way to share what you mean. Record a clip or grab a screenshot, then drag it from the notch into Slack, Mail, or any app."
+    },
+    {
+      "url": "https://uxcrush.com/product-strategy?utm_source=tldrdesign",
+      "title": "Product Strategy Starts with What You Will Not Build",
+      "summary": "Product strategy is defined by what a team explicitly refuses to build, not merely a revenue goal paired with a feature list. Marty Cagan calls the choice of which problems to solve the strategy layer sitting above both discovery and delivery, one most companies skip entirely. Three tools do the work: Playing to Win's nested choices, Rumelt's kernel as a fluff detector, and Biddle's Netflix-born DHM, while roadmaps merely sequence the bets."
+    },
+    {
+      "url": "https://www.casestudy.club/marek-minor-interview?utm_source=tldrdesign",
+      "title": "The Designer Who Drew Cursor's Icons",
+      "summary": "Marek Minor, founder of Amsterdam studio Minor Adventures, spent a year hand-drawing Cursor's entire icon set of more than 600 icons in two sizes and styles. The set replaced Cursor's inherited VS Code Codicons, with Minor working closely with Head of Design Ryo through explorations like 156 versions of a single hamburger icon. AI helped him think through concepts and build companion tools like a migration dashboard, but he drew every icon by hand and still maintains the set today."
+    },
+    {
+      "url": "https://the-brandidentity.com/project/how-recent-gave-spectrum-one-identity-for-music-wellness-and-place?utm_source=tldrdesign",
+      "title": "How Recent™ gave Spectrum one identity for music, wellness and place",
+      "summary": "Spectrum's refreshed identity is built around three core pillars—Ritual, Pulse, and Body—which are woven into an interlaced \"S\" logo that symbolizes the festival's blend of music, wellness, and community. The flexible visual system uses a spectrum of purple hues, New Edge 666 typography, abstract gradients and halftones, and a practical pill-shaped information system that adapts seamlessly across signage, merchandise, and digital touchpoints. Rather than relying on clichés of Aruba or festival culture, the brand expresses the island through its content and experiences, creating a premium identity that can shift effortlessly between high-energy nightlife and calm wellness moments."
+    },
+    {
+      "url": "https://www.creativeboom.com/inspiration/marie-lou-garcia-draws-moments-of-calm-and-serenity/?utm_source=tldrdesign",
+      "title": "How Marie-Lou Garcia turns vacations, friendships and quiet days into serene illustrations",
+      "summary": "Illustrator Marie-Lou Garcia transforms quiet personal moments into serene artwork, encouraging artists to embrace creative freedom, trust their intuition, and stay true to their craft despite industry challenges."
+    },
+    {
+      "url": "https://webdesignerdepot.com/canva-is-quietly-publishing-nearly-1-million-websites-a-month/?utm_source=tldrdesign",
+      "title": "Canva is Quietly Publishing Nearly 1 Million Websites a Month",
+      "summary": "Canva now publishes close to one million new websites every month."
+    },
+    {
+      "url": "https://mashable.com/tech/iphone-duo-opening-animation-videos?utm_source=tldrdesign",
+      "title": "The iPhone Duo's Opening Animation is a 10/10 Design Flex for Apple",
+      "summary": "Apple's foldable iPhone Duo debuted an opening animation that blurs the outer screen into the inner display, creating the illusion of glass rather than a phone screen."
+    }
+  ]
+}

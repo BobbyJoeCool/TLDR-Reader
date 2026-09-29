@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-08-19",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cursor.com/blog/git-at-any-scale?utm_source=tldrdev",
+      "title": "Git at any scale",
+      "summary": "Traditional approaches to hosting Git at scale, such as GitHub's 3PC-based Spokes architecture, face severe operational overhead and horizontal scaling bottlenecks due to Git's packfile design and directed acyclic graph structure. To overcome these limitations, Cursor developed Continuity, a stateless storage architecture backed by an S3 write-ahead log that enables linearizable pushes, effortless operational recovery, and linear horizontal read scaling."
+    },
+    {
+      "url": "https://denodell.com/blog/your-spa-is-leaking-memory-soak-test-it?utm_source=tldrdev",
+      "title": "Your SPA Is Leaking Memory. Soak Test It",
+      "summary": "SPAs never reload, so leaked listeners, timers, and detached nodes accumulate until the tab dies. 86% of 500 scanned React/Vue/Angular repos register something they never clean up. The fix is a Playwright soak test that loops one round-trip flow a few hundred times in a single browser context, reads node and listener counts over CDP before and after (heap is too noisy), and asserts they don't climb."
+    },
+    {
+      "url": "https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai?utm_source=tldrdev",
+      "title": "Improving infrastructure efficiency for growing demand in the age of AI",
+      "summary": "Due to AI, Dropbox has optimized capacity planning, hardware, power, and cooling as one coupled system rather than just building more data centers. Its team has squeezed more from the existing fleet via Deep Sleep (spinning down idle drives and servers, recoverable in minutes), workload rebalancing so local hotspots don't trigger global capacity adds, and denser drives using shingled magnetic recording. They measure efficiency as watts per petabyte instead of total power draw, which has improved over 50% since 2020."
+    },
+    {
+      "url": "https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes?utm_source=tldrdev",
+      "title": "The Case for Software Craftsmanship in the Era of Vibes",
+      "summary": "When code generation stops being the bottleneck, quality should matter more, not less. Judge work by whether the system is reliable, understandable, and changeable, not by volume shipped. Messy codebases now penalize you twice, since they slow the AI tools working in them."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/the-case-against-the-full-stack-builder?utm_source=tldrdev",
+      "title": "The \"Full Stack Builder\" is a terrible idea",
+      "summary": "While AI enables individual team members to rapidly build polished prototypes on their own, bypassing traditional cross-functional handoffs removes the domain checks and balances that prevent hallucinations and flawed assumptions. To succeed in an AI-native environment, product teams must shift from simply prioritizing what to build to curating what to ship."
+    },
+    {
+      "url": "https://tanstack.com/hotkeys/latest?utm_source=tldrdev",
+      "title": "TanStack Hotkeys (Website)",
+      "summary": "TanStack Hotkeys is a keyboard input library that transforms key events into a typed command system with features like scopes, multi-key sequences, and held-key gestures. It also provides tools to record custom bindings, handle conflict detection, and automatically display platform-specific shortcuts."
+    },
+    {
+      "url": "https://saggar.marginalutility.dev/?utm_source=tldrdev",
+      "title": "Saggar (Website)",
+      "summary": "Saggar is a native macOS terminal manager designed to organize shells, tests, and AI coding agents across multiple projects by highlighting sessions that need user decisions. It keeps active work unobtrusive while providing a unified priority queue and mobile companion support for remote monitoring and input."
+    },
+    {
+      "url": "https://termdom.org/?utm_source=tldrdev",
+      "title": "TermDOM (Website)",
+      "summary": "TermDOM is a JavaScript library that allows developers to build terminal user interfaces and interactive CLIs using standard HTML, CSS, and DOM APIs with automatic re-rendering."
+    },
+    {
+      "url": "https://blog.adafruit.com/2026/08/18/the-benchmark-pocalypse?utm_source=tldrdev",
+      "title": "The Benchmark-pocalypse",
+      "summary": "LLM agents have made it effortless to \"reward hack\" and overfit performance benchmarks, allowing developers and startups to boast impressive speedups that do not translate to real-world performance. An experiment where an unsupervised AI agent optimized a regex engine to beat benchmark suites without true architectural improvements showed that software benchmarks are increasingly untrustworthy without proper auditing."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer/?utm_source=tldrdev",
+      "title": "Consistency is the new latency: AI at the data layer",
+      "summary": "Agents that read stale data from lagging replicas build entire reasoning chains on wrong facts, and writing those errors back creates self-reinforcing \"hallucination debt.\" Since LLMs treat retrieved data as current truth, making sure of contextual integrity is an architectural responsibility. AWS recommends matching each task to one of three replication patterns: strong global consistency (Aurora Global Database/DSQL) for high-stakes data, conditional writes on DynamoDB Global Tables for scalable shared memory, and high-velocity intake for rapid ingestion."
+    },
+    {
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx?utm_source=tldrdev",
+      "title": "Incident with GitHub.com",
+      "summary": "GitHub experienced widespread outages and elevated error rates across multiple services caused by an autoscaling misconfiguration on an Istio sidecar pod that cascaded into load-balancer network saturation. Recovery was delayed when aggressive retry logic and a latent VS Code bug caused a tenfold traffic surge to the Copilot Token Service, which was eventually stabilized by throttling requests and reducing gateway retries."
+    },
+    {
+      "url": "https://newsletter.kentbeck.com/p/composable-tests?utm_source=tldrdev",
+      "title": "Composable Tests",
+      "summary": "Test suites can be made faster, more readable, and more specific by composing orthogonal, non-redundant tests instead of duplicating assertions across test cases."
+    },
+    {
+      "url": "https://jeremymorrell.dev/blog/working-with-dynamic-workers/?utm_source=tldrdev",
+      "title": "Working with Dynamic Workers",
+      "summary": "This post shows how to build safe, user-programmable web applications using Cloudflare's lightweight Dynamic Workers."
+    },
+    {
+      "url": "https://www.modular.com/blog/mojo-open-source?utm_source=tldrdev",
+      "title": "Mojo🔥 is now open source!",
+      "summary": "Modular has fully open-sourced the Mojo programming language compiler and toolchain under the Apache 2.0 license with LLVM exceptions."
+    },
+    {
+      "url": "https://blog.exe.dev/athena-deploys-exe?utm_source=tldrdev",
+      "title": "Have an Agent Babysit Your Deployments",
+      "summary": "Instead of relying on rigid automated gating systems or overburdened engineers, exe.dev uses an AI agent named Athena to autonomously oversee, analyze, and safely gate continuous deployments by monitoring code diffs, metrics, and logs."
+    }
+  ]
+}

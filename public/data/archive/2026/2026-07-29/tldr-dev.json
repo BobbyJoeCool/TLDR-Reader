@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-29",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/?utm_source=tldrdev",
+      "title": "Inside Zig's Incremental Compilation",
+      "summary": "The implementation of incremental compilation in the Zig compiler allows for fast rebuilding by detecting changes in individual functions and declarations. This feature has evolved from a proof-of-concept to a reliable tool that speeds up development workflows, with rebuilds taking only milliseconds after the initial build. The process involves a detailed pipeline, including file processing, semantic analysis, code generation, and linking."
+    },
+    {
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses?utm_source=tldrdev",
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "summary": "Researchers have used the Claude Mythos Preview to identify vulnerabilities in cryptographic algorithms, specifically targeting the HAWK digital signature scheme and the Advanced Encryption Standard (AES). The first discovery shows an attack that effectively weakens HAWK's security by halving its key strength without affecting deployed systems, while the second improves attack efficiency on a reduced-round version of AES by up to 800 times."
+    },
+    {
+      "url": "https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/?utm_source=tldrdev",
+      "title": "You don't have to be smart if you can think clearly",
+      "summary": "Effective problem-solving in engineering requires the ability to think clearly and methodically, especially when faced with challenges that cannot be solved intuitively. Smart engineers often struggle when they encounter such problems, whereas strong engineers are able to systematically evaluate and address issues."
+    },
+    {
+      "url": "https://antirez.com/news/172?utm_source=tldrdev",
+      "title": "The real AI risk is inside the labs",
+      "summary": "The primary AI risks are found within the confines of advanced AI labs, where severe incidents can arise due to human error or mismanagement during model testing, rather than from the public release of open models. There is an urgent need for a collaborative international approach to AI safety, as individual companies are insufficiently equipped to evaluate the potential dangers posed by powerful AI systems."
+    },
+    {
+      "url": "https://github.com/openai/codex-security?utm_source=tldrdev",
+      "title": "Codex Security (GitHub Repo)",
+      "summary": "Codex Security is a CLI and TypeScript SDK designed to detect, validate, and address security vulnerabilities in code, allowing users to scan repositories and track findings over time."
+    },
+    {
+      "url": "https://github.com/microsoft/flint-chart?utm_source=tldrdev",
+      "title": "Flint Agent (GitHub Repo)",
+      "summary": "Flint is a visualization language designed for AI agents that simplifies the creation of expressive charts through human-editable specifications, optimizing layout and configurations based on data and chart types. The project consists of two main components: the `flint-chart` library, which compiles specifications into various backend formats, and the `flint-chart-mcp` server, allowing agents to generate and validate charts within their conversational environments."
+    },
+    {
+      "url": "https://fermisense.com/when-machines-take-the-wheel/?utm_source=tldrdev",
+      "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier",
+      "summary": "Companies that adopt AI-first strategies see variations in performance, with top AI spenders doubling their revenue compared to minimal gains for those with no AI investment. Successful AI implementation hinges on redesigning workflows, incentivizing experimentation, providing business context, measuring impact, and setting clear goals within AI budgets. AI budgets are best managed through fine-tuning open-source models with reinforcement learning."
+    },
+    {
+      "url": "https://www.0xkato.xyz/how-to-research-technical-topics-with-ai?utm_source=tldrdev",
+      "title": "How to Research Technical Topics With AI",
+      "summary": "The process of researching technical topics using AI involves first narrowing down a broad question to create a more focused inquiry, which helps in understanding key concepts and their interdependencies. AI can assist in locating and analyzing relevant sources, but it's needed to independently verify claims and maintain a distinction between personal explanations and original sources. The final stage of research is reconstructing the information without AI assistance."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/?utm_source=tldrdev",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "Numerous private Claude chats and interactive documents were unintentionally made publicly searchable on Google due to a flaw in the sharing feature, exposing sensitive information such as health records and personal details before being fixed."
+    },
+    {
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html?utm_source=tldrdev",
+      "title": "Kimi K3 Architecture Notes",
+      "summary": "The Kimi K3 architecture is a larger and more efficient open-weight model that introduces elements like LatentMoE and attention residuals while eliminating RoPE layers in favor of NoPE."
+    },
+    {
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/?utm_source=tldrdev",
+      "title": "Half-Life ported to Mac OS 9",
+      "summary": "Half-Life has been successfully ported to PowerPC-based Macintosh computers running Mac OS 9, 28 years after its original release, allowing players to experience the game along with additional content like Blue Shift and Opposing Force."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic?utm_source=tldrdev",
+      "title": "How building software is changing at Anthropic",
+      "summary": "Anthropic is transforming software engineering practices through AI tooling, resulting in more fluid prototyping, lots of use of AI for code reviews and testing, the prevalence of two-pizza teams, and a shift in project implementation dynamics."
+    }
+  ]
+}

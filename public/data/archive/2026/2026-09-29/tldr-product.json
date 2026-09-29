@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-09-29",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html?utm_source=tldrproduct",
+      "title": "What Would A Serious AI Product Look Like?",
+      "summary": "Current AI tools often act as misleading software. Serious AI products must feature error checking, robust citations, no first-person language, and non-natural language interfaces when appropriate."
+    },
+    {
+      "url": "https://www.svpg.com/experts-lead-experts?utm_source=tldrproduct",
+      "title": "Experts Lead Experts",
+      "summary": "AI is pushing leaders back into hands-on work, but that shift may be temporary. As building gets cheaper, expert leadership becomes more important."
+    },
+    {
+      "url": "https://www.computerweekly.com/blog/Data-Matters/Stop-managing-AI-agents-like-software-Start-managing-them-like-new-hires?utm_source=tldrproduct",
+      "title": "Stop managing AI agents like software. Start managing them like new hires",
+      "summary": "Organizations fail to deploy enterprise AI agents because they treat them like software rollouts rather than new hires needing onboarding and data prep. Clean data, workflow integration, and governance present far greater bottlenecks than model performance."
+    },
+    {
+      "url": "https://hitesh.in/2026/best-ai-still-feels-broken/?utm_source=tldrproduct",
+      "title": "Google has the best AI money can buy. Its products still feel broken",
+      "summary": "Google's search quality failures stem from product and organizational flaws rather than model limitations. By layering probabilistic AI features onto a deterministic search interface without updating UI promises or user feedback loops, companies risk eroding user trust through unverified AI outputs."
+    },
+    {
+      "url": "https://www.saastr.com/everyone-should-publish-the-deepest-most-direct-competitive-evals-they-can-case-study-100m-arr-gorgias-for-ai-cx/?utm_source=tldrproduct",
+      "title": "Everyone Should Publish the Deepest, Most Direct Competitive Evals They Can",
+      "summary": "B2B AI vendors should publish deep, direct, and continuous competitive evaluations against named competitors to build buyer trust, as demonstrated by Gorgias open-sourcing a live evaluation harness across 18 vendors."
+    },
+    {
+      "url": "https://hraness.com/reading/raise-the-ceiling-how-to-scale-intent-quality-and-artistry?utm_source=tldrproduct",
+      "title": "Raise the ceiling: how to scale intent, quality, and artistry with AI",
+      "summary": "The AI building boom risks producing generic \"zombie UI\" if teams ignore intent and artistry. To counter this, teams must maintain a strong design POV, encode standards into production, refuse to settle for standard builds, and invent new interfaces with AI."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres?utm_source=tldrproduct",
+      "title": "We're building multiplayer AI. Here's what we've learned so far",
+      "summary": "Traditional chat interfaces like Slack create an information bottleneck. It's essential to establish a shared context system to maintain aligned results and prevent compounding divergences when multiple users and AI agents collaborate."
+    },
+    {
+      "url": "https://konvoy.beehiiv.com/p/value-accrual-flywheel?utm_source=tldrproduct",
+      "title": "Value Accrual Flywheel",
+      "summary": "Software accrues long-term value by creating dependencies that compound over time and increase switching costs. This process involves dependency formation across multiple categories, internal and external compounding such as network effects, and critical workflow multipliers that dictate overall switching risk and revenue capture."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2104597304984670293.html?utm_source=tldrproduct",
+      "title": "The hidden cost of delegating to AI",
+      "summary": "Delegating to AI leaves cognitive load and accountability with the user."
+    },
+    {
+      "url": "https://axiom.co/blog/the-agents-would-like-a-word-with-you?utm_source=tldrproduct",
+      "title": "The agents would like a word with you",
+      "summary": "Axiom has added a feedback tool to its MCP server that enables AI agents to directly report roadblocks during workflows."
+    }
+  ]
+}

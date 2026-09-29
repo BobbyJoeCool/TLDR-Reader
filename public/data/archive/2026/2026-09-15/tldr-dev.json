@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-15",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit?utm_source=tldrdev",
+      "title": "Why Machine Learning Research Agents Don't Overfit, and What Compression Has to Do with It",
+      "summary": "Successful research strategies often survive an extreme information bottleneck, suggesting that they capture real structure instead of memorizing validation data. Across eight datasets, fresh agents reproduced most results from prompts as short as 32 tokens, while deliberately overfit gains disappeared after compression."
+    },
+    {
+      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them?utm_source=tldrdev",
+      "title": "When LLM Judges Agree, Should We Believe Them?",
+      "summary": "Agreement among LLM judges can overstate confidence when models share prompts, architectures, or blind spots. A dependence-aware aggregation method models both judge reliability and pairwise correlations, improving accuracy by 9% to 14% over weighted majority voting across three evaluation tasks."
+    },
+    {
+      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic?utm_source=tldrdev",
+      "title": "Agentic Coding Is Straining CI. Here's How We Scaled Test Impact Analysis at Anthropic",
+      "summary": "Agentic coding drove a 25x increase in CI jobs over six months, overwhelming a singleton test selection service despite bigger machines, package sharding, and daily restarts. Anthropic replaced it with stateless listener workers, a journal in an in-memory store, and a separate rollup consumer, creating a horizontally scalable system that has remained stable."
+    },
+    {
+      "url": "https://zanlib.dev/blog/do-you-still-read-the-code?utm_source=tldrdev",
+      "title": "Do You Still Read the Code?",
+      "summary": "Accelerators are those who use AI while retaining an understanding of the implementation, while vibecoders are those who treat code as disposable and invest in specifications and evaluation. Teams must agree on maintenance expectations and preserve the intent behind decisions because reading every line does not by itself eliminate cognitive or intent debt."
+    },
+    {
+      "url": "https://seldo.com/posts/we-are-all-product-engineers-now?utm_source=tldrdev",
+      "title": "We Are All Product Engineers Now",
+      "summary": "If agents absorb the software development lifecycle, the durable human work may be deciding what to build, defining quality, and making products delightful. Collapsing implementation costs will expand software demand, turn developers into product engineers, and force companies to rethink how juniors acquire the tacit judgment needed to become seniors."
+    },
+    {
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/?utm_source=tldrdev",
+      "title": "How to Write an Effective Software Design Document",
+      "summary": "Effective design docs focus review on consequential and costly-to-reverse decisions before implementation begins. This guide explains when a doc is worthwhile, how much detail to invest, which sections to include, and how goals, non-goals, scenarios, diagrams, constraints, and alternatives sharpen feedback."
+    },
+    {
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/?utm_source=tldrdev",
+      "title": "Charts Built for Chat",
+      "summary": "dbt Charts is an open-source declarative language that expresses an interactive dashboard in one auditable YAML file with SQL, Markdown, and Jinja. Its CLI renders several output formats, validates queries and visual choices, integrates with dbt projects, and powers a hosted public beta with conversational analytics and access controls."
+    },
+    {
+      "url": "https://sunkcost.ai/?utm_source=tldrdev",
+      "title": "Sunk Cost (Website)",
+      "summary": "Sunk Cost estimates when local AI hardware will break even against paying for model APIs, and it is willing to conclude that it never will. The calculator factors in model fit, local speed, daily token use, context size, input-to-output ratio, electricity, API latency, and falling API prices."
+    },
+    {
+      "url": "https://cline.ghost.io/cline-desktop-an-open-source-app-for-open-weight-models?utm_source=tldrdev",
+      "title": "Cline Desktop: An Open-Source App for Open-Weight Models",
+      "summary": "Cline Desktop is an open-source workspace for running parallel agents, scheduling recurring tasks, and extending workflows with plugins, MCP servers, and skills. The Mac and Windows beta supports more than 300 models, local or bring-your-own providers, and importing tasks from Claude Code, Codex, or other agents."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left?utm_source=tldrdev",
+      "title": "What Happens to Engineers When AI Writes All the Code?",
+      "summary": "As agents produce more code, engineers shift toward monitoring, setting direction, deciding scope, evaluating changes, and improving the entire product loop. PostHog reports that agent-opened pull requests rose from about 20% to 70% in four months, while merged pull request volume more than tripled with only 10% engineering headcount growth."
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/?utm_source=tldrdev",
+      "title": "Major Updates for Apple's Software Platforms Are Now Available",
+      "summary": "Apple's latest platform updates begin rolling out with Siri AI, personal context, onscreen awareness, broader app actions, new child-safety controls, and performance improvements across its devices. The release varies by language and region, while some server-side Apple Intelligence features have daily usage limits."
+    },
+    {
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review?utm_source=tldrdev",
+      "title": "GPT-5.6 Luna vs GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "summary": "Across 50 pull requests, Luna found 69 verified bugs for $0.20 versus Astra's 92 for $5.66, but Luna had lower precision and found fewer than half as many security bugs."
+    },
+    {
+      "url": "https://andonlabs.com/blog/why-we-built-pion?utm_source=tldrdev",
+      "title": "Why We Built Pion",
+      "summary": "Pion is a persistent agent platform built from experiments running vending machines, a store, a cafe, and radio stations with AI."
+    },
+    {
+      "url": "https://pop.rdi.sh/dario-please/?utm_source=tldrdev",
+      "title": "Dario, Please!",
+      "summary": "Proposals to regulate open-weight models and grant frontier labs an antitrust waiver would consolidate power in the companies asking the public to trust them."
+    },
+    {
+      "url": "https://seangoedecke.com/slow-devex-will-bottleneck-fast-models?utm_source=tldrdev",
+      "title": "Slow Developer Experience Will Bottleneck Fast Models",
+      "summary": "As model inference becomes nearly instantaneous, slow file access, compiler runs, and tests will dominate agent latency, pushing teams to optimize developer tooling for machines as aggressively as they once did for people."
+    }
+  ]
+}

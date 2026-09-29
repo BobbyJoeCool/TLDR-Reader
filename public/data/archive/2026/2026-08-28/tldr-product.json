@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-08-28",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://media.deliveringvalue.co/p/youre-5-decisions-away-from-1m-users?utm_source=tldrproduct",
+      "title": "You're 5 decisions away from 1M+ users",
+      "summary": "Strong PLG starts with understanding where customers find value and where growth is leaking. Then prioritize the biggest revenue opportunities, balance sales with self-service, and make ownership explicit."
+    },
+    {
+      "url": "https://pub.towardsai.net/from-ai-demo-to-ai-product-what-sits-between-a-prompt-and-production-reality-5d5d2723c7a7?utm_source=tldrproduct",
+      "title": "From AI Demo to AI Product: What Sits Between a Prompt and Production Reality",
+      "summary": "While vibe coding quickly generates impressive AI prototypes, it often masks the rigorous engineering needed for production. To prepare these applications for real users, teams must implement robust controls for output contracts, cost management, security, and observability."
+    },
+    {
+      "url": "https://www.scrum.org/resources/blog/agility-might-have-been-waiting-ai?utm_source=tldrproduct",
+      "title": "Agility Might Have Been Waiting for AI",
+      "summary": "AI is shifting bottlenecks, not eliminating them. Organizations need to focus on outcomes and redesign how work flows around the new constraints rather than measuring AI activity."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/just-another-transformation?utm_source=tldrproduct",
+      "title": "Just Another Transformation",
+      "summary": "AI amplifies the organization it enters, including its dysfunction. Companies should fix strategy, culture, collaboration, and data foundations before expecting AI transformation to deliver meaningful results."
+    },
+    {
+      "url": "https://www.readwriterachel.com/opinions/hacks/presentations/2026/08/26/usertesting-on-a-shoestring.html?utm_source=tldrproduct",
+      "title": "User Testing on a Shoestring",
+      "summary": "User testing does not need to be expensive or complicated. Watch a few real users complete realistic tasks, then fix the friction their behavior reveals."
+    },
+    {
+      "url": "https://johnpcutler.github.io/stratprompt/?utm_source=tldrproduct",
+      "title": "Strategy prompts activity",
+      "summary": "Effective strategy involves challenging conventional assumptions. For best results, conduct this activity in multiplayer mode to foster productive team discussions."
+    },
+    {
+      "url": "https://swizec.com/blog/focus-and-followthrough-are-the-moat?utm_source=tldrproduct",
+      "title": "Focus and follow-through are the moat",
+      "summary": "For overloaded engineering teams, focus and follow-through are vital, as every new task displaces another. This team manages capacity by maintaining prioritized backlogs, stack-ranking sprint plans, removing lower-priority work when urgent items arise, and regularly updating stakeholders on progress."
+    },
+    {
+      "url": "https://www.a16z.news/p/faking-a-brand-is-easy?utm_source=tldrproduct",
+      "title": "Faking a brand is easy. Making it stop is hard",
+      "summary": "Brand impersonation is a network problem, not a takedown problem. Defenders need to continuously identify and disrupt the infrastructure behind recurring attacks."
+    },
+    {
+      "url": "https://x.com/nikunj/status/2092748226701210023?utm_source=tldrproduct",
+      "title": "Being legible to capital",
+      "summary": "Legibility matters in a consensus market."
+    },
+    {
+      "url": "https://www.a16z.news/p/you-are-not-a-model-dont-price-per?utm_source=tldrproduct",
+      "title": "You are not a model. Don't price per token",
+      "summary": "Charge for recognizable work or outcomes whenever possible, and reserve token pricing for the model layer."
+    }
+  ]
+}

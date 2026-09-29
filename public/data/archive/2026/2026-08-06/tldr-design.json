@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-08-06",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://9to5google.com/2026/08/04/google-pixel-11-hilight-glow-leak/?utm_source=tldrdesign",
+      "title": "Leak confirms Pixel 11 ‘Glow' is called ‘HiLight' and what it can do",
+      "summary": "Google's upcoming Pixel 11 will reportedly introduce HiLight (formerly known as Pixel Glow), a color-changing LED that replaces the traditional camera flash and discreetly notifies users of calls from favorite contacts or interactions with Gemini when the phone is face down. Leaked marketing materials confirm the new branding and suggest Google is positioning HiLight as a glance-free notification system. More details are expected at the Pixel 11 launch event next week."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic?utm_source=tldrdesign",
+      "title": "Artists are Lawyering Up Against AI Slop, and Some are Even Winning",
+      "summary": "Illustrators, authors, and musicians are increasingly suing AI companies like Anthropic, Meta, Google, and Suno over unauthorized use of their work in training models. Some have already secured wins, notably a $1.5 billion settlement in the Bartz v. Anthropic case over pirated ebooks, though a judge ruled that training on legally acquired scanned books counted as fair use. Despite mixed rulings, several plaintiffs and lawyers say the legal and public-opinion tide is shifting toward artists, even as concerns persist about creators' long-term ability to earn a living from their work."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/?utm_source=tldrdesign",
+      "title": "AWS is Helping Vibe-coding Startup Superblocks, and the Implications are Big",
+      "summary": "Superblocks, a vibe-coding startup, signed a multiyear marketing deal with AWS to embed its tool inside enterprise customers' private clouds. Under the partnership, apps built with Superblocks will use Amazon Aurora databases and integrate with Amazon Bedrock, keeping data internal and under IT's security controls. The deal reflects a broader push by cloud providers like AWS and Microsoft to convince enterprises to source AI orchestration and scaffolding tools from them rather than frontier AI labs."
+    },
+    {
+      "url": "https://www.uxtigers.com/post/hedonic-adaptation?utm_source=tldrdesign",
+      "title": "Hedonic Adaptation: The Same Design Scores Lower Every Year",
+      "summary": "Users grow accustomed to good design just as they do to sudden wealth, so satisfaction scores on an unchanged product tend to slip roughly 2–5% each year as expectations rise. Chasing novelty through redesigns, gamification, or variable-reward feeds backfires, since delight fades quickly while recurring irritations remain persistently noticeable. The recommended strategy is to fix intermittent annoyances, benchmark against competitors rather than past scores, and treat gradual reliability gains as the lasting payoff, not fleeting delight."
+    },
+    {
+      "url": "https://justinjay.wang/designing-with-code/?utm_source=tldrdesign",
+      "title": "Designing with Code",
+      "summary": "Code has become a creative medium at Cursor, where AI agents now handle implementation while designers focus on directing and iterating on ideas. A gear-graphic case study shows the process: refining shapes, spacing, motion, and looping through iterative prompts within Cursor. Despite AI's speed, initial concept sketching remains a distinctly human step, with designers retaining responsibility for taste and judgment."
+    },
+    {
+      "url": "https://medium.com/design-bootcamp/i-rebuilt-our-pricing-page-using-nothing-but-customer-complaints-94d6bd964143?utm_source=tldrdesign",
+      "title": "I Rebuilt Our Pricing Page Using Nothing But Customer Complaints",
+      "summary": "A review of more than 200 pricing-related support tickets revealed that users weren't frustrated by prices—they were confused by plan names, feature descriptions, and unclear recommendations. By treating complaints as research rather than noise, the team identified recurring patterns, rewrote the pricing page around users' actual questions, simplified decision-making with clearer plan guidance and outcome-focused copy, and significantly reduced confusion without changing pricing. The key lesson is that support tickets often contain the most valuable UX insights: complaints reveal mismatches between a product's mental model and users' expectations, making them a powerful foundation for design decisions."
+    },
+    {
+      "url": "https://capptivo.com/?utm_source=tldrdesign",
+      "title": "Give Your Demos the Spotlight They Deserve (Website)",
+      "summary": "Create stunning screen recordings in seconds, not hours. With smart follow-cursor zoom and automatic zoom fragments, your demos practically make themselves."
+    },
+    {
+      "url": "https://floorplanai.net/?utm_source=tldrdesign",
+      "title": "Type a Sentence. Get a Floor Plan AI (Website)",
+      "summary": "FloorPlan is an AI floor plan generator and 3D model creator. Turn a sentence into a 2D plan or a real 3D model in seconds — built for homeowners, real estate teams, and 3D designers. Free trial — 1 plan after Google sign-in."
+    },
+    {
+      "url": "https://brik.space/?utm_source=tldrdesign",
+      "title": "Create Visuals You Can Control (Website)",
+      "summary": "Brik builds your vision into living design – interactive, exportable, and fully yours, so you can shape rich experiences end to end."
+    },
+    {
+      "url": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/?utm_source=tldrdesign",
+      "title": "AI Fluency isn't the Finish Line",
+      "summary": "Product builders increasingly value AI tool skills, but Figma's 2026 AI report argues collaboration and facilitation matter just as much as tool fluency. Three practices stand out: building shared internal tools so individual AI knowledge benefits whole teams, actively guiding stakeholders toward decisions amid unlimited AI-generated options, and openly sharing experiments—including failures—to close AI adoption gaps between colleagues. Tool proficiency remains necessary but insufficient. The surrounding human skills of building, deciding, and sharing determine team success."
+    },
+    {
+      "url": "https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802?utm_source=tldrdesign",
+      "title": "Battling AI Fatigue as a Designer and Developer: A Practical Guide",
+      "summary": "A UI designer and developer noticed AI fatigue while vibe-coding a personal expenses app, prompting reflection on healthier AI habits. Key recommendations include limiting AI use outside work, keeping enjoyable tasks and personal writing human-made, and resisting pressure toward extreme productivity or constantly adopting new tools. Stepping away from AI in personal time feels liberating. Chasing 100x productivity or fear of \"falling behind\" are misconceptions unsupported by reality."
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/?utm_source=tldrdesign",
+      "title": "Apple Photos in iOS 27 gets camera roll feature it's long needed",
+      "summary": "iOS 27 adds a new \"Captured by Me\" collection to the Photos app that shows only photos and videos taken with your iPhone's Camera app. Unlike the Recents album, it excludes screenshots, saved images, and shared media, and it's also available as a filter in the main library. This finally gives users a true camera roll focused solely on their own photography."
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/from-amazon-to-tinder-and-reddit-tech-platforms-are-giving-users-ai-images-they-didnt-ask-for?utm_source=tldrdesign",
+      "title": "From Tinder and Reddit to Amazon, Unwanted AI Images are Freaking People Out",
+      "summary": "Tinder, Reddit, and Amazon have all begun inserting AI-generated images into user content without consent, sparking widespread complaints."
+    },
+    {
+      "url": "https://www.designweek.co.uk/why-the-brand-experience-still-feels-fragmented/?utm_source=tldrdesign",
+      "title": "Why the Brand Experience Still Feels Fragmented",
+      "summary": "Multidisciplinary studios often produce well-crafted individual assets—films, websites, and apps—that still feel disconnected because consistency in branding differs from true experiential continuity."
+    }
+  ]
+}

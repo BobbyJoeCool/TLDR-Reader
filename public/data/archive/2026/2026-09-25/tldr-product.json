@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-09-25",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://itamargilad.com/good-ideas/?utm_source=tldrproduct",
+      "title": "Why Good Product Ideas Don't Survive",
+      "summary": "Traditional product development models use a cumulative funnel of hurdles (prioritization, specification, implementation, and post-launch iteration) that drastically reduces the survival rate of high-impact ideas. Based on estimated survival rates across these phases, only about 5% of genuinely high-value product ideas launch and achieve their full potential."
+    },
+    {
+      "url": "https://www.fastcompany.com/91611398/5-tips-for-building-an-ai-tool-to-address-worker-shortages?utm_source=tldrproduct",
+      "title": "5 tips for building an AI tool to address worker shortages",
+      "summary": "Here are five practical strategies for building AI agents to address worker shortages in high-stakes industries like construction, manufacturing, and heavy equipment. The approach emphasizes defining specific problems, unifying fragmented data, using specialized multi-agent architectures, maintaining high accuracy, and clearly communicating user benefits."
+    },
+    {
+      "url": "https://yeseniaperezcruz.substack.com/p/has-your-product-outgrown-its-floor?utm_source=tldrproduct",
+      "title": "Has your product outgrown its floor plan?",
+      "summary": "Successful digital products often outgrow their initial structural simplicity as features accumulate, requiring a clear spatial \"floor plan\" rather than just consistent design system components. Mismatched spatial movement and flat UI cues make products harder for users to navigate and understand."
+    },
+    {
+      "url": "https://www.doc.cc/articles/fastest-gun?utm_source=tldrproduct",
+      "title": "The fastest gun in UX: Why your team is telling the wrong story",
+      "summary": "Design teams in a post-ZIRP economy face intense pressure to deliver rapid outputs, leading them to skip crucial steps like user research. This dynamic plays into the hands of stakeholders dubbed \"Fastest Guns in the West,\" who use speed and deliberate ambiguity to control product narratives and secure early commitment to ideas before proper evaluation can occur."
+    },
+    {
+      "url": "https://www.elenaverna.com/p/what-its-like-to-work-at-an-ai-native?utm_source=tldrproduct",
+      "title": "What it's like to work at an AI-native company",
+      "summary": "AI-native companies flatten hierarchies and give individuals more autonomy, leverage, and fluid roles. As AI makes execution cheaper and organizations faster, human judgment becomes increasingly important."
+    },
+    {
+      "url": "https://www.news.aakashg.com/p/zapier-ai-fluency-rubric-for-pms?utm_source=tldrproduct",
+      "title": "How to Get a ‘Transformative' AI Fluency Rating as a PM (74 minute video)",
+      "summary": "Product managers can achieve a transformative AI fluency rating on the company's updated rubric. This video highlights the evolution of AI fluency evaluations from simple usage metrics to frameworks encompassing mindset, strategy, building, and accountability. Foster grades live PM work products to demonstrate what capable and transformative AI usage looks like in practice."
+    },
+    {
+      "url": "https://joulee.medium.com/what-will-make-personal-ai-go-big-e92fbb10aba9?utm_source=tldrproduct",
+      "title": "What will make personal AI go big?",
+      "summary": "The key design principles behind the consumer AI agent Muse (approachability, contextual trust, handling burdensome tasks, and maintaining downtime engagement) demonstrate how it lowers barriers for non-technical users compared to traditional chat interfaces."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-441-ai-the-loss-of-positive-friction?utm_source=tldrproduct",
+      "title": "AI, the Loss of Positive Friction, and What to Do About It",
+      "summary": "Generative AI tools risk eliminating \"positive friction\". By automating these transition points, knowledge workers may produce overwhelming volumes of unverified output that outpaces customer absorption. To maintain quality and intentionality, teams should preserve original feedback and keep deliberate human loops."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://www.lukew.com/ff/entry.asp?2163=&amp;utm_source=tldrproduct",
+      "title": "Skip the Tools, Make the Outcomes",
+      "summary": "In the age of AI, software design should shift from prioritizing intermediate tools to delivering direct outcomes and immediate answers."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2102909376923046020.html?utm_source=tldrproduct",
+      "title": "Avoiding the Agentic Death Spiral in B2B Software Pricing",
+      "summary": "Pre-AI B2B software vendors raising prices for agent and API access risk triggering an \"agentic death spiral,\" where users bypass platforms to avoid fees and ultimately weaken product stickiness and moats."
+    }
+  ]
+}

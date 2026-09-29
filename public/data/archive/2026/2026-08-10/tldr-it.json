@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-10",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.testingcatalog.com/openai-says-astra-may-have-reached-critical-cyber-threshold/?utm_source=tldrit",
+      "title": "OpenAI says Astra may have reached Critical cyber threshold",
+      "summary": "OpenAI says preliminary evaluations indicate that its unreleased Astra model may meet the Critical cybersecurity capability threshold in its Preparedness Framework, although the classification is not final. The company has tightened controls around Astra, including isolated environments, restricted access, monitoring, and stronger model-weight protection, while delaying broader availability until it can be deployed more safely."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant?utm_source=tldrit",
+      "title": "Amazon's new data center could be powered by one of America's biggest polluters",
+      "summary": "Amazon's planned Pecos County, Texas data center will initially rely on a dedicated 7.65 GW natural-gas power project with 35 turbines. The project highlights the growing tension between rapidly expanding AI infrastructure and hyperscalers' climate commitments."
+    },
+    {
+      "url": "https://lalitm.com/post/changing-devtools-is-cheap-owning-them-isnt/?utm_source=tldrit",
+      "title": "Changing Devtools Is Cheap. Owning Them Isn't",
+      "summary": "AI agents make changing devtools cheaper but do not eliminate the attention and maintenance costs of owning personalized forks. Rather than widespread direct source modification, the likely future is to maintain core tools with clear extension points and reusable building blocks, preserving shared semantics for teams while enabling specialized workflows."
+    },
+    {
+      "url": "https://www.techradar.com/pro/why-ai-infrastructure-planning-must-happen-now?utm_source=tldrit",
+      "title": "Why AI infrastructure planning must happen now",
+      "summary": "AI inference and agent workloads are forcing enterprises to rethink infrastructure across compute, networking, memory, cloud, and edge systems. Flexible, interoperable architectures will matter more than simply adding GPUs."
+    },
+    {
+      "url": "https://ppc.land/amazon-dsp-advertisers-gain-a-single-global-account-across-34-countries/?utm_source=tldrit",
+      "title": "Amazon DSP advertisers gain a single global account across 34 countries",
+      "summary": "Amazon Ads is automatically upgrading existing Amazon DSP-only advertiser accounts into unified advertiser accounts spanning 34 countries. The change combines programmatic buying, Sponsored Ads, Amazon Marketing Cloud, billing, permissions, and first-party data management under one login, while preserving legacy identifiers and adding new global and regional IDs for API access."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/?utm_source=tldrit",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "OpenAI has acquired NextSlide, whose product turned prompts, documents, and research into editable presentations. The startup's team has joined ChatGPT, suggesting OpenAI is investing further in AI-generated productivity artifacts."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/data-analytics/new-bigquery-data-transfer-service-capabilities?utm_source=tldrit",
+      "title": "BigQuery expands data transfers with direct Iceberg ingestion",
+      "summary": "Google Cloud added direct ingestion from sources including Amazon S3, Azure Blob Storage, and Google Cloud Storage into BigQuery-managed Apache Iceberg tables. The update makes it easier to maintain interoperable data architectures across multiple clouds."
+    },
+    {
+      "url": "https://ontologist.substack.com/p/why-knowledge-graph-projects-fail?utm_source=tldrit",
+      "title": "Why Knowledge Graph Projects Fail – and How to Make Them Succeed",
+      "summary": "Knowledge graph projects usually fail because of flawed modeling, unclear purpose, poor scope, weak long-term planning, and inappropriate operational practices rather than because of a particular technology stack. The recommended approach is to start with use cases, build governed data incrementally, prefer federated graphs where appropriate, expose controlled APIs, and let AI query graphs instead of stuffing graph content into context windows."
+    },
+    {
+      "url": "https://gbhackers.com/enterprise-java-vulnerabilities/?utm_source=tldrit",
+      "title": "Enterprise Java Vulnerabilities Enable Pre-Auth RCE in Bonita BPM and Apache OFBiz",
+      "summary": "Researchers presented 12 vulnerabilities across four enterprise Java platforms, including critical pre-authentication remote code execution chains affecting Bonita BPM and Apache OFBiz."
+    },
+    {
+      "url": "https://blogs.oracle.com/ai-and-datascience/whats-new-in-ai-august-2026?utm_source=tldrit",
+      "title": "Oracle expands enterprise AI options on OCI",
+      "summary": "Oracle's August update adds new model, infrastructure, security, and scalability options for building and operating enterprise AI on OCI."
+    }
+  ]
+}

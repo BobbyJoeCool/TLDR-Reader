@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-09-28",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944?utm_source=tldrcrypto",
+      "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow",
+      "summary": "US spot bitcoin ETFs pulled in $2.4 billion for the week ending September 25, their biggest weekly haul since October 2025, flipping 2026 net flows positive after sitting $5.8 billion in the red as recently as mid-July. BlackRock's IBIT led with $1.2 billion and Fidelity's FBTC added $701.7 million, with Monday alone drawing $999 million. Ether ETFs also rebounded with $689.9 million for the week (BlackRock's ETHA leading at $326.2 million), and Solana funds set a daily inflow record of $86.7 million on Friday."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937?utm_source=tldrcrypto",
+      "title": "Kalshi loses appeal over Ohio and Tennessee sports betting laws",
+      "summary": "The Sixth Circuit unanimously ruled that Kalshi hasn't shown its sports event contracts qualify as swaps under the Commodity Exchange Act, upholding Ohio's win and vacating Kalshi's injunction against Tennessee, leaving the company 1-for-3 across circuit court decisions (it won in the Third Circuit against New Jersey, lost in the Ninth Circuit in Nevada). The panel leaned on Kalshi's own earlier concession that its sports contracts have \"no inherent economic significance,\" and New Jersey has already asked the Supreme Court to review the Third Circuit ruling, meaning the underlying jurisdictional fight over prediction markets could be headed there."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103642552364937592.html?utm_source=tldrcrypto",
+      "title": "Paradigm Releases Solar: A Solidity Compiler That Beats Solady Without Assembly",
+      "summary": "Paradigm has released Solar, an in-house Solidity compiler now generating assembly-free bytecode that surpasses Solady's gas benchmarks. Solady is a hand-crafted, assembly-heavy library that has set the ceiling for gas efficiency in Solidity for years, so exceeding its output without manual assembly is a concrete advance for EVM compiler tooling. Solar also targets unsafe Solidity patterns at the compiler level, shifting security guarantees into the toolchain rather than deferring them to audits. Broad adoption would let developers write standard Solidity and receive better security properties and lower on-chain execution costs without manual optimization."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103112556093034888.html?utm_source=tldrcrypto",
+      "title": "Paxos Launches PAXGy: Yield-Bearing Gold Token",
+      "summary": "Paxos launched PAXGy, a yield-bearing variant of its PAXG gold token, with OKX, ether.fi, Uniswap, 0x Protocol, XLayer, and Chainlink as launch partners. Unlike standard PAXG, PAXGy accrues additional PAXG over time while remaining gold-denominated, giving holders yield without leaving the gold unit of account. The product targets treasuries, asset managers, exchanges, wallets, and neobanks seeking a single-integration gold product with active yield, as well as institutional credit desks that want gold as productive collateral. Paxos is in active conversations across those verticals, positioning PAXGy as settlement infrastructure for gold-denominated capital markets."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103526192506966316.html?utm_source=tldrcrypto",
+      "title": "Aero Merges Aerodrome and Velodrome Into a Unified Liquidity Layer Across 7 Chains",
+      "summary": "Aero, a unified liquidity layer merging Aerodrome and Velodrome, will launch October 21 simultaneously on seven chains: Base, Ethereum mainnet, Optimism, Arc, Ink, Robinhood Chain, and Arbitrum. Aerodrome and Velodrome together currently account for roughly 17% of EVM spot trading volume. The merged platform projects approximately tripling that share. Three core features will ship at launch: Metaswaps for cross-chain token swaps routed through onchain liquidity, Slipstream concentrated liquidity pools with dynamic fees, and Predictive Allocation where sAERO holders direct reward distribution across the network."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103825405530853710.html?utm_source=tldrcrypto",
+      "title": "PeerDAS Runs Nearly a Year Without Incident, Validating Ethereum's Rollup Roadmap",
+      "summary": "Ethereum's client developers have run PeerDAS for nearly a year without incident, a milestone Vitalik Buterin called underappreciated. PeerDAS is the first large-scale blockchain implementation of data availability sampling, allowing the network to reach consensus on data availability without any single node downloading full blocks. This decouples data availability from full replication, a prerequisite for scaling blob throughput to support higher L2 transaction volumes at lower cost. The successful deployment validates a core architectural assumption behind Ethereum's rollup-centric roadmap."
+    },
+    {
+      "url": "https://x.com/KelpDAO/status/2103332910128599327?utm_source=tldrcrypto",
+      "title": "KelpDAO Files Suit Against LayerZero Over rsETH Bridge Exploit",
+      "summary": "KelpDAO filed suit against LayerZero and co-founder Bryan Pellegrino over a bridge exploit that caused losses to rsETH, its restaked ETH token, earlier in 2026. The lawsuit alleges LayerZero bears legal responsibility for the exploit, framing the breach as developer liability rather than accepted protocol risk. By pursuing traditional litigation instead of on-chain governance or negotiation, KelpDAO is testing whether US courts will assign accountability to bridge protocol teams for security failures. The case names a prominent founder personally, which could set a precedent for DeFi teams seeking recourse against infrastructure providers after exploits."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103601687814627328.html?utm_source=tldrcrypto",
+      "title": "Coinbase Asks IRS to Allow Digital Assets in Trump Accounts",
+      "summary": "Coinbase Chief Policy Officer Faryar Shirzad submitted a formal response to the IRS requesting guidance on Trump Accounts, a new tax-advantaged savings account category for American children created under the One Big Beautiful Bill. Coinbase is asking the IRS to allow beneficiaries to invest in widely traded digital assets or in funds with digital asset exposure, which would route federally subsidized long-term savings into crypto markets for the first time. The submission is the first major industry move to shape the asset eligibility rules for these accounts before IRS implementation guidance is finalized. Coinbase frames the push as expanding economic access for young Americans, aligning with its broader policy agenda to embed digital assets into mainstream financial infrastructure."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103937671035052334.html?utm_source=tldrcrypto",
+      "title": "CoinGecko highlights Aave's debt-risk distribution",
+      "summary": "As of September 20, most of Aave's outstanding debt sits in \"Very Safe\" (2.00+ health factor) and \"Safe\" (1.50–2.00) bands rather than higher-risk positions."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103823487446007957.html?utm_source=tldrcrypto",
+      "title": "Stablecoin card spend hits third straight $1 billion+ month",
+      "summary": "September marks the third consecutive month of $1 billion-plus in monthly stablecoin card spend and the 28th straight month of growth."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2103869405947941237.html?utm_source=tldrcrypto",
+      "title": "Disposable/virtual cards remain a rare feature among crypto cards",
+      "summary": "Disposable virtual cards should be standard so users aren't exposed to risk from using a primary card on every random website."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895?utm_source=tldrcrypto",
+      "title": "Man charged in $16 million crypto 'pig butchering' scam",
+      "summary": "The US Attorney's Office in Missouri charged Trung Nguyen Van, 37, of Vietnam, with money laundering after a victim transferred roughly $16 million in crypto in summer 2024, believing they were investing in a platform called Triangle."
+    }
+  ]
+}

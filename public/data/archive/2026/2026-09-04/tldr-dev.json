@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-04",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://nextjs.org/blog/turbopack-chunking?utm_source=tldrdev",
+      "title": "How Turbopack chunks your JavaScript",
+      "summary": "Turbopack's chunker balances fewer requests against over-shipping code by merging small chunks only within route chunk groups and weighting single-page versus multi-page sessions. On nextjs.org, its defaults reduced 96 requests to 38 while slightly cutting downloaded JavaScript from 561.6 KiB to 554.8 KiB. Next.js 16.3 adds experimental cache-aware component chunks, analytics-informed route priorities and clusters, CommonJS tree shaking, a shared runtime, and a lighter default runtime."
+    },
+    {
+      "url": "https://ben3d.ca/blog/running-llms-in-the-browser-with-threejs?utm_source=tldrdev",
+      "title": "Running LLMs in the Browser with Three.js",
+      "summary": "Three-LLM runs GPT-2, SmolLM2, Qwen, and Phi models locally in the browser by translating their inference graphs into Three.js TSL compute shaders on WebGPU, loading ordinary Hugging Face configs, tokenizers, and SafeTensors without a server-side inference runtime. This post walks through token generation, KV caches, architecture differences, and the optimizations that mattered: one command submission raised TinyStories decoding from about 120 to 566 tokens per second."
+    },
+    {
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/?utm_source=tldrdev",
+      "title": "The Browser's Main Thread Is Expensive",
+      "summary": "The browser's main thread runs JavaScript, handles input, and performs most of the rendering pipeline, leaving roughly 10ms of usable time per frame on a 60Hz display. Any task over 50ms risks visible jank. This guide shows how to split work around frame budgets, batch noisy events with debounce or throttle, prioritize and defer tasks, move animation to the compositor, use workers for atomic heavy work, and eliminate unnecessary computation."
+    },
+    {
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/?utm_source=tldrdev",
+      "title": "The asteroid currently hitting frontend web development",
+      "summary": "Coding agents are making years of specialized frontend knowledge far less scarce. When Claude can correctly diagnose high style-recalculation costs from a trace, the incentive to master or teach every browser-performance detail changes. Judgment, taste, and expert verification are expected to remain valuable for now, but treating AI as an asteroid-sized disruption is more realistic than ignoring how quickly frontend education and careers are being reshaped."
+    },
+    {
+      "url": "https://www.anildash.com/2026/09/02/cancer-capital/?utm_source=tldrdev",
+      "title": "VC isn't VC anymore — understanding the rise of Cancer Capital",
+      "summary": "A small group of giant, post-VC investment firms have become what the author calls \"Cancer Capital\": multi-strategy funds that collect enormous management fees, face less exposure to startup outcomes, and use capital to concentrate political and economic power. He says this shift has flipped the founder-investor relationship, distorted startup incentives, enabled early cash-outs before public-market accountability, and pushed risk onto pension funds and ordinary investors."
+    },
+    {
+      "url": "https://github.com/mlc-ai/web-llm?utm_source=tldrdev",
+      "title": "WebLLM (GitHub Repo)",
+      "summary": "WebLLM runs open-source language models entirely inside the browser using WebGPU, with no server required and an OpenAI-compatible API for streaming, JSON mode, and other chat-completion features. It supports model families including Llama, Phi, Gemma, Mistral, and Qwen, plus npm or CDN installation, multiple browser cache backends, and Web Worker or Service Worker engines that keep inference from blocking the UI."
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-astra/?utm_source=tldrdev",
+      "title": "GPT-6 Astra",
+      "summary": "OpenAI's GPT-6 Astra targets computer use, coding, science, cybersecurity, and professional work, scoring 72.6% on OSWorld 2.0, 57.9% on Terminal-Bench 4.0, and 97.6% on FrontierMath Tier 4. In Codex, it can keep searchable notes across context windows, while OpenAI says the model stays within the authorized scope more reliably. API pricing is $10 per million input tokens and $50 per million output tokens, with broader ChatGPT and API availability rolling out after a limited launch."
+    },
+    {
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install?utm_source=tldrdev",
+      "title": "Which tools do Claude Code, Codex, and Cursor choose?",
+      "summary": "Armature ran 16,893 coding-agent sessions across 75 repositories, 1,163 prompt variants, four developer personas, and Claude Code, Codex, and Cursor to see which third-party tools agents actually implemented. Among 5,292 published valid sessions, the agents agreed only 42% of the time: Codex searched the web in 94% of sessions, Claude Code built in-house nearly twice as often, and repository language strongly changed winners such as Resend on TypeScript, SendGrid on Python, Postmark on Go, and Azure ACS on Java."
+    },
+    {
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard?utm_source=tldrdev",
+      "title": "14 Reasons Robotics is Hard",
+      "summary": "Polished robot demos can hide cherry-picked successes, carefully staged environments, slow operation, and poor reliability. The checklist spans dexterous hands, tactile sensing, visual understanding, planning and replanning, balance, strength, endurance, power, maintenance, safety, data collection, simulation gaps, manufacturing, and the economics of deploying machines in messy real-world environments."
+    },
+    {
+      "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent?utm_source=tldrdev",
+      "title": "How concerned should we be about Astra's recurrent architecture?",
+      "summary": "Astra is reportedly a looped transformer, reusing layers along the depth axis rather than carrying an unbounded hidden state across tokens like a classic RNN. The author finds the current design less alarming because its serial depth is reportedly within 2× of GPT-4, but worries that loop count could become an easy performance dial and accelerate a shift toward opaque reasoning that weakens chain-of-thought monitoring."
+    },
+    {
+      "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra?utm_source=tldrdev",
+      "title": "Benchmarking GPT-6 Astra",
+      "summary": "Artificial Analysis finds Astra scores 67 on its Coding Agent Index with roughly one-third of GPT-5.6 Sol's tokens, but its 2.5× higher prices make max-effort Intelligence Index tasks 75% more expensive despite about 10% fewer output tokens."
+    },
+    {
+      "url": "https://gwern.net/xanadu?utm_source=tldrdev",
+      "title": "Project Xanadu: Even More Hindsight",
+      "summary": "Xanadu's visionary hypertext ideas stalled because the project rarely iterated on real use cases or usability, leaving an elaborate side-by-side transclusion interface that was visually cluttered and largely a solution in search of a problem."
+    },
+    {
+      "url": "https://explainanalyze.com/p/a-query-on-a-3-billion-row-table-took-100-minutes-one-added-line-made-it-40ms/?utm_source=tldrdev",
+      "title": "A Query on a 3-Billion-Row Table Took 100 Minutes: One Added Line Made It 40ms",
+      "summary": "A real MySQL query fell from 1h43m to 40ms when a chain-scoping predicate was pushed into a derived table, avoiding materialization for 6.57 million stores and a walk over 491 million index entries without changing the schema."
+    },
+    {
+      "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/?utm_source=tldrdev",
+      "title": "Models Don't Go Rogue",
+      "summary": "This essay reframes the Hugging Face incident as an off-leash evaluation failure involving impossible tasks, disabled safeguards, an exploitable Artifactory bridge, and many similar instances of one model—not independent AI civilizations spontaneously going rogue."
+    }
+  ]
+}

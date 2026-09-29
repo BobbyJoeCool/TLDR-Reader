@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-09-18",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/?utm_source=tldrdevops",
+      "title": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
+      "summary": "The Pod-Level Resource Managers feature has graduated to Beta status in Kubernetes v1.37. This enhancement allows the Kubelet to use pod-level resource declarations when making hardware placement decisions. It solves a previous limitation where operators had to choose between dedicating physical cores to sidecars or forfeiting NUMA alignment."
+    },
+    {
+      "url": "https://www.theregister.com/saas/2026/09/16/salesforce-staggers-back-to-feet-after-global-outage/5296800?utm_source=tldrdevops",
+      "title": "Salesforce staggers back to feet after global outage",
+      "summary": "Salesforce experienced an hours-long global outage affecting hundreds of instances, causing severe delays, intermittent errors, and inaccessible services, due to requests stalling on an internal login service and exhausting server resources. A validated fix was deployed fleetwide, but some instances required manual restarts and continued experiencing scheduled-job failures."
+    },
+    {
+      "url": "https://www.harness.io/blog/how-to-automate-docker-registry-creation-with-harness-pipelines-and-terraform?utm_source=tldrdevops",
+      "title": "How to automate Docker Registry creation with Harness Pipelines and Terraform",
+      "summary": "Harness demonstrates a three-stage CI/CD pipeline that uses Terraform to dynamically provision a unique Docker virtual registry and Docker Hub upstream proxy, builds and pushes an image, then deploys it to Kubernetes with rolling updates and automatic rollback. Output variables and Harness expressions connect resources across stages without hardcoding."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/?utm_source=tldrdevops",
+      "title": "Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
+      "summary": "OpenBao and CloudNativePG can manage infrastructure secrets on Kubernetes without vendor lock-in by using certificate authentication and synchronous replication. OpenBao uses the CloudNativePG PostgreSQL cluster as an encrypted key-value store, and a schema-init job revokes default public permissions to lock down the database. CloudNativePG automatically renews client certificates every 90 days, but OpenBao requires a rolling restart to load the new files. The setup runs three OpenBao replicas and three Postgres instances across separate nodes."
+    },
+    {
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html?utm_source=tldrdevops",
+      "title": "I don't like LLMs",
+      "summary": "LLMs can be highly useful while still being unpleasant to interact with because they present fabricated and correct information with the same confident, human-like tone. AI agents also reflect the values and culture of the companies that build them, making trust, behavior, and interaction design important alongside raw model capability."
+    },
+    {
+      "url": "https://github.com/Tencent/BrowserSkill?utm_source=tldrdevops",
+      "title": "Browserskill (GitHub Repo)",
+      "summary": "BrowserSkill connects AI agents such as Cursor, Claude Code, and Codex to a user's logged-in browser. The tool requires agents to explicitly borrow open tabs and return them after finishing a task. It includes a command-line interface, a daemon, and a browser extension."
+    },
+    {
+      "url": "https://github.com/cline/cline?utm_source=tldrdevops",
+      "title": "Cline (GitHub Repo)",
+      "summary": "Cline is an open-source coding agent that runs in IDEs, terminals, and as a native desktop app for macOS and Windows. It reads project structures, edits files, and executes terminal commands with human-in-the-loop approval. Users can switch between Plan and Act modes or use the SDK to build custom tools and coordinate multi-agent teams. The tool runs on any model and supports integrations through plugins or MCP servers."
+    },
+    {
+      "url": "https://cloudnativenow.com/features/komodor-extends-ai-sre-reach-for-kubernetes-to-ai-agents/?utm_source=tldrdevops",
+      "title": "Komodor Extends AI SRE Reach for Kubernetes to AI Agents",
+      "summary": "Komodor launched an Agentic Operations Platform that lets SREs deploy, customize, govern, and audit AI agents through familiar DevOps workflows, with 50+ built-in agents, integrations, guardrails, approvals, and spending controls. The platform aims to help teams manage growing fleets of production AI agents while preserving existing change management and governance practices."
+    },
+    {
+      "url": "https://webflow.sysdig.com/blog/intro-runtime-security-falco?utm_source=tldrdevops",
+      "title": "Getting started with runtime security and Falco",
+      "summary": "Runtime security protects cloud workloads while they are executing, filling gaps that posture management cannot catch, such as zero-days, privilege escalation, and compromised credentials. Falco provides cloud-native runtime detection across hosts, containers, Kubernetes, and cloud services by analyzing system calls and plugin events, adding contextual alerts, and deploying easily with Helm."
+    },
+    {
+      "url": "https://harnesstax.github.io/?utm_source=tldrdevops",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "summary": "Coding-agent harnesses such as Claude Code, Codex CLI, and Pi can produce similar task success rates while using dramatically different amounts of tokens and money. Across 21 model–harness combinations on SWE-bench Lite and Terminal-Bench 2.0, harness choice changed cost by as much as 5×, and the model provider's own harness was not consistently the most efficient option."
+    },
+    {
+      "url": "https://blog.cloudflare.com/workers-granular-authorization/?utm_source=tldrdevops",
+      "title": "Give every teammate and agent the right level of access to your Workers",
+      "summary": "Cloudflare now allows administrators to assign access controls to specific Workers, restricting users and agents to individual applications."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/coordinate-product-launches-with-datadog/?utm_source=tldrdevops",
+      "title": "Coordinate product launches with Datadog",
+      "summary": "This guide walks through how to turn a product brief and feature flag into a connected launch workflow."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-07-27",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/?utm_source=tldrnewsletter",
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "summary": "A team based in China modified AlphaFold to help identify what parts of a gene-editing protein enable mistakes. They then modified these areas to reduce problematic off-target effects. Producing gene-editing systems tailored to prevent known off-target events is useful for fine-tuning protein-DNA interactions, which could have applications beyond gene editing."
+    },
+    {
+      "url": "https://x.com/leerob/status/2080467752897146898?s=12&utm_source=tldrnewsletter",
+      "title": "How we teach AI models",
+      "summary": "This post provides a high-level overview of how AI models learn new skills and behaviors."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/?utm_source=dlvr.it&amp;utm_medium=twitter",
+      "title": "Waymo reportedly mulling a breakup with Uber",
+      "summary": "Waymo plans to offer robotaxis in its own app starting in January, and its contract with Uber ends in May."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3?st=QZfMBR&reflink=desktopwebshare_permalink&mod=tldr&utm_source=tldrnewsletter",
+      "title": "Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center",
+      "summary": "Nvidia is in talks to provide a roughly $250 billion backstop for OpenAI as part of a massive data-center project. The guarantee will help OpenAI lease a 10-gigawatt project that Softbank's energy subsidiary is developing. Nvidia's backing allows the data center developer to raise debt at more favorable terms. Under the deal, Nvidia would guarantee a series of financing vehicles intended to make lenders feel more confident that funding behind the project is secure."
+    },
+    {
+      "url": "https://antirez.com/news/171?utm_source=tldrnewsletter",
+      "title": "Being Linux Torvalds",
+      "summary": "Automatic programming, when done well, means to assume the role of Linus, with the AI agents assuming the role of the different maintainers of the different subsystems."
+    },
+    {
+      "url": "https://developers.google.com/maps/documentation/isochrones/overview?linkId=62891433&amp;utm_source=tldrnewsletter",
+      "title": "Isochrones API",
+      "summary": "The Isochrones API calculates the area that a person can reach from a specific origin point within a set amount of time. An isochrone accounts for actual road network travel times to create a polygon that represents true reachability. The API can be useful for delivery logistics, finding properties within a set distance from a landmark, and urban planning."
+    },
+    {
+      "url": "https://vectoral.com/blog/token-relay-market?utm_source=tldrnewsletter",
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "summary": "Relays are services that proxy traffic to US models, often at a deep discount."
+    },
+    {
+      "url": "https://www.notboring.co/p/ai-is-oil-not-god?utm_source=tldrnewsletter",
+      "title": "AI is Oil, Not God",
+      "summary": "AI is more of an economically useful commodity than a supremely intelligent being that will make humanity subservient. Several leaders in the AI industry have recently come out in support of open-weight models. If these leaders believed that AI was going to become conscious and take over the world, they likely wouldn't be as openly pro-diffusion."
+    },
+    {
+      "url": "https://www.mbi-deepdives.com/tesla-and-spacexs-likely-merger-portfolio-change/?utm_source=tldrnewsletter",
+      "title": "Tesla and SpaceX's Likely Merger, Portfolio Change",
+      "summary": "There are many collaborations between SpaceX and Tesla, so it makes sense to merge the companies the more they overlap."
+    },
+    {
+      "url": "https://www.noahpinion.blog/p/what-will-more-intelligence-actually?utm_source=tldrnewsletter",
+      "title": "What will more intelligence actually do for us?",
+      "summary": "AI will revolutionize productivity by marrying human-style intelligence to the vast, inhuman capabilities of computers."
+    },
+    {
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models?utm_source=tldrnewsletter",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "summary": "Anthropic removed over 80% of Claude Code's system from its more advanced models. This post discusses how to apply the lessons its team learned from context engineering in Claude Code. The prompt is only a small part of the context Claude gets. The rest of the context is assembled from Skills, CLAUDE.md files, memory, and other sources. Context engineering has a big impact on the results generated when using Claude Code."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html?unlocked_article_code=1.01A.Ekkc.bnju8ij_ta59&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Silicon Valley Splits Over Closing the Borders to Chinese AI",
+      "summary": "Companies like Anthropic and OpenAI claim some AI models are too dangerous to be developed in the open and must be tightly controlled for safety. The rest of the industry says that open source AI models must remain open for people to further develop technologies and build new businesses. China's rapid progress in open source AI models is escalating the fight. US officials are still debating whether to approach regulating Chinese open source models as a national security issue or issue a kind of blanket ban."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/?utm_source=tldrnewsletter",
+      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "summary": "SpaceX's 13th Starship test flight ended in an intact splashdown in a remote section of the Indian Ocean on Friday. The vehicle appeared to be in fine shape on landing. SpaceX will attempt to catch the ship with its launch tower on the next test flight.  The next steps for Starship are getting to orbit and returning the ship to the launch site, which will give SpaceX the capability to begin launching operational Starlink V3 satellites."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html?unlocked_article_code=1.01A.nBn2.DfWHlLCr6qVN&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Meta Gives Facebook Marketplace Its Own App Called Seller",
+      "summary": "Seller is an early experimental app from Meta that aims to be to sellers what tools to edit videos were to content creators. It is free and will also be available in web browsers. The app has AI features that make selling items less of a hassle. Users can sign into Seller with their Facebook accounts, and listings are automatically synced."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-10",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://nextbigteng.substack.com/p/a-spoonful-of-reality-for-bent-valuations-airtable-acquisition?utm_source=tldrfounders",
+      "title": "A Spoonful of Reality for 'Bent' Valuations",
+      "summary": "Airtable's acquisition by Bending Spoons forced the tech community to confront the sobering reality that software companies must grow or die. The acquisition didn't include Airtable's Hyperagent platform, which was carved out prior to the transaction. Bending Spoons mainly acquired Airtable's incumbent SaaS businesses. Airtable's Hyperagent spin-out from the legacy platform shows how success in the AI era may require a full bend away from the past."
+    },
+    {
+      "url": "https://99d.substack.com/p/no-revenue-is-enough-revenue?utm_source=tldrfounders",
+      "title": "No revenue is enough revenue",
+      "summary": "If there is no growth, then great topline is meaningless, and if topline is near zero, great growth doesn't mean much. Complex stories drag on momentum. You've probably already lost as soon as you find yourself justifying the size of your opportunity. Frame yourself as simply as possible with the goal of being a financial earworm, meme, or cognitive virus, and grow."
+    },
+    {
+      "url": "https://www.similarweb.com/blog/marketing/geo/optimize-your-homepage-for-ai-traffic/?utm_source=tldrfounders",
+      "title": "How to Optimize Your Homepage for AI Traffic",
+      "summary": "AI as a channel sends fewer people than search, but those people, on average, spend more time on site. Treat the homepage as a front door for visitors who already know what to do. AI systems cite knowledge from deep pages, but they usually direct users to the homepage. Most sites are handing their best new traffic to the one page still built for a stranger."
+    },
+    {
+      "url": "https://x.com/colemurray/status/2085442810875089107?utm_source=tldrfounders",
+      "title": "You Should Deploy Directly to Prod",
+      "summary": "Continuous deployment reduces release risk by keeping changes small, observable, and reversible instead of batching weeks of work. Fast CI, strong monitoring, feature flags, automated rollback, backward compatibility, and staged rollouts make production the safest place to validate changes."
+    },
+    {
+      "url": "https://agentblog.dev/?utm_source=tldrfounders",
+      "title": "AgentBlog (Website)",
+      "summary": "AgentBlog helps users install a blog that ranks and gets cited with just one command. The agent has seven skills and a rule block to help it format posts correctly. Every post is a Markdown file in the repository. Prerendering, structured data, feeds, and crawler wiring are built in."
+    },
+    {
+      "url": "https://www.rippling.com/blog/introducing-ai-spend-console?utm_source=tldrfounders",
+      "title": "From unchecked AI spend to complete control: How Rippling built AI Spend Console",
+      "summary": "Rippling's AI Spend Console gives CFOs and CTOs a clear view of AI spend, connects it to business outcomes, and governs the use of approved LLMs. It ties AI spend to employee attributes so leaders can understand which departments, teams, or roles are driving AI spend. It also connects spend to key business metrics so decision-makers understand where token usage drives improved business outcomes. This post looks at how and why Rippling built the tool."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-435-20-unfiltered-operating-takes?utm_source=tldrfounders",
+      "title": "TBM 435: 20 Unfiltered Operating Takes",
+      "summary": "This post contains advice on how to operate teams. It covers topics like the North Star framework, trees/pyramids, shipping speed, lanes, and more."
+    },
+    {
+      "url": "https://rationaloptimistsociety.substack.com/p/make-america-manufacture-again?utm_source=tldrfounders",
+      "title": "I found the American dream… in China",
+      "summary": "Investment casting is the kind of industry most software founders never look at. A conventional part can require a $500,000 mold, eight months of waiting, and up to 40 hours of labor. Rangeview says it can make a pour-ready mold in about 12 days without changing the customer's approved design. Its founder found the market by ranking more than 100 manufacturing processes, then picking one where old tooling and a shrinking supplier base had become the bottleneck. The output stayed the same. Rangeview rebuilt how it gets made."
+    },
+    {
+      "url": "https://newsletter.gamediscover.co/p/game-discovery-lessons-from-30-years?utm_source=tldrfounders",
+      "title": "Game discovery lessons from 30 years (!) in the biz",
+      "summary": "In 1995, only 262 PC games shipped all year. Today, you can buy a complete Unity game template for $30 to $100. Making games got much cheaper. Getting anyone to notice got much harder. MobyGames lists about 1,100 PC releases in 1998, while the first PlayStation had roughly 1,500 Western releases across its entire life. Software and media are moving the same way. If customers can choose from thousands of decent products, distribution may matter more than one more feature."
+    },
+    {
+      "url": "https://www.indiehackers.com/post/23-days-of-distributing-a-saas-heres-exactly-what-happened-48bbe07158?utm_source=tldrfounders",
+      "title": "23 days of distributing a SaaS. Here's exactly what happened.",
+      "summary": "One founder posted every day for 23 days across X, Reels, Quora, and 22 AI directories, then ended with eight outside signups and zero customers."
+    },
+    {
+      "url": "https://eleganthack.com/consulting-is-a-bet-everyones-gambling/?utm_source=tldrfounders",
+      "title": "Consulting Is a Bet; Everyone's Gambling",
+      "summary": "Consultants risk not getting paid, and clients risk not having their problems solved."
+    },
+    {
+      "url": "https://forge.smol.ai/blog/dangerous-release-code-was-a-skill?utm_source=tldrfounders",
+      "title": "We Deleted Two Skills That Tried to Help",
+      "summary": "One coding-agent task ran for 7 hours 23 minutes and tried to release 13 times because an 86-line skill meant to help it ship quietly expanded the job into migrations, policy changes, retries, and production recovery."
+    },
+    {
+      "url": "https://x.com/vasuman/status/2085806422072418632?utm_source=tldrfounders",
+      "title": "AI Adoption Is a Myth",
+      "summary": "Enterprise AI adoption metrics hide a barbell: a small group of power users captures most value and token spend while most employees barely engage."
+    },
+    {
+      "url": "https://www.ycrootaccess.com/p/max-hodak-there-are-no-blanket-rules?utm_source=tldrfounders",
+      "title": "Max Hodak: How to Build a Startup That Moves Fast",
+      "summary": "Max Hodak, the CEO of Science, a company that is building a retinal implant that restores vision to people who have gone blind, explains how the company buys things and hires people, and why those systems determine how fast it can move."
+    }
+  ]
+}

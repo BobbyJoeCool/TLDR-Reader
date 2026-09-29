@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-27",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thecybersecguru.com/news/claude-shared-chats-google-search-privacy/?utm_source=tldrit",
+      "title": "Claude Shared Chats Indexed by Search Engines Raise Privacy Concerns",
+      "summary": "Publicly shared Claude conversations appeared in Google and Bing results, making chats containing resumes, business discussions, code, and potentially sensitive information easier to discover. The incident was not a breach of Anthropic's systems, but it highlights how users can mistake an accessible-by-link conversation for a private one and why organizations should treat AI share links as public webpages."
+    },
+    {
+      "url": "https://www.amazon.science/news/amazon-is-investing-in-the-lean-focused-research-organization?utm_source=tldrit",
+      "title": "Amazon is investing in the Lean Focused Research Organization",
+      "summary": "Amazon is providing substantial, long-term financial support to the Lean Focused Research Organization, the largest donation in the FRO's history. Lean is a programming language for mathematical correctness proofs that Amazon says can make verified, trustworthy AI agents practical. The company argues open development outside Amazon strengthens trust for customers, auditors, and regulators."
+    },
+    {
+      "url": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7?utm_source=tldrit",
+      "title": "Nadella's hardest year",
+      "summary": "Microsoft's aggressive AI strategy is putting pressure on three of its most important businesses: Microsoft 365, GitHub, and Azure. The company is spending a projected $190 billion on infrastructure but remains capacity-constrained, while AI-native competitors challenge its productivity and developer tools, and internal restructuring increases pressure on employees and leadership."
+    },
+    {
+      "url": "https://www.noahpinion.blog/p/what-will-more-intelligence-actually?utm_source=tldrit",
+      "title": "What will more intelligence actually do for us?",
+      "summary": "AI has already surpassed humans in domains such as mathematics, yet daily life and the economy remain largely unchanged. Some researchers suggest intelligence faces diminishing returns limited by data and chaotic systems. Even so, machine superintelligence could still deliver large productivity gains through advantages like replicability."
+    },
+    {
+      "url": "https://opensourcesecurity.io/2026/2026-07-critical-infrastructure-josh-corman/?utm_source=tldrit",
+      "title": "Securing critical infrastructure with Josh Corman (36 minute podcast)",
+      "summary": "Volt Typhoon and other nation-state actors have positioned themselves inside US water, power, and transportation systems, where cyberattacks could quickly disrupt hospitals and public safety. Critical infrastructure operators should prioritize physical engineering safeguards, manual fallback plans, and reduced dependence on fragile connected systems rather than treating every cyber risk as a problem that software can solve."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/?utm_source=tldrit",
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+      "summary": "GitHub and PyPI have introduced time-based defenses against supply-chain attacks. Dependabot now applies a default three-day cooldown before dependency update pull requests, while PyPI rejects new files added to releases older than 14 days. The changes follow recent high-profile package attacks and aim to shrink the window for adopting or poisoning malicious packages."
+    },
+    {
+      "url": "https://sanjmo.medium.com/oracle-brings-private-ai-to-the-mid-market-with-base-database-cloud-customer-de1b959b0d9a?utm_source=tldrit",
+      "title": "Oracle Brings Private AI to the Mid-Market with Base Database Cloud@Customer",
+      "summary": "Oracle's Base Database Cloud@Customer is a managed on-premises subscription that extends OCI automation and private AI to mid-market and branch sites as the cloud-managed evolution of the Oracle Database Appliance. The compact X11 platform supports Oracle AI Database 26ai with automated operations and local LLM inference behind the firewall. It closes a gap versus Exadata Cloud@Customer, though air-gapped control-plane support remains on the roadmap."
+    },
+    {
+      "url": "https://thenewstack.io/sre-ai-agents-capabilities/?utm_source=tldrit",
+      "title": "5 ways SRE AI agents are set to augment human capabilities",
+      "summary": "SRE AI agents could autonomously resolve routine incidents, learn from historical operations data, and eliminate repetitive work that still requires humans to trigger traditional automation. Engineers will increasingly shift from manually executing runbooks to improving architecture, setting agent guardrails, and overseeing AI-driven operations."
+    },
+    {
+      "url": "https://csswizardry.com/2026/07/meaasuring-component-performance-with-the-container-timing-api/?utm_source=tldrit",
+      "title": "Measuring Component Performance with the Container Timing API",
+      "summary": "The experimental Container Timing API, developed by Bloomberg and Igalia and available in a Chrome origin trial, lets developers annotate a DOM region and observe how contentful parts of a component paint over time. Via a containertiming attribute and PerformanceObserver, it reports firstRenderTime, cumulative painted size, and latest paint moments rather than one completion signal. Only newly painted contentful areas count, pure decoration is ignored, and viewport-clipped geometry means scroll exposure can drive timing."
+    },
+    {
+      "url": "https://dfarq.homeip.net/what-happened-to-arcnet?utm_source=tldrit",
+      "title": "What happened to ARCNET",
+      "summary": "ARCNET beat Ethernet to market and remained competitive for years, but slow upgrades, high prices, and Ethernet's rapidly improving speed and economics ultimately pushed it into niche industrial systems."
+    },
+    {
+      "url": "https://securityaffairs.com/196017/security/hackers-hijack-hotel-wi-fi-to-steal-microsoft-365-credentials.html?utm_source=tldrit",
+      "title": "Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Credentials",
+      "summary": "Attackers are compromising hotel and conference Wi-Fi gateways to redirect business travelers to fake Microsoft 365 login pages."
+    }
+  ]
+}

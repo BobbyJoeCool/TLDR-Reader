@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-09-16",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/?utm_source=tldrdevops",
+      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+      "summary": "Cloudflare has launched a new Disallow AI Training setting that allows website owners to block AI training while remaining indexed for search. Apple, Google, and Microsoft have committed to honoring this preference, which resolves the tradeoff created by mixed-use crawlers. Cloudflare plans to introduce more granular controls for AI summaries by early next year."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more/?utm_source=tldrdevops",
+      "title": "Cilium 1.20: Gateway API ExternalAuth, TCPRoute/UDPRoute, ENI IPAM for IPv6, and more",
+      "summary": "Cilium 1.20 adds IPv6 support for AWS ENI IPAM and introduces datapath plugins to let third parties extend the eBPF datapath without forking the project. The release also promotes the Multi-Cluster Services API to a stable status and deprecates the legacy mutual authentication feature in favor of the ztunnel proxy. Other updates include a per-pod option to disable source IP verification and a new ClusterNetworkPolicy for admin-level guardrails."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/?utm_source=tldrdevops",
+      "title": "Kubernetes v1.37: Memory QoS Graduates to Beta",
+      "summary": "Memory QoS has graduated to Beta in Kubernetes v1.37 and is now enabled by default. The feature uses the memory controller on Linux nodes running cgroup v2 to guide the kernel on container memory treatment. The default memoryThrottlingFactor changed to null in this release, ensuring that upgrading clusters does not automatically throttle existing workloads."
+    },
+    {
+      "url": "https://webflow.sysdig.com/blog/how-runtime-insights-help-with-container-security?utm_source=tldrdevops",
+      "title": "How runtime insights helps with container security",
+      "summary": "Runtime insights provide continuous visibility into live container behavior, enabling real-time threat detection, risk prioritization, faster incident response, and continuous compliance. Using technologies such as eBPF, runtime context also helps AI agents understand infrastructure and deliver more actionable security triage and remediation while reducing noise from traditional static scanning."
+    },
+    {
+      "url": "https://www.harness.io/blog/internal-developer-portals-why-native-ci-cd-drives-scale?utm_source=tldrdevops",
+      "title": "Internal Developer Portals: Why Native CI/CD Drives Scale",
+      "summary": "Native CI/CD integration transforms internal developer portals from documentation and service catalogs into scalable workflow platforms, enabling developers to create, deploy, and roll back services without manually configuring pipelines. It also lets platform teams centrally enforce golden paths, promotion policies, and governance while reducing pipeline drift and operational complexity."
+    },
+    {
+      "url": "https://github.com/alibaba/open-code-review?utm_source=tldrdevops",
+      "title": "Open Code Review (GitHub Repo)",
+      "summary": "Open Code Review is an open source AI-powered code review CLI tool that originated as Alibaba Group's internal official assistant. It has served tens of thousands of developers and identified millions of code defects. The tool uses a hybrid architecture that combines deterministic engineering with an LLM agent to generate structured review comments with line-level precision."
+    },
+    {
+      "url": "https://github.com/alphaXiv/OpenResearch?utm_source=tldrdevops",
+      "title": "Openresearch (GitHub Repo)",
+      "summary": "OpenResearch is a local-first workspace that turns coding agents like Claude Code and Cursor into research agents. The platform can autonomously propose ideas, change code, launch experiments, and analyze evidence. Users can run workspaces locally, over SSH, or on platforms including Kubernetes and Hugging Face Jobs."
+    },
+    {
+      "url": "https://octopus.com/blog/watering-down-ci-cd?utm_source=tldrdevops",
+      "title": "Let's not water down the terms Continuous Integration and Continuous Delivery",
+      "summary": "Continuous Integration means merging all changes into a shared mainline at least daily, while Continuous Delivery means keeping software deployable at all times through automated pipelines. The author argues both terms are precise and well-documented, not vague, and warns against diluting their meaning as happened with Agile and DevOps."
+    },
+    {
+      "url": "https://platformengineering.org/blog/infrastructure-identity-for-platform-engineers?utm_source=tldrdevops",
+      "title": "Infrastructure identity for platform engineers",
+      "summary": "Infrastructure identity replaces static credentials and fragmented access controls with short-lived, cryptographically verified identities for humans, workloads, machines, and AI agents. Platform teams can embed just-in-time, policy-driven access into developer workflows, reducing security risk and operational toil while improving access times, auditability, and control over increasingly autonomous infrastructure."
+    },
+    {
+      "url": "https://www.databricks.com/blog/announcing-demand-state-repartitioning-apache-sparktm-structured-streaming-databricks?utm_source=tldrdevops",
+      "title": "Announcing On-Demand State Repartitioning for Apache Spark™ Structured Streaming on Databricks",
+      "summary": "On-demand state repartitioning is available in Public Preview on Databricks Runtime 18 and above."
+    },
+    {
+      "url": "https://newrelic.com/blog/observability/general-availability-new-relic-lens?utm_source=tldrdevops",
+      "title": "General Availability of New Relic Lens",
+      "summary": "New Relic Lens is now generally available, allowing users to query external data sources like Snowflake and Google Sheets within the New Relic UI."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native/?utm_source=tldrdevops",
+      "title": "How cloud native goes AI native",
+      "summary": "AI-assisted development is making software creation dramatically faster, but production readiness lags as agents favor simple infrastructure over security, scalability, observability, and operational resilience."
+    }
+  ]
+}

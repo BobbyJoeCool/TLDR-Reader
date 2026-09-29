@@ -1,0 +1,93 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-08-21",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho?utm_source=tldrai",
+      "title": "Anthropic's Project Parka sits through meetings and assigns Claude agents the homework",
+      "summary": "Anthropic's Project Parka is a Mac-first feature that can capture system and microphone audio, stream speaker-attributed transcripts, and create runnable work for Claude's agents. The feature could allow users to turn meetings into full implementation prompts. It is unclear whether Claude will start actions automatically or if it waits for user approval."
+    },
+    {
+      "url": "https://slack.com/blog/news/slack-code-channels-for-agents?utm_source=tldrai",
+      "title": "Slack Code: Where Your Team and Agents Build Together",
+      "summary": "Slack Code introduces code channels to facilitate collaborative software development with AI agents. This feature allows teams to plan, write, and review together with integrated tools from partners like GitHub, Anthropic, and Vercel, creating a seamless workflow without the need for isolated tabs. Engineers can monitor code diffs and live previews directly in Slack, enhancing transparency and speeding up the development process."
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/?utm_source=tldrai",
+      "title": "ChatGPT update adds Apple Messages integration on Mac",
+      "summary": "ChatGPT's latest update lets users work with conversations from Apple's Messages app. The feature works with iMessage, SMS, and RCS. It is available across all plans in the ChatGPT desktop app for macOS. There are privacy and control risks with giving ChatGPT such access, so users should take care before granting persistent approval."
+    },
+    {
+      "url": "https://mistral.ai/news/agentic-search/?utm_source=tldrai",
+      "title": "Mistral replaces one-shot document retrieval with a navigable search loop",
+      "summary": "Mistral's Agentic Search gives a model five operations—search, open, navigate, read, and grep—so it can inspect long documents, follow references, and verify an answer instead of accepting the first retrieved chunks. In Mistral's tests, the loop raised FinanceBench correctness from 26.7% to 86% and reduced tail latency, while a different harness moved the same model another 10.5 percentage points. The measurements are detailed but vendor-run."
+    },
+    {
+      "url": "https://thegustafson.com/blog/paged-attention?utm_source=tldrai",
+      "title": "PagedAttention: Virtual Memory for the KV Cache",
+      "summary": "The KV cache is a per-request store of attention keys and values that lets models avoid recomputing them at every decoding step. It grows linearly with sequence length, and at long contexts, it eats more GPU memory than the model weights themselves, so it's a scarce resource. KV cache wastes a lot of memory by default. This article talks about how PagedAttention implements the idea of virtual memory in a way that attention kernels can still work with."
+    },
+    {
+      "url": "https://www.harvey.ai/blog/post-training-update-harvey-tenet?utm_source=tldrai",
+      "title": "Harvey post-trains Kimi K3 for long-horizon legal work",
+      "summary": "Harvey post-trained a Kimi K3 base with asynchronous reinforcement learning in realistic long-horizon legal environments, then trained separate capabilities for diligence, review tables, and firm knowledge that the main system can route to as tools or subagents. The decision-changing idea is that a professional-service model can improve by learning the workflow and harness—not merely by ingesting more legal text—but every reported result is vendor-authored and task-specific."
+    },
+    {
+      "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/?utm_source=tldrai",
+      "title": "Are We Thinking Correctly About AI Intelligence?",
+      "summary": "Melanie Mitchell argues AI's intelligence differs fundamentally from human reasoning, classifying it as \"alien intelligence.\" She suggests adapting psychological methods used on infants and animals to better evaluate AI cognition. Mitchell proposes six principles to refine AI assessment, emphasizing the need for robust experimental design and cautioning against anthropomorphism."
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.15763?utm_source=tldrai",
+      "title": "TaoLive post-trains a smaller model to follow a changing harness",
+      "summary": "Harness-Aware Training is a post-training recipe rather than a new model architecture. TaoLive varies skill names and wording, tool schemas, prompt structure, and hook behavior during supervised fine-tuning and agentic reinforcement learning, teaching a compact 35B model to interpret the harness it currently receives instead of memorizing one fixed interface. It is useful post-training work, but the evaluation is vendor-authored, concentrated in live commerce, and not sufficiently groundbreaking for engineering and research."
+    },
+    {
+      "url": "https://ezyang.github.io/interactive-parallelize-transformer/?utm_source=tldrai",
+      "title": "Parallelizing Transformer Training",
+      "summary": "This interactive guide explores data parallelism, FSDP, tensor parallelism, pipeline parallelism, and expert parallelism for training transformers. It focuses on how different hardware and communication patterns determine when each strategy becomes bottlenecked."
+    },
+    {
+      "url": "https://openrouter.ai/stealth/ox-alpha?utm_source=tldrai",
+      "title": "Ox Alpha",
+      "summary": "Ox Alpha is a reasoning model designed for coding, sustained agentic work, and production workloads. It is suited for long-horizon software engineering, complex reasoning, and workflows that combine text with visual context. Ox Alpha is developed and operated by a provider who has chosen to remain anonymous. OpenRouter routes requests to it and is not its developer, owner, or provider."
+    },
+    {
+      "url": "https://x.com/ClaudeDevs/status/2090540270219567575?utm_source=tldrai",
+      "title": "Anthropic packages computer use, browser access, skills, and reusable files for production agents",
+      "summary": "Anthropic is turning four previously separate agent ingredients—computer use, browser access, versioned skills, and reusable files—into one production-building surface. The useful change is operational: a team can upload a procedure once, pin a version, reuse file IDs across requests, and reduce repeated browser round trips. Anthropic's same-day announcement says these capabilities are generally available, while older cached documentation still labels parts of the stack beta, so availability should be read from the dated announcement and verified per account."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?utm_source=tldrai",
+      "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot. Click here to learn more!"
+    },
+    {
+      "url": "https://antigravity.google/blog/antigravity-enterprise?utm_source=tldrai",
+      "title": "Google brings Antigravity agents into enterprise subscriptions and existing IDEs",
+      "summary": "Google added Antigravity to eligible Gemini Enterprise subscriptions and released extensions for VS Code, Visual Studio, JetBrains, and Zed. Developers can use the same agent workspace across these editors, while administrators can set sandbox, tool-permission, budget, identity, and audit controls."
+    },
+    {
+      "url": "https://insideai.news/news/ai-hardware-infrastructure/micron-unveils-10-billion-ai-memory-research-lab-in-boise/8340/?utm_source=tldrai",
+      "title": "Micron Invests $10 Billion in AI Memory Research",
+      "summary": "Micron announced a $10 billion, decade-long investment in a Boise research lab focused on memory technologies and compute systems."
+    },
+    {
+      "url": "https://x.com/ericnewcomer/status/2090521156818493795?utm_source=tldrai",
+      "title": "Poolside AI has struck a non-exclusive licensing deal with Nvidia for $6 billion",
+      "summary": "As part of the deal, 109 Poolside employees are getting offers to leave the startup to join Nvidia."
+    },
+    {
+      "url": "https://www.reuters.com/business/anthropic-plans-change-enterprise-data-retention-policy-source-says-2026-08-20/?utm_source=tldrai",
+      "title": "Anthropic Reworks Enterprise Data Retention",
+      "summary": "Anthropic planned to let enterprise customers keep required 30-day data retention on their own cloud infrastructure."
+    },
+    {
+      "url": "https://openai.com/index/introducing-ai-futures/?utm_source=tldrai",
+      "title": "OpenAI Launches Strategic Futures Team",
+      "summary": "OpenAI launched its Strategic Futures team to study how society could preserve individual autonomy as advanced AI reshapes economic and political power."
+    }
+  ]
+}

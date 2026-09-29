@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-21",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible?utm_source=tldrit",
+      "title": "Citrix urges admins to patch new NetScaler flaws ASAP",
+      "summary": "Citrix has warned customers to patch two NetScaler vulnerabilities that could enable remote authentication bypass or denial-of-service attacks under specific configurations. The company recommends upgrading affected NetScaler ADC and NetScaler Gateway appliances to specified builds, although it says neither flaw has been observed being exploited. Administrators can inspect configuration strings to determine exposure."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat?utm_source=tldrit",
+      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
+      "summary": "Slack Code brings coding agents, including Claude Code, Devin, GitHub Copilot, and Vercel, directly into shared channels where teams can prompt, review, and steer their work together. Agents operate with the invoking user's permissions, while code channels preserve diffs, previews and activity as a searchable record of the work."
+    },
+    {
+      "url": "https://www.ciodive.com/news/enterprises-cautious-era-spending-workforce-policy/827736/?utm_source=tldrit",
+      "title": "For enterprises, the cautious AI era has begun",
+      "summary": "The enterprise AI conversation is shifting from broad experimentation toward tighter scrutiny of cost, governance, workforce impact and actual business value. Companies are increasingly narrowing deployments around measurable use cases as token consumption and usage-based pricing make unrestricted AI adoption harder to justify."
+    },
+    {
+      "url": "https://weblog.rogueamoeba.com/2026/08/19/the-sleep-promoting-resilience-of-boring-infrastructure/?utm_source=tldrit",
+      "title": "The Sleep-Promoting Resilience of Boring Infrastructure",
+      "summary": "Conservative, “boring” infrastructure can improve resilience while reducing operational complexity. Migrating CGI scripts to FastCGI and primary order databases from MySQL to SQLite reported better performance and simpler backups."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message?utm_source=tldrit",
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "summary": "NanoClaw's new Slack integration lets users create entire teams of persistent AI agents from a single message, with each agent getting its own identity, memory, permissions, tools, and Slack presence. The agents remain self-hosted on customer infrastructure and can collaborate through Slack channels and Canvases, positioning Slack itself as a workspace where employees can dynamically create and manage specialized digital coworkers."
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed?utm_source=tldrit",
+      "title": "Serval's super agent Catalyst creates roving background agents to identify and fix IT issues before they're ticketed",
+      "summary": "Serval has made Catalyst generally available, an admin-facing AI agent that analyzes ticket history, SOPs, and connected systems to identify repetitive IT work and build the workflows needed to automate it. It can also create background agents that proactively detect issues across systems and propose fixes before employees submit tickets, with generated automations remaining subject to admin permissions and approval."
+    },
+    {
+      "url": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack?utm_source=tldrit",
+      "title": "Delta Flight Disrupted With Wi-Fi Hack",
+      "summary": "A Delta flight from Las Vegas to Atlanta was disrupted after someone allegedly interfered with the plane's Wi-Fi and created a rogue network called “Delta WiFi Fast” that led passengers to a phishing-style login page. Federal authorities are investigating. The incident happened shortly after Black Hat and DEF CON. No perpetrator has been identified."
+    },
+    {
+      "url": "https://thegustafson.com/blog/remote-mcp-and-auth?utm_source=tldrit",
+      "title": "Remote MCP, OAuth, and Enterprise Auth",
+      "summary": "Model Context Protocol (MCP) is transitioning from local standard I/O to multi-tenant cloud environments using HTTP and standard authentication. Moving MCP to the cloud replaces local subprocesses with streamable HTTP and Server-Sent Events while securing access via OAuth 2.1 and PKCE bearer tokens."
+    },
+    {
+      "url": "https://apnews.com/article/7d61e74242b872457bbfcf2223f9ebd5?utm_source=tldrit",
+      "title": "As workplace surveillance grows, experts say it's good to know the ways your employer is watching",
+      "summary": "Employee monitoring has expanded beyond traditional endpoint management into location, communications, application activity, and productivity data. The trend is creating a growing governance challenge around how workplace telemetry is collected, interpreted, and disclosed to employees."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/08/allowlisted-domains-api-now-generally-available.html?utm_source=tldrit",
+      "title": "Allowlisted Domains API now generally available",
+      "summary": "Workspace admins can now programmatically manage allowlisted domains instead of making every change manually in the Admin Console."
+    },
+    {
+      "url": "https://support.claude.com/en/articles/14782391-claude-enterprise-consumption-guide?utm_source=tldrit",
+      "title": "Claude Enterprise consumption guide",
+      "summary": "Claude Enterprise's consumption guide explains how administrators can control shared, usage-based spending across chat, coding, agentic, and integrated surfaces."
+    }
+  ]
+}

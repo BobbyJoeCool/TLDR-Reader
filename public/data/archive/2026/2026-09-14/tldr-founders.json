@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-09-14",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.domenkozar.com/2026/09/12/conways-law-is-dead-or-is-it/?utm_source=tldrfounders",
+      "title": "Conway's Law Is Dead. Or Is It?",
+      "summary": "Conway's law says that software reflects the communication structures of the organizations that build it. AI is now part of those structures. This means existing workflows need to change, with a focus on outcomes. Human judgment still matters, so alignment therefore involves humans adapting too."
+    },
+    {
+      "url": "https://cruciblecapital.substack.com/p/the-era-of-compounding-capital?utm_source=tldrfounders",
+      "title": "The Era of Compounding Capital",
+      "summary": "Capital structures now serve as competitive moats, particularly for companies leveraging AI and infrastructure, by transforming financial engineering into a decisive advantage. Startups need strategies to compound capital alongside traction, using each milestone to reduce financial risk and attract diverse funding sources. The most resilient companies use abundant capital to secure more durable sources, ensuring each dollar raised eases future fundraising efforts and propels growth."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/linkedin-ad-playbook?utm_source=tldrfounders",
+      "title": "Your playbook for LinkedIn ads that work",
+      "summary": "LinkedIn ads cost $37.42 per thousand impressions against about $10 on Meta, so the playbook starts with when NOT to run them. They only pay off when deal size is at least $10K and there are at least 10,000 decision-makers to reach, with $3,000 a month as the minimum test budget. Instead of targeting by job title, the author pulls buying signals like job postings and tech-stack changes and uploads them as a custom audience. Switching one account to manual bidding took cost per lead from $287 to $90."
+    },
+    {
+      "url": "https://paulgraham.com/powerful.html?utm_source=tldrfounders",
+      "title": "Making Startups Powerful",
+      "summary": "Paul Graham suggests startups should focus on becoming more powerful, not just more profitable. Strategies include owning customer relationships, creating network effects, and transforming into a marketplace or full-stack solution. Helping users make money, being generous, and selling early-stage to fast-deciding customers can also enhance a startup's long-term strength."
+    },
+    {
+      "url": "https://www.elenaverna.com/p/congrats-your-sales-problems-in-plg?utm_source=tldrfounders",
+      "title": "Congrats, your sales problems in PLG are completely unoriginal",
+      "summary": "Most product-led growth companies go through the same PLG-to-enterprise growing pains. They may be packaged differently, but they somehow go through the same conversations. This post goes through these challenges to prove how they aren't unique."
+    },
+    {
+      "url": "https://www.langchain.com/blog/paid-media-agent?utm_source=tldrfounders",
+      "title": "How we built LangChain's Paid Media Agent",
+      "summary": "The strongest results come from giving an agent a well-designed workspace with a sandbox, software, business context, and clear operating instructions. The system prompt becomes a map that helps the agent find what it needs without carrying everything in context. Use models for judgment and code for consistency. Agents need to find the right tools, work within clear permissions, and move from analysis to action. This meant proposing campaign changes, routing them through human approval, and verifying that the changes were applied correctly."
+    },
+    {
+      "url": "https://slack.com/blog/productivity/slack-surfaces?utm_source=tldrfounders",
+      "title": "Slackforce is here. Introducing Surfaces: live interfaces anyone can build and everyone can act on",
+      "summary": "Slackforce Surfaces turns Slack conversations into live dashboards, decks, or reports so the team can work from it together. Surfaces stay current and automatically update as they are connected to the source. They can be pinned into a channel so people can filter, comment on, and act on them together. This post presents several use cases for Slackforce Surfaces."
+    },
+    {
+      "url": "https://posthog.com/blog/irl-events?utm_source=tldrfounders",
+      "title": "From 1 to 100 IRL events in a year: The secret to getting engineers to demo",
+      "summary": "Most companies get engineers on stage by training them. PostHog got to more than 100 events a year by not asking. The engineer who built a feature is the one who demos it, the travel budget and brand assets are already provisioned, and nobody needs approval. More than half the company has now demoed somewhere, and about 95% of those events put them face to face with customers. About 20% of engineers opt out of speaking and nothing happens to them."
+    },
+    {
+      "url": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/?utm_source=tldrfounders",
+      "title": "My last six months at Evernote, after Bending Spoons took over",
+      "summary": "Bending Spoons bought Miro and Airtable this month, so an engineer who lived through its Evernote takeover wrote up what the six months after a close look like. Evernote was around $100M in ARR when 129 people were laid off in one round. His team went from six developers to one. The subscription price went from $69.99 to $129.99 a year. Bending Spoons later listed at $18.4B. He reads a voluntary severance offer as the new owner announcing its plan for the org."
+    },
+    {
+      "url": "https://www.saastr.com/one-thing-miro-airtable-show-getting-cash-flow-positive-isnt-magical/?utm_source=tldrfounders",
+      "title": "One Thing Miro + Airtable Show: Getting Cash Flow Positive Isn't Magical",
+      "summary": "Miro and Airtable both got cash-flow positive and both sold this month for about 2.5 times revenue. Miro had about $600M in ARR and sold for $1.355B. Airtable had about $480M growing over 20% and sold for $1.285B. Between them, they held about $1.4B in cash, and buyers paid nothing extra for it. Growth rate was the only thing priced. The cash sat there earning the worst multiple on the cap table."
+    },
+    {
+      "url": "https://www.svpg.com/strong-opinions-loosely-held/?utm_source=tldrfounders",
+      "title": "Strong Opinions, Loosely Held",
+      "summary": "AI only increases the relevance of the product model principles, the importance of product strategy, and the craft of product discovery."
+    },
+    {
+      "url": "https://a16z.com/catching-the-venture-bus/?utm_source=tldrfounders",
+      "title": "Catching the (Venture) Bus",
+      "summary": "Venture capital (VC) often weighs mistakes of omission over commission, highlighting the outsized impact of missing investments in firms like SpaceX or OpenAI."
+    },
+    {
+      "url": "https://endler.dev/2026/why-i-still-believe-in-mentorship/?utm_source=tldrfounders",
+      "title": "Why I Still Believe in Mentorship",
+      "summary": "Sometimes you need the opinion of someone who has observed you."
+    }
+  ]
+}

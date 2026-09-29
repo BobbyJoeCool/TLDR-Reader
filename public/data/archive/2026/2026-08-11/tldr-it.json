@@ -1,0 +1,73 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-11",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-08-10-gartner-forecasts-worldwide-artificial-intelligence-optimized-iaas-spending-to-grow-96-percent-in-2026?utm_source=tldrit",
+      "title": "AI infrastructure spending is set to nearly double in 2026",
+      "summary": "Gartner expects AI-optimized IaaS spending to grow 96% this year to $42 billion, with inference overtaking training as the largest source of demand. Agentic AI and production deployments are pushing enterprises toward significantly more continuous compute consumption."
+    },
+    {
+      "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now?utm_source=tldrit",
+      "title": "Meta releases Muse Glimmer, a 30B open model built for agents",
+      "summary": "Meta Muse Glimmer is a 30-billion-parameter open-weight model optimized for autonomous agents and designed to run on consumer hardware. The Apache 2.0 release marks a renewed push by Meta around open AI models."
+    },
+    {
+      "url": "https://lwn.net/Articles/1088059/?utm_source=tldrit",
+      "title": "Django moves to an annual release cycle",
+      "summary": "The Django Python web-framework project has accepted a proposal to replace its complex mix of short-lived feature and long-term-support releases with an annual release cycle. Beginning with the expected January 2028 release, every feature release will receive three years of support."
+    },
+    {
+      "url": "https://scotthelme.co.uk/everything-i-learned-shipping-device-bound-session-credentials/?utm_source=tldrit",
+      "title": "Everything I Learned Shipping Device Bound Session Credentials",
+      "summary": "Shipping Device Bound Session Credentials at Report URI and open-sourcing the server-side implementation exposed several browser and concurrency pitfalls. Refresh flows correctly begin with a 403, session-state clobbering can silently disable binding, cookie and challenge rotation are required, and legitimate overlapping requests can trigger false stolen-cookie detections."
+    },
+    {
+      "url": "https://www.resilientcyber.io/p/chaos-clocks-and-command-centers?utm_source=tldrit",
+      "title": "Chaos, Clocks, and Command Centers",
+      "summary": "Cybersecurity has substantially improved technical detection and containment while leaving enterprise incident response largely fragmented. The article advocates treating incident response as a coordinated command-center discipline, particularly as attackers' exploitation and intrusion timelines continue to shrink."
+    },
+    {
+      "url": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next?utm_source=tldrit",
+      "title": "Token-maxxing is dead. Agentic memory is what comes next",
+      "summary": "Longer context windows alone aren't enough for agents that operate across hours or days. The emerging infrastructure challenge is persistent memory that can decide what information to retain, retrieve, and discard."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia?utm_source=tldrit",
+      "title": "Run Local Agentic AI Workflows with Meta's Muse Glimmer on NVIDIA",
+      "summary": "Meta Muse Glimmer is a 30B open-weight dense model with a 120K-plus context window designed for local, multi-step AI agent workflows. NVIDIA says it can run on a single NVIDIA GPU at up to 20K tokens per second, keeping sensitive data on device, and provides deployment through NIM, vLLM, SGLang, Hugging Face weights, and NVIDIA platforms."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/?utm_source=tldrit",
+      "title": "Cloudflare launches a browser built specifically for AI agents",
+      "summary": "Cloudflare's Kitesurf is a cloud-hosted browser optimized for agents, stripping away human-facing browser overhead while reducing CPU, memory, and token costs. It runs on Workers and lets agents navigate sites, fill forms, and perform browser-based tasks programmatically."
+    },
+    {
+      "url": "https://www.architecture-weekly.com/p/vertical-slices-their-ownership-and?utm_source=tldrit",
+      "title": "Vertical slices, their ownership and external dependencies",
+      "summary": "External dependencies do not invalidate vertical slices. The key is to distinguish slices, modules, and bounded contexts rather than treating every feature as an autonomous context. In a transport-order workflow, task-specific slices use handlers with explicit dependencies, allowing them to call external systems or access shared data without collapsing back into generic status updates."
+    },
+    {
+      "url": "https://openai.com/index/premium-seats-chatgpt-business/?utm_source=tldrit",
+      "title": "OpenAI adds higher-capacity Premium seats to ChatGPT Business",
+      "summary": "OpenAI is introducing $125/month Premium seats with 5x the usage of standard ChatGPT Business seats and no five-hour usage limit. Companies can mix seat types and centrally manage usage, billing, and spend."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/?utm_source=tldrit",
+      "title": "The AI safety test is becoming a safety risk",
+      "summary": "Researchers are increasingly testing unreleased models with safeguards disabled, making the security of evaluation infrastructure itself a growing concern."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code?utm_source=tldrit",
+      "title": "Brex watches AI agents at the network layer",
+      "summary": "Brex describes an approach to securely deploying powerful agents by monitoring and restricting their network behavior rather than trying to anticipate every action in application code."
+    },
+    {
+      "url": "https://workos.com/blog/mcp-sprawl-invisible-to-shadow-it-tools?utm_source=tldrit",
+      "title": "The tools that caught shadow IT can't see MCP sprawl",
+      "summary": "Conventional shadow-IT tools cannot detect much MCP sprawl because many MCP servers run locally over stdio rather than crossing a monitored network boundary."
+    }
+  ]
+}

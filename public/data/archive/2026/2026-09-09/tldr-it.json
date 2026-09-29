@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-09",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/?utm_source=tldrit",
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments",
+      "summary": "Meta launched Muse, an AI agent that can connect to apps including email, calendars, payments, shopping, and smart home systems, then take actions on a user's behalf. Each agent runs in its own virtual machine and can continue working in the background, providing a preview of how quickly AI assistants are moving from answering questions to operating across real systems."
+    },
+    {
+      "url": "https://www.theregister.com/software/2026/09/07/oracle-may-be-next-in-eu-software-licensing-hot-seat-following-sap-deal/5294805?utm_source=tldrit",
+      "title": "Oracle may be next in EU software licensing hot seat following SAP deal",
+      "summary": "MLex reports the European Commission (EC) has started examining Oracle's software licensing practices ahead of a possible formal investigation, with one source saying regulators are seeking third-party views. The scrutiny follows the Commission's SAP probe, which ended with binding commitments to abolish reinstatement fees and reduce back-maintenance fees. An EC spokesperson said there is currently no formal investigation into any company."
+    },
+    {
+      "url": "https://www.windowscentral.com/microsoft/microsoft-office/switzerland-testing-alternatives-to-microsoft-365-digital-sovereignty?utm_source=tldrit",
+      "title": "Switzerland begins testing alternatives to Microsoft 365 to protect its \"most sensitive data\" and strengthen digital sovereignty",
+      "summary": "Switzerland's federal government is piloting Microsoft 365 alternatives across roughly 3,000 workstations, or about 7% of its administrative workforce. Data sovereignty is the primary driver, with licensing costs also contributing to a broader European push to reduce dependence on US-based workplace software."
+    },
+    {
+      "url": "https://deadneurons.substack.com/p/software-has-never-been-capital-light?utm_source=tldrit",
+      "title": "Software Has Never Been Capital Light",
+      "summary": "Enterprise software's \"capital lightness\" is an accounting illusion, because $50M spent on engineers is expensed as R&D while an equivalent factory machine is capitalized. Software requires constant maintenance labor to fight decay and outsources physical infrastructure to cloud hyperscalers spending ~$700B. High gross margins therefore reflect upfront sunk costs, not freedom from capital."
+    },
+    {
+      "url": "https://www.techradar.com/pro/introducing-ai-as-a-service?utm_source=tldrit",
+      "title": "Introducing AI-as-a-Service",
+      "summary": "Agentic AI could change SaaS from software designed primarily for people clicking through interfaces into services increasingly consumed by agents acting across multiple systems. Vendors and IT teams will need clearer permissions, monitoring, and guardrails as software starts performing work instead of simply exposing functionality."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/09/introducing-new-1password-app-for-Google-Chat.html?utm_source=tldrit",
+      "title": "Introducing the new 1Password App for Google Chat",
+      "summary": "1Password SaaS Manager can now bring IT and HR notifications, actions, and approvals directly into Google Chat. Teams can automate workflows such as provisioning and deprovisioning Chat space membership, while managers can approve requests without leaving the conversation."
+    },
+    {
+      "url": "https://blog.gitguardian.com/leaked-credentials/?utm_source=tldrit",
+      "title": "AI Created a Leaked Credentials Flood: Here's How We're Draining It",
+      "summary": "GitGuardian's Public Secrets Monitoring now uses two AI agents to triage every public GitHub and Docker Hub credential leak, assigning a company-related verdict, risk score, and visible reasoning. The launch responds to AI-driven exposure that reached 1.27 million credentials last year, up 81%, with many secrets remaining valid for years. New workspaces get the analysis by default and one enterprise team saw 10x productivity gains, with humans still closing incidents."
+    },
+    {
+      "url": "https://sophiabits.com/blog/shuffle-shard-everything?utm_source=tldrit",
+      "title": "Shuffle-shard everything",
+      "summary": "Shuffle-sharding is a low-cost way to reduce noisy-neighbor blast radius in multitenant systems by assigning tenants to overlapping subsets of workers rather than fixed shards. The technique lowers the chance tenants share identical resources without extra hardware. It requires tolerance for partial degradation and, for ordered workloads, consistent hashing by resource."
+    },
+    {
+      "url": "https://www.lesswrong.com/posts/zmC5Nhx36wt47WHfu/machine-organizations?utm_source=tldrit",
+      "title": "Machine Organizations",
+      "summary": "AI labs like OpenAI and Anthropic could soon become “machine organizations” where AI replaces researchers, managers, and executives while human support staff remain. Such a shift would leave customers and investors largely unaffected short-term but would undermine government oversight and shift power from employees to models, potentially enabling models to dictate terms."
+    },
+    {
+      "url": "https://mega.dev/autonomous-product-development?utm_source=tldrit",
+      "title": "Towards Autonomous Product Development",
+      "summary": "Software teams can achieve autonomous product development by giving AI agents broad but guarded access to context and moving them to the cloud for event-triggered work."
+    },
+    {
+      "url": "https://www.techradar.com/pro/the-fallout-from-ai-is-being-felt-further-across-the-business-than-most-people-assume-cios-are-being-held-accountable-when-ai-goes-wrong?utm_source=tldrit",
+      "title": "CIOs are being held accountable when AI goes wrong",
+      "summary": "Half of surveyed UK CIOs said they are personally accountable for AI agent mistakes, rising to 62% at organizations with 500 or more employees."
+    }
+  ]
+}

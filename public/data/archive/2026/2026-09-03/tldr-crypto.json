@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-09-03",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323?utm_source=tldrcrypto",
+      "title": "Strategy CEO defends selling BTC low, buying high",
+      "summary": "CEO Phong Le defended Strategy's sale of ~7,000 BTC at $60K-$65K (to fund preferred dividends) ahead of resuming purchases near $80K, framing both moves as driven by capital costs, not price predictions. During the ~10-week pause, the company cut net debt from ~$7B to zero and built ~$7B in cash. The sold BTC was under 1% of holdings. Strategy grew its stack ~30% this year and says it would keep buying at $90K-$130K if capital economics stay favorable. Bernstein kept an Outperform rating but cut its price target to $350 from $450."
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/goldman-sachs-bofa-others-plan-issue-dollar-stablecoin-together-2027-2026-09-01/?utm_source=tldrcrypto",
+      "title": "Goldman Sachs, BofA and Others Plan to Issue Dollar Stablecoin Together by 2027",
+      "summary": "Goldman Sachs, Bank of America, and several other major financial institutions in the US are forming a consortium to jointly issue a dollar-backed stablecoin, targeting a 2027 launch. The collaborative model suggests the banks aim to share infrastructure costs and regulatory compliance burdens rather than build competing products in parallel. A coordinated TradFi entry from systemically important institutions would put the product in direct competition with USDT and USDC, which together account for the majority of global dollar stablecoin supply. The move reflects broader bank momentum toward stablecoin rails as US federal stablecoin legislation has provided clearer issuer requirements and institutional on-ramps."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2094849015494123853.html?utm_source=tldrcrypto",
+      "title": "3Jane's \"Levered Callable Capital\" DeFi primitive",
+      "summary": "3Jane launched a product letting users earn 20%+ APY on Aave USDC/USDT deposits by making that capital \"callable\". This means staking $75K as margin while committing up to $1M of capital that stays usable elsewhere until called, earning Aave's base ~3.5% plus a 1.25% standby fee on the full commitment. If called, users have 9 days to fund it, with a 35-day cooldown after. Framed as a sign of DeFi maturing beyond simple lending/swaps into markets for balance-sheet capacity itself."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2094757121959280641.html?utm_source=tldrcrypto",
+      "title": "Ethena Pay Launches Neobank With 6% Savings Rate and 5% Cashback",
+      "summary": "EthenaPay is a crypto neobank built on Avalanche that pairs a traditional IBAN with self-custodial stablecoin accounts, letting users receive funds via standard banking rails and hold them in stablecoins. The product offers a 6% dollar savings rate, 5% card spend cashback, free global onramps in USD, GBP, EUR, and local currencies, and borderless instant transfers. The iOS app is live now, with a \"Buy Now Pay Never\" feature that routes savings yield to cover card balances automatically, positioning Ethena's USDe yield infrastructure as a direct-to-consumer fintech layer."
+    },
+    {
+      "url": "https://x.com/obchakevich_/status/2094874004146516183?utm_source=tldrcrypto",
+      "title": "Where B2B stablecoin payments actually flow",
+      "summary": "Real-economy stablecoin payments were only about $390B in 2025, and B2B accounts for ~$226B of that, dominated by USDT and driven by small and mid-sized importers, not crypto-native firms. Asia is the current volume center, LATAM shows strong institutional B2B rails despite a declining US-Mexico remittance corridor, Africa is the least-served and highest-margin region due to thin payout coverage, and MiCA rules make EU-touching corridors route around USDT. Infrastructure is consolidating fast into incumbents, leaving genuine white space only in Africa payouts, intra-LATAM, Turkey/CEE, and mid-market Asia sourcing: corridors with the widest cost gap and the thinnest coverage."
+    },
+    {
+      "url": "https://x.com/a16zcrypto/status/2094792952631718286?utm_source=tldrcrypto",
+      "title": "How Argentina Uses Stablecoins, in 5 Charts",
+      "summary": "Argentina's stablecoin adoption traces to a 2001 banking crisis in which the government froze deposits and forcibly converted dollar accounts to pesos, wiping out roughly three-quarters of the peso's dollar value, with usage accelerating after 2019 capital controls capped official dollar purchases at $200/month. Today, 94% of peso crypto trading flows to stablecoins, the highest share of any major currency Artemis tracks, while downloads of the country's top 15 crypto apps rose 93% in 2024 and 1 in 5 Argentines now use crypto. After Argentina lifted most capital controls in April 2025, the official and parallel exchange rates converged to within ~4%, removing the structural arbitrage that originally made stablecoins essential for dollar access. Lemon wallet downloads climbed each quarter even as monthly inflation fell from 25.5% to 2.1%, and USDC contractor payroll share leveled off rather than dropped, indicating stablecoins have shifted from crisis hedge to standing financial preference."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2094948869725651290.html?utm_source=tldrcrypto",
+      "title": "Robinhood and Fomo Users Buy Meme Coins With Credit Cards",
+      "summary": "Robinhood Wallet and social trading app Fomo allow users to purchase meme coins, including WIF, through Crossmint using Visa, Mastercard, Apple Pay, and Google Pay without separate KYC verification, according to a The Block investigation. Crossmint routes these transactions as \"digital goods/media\" rather than crypto purchases, a classification that bypasses standard credit card network crypto restrictions and qualifies buyers for rewards points or cash back they would not earn on a properly coded crypto transaction. Chase flagged the Visa transactions as incorrectly classified and has asked Visa to investigate, while the New York Attorney General's Office confirmed it is reviewing the matter. Crossmint has defended its classification approach as scrutiny from both a major bank and a state regulator mounts."
+    },
+    {
+      "url": "https://thedefiant.io/news/markets/arbitrum-jumps-25-on-robinhood-chain-fees-as-bitcoin-holds-78000?utm_source=tldrcrypto",
+      "title": "Arbitrum Jumps 25% on Robinhood Chain Fees as Bitcoin Holds $78,000",
+      "summary": "Robinhood Chain's daily fees doubled to $2.13 million, sending ARB up 25% to $0.1087 as the Arbitrum DAO's 10% licensing cut translates to roughly $192,000 per day at current rates. Chain DEX volume climbed 89.5% weekly to $1.56 billion, and TVL reached $738.5 million, though memecoin speculation rather than tokenized equity trading drives the bulk of that activity. The move lifted adjacent tokens across the L2 and DeFi sector, with CRV gaining 14.1% and OP rising 13.9%, while Bitcoin held near $78,000 and total crypto market cap stood at $2.72 trillion. ARB remains 95.5% below its January 2024 peak of $2.39, placing market cap at roughly $726 million despite the week's gains."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2094827970145993020.html?utm_source=tldrcrypto",
+      "title": "Privy adds bank-to-stablecoin orchestration",
+      "summary": "Privy launched native fiat on/off-ramp orchestration via its wallet APIs, letting developers move funds between bank accounts and stablecoins/Privy wallets."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309?utm_source=tldrcrypto",
+      "title": "Kalshi/Polymarket volume drops 15% in August",
+      "summary": "Combined Kalshi and Polymarket monthly volume fell 14.5% to $45.33B in August, the first decline in a year, following a World Cup-driven summer spike."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2094824702695166056.html?utm_source=tldrcrypto",
+      "title": "Autonomous AI Agent Attempts to Bootstrap a Business",
+      "summary": "An autonomous AI agent experiment failed to gain traction selling to human customers but found small-scale success pivoting to audit agent-facing products, pointing to agent-to-agent commerce as an emerging niche."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2095080854213058589.html?utm_source=tldrcrypto",
+      "title": "Ethena Pay card breakdown",
+      "summary": "New self-custodial card from Ethena Pay offers tiered cashback and up to 6% APY on balances."
+    }
+  ]
+}

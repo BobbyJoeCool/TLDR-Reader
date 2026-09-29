@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-18",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.docker.com/blog/make-zero-cves-your-new-default/?utm_source=tldrit",
+      "title": "Make zero CVEs your new default",
+      "summary": "Docker has announced updates aimed at making zero-CVE container images the default across the software supply chain. The company says its Hardened Images catalog now extends to hardened Alpine and Debian packages, supports patching beyond software end of life, and offers customization with maintained provenance, while Docker AI Governance records agent policy decisions in Docker Cloud and streams them to existing SIEM systems."
+    },
+    {
+      "url": "https://devops.com/github-hit-by-widespread-outage-halting-work-for-global-developers/?utm_source=tldrit",
+      "title": "GitHub outage disrupts developers worldwide",
+      "summary": "GitHub suffered a widespread outage Monday that disrupted repositories, APIs, GitHub Actions, Copilot, and enterprise authentication services, including SAML, OIDC, and SCIM. Error rates reached roughly 20% across web and API traffic and about 50% for raw repository and archive downloads before GitHub identified the faulty component and restored service later in the day."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4209900/agentic-ai-in-the-enterprise-how-to-balance-autonomy-with-constraints.html?utm_source=tldrit",
+      "title": "Agentic AI in the enterprise: How to balance autonomy with constraints",
+      "summary": "Enterprise AI agents become much easier to operate safely when their autonomy is bounded by explicit controls around permissions, tool access, verification, state, and approvals. Treat agents like production systems: use narrow tool permissions, durable audit trails, deterministic checks before writes, staged rollouts, cost and step limits, and human approval for higher-impact actions."
+    },
+    {
+      "url": "https://www.cio.com/article/4207533/how-to-level-up-from-it-management-to-it-leadership.html?utm_source=tldrit",
+      "title": "How to level up from IT management to IT leadership",
+      "summary": "Moving from IT management into senior leadership requires more than technical depth: leaders need business acumen, strong communication, stakeholder trust, and the ability to connect technology investments to measurable outcomes. CIOs and rising technology executives also emphasize taking on high-impact projects, learning from failed initiatives, prioritizing what not to do, and developing mentors who can help broaden their perspective."
+    },
+    {
+      "url": "https://substack.norabble.com/p/why-it-hasnt-happened-yet?utm_source=tldrit",
+      "title": "Why It Hasn't Happened Yet",
+      "summary": "Recent AI-related hacking incidents at OpenAI, Anthropic, AISI, and Hugging Face should prompt an urgent, industry-wide effort to strengthen operational security. Although limited damage occurred because the models lacked malicious intent, the incidents demonstrated powerful capabilities that could become more dangerous as models improve. Existing protections include alignment training, security classifiers, abuse detection, and conventional security, but each has weaknesses."
+    },
+    {
+      "url": "https://devops.com/dynatrace-acquires-arize-as-ai-agents-deepen-the-observability-challenge/?utm_source=tldrit",
+      "title": "Dynatrace Acquires Arize as AI Agents Deepen the Observability Challenge",
+      "summary": "Dynatrace is acquiring AI observability company Arize for roughly $915 million, combining Arize's visibility into model outputs, agent behavior and tool use with Dynatrace's application and infrastructure telemetry. The goal is to give DevOps and platform teams a clearer way to trace AI-agent failures back through the services, transactions and systems they affect."
+    },
+    {
+      "url": "https://www.crowdfundinsider.com/2026/08/298068-alipay-unveils-full-stack-agentic-commerce-infrastructure-in-china/?utm_source=tldrit",
+      "title": "Alipay Unveils Full-Stack Agentic Commerce Infrastructure in China",
+      "summary": "Alipay introduced a full-stack agentic commerce foundation and its AHA multi-agent, cross-device interconnection protocol suite at an AI ecosystem conference in Hangzhou. The initiative gives merchants tools to convert services into agent-accessible capabilities, while enabling agents across devices and vendors to coordinate authorization, fulfillment, and settlement, with Alipay reporting thousands of adapted services and partnerships across smartphones and automakers."
+    },
+    {
+      "url": "https://www.saastr.com/we-churned-notion-after-7-years-our-ai-agent-took-its-last-job/?utm_source=tldrit",
+      "title": "We Churned Notion After 7 Years. Our AI Agent Took Its Last Job.",
+      "summary": "SaaStr canceled Notion after seven years, not because of pricing, support, or a competing product, but because an internal AI agent gradually absorbed the last workflow it was being used for. This creates a new kind of SaaS churn: narrow-purpose tools can disappear from the stack as agents connect directly to company data and take over their jobs, making traditional usage and customer-health metrics less reliable."
+    },
+    {
+      "url": "https://43081j.com/2026/08/humanity-in-open-source?utm_source=tldrit",
+      "title": "Humanity in Open Source",
+      "summary": "End-to-end AI agents are flooding open-source maintainers with low-quality issues and pull requests, shifting effort away from coding and toward review. While AI-assisted human contributions can be useful, open source also depends on qualities that automated patches cannot replace, such as human conversation, relationships, and sustained collaboration."
+    },
+    {
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/top-open-source-automation-platforms?utm_source=tldrit",
+      "title": "Top Open-Source Automation Platforms",
+      "summary": "Nine open-source automation and workflow platforms."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/08/new-enterprise-security-controls-for-Workspace-Studio-enable-expanded-collaboration-use-cases.html?utm_source=tldrit",
+      "title": "New enterprise security controls for Workspace Studio enable expanded collaboration use cases",
+      "summary": "Google is adding least-privilege agent identities, audit trails, flow-level access controls, human approvals, and DLP protections to Workspace Studio so admins can more safely allow agentic automations to act across Gmail, Drive, and other Workspace apps."
+    }
+  ]
+}

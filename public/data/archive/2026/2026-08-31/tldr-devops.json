@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-08-31",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://reactos.org/project-news/reactos-0416-released/?utm_source=tldrdevops",
+      "title": "Introducing ReactOS 0.4.16",
+      "summary": "ReactOS 0.4.16 adds a graphical installer, a combined live/install image, improved video, audio, networking, and storage support, and a new Server Core installation mode. The release also fixes a long-standing Nvidia slowdown caused by exhausted system page-table entries, introduces a new ATA driver for broader boot compatibility, adds asynchronous networking, and brings its Wine fork substantially closer to Wine 10.0."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/?utm_source=tldrdevops",
+      "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
+      "summary": "Kubernetes 1.37 brings Pod Certificates and Cluster Trust Bundles to general availability, adding X.509 certificate issuance for TLS and mTLS directly into core Kubernetes. The feature is designed as an alternative to service account JWTs, which are bearer tokens, meaning anyone who receives a copy of the token can use it to impersonate the workload. Pod Certificates use proof-of-possession credentials, so a workload proves it holds a private key without ever sending that key to a peer. The Kubernetes project has also released Tinycert, a third-party signer for experimenting with Pod Certificates, since no built-in signers ship with core Kubernetes yet."
+    },
+    {
+      "url": "https://danluu.com/bug-blind/?utm_source=tldrdevops",
+      "title": "Bug Blindness",
+      "summary": "Developers can become “blind” to bugs and poor UX by unconsciously learning workarounds, causing teams to perceive severely flawed software as high quality even when normal users struggle with it. Dogfooding helps only if engineers actively notice these adaptations. Deliberately pointing out hidden friction can train teams to recognize quality problems before they become normalized."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/how-datadog-saves-money-by-optimizing-ai-usage/?utm_source=tldrdevops",
+      "title": "How Datadog saves over $1 million each month by optimizing AI usage",
+      "summary": "Datadog saves more than $1 million monthly on AI usage through agent evaluations, spending guardrails, and context optimization. These measures let the company balance cost against performance without sacrificing either."
+    },
+    {
+      "url": "https://dustycloud.org/blog/but-where-does-taste-come-from/?utm_source=tldrdevops",
+      "title": "But Where Does Taste Come From?",
+      "summary": "Taste develops through practicing a craft directly—trying, failing, making unexpected discoveries, and gradually forming a distinctive style—rather than simply judging outputs produced by others. Heavy use of generative AI can undermine that process by replacing practice with statistically average output and even acclimating users to AI-generated patterns, potentially weakening the judgment they hoped would differentiate them in the first place."
+    },
+    {
+      "url": "https://github.com/checkstyle/checkstyle?utm_source=tldrdevops",
+      "title": "checkstyle (GitHub Repo)",
+      "summary": "checkstyle is an open-source static analysis tool for enforcing Java coding standards and best practices during development and CI. It runs configurable checks over source code, integrates through Maven or a standalone JAR, and can flag issues such as fall-through behavior, naming, formatting, imports, and other style or quality violations as part of an automated build."
+    },
+    {
+      "url": "https://github.com/Lakr233/vphone-cli?utm_source=tldrdevops",
+      "title": "vphone-cli (GitHub Repo)",
+      "summary": "vphone-cli lets researchers boot a virtual iPhone on Apple Silicon Macs using Apple's Virtualization.framework and Private Cloud Compute research VM infrastructure. A single command handles the full pipeline from download through DFU restore to first boot. The tool includes five patch variants with increasing levels of security bypass, and exposes a control socket for screenshots, touch input, and clipboard access, which can be used for AI-driven end-to-end testing via a companion MCP server."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes/?utm_source=tldrdevops",
+      "title": "Scale before the spike: Predictive autoscaling for GPU workloads on Kubernetes",
+      "summary": "Two Adobe platform engineers built a predictive Kubernetes autoscaler after a production incident left users seeing 15-20% error rates because reactive scaling fired too late to help. The system uses a Bi-LSTM model embedded in a Go controller binary to forecast demand 10 minutes ahead, running inference every 60 seconds against the past hour of Prometheus metrics. A graduated scaler caps scale-out at 20 pods per minute to avoid overwhelming the scheduler, and a burst detector adds a heuristic safety net for traffic spikes the model wasn't trained on. In hackathon validation, 23 out of 23 checks passed, with the predictor catching simulated spike patterns 11 minutes early."
+    },
+    {
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies?utm_source=tldrdevops",
+      "title": "Creepy crawlies",
+      "summary": "AI scrapers now account for an estimated 98% of traffic to git.kernel.org, generating roughly 6 million daily requests and consuming 14–16 CPU cores across its five geo-distributed nodes just to render commits as HTML. Even proof-of-work challenges through Anubis only partially contain the load, forcing kernel.org to disable expensive anonymous features and reduce the number of crawlable URLs."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/federal-agencies-ai-spend-cloud-cost-management/?utm_source=tldrdevops",
+      "title": "Beyond the $1 AI era: How federal agencies can build the evidence for FY27 renewals",
+      "summary": "Federal agencies can use Datadog Cloud Cost Management to compile cost, usage, and value evidence ahead of FY27 AI renewals."
+    },
+    {
+      "url": "https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions/?utm_source=tldrdevops",
+      "title": "Pulumi Kubernetes v4.34.0: CRDs as provider extensions",
+      "summary": "Pulumi has released version 4.34.0 of its Kubernetes provider, with the main addition being a new --extension flag that lets users extend the provider with any Kubernetes Custom Resource Definition by passing its manifest file to Pulumi."
+    },
+    {
+      "url": "https://blogs.oracle.com/observability/from-kubernetes-signals-to-action-deploy-kubernetes-default-alarms-with-oracle-log-analytics?utm_source=tldrdevops",
+      "title": "From Kubernetes signals to action: Deploy Kubernetes Default Alarms with Oracle Log Analytics",
+      "summary": "The Kubernetes Default Alarms Quick Start provides configurable cluster and namespace monitoring through OCI Marketplace and Resource Manager, standardizing alerting and routing by team ownership."
+    }
+  ]
+}

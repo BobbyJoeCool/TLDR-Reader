@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-14",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://signal.zyppy.com/p/google-ranking-factors-expert-survey?utm_source=tldrmarketing",
+      "title": "Google Ranking Factors Expert Survey 2026",
+      "summary": "Google's strongest ranking factors are still relevance, backlinks, and content quality. Matching search intent matters more than simply targeting keywords. Original research and first-party data also help content stand out as AI makes publishing easier. Trusted backlinks remain important, while brand reputation and user behavior carry more weight. Technical SEO is still foundational, but it rarely lifts mediocre content on its own. Internal linking and user experience can further strengthen visibility when they help Google understand a site, and users find what they need."
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility?utm_source=tldrmarketing",
+      "title": "Deepfakes are wrecking influencers' credibility, one fake ad at a time",
+      "summary": "AI deepfakes are making influencer credibility harder to protect. Fake ads can still use creators' likenesses without permission. Meta has added stronger advertiser verification and an AI detection tool to combat celebrity impersonation, but creators still report slow removals. Influencers are easy targets because years of public photos and videos give AI models abundant training material."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/linkedin-ad-playbook?utm_source=tldrmarketing",
+      "title": "Your playbook for LinkedIn ads that work",
+      "summary": "Build LinkedIn ads around the buying journey. Use signals to target companies entering a buying window, then start with thought leadership before introducing case studies and offers. Retarget engaged prospects with native lead forms and qualify them with specific questions. Follow up within 5 minutes while interest is fresh, and use sales outcomes to refine targeting and messaging over time."
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7504176931098243072/?utm_source=tldrmarketing",
+      "title": "5 hacks to instantly write more persuasive copy",
+      "summary": "Before writing, define the emotion and action the copy should trigger. Spend most of the editing time on the first few lines since they determine whether people keep reading. Describe the audience's pain points with specific, concrete language to show you understand the problem. Write conversationally and cut jargon. Then read the copy aloud to catch awkward sentences and weak sections."
+    },
+    {
+      "url": "https://searchengineland.com/the-availability-heuristic-7-ways-google-ads-can-steer-your-decisions-487769?utm_source=tldrmarketing",
+      "title": "The availability heuristic: 7 ways Google Ads can steer your decisions",
+      "summary": "Google Ads can steer decisions through the data and recommendations it makes most visible. Default dashboards may prioritize less useful metrics, while hidden settings can override campaign-level targets. Search term reports can also reveal irrelevant traffic that inflates performance. Review account settings, conversion goals, search queries, and recommendations regularly instead of relying on Google's default views to guide optimization."
+    },
+    {
+      "url": "https://www.buzzstream.com/blog/media-pitch-examples/?utm_source=tldrmarketing",
+      "title": "9 Successful Media Pitch Examples for Every Type of Campaign",
+      "summary": "Digital PR pitches give journalists a clear story angle and the information needed to cover it. Survey and proprietary data pitches lead with a compelling finding, supported by methodology and a link to the full research. City studies add a local or seasonal hook, while reactive commentary needs timely news, relevant expert credentials, and a fresh quote. Product launches work best as concise announcements, while review and roundup pitches should lead with the problem the product solves and include pricing and availability."
+    },
+    {
+      "url": "https://hackernoon.com/a-look-inside-my-career-as-a-b2b-product-marketing-manager-in-it-part-1?utm_source=tldrmarketing",
+      "title": "A Look Inside My Career As A B2B Product Marketing Manager in IT",
+      "summary": "Anya's path from product management into B2B product marketing shows how product experience can lead naturally into PMM. She studied computer science and later earned a master's in Product Development Management of IT Services. She gained product experience and took on marketing responsibilities at a small IT company. A professional blog helped her organize and deepen her knowledge. Later, mentoring helped her recognize that her marketing experience could translate into PMM, leading to a mid-level role at a B2B SaaS startup."
+    },
+    {
+      "url": "https://www.elenaverna.com/p/congrats-your-sales-problems-in-plg?utm_source=tldrmarketing",
+      "title": "Congrats, your sales problems in PLG are completely unoriginal",
+      "summary": "PLG companies often weaken growth when they start chasing enterprise revenue. Sales teams begin treating self-serve users as leads, while product teams lock valuable features behind higher tiers. Enterprise opportunities should instead emerge from product usage. Growing teams and expanding usage can signal when an account is ready for sales. Self-serve customers should still be able to discover and buy the product without unnecessary sales friction."
+    },
+    {
+      "url": "https://www.digitaltrends.com/social-media/instagram-scammers-are-holding-creators-accounts-hostage-with-copyright-strikes/?utm_source=tldrmarketing",
+      "title": "Instagram scammers are holding creators' accounts hostage with copyright strikes",
+      "summary": "Scammers are filing fake copyright complaints against Instagram creators, then demanding payment to withdraw them."
+    },
+    {
+      "url": "https://www.wsj.com/business/new-rules-for-succeeding-at-work-success-331969f8?st=bcckHT&utm_source=tldrmarketing",
+      "title": "The 24 New Rules for Succeeding at Work",
+      "summary": "A guide to 24 workplace challenges, with expert advice on AI, career growth, and layoffs."
+    },
+    {
+      "url": "https://karandhir.substack.com/p/facebook-proved-its-own-ad-measurement?utm_source=tldrmarketing",
+      "title": "Facebook Proved Its Own Ad Measurement Wrong",
+      "summary": "Facebook's research found that standard ad attribution can overstate incremental conversions by 3X or more."
+    }
+  ]
+}

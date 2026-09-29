@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-24",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d?st=grUeQK&reflink=desktopwebshare_permalink&utm_source=tldrfounders",
+      "title": "Startup Founders Are Working Harder Than Ever to Keep Up With Their AI Agents",
+      "summary": "Founders have long put in long hours in the name of building the next big thing, but AI agents are pushing this to the next level. AI agents' growing capabilities and the speed at which the models powering them are evolving are causing founders to work more and more as they fear missing out on precious hours of work. This is causing erratic sleep schedules, a struggle to focus on anything but work, and the feeling that, while the pace is unhealthy and unsustainable, they just can't stop."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/?utm_source=tldrfounders",
+      "title": "Will the DOJ's investigation into a16z spook other VCs?",
+      "summary": "The DOJ has spent close to a year on an antitrust probe of Andreessen Horowitz, and the subject is board seats like the ones your own investors hold. Regulators are looking at partners sitting on boards of AI companies that now compete, with Ben Horowitz at Databricks and Martin Casado at Fivetran named as examples. If firms respond by giving up seats or declining them, board composition, information rights, and term sheets change for anyone raising now. Nobody outside the probe knows what the underlying allegations are."
+    },
+    {
+      "url": "https://kevingoldsmith.substack.com/p/build-vs-buy-when-building-just-got?utm_source=tldrfounders",
+      "title": "Build vs Buy When Building Just Got Cheap",
+      "summary": "For most of the last two decades, building a custom alternative was rarely worth it. That's now changed - building something fitted specifically to your company is now cheap. However, what hasn't changed is risk, security, and total cost of ownership. The reasons to not build auth in-house are still the same as they always were."
+    },
+    {
+      "url": "https://x.com/posthog/status/2090858894419693598?utm_source=tldrfounders",
+      "title": "Building a semantic layer: What it is and how we did it at PostHog",
+      "summary": "A semantic layer is a dictionary of definitions that agents and humans read from. It doesn't copy data, replace a warehouse, or move a single row of data. It sits on top of the data that exists and describes it. The semantic layer gives everyone a single place to read definitions from so that the team is on the same page. This post tells the story of how PostHog built a semantic layer into its context warehouse."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2090500028393726026.html?utm_source=tldrfounders",
+      "title": "Skills for your whole team are here",
+      "summary": "Notion skills teach agents how teams work so they don't have to start from scratch. Users can ask Notion Agents to turn teams' work into skills that can be shared. Skills are Notion pages. Users can add processes, examples, references, and preferred formats, then share them like any other page."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2090903345733210260.html?utm_source=tldrfounders",
+      "title": "The X Ads MCP",
+      "summary": "The X Ads MCP allows users to create ads directly from where they already use agents. Users can connect Grok, Grok Build, Claude Code, or other AI agents directly to their X Ads accounts and manage campaigns through normal conversation. Agents can pull real campaign data, analyze the results, and tell users what's working and what's not. The AI can create and manage campaigns, search interests and locations for targeting, add or remove targeting, create ad posts, promote existing posts, check campaign performance and reach, and update and activate campaigns. There are 23 X Ads tools available through the MCP."
+    },
+    {
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917?utm_source=tldrfounders",
+      "title": "Why your local LLM feels dumber than it is",
+      "summary": "Plenty of teams save money running open AI models on their own hardware, shrunk to fit. Someone on a forum tested those shrunken versions of one model and logged 44.8 terabytes of results. Same model, same question. Right answer on one graphics card, wrong answer split across two, right again across four. One common compression setting quietly broke the model's ability to call outside tools, while a slightly bigger one worked fine. A feature that flakes in production but sails through your demo may be a settings problem, not a code problem. Answers also drift deep into long documents."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?utm_source=tldrfounders",
+      "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot. Click here to learn more!"
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/b2b-gtm-playbook-for-2026?utm_source=tldrfounders",
+      "title": "How the GTM playbook has changed in 2026",
+      "summary": "Inbound came out as the most-adopted go-to-market motion in this benchmark survey of B2B software companies, at 23%. Product-led growth still dominates below $1M ARR and under $5K ACV, so where your company sits decides which numbers apply. Channel use runs LinkedIn 66%, SEO 53%, warm outbound 48%. Some 47% of teams are testing AI discovery channels, and answer-engine optimization is the top rising investment. Hybrid pricing sits at 37%, and AI credit models are forecast to grow 114% in twelve months. On hiring, 39% of top AI companies are filling forward-deployed roles at $213K to $370K+."
+    },
+    {
+      "url": "https://sixteenventures.com/you-have-never-been-your-own-customer/?utm_source=tldrfounders",
+      "title": "You Have Never Been Your Own Customer",
+      "summary": "Companies often overlook the customer experience with third-party services that carry their branding, leading to inefficiencies and frustration."
+    },
+    {
+      "url": "https://is-agentic.com/?utm_source=tldrfounders",
+      "title": "Is Agentic (Website)",
+      "summary": "This site scores websites based on what agents can discover, access, and use."
+    },
+    {
+      "url": "https://blog.cloudflare.com/bot-preference-sync/?utm_source=tldrfounders",
+      "title": "Say it once: introducing Bot Preference Sync",
+      "summary": "Cloudflare now writes AI bot policies into robots.txt automatically across Search, Agent, and Training categories on every plan for free."
+    }
+  ]
+}

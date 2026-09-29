@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-09-21",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.axios.com/2026/09/17/sec-tokenization-crypto-stocks?utm_source=tldrfintech",
+      "title": "SEC opens door for crypto-style trading of US stocks",
+      "summary": "The SEC issued five-year conditional exemptions allowing certain blockchain-based venues and automated liquidity providers to trade tokenized US stocks, bringing crypto-style market infrastructure into traditional equities. The tokenized shares would carry the same dividends and voting rights as the underlying stock, while issuers would have the right to opt out, giving the SEC a live framework to test on-chain trading before deciding on permanent rules."
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/revolut-plans-dual-listing-new-york-london-french-newspaper-les-echos-reports-2026-09-17/?utm_source=tldrfintech",
+      "title": "Revolut considers dual listing in New York and London",
+      "summary": "Revolut is considering a dual listing on Nasdaq and the London Stock Exchange, though CEO Nik Storonsky said the US remains the preferred market because of its deeper investor base. The fintech was valued at $75 billion in a secondary sale last year and has 80 million customers globally. It reportedly discussed targeting a valuation of up to $200 billion in an eventual IPO, which is still likely at least a year away."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2101052620261720374.html?utm_source=tldrfintech",
+      "title": "House China Committee raises security concerns over Airwallex as company pushes back",
+      "summary": "A House China Committee letter raised concerns that Airwallex's China-based workforce and exposure to Chinese law could create risks around access to sensitive US financial data, prompting Joe Lonsdale to warn companies that may use Airwallex infrastructure. Airwallex CEO Jack Zhang rejected the allegations, arguing that the relevant issue is data architecture and access controls rather than employee location, saying the company's safeguards have been independently assessed and that the concerns did not stem from a breach or regulatory finding. Rippling CEO Parker Conrad also clarified that zero Rippling payments run through Airwallex."
+    },
+    {
+      "url": "https://lex.substack.com/p/analysis-hyperbanks-and-the-new-financial?utm_source=tldrfintech",
+      "title": "Fintech evolved into Hyperbanks and Neobranches",
+      "summary": "This article revisits a 2018 framework for how banks, fintechs, and big tech would converge, and argues that the emerging winner is a new model we call the Hyperbank: a technology company that owns the financial stack down to the regulatory or sovereign root. Column illustrates the model with just $1.77B in assets but roughly $200MM in revenue, a potential $6B valuation, and customers including Ramp, Brex, Bilt, Mercury, and Wise, while vertically integrating stablecoins, card issuing, global banking, multicurrency accounts, and core infrastructure. Hyperbanks are different from Deep Fintechs, which build difficult-to-copy technologies such as blockchains, zero-knowledge proofs, AI underwriting, and advanced trading infrastructure. Neobranches own digital distribution while renting the underlying financial factory."
+    },
+    {
+      "url": "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse?utm_source=tldrfintech",
+      "title": "SaaS platforms are surging despite the SaaSpocalypse",
+      "summary": "Stripe says new SaaS platform creation is accelerating despite fears that AI would commoditize software, with new platform businesses up more than 180% year over year and more integrations reaching meaningful payment volume faster than prior cohorts. Its argument is that durable SaaS will increasingly be built around core workflows, proprietary business context, and embedded money movement, with AI making those platforms more capable rather than eliminating the application layer."
+    },
+    {
+      "url": "https://thefintechtimes.com/rivo-raises-3-1m-seed-to-automate-household-cash-management/?utm_source=tldrfintech",
+      "title": "Rivo raises $3.1m seed to automate household cash management",
+      "summary": "The San Francisco startup connects to existing bank accounts, moves idle balances into US Treasuries, and returns funds before scheduled bills come due. Users can earn a yield without switching banks or manually moving money, with real-time cash flow monitoring determining when to invest and when to pull funds back."
+    },
+    {
+      "url": "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/september/mastercard-and-trip-com-pave-the-way-for-agentic-commerce-in-the-travel-sector/?utm_source=tldrfintech",
+      "title": "Mastercard and Trip.com pave the way for agentic commerce in travel",
+      "summary": "Mastercard, Trip.com, and Network International are piloting an agentic travel-booking experience that lets Trip.com's TripGenie AI agent help users discover, book, and pay for travel services end to end. The initiative uses Mastercard's Agent Suite for Merchants and payments infrastructure to keep merchants in control of the customer experience while enabling consumer-authorized AI purchases, with a phased commercial rollout expected in early 2027."
+    },
+    {
+      "url": "https://lsvp.com/stories/what-it-actually-takes-to-replace-a-legacy-erp/?utm_source=tldrfintech",
+      "title": "What It Actually Takes to Replace a Legacy ERP",
+      "summary": "Lightspeed argues that the real breakthrough in next-generation ERP is not a better interface, but using AI to eliminate migration risk, historically the biggest reason CFOs stayed with legacy systems like NetSuite. Its portfolio company DualEntry uses AI to migrate and reconcile company data in as little as 24 hours, pursuing a “reverse wedge” strategy that replaces the ERP first and then expands into adjacent finance workflows."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html?utm_source=tldrfintech",
+      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway",
+      "summary": "Warren Buffett is stepping down as Berkshire Hathaway chairman at age 96, becoming chairman emeritus while remaining on the board. His son Howard Buffett will become chairman, with Greg Abel continuing as CEO. The move completes Berkshire's long-planned succession and puts more responsibility on Abel to deploy the company's $365.5 billion cash hoard, as Buffett closes a six-decade tenure in which Berkshire compounded shareholder returns at 19.7% annually, nearly double the S&P 500."
+    },
+    {
+      "url": "https://finainews.com/strategy/grab-to-buy-60-of-atome-financial-for-1-49b-in-consumer-lending-push/?utm_source=tldrfintech",
+      "title": "Grab to buy 60% of Atome Financial for $1.49B in consumer lending push",
+      "summary": "Grab, Southeast Asia's Uber, has agreed to acquire a 60% stake in Atome Financial for $1.49 billion in cash, adding AI-powered credit underwriting and a $1 billion loan portfolio."
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/agencies-clarify-banks-may-accept-7164670/?utm_source=tldrfintech",
+      "title": "Agencies clarify banks may accept mobile driver's licenses and digital credentials for CIP identity verification",
+      "summary": "Customers can use qualifying government-issued digital IDs when opening accounts in person or online, provided the institution has systems to process them."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/anthropics-ipo-will-happen-a-month-later-than-expected-a334b10e?utm_source=tldrfintech",
+      "title": "Anthropic delays IPO staging to November amid AI fears",
+      "summary": "Anthropic is reportedly pushing its planned IPO from October to November, giving the company more time to present third-quarter results and address investor concerns around AI safety, competitive pressure, and the pace of model development."
+    }
+  ]
+}

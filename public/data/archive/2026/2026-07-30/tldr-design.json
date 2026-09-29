@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-07-30",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://paper.design/blog/series-a?utm_source=tldrdesign",
+      "title": "Paper Raises $34M to Build the Next Great Design Platform",
+      "summary": "Paper raised $34M in Series A funding from Accel and ICONIQ, bringing its total funding to $38.5M, to build a design platform for the agentic era. Following its Paper Desktop launch, the company saw 25x ARR growth in a month and now serves thousands of paying customers, including Ramp, Lovable, and Harvey. Paper plans to use the funding to expand its editor and agent infrastructure, positioning itself as infrastructure for agents while continuing open-source projects like Paper Shaders and Paper Mono."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/28/iyos-trademark-lawsuit-against-openai-and-jony-ive-paused-over-settlement-talks/?utm_source=tldrdesign",
+      "title": "iyO's trademark lawsuit against OpenAI and Jony Ive paused over settlement talks",
+      "summary": "OpenAI, Jony Ive's hardware venture, and iyO have reached a settlement in principle in their trademark and trade secret dispute, prompting the court to pause proceedings for seven days while the agreement is finalized. If the settlement is completed by August 6, the lawsuit will be dismissed. Otherwise, the parties must provide a status update and continue with scheduled hearings. The agreement could also resolve the ongoing dispute over OpenAI's use of the “io” branding for its future AI hardware."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/?utm_source=tldrdesign",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Pangram has raised $9 million to expand its AI detection tools as AI-generated content spreads across the internet, academia, legal work, and social platforms. The startup launched Pangram 4, which it says is over 99% accurate at detecting AI-assisted and mixed human-AI writing, along with a research-preview image detector that can identify AI-generated visuals across different models. While the tools are not perfect, Pangram is positioning itself as a way to preserve human-made content and add transparency around when AI has been used."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/ux-context-design/?utm_source=tldrdesign",
+      "title": "UX-Context Design: Using UX Knowledge to Inform AI-Generated Design",
+      "summary": "UX-context design reframes research and design deliverables as curated, machine-readable context that guides AI tools rather than documents meant for human interpretation. Google's DESIGN.md exemplifies this shift for visual identity, while a hypothetical broader file, UX.md, could similarly encode research findings, interaction standards, glossaries, and user/world models for AI consumption. Unlike traditional handoffs, this context lives alongside the product, continuously updates, and is read by every AI tool whenever anyone in an organization generates work."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2026/07/digital-design-ai-era/?utm_source=tldrdesign",
+      "title": "Thinking Outside The Box: Digital Design in the AI Era",
+      "summary": "MacPaw explored moving beyond typical text-box AI interfaces, leading to Eney, a proactive assistant designed as an expressive character rather than a chatbot. Designers chose a circular pink figure with minimal facial features, prioritizing warmth, approachability, and restrained emotional expression over flashy or distracting UI. Despite AI streamlining design work, human judgment, artistic intent, and curiosity remain essential and increasingly valuable in the AI era."
+    },
+    {
+      "url": "https://thedesignersfieldguide.substack.com/p/how-design-leaders-influence-decisions?utm_source=tldrdesign",
+      "title": "How design leaders influence decisions without being in the room",
+      "summary": "As AI-generated interfaces make visual quality easier to achieve, designers can no longer rely on polished screens alone to communicate the value of their work. A more effective approach is to annotate presentations with three elements: the design decision, the hypothesis behind it, and the outcome it produced, making the strategic thinking explicit. This framework helps stakeholders understand not just what changed, but why it mattered and how it impacted users or the business."
+    },
+    {
+      "url": "https://dreamcomposer.de/en/?utm_source=tldrdesign",
+      "title": "3D Prototypes (Website)",
+      "summary": "Turn your design ideas into reality and create impressive packaging with unique finishing effects as a 3D model - quickly, easily, and web-based."
+    },
+    {
+      "url": "https://iridea.ai/?utm_source=tldrdesign",
+      "title": "Feed Your Brand. Get Campaigns. (Website)",
+      "summary": "Paste your site and get on-brand ads, stories, and social posts."
+    },
+    {
+      "url": "https://contentpilots.net/?utm_source=tldrdesign",
+      "title": "Your Stream. Viral Clips in Minutes (Website)",
+      "summary": "Drop a Kick or Twitch VOD. AI transcribes the full stream, finds the best moments, and delivers 9:16 clips with karaoke captions — ready to post."
+    },
+    {
+      "url": "https://andybudd.com/archives/2026/07/designing-fast-and-slow?utm_source=tldrdesign",
+      "title": "Designing Fast and Slow",
+      "summary": "Designers often favor deliberate, evidence-based decision-making, while business partners tend to move quickly on instinct. This creates a \"chess versus poker\" divide: designers treat decisions as costly and hard to undo, while business leaders treat them as cheap, disposable bets. The real question isn't whether to think fast or slow, but whether a given decision is truly reversible and worth the cost of caution."
+    },
+    {
+      "url": "https://www.figma.com/blog/the-visual-identity-behind-config-2026/?utm_source=tldrdesign",
+      "title": "Digital Tools, Human Expression: The Visual Identity Behind Config 2026",
+      "summary": "Figma's Brand Studio built Config 2026's visual identity around evolution, fluidity, and harmony. The team used Figma Make to create glyphs, dithering effects, and scribbly textures, then translated them into physical installations, motion pieces, wayfinding signage, and merchandise. Interactive elements like Shared Frequency, the Play Canvas, and Collage Remixer let attendees personalize prints and designs, extending the theme of imperfect, human-driven creativity into tangible keepsakes and audio."
+    },
+    {
+      "url": "https://www.itsnicethat.com/articles/accept-and-proceed-vans-graphic-design-290726?utm_source=tldrdesign",
+      "title": "Accept & Proceed's new system for Vans is a lesson in how to inject clarity into an iconic brand",
+      "summary": "Vans has introduced a refreshed brand system that unifies its previously fragmented identity around the idea “Our Canvas. Your Way,” celebrating the brand as a platform for personal expression. Rather than redesigning iconic assets, Accept & Proceed clarified what should remain consistent while creating a more flexible framework for future teams, products, and communities. The update also refines the brand's typography and guidelines, giving Vans a more cohesive identity without losing the authenticity that made it culturally significant."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/logos-icons/a-bad-logo-could-cost-you-your-job?utm_source=tldrdesign",
+      "title": "A bad logo could cost you your job",
+      "summary": "Cracker Barrel's controversial 2025 logo redesign sparked intense cultural and political backlash, culminating in the restoration of its original logo and the departure of CEO Julie Felss Masino."
+    },
+    {
+      "url": "https://webdesignerdepot.com/why-your-favorite-websites-look-like-2005-and-why-you-secretly-love-it/?utm_source=tldrdesign",
+      "title": "Why Your Favorite Websites Look Like 2005 (And Why You Secretly Love It)",
+      "summary": "Google, Amazon, and Walmart retain \"dated,\" utilitarian designs because simplicity reduces cognitive load, speeds load times, and builds user trust."
+    },
+    {
+      "url": "https://www.designweek.co.uk/landor-designs-human-centric-trackside-experiences-for-mclaren-racing/?utm_source=tldrdesign",
+      "title": "Landor Designs Human-centric Trackside Experiences for McLaren Racing",
+      "summary": "Landor has designed a mobile, three-storey Team Hub and updated Garage experience for the McLaren Mastercard Formula 1 Team, debuting at the Barcelona Grand Prix."
+    }
+  ]
+}

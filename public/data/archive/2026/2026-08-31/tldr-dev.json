@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-08-31",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://coldtake.dev/blog/domain-driven-agents?utm_source=tldrdev",
+      "title": "Domain-Driven Agents",
+      "summary": "Using LLMs in software engineering yields productivity benefits, especially in greenfield projects, but struggles arise when applying them to legacy systems burdened by technical debt and conflicting terminologies. A strategy that can overcome this is clear domain-driven design, along with a structured approach to managing code changes and communication between various project components."
+    },
+    {
+      "url": "https://danluu.com/bug-blind/?utm_source=tldrdev",
+      "title": "Bug blindness",
+      "summary": "Many individuals experience \"bug blindness,\" a phenomenon where they fail to notice software issues or flaws that are apparent to others. This blindness can lead to the perception that software is functioning well, even when it is flawed. To combat this, it's good for devs and users alike to actively seek out and acknowledge these issues, creating a culture of quality awareness to prevent low-quality releases."
+    },
+    {
+      "url": "https://tucker.wales/writing/bias-towards-action/?utm_source=tldrdev",
+      "title": "Calibrate Before You Accelerate: The Smart Way to Bias Toward Action in a New Role",
+      "summary": "A bias toward action can be valuable in a new role, but it must be exercised after gaining proper context to avoid missteps. The process involves actively listening, synthesizing information, and strategically implementing changes to make sure impactful actions lead to meaningful outcomes."
+    },
+    {
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity?utm_source=tldrdev",
+      "title": "Good Culture is the Biggest Productivity Hack, Not AI",
+      "summary": "A strong organizational culture is necessary for maximizing productivity, and while AI tools can improve efficiency, their effectiveness is lowered without a supportive environment. Poor culture makes collaboration and communication hard, leading to mediocre outcomes."
+    },
+    {
+      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/?utm_source=tldrdev",
+      "title": "What my dad taught me about AI coding in the 90s",
+      "summary": "The author reflects on the parallels between playing blindfold chess and programming with AI, emphasizing that the ability to manage complex relationships and maintain focus is essential in both activities. As AI tools evolve, programmers who can effectively understand and leverage these technologies without losing control will have a substantial advantage, though measuring their effectiveness may become increasingly challenging."
+    },
+    {
+      "url": "https://github.com/kingroryg/turbokv?utm_source=tldrdev",
+      "title": "TurboKV (GitHub Repo)",
+      "summary": "TurboKV is an asynchronous embedded key-value database written in Rust, featuring atomic operations, configurable durability options, and efficient range scans."
+    },
+    {
+      "url": "https://github.com/vercel-labs/vgpu?utm_source=tldrdev",
+      "title": "vgpu (GitHub Repo)",
+      "summary": "vgpu is a TypeScript library designed for WebGPU, offering typed shader imports, a compact GPU-first API, and compatibility across various environments including browsers and headless Node.js."
+    },
+    {
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/?utm_source=tldrdev",
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "summary": "The author describes the overly complicated process of upgrading their home security with a video doorbell, relying on five different cloud services to solve a problem caused by the doorbell itself."
+    },
+    {
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/?utm_source=tldrdev",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "summary": "Recent experimentation with LLM agents for vulnerability research showed that traditional memory systems struggle to maintain accurate knowledge over time, resulting in outdated or incorrect conclusions. This led to the development of Lemmalog, a Datalog-based system that effectively maintains and updates factual knowledge, allowing for incremental reasoning and improved accuracy in complex analyses."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/?utm_source=tldrdev",
+      "title": "Understanding ChatGPT Work",
+      "summary": "ChatGPT Work is a subscription-only tool designed for non-technical users who want advanced capabilities beyond standard ChatGPT, such as code execution with internet access, a full headless Chrome browser, and persistent file storage. It also supports running parallel sub-agent workflows and maintaining shared, persistent files across sessions."
+    },
+    {
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones?utm_source=tldrdev",
+      "title": "Consumer Inference Systems",
+      "summary": "Benchmarking small AI models, specifically those fitting within 8 GB of memory after quantization, has been conducted on mobile devices to evaluate their inference performance and model intelligence."
+    },
+    {
+      "url": "https://ampcode.com/notes/orbs-explained?utm_source=tldrdev",
+      "title": "Orbs, Explained",
+      "summary": "Orbs are remote coding agents that can be easily controlled and managed online, allowing users to run and schedule tasks."
+    },
+    {
+      "url": "http://itamarnovick.com/intro-to-startup-anti-pattern-series/?utm_source=tldrdev",
+      "title": "Intro to Startup anti-pattern Series",
+      "summary": "Startup anti-patterns are detrimental patterns of behavior and decision-making that can obscure focus and negatively impact execution, ultimately increasing the risks associated with startup ventures."
+    },
+    {
+      "url": "https://0xcc.io/posts/omarchy-root-creds/?utm_source=tldrdev",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "summary": "A security flaw in Omarchy's default Docker configuration allowed any user process to escalate to root privileges without authorization, so users should update to version 4.0.1 to mitigate the risk."
+    }
+  ]
+}

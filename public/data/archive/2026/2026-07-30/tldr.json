@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-07-30",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.semafor.com/article/07/29/2026/spacex-looks-to-compete-with-the-carriers?utm_source=tldrnewsletter",
+      "title": "SpaceX looks to compete with the carriers",
+      "summary": "SpaceX has been hunting for a spectrum that works well in cities and dense areas for its wireless network. It is considering buying competitors to acquire the spectrum or competing at a government auction set for next year. The company has expressed interest in building its own terrestrial networks and has demonstrated a prototype mobile handset to some investors. Entering into the mobile market is capital intensive, so SpaceX could ultimately choose not to follow through on these plans."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html?utm_source=tldrnewsletter",
+      "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
+      "summary": "OpenAI's annualized recurring revenue in July exceeded the company's entire second quarter. The growth was driven by the release of the company's GPT-5.6 series of models and ChatGPT Work, as well as growing adoption of Codex. OpenAI is under pressure to justify its $852 billion valuation as it prepares for its IPO. It has been racing to bring in new users to generate the revenue needed to help support its infrastructure spending plans."
+    },
+    {
+      "url": "https://www.pcmag.com/news/doordash-gets-faa-nod-to-run-its-own-drone-delivery-program?utm_source=tldrnewsletter",
+      "title": "DoorDash Gets FAA Nod to Run Its Own Drone Delivery Program",
+      "summary": "DoorDash has received permission from the FAA to deliver packages by drone at altitudes below 400 feet. The drones will be built in the company's in-house robotics unit, DoorDash Labs. DoorDash Air aims to cater to any merchant, anywhere. The company will release more information later this year on its drones and how its drone program will fit into DoorDash's broader ecosystem."
+    },
+    {
+      "url": "https://www.wsj.com/world/china/china-closes-the-satellite-gap-in-space-race-with-the-u-s-12b432b0?st=1wMhqy&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "China Closes the Satellite Gap in Space Race With the US",
+      "summary": "China has accelerated its deployment of civilian and military hardware into orbit. The country's growing constellations of satellites could help it track events on Earth in real time and in greater detail than ever before. This has raised concerns among US officials, who see China's growing array of space-based capabilities as a quest to displace the US as the pre-eminent space power. Western analysts say that China is leading the world in research in sensors and satellite positioning technologies."
+    },
+    {
+      "url": "https://luke.geek.nz/azure/eval-gates-for-prompts/?utm_source=tldrnewsletter",
+      "title": "Treat prompt changes like code deploys",
+      "summary": "Prompts are dependencies. Changing them can shift downstream behavior with no warning, no failing build, and no obvious signal in the request pipeline. Treat prompts exactly like any other artifact that can change production behavior. Test them, give them a gate, and default that gate to blocking until proven otherwise."
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop?utm_source=tldrnewsletter",
+      "title": "How ChatGPT Optimizes its Agent Loop: Harness, API, and Inference",
+      "summary": "AI labs are moving faster than ever. However, capability is only half of the picture. Optimizing the cost per successful task makes models more affordable and less costly to serve. This article discusses techniques adopted in frontier labs to make API applications more efficient. It covers what happens when requests are sent to an AI agent, how the harness layer cuts repeated work, and more."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1?mod=tech_lead_pos2&utm_source=tldrnewsletter",
+      "title": "The Rise of Million-Dollar Companies With Just One Employee",
+      "summary": "A new class of entrepreneurs is launching and running new million-dollar companies on their own. AI's ability to handle various administrative tasks makes it useful for launching solo businesses in many fields. The effect of one-person businesses on the labor market remains to be seen. While many people are worried AI will limit employment opportunities, these solo operators show how the technology can also open new doors."
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive?utm_source=tldrnewsletter",
+      "title": "Why compute might get 10x+ more expensive in coming years",
+      "summary": "Labs do not want to spend greater and greater shares of compute on inference. The point of inference revenue is to convince investors to spend more money to buy more compute to train bigger models. Spending too much on compute on inference signals that progress has stalled because it's not worth investing more in training. Labs believe that their models will continue to get better, so this only means that compute will get more expensive."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html?unlocked_article_code=1.1VA.e8sV.PdyR8boC53M4&smid=nytcore-ios-share&utm_source=tldrnewsletter",
+      "title": "AI Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "summary": "The data center boom is pulling skilled trade workers into remote locations with some of the highest pay and bonuses the industry has ever seen."
+    },
+    {
+      "url": "https://github.com/perplexityai/numbat?utm_source=tldrnewsletter",
+      "title": "numbat (GitHub Repo)",
+      "summary": "numbat provides endpoint visibility into AI agent activity with local detection, optional pre-action blocking, and forensic reconstruction."
+    },
+    {
+      "url": "https://zachholman.com/posts/cold-email?utm_source=tldrnewsletter",
+      "title": "The Cold Email",
+      "summary": "It may be awkward and weird and strange, but it's usually worth the shot to send a cold email."
+    },
+    {
+      "url": "https://x.com/JayaGup10/status/2082301754872369331?utm_source=tldrnewsletter",
+      "title": "AI's 2008 Moment",
+      "summary": "Open-weight models are already being built into critical systems in the US."
+    },
+    {
+      "url": "https://x.com/loubohan/status/2082143914924851449?s=12&utm_source=tldrnewsletter",
+      "title": "How China's Venture Ecosystem Works",
+      "summary": "Chinese founders face more pressure and liability, which results in more competent and ruthless companies, but also creates incentives for more froth and fraud."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/highlights-from-the-discourse-on?utm_source=tldrnewsletter",
+      "title": "Highlights From The Discourse On The Hugging Face Incident",
+      "summary": "There is a consistent pattern of OpenAI's alignment strategies working less well than Anthropic's."
+    }
+  ]
+}

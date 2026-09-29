@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-07-28",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://shreyasdoshi.substack.com/p/the-antithesis-principle?utm_source=tldrproduct",
+      "title": "The Antithesis Principle",
+      "summary": "Every insight about human behavior has two sides: a tactic for influencing others and a bias to resist yourself. Smart people see the tactic, while wise people also overcome the bias."
+    },
+    {
+      "url": "https://x.com/davep/status/2081746878119678414?utm_source=tldrproduct",
+      "title": "Stripe and Sierra built their own coding agent systems. You probably don't need to",
+      "summary": "Most companies should buy coding-agent infrastructure and focus their resources on the context and workflows that make it uniquely valuable. Building internally is worthwhile only when the technology is strategically essential, and the organization can support it as a permanent product."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-432-bundling-and-unbundling-capabilities?utm_source=tldrproduct",
+      "title": "Bundling & Unbundling Capabilities (and AI)",
+      "summary": "AI redistributes capabilities across organizations, but efficiency gains can weaken the expertise and judgment that sustain high-quality work."
+    },
+    {
+      "url": "https://www.davesresearch.com/gameplay-before-strategy/?utm_source=tldrproduct",
+      "title": "Gameplay Before Strategy",
+      "summary": "Strong strategy emerges from making better moves, learning quickly, and scaling what works."
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-run-customer-interviews-for-a-capability-your-users-have-never-experienced?utm_source=tldrproduct",
+      "title": "How to Run Customer Interviews for a Capability Your Users Have Never Experienced",
+      "summary": "Customer research for novel AI products should focus on familiar needs rather than hypothetical interest. Study current workarounds, create a realistic experience, and examine the decisions and outcomes the capability could improve."
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser?utm_source=tldrproduct",
+      "title": "Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun (27 minute video)",
+      "summary": "Browser and computer-use agents can handle tedious digital work, from exhaustive QA and persona testing to inbox management, shopping, and remote device setup. They perform best when given room to plan, matched to the right model and effort level, and paired with brief human oversight for verification and final decisions."
+    },
+    {
+      "url": "https://spin.atomicobject.com/phased-design-no-finish-line/?utm_source=tldrproduct",
+      "title": "Design Doesn't Have A Finish Line",
+      "summary": "Design should continue throughout development because the hardest decisions often emerge only after building begins. Keeping designers in the delivery loop helps teams catch mistakes early and avoid efficiently shipping the wrong product."
+    },
+    {
+      "url": "https://techtrenches.dev/p/substack-ai-detector-who-pays?utm_source=tldrproduct",
+      "title": "Substack Asked for Volume, Then Shipped a Scanner",
+      "summary": "Substack incentivized frequent posting, then introduced an AI detector to police the resulting content. This shifts the burden of verification onto users rather than addressing the platform's growth mechanics."
+    },
+    {
+      "url": "https://benn.substack.com/p/brute-intelligence?utm_source=tldrproduct",
+      "title": "Brute intelligence",
+      "summary": "AI can accelerate discovery when problems are structured for continuous, verifiable experimentation."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2081491621162668207.html?utm_source=tldrproduct",
+      "title": "The Applied AI Opportunity",
+      "summary": "Better models increase the need for specialized companies that connect AI to real-world enterprise workflows."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-09-04",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week?utm_source=tldrproduct",
+      "title": "Burnt out on a three-day week",
+      "summary": "Burnout is not always about doing too much. It can come from the gap between who you believe you are and how you are actually showing up at work."
+    },
+    {
+      "url": "https://insights.euclid.vc/p/forward-deployed-everything-fde-quinn-litherland-revin-ai?utm_source=tldrproduct",
+      "title": "Forward-Deployed Everything",
+      "summary": "Forward-deployed teams only scale when customer-specific work becomes a reusable product. Turn field learning into repeatable workflows, or risk building a consulting business instead."
+    },
+    {
+      "url": "https://blog.mastykarz.nl/your-product-didnt-get-worse/?utm_source=tldrproduct",
+      "title": "Your product didn't get worse",
+      "summary": "AI can make good products feel outdated by raising customer expectations. Adapt to agent-driven workflows while preserving the value that keeps your product essential."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/bullshit-management-didnt-die-it?utm_source=tldrproduct",
+      "title": "Bullshit Management Didn't Die. It Got Automated",
+      "summary": "Shipping has become cheaper, but value is still hard. The advantage now comes from stronger judgment, not faster output."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We’re looking for a builder who has shipped real products / systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://theskip.substack.com/p/what-the-past-year-taught-meta?utm_source=tldrproduct",
+      "title": "What the Past Year Taught Meta",
+      "summary": "Judgment is becoming increasingly valuable. The next generation of PMs will stand out by knowing what to build and how to evaluate it."
+    },
+    {
+      "url": "https://www.scrum.org/resources/blog/dont-redesign-your-process-yet-change-who-writes-artifacts?utm_source=tldrproduct",
+      "title": "Don't Redesign Your Process Yet. Change Who Writes the Artifacts",
+      "summary": "Don't start agentic transformation by reinventing the process. Build a shared system that improves its own outputs, and keep humans focused on the decisions that matter most."
+    },
+    {
+      "url": "https://www.coderabbit.ai/blog/the-last-software-engineer-knows-what-to-build?utm_source=tldrproduct",
+      "title": "What would the last software engineer still need to do?",
+      "summary": "AI makes implementation cheaper, so engineering judgment matters more. The best engineers will know what to build, why it matters, and what consequences come next."
+    },
+    {
+      "url": "https://www.a16z.news/p/enshittification-isnt-real?utm_source=tldrproduct",
+      "title": "“Enshittification” Isn't Real",
+      "summary": "Platforms can feel worse when they stop optimizing for you. What looks like product decline may actually be a platform evolving around a broader set of users."
+    },
+    {
+      "url": "https://x.com/wordgrammer/status/2095263188153401712?utm_source=tldrproduct",
+      "title": "Prediction: AI will collapse",
+      "summary": "AI's mass-market future probably is not coding agents."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-437-ai-and-the-recontextualization?utm_source=tldrproduct",
+      "title": "AI and the Recontextualization Tax",
+      "summary": "AI can eliminate much of the work of repackaging information for different stakeholders."
+    }
+  ]
+}

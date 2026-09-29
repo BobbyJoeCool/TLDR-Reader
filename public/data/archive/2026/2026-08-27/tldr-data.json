@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-08-27",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_source=tldrdata",
+      "title": "SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace (42 minute video)",
+      "summary": "DoorDash's SafeChat handles millions of chats, calls, and images per day with a hybrid moderation pipeline. Fast internal classifiers clear obvious safe cases, LLMs score the hardest cases across severity axes, and no-code workflows plus backtesting let teams tune actions before production. The system cut verbal-abuse incidents roughly in half."
+    },
+    {
+      "url": "https://jack-vanlightly.com/blog/2026/8/25/the-logdrive-flexible-composition-through-abstraction-in-shared-logs?utm_source=tldrdata",
+      "title": "The LogDrive: Flexible Composition Through Abstraction in Shared Logs",
+      "summary": "In Kafka-style streaming systems, the shared log is the ordered event backbone that brokers and consumers build on. LogDrive separates that log into an AtomicLog sequencing layer and a durability layer built from flat single-value registers plus weakTail, making striping and quorum replication reusable across S3, DynamoDB, S3 Express, or other backends."
+    },
+    {
+      "url": "https://hackernoon.com/benchmarking-rocksdbs-three-amplification-factors?utm_source=tldrdata",
+      "title": "Benchmarking RocksDB's Three Amplification Factors",
+      "summary": "RocksDB amplification depends heavily on workload shape, compaction capacity, and key order. Random inserts produced 4.56x write amplification while sequential keys stayed the same, and delete-heavy workloads temporarily pushed space amplification to 1.58x. Bloom filters kept L0 read latency nearly flat as file counts grew."
+    },
+    {
+      "url": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/?utm_source=tldrdata",
+      "title": "Inside LinkedIn's cognitive memory agent for agentic personalization (32 minute podcast)",
+      "summary": "LinkedIn built a cognitive memory agent that personalizes its hiring assistant using four layers: conversational, episodic, semantic, and procedural memory. It replaced GraphRAG with a hierarchical tree that supports cheaper incremental updates, while dedicated ingestion, consolidation, and retrieval services keep preferences fresh, traceable, access-controlled, and available within tight latency limits."
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.21156v2?utm_source=tldrdata",
+      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+      "summary": "Complex tasks can exceed a single AI agent's organizational capacity, regardless of better context or tools. Graph Engineering addresses this by mapping tasks, specialized agents, and system states to coordinate parallel work, verification, and persistent execution."
+    },
+    {
+      "url": "https://medium.com/@hugolu87/ais-chokehold-how-to-build-a-data-team-without-ai-burnout-f267f82b0241?utm_source=tldrdata",
+      "title": "AI's Chokehold | How to build a Data Team without AI Burnout",
+      "summary": "AI creates more pipelines and dependencies without matching growth in data teams, making engineers the operational bottleneck. Companies should prevent burnout with scalable infrastructure, governance, and automated operations matched to their actual needs and capacity."
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/?utm_source=tldrdata",
+      "title": "How to evaluate LLMs before production",
+      "summary": "GitHub's secret-scanning work shows why LLM evaluation should optimize the production decision, not generic benchmark scores. Prompts, models, input construction, and eval configs were versioned like code, then tested against production-like ambiguity. That discipline cut false positives by 95% offline while preserving recall within the safety guardrail."
+    },
+    {
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws?utm_source=tldrdata",
+      "title": "DuckLabs to Join AWS, Projects to Remain Open Source",
+      "summary": "DuckLabs is joining AWS to gain the infrastructure, resources, and reach needed to scale DuckDB and the wider Duck Stack. DuckDB, DuckLake, and Quack will remain MIT-licensed open-source projects stewarded by the independent DuckDB Foundation, while AWS supports faster development and broader adoption."
+    },
+    {
+      "url": "https://github.com/aleksandarskrbic/khaos?utm_source=tldrdata",
+      "title": "Khaos: Kafka Load Testing & Chaos Engineering (GitHub Repo)",
+      "summary": "Khaos is an open-source Kafka load-testing and chaos-simulation tool that was recently rewritten in Go. It generates realistic producers and consumers, exercises broker failures, hot partitions, consumer lag, rebalances, and backpressure, and gives platform teams a repeatable way to test Kafka behavior before they encounter production incidents."
+    },
+    {
+      "url": "https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2?utm_source=tldrdata",
+      "title": "New things for regular expressions in PostgreSQL: pg_tre and pg_re2",
+      "summary": "PostgreSQL regex search can vary wildly by index and extension. In a 1.6M-row, 33 GB plan table, pg_trgm cut a simple LIKE scan from about 40 seconds to 1.6 seconds, pg_tre added fuzzy matching but had painful index build time, and pg_re2 delivered faster regex execution with fewer language features."
+    },
+    {
+      "url": "https://www.idc.com/resource-center/blog/the-aggregate-number-is-lying-to-you/?utm_source=tldrdata",
+      "title": "The Aggregate Number Is Lying to You",
+      "summary": "Enterprise application software is still growing, but aggregate market numbers hide where AI is actually changing buyer behavior. Workflow-heavy and automation-friendly categories are pulling ahead while customer service and HCM lag. For buyers, AI packaging and pricing now reveal more about value capture than broad market-growth headlines."
+    },
+    {
+      "url": "https://thegustafson.com/blog/paged-attention?utm_source=tldrdata",
+      "title": "PagedAttention: Virtual Memory for the KV Cache",
+      "summary": "PagedAttention brings virtual-memory-style paging to LLM KV caches by replacing contiguous per-request allocation with fixed-size blocks and a block table. That design eliminates most cache fragmentation, raises utilization to roughly 96%, supports copy-on-write for shared prompts, and can serve 2–4x more users per GPU without changing attention outputs."
+    },
+    {
+      "url": "https://analystgym.com/?utm_source=tldrdata",
+      "title": "Analyst Gym (Tool)",
+      "summary": "Analyst Gym uses daily two-minute workplace drills to sharpen analytical judgment rather than coding skills."
+    },
+    {
+      "url": "https://github.com/neo4j-labs/neocarta?utm_source=tldrdata",
+      "title": "Neocarta (GitHub Repo)",
+      "summary": "Neocarta builds a Neo4j semantic layer that unifies database schemas, business definitions, metrics, and query history, then exposes this context to AI agents through MCP."
+    }
+  ]
+}

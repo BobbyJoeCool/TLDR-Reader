@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-08-04",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.antmurphy.me/newsletter/stop-using-epics-and-user-stories?utm_source=tldrproduct",
+      "title": "Stop Using Epics & User Stories",
+      "summary": "Debating epics and user stories distracts teams from meaningful outcomes. Framing work as outcomes, opportunities, and measurable experiments creates clarity and reinforces an outcome-oriented culture."
+    },
+    {
+      "url": "https://allenpike.com/2026/finding-a-business-case-for-quality/?utm_source=tldrproduct",
+      "title": "Weighing the Business Case for Quality",
+      "summary": "Great craftsmanship is sustainable when quality directly drives business success. The key is choosing products and markets where customers reward it."
+    },
+    {
+      "url": "https://benn.substack.com/p/this-is-why-we-cant-have-nice-things?utm_source=tldrproduct",
+      "title": "This is why we can't have nice things",
+      "summary": "AI models are easy to copy and replace, making their competitive advantages short-lived. Durable value may come from specialized, deeply embedded systems that learn from each company's data and workflows."
+    },
+    {
+      "url": "https://mili.dev/writing/canva-is-one-percent-of-the-way-there/?utm_source=tldrproduct",
+      "title": "Canva is one percent of the way there",
+      "summary": "As AI makes software easier to build, good judgment becomes the new bottleneck. Canva's advantage is an operating system that moves founder insight into the product quickly without creating chaos."
+    },
+    {
+      "url": "https://bakadesuyo.com/2026/08/get-what-you-really-want/?utm_source=tldrproduct",
+      "title": "This Is How To Get What You Really Want: 6 Secrets From Research",
+      "summary": "Our desires are often shaped by comparison with others. By recognizing those influences, learning from envy, and prioritizing meaningful goals over status, we can pursue what we truly value."
+    },
+    {
+      "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?utm_source=tldrproduct",
+      "title": "What I've learned writing for billions of users",
+      "summary": "At a massive scale, every word matters. Great UX writing builds trust, reduces confusion, and helps teams uncover and solve deeper product problems."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-434-how-maps-can-hide-problems?utm_source=tldrproduct",
+      "title": "How Maps Can Hide Problems",
+      "summary": "Maps and AI can help organizations navigate complexity, but they cannot resolve conflicting goals, structures, and incentives. Use maps to uncover and fix misalignment, not simply make it easier to manage."
+    },
+    {
+      "url": "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/?utm_source=tldrproduct",
+      "title": "Why The Product Manager To CEO Pipeline Is The Underrated Crash Course For Leadership In Tech",
+      "summary": "Product management prepares future CEOs to set direction, make difficult decisions, and own measurable outcomes. Leadership skills matter more than following a traditional sequence of job titles."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2083931939673878592.html?utm_source=tldrproduct",
+      "title": "The case for aesthetics",
+      "summary": "Beauty can preserve cultural continuity, inspire progress, improve craftsmanship, and reveal forms of truth that argument alone cannot reach."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2084271141477113926.html?utm_source=tldrproduct",
+      "title": "How to spot 2026-era AI writing",
+      "summary": "AI writing often reveals itself through long sentences, three-part lists, inflated language, technical jargon, and predictable contrasts."
+    }
+  ]
+}

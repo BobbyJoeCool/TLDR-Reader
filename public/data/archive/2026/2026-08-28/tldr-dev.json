@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-08-28",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/?utm_source=tldrdev",
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "summary": "Optimizations in how cache entries are stored in the 1.1.1.1 DNS service led to more than a 50% reduction in memory usage per entry, resulting in the savings of roughly 100 terabytes of memory across the entire fleet. These changes also improved overall cache performance, with a 43% increase in insert throughput and a 19% decrease in lookup latency."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations-b3d?utm_source=tldrdev",
+      "title": "The Pulse: We need to talk about migrations with AI",
+      "summary": "AI has reduced the time and cost associated with software migrations, as shown by Asana's two-week transition from the Enzyme testing framework to React Testing Library. Companies like Airbnb and Uber have reported similar success stories, showing that AI tools can transform previously daunting migration tasks into manageable projects."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/?utm_source=tldrdev",
+      "title": "Closing the AI agent trust gap with graduated autonomy",
+      "summary": "AWS proposes \"graduated autonomy\" to escape the binary of full-access (risky) vs read-only (wasteful) agents. Agents earn expanded permissions through sustained reliability and lose them instantly when performance drops. It's built on a weighted 0-100 score over a rolling 50-action window feeding four tiers (T1 Probation → T4 Autonomous) that promote slowly with hysteresis but demote immediately."
+    },
+    {
+      "url": "https://calv.info/small-models-have-arrived?utm_source=tldrdev",
+      "title": "Small Models Have Arrived",
+      "summary": "Recent advancements in AI models like gpt-5.6-luna and GLM 5.3 show that smaller, faster models are becoming increasingly capable and cost-effective, especially for tasks that require responsiveness rather than extreme intelligence. As the demand for \"fast/cheap/good-enough\" AI solutions rises, there is potential for faster, cheaper development in business applications."
+    },
+    {
+      "url": "https://read.first1000.co/p/growing-lazyweb-to-50k-agents?utm_source=tldrdev",
+      "title": "Growing Lazyweb to 50k+ Agents",
+      "summary": "Lazyweb successfully grew to over 50,000 agents without any marketing spend, experimenting with various distribution channels and growth tactics. A range of strategies were implemented, from reducing friction for users to using storytelling and engaging with communities."
+    },
+    {
+      "url": "https://github.com/Tencent/BrowserSkill?utm_source=tldrdev",
+      "title": "BrowserSkill (GitHub Repo)",
+      "summary": "BrowserSkill enables AI agents to interact with your logged-in browser without interrupting your work by using a local command-line interface and a browser extension, supporting various operating systems and browsers while allowing agents to manage tabs effectively."
+    },
+    {
+      "url": "https://github.com/NeoLabHQ/context-engineering-kit?utm_source=tldrdev",
+      "title": "Context Engineering Toolkit (GitHub Repo)",
+      "summary": "The Context Engineering Kit is a development toolkit designed to improve the quality and efficiency of AI-generated code through techniques like specification-driven development, subagent-driven workflows, and various plugins that optimize coding practices and improve result reliability."
+    },
+    {
+      "url": "https://github.com/experientiallabs/experiential?utm_source=tldrdev",
+      "title": "Experiential (GitHub Repo)",
+      "summary": "Experiential is an open-source gateway that enables users to manage agent workflows through a unified API compatible with OpenAI and other models. It supports both local and hosted setups, offering features such as real-time traffic optimization, telemetry integration, and custom routing for improved performance and cost efficiency."
+    },
+    {
+      "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html?utm_source=tldrdev",
+      "title": "Making Your Data Ready for Agentic AI",
+      "summary": "To prepare data for autonomous AI agents, organizations must transition from traditional data systems designed for human analysts to structures that make sure data is trusted, contextualized, and actionable, with layers such as data contracts, context layers, and controlled access. This shift requires a focus on data governance, traceability, and the integration of well-defined semantic models to make sure agents can operate confidently and correctly."
+    },
+    {
+      "url": "https://blog.postman.com/why-ai-coding-agents-need-context-graphs/?utm_source=tldrdev",
+      "title": "Why AI coding agents need context graphs",
+      "summary": "AI coding agents fail in real codebases due to missing scattered team context, so the fix is an externally queryable context graph of typed entities and relationships. The API layer is a graph that teams already have, and if they are published with ownership metadata and MCP access, agents can perform better."
+    },
+    {
+      "url": "https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language?utm_source=tldrdev",
+      "title": "The best workflow engine is a programming language",
+      "summary": "Using a programming language as a workflow engine simplifies the process of orchestrating long-running, stateful logic on unreliable infrastructure, allowing developers to write workflows in a more intuitive manner. By integrating capabilities like retries, ad-hoc webhooks, and a unified hook for data interaction, Vercel created the Workflow SDK to make the implementation of durable workflows more efficient and scalable."
+    },
+    {
+      "url": "https://louisabraham.github.io/load-bearing/?utm_source=tldrdev",
+      "title": "The load-bearing vocabulary of Claude",
+      "summary": "In a recent analysis of 100 daily GitHub Pull Requests, a vocabulary cluster identified in 2026 accounted for 45% of human-attributed pull requests last month."
+    },
+    {
+      "url": "https://wayofmarkdown.com/markdown-database?utm_source=tldrdev",
+      "title": "The Markdown Database Pattern",
+      "summary": "The Markdown Database Pattern allows users to treat a collection of markdown files as records in a database, providing the benefits of structured queryability while maintaining the flexibility of plain text documents."
+    },
+    {
+      "url": "https://cohere.com/blog/parse?utm_source=tldrdev",
+      "title": "Cohere Parse",
+      "summary": "Cohere Parse is a cost-effective and high-performance document intelligence model designed for enterprises, capable of processing various document types and visual elements at scale while integrating with existing workflows for automated data extraction and retrieval."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/?utm_source=tldrdev",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "summary": "Gemini Omni 1.1 Flash improves generative video production with features like scene extension, 4K upscaling, and efficient prototyping."
+    }
+  ]
+}

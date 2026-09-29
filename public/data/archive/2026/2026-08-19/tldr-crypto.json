@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-08-19",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://threadreaderapp.com/thread/2088385176015655410.html?utm_source=tldrcrypto",
+      "title": "Trump Attends White House Crypto Summit with SEC and CFTC Heads",
+      "summary": "Trump will personally attend Wednesday's White House crypto summit, joined by the heads of both the SEC and CFTC. Executives from Coinbase, Ripple, a16z, Chainlink, Paradigm, and Kalshi are expected, with the CFTC also hosting Coinbase, Robinhood, Kalshi, and Polymarket CEOs at its first Innovation Committee meeting Thursday. The meeting comes during a less-than-likely chance of CLARITY passing."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090?utm_source=tldrcrypto",
+      "title": "Citi expects to launch bitcoin custody later this year",
+      "summary": "Citi confirmed its planned digital asset custody service, first disclosed in November 2025, will launch later this year starting with bitcoin, letting clients access traditional and crypto custody in one framework. It's part of Custody+, a new Citi Investor Services platform built for continuous trading and shorter settlement cycles, also offering real-time asset servicing, instant settlement, liquidity tools, and AI-powered market intelligence. Citi is separately working with ICE on tokenized securities, joined a Swift tokenized-deposit pilot in July, and is part of a Clearing House-led tokenized deposit network targeting a first-half 2027 launch."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2089448879552917809.html?utm_source=tldrcrypto",
+      "title": "S&P 500 Perps Now Live on Coinbase Derivatives",
+      "summary": "Coinbase Derivatives launched a single-contract perpetual giving US traders perpetual-style exposure to all 500 companies in the S&P 500, the first such product available in the US. It enables leverage on the top 500 companies and allows users to take a strong bet on the short-term future of the US market."
+    },
+    {
+      "url": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain?utm_source=tldrcrypto",
+      "title": "Stripe's $7B OpenRouter Acquisition: Micropayments at Scale Without a Blockchain",
+      "summary": "Stripe agreed to acquire AI model gateway OpenRouter for over $7 billion, gaining a platform that processes 200 trillion tokens monthly for 10 million users across 500-plus AI models and 80-plus model providers. OpenRouter's prepaid credit system handles AI inference micropayments as deposit balances rather than on-chain settlements, charging 5% on USDC top-ups versus 5.5% on card purchases with no markup on inference pricing. The deal expands Stripe's blockchain stack alongside stablecoin issuer Bridge, wallet provider Privy, and a Machine Payments Protocol co-development with Tempo, which settles at roughly one transaction per second. Cloudflare, Amazon, and Mastercard each launched on-chain AI agent payment rails in 2025, putting Stripe in direct competition across both custodial credit-balance and settlement-layer approaches to machine-to-machine payments."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2089638586211590454.html?utm_source=tldrcrypto",
+      "title": "Why AI agents need constrained wallet permissions",
+      "summary": "Since crypto markets never close, and transactions are irreversible, AI agents with wallet access need traditional-finance-style controls (transaction limits, multisig approval, hardware security modules, delayed settlement, address whitelists, and contract simulation) rather than one broad permission set. AI agents reportedly settled only about $73 million on-chain between May 2025 and April 2026, versus roughly $46 trillion in stablecoin settlement over the same period. This gives the industry a window to build controls before agent-managed capital scales up."
+    },
+    {
+      "url": "https://x.com/haydenzadams/status/2089531754004554215?utm_source=tldrcrypto",
+      "title": "Correlated Pairs: How AMMs Win the Biggest Markets",
+      "summary": "Tokenization's primary structural shift is not settlement efficiency but the formation of correlated asset pairs (NVDA/SPY rather than NVDA/USD), which eliminate the hedging costs embedded in delta-neutral professional market making and let passive AMM strategies close the performance gap against firms like Citadel Securities, which earned $12.2B in net trading revenue last year. The mechanism mirrors DeFi's existing architecture: passive LPs supply correlated pairs where inventory risk is low, while active LPs compete over a small number of high-volume bridge pairs (the SPY/USD equivalent of ETH/USDC), concentrating professional attention where it earns sufficient return. Early evidence supports the thesis: ten tokenized equities trading against SPY in Uniswap pools on Robinhood Chain generated $33M in volume from 11,000+ traders in their first twelve days, including direct stock-to-stock swaps that bypassed dollars entirely. The passive vehicle that made no active decisions now beats roughly 90% of active managers. Passive AMM liquidity is expected to follow the same path as equity markets migrate on-chain and reorganize around correlated pairs."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2089654499723944271.html?utm_source=tldrcrypto",
+      "title": "Justin Sun's HTX \"dusting\" campaign against Coinbase and Binance",
+      "summary": "Justin Sun is sending small USDT amounts from HTX (under EU/UK sanctions since May 26) to addresses that previously interacted with Coinbase, Binance, and Hyperliquid, triggering Coinbase account freezes for recipients until they prove they weren't dealing with a blacklisted entity. The move comes as Binance prepares to restrict deposits/withdrawals involving HTX and ten other platforms from August 23, and is read as pressure to force Coinbase, Binance, and EU regulators to either legitimize HTX or face a backlash from affected users."
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt?utm_source=tldrcrypto",
+      "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+      "summary": "Russia's central bank will restrict retail crypto trading to Bitcoin, Ethereum, and USDT starting September 1, implementing legislation that created the country's first regulated trading framework. USDT is the sole approved stablecoin, excluding USDC, DAI, and other alternatives from regulated channels. Non-qualified investors face a 300,000 ruble (~$3,600) annual purchase cap per intermediary, while qualified investors have no ceiling, though the per-platform scope means aggregate exposure scales with the number of brokers accessed. Crypto payments within Russia remain prohibited under current law, drawing a firm line between regulated investment activity and transactional use."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2089351545401798740.html?utm_source=tldrcrypto",
+      "title": "Bitpanda becomes first crypto firm publicly fined under MiCA in Austria",
+      "summary": "Austria's regulator fined Bitpanda €70,000 for missing white-paper deadlines and publishing non-compliant marketing, marking the country's first MiCA enforcement action since the rules took effect in 2024."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2089629360076599632.html?utm_source=tldrcrypto",
+      "title": "Weekly crypto card industry digest, Aug 10-16",
+      "summary": "EtherFi's next-gen app went live with five collateral types and a dedicated Aave V4 instance on Optimism powering its credit backend, RedotPay launched stablecoin loans against BTC/ETH plus three new payout currencies, Wirex launched its first BaaS partner on Arc, and roughly 15 other card products shipped features across the week."
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite?utm_source=tldrcrypto",
+      "title": "Bitcoin Holds $64K as 30-Year Treasury Yield Hits 5.33%, Highest Since 2007",
+      "summary": "The 30-year US Treasury yield hit 5.33%, its highest since 2007, as a global bond sell-off pushed UK 30-year gilt yields to 5.834% and Japan's 30-year JGB to 4.126%, while Brent crude topped $91 on US-Iran escalation."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2089638431810839015.html?utm_source=tldrcrypto",
+      "title": "Pump.fun co-founder says he doesn't believe in decentralization",
+      "summary": "Noah Tweedale told Crypto Insider he's a massive bear on decentralization, arguing internet history shows full-stack companies with strong UX win over decentralized infrastructure."
+    }
+  ]
+}

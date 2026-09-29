@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-21",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/?utm_source=tldrdesign",
+      "title": "Disney's first CTO led an AI startup it once accused of copying its characters",
+      "summary": "Disney has appointed former Character.AI CEO Karandeep Anand as its first chief technology officer, reporting to CEO Josh D'Amaro. The hire comes after Disney accused Character.AI of using its copyrighted characters without permission and demanded their removal. Anand previously held leadership roles at Meta and spent 15 years at Microsoft, bringing consumer technology and AI experience to Disney's push to make technology a larger part of its entertainment business."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/?utm_source=tldrdesign",
+      "title": "Google's new ‘CC' is an AI agent that helps families run their households",
+      "summary": "Google is testing a family-focused version of CC that turns shared emails and messages into daily briefings, calendar events, and tasks for up to six household members. The agent has its own Google account and can help fill out permission slips, create shopping lists, and plan meals, while each person controls what information they share. The experiment is available through a waitlist for US adults with personal Google accounts."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4223177/anthropic-tries-to-make-claude-stickier-with-launch-of-docs-and-slides.html?utm_source=tldrdesign",
+      "title": "Anthropic Tries to Make Claude Stickier with Launch of Docs and Slides",
+      "summary": "Anthropic launched Claude Docs and Slides, a rich-text editor letting users draft documents and presentations from chat while Claude asks clarifying questions and comments on its choices. Files land in the Artifacts tab, export to Word, PDF, Google Docs, or Markdown, and support real-time collaboration, though Team and Enterprise still lack version history. Analysts see it as an attempt to make Claude stickier by pulling productivity work into the AI, unlike Microsoft and Google embedding AI into existing office tools."
+    },
+    {
+      "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?utm_source=tldrdesign",
+      "title": "Lost dog—or lost designer?",
+      "summary": "AI-generated design is not inherently ethical or unethical—the morality depends on the context, including whether automation was necessary, who benefits, who is harmed, and whether it replaces existing design work or simply enables people without the resources to access design. The more meaningful ethical question is when its use becomes unjust and how the costs and benefits of automation are distributed across designers, businesses, customers, and society."
+    },
+    {
+      "url": "https://maxschmitt.me/posts/calm?utm_source=tldrdesign",
+      "title": "A Simple Guide to Calm UI",
+      "summary": "Calm UI comes down to two core rules: avoid cascading loading states and skip toasts in favor of showing an action's effect directly in the list. Four bonus rules round it out: no error toasts, pinning modals that change height to the top, letting Enter submit forms, and auto-focusing a dialog's first input."
+    },
+    {
+      "url": "https://learn.thedesignsystem.guide/p/foundations-maxxing-why-your-design?utm_source=tldrdesign",
+      "title": "Foundations maxxing: Why your design system is not ready for AI",
+      "summary": "AI can dramatically speed up product development, but only if it's built on a solid design system. Teams should prioritize auditing and strengthening foundations—such as design tokens, components, documentation, decision logs, and design-to-code pipelines—before making systems machine-readable, while emphasizing collaboration with developers and a UX-first mindset to avoid creating inconsistent, unscalable products."
+    },
+    {
+      "url": "https://rendervi.com/?utm_source=tldrdesign",
+      "title": "AI Render Studio for Architects (Website)",
+      "summary": "Rendervi is built for architecture and visualization teams that care about quality, speed, and control. Enhance architectural renders, change materials, or push a model preview toward photorealism without losing the design intent."
+    },
+    {
+      "url": "https://screencharm.com/?utm_source=tldrdesign",
+      "title": "Screen Recorder for Mac (Website)",
+      "summary": "A Mac screen recorder for clear, polished videos without complicated editing. Camera, mic, system audio, captions, 4K export, and shareable links."
+    },
+    {
+      "url": "https://daringfireball.net/linked/2026/09/18/iphone-18-pro-dynamic-island?utm_source=tldrdesign",
+      "title": "One More Thing About the iPhone 18 Pro: The Bigger/Smaller Dynamic Island",
+      "summary": "The iPhone 18 Pro moves its Face ID infrared camera beneath the display, allowing Apple to shrink the Dynamic Island cutout while expanding its usable space to support up to three simultaneous Live Activities. Although the pixels above the hidden sensor appear slightly softer than the rest of the display, the change marks another step toward Apple's long-term goal of a true edge-to-edge, all-screen iPhone."
+    },
+    {
+      "url": "https://designwanted.com/data-design-paradox-visual-clarity/?utm_source=tldrdesign",
+      "title": "The Paradox of Clarity: Why Data Design is Our Most Treacherous Medium",
+      "summary": "Data visualization is having a cultural moment, with MoMA's Full Disclosure, Refik Anadol's Dataland, and OMA/AMO's Diagrams each treating data as translation, aesthetic medium, and political instrument. Across all three, the real danger isn't scarce information, but the false authority clarity lends to flawed data, as Lombroso's debunked 19th-century iris charts once showed. The next phase of data design may favor curation over abundance and structural transparency over deceptive clarity, trading spectacle for restraint."
+    },
+    {
+      "url": "https://ishadeed.com/article/aligning-list-icons/?utm_source=tldrdesign",
+      "title": "Better Icon and Label Alignment",
+      "summary": "When list item text wraps to multiple lines, a centered icon ends up looking misaligned against the first line of text. Switching align-items to start and offsetting the icon with a translateY calculated from the lh unit keeps it aligned regardless of icon or font size. The same lh-based offset, paired with aspect-ratio, flex-shrink, and background-size: contain, fixes alignment for icons built as pseudo-elements too."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/09/this-artist-turns-grief-memory-and-isolation-into-surreal-images-that-feel-like-pages-torn-from-an-unfinished-dream/?utm_source=tldrdesign",
+      "title": "This Artist Turns Grief, Memory, and Isolation into Surreal Images That Feel Like Pages Torn from an Unfinished Dream",
+      "summary": "Journal of Emptiness turns grief, memory, and isolation into surreal, wordless images paired with short poetic captions that read like fragments of an unfinished, dreamlike novel."
+    },
+    {
+      "url": "https://aestheticamagazine.com/light-magic-the-birth-of-art-photography/?utm_source=tldrdesign",
+      "title": "Light & Magic: The Birth of Art Photography",
+      "summary": "Tate Modern's Light & Magic gathers over 200 vintage prints by more than 80 artists, reframing Pictorialism as its own movement rather than a bridge to Modernism."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/?utm_source=tldrdesign",
+      "title": "Download the iPhone Duo's official light and dark wallpapers here",
+      "summary": "Apple has made the official iPhone Duo wallpapers available through the Xcode 27.1 beta simulator, allowing anyone to download all four light and dark versions without owning the device."
+    }
+  ]
+}

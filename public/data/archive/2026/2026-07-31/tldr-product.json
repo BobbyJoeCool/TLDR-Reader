@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-07-31",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://richmironov.substack.com/p/barbell-shaped-product-roles?utm_source=tldrproduct",
+      "title": "Barbell-Shaped Product Roles",
+      "summary": "AI shifts product management toward deciding what to build and how to sell it. Human judgment and customer insight remain essential."
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive?utm_source=tldrproduct",
+      "title": "Why compute might get 10x+ more expensive in coming years",
+      "summary": "AI generates more economic value while compute supply grows slowly, so the price of computing power could rise dramatically. This would favor frontier labs with the most efficient models, eliminate lower-value applications, and deepen the concentration of power in the AI industry."
+    },
+    {
+      "url": "https://a16z.news/p/the-next-ai-moat-isnt-a-better-model?utm_source=tldrproduct",
+      "title": "The Next AI Moat Isn't a Better Model",
+      "summary": "Better models alone will not unlock physical AI. The strongest companies will build intelligent engineering systems that rapidly integrate, validate, deploy, and improve autonomous machines using real-world data."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/building-with-ai-isnt-enough?utm_source=tldrproduct",
+      "title": "Building with AI Isn't Enough",
+      "summary": "AI can accelerate building. However, judgment, taste, and disciplined iteration are what make the result valuable."
+    },
+    {
+      "url": "https://www.elenaverna.com/p/so-you-want-to-be-a-content-creator?utm_source=tldrproduct",
+      "title": "So, you want to be a content creator?",
+      "summary": "Content creation can create influence, income, and opportunity, but it also brings pressure and criticism. Lasting success comes from authenticity, useful expertise, and prioritizing impact over attention."
+    },
+    {
+      "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?utm_source=tldrproduct",
+      "title": "Jakob's law: How to apply it as AI collapses surfaces into one chat box",
+      "summary": "As AI assistants become the front door to more tasks, users may interact with products without ever opening them directly. Designers must make products easy for agents to understand, invoke, and render while maintaining coherent native interfaces for deeper work."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-433-the-border-collie-faustian?utm_source=tldrproduct",
+      "title": "The Border Collie Faustian Bargain",
+      "summary": "Employees who see organizational contradictions must decide when to challenge them, translate them, conserve their energy, or walk away."
+    },
+    {
+      "url": "https://www.a16z.news/p/the-hidden-math-of-behavioral-health?utm_source=tldrproduct",
+      "title": "The Hidden Math of Behavioral Health",
+      "summary": "Behavioral health is booming, but complex insurance processes make getting paid difficult. Better billing technology can reduce administrative work and keep clinics financially sustainable."
+    },
+    {
+      "url": "https://x.com/nurijanian/status/2077437296094355515?utm_source=tldrproduct",
+      "title": "From Vague Requirements to Testable Stories",
+      "summary": "AI can transform vague requirements into testable stories, handling the repetitive work while product managers retain judgment."
+    },
+    {
+      "url": "https://frantic.im/mirage/?utm_source=tldrproduct",
+      "title": "The Productivity Mirage",
+      "summary": "The best tools cannot replace strong judgment and the ability to identify valuable problems."
+    }
+  ]
+}

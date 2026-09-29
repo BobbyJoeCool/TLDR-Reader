@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-08-21",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzI5NzA2MCwiZXhwIjoxNzg3OTAxODYwLCJhcnRpY2xlSWQiOiJUSzBUVktLSzNOWUMwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.OxE678o5_5twVs_xmvCzAFwLomwkkT77ZbpvHnLXzco&utm_source=tldrnewsletter",
+      "title": "Anthropic Expects to Match or Top SpaceX's Record IPO Size",
+      "summary": "Anthropic is preparing to file for its potential mega-IPO as soon as the end of this month. It is expecting to match or beat the size of SpaceX's record-setting debut. Ahead of the IPO, Anthropic is set to finalize a revolving credit facility that will raise more than its roughly $10 billion target. The AI lab is considering adopting super-voting shares that would give its co-founders greater control over the company."
+    },
+    {
+      "url": "https://thenextweb.com/news/slack-code-ai-coding-channels-launch?utm_source=tldrnewsletter",
+      "title": "Slack launches Slack Code, where teams and AI agents build together",
+      "summary": "Slack Code adds project-specific channels where teams and AI agents write, review, and ship software together. The work happens inside the chat app rather than in a separate browser tab. Users tag a coding agent from any conversation, and it spins up a dedicated code channel that automatically archives itself after tasks end. Everyone in the channel can follow the work. Slack Code is now available in any Slack plan."
+    },
+    {
+      "url": "https://www.teslarati.com/elon-musk-spacex-starship-catch-timeline/?utm_source=tldrnewsletter",
+      "title": "Elon Musk gives a timeline for SpaceX's first Starship catch attempt",
+      "summary": "Elon Musk predicts that SpaceX will likely be able to catch the Starship upper stage with its launch tower arms in a few months. The first reflight of a Starship vehicle is expected by the end of 2026 or early 2027. Catching the upper stage of Starship would mark a major milestone as it allows both stages to return directly to the launch site for quick refurbishment and reuse. Musk has long said that true reusability is essential for making humanity a multi-planetary species."
+    },
+    {
+      "url": "https://thenextweb.com/news/tesla-robotaxi-austin-fully-driverless-bollards?utm_source=tldrnewsletter",
+      "title": "Tesla's Austin robotaxis are now fully driverless, tracking shows",
+      "summary": "A crowdsourced project called Robotaxi Tracker noted that all 170 rides by Tesla's robotaxi service in Austin logged over the past fortnight didn't have a human safety monitor on board. Tesla doesn't publish fleet data and usually doesn't answer press questions, so the crowdsourced data is one of the few sources of information available. The expansion of completely driverless robotaxi vehicles is not confined to Austin. Roughly 30 driverless Teslas have been spotted running in Dallas and Houston over the past week."
+    },
+    {
+      "url": "https://matklad.github.io/2026/08/20/better-batteries.html?utm_source=tldrnewsletter",
+      "title": "Better Batteries",
+      "summary": "The problem with Python's stdlib is its uneven quality. However, that's actually Python's core advantage - it makes functionality available early. Rust still doesn't have an API to get a stream of random bytes from the OS. This is possibly because, while it is an easy technical problem, it requires tricky organizational architecture, and the Rust team's capacity to execute design decisions is limited."
+    },
+    {
+      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/?utm_source=tldrnewsletter",
+      "title": "The Kids Are Really Alright",
+      "summary": "Junior engineers still add capacity to an organization. The work of an engineer is to solve a customer problem with software while managing the technical complexity that exists in deciding how to. Staff engineers manage a lot of complexity, and junior engineers manage a little complexity, but the role is the same. Technical decision-making is still important, and junior engineers add to it, enabling organizations to do more."
+    },
+    {
+      "url": "https://galratner.substack.com/p/the-end-of-open-source?utm_source=tldrnewsletter",
+      "title": "The End Of Open Source",
+      "summary": "Intelligence services were never limited by what they could steal, but what they could read. Reading was the expensive part, so collection had to be selective. Every company that told itself it was too boring to be a target was relying on a foreign analyst's workload. AI removes this constraint. Closed source only removes your ability to see your exposure - it doesn't remove it."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/ai-china-scientists-race-us-cd9732e3?st=V2x26z&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "The Brains Who Powered China's Surprising AI Leap",
+      "summary": "The rapid rise of Chinese AI models has sparked a host of questions about how these labs get so far so fast. However, the careers of the founders of two of the biggest Chinese labs show that China's AI push is nothing sudden. Tang Jie, who founded Z.AI, has been working on machine learning for about a quarter of a century. Yang Zhilin, who leads Moonshot AI, was Tang's former student."
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/20/apple-reportedly-lays-off-60-vision-employees-amid-shifting-priorities/?utm_source=tldrnewsletter",
+      "title": "Apple reportedly lays off 60 Vision employees amid shifting priorities",
+      "summary": "Apple's resources are increasingly moving toward AI-powered smart glasses."
+    },
+    {
+      "url": "https://thenextweb.com/news/china-robot-traffic-police-no-arrest-powers?utm_source=tldrnewsletter",
+      "title": "China's robot traffic police can do almost everything except stop you",
+      "summary": "China's robot traffic police can direct cars, scold jaywalkers, and give lost tourists directions, but they aren't able to stop people, a limitation written into their design."
+    },
+    {
+      "url": "https://davidpoblador.com/blog/the-next-github-is-not-worth-winning.html?utm_source=tldrnewsletter",
+      "title": "The next GitHub is not worth winning",
+      "summary": "GitHub is optimizing for cheap dirty experiments and serious long-lived projects, workloads that both want opposite things."
+    },
+    {
+      "url": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/?utm_source=tldrnewsletter",
+      "title": "Theory of Fluids Enters the 21st Century",
+      "summary": "Physicists have come up with a whole new way of defining what it means to be a fluid."
+    },
+    {
+      "url": "https://electrek.co/2026/08/20/tesla-jpmorgan-fremont-fsd-v15-hw4-optimus-2027/?utm_source=tldrnewsletter",
+      "title": "Tesla says FSD v15 is a ‘step-change,' Optimus sells in 2027",
+      "summary": "FSD v15 will be the third version in a row pitched as the one that finally gets there."
+    },
+    {
+      "url": "https://www.theregister.com/edge-and-iot/2026/08/20/waymo-has-designed-a-robocar-chip-to-stay-ahead-of-tesla/5290592?utm_source=tldrnewsletter",
+      "title": "Waymo has designed a robocar chip to stay ahead of Tesla",
+      "summary": "Waymo's first custom silicon, built on TSMC's 5 nm process tech, is designed to convert raw sensor data into driver responses as quickly as possible."
+    }
+  ]
+}

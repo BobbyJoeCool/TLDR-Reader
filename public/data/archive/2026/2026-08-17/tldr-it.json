@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-17",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.networkworld.com/article/4208814/cisco-rides-networking-supercycle-for-strong-q4.html?utm_source=tldrit",
+      "title": "Cisco rides ‘networking supercycle' for strong Q4",
+      "summary": "Cisco reported record quarterly revenue of $17.3 billion as networking product orders jumped 40% year over year, with campus orders up 20% and data center networking orders rising 25% for the year. Cisco says only about 7% of its campus switching installed base has been refreshed so far, suggesting the broader enterprise upgrade cycle is still early."
+    },
+    {
+      "url": "https://www.cio.com/article/4209818/salesforce-servicenow-data-targeted-in-city-forum-attacks-2.html?utm_source=tldrit",
+      "title": "Salesforce, ServiceNow data targeted in ‘City-Forum' attacks",
+      "summary": "Researchers identified a new campaign targeting data stored in Salesforce and ServiceNow environments through their UI/API layers rather than traditional infrastructure exploits. The attackers have also been probing a little-documented native ServiceNow Service Portal search endpoint, highlighting the growing risk around authenticated SaaS access and APIs."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4209343/its-final-judge-says-hpes-juniper-acquisition-is-complete.html?utm_source=tldrit",
+      "title": "It's final! Judge says HPE's Juniper acquisition is complete",
+      "summary": "A federal judge approved HPE's settlement with the Justice Department, clearing the final legal challenge to its $14 billion acquisition of Juniper Networks. The ruling removes lingering uncertainty around the deal and lets HPE move ahead integrating Juniper's networking portfolio into the combined company."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4207984/apples-price-hikes-are-a-warning-to-it.html?utm_source=tldrit",
+      "title": "Apple's price hikes are a warning to IT",
+      "summary": "Memory shortages are pushing hardware prices higher across Apple, Dell, Lenovo, HP and other manufacturers, creating a new challenge for IT procurement and device lifecycle planning. With DRAM supply expected to remain constrained, enterprises may need to revisit refresh schedules, purchasing commitments and hardware budgets."
+    },
+    {
+      "url": "https://www.cio.com/article/4208730/the-vendor-consolidation-trap-when-one-throat-to-choke-costs-more-than-it-saves.html?utm_source=tldrit",
+      "title": "The vendor consolidation trap: When one throat to choke costs more than it saves",
+      "summary": "Reducing the number of technology vendors can simplify operations and create short-term savings, but it can also destroy negotiating leverage once switching becomes expensive. IT teams should keep at least one credible alternative warm in major categories so vendors know the customer can realistically walk away at renewal."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4208690/why-6-ghz-wi-fi-will-make-or-break-the-modern-enterprise.html?utm_source=tldrit",
+      "title": "Why 6 GHz Wi-Fi will make or break the modern enterprise",
+      "summary": "The additional spectrum available at 6 GHz can effectively triple wireless capacity compared with legacy bands while moving modern devices away from congested 2.4 GHz and 5 GHz channels. Wi-Fi 6E and Wi-Fi 7 upgrades should now be treated as infrastructure modernization rather than simply another wireless refresh."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/08/take-notes-with-me-for-in-person-meetings-is-now-available.html?utm_source=tldrit",
+      "title": "Take Notes for me for in-person meetings is now available",
+      "summary": "Google is expanding Meet's “Take notes for me” beyond video calls so users can capture in-person conversations directly from the Meet home screen. Gemini records the discussion and creates a structured summary, action items, and transcript in a Google Doc stored in Drive."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4209722/ibm-partners-with-openai-to-drive-enterprise-ai-deployment-2.html?utm_source=tldrit",
+      "title": "IBM partners with OpenAI to drive enterprise AI deployment",
+      "summary": "IBM will embed OpenAI models and products including ChatGPT and Codex into its consulting offerings while creating a dedicated OpenAI practice and certifying thousands of consultants and engineers. The partnership will focus on enterprise transformation, legacy application modernization and cybersecurity."
+    },
+    {
+      "url": "https://www.businessinsider.com/amazon-ecommerce-cloud-aws-power-crunch-ai-2026-8?utm_source=tldrit",
+      "title": "An industrywide power crunch is changing how Amazon runs its e-commerce empire",
+      "summary": "Amazon is redistributing parts of its e-commerce infrastructure across more AWS regions under an internal effort called Region Flex, partly because power and data center capacity have become increasingly constrained in major hubs. The project includes more than 100 software migrations and illustrates how electricity availability is beginning to influence application architecture and cloud-region strategy."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/white-house-authorizes-private-companies-to-hack-foreign-cybercrime-groups?utm_source=tldrit",
+      "title": "White House authorizes private companies to launch 'hack-back' cyberattacks that destroy data and systems, targeting foreign cybercrime organizations",
+      "summary": "A new US program allows vetted private companies to conduct government-approved surveillance and disruptive cyber operations against foreign cybercrime organizations. Individual operations require federal approval, and participating companies can potentially disrupt infrastructure controlled by targeted criminal groups."
+    },
+    {
+      "url": "https://health.aws.amazon.com/health/status?utm_source=tldrit",
+      "title": "Service health - Aug 15, 2026 | AWS Health Dashboard | Global (Website)",
+      "summary": "AWS reported increased error rates and latency affecting multiple services in US-EAST-1 early Saturday, making the incident worth reviewing for teams with concentrated workloads in Northern Virginia."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-14-2026.html?utm_source=tldrit",
+      "title": "Improved file importing in Google Sheets with tables and linked pivot tables",
+      "summary": "Google Sheets can now preserve Excel tables as native Sheets tables and import pivot tables backed by table ranges."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-01",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/?utm_source=tldrit",
+      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "summary": "Microsoft spent Monday battling a widespread Microsoft 365 outage that started with Exchange Online and expanded to Teams, OneDrive, SharePoint, Purview, and Defender XDR. Microsoft traced the disruption to a core authentication configuration problem and was rolling out mitigation across affected infrastructure, with users seeing gradual recovery by late Monday."
+    },
+    {
+      "url": "https://www.cio.com/article/4216508/cursor-customers-will-lose-access-to-openai-coding-models-in-november-2.html?utm_source=tldrit",
+      "title": "Cursor customers will lose access to OpenAI coding models in November",
+      "summary": "OpenAI says it will stop providing its coding models to Cursor on November 12, giving customers roughly 10 weeks to switch models or platforms. Beyond Cursor, the bigger enterprise lesson is vendor dependency: model availability inside AI tools can change because of acquisitions, contracts, competition, or regulation, making multi-model support increasingly important."
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/atlassian-bets-big-on-india-as-ai-changes-software-development/article71408192.ece?utm_source=tldrit",
+      "title": "Atlassian bets big on India as AI changes software development",
+      "summary": "Atlassian is expanding its India development centre into a strategic R&D hub, with more than 2,700 employees and continued hiring planned across engineering and sales. AI agents are making software creation faster while shifting engineers' work toward directing agents, evaluating results, and applying human judgment to architecture, design, and product decisions."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/?utm_source=tldrit",
+      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+      "summary": "McKesson confirmed hackers breached several cloud-hosted accounts and stole data tied to its oncology, multispecialty, and medical-surgical businesses. ShinyHunters claims it used phishing and social engineering to gain access, stealing millions of rows from Snowflake and Salesforce containing personal and highly sensitive health information. The group reportedly demanded a $55 million ransom."
+    },
+    {
+      "url": "https://www.cio.com/article/4215089/why-it-projects-still-fail-3.html?utm_source=tldrit",
+      "title": "Why IT projects still fail",
+      "summary": "Even conventional IT initiatives continue to miss their goals: PMI says 31% of complex projects fail to deliver the full benefits originally intended. The article points to familiar culprits, unclear success metrics, weak business ownership, poor prioritization and under-resourcing, while arguing that AI can actually amplify these problems by accelerating output faster than organizations can review or absorb it."
+    },
+    {
+      "url": "https://www.theregister.com/virtualization/2026/08/31/the-balkanization-of-virtualization-will-de-throne-vmware-which-doesnt-mind-a-bit/5292488?utm_source=tldrit",
+      "title": "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
+      "summary": "Broadcom's strategy will gradually end VMware's dominance of server virtualization as customers move workloads to alternatives, while VMware focuses on a smaller base of lucrative users adopting VMware Cloud Foundation. Three deadlines (November 22, 2026, March 31, 2027, and October 11, 2027) are expected to accelerate exits, although rivals generally acknowledge that VMware remains technically difficult to match."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4215616/tailscale-expands-from-vpn-into-a-full-connectivity-platform.html?utm_source=tldrit",
+      "title": "Tailscale expands from VPN into a full connectivity platform",
+      "summary": "Tailscale announced a broader connectivity platform at its Tailscale Up conference, extending its identity-based networking beyond VPN access into DNS filtering, privileged access management, AI agent controls, browser-based access, open-source networking, and developer APIs. Aperture, its AI gateway, reached general availability with guardrails, logging, model access, and integrations for provisioning and connecting to tailnet nodes."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-OneDrive-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html?utm_source=tldrit",
+      "title": "Introducing data import for Microsoft OneDrive: An easier, faster, and higher-fidelity migration to Google Workspace",
+      "summary": "Google has made its advanced OneDrive migration tooling generally available directly in the Workspace Admin console at no additional cost. Admins can migrate multiple batches concurrently while preserving permissions, and a planning utility estimates source-data size and migration timelines before the move begins."
+    },
+    {
+      "url": "https://www.salesforceben.com/next-generation-salesforce-devops-center-get-hands-on/?utm_source=tldrit",
+      "title": "Next Generation Salesforce DevOps Center: Get Hands-On",
+      "summary": "Salesforce's Next Generation DevOps Center is now available natively in production instances, replacing the need for its managed package and adding AI-powered actions. This guide explains how to enable the app and move changes through its five-step workflow: creating a Work Item, committing changes, reviewing them, marking them ready, and promoting them through pipeline stages."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/?utm_source=tldrit",
+      "title": "OpenTelemetry has graduated… now what?",
+      "summary": "OpenTelemetry achieved CNCF graduated status in May, reflecting its production adoption, governance, security, API stability, documentation, and community health. Graduation confirms OpenTelemetry is production-ready and urges organizations that have not adopted it to do so, while highlighting continued work on AI workflows, browser and mobile observability, telemetry governance, packaging, and zero-code instrumentation."
+    },
+    {
+      "url": "https://community.cisco.com/t5/cloud-networking-feature-announcements/coming-aug-31st-ai-powered-support-cases-in-client-vpn-and/ba-p/5571255?utm_source=tldrit",
+      "title": "Coming Aug 31st: AI-Powered Support Cases in Client VPN and Switches",
+      "summary": "Meraki admins can now start Client VPN and switching support cases directly from the Dashboard's AI Assistant. The assistant analyzes the environment, suggests troubleshooting steps, and can generate a case summary for approval before sending it to Meraki support."
+    },
+    {
+      "url": "https://internals-for-interns.com/posts/linux-kernel-network-subsystem?utm_source=tldrit",
+      "title": "Network Subsystem",
+      "summary": "A practical deep dive that traces an IPv4/TCP packet over Ethernet through the Linux 7.1 network subsystem, from a network card to a server blocked in recv() and back out again."
+    },
+    {
+      "url": "https://luke.geek.nz/azure/agent-package-manager/?utm_source=tldrit",
+      "title": "Agent Package Manager for AI Azure Engineering",
+      "summary": "Agent Package Manager (APM) is a dependency manager for AI agents that centralizes skills, prompts, instructions, plugins, and MCP servers in an apm.yml manifest."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-retina-macbook-air-obsolete/?utm_source=tldrit",
+      "title": "Apple Adds Three More Macs to Obsolete Products List",
+      "summary": "Apple has moved the 2018 Retina MacBook Air and two 2017–2018 13-inch MacBook Pro models to its obsolete list."
+    }
+  ]
+}

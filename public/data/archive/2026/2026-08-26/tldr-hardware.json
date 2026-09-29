@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-08-26",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia?utm_source=tldrhardware",
+      "title": "OpenAI Claims Custom Jalapeño Chip Bypasses Nvidia GB300 in Efficiency Benchmarks",
+      "summary": "OpenAI announced that its custom-designed AI inference processor, dubbed Jalapeño and developed in partnership with Broadcom, outperformed Nvidia's flagship GB200 and GB300 systems in internal benchmark evaluations. The custom silicon demonstrated a 1.5x to 1.9x improvement in workload throughput per watt alongside a 1.7x to 3.6x reduction in response latency across frontier reasoning and open-weights workloads like GPT-OSS, DeepSeek R1, and Kimi K2.5"
+    },
+    {
+      "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/?utm_source=tldrhardware",
+      "title": "d-Matrix stacks logic on 3D DRAM to target 100 TB/s inference bandwidth",
+      "summary": "d-Matrix's Raptor accelerator stacks an N4 logic die directly on 3D DRAM and uses stream blocking, pinless data-bus inversion, thermal-aware refresh, and bank chaining to hold bandwidth near 100 TB/s. The company claims a 72-card rack can serve a 3-trillion-parameter-class model at 1M context at roughly 1,000 tokens per second per user, but the live Hot Chips report explicitly says working-system evidence and drawbacks remain to be shown."
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai?utm_source=tldrhardware",
+      "title": "NVIDIA introduces Jetson Orin Nano 2 for entry-level edge AI",
+      "summary": "NVIDIA's Jetson Orin Nano 2 is a lower-cost computer for robotics and edge inference. The module packages GPU compute, memory, and the Jetson software stack so builders can prototype perception and control without a server connection. Performance and efficiency figures are first-party, and suitability depends on the actual model and power envelope."
+    },
+    {
+      "url": "https://www.servethehome.com/samsung-evolving-hbm-base-die-at-hot-chips-2026/?utm_source=tldrhardware",
+      "title": "Samsung zHBM: Direct 3D DRAM Stacking Replaces Silicon Interposers",
+      "summary": "Samsung detailed its vision for evolving HBM base dies from passive interposers into active logic, culminating in \"zHBM.\" By using hybrid copper bonding to mount DRAM stacks directly onto the processor die, the architecture removes power-hungry SERDES layers, cutting package power by ~100W on a 1,200W accelerator while boosting memory bandwidth."
+    },
+    {
+      "url": "https://glitchwire.com/news/figure-ai-announces-index-a-crowdsourced-robot-training-dataset-that-could-resha/?utm_source=tldrhardware",
+      "title": "Figure AI launches Index, training its robots on 16 million crowdsourced uploads",
+      "summary": "Figure AI has come out of stealth with Index, a crowdsourced data platform that's already collected 16 million video uploads from over 264,000 app downloads across 108 countries, paying contributors $15 million so far to film themselves doing everyday tasks like opening drawers or folding laundry. The bet addresses robotics' core data bottleneck: language models could train on internet text, but embodied AI needs real-world physical demonstrations that simply don't exist online at scale. Figure is committing over $1 billion to data and compute over the next 12 months to close that gap."
+    },
+    {
+      "url": "https://digg.com/tech/rbnvscse?utm_source=tldrhardware",
+      "title": "Skild AI's S1 learns 10-minute robot tasks from a single video, no fine-tuning",
+      "summary": "Skild AI's S1 is a foundation model that performs in-context learning for robotics, meaning it can be shown a single video of a long-horizon task, over 10 minutes long and never seen during pre-training, and then execute it without any fine-tuning. It's a meaningful step beyond typical robot foundation models, which usually need dedicated training data for each new task rather than picking one up on the fly from a single demonstration. This fits a broader pattern this year of general-purpose robot models learning tasks purely from examples, following similar early demos from Rhoda and Generalist, with Skild's version notably extending the horizon out to a full 10 minutes."
+    },
+    {
+      "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone?utm_source=tldrhardware",
+      "title": "IBM Unveils Next-Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+      "summary": "IBM announced its first dual-ISA mainframe processor at Hot Chips 2026, engineered to natively execute both IBM z/Architecture and Armv9.3-A instructions on the same physical cores. Fabricated on a 2nm process node, the chip features 11 high-performance cores clocked above 5.7 GHz, integrated AI inference acceleration, a dedicated on-chip Data Processing Unit (DPU) for I/O offload, and large enterprise cache tiers. Rather than using separate physical cores in a heterogeneous layout, each core dynamically switches between z/Architecture and AArch64 execution within nanoseconds, enabling organizations to run unmodified Arm-native Linux software and modern AI frameworks concurrently alongside mission-critical z/OS transaction systems."
+    },
+    {
+      "url": "https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=tldrhardware",
+      "title": "First look inside Apple's AI servers reveals a densely packed M-series design",
+      "summary": "Leaked photos of a custom 2U rack server, reportedly from Apple's Houston manufacturing facility, show its Private Cloud Compute hardware for the first time. Each unit packs four columns of eight boards apiece (32 chips total), with a single Apple Silicon package at the center of each board flanked by removable brackets, all cooled by one fan per column pulling air front-to-back through a plastic-enclosed passage. Forum analysis of the board sizes suggests these are more likely base M5-class packages rather than the M5 Ultra chips previously rumored, since an Ultra package (two dies plus eight memory chips) would be roughly four times larger than what's visible in the photos, and the heatsinks look undersized for a 150-watt chip"
+    },
+    {
+      "url": "https://www.servethehome.com/amd-helios-mi400-system-architecture-at-hot-chips-2026/?utm_source=tldrhardware",
+      "title": "AMD Unveils Instinct MI455X & Helios 72-GPU Rack Architecture",
+      "summary": "AMD has revealed full details for its next-generation Instinct MI455X accelerator and Helios rack platform."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/spacex-s-musk-sees-orbital-data-center-launch-near-end-of-2027?utm_source=tldrhardware",
+      "title": "SpaceX's Musk Sees Orbital Data Center Launch Near End of 2027",
+      "summary": "Elon Musk stated that SpaceX aims to launch its initial fleet of orbital AI data centers by late 2027, powered by Nvidia hardware architecture."
+    },
+    {
+      "url": "https://www.techpowerup.com/351913/sk-hynix-next-gen-hbm-memory-to-use-intel-emib-t-packaging?utm_source=tldrhardware",
+      "title": "Intel EMIB-T Secures SK hynix HBM Qualification to Ease Packaging Crunch",
+      "summary": "SK hynix and Intel Foundry are collaborating to package next-generation HBM memory using Intel's EMIB-T 2.5D bridge technology."
+    },
+    {
+      "url": "https://newsroom.intel.com/client-computing/intel-outlines-architectures-for-agentic-ai-at-hot-chips-2026?utm_source=tldrhardware",
+      "title": "Intel Unveils Architecture Roadmap for Agentic AI",
+      "summary": "Intel has previewed architectural enhancements in its upcoming Diamond Rapids, Crescent Island, and Wildcat Lake processors targeted at agentic AI workloads."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/?utm_source=tldrhardware",
+      "title": "Oura reportedly eyeing a September IPO that could value it above $16B",
+      "summary": "Smart ring maker Oura is reportedly planning to raise up to $3 billion in a US IPO as soon as next month, valuing the company at over $16 billion."
+    }
+  ]
+}

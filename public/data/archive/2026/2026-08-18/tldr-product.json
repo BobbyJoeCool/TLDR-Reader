@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-08-18",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.elenaverna.com/p/report-what-people-really-think-about?utm_source=tldrproduct",
+      "title": "What people *really* think about IC work",
+      "summary": "Most tech workers want more IC work, but pay and influence keep many in management. High-impact IC roles could offer a better path by rewarding autonomy and business impact without requiring people management."
+    },
+    {
+      "url": "https://stratechery.com/2026/nvidias-risky-business/?utm_source=tldrproduct",
+      "title": "Nvidia's Risky Business",
+      "summary": "AI's infrastructure boom is relying on increasingly risky financing. Nvidia can keep the buildout going by attracting new pools of capital, but the strategy depends on AI revenues growing fast enough to justify the investment."
+    },
+    {
+      "url": "https://medium.productcoalition.com/what-three-seconds-of-music-taught-me-about-product-7f519512a1dd?utm_source=tldrproduct",
+      "title": "What Three Seconds of Music Taught Me About Product",
+      "summary": "Strategic constraints sharpen product strategy by forcing teams to commit rather than endlessly iterating. Limiting choices preserves the core hypothesis, reduces decision fatigue, and empowers creative judgment without stifling critical thought."
+    },
+    {
+      "url": "https://www.davesresearch.com/good-move-constructive/?utm_source=tldrproduct",
+      "title": "A Good Move is Constructive",
+      "summary": "Effective product strategy should emerge from consistently making good moves rather than from top-down planning. A constructive move strengthens an existing relationship or introduces useful structure, creates value on its own, and avoids relying on a hypothetical V2 or future follow-up to become worthwhile."
+    },
+    {
+      "url": "https://www.unite.ai/how-to-monetize-ai-software/?utm_source=tldrproduct",
+      "title": "Monetizing AI: A Modern Framework for How Companies Can Maximize Business Growth",
+      "summary": "AI is often expensive for vendors, who absorb high development costs without capturing equivalent value. A new framework suggests pricing based on measurable customer outcomes and AI usage, shifting from flat subscriptions to tiered, hybrid, or outcome-based models as billing capabilities evolve."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-436-tension-based-prioritization?utm_source=tldrproduct",
+      "title": "Tension-Based Prioritization (A Non-Framework)",
+      "summary": "Better prioritization starts by identifying the tensions preventing teams from acting on what they already know. Those recurring conflicts often reveal the real decisions more clearly than any framework."
+    },
+    {
+      "url": "https://betterthanrandom.substack.com/p/shape-up-for-data-teams?utm_source=tldrproduct",
+      "title": "Shape Up for Data teams",
+      "summary": "Shape Up can work for Data teams only when they help shape priorities from the start. Without a seat at the betting table, they remain reactive service teams rather than true partners."
+    },
+    {
+      "url": "https://bakadesuyo.com/2026/08/stay-happy/?utm_source=tldrproduct",
+      "title": "How To Stay Happy: 4 Secrets From History's Happiest Philosopher",
+      "summary": "Lasting happiness comes from replacing judgment with curiosity. Understand what drives your emotions and behavior, gain perspective, and use that insight to respond more calmly and make better choices."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2089409015499374765.html?utm_source=tldrproduct",
+      "title": "How to work with designers",
+      "summary": "Great design collaboration requires shared understanding, clear constraints, and iterative feedback."
+    },
+    {
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html?utm_source=tldrproduct",
+      "title": "Perfection is not over-engineering",
+      "summary": "Over-engineering comes from solving the wrong problems."
+    }
+  ]
+}

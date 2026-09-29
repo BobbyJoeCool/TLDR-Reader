@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-08-21",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/?utm_source=tldrhardware",
+      "title": "Apple's macOS Update Reportedly Contains Video of AirPods With a Camera",
+      "summary": "A newly discovered video asset embedded within Apple's latest macOS update appears to depict future AirPods equipped with built-in camera sensors. The animation suggests Apple is actively developing wearable audio devices capable of capturing environmental visual data to enhance spatial computing, gesture controls, and contextual visual intelligence. While unannounced by Apple, the leak offers evidence of ongoing hardware prototyping aimed at expanding computer vision and multimodal AI capabilities across its personal AI portfolio."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares?utm_source=tldrhardware",
+      "title": "Marvell Gives Google Right to Buy Up to $12.2 Billion in Shares",
+      "summary": "Marvell Technology has granted Google the right to acquire up to $12.2 billion worth of its shares, strengthening the strategic and commercial ties between the custom chip designer and the cloud hyperscaler. The equity warrant structure aligns long-term hardware co-development and silicon sourcing commitments across custom application-specific integrated circuits (ASICs), optical interconnects, and datacenter networking silicon."
+    },
+    {
+      "url": "https://semiengineering.com/how-will-the-custom-hbm-business-work/?utm_source=tldrhardware",
+      "title": "How Will the Custom HBM Business Work?",
+      "summary": "This post examines the shifting commercial models and technical complexities surrounding custom High Bandwidth Memory (HBM) as the semiconductor industry transitions toward HBM4 architectures. Moving the memory stack's base logic die to leading-edge foundry processes requires unprecedented collaboration among DRAM manufacturers, pure-play foundries, IP providers, and custom ASIC designers. This structural shift introduces major operational challenges regarding Known Good Die (KGD) test coverage, advanced packaging integration, and yield-loss liability, requiring new multi-party business frameworks to commercialize application-specific memory subsystems."
+    },
+    {
+      "url": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers?utm_source=tldrhardware",
+      "title": "Waymo Lifts the Lid on the 'Brain' Powering Its Robotaxis",
+      "summary": "Waymo has disclosed the compute architecture powering its autonomous taxi fleet, unveiling a custom in-house 5nm ASIC alongside key hardware suppliers including Nvidia, AMD, TSMC, Socionext, Micron, Samsung, and SanDisk. Built to handle front-end sensor ingestion, the custom chip delivers over 1,000 TOPS of ML compute to denoise and fuse raw lidar, radar, and camera streams before passing data to core driving models. Housed in the vehicle's trunk and tied into the liquid cooling system, the platform relies on a dual-engine redundant design for fail-operational safety while pairing proprietary silicon with merchant GPUs and CPUs."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-chip-startup-fractile-in-talks-for-6-5-billion-value-after-anthropic-deal?utm_source=tldrhardware",
+      "title": "Fractile's In-Memory Inference Chip Aims for 25x LLM Speedup, Now Talking $6.5B",
+      "summary": "London-based Fractile is building specialized inference processors around an in-memory computing architecture, placing compute directly alongside on-chip memory instead of routing data back and forth to conventional DRAM, the round-trip that normally throttles inference latency on standard GPUs. By eliminating that data-transfer bottleneck, the chip is designed to run large language model inference up to 25 times faster and at a fraction of the operating cost of conventional silicon. The architecture has now attracted a partnership with frontier lab Anthropic, and the company is in talks to raise new funding at a $6.5 billion valuation on the back of it."
+    },
+    {
+      "url": "https://semiengineering.com/cfets-forge-better-connections/?utm_source=tldrhardware",
+      "title": "CFETs Forge Better Connections",
+      "summary": "This article details how chipmakers, including Intel, Samsung, TSMC, and IBM, are preparing to adopt Complementary FETs (CFETs) to nearly double transistor density by vertically stacking p- and n-type nanosheets. Expected to deliver up to a 40% reduction in cell height alongside notable performance and efficiency gains, the primary integration challenge shifts toward fabricating complex vertical interconnects and direct backside power delivery vias. As manufacturers evaluate divergent sequential and monolithic stacking architectures, atomic-level process control and multi-physics simulation are becoming essential to manage interconnect parasitics and optimize yield learning."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/burst-of-new-solar-power-makes-midwest-grid-the-biggest-in-us?utm_source=tldrhardware",
+      "title": "Burst of New Solar Power Makes Midwest Grid the Biggest in US",
+      "summary": "A massive influx of newly connected utility-scale solar installations has elevated the Midwest power grid into the largest regional transmission network in the United States. Driven by accelerated clean energy targets, corporate power purchase agreements, and surging electricity consumption from industrial and datacenter buildouts, the region's solar generation capacity has rapidly expanded to overtake traditional coastal grids."
+    },
+    {
+      "url": "https://www.lightreading.com/5g/small-cells-big-mess-why-musk-s-spacex-telecom-plan-won-t-work?utm_source=tldrhardware",
+      "title": "Why Musk's SpaceX Telecom Plan Won't Work",
+      "summary": "This post examines the architectural and economic hurdles facing Elon Musk's SpaceX telecom ambitions, arguing that satellite direct-to-cell services cannot replace dense terrestrial infrastructure. While Starlink's direct-to-device technology provides valuable coverage for remote dead zones and emergency messaging, severe spectrum constraints and orbital propagation physics prevent it from delivering the capacity, throughput, and indoor penetration achieved by terrestrial small cells."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/?utm_source=tldrhardware",
+      "title": "Apple Overhauls EU App Store Fees and Loosens Alternative Store Rules",
+      "summary": "Apple has overhauled its App Store fee structure and relaxed policies for third-party app marketplaces across the European Union to align with Digital Markets Act (DMA) regulatory requirements."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-cloud-firm-nebius-offers-4-5-billion-of-convertible-bonds?utm_source=tldrhardware",
+      "title": "AI Cloud Firm Nebius Offers $4.5 Billion of Convertible Bonds",
+      "summary": "The proceeds are slated to support major procurements of advanced AI accelerators, accelerate datacenter buildouts across key international regions, and scale its specialized cloud platform for frontier AI developers."
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-is-now-up-to-48-percent-more-expensive-than-it-was-just-a-month-ago-32gb-battlemage-workstation-card-climbs-toward-usd2-000?utm_source=tldrhardware",
+      "title": "Intel's Arc Pro B70 Workstation GPU Sees Global Price Surges",
+      "summary": "Intel's flagship Arc Pro B70 workstation graphics card has experienced steep retail price hikes of up to 48% over the past month."
+    },
+    {
+      "url": "https://www.lightreading.com/6g/why-the-first-ai-native-6g-cores-will-run-on-5g-foundations?utm_source=tldrhardware",
+      "title": "Why the First AI-Native 6G Cores Will Run on 5G Foundations",
+      "summary": "The telecom industry's transition toward AI-native 6G core networks will build directly upon existing 5G Standalone infrastructure rather than triggering an immediate architectural overhaul."
+    }
+  ]
+}

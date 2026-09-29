@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-09-16",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://x.com/mvernal/status/2099885132379500562?utm_source=tldrfounders",
+      "title": "Moats & the Barbell-ification of Software",
+      "summary": "AI may erode traditional software moats by making products, migrations, and integrations cheaper to replicate. The market could polarize between a few massive platforms that reinvest aggressively and many tiny niche products, leaving mid-sized point solutions squeezed."
+    },
+    {
+      "url": "https://theoryvc.com/blog-posts/building-a-company-brain-people-actually-want-to-use?utm_source=tldrfounders",
+      "title": "Building a Company Brain People Actually Want to Use",
+      "summary": "Exposing an operation as a tool is fairly straightforward. However, making it reliable for daily use means accounting for both how the software runs and how the agent decides to use it. This post looks at key design decisions that make platforms more consistent and efficient. It provides specific tips and tricks based on iteration and production experience."
+    },
+    {
+      "url": "https://marcrandolph.substack.com/p/the-cap-table-you-didnt-notice-you?utm_source=tldrfounders",
+      "title": "The Cap Table You Didn't Notice You Were Building",
+      "summary": "A SAFE is a promise where an investor gives a company their money, then when the company finally sells stock at a real price, the investor gets shares, usually at a discount or capped at some valuation as a reward for going first. There's no interest, due date, or anything owed if that day never comes. For founders raising a small amount quickly, it's a good trade. For investors, the worst-case percentage locks the moment they sign."
+    },
+    {
+      "url": "https://www.danhock.co/p/momentum-is-not-a-moat?utm_source=tldrfounders",
+      "title": "Momentum is Not a Moat",
+      "summary": "Momentum should not be confused with a moat, which offers lasting defensibility against competitors. Startups can leverage execution and distribution to drive early momentum but need clear paths to defensibility, such as data effects, scale economies, or unique processes. With the rapid pace of AI adoption, startups must focus on building moats early to sustain growth and withstand competitive pressure."
+    },
+    {
+      "url": "https://claude.com/blog/salesforce-in-claude?utm_source=tldrfounders",
+      "title": "Bringing Salesforce into Claude",
+      "summary": "Salesforce in Claude is a plugin that brings a seller's accounts, opportunities, and pipeline into Claude under their existing Salesforce permissions. It includes 38 skills that cover the work that account executives do daily, like account research, call prep, pipeline review, and CRM updates. Salesforce in Claude is now available in beta on all paid Claude plans."
+    },
+    {
+      "url": "https://linear.app/changelog/2026-09-14-loops-for-product-management?utm_source=tldrfounders",
+      "title": "Loops for product management",
+      "summary": "Linear Loops are recurring agent workflows for teams. They now respond to more workplace activity and can edit Linear documents and post updates to Slack. Loops handle the coordination of project plans so information doesn't fall out of sync and handoffs don't get missed. Linear has extended introductory Loops credits through to December 31."
+    },
+    {
+      "url": "https://www.generalcatalyst.com/stories/the-consumerization-of-healthcare?utm_source=tldrfounders",
+      "title": "The Consumerization of Healthcare",
+      "summary": "People in the US pay far more for far worse coverage and lower life expectancy. However, the system is functioning exactly as it was designed. The employer-based system started as a way for employers to attract workers after a wage freeze in World War II. It became a system where employers gained significant tax benefits for buying healthcare on behalf of their employees over decades of layered rules. Healthcare is a super-regulated market, and it is intimidating for founders."
+    },
+    {
+      "url": "https://x.com/deedydas/status/2099880100770849001?utm_source=tldrfounders",
+      "title": "What I Learned From Hundreds of Startup Pitches",
+      "summary": "Startup fundraising is rewarding elite teams with high valuations, rapid growth, and frequent M&A, but underlying risks are mounting. Common issues include weak gross margins, inflated contracted ARR, customer concentration, expensive compute, thin technical differentiation, and intense competition."
+    },
+    {
+      "url": "https://x.com/harris/status/2099853275130450073?utm_source=tldrfounders",
+      "title": "How to Raise Venture Capital Chapter 1: The Speed Run",
+      "summary": "Successful fundraising starts months before cash runs low."
+    },
+    {
+      "url": "https://x.com/Bencera/status/2099450356270829908?utm_source=tldrfounders",
+      "title": "I built a $250M company in 3 months. Here's every idea I tried before it worked",
+      "summary": "Ben Cera spent two decades cycling through startups, pivots, and failures before Polsia reached 10,000 customers and a $10M run rate in five months."
+    },
+    {
+      "url": "https://x.com/_ananthhh/status/2099689652525670803?utm_source=tldrfounders",
+      "title": "Lessons from Co-Founder Breakup",
+      "summary": "Co-founder relationships can deteriorate even without obvious conflict."
+    },
+    {
+      "url": "https://www.growth-memo.com/p/are-you-doing-marketing-or-building?utm_source=tldrfounders",
+      "title": "Are you doing marketing… or building software?",
+      "summary": "Spend time thinking before you start building any AI automation."
+    },
+    {
+      "url": "https://www.a16z.news/p/product-management-is-still-all-about?utm_source=tldrfounders",
+      "title": "Product Management is Still All About Telling Stories",
+      "summary": "Product management is shifting from creating specs to crafting compelling user-focused stories, especially as AI accelerates product development cycles."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-08-10",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://shopify.engineering/scaling-inventory-reservations?utm_source=tldrdev",
+      "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026)",
+      "summary": "Shopify transitioned its inventory reservation system from Redis to MySQL to improve reliability and scalability during peak sales periods, particularly on high-traffic days like Black Friday. The change involved adopting MySQL's SKIP LOCKED feature, allowing for more efficient management of inventory reservations and improved ACID compliance while reducing the potential for overselling or underselling products."
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/?utm_source=tldrdev",
+      "title": "How we pushed CDC into Postgres — and turned replication into clockwork",
+      "summary": "The implementation of data mirroring in Snowflake Postgres improves the replication process by enabling seamless, low-latency data capture from transactional databases to analytical environments. This new feature uses a push-based approach to change data capture, using a dedicated Postgres extension that efficiently handles data and schema changes, thus simplifying operations and increasing reliability."
+    },
+    {
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers?utm_source=tldrdev",
+      "title": "\"Code was never the hard part\" is an insult to all programmers",
+      "summary": "The claim that coding is easy dismisses the complexities and challenges faced by programmers, who have always navigated a demanding field that requires a lot of skill and expertise. While understanding user needs is critical, the craft of programming remains vital."
+    },
+    {
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/?utm_source=tldrdev",
+      "title": "How I use LLMs to learn complex topics",
+      "summary": "LLMs are increasingly used for learning complex topics, though their explanations can often be too simplistic and distracting. One effective method for understanding intricate processes, such as chip production, involves creating a RollerCoaster Tycoon-like simulation that visually represents the steps involved in manufacturing chips, providing a fun and engaging way to solidify knowledge."
+    },
+    {
+      "url": "https://workos.com/atlas?utm_source=tldrdev",
+      "title": "Atlas (Website)",
+      "summary": "Atlas is an AI coworker that integrates with Slack to assist teams by answering questions, automating tasks, and enhancing collaboration across various channels and tools."
+    },
+    {
+      "url": "https://code.claude.com/docs/en/cross-session-messaging?utm_source=tldrdev",
+      "title": "Message your other Claude Code sessions",
+      "summary": "Cross-session messaging in Claude Code allows users to send and receive messages between multiple sessions on macOS and Linux, facilitating real-time communication about findings, statuses, or decisions without the need for manual copy-pasting between terminals."
+    },
+    {
+      "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding?utm_source=tldrdev",
+      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+      "summary": "Coinbase has updated its engineering interview process in response to the increasing prevalence of AI-generated code, now focusing on evaluating candidates' ability to effectively direct AI and assess its output rather than traditional coding skills. The revamped interview structure involves a three-phase implementation that measures AI fluency across various competencies, reflecting the evolving nature of engineering work."
+    },
+    {
+      "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/?utm_source=tldrdev",
+      "title": "Every fast write moves work somewhere else",
+      "summary": "Different storage options affect the durability and latency of write operations, with each design choice offering varying levels of success criteria based on how and where the data is stored. By separating the processes of local writes from durable copies, systems can optimize for speed while balancing the risks of data loss against the durability required for different operational contexts."
+    },
+    {
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/?utm_source=tldrdev",
+      "title": "What Happened to HackerOne?",
+      "summary": "HackerOne, once a platform for ethical hackers to report vulnerabilities, has deteriorated over time due to leadership changes, a shift in focus towards profit-making and sales, and a diminishing commitment to the hacker community."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/?utm_source=tldrdev",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "summary": "OpenAI accidentally attacked Hugging Face due to a series of missteps with AI agents exploring vulnerabilities in their infrastructure and ultimately leading to a security breach."
+    },
+    {
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers?utm_source=tldrdev",
+      "title": "Atproto for distributed systems engineers",
+      "summary": "Atproto aims to decentralize high-scale backend systems by establishing a shared data model and enabling public APIs for NoSQL services."
+    },
+    {
+      "url": "https://leonfurze.com/2026/08/09/the-window-of-critique-for-ai-is-closing-fast/?utm_source=tldrdev",
+      "title": "The Window of Critique for AI is Closing Fast",
+      "summary": "The rapid improvement and mainstream integration of AI technology are diminishing the space for critical evaluation of its limitations."
+    }
+  ]
+}

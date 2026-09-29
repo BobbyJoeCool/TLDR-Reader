@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-09-11",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/introducing-the-agents-api?utm_source=tldrdevops",
+      "title": "Introducing the Agents API",
+      "summary": "OpenAI has introduced the Agents API in public beta, allowing developers to build and run cloud agents with the same harness and infrastructure that powers Codex. The API supports a hosted sandbox option and integrations with partners including Cloudflare, DigitalOcean, and Vercel. Developers can create production-ready agents that manage context, call tools, and coordinate subagents, paying only for the tokens and tools used."
+    },
+    {
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/?utm_source=tldrdevops",
+      "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+      "summary": "Cloudflare's new Automatic Key Exchange feature probes origin servers to detect supported algorithms, allowing the system to lead with the correct key agreement on the first try. The rollout reduced HelloRetryRequests from roughly 52% to 3.7% and cut connection handshake latency by more than 150 ms at p90. This automation has upgraded hundreds of thousands of domains to post-quantum encryption without manual configuration."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/?utm_source=tldrdevops",
+      "title": "Kubernetes v1.37: Introducing Node Lifecycle Conditions",
+      "summary": "Kubernetes v1.37 introduces five new Node conditions to describe lifecycle states such as draining or maintenance. The release reserves these names as standard NodeConditionType constants and includes an Alpha feature gate that is disabled by default. Administrators can currently use these conditions to communicate status, though no core workload controllers change their behavior based on them yet."
+    },
+    {
+      "url": "https://ersc.io/blog/what-comes-after-git?utm_source=tldrdevops",
+      "title": "What comes after git",
+      "summary": "East River Source Control is building a source-control backend that speaks the Git protocol without storing Git repositories as its underlying source of truth. Its custom storage engine is designed to scale horizontally for larger repositories and agent-heavy development workloads, while preserving compatibility with existing Git clients and leaving a path toward future protocols such as Jujutsu."
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/?utm_source=tldrdevops",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "summary": "GitHub found that AI coding efficiency depends on minimizing unnecessary work across the entire task, not simply reducing tokens per tool call. Copilot improved efficiency by selectively compressing repetitive output, removing unused formatting, shortening prompts while regression-testing behavior, and delivering background results directly, collectively reducing cost and latency without measurable quality regressions."
+    },
+    {
+      "url": "https://github.com/AlexsJones/llmfit?utm_source=tldrdevops",
+      "title": "llmfit (GitHub Repo)",
+      "summary": "llmfit is a terminal tool that recommends open-source large language models based on a user's specific hardware. The software inspects system components like CPU, RAM, and GPU configuration to score models on memory fit, speed, and quality. Users can also benchmark models on their own machines and share those results back to the project. It supports local runtime providers including Ollama, llama.cpp, and LM Studio."
+    },
+    {
+      "url": "https://github.com/JustVugg/colibri?utm_source=tldrdevops",
+      "title": "Colibri (GitHub Repo)",
+      "summary": "Colibrì is an inference engine written in pure C that runs large Mixture-of-Experts models on consumer hardware. It treats storage, RAM, and VRAM as a single memory hierarchy to run models ranging from 744 billion to 2.8 trillion parameters without dependencies like BLAS or Python. The engine supports eight model families, including GLM-5.2 and Kimi K3."
+    },
+    {
+      "url": "https://www.pagerduty.com/blog/automation/pd-automation-runner-automation-that-finally-reaches-your-on-prem-stack/?utm_source=tldrdevops",
+      "title": "PD Automation Runner: Automation That Finally Reaches Your On-Prem Stack",
+      "summary": "PD Automation Runner extends PagerDuty automation to on-premises and self-hosted infrastructure through outbound-only connectivity, allowing Workflow Actions and SRE Agent to diagnose and remediate Kubernetes incidents without opening inbound network access. Early Access currently supports Kubernetes, with Splunk, Grafana, and Prometheus planned."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/monitor-prompt-caching-optimize-token-usage/?utm_source=tldrdevops",
+      "title": "Monitor prompt caching to optimize your token usage",
+      "summary": "Prompt caching can significantly reduce LLM cost and latency as agent systems accumulate large, repetitive system prompts, tool definitions, guardrails, and context. Datadog recommends keeping cached prefixes stable, placing breakpoints around static context and conversation history, and monitoring cache hit rates, writes, token usage, and traces to identify cache-busting changes such as tool reordering, compaction, and dynamic metadata."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/08/31/observability-in-kubernetes-from-metrics-to-meaning/?utm_source=tldrdevops",
+      "title": "Observability in Kubernetes: From metrics to meaning",
+      "summary": "Kubernetes observability combines metrics, logs, traces, and profiling to move teams from detecting symptoms to understanding root causes."
+    },
+    {
+      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/?utm_source=tldrdevops",
+      "title": "How we rebuilt Cloudflare Workers' module registry for Node.js compatibility",
+      "summary": "Cloudflare has rewritten the module registry in workerd to improve standards compliance and alignment with Node.js."
+    },
+    {
+      "url": "https://www.harness.io/blog/shipped-in-august-2026?utm_source=tldrdevops",
+      "title": "Get Ship Done: Everything We Shipped in August 2026",
+      "summary": "Harness shipped 58 features in August focused on removing software delivery bottlenecks caused by AI-generated code."
+    }
+  ]
+}

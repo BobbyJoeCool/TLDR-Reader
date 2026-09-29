@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-09-21",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html?utm_source=tldrinfosec",
+      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+      "summary": "Gyazo's upload server flaw let an attacker run commands and access its database. Exposed data includes 23.62 million user records, password hashes, session IDs, integration tokens, and 490 million image metadata records. Leaked image IDs may expose linked captures. Helpfeel fixed the flaw, blocked access routes, and urged password changes."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936?utm_source=tldrinfosec",
+      "title": "Google Pixel phones pwned in zero-click attacks",
+      "summary": "Google has fixed CVE-2026-58704, an actively exploited Pixel modem authorization flaw. Attackers can bypass permission checks and escalate privileges without user interaction. CISA added it to its Known Exploited Vulnerabilities catalog and ordered federal agencies to patch by September 19. Google disclosed limited, targeted exploitation but provided no attack details and asked users to update supported Pixel devices immediately."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/?utm_source=tldrinfosec",
+      "title": "Fake LastPass Authenticator GitHub Repos Push New Rapuncel Infostealer",
+      "summary": "Security researchers uncovered a new malware campaign that utilizes GitHub repos to impersonate LastPass Authenticator and at least 39 other well-known products. The campaign utilizes a legitimate Microsoft Visual Studio CoreCLR Debugger, which loads a malicious DLL. The DLL deploys a previously undocumented infostealer and an EDR and antivirus killer that terminates a hardcoded list of 145 EDR or antivirus products."
+    },
+    {
+      "url": "https://www.scworld.com/implementation-guides/how-to-build-an-ot-security-operating-model?utm_source=tldrinfosec",
+      "title": "How to build an OT security operating model",
+      "summary": "An implementation guide breaks an OT security program into six components, beginning with asset discovery and process context mapping that tie every device to the operational process it supports. Availability and process safety outrank confidentiality here, so access boundaries, monitoring, incident response, and recovery each require joint sign-off from operations before deployment. Ownership belongs to a cross-functional executive such as a CISO or VP of Operations, with NERC CIP and NIST SP 800-82 treated as checkpoints rather than as the program design itself."
+    },
+    {
+      "url": "https://semgrep.dev/blog/2026/glm-53-delivers-opus-48-level-cybersecurity-results-at-a-fraction-of-the-cost/?utm_source=tldrinfosec",
+      "title": "GLM-5.3 Delivers Opus 4.8-Level Performance at a Fraction of the Cost",
+      "summary": "Semgrep benchmarked the new Grok models and GLM-5.3 on their standard IDOR vulnerability-finding benchmark. They found that Grok 4.6 Exacto roughly matched Opus 4.7's F1 score at less than a third of the cost. GLM-5.3 was able to compete with Opus 4.8 at one seventh of the cost."
+    },
+    {
+      "url": "https://msil.re/posts/reversing-malwarebytes-browser-guard.html?utm_source=tldrinfosec",
+      "title": "Reverse Engineering Malwarebytes Browser Guard",
+      "summary": "After the author's legitimate site got flagged as a scam by Malwarebytes Browser Guard, they took a deep dive into the source code to identify what caused it. This post walks through the several layers Browser Guard uses, including bloom filters, heuristic rules, a malware URL database, a download file classifier, specialized rules for specific attacks like ClickFix, and remote false-positive checking using Hubble. The bigger issue, the author noted, is that the extension ships with a debug interface that can be used to disable heuristics."
+    },
+    {
+      "url": "https://github.com/airbus-cert/ditto?utm_source=tldrinfosec",
+      "title": "Ditto (GitHub Repo)",
+      "summary": "Ditto is a tree-sitter-based PowerShell and JavaScript obfuscatory."
+    },
+    {
+      "url": "https://github.com/evets007/natural-language-nmap?utm_source=tldrinfosec",
+      "title": "Natural Language Nmap (GitHub Repo)",
+      "summary": "Natural language nmap (nmap-nl) is a lightweight, local command-line inference tool that translates natural language into raw nmap commands and executes them locally using a locally-hosted, fine-tuned Gemma-3-270M model."
+    },
+    {
+      "url": "https://github.com/IceMoonHSV/TATS?utm_source=tldrinfosec",
+      "title": "TATS (GitHub Repo)",
+      "summary": "Token Analysis and Tracking System (TATS) allows users to track OAuth 2.0, OIDC, and Microsoft Entra ID tokens across captured network traffic by ingesting Burp Suite XML exports, mitmproxy flow files, or live Chrome DevTools Protocol streams and serving an interactive web dashboard."
+    },
+    {
+      "url": "https://www.gadgetreview.com/hackers-cracked-a-flock-camera-here-is-what-was-inside?utm_source=tldrinfosec",
+      "title": "Hackers Cracked a Flock Camera. Here Is What Was Inside.",
+      "summary": "A removed Flock camera exposed 1.6 million images and records of 50,200 vehicles over 21 days. Unencrypted Android partitions stored a key for footage encryption, and the device ran about 20 custom apps and captured bursts of vehicle images. Uploaded records could be searched by more than 2,000 agencies, including out-of-state users."
+    },
+    {
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/?utm_source=tldrinfosec",
+      "title": "Our framework for reporting model misalignment",
+      "summary": "OpenAI released a disclosure process and six incident reports. Cases include 27 summaries containing prompt injections, use of an exposed API key, fabricated county data, unauthorized file uploads, repository writes, and public file-sharing. Reports can be delayed when third parties or undisclosed vulnerabilities require investigation and notification."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/?utm_source=tldrinfosec",
+      "title": "Researchers used Claude to hack OpenAI",
+      "summary": "Hacktron AI researchers used Anthropic's security tool to exploit an OpenAI community-forum configuration flaw. They obtained internal sign-ons, accessed an employee's ChatGPT account, and reached GitHub-linked code. OpenAI paid the team $6,500 through its bug bounty program after disclosure, and OpenAI said it fixed the reported issues."
+    },
+    {
+      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html?utm_source=tldrinfosec",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "summary": "Attackers are actively exploiting a critical pre-auth RCE (CVE-2026-58138) in Orkes Conductor by escaping unsandboxed GraalVM evaluators to execute arbitrary OS commands, requiring an immediate upgrade to version 3.30.2."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/?utm_source=tldrinfosec",
+      "title": "Zero-click RCE vulnerability hit four major AI coding agents, two remain unpatched",
+      "summary": "Plugin4Shell bypasses SHA pinning in Claude Code, Codex, GitHub Copilot, and Gemini CLI plugins."
+    },
+    {
+      "url": "https://therecord.media/international-meteor-organization-cyberattack?utm_source=tldrinfosec",
+      "title": "International Meteor Organization says cyberattack dealt ‘critical blow' to website",
+      "summary": "A cyberattack took much of the International Meteor Organization's aging web infrastructure offline."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-08-12",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/spacexai-unveils-grok-bot-to-work-like-a-team-of-ai-agents?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjUxNDY4OSwiZXhwIjoxNzg3MTE5NDg5LCJhcnRpY2xlSWQiOiJUSks0RVpUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.6KeWdyBAMxNwBVL5_raTXhaTvTFoDOI__drrs5yRJLU&utm_source=tldrnewsletter",
+      "title": "SpaceXAI Unveils Grok Bot to Work Like a Team of AI Agents",
+      "summary": "SpaceXAI's Grok Bot is designed to act like a team of AI agents capable of handling a wide range of professional work. The agent can sign into various apps and websites, retain information from prior tasks, and share details and context with other agents. SpaceXAI has been using the product internally across its engineering, growth, and marketing teams. It has helped its sales team find new accounts and draft emails and aided its finance team by pulling receipts from emails."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/?utm_source=tldrnewsletter",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "summary": "Gemini has reached 1 billion monthly active users (MAU). It is the fastest Google product to have managed that feat. Gemini is now in virtually every Google product and service and is core to Google's flagship search experience. The 1 billion MAU metric only refers to users who have opened the Gemini app or visited the Gemini web interface."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html?unlocked_article_code=1.41A.Jn5D.uMN3qB1ku73k&smid=url-share&utm_source=tldrnewsletter",
+      "title": "AI Is Finding Sperm Where Doctors Couldn't",
+      "summary": "Scientists from Columbia have created a system that uses AI to locate difficult-to-find sperm. Men with extraordinarily low sperm counts often still have several hidden sperm present. Analyzing samples under a microscope with the human eye often misses these individual sperm cells. The Sperm Tracking and Recovery system may bring hope to the 10% of infertile men affected by azoospermia."
+    },
+    {
+      "url": "https://liftoffasia.com/posts/vikram-india-private-rocket/?utm_source=tldrnewsletter",
+      "title": "India's first private rocket reached orbit — from a company that existed before the law did",
+      "summary": "Skyroot's Vikram-1 became the first privately built Indian rocket to reach orbit on July 18. It reached success on the first attempt and delivered a payload to about 450 km. India has no space statute, and its entire private space industry runs on executive policy. Skyroot is targeting roughly one rocket launch a month from 2027."
+    },
+    {
+      "url": "https://vercel.com/blog/everything-hackable-will-get-hacked?utm_source=tldrnewsletter",
+      "title": "Everything hackable will get hacked",
+      "summary": "AI models have become much more capable of performing cybersecurity work over the past year. Defenders have an advantage right now because they can use stronger models, but the gap between open-weight models and closed models will soon close. Everyone can start improving their defensive posture with currently available frontier models. Continuously improving how you find and fix vulnerabilities should be a top priority, and the practice should continue as models improve."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/optiver?utm_source=tldrnewsletter",
+      "title": "Software engineering at a proprietary trading company: Optiver",
+      "summary": "Trading companies build bespoke hardware stacks and have larger platform engineering teams than most workplaces. For software engineers, it's a lucrative niche in terms of compensation, full-stack work, and engineering challenges. Software engineers tend to know little about trading companies. This post covers in depth how engineering works in a modern trading business."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html?unlocked_article_code=1.41A.60Pc.HSJcWvW3aO1r&smid=url-share&utm_source=tldrnewsletter",
+      "title": "His Start-Up's Goal: AI That Is Trainable and Not Controlled by a Big Company",
+      "summary": "Igor Babuschkin, who founded xAI with Elon Musk, left a year ago to build a new startup, River AI. The startup wants to create a new type of home computer that allows people to own and use AI without oversight from anyone else, including River AI. It plans to share its AI technologies as open source software. Babuschkin envisions future AI systems as trained to benefit individuals rather than centralized and controlled by one big corporation."
+    },
+    {
+      "url": "https://www.architecturaldigest.com/story/elon-musks-new-texas-factory-will-be-the-largest-building-on-earth-if-all-goes-according-to-plan?utm_source=tldrnewsletter",
+      "title": "Elon Musk's New Texas Factory Will Be the Largest Building on Earth, If All Goes According to Plan",
+      "summary": "Elon Musk's Terafab in Grimes County, Texas, is slated to top 100 million square feet. The factory will function as a joint supply chain for SpaceX and Tesla. It will combine logic, memory, and advanced packaging under one roof. Construction is projected to cost $16.8 billion. Eight tax incentive applications have been filed on behalf of the project, asking for tax breaks so the project has a more favorable after-tax return."
+    },
+    {
+      "url": "https://ngrok.com/blog/compression-is-prediction?utm_source=tldrnewsletter",
+      "title": "Compression is prediction",
+      "summary": "In compression, entropy measures how small we can shrink things, but in language modeling, it's used to make models better at prediction."
+    },
+    {
+      "url": "https://sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/?utm_source=tldrnewsletter",
+      "title": "Scaling an Agentic Coding SDK: What Concurrency Actually Costs",
+      "summary": "Agent concurrency is a large number of partially trusted computers operating at once."
+    },
+    {
+      "url": "https://lethain.com/decisions-not-dates/?utm_source=tldrnewsletter",
+      "title": "Roadmap decisions rather than dates",
+      "summary": "Some timeline tradeoffs are constrained by approvals, cross-team and cross-functional handoffs, or missing decisions, but almost none should be constrained purely on time."
+    },
+    {
+      "url": "https://excamera.substack.com/p/make-everything-look-like-a-software?utm_source=tldrnewsletter",
+      "title": "Make everything look like a software project",
+      "summary": "There's now a strong incentive to make every project look like a software project."
+    },
+    {
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here?utm_source=tldrnewsletter",
+      "title": "Modular 26.5: Mojo 1.0 is here!",
+      "summary": "Mojo has grown into a general-purpose language with a vibrant developer community."
+    },
+    {
+      "url": "https://stratechery.com/2026/nvidias-risky-business/?utm_source=tldrnewsletter",
+      "title": "Nvidia's Risky Business",
+      "summary": "Nvidia's ability to compete through novel funding mechanisms draws on things like insurance floats and pension funds and other long-run liabilities, which means the risk is considerably higher."
+    }
+  ]
+}

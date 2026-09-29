@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-08-25",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus?utm_source=tldrcrypto",
+      "title": "Crypto holds big weekly rally as Warsh's Jackson Hole debut comes into focus",
+      "summary": "Bitcoin held above $77,000 after a 21% weekly gain, with XRP posting a 46% advance over the same period, as crypto markets diverged from Asian equities where Samsung and Alibaba led regional index declines. The rally was catalyzed by US Treasury liquidity interventions and an SEC crypto regulatory proposal introduced the prior week. Traders are watching Federal Reserve Chair Kevin Warsh's debut at the Jackson Hole economic symposium for rate signals that could shift risk-asset positioning."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573?utm_source=tldrcrypto",
+      "title": "Circle's growth cycle can continue without the Clarity Act",
+      "summary": "Bernstein reiterated Outperform and a $140 price target (59% upside from Friday's $87.98 close) after USDC supply added $1.7 billion in a week following nearly six months of sideways decline. Analysts argue Circle's growth is independent of Clarity Act passage, driven instead by a macro regime shift favoring stablecoins, tokenization, and stablecoin payment adoption. Circle holds ~80% of DEX trading/finance volume, and its Agent Stack (launched May) now hosts 900+ paid services with 99% of x402 agent-payment volume settling in USDC."
+    },
+    {
+      "url": "https://thedefiant.io/converge/blockchains/circle-targets-sept-16-for-arc-public-mainnet-launch?utm_source=tldrcrypto",
+      "title": "Circle Targets Sept. 16 for Arc Public Mainnet Launch",
+      "summary": "Circle has set September 16 as the public mainnet launch for Arc, a permissioned proof-of-authority blockchain where block production stays restricted to authorized validators even as the network opens to public users and developers. The founding validator cohort consists of Circle and 11 institutions including BlackRock, DTCC, Mastercard, Standard Chartered, and Visa, with documentation indicating around 20 validators total at launch. Arc's public testnet recorded 671.5 million transactions across close to 3 million wallets, and over 100 partners have activated on private mainnet, with Uniswap committing to day-one deployment. The chain settles transaction fees in USDC and maintains EVM compatibility, anchoring it within Circle's stablecoin infrastructure and the broader Ethereum application ecosystem."
+    },
+    {
+      "url": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557?utm_source=tldrcrypto",
+      "title": "Gemini to provide crypto prediction markets venue for Apex brokerage",
+      "summary": "Gemini and Apex Fintech Solutions signed a letter of intent making Gemini Titan the exclusive regulated venue for crypto event contracts distributed through Apex's brokerage clients, with potential expansion into sports, economics, and financial-market contracts. Gemini's Q2 2026 results show 225 million+ event contracts traded on Titan across 27,000+ cumulative traders, still dwarfed by Kalshi and Polymarket's tens of billions in monthly volume."
+    },
+    {
+      "url": "https://x.com/BitcoinJesusETH/status/2091272786572345702?utm_source=tldrcrypto",
+      "title": "Wartime Ethereum - Blitzkrieg",
+      "summary": "Bitcoin's potential close above $74,200 on August 23 would mark the largest weekly dollar gain in its history, with the 4-hour RSI hitting an all-time high. Paul Tudor Jones raised his IBIT position 18.9% to 688,529 shares ($22.9M) as of June 30, Citigroup announced plans to launch Bitcoin custody services before year-end, and VanEck's leadership directed staff to accumulate rather than wait for lower prices. Jeff Park's July 8 call for an AI-to-crypto rotation has since drawn named institutional capital into the trade, with Stanley Druckenmiller rotating out of memory stocks into former Bitcoin miners. Ethereum outperforming Bitcoin in this environment points to the early stages of a broader altcoin rotation."
+    },
+    {
+      "url": "https://x.com/nic_carter/status/2091197072145777042?utm_source=tldrcrypto",
+      "title": "A Second and Final Eulogy for Bitcoin Maximalism",
+      "summary": "There is a structural parallel between Bitcoin maximalism and 19th-century Millerism: both movements sustain failed predictions through unfalsifiable contingencies (\"not yet,\" \"too early\") rather than updating their core beliefs after disproof. Bitcoin trades at all-time highs with broad institutional custody and government recognition, but circulates as a regulated store-of-value asset rather than the sovereign payment system maximalists predicted, with Lightning Network failing to achieve mass adoption. The ideology's core contradiction is that Bitcoin's success vindicates a store-of-value thesis maximalists explicitly rejected, while the institutional custody and government recognition they condemned are the developments that drove price appreciation. The ideological death is now irreversible as key proponents age out or abandon the anti-custodian, hyperbitcoinization framework that defined the movement."
+    },
+    {
+      "url": "https://x.com/ethplantbaseeth/status/2091608767179710794?utm_source=tldrcrypto",
+      "title": "Bull case for Aerodrome (AERO) riding tokenized-stock growth",
+      "summary": "Coinbase's expected launch of tokenized stocks on Base this week will drive volume to Aerodrome, Base's dominant DEX (52% share vs. Uniswap's 26%). Tokenized-equity spot DEX volume grew from $115M in July 2025 to $6B in July 2026 (50x YoY, now 11% of spot DEX volume) but remains under 0.04% of total US equity trading volume. Tokenized equities could reach $8.3 trillion by 2030 (3.5% of global equities), and in a bull case, Aero captures up to 40% of EVM DEX volume."
+    },
+    {
+      "url": "https://x.com/jonah_b/status/2090497443787952455?utm_source=tldrcrypto",
+      "title": "You Were Lied to About Stablecoins",
+      "summary": "The bull case for stablecoins in cross-border payments overlooks that fintechs already solved the cross-currency problem. Wise and peers hold pre-funded currency pools in local markets, netting offsetting flows without moving money across borders, cutting costs from the ~15% of SWIFT-based correspondent banking to under 1% with near-instant settlement. Stablecoins' real edge is narrower: dollar-to-dollar transfers, unbanked recipients without fintech access, 24/7 settlement, and crypto-native workflows. The \"stablecoins will revolutionize remittances\" narrative conflates the legacy correspondent banking problem with the current fintech-disrupted state."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2091821604649029860.html?utm_source=tldrcrypto",
+      "title": "EtherFi's ETH-backed credit line replacing a credit card",
+      "summary": "EtherFi lets users post weETH/eETH as collateral to borrow and spend via Visa card without selling their ETH, keeping the position earning staking/restaking yield while repaying the loan and earning cashback on spend."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-08-24-strategy-mstr-strc-bitcoin-usd-reserve-412570?utm_source=tldrcrypto",
+      "title": "Strategy sells $2 billion in MSTR shares, makes no bitcoin purchases",
+      "summary": "Strategy sold 18.26 million MSTR shares for ~$2 billion last week without buying or selling bitcoin, using proceeds to fund STRC preferred stock repurchases ($136.4M), grow its USD reserve to $5.1 billion (+$300M), and seed a new $1.59 billion \"USD Cash\" liquidity pool for future flexible deployment."
+    },
+    {
+      "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=tldrcrypto",
+      "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
+      "summary": "Operation Asterix is a phishing campaign that compiled a database of 885,000 phone numbers across Germany, Hong Kong, Bulgaria, the UK, US, and Canada."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2091836616130052522.html?utm_source=tldrcrypto",
+      "title": "Why Wall Street can't agree on Circle's valuation",
+      "summary": "Circle's revenue model (yield on turnover plus stablecoin circulation velocity) doesn't fit the standard interbank-fee framework analysts use, leaving the market genuinely undecided on how to value it rather than mispricing it."
+    }
+  ]
+}

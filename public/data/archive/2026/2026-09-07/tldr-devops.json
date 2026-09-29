@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-09-07",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://opentofu.org/blog/plans-for-linting/?utm_source=tldrdevops",
+      "title": "A Vision for Built-in Linting",
+      "summary": "OpenTofu is developing built-in linting that unifies pre-plan static checks and post-plan policy enforcement, allowing rules to be evaluated repeatedly as more information becomes available during validation, planning, and application. OpenTofu v1.13 introduces experimental built-in rules, with future plans for custom plugins, reusable rulesets, and broader policy support."
+    },
+    {
+      "url": "https://clickhouse.com/blog/pipelined-sql-26.8?utm_source=tldrdevops",
+      "title": "Pipelined SQL in ClickHouse 26.8",
+      "summary": "ClickHouse 26.8 adds pipelined SQL with a new |> operator that lets queries be written as an explicit sequence of transformations instead of relying on nested subqueries or CTEs. Each stage passes its result to the next, making multi-step filtering, aggregation, sorting, and limiting easier to read and compose."
+    },
+    {
+      "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/?utm_source=tldrdevops",
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak Models",
+      "summary": "Cloudflare is launching early access to a service called Vulnerability Discovery and Remediation, which scans customer codebases for security flaws and proposes patches and firewall rules to fix them. The service uses OpenAI's GPT-5.6 Cyber model for reconnaissance, hunting, and validation, with model prompts routed through Cloudflare AI Gateway to OpenAI's servers. Cloudflare combines those findings with production traffic data and Web Application Firewall activity to help teams prioritize which vulnerabilities are actually exposed and under active attack. Access is invitation-only through Cloudflare's Managed Defense team, and customers must approve any proposed changes before they are deployed."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/?utm_source=tldrdevops",
+      "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+      "summary": "Centralized identity gateways solve the limitations of SSO in federated AI and data platforms by making one service responsible for session creation, validation, refresh, and logout while regional gateways enforce local access policies. The pattern reduces duplicated authentication flows and upstream IdP load while enabling consistent identity propagation and delegated user authorization across Kubernetes clusters, data tools, and AI assistants."
+    },
+    {
+      "url": "https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai?utm_source=tldrdevops",
+      "title": "Improving infrastructure efficiency for growing demand in the age of AI",
+      "summary": "Dropbox treats compute, storage, networking, power, cooling, rack density, and capacity planning as one interconnected optimization problem rather than independent infrastructure layers. The approach focuses on extracting more usable capacity from existing data centers through workload placement, fleet optimization, denser hardware, and lifecycle planning before expanding the physical footprint."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/?utm_source=tldrdevops",
+      "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+      "summary": "ZGateway is a proxy tier that sits between clients and ZippyDB, Meta's most widely used key-value store. The system handles more than 1 billion operations per second and carries about 40% of ZippyDB traffic, adding roughly 6% computational overhead. The core problem it solves is connection sprawl: under direct access, a million-plus client hosts each maintained tens of thousands of TLS connections to database hosts, creating a many-to-many mesh that caused file-descriptor exhaustion and reboot loops during reconnection storms. By routing all traffic through a controlled proxy fleet, Meta reduced total persistent connections by roughly 19x and made fan-in independent of client population size."
+    },
+    {
+      "url": "https://github.com/cathrynlavery/diagram-design?utm_source=tldrdevops",
+      "title": "Diagram Design (GitHub Repo)",
+      "summary": "Diagram Design is a Claude Code skill that generates editorial-quality diagrams as self-contained HTML and SVG files. The skill works with Claude Code, Codex, Factory Droid, Pi, and Agent Skills-compatible hosts, and can also redraw existing draw.io or Mermaid diagrams in the same design system. Each diagram ships in three static variants (minimal light, minimal dark, and full-editorial) with no build step, no JavaScript dependencies, and no external images."
+    },
+    {
+      "url": "https://github.com/alienplatform/alien?utm_source=tldrdevops",
+      "title": "Alien (GitHub Repo)",
+      "summary": "Alien is an open-source platform for deploying and operating software inside customer-owned AWS, GCP, and Azure environments while retaining centralized control over releases, monitoring, and lifecycle management. It supports push- and pull-based deployment models, automatic updates and rollbacks, remote commands without inbound networking, cross-cloud resource abstractions, and least-privilege IAM derived from an application's declared infrastructure."
+    },
+    {
+      "url": "https://www.yugabyte.com/introducing-yugabytedb-resource-governance/?utm_source=tldrdevops",
+      "title": "Introducing YugabyteDB Resource Governance",
+      "summary": "YugabyteDB Resource Governance adds CPU controls for multi-tenant database clusters so a runaway query or traffic spike in one database does not starve other workloads sharing the same infrastructure. The system combines per-database CPU limits with fair sharing of unused capacity, allowing denser consolidation while maintaining workload isolation and predictable performance."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/?utm_source=tldrdevops",
+      "title": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
+      "summary": "AWS DevOps Agent, Kiro CLI, and LaunchDarkly form an autonomous experimentation loop that turns business goals into feature-flagged code changes, measured A/B tests, guarded rollouts, and iterative improvements. The system reduces planning and measurement overhead while using automated release reviews, runtime rollback, and recorded outcomes to safely optimize toward defined metrics."
+    },
+    {
+      "url": "https://www.fastly.com/blog/building-for-the-model-hardware-standard?utm_source=tldrdevops",
+      "title": "Building for the Model Hardware Standard",
+      "summary": "Anthropic's Model Hardware Standard (MHS) extends MCP-style agent interoperability from software into physical devices, creating new safety challenges where unreliable or repeated commands can cause real-world damage."
+    },
+    {
+      "url": "https://www.docker.com/blog/what-is-yolo-mode/?utm_source=tldrdevops",
+      "title": "YOLO Mode: Agent Autonomy Without the Guardrails",
+      "summary": "YOLO mode lets AI coding agents execute actions without approval prompts, improving productivity but increasing security risks when agents run directly on a host with access to files, credentials, and networks."
+    }
+  ]
+}

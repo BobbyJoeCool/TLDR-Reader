@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-07",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/legal/litigation/china-launches-cybersecurity-review-into-palo-alto-networks-products-2026-08-06/?utm_source=tldrit",
+      "title": "China launches cybersecurity review into Palo Alto Networks products",
+      "summary": "China's cyberspace regulator launched a cybersecurity review of Palo Alto Networks products, citing potential risks to critical infrastructure and national security without identifying specific products or vulnerabilities. The move follows growing Chinese restrictions on foreign cybersecurity suppliers and echoes its earlier review that ultimately restricted Micron products."
+    },
+    {
+      "url": "https://9to5google.com/2026/08/04/google-assistant-september-2026-shutdown/?utm_source=tldrit",
+      "title": "Google Assistant shutting down on Android and Wear OS in September",
+      "summary": "Google says it will begin shutting down Google Assistant on mobile devices on September 4, moving users to Gemini instead. The transition may take several weeks and will also affect smartwatches, headphones, and cars using Android Auto, while users who already switched to Gemini will see no change."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4206287/natjack-exploits-put-nat-security-assumptions-to-the-test-at-black-hat.html?utm_source=tldrit",
+      "title": "NatJack at Black Hat: A new way to crack NAT's trust gap",
+      "summary": "NatJack is a class of attacks that manipulates NAT connection-tracking tables to hijack connections, poison DNS responses, or trigger denial of service. Testing covered 32 products and configurations across 13 vendors, with every implementation vulnerable to at least some of the techniques tested."
+    },
+    {
+      "url": "https://dataopsleadership.substack.com/p/elt-is-moving-back-to-best-of-breed?utm_source=tldrit",
+      "title": "ELT is moving back to best-of-breed and Orchestration is the missing piece",
+      "summary": "Data teams are moving away from all-in-one platforms toward a smaller best-of-breed architecture centered on data movement, storage and compute, and a control plane. Enterprise orchestration, observability, metadata, incident management, and agent runtime are the missing pieces needed to coordinate increasingly complex ELT pipelines and reduce the operational burden of tracking failures and data freshness."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4206073/aws-targets-ai-cost-concerns-with-new-marketplace-insights-tool.html?utm_source=tldrit",
+      "title": "AWS targets AI cost concerns with new Marketplace Insights tool",
+      "summary": "AWS Marketplace AI Insights explain complex product pricing in plain language, including how costs scale, how multiple usage dimensions combine, and what is included. The feature could help enterprises compare consumption-based AI tools and forecast costs before purchasing, although its accuracy depends on the pricing information vendors publish."
+    },
+    {
+      "url": "https://claude.com/blog/claude-enterprise-inference-hooks?utm_source=tldrit",
+      "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "summary": "Anthropic's inference hooks for Claude Enterprise route prompts and tool-call responses through a customer-controlled data loss prevention server before Claude can process them. The beta works across Claude surfaces, including chat, Claude Code, Cowork, and connected tools, and supports a single organization-wide configuration with staged enforcement options."
+    },
+    {
+      "url": "https://blog.cloudflare.com/the-agent-access-model/?utm_source=tldrit",
+      "title": "The Agent Access Model",
+      "summary": "Cloudflare's Agent Access Model (AAM) is a security framework that treats each agent task execution graph as untrusted and authorizes every action against the agent, task, and accumulated resource state. Agent controls should use short-lived, sender-constrained credentials and inline enforcement in the harness and network, while a one-way Trust Ratchet can remove capabilities when protected events occur."
+    },
+    {
+      "url": "https://www.ciodive.com/news/mavvrik-AI-cost-overruns-CIO/827130/?utm_source=tldrit",
+      "title": "Surprise AI costs threaten enterprise implementations",
+      "summary": "Unexpected AI expenses have caused one-quarter of enterprises to delay or cancel projects, while nearly half have escalated spending surprises to their boards, according to a survey of 396 organizations. Costs are becoming harder to track as AI spending spreads across models, infrastructure, developer tools, data platforms, and agentic workflows, pushing CIOs to build cost controls directly into their AI architecture."
+    },
+    {
+      "url": "https://semiengineering.com/as-space-gets-connected-security-gets-critical/?utm_source=tldrit",
+      "title": "As Space Gets Connected, Security Gets Critical",
+      "summary": "As lunar and deep-space missions move toward interconnected networks, communications systems must support high-volume data while resisting eavesdropping, jamming, ransomware, and nation-state attacks. NASA's planned LunaNet may use Delay/Disruption Tolerant Networking, 4G/5G radio links, and optical inter-satellite links, alongside hardware roots of trust, secure boot, post-quantum cryptography, and updateable space-qualified systems."
+    },
+    {
+      "url": "https://gbhackers.com/critical-cisco-sd-wan-flaws-expose-systems/?utm_source=tldrit",
+      "title": "Critical Cisco SD-WAN Flaws Expose Systems to Access Control Bypass Attacks",
+      "summary": "Cisco released security updates for Catalyst SD-WAN Software to address several vulnerabilities, including three rated CVSS 9.9 that may enable access-control bypass, privilege escalation, or sensitive-data exposure."
+    },
+    {
+      "url": "https://www.theregister.com/systems/2026/08/06/hpe-extends-validity-of-quoted-hardware-prices-possibly-for-months/5283817?utm_source=tldrit",
+      "title": "HPE extends validity of quoted hardware prices, possibly for months",
+      "summary": "HPE will honor hardware pricing from quote issuance until equipment leaves its factories, easing pricing uncertainty caused by volatile server, memory, and storage component costs."
+    }
+  ]
+}

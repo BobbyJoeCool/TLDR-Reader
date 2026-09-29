@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-11",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/?utm_source=tldrit",
+      "title": "Anthropic alignment lead says AI has &gt;10% chance of killing humanity",
+      "summary": "Anthropic Alignment Science Lead Evan Hubinger said he personally believes there is a greater than 10% chance AI could “kill all humans” within the next decade. He added that Anthropic still does not have a clear solution for aligning superintelligent AI, following another researcher's resignation over the pace of development."
+    },
+    {
+      "url": "https://www.businessinsider.com/oracle-q1-2027-earnings-maintains-capex-forecast-reports-cloud-growth-2026-9?utm_source=tldrit",
+      "title": "Oracle's cloud infrastructure revenue jumps 121%",
+      "summary": "Oracle's cloud infrastructure revenue grew 121% year over year as demand for AI compute continued to surge. The company spent $28.5 billion on capital expenditures during the quarter and maintained plans for $90–95 billion in spending this fiscal year"
+    },
+    {
+      "url": "https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428?utm_source=tldrit",
+      "title": "Microsoft goes after Salesforce and ERP users with AI-powered converter",
+      "summary": "Microsoft has launched a public preview of Dynamics 365 Activate, an AI-powered tool to help partners and customers migrate from Salesforce to Dynamics 365 with less manual effort and lower risk. The company says the tool profiles data, relationships, and customizations to create a migration blueprint, and plans additional CRM and ERP migration scenarios later this year."
+    },
+    {
+      "url": "https://www.resilientcyber.io/p/the-left-in-shift-left-moved?utm_source=tldrit",
+      "title": "The “Left” in Shift-Left Moved",
+      "summary": "AI has shifted left from code repositories to coding agents on developer endpoints with broad privileges, where AppSec has limited control. AI-driven discovery is also flooding defenders with vulnerabilities. The better approach is to eliminate entire vulnerability classes rather than fix tickets one by one, while rethinking human-in-the-loop oversight when agents can both write and remediate code."
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano?utm_source=tldrit",
+      "title": "OpenAI board member warns industry isn't ready for loss-of-control risks",
+      "summary": "OpenAI nonprofit board member Paul Christiano says the industry is not currently on track to prevent a potentially catastrophic loss of control over advanced AI. His warning adds to growing concern around how quickly increasingly autonomous systems are being developed."
+    },
+    {
+      "url": "https://workspace.google.com/blog/product-announcements/less-switching-more-flow-5-new-agentic-capabilities-across-google-workspace-apps?utm_source=tldrit",
+      "title": "Boost productivity with 5 new agentic AI capabilities",
+      "summary": "Google is rolling out five new agentic Gemini capabilities across Workspace that complete cross-app tasks in the background without switching tabs. Gemini can create Slides from Chat, build Sheets from Drive, draft and send emails from Docs, turn Gmail threads into structured Docs briefs, and convert Docs into branded decks. The features are rolling out now to Business, Enterprise, Google AI Pro and Ultra, and education plans."
+    },
+    {
+      "url": "https://newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group?utm_source=tldrit",
+      "title": "Accenture and Google Cloud Deepen Partnership with Formation of New Accenture Gemini Enterprise Business Group",
+      "summary": "Accenture and Google Cloud launched a new Gemini Enterprise group, including a 1,000-person FDE workforce, to scale agentic AI adoption. The group will help enterprises move from AI pilots to production with industry-specific solutions and implementation support. YouTube saw 11% higher customer sentiment and 37% lower handle time using Gemini Enterprise."
+    },
+    {
+      "url": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?utm_source=tldrit",
+      "title": "Big Law starts building its own AI infrastructure",
+      "summary": "Latham & Watkins has bought Nvidia GPU servers and is running customized open-weight models on infrastructure it controls. The move shows large enterprises exploring private AI stacks for greater control over sensitive data, costs, and model choice."
+    },
+    {
+      "url": "https://mistral.ai/news/legacy-code-modernization/?utm_source=tldrit",
+      "title": "Modernizing complex legacy code with AI agents",
+      "summary": "Mistral says it helped a European energy operator migrate 40,000 lines of Fortran 77 reservoir-simulator code to C++ using supervised AI-agent workflows. The team built a numerical parity harness first, documented the codebase with over a hundred agents, and found that structured workflows with human review gates beat full autonomy. The first sprint covered core functionality of a 300,000-line system."
+    },
+    {
+      "url": "https://www.cerbos.dev/blog/keycloak-vs-ory?utm_source=tldrit",
+      "title": "Keycloak vs Ory",
+      "summary": "The article compares Keycloak's all-in-one identity server with Ory's modular, headless services, arguing the choice hinges on who owns the login experience and operational load."
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains?utm_source=tldrit",
+      "title": "Nvidia and Palantir bring AI to critical supply chains",
+      "summary": "Nvidia is combining Nemotron models with Palantir's platform to automate supply-chain decisions while keeping proprietary enterprise data under tighter control."
+    }
+  ]
+}

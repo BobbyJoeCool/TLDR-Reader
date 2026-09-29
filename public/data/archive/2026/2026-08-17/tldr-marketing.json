@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-08-17",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wsj.com/cmo-today/a-new-class-of-cuddly-mascots-is-selling-everything-from-ai-to-tap-water-4d0c17a5?utm_source=tldrmarketing",
+      "title": "A New Class of Cuddly Mascots is Seeing Everything from AI to Tap Water",
+      "summary": "Brands are bringing back mascots as a way to build recognizable identities in a crowded media landscape. Crocs is launching Niles, a 6-foot crocodile, joining Liberty Mutual's Liberty Biberty and Stanley Black & Decker's talking toolbox Stan. The appeal is consistency and emotional association. Unlike celebrities, mascots can become long-term brand assets that reinforce the same personality across campaigns and markets."
+    },
+    {
+      "url": "https://apnews.com/article/retail-clothing-stores-repair-services-mending-1286ac58324815adf0766e639d7421dc?utm_source=tldrmarketing",
+      "title": "From Uniqlo to Zara, clothing brands try to win over Gen Z with a needle and thread",
+      "summary": "Clothing brands are turning repairs and sewing into customer experiences as Gen Z embraces secondhand shopping and saving money. Levi's is expanding its repair services and teaching sewing skills, while Uniqlo offers repairs and customization, and Zara offers alterations and resale. The programs give brands new ways to stay connected with customers after the initial purchase."
+    },
+    {
+      "url": "https://emaillove.com/we-sent-someone-three-lifecycle-emails-at-once?utm_source=tldrmarketing",
+      "title": "Your Subscribers Are Your Best Lifecycle QA Team",
+      "summary": "Email Love discovered a lifecycle bug when a subscriber replied that three different emails had arrived at once. Each automation looked fine in the dashboard, but the combined experience was broken. Treat subscriber replies as a QA channel, not just customer service noise. Replies can surface automation collisions and purchase objections that dashboards miss. Asking specific questions, like why someone has not purchased, can also turn replies into a source of customer insight."
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494495690979430402/?utm_source=tldrmarketing",
+      "title": "From keywords to landing pages: The Claude Loop",
+      "summary": "This Claude Loop is a 7-step workflow for turning paid-search demand into landing pages at scale. Claude handles keyword analysis, intent clustering, gap identification, and briefing. Claude Design takes the brief into the build, followed by several rounds of cleanup and QA. The final step covers CMS setup, forms, tracking, integrations, and go-live. In this case, two people produced 20 landing pages in one week."
+    },
+    {
+      "url": "https://startupgtm.substack.com/p/dynamic-workflows-for-gtm-six-patterns?utm_source=tldrmarketing",
+      "title": "Dynamic Workflows for GTM: 6 patterns that replace manual pipeline work",
+      "summary": "This guide lays out 6 patterns for turning manual GTM work into dynamic workflows, from sorting and researching large lists to generating and verifying content. It also covers 4 rules for improving output quality and 7 mental models for designing better workflows."
+    },
+    {
+      "url": "https://www.kieranflanagan.io/p/how-i-built-my-marketing-intelligence?utm_source=tldrmarketing",
+      "title": "How I Built my Marketing Intelligence Layer",
+      "summary": "This guide shows how to turn scattered marketing experience into a reusable AI context layer using a Claude Code skill. The skill processes files from a source folder, extracts transferable learnings, organizes them by topic, removes confidential company information, and turns them into a portable HTML knowledge base. It also includes the HTML template, setup instructions, Google Drive integration, and guidance for continuously updating the layer with new experience."
+    },
+    {
+      "url": "https://read.first1000.co/p/the-moat-paradox?utm_source=tldrmarketing",
+      "title": "The moat paradox",
+      "summary": "Companies often avoid the hard problems that could make their businesses more defensible. Difficult, uncertain problems tied directly to customer value are the best early indicator of a moat. However, that uncertainty pushes teams toward smaller tasks that provide faster feedback, even when they don't create a lasting competitive advantage. Traditional moats like scale and switching costs only emerge later."
+    },
+    {
+      "url": "https://www.wsj.com/cmo-today/as-ai-rewrites-search-for-marketers-reddit-fights-to-stay-the-same-ca490ca2?utm_source=tldrmarketing",
+      "title": "As AI Rewrites Search for Marketers, Reddit Fights to Stay the Same",
+      "summary": "Reddit is becoming an AI-search battleground as brands look to influence the conversations that AI models cite. However, Reddit users and moderators are pushing back against overt brand activity. Brilliant Earth's attempt to hire a Reddit strategy manager sparked a warning from r/jewelry moderators about potential promotional content. Brands can't treat Reddit like another distribution channel and expect to manufacture positive sentiment."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?utm_source=tldrmarketing",
+      "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot. Click here to learn more!"
+    },
+    {
+      "url": "https://www.elenaverna.com/p/report-what-people-really-think-about?utm_source=tldrmarketing",
+      "title": "What people *really* think about IC work",
+      "summary": "71% of people want at least half their time spent on IC work, while 66% cite lack of influence as the biggest downside. Former managers who moved into IC roles are particularly satisfied, with 75%+ saying they wouldn't trade roles with anyone else in their organization."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/ad-fraud-expert-on-scams-bots-spoofs?utm_source=tldrmarketing",
+      "title": "Ad Fraud Expert on Scams, Bots, Spoofs",
+      "summary": "Treat ad fraud as an ongoing verification process."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop?utm_source=tldrmarketing",
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "summary": "Instagram's new logo's odd lettering makes it look like AI-generated text."
+    },
+    {
+      "url": "https://conversion-rate-experts.com/how-old-spice-made-itself-new-copywriting-friday/?utm_source=tldrmarketing",
+      "title": "How Old Spice made itself new",
+      "summary": "Old Spice targeted women after finding they made 60% of men's body wash purchases."
+    }
+  ]
+}

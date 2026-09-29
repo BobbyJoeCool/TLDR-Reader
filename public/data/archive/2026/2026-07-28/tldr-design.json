@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-07-28",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/?utm_source=tldrdesign",
+      "title": "Midjourney Acquired the Astrology App Co-Star",
+      "summary": "Midjourney, an AI lab known for its image and video generators, has acquired social astrology app Co-Star, with deal terms undisclosed. Co-Star, which has roughly 4.3 million monthly active users, helps people generate and share astrological birth charts and uses both AI and humans for horoscopes and compatibility readings. Co-Star's two dozen employees have joined Midjourney, whose growing consumer lineup already includes medical and spa ventures alongside its Discord-based image tools."
+    },
+    {
+      "url": "https://www.digitaltrends.com/wearables/apples-smartwatches-will-look-the-same-for-at-least-another-year-or-two/?utm_source=tldrdesign",
+      "title": "Apple's smartwatches will look the same for at least another year, or two",
+      "summary": "Apple is reportedly preparing the Apple Watch Series 12 and Ultra 4 for this fall, but neither is expected to receive a significant design overhaul. The biggest improvements will instead focus on a long-awaited chip upgrade and more advanced health and fitness tracking, while major features like blood-sugar detection remain years away. Apple Watch has settled into a conservative cycle of incremental refinement, even as Apple takes bigger design and technology risks with products like smart glasses and camera-equipped AirPods."
+    },
+    {
+      "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start?utm_source=tldrdesign",
+      "title": "Black Forest Labs Launches FLUX 3 Capable of Generating Images and 20-second Video with Audio",
+      "summary": "Black Forest Labs unveiled FLUX 3, its first public video generation model. Early access requires approval, and the company has not yet disclosed pricing, service-level commitments, or full benchmark methodology. The video tier generates up to 20-second clips with native audio and multi-shot continuity. A related model, FLUX-mimic, extends the same architecture toward robotic manipulation tasks."
+    },
+    {
+      "url": "https://medium.com/@Jason-Han/the-architecture-of-guilt-how-duolingo-weaponized-negative-emotion-to-build-a-design-system-a1ea491e7813?utm_source=tldrdesign",
+      "title": "The Architecture of Guilt: How Duolingo Weaponized Negative Emotion to Build a Design System",
+      "summary": "Duolingo drives retention by using loss aversion, streaks, guilt, and an emotionally responsive mascot to make maintaining progress feel more compelling than earning traditional rewards like points or badges. Its system also anticipates inevitable failure with mechanisms like Streak Freeze, helping users recover without abandoning the habit entirely. These techniques demonstrate the power of behavioral design while raising an important ethical boundary: persuasion supports goals users genuinely value, while coercion manufactures anxiety primarily to improve engagement metrics."
+    },
+    {
+      "url": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?utm_source=tldrdesign",
+      "title": "Your website is boring (but that might just set it free)",
+      "summary": "Years of optimizing websites for conversion, accessibility, SEO, and templates have made the web increasingly homogeneous. AI agents now threaten to reduce brands even further into interchangeable, machine-readable commodities. The future could instead become a bifurcated web: a “Silent Web” of structured data optimized for machines alongside an “Experiential Web” designed around distinctive, memorable, human-centered brand experiences. AI can help enable that shift when treated as a creative partner for storytelling and interaction rather than simply another tool for automation and efficiency."
+    },
+    {
+      "url": "https://tubikstudio.com/blog/minimalism-is-dead/?utm_source=tldrdesign",
+      "title": "Minimalism is Dead. Welcome to the Afterparty",
+      "summary": "Design's decade-long minimalist era is ending, giving way to a new phase that reintroduces depth, texture, and personality. Minimalism served as a necessary discipline that taught designers structure and hierarchy, but by the late 2010s it had curdled into sterile, forgettable sameness exemplified by trends like Corporate Memphis. Emerging styles such as neumorphism, referential skeuomorphism, and brutalist web design now build whimsy and emotional richness on top of that structural foundation rather than rejecting it."
+    },
+    {
+      "url": "https://uisfx.com/?utm_source=tldrdesign",
+      "title": "UI Sound Design, Ready to Ship (Website)",
+      "summary": "A tiny, complete library of interface sound effects for web apps, mobile apps, SaaS, education, media, and games."
+    },
+    {
+      "url": "https://www.minimalhumans.com/scriptyard/?utm_source=tldrdesign",
+      "title": "Spatial Story-planning Tool (Website)",
+      "summary": "Arrange cards and backdrops on an infinite canvas to map your characters, locations, scenes, and structure, then export to Markdown, Fountain, or Final Draft to start writing."
+    },
+    {
+      "url": "https://canvasui.dev/?utm_source=tldrdesign",
+      "title": "Creative Components (Website)",
+      "summary": "An open source library of tasteful HTML-in-canvas & WebGL components. Framework agnostic. Copy, paste, and ship."
+    },
+    {
+      "url": "https://www.loop11.com/the-6-laws-of-psychology-for-good-ux-design/?utm_source=tldrdesign",
+      "title": "The Six Laws of Psychology for Good UX Design",
+      "summary": "Six cognitive-psychology principles—covering decision time, target size, familiar patterns, contrast, memorable endings, and visual polish—shape whether users complete tasks smoothly. Applying laws like Hick's, Fitts', Jakob's, the Von Restorff effect, the Peak-End rule, and the Aesthetic-Usability effect reduces support tickets, speeds task completion, and boosts conversions. Designers should map interfaces against each law, test early with prototypes, and re-test after changes to confirm improvements."
+    },
+    {
+      "url": "https://www.philmorton.co/a-side-project-is-the-fastest-way-to-upskill-in-the-age-of-ai/?utm_source=tldrdesign",
+      "title": "A Side Project is the Fastest Way to Upskill in the Age of AI",
+      "summary": "Side projects have become the fastest route to upskilling in the AI era, now that cost, coding, and time barriers have largely disappeared. Rather than relying on no-code tools like Lovable, working closer to \"the metal\" with Claude Code, Codex, or Cursor is recommended, learning through iterative back-and-forth instead of full automation. One app, Pegs Out, built in two weeks, serves as a concrete example of how accessible this process now is."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/logos-icons/honors-new-logo-is-all-about-pushing-past-perfection?utm_source=tldrdesign",
+      "title": "Honor's new logo is all about pushing past perfection",
+      "summary": "Honor has unveiled a bold new logo and “Dare to Be” tagline, reflecting its push to challenge convention and become a more distinctive force in tech."
+    },
+    {
+      "url": "https://indieground.net/blog/tv-series-logo-fonts-the-typography-behind-30-iconic-shows/?utm_source=tldrdesign",
+      "title": "TV Series Logo Fonts: The Typography Behind 30 Iconic Shows",
+      "summary": "Design references keep circling back to the same 30 TV logos."
+    },
+    {
+      "url": "https://www.creativeboom.com/tips/the-creativity-tax-why-the-boldest-ideas-rarely-make-it-out-of-the-room/?utm_source=tldrdesign",
+      "title": "The Creativity Tax: Why the Boldest Ideas Rarely Make it Out of the Room",
+      "summary": "Bold ideas often get filtered out of creative studios, not from lack of imagination, but because speaking up feels risky unless status protects the speaker."
+    }
+  ]
+}

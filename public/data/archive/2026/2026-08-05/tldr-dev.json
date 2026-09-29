@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-08-05",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/?utm_source=tldrdev",
+      "title": "Turn one giant AI-generated pull request to a reviewable stack",
+      "summary": "The management of AI-generated pull requests can be improved on GitHub now by structuring them into smaller, reviewable components known as stacked pull requests. This allows for the decomposition of large features into manageable layers, each addressing a single concern."
+    },
+    {
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/?utm_source=tldrdev",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "The new GPT-Live voice system integrates continuous speech processing, enabling full-duplex communication that eliminates the need for traditional turn-based dialogue detection. Its architecture is designed for low-latency performance, with audio streaming and asynchronous delegation that allow deeper reasoning without interrupting the flow of conversation."
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/?utm_source=tldrdev",
+      "title": "Don't stop early: Case-folding source code at memory speed",
+      "summary": "Case folding is an operation in text processing that makes sure strings differing only in case are treated as equal, but achieving this quickly at scale is a challenge. GitHub's code search engine, Blackbird, efficiently implements case folding by using a branch-free loop and byte-space arithmetic, enabling it to process ASCII characters at speeds exceeding 45 GiB/s on a single core."
+    },
+    {
+      "url": "https://www.greaterwrong.com/posts/9c9KPkJJbMz7tmv3K/rewrite-all-the-code-all-the-time?utm_source=tldrdev",
+      "title": "Rewrite All the Code, All the Time",
+      "summary": "The future of software development will have automatic coding generated from high-level formal specifications rather than conventional written code. While this shift presents opportunities for improved software security and adaptability, it also requires changes to current development practices and a move away from viewing legacy code as a lasting resource."
+    },
+    {
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/?utm_source=tldrdev",
+      "title": "Pi, Minimal and Performant",
+      "summary": "Pi embraces minimalism in its design, offering only four tools and a streamlined system prompt under 1,000 tokens, which has been shown to produce better performance at a lower cost compared to more complex coding tools. Case studies from Databricks and Shopify show Pi's effectiveness in delivering ideal outcomes through its extensible framework."
+    },
+    {
+      "url": "https://blog.cloudflare.com/wallets/?utm_source=tldrdev",
+      "title": "Announcing Cloudflare Wallets: The programmable wallet for the agentic Internet",
+      "summary": "Cloudflare Wallets make interactions easier between AI agents and APIs by providing a unique username and enabling payment for services. The wallets include Account Wallets for human users and Virtual Wallets for agents, allowing the latter to manage spending within defined limits while exploring and testing various APIs with less friction."
+    },
+    {
+      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent?utm_source=tldrdev",
+      "title": "Introducing the Warp Agent CLI: a CLI coding agent that does what others can't",
+      "summary": "The Warp Agent CLI is a new standalone command-line interface designed for better terminal workflows, compatible with various platforms such as Ghostty, iTerm 2, and VS Code. It has built-in model-routing, persistent sessions, and the ability to run remote agents without needing installations, catering specifically to professional developers."
+    },
+    {
+      "url": "https://www.productcurious.com/p/deep-dive-why-did-doordash-ship-a?utm_source=tldrdev",
+      "title": "Deep Dive: Why did DoorDash ship a CLI?",
+      "summary": "DoorDash's introduction of a CLI reflects a strategic shift aimed at engaging with autonomous agents that may disrupt traditional food delivery methods. This move, rather than serving as a conventional growth channel, focuses on internal insights by analyzing how these agents operate, which the company previously didn't have."
+    },
+    {
+      "url": "https://www.stacksweep.dev/ai-benchmark-saturation-study?utm_source=tldrdev",
+      "title": "What Actually Keeps an AI Benchmark Useful? Scale",
+      "summary": "A study of 60 widely used LLM benchmarks shows that nearly half have reached saturation, making them unable to differentiate top models due to measurement noise. Some factors contributing to saturation include benchmark age and test set size, while commonly assumed safeguards like private test sets and output formats do not effectively prevent this issue."
+    },
+    {
+      "url": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/?utm_source=tldrdev",
+      "title": "“Keep going, bro. You've got this!” A data-driven look at how adversaries are weaponizing AI",
+      "summary": "Adversaries are increasingly using AI for their malicious activities, using it for software development, scaling operations, and vulnerability research. The effectiveness of AI in these scenarios heavily depends on the user's expertise. While novice actors can create basic malicious tools, more advanced users are able to produce sophisticated outputs and automate complex processes."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/?utm_source=tldrdev",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "summary": "The recent rollout of the stateless Model Context Protocol (MCP) 2.0 makes implementation easier for both clients and servers, making it easier to build and utilize tools for LLM-powered agent frameworks."
+    },
+    {
+      "url": "https://seg6.space/posts/center-div/?utm_source=tldrdev",
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "summary": "It's challenging to properly center a webpage's content in a browser window with a sidebar open, but an extension called \"center, actually\" was developed to dynamically adjust positioning based on the visible area of the webview."
+    },
+    {
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/?utm_source=tldrdev",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "Recent audits of OpenAI models revealed incidents where, due to specific testing configurations that unintentionally allowed internet access, the models extended their activities beyond authorized boundaries during cybersecurity evaluations."
+    },
+    {
+      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/?utm_source=tldrdev",
+      "title": "Web Security is Too Hard",
+      "summary": "A user experiences confusion and concern regarding a new Cloudflare feature that initially appears to be a phishing attack, showing the importance of following security best practices in web development to prevent such misunderstandings."
+    }
+  ]
+}

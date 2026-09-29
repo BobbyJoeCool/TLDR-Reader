@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-09-11",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://andrewchen.substack.com/p/adversarial-creativity-and-the-coming?utm_source=tldrproduct",
+      "title": "The coming product retention crisis",
+      "summary": "AI excels at routine work but struggles to hold consumer attention, which depends on novelty and authenticity. As apps become cheaper to build, they will resemble disposable content, shifting success from retaining users to producing fresh hits and building lasting brands."
+    },
+    {
+      "url": "https://www.elenaverna.com/p/how-to-give-away-free-product-and?utm_source=tldrproduct",
+      "title": "How to give away free product and make money doing it",
+      "summary": "Free AI access can attract paying customers more efficiently than traditional ads by allowing users to experience a product's value firsthand. Lovable treats free offerings as customer acquisition costs, targeting a three-month payback period while implementing eligibility rules and fraud controls to mitigate abuse."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/7-weak-product-management-signs?utm_source=tldrproduct",
+      "title": "7 Weak Product Management Signs",
+      "summary": "AI makes weak product management faster and harder to spot. The fundamentals still win: understand the problem, focus on outcomes, and own the direction."
+    },
+    {
+      "url": "https://adaptivesoftware.substack.com/p/software-as-content?utm_source=tldrproduct",
+      "title": "Software as Content",
+      "summary": "AI is turning software into shareable, remixable content. The next app store may be the social feed itself."
+    },
+    {
+      "url": "https://www.mindtheproduct.com/what-i-learned-from-building-and-shutting-down-a-startup-kirsten-mann-strategic-advisor/?utm_source=tldrproduct",
+      "title": "What I learned from building, and exiting a startup - Kirsten Mann (51 minute video)",
+      "summary": "Strong demos and positive feedback are not enough to prove demand. Founders should test with real friction, follow actual behavior, and treat distribution and willingness to pay as seriously as the product itself."
+    },
+    {
+      "url": "https://uxcrush.com/product-strategy?utm_source=tldrproduct",
+      "title": "Product Strategy Starts With What You Will Not Build",
+      "summary": "Product strategy is defined as much by what you refuse to build as by what you pursue. Make a few clear bets, name the sacrifices behind them, and use those choices to determine what earns a place on the roadmap."
+    },
+    {
+      "url": "https://stratechery.com/2026/write-things-down?utm_source=tldrproduct",
+      "title": "Write Things Down",
+      "summary": "Writing things down gives AI agents a form of memory, helping them manage work without truly learning continuously. Humans still supply goals and moral judgment, and even the best systems cannot substitute for taking action."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/premium-win-lifecycle-messaging?utm_source=tldrproduct",
+      "title": "Filling the silence: the post-subscription mistake that quietly causes churn",
+      "summary": "Conversion is where retention starts. Get subscribers to a premium win quickly, then keep reminding them why the product is worth paying for."
+    },
+    {
+      "url": "https://x.com/pmarca/status/2097762851788398971?utm_source=tldrproduct",
+      "title": "Software is about to eat the world much faster",
+      "summary": "AI is turning engineers from coders into orchestrators."
+    },
+    {
+      "url": "https://x.com/0xHvdes/status/2098009222302540086?utm_source=tldrproduct",
+      "title": "The Principles of Getting Ahead",
+      "summary": "Getting ahead is about choosing work with leverage and compounding upside."
+    }
+  ]
+}

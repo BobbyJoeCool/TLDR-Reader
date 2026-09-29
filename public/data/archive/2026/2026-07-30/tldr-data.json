@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-07-30",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?utm_source=tldrdata",
+      "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+      "summary": "Airbnb evaluates GenAI by reviewing 100 prototype outputs to find real failure modes before creating automated evals. Its stack uses programmatic checks, calibrated LLM judges with agreement in the high 80% range against human reviewers. Agentic systems are assessed across tool calls, reasoning steps, and final outputs."
+    },
+    {
+      "url": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries?utm_source=tldrdata",
+      "title": "Indexing the Data Lake for Online Point Queries",
+      "summary": "Spotify built an external index mapping keys directly to file offsets and row numbers in unmodified Parquet files, replacing distributed SQL scan chains with parallel ranged reads for lookups across petabyte-scale data lakes. Complementary write-time optimizations (per-key page flushing, ZSTD frame resets, column interleaving, covering index entries) reduce both bytes read and round trips further, making the same files serve both batch analytics and interactive queries."
+    },
+    {
+      "url": "https://medium.com/pinterest-engineering/pinner-progression-better-use-case-representation-driving-weekly-active-user-growth-at-pinterest-bd2131ab238a?utm_source=tldrdata",
+      "title": "Pinner Progression: Better Use-Case Representation Driving Weekly Active User Growth at Pinterest",
+      "summary": "Pinterest replaced single-user embeddings with per-user agglomerative clusters over the last 500 engagements, with dynamic cluster count and lifecycle metadata tracking recency and frequency. It feeds retrieval, ranking, and blending layers, with lifecycle stages determining which utility signals get weighted during ranking. The retention benefit is nonlinear and accelerates sharply once users adopt enough distinct use cases."
+    },
+    {
+      "url": "https://www.atlassian.com/blog/how-we-build/scaling-streamhub-transitioning-from-kinesis-to-kafka-for-145-billion-daily-events?utm_source=tldrdata",
+      "title": "Scaling StreamHub: Transitioning from Kinesis to Kafka for 145 Billion Daily Events",
+      "summary": "Atlassian moved from Kinesis to Kafka on AWS MSK as traffic rose from 22 billion to 150 billion events a day. Tiered Storage cut costs, but incidents exposed broker, S3, control-plane, and disk limits. Quotas, sharding, spare capacity, backups, and failover were critical."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hmjRc6KJ-hw&utm_source=tldrdata",
+      "title": "Your AI Agent Doesn't Know Your Business | Context Layers Explained (31 minute video)",
+      "summary": "AI agents need a context layer that captures business definitions, exceptions, institutional knowledge, and rules. Without it, they will guess when interpreting company data. MotherDuck's upcoming Guides feature stores this context alongside the data and automatically surfaces it to agents, with database-level, personal and organisation-wide scoping, SQL support, and version control."
+    },
+    {
+      "url": "https://www.streamingdata.tech/p/the-new-wave-of-the-streaming-log-tech?utm_source=tldrdata",
+      "title": "The New Wave of the Streaming Log Technologies",
+      "summary": "New streaming platforms are dropping Kafka compatibility for different bets: Iggy uses Rust with TCP, QUIC, and HTTP; S2 uses HTTP and object storage for bottomless retention; and OpenData Log replaces partitions with key-based routing. Whether they complement or replace Kafka remains open."
+    },
+    {
+      "url": "https://www.langchain.com/blog/agent-data-stack?utm_source=tldrdata",
+      "title": "How LangChain Built an Agent-First Data Stack",
+      "summary": "LangChain rebuilt its stack for agent-native analysis, migrating fully off its previous BI tool in six weeks. Hex combines dbt definitions, semantic models, trusted datasets, guides, and LangSmith traces so agents generate reliable SQL while the data team controls modeling and governance."
+    },
+    {
+      "url": "https://artem.krylysov.com/blog/2026/07/23/how-mvcc-and-transactions-work-in-rocksdb/?utm_source=tldrdata",
+      "title": "How MVCC and Transactions Work in RocksDB",
+      "summary": "RocksDB tags keys with increasing sequence numbers, so readers snapshot a consistent view while writers append without blocking. Pessimistic transactions lock on write - optimistic ones check conflicts at commit using pre-hashed mutexes. TiDB and CockroachDB skip native transactions and build their own layers."
+    },
+    {
+      "url": "https://hackernoon.com/from-python-script-hell-to-a-modern-data-integration-framework?utm_source=tldrdata",
+      "title": "From Python Script Hell to a Modern Data Integration Framework",
+      "summary": "Apache SeaTunnel is presented as an alternative to fleets of hand-written ingestion scripts that duplicate connection handling, retries, checkpoints, idempotency, concurrency, and observability. Its Source-Transform-Sink model separates declarative pipeline definitions from execution and centralizes connector/runtime behavior."
+    },
+    {
+      "url": "https://dlthub.com/blog/composable-canonicals?utm_source=tldrdata",
+      "title": "Composable canonicals: from tribal data knowledge to versioned artifact",
+      "summary": "Composable canonicals encode domain knowledge in versioned models. Source layers define transformations and ontology, while business layers merge identities across systems. AI agents use stable concepts and identity rules, not simply more tables."
+    },
+    {
+      "url": "https://montecarlo.ai/blog-agent-observability-tool?utm_source=tldrdata",
+      "title": "The 2026 Guide to Agent Observability Tools",
+      "summary": "Agent observability has moved from nice-to-have to a production requirement: Monte Carlo cites 73% of enterprises refusing to ship agents without monitoring and alerting, and 53% expecting major redesigns after deployment. The guide separates tracing-first, eval-first, gateway, and platform approaches, but highlights a persistent blind spot: most tools observe the agent while missing upstream data freshness, lineage, and quality failures."
+    },
+    {
+      "url": "https://antirez.com/news/172?utm_source=tldrdata",
+      "title": "The Real AI Risk is Inside the Labs",
+      "summary": "Frontier AI labs are more likely to cause the first serious AI incident than open models, since closed systems are vulnerable to insider leaks. Current open models also lack the domain depth to pose immediate risk in fields like biology, and restricting access helps malicious actors more than defenders."
+    },
+    {
+      "url": "https://cockroachlabs.com/blog/database-consolidation-production-ai?utm_source=tldrdata",
+      "title": "How to Consolidate Your Database Stack for Production AI",
+      "summary": "CockroachDB argues for consolidating transactional data, ephemeral state, and embeddings under serializable SQL, row-level TTL, changefeeds, and distributed vector indexing."
+    },
+    {
+      "url": "https://singhajit.com/wide-column-stores-explained/?utm_source=tldrdata",
+      "title": "Wide Column Stores Explained: Cassandra, Bigtable, and ScyllaDB",
+      "summary": "A clear refresher on when wide-column stores fit firehose workloads and predictable single-partition reads, and why they fail for ad hoc SQL or joins."
+    }
+  ]
+}

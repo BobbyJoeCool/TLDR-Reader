@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-19",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor?utm_source=tldrfounders",
+      "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here's my honest take (27 minute video)",
+      "summary": "This video compares the new products xAI and Cursor have shipped recently. It covers what's worth your attention, what's overhyped, and what's worth spending time on. Grok Bot's multi-account connectors feature is making developers switch over to the service. Cursor Origin is an agent-native GitHub replacement, but it's still too early to completely switch over."
+    },
+    {
+      "url": "https://signalsbysimon.substack.com/p/arr-doesnt-mean-what-it-used-to-15?utm_source=tldrfounders",
+      "title": "ARR Doesn't Mean What It Used To",
+      "summary": "Five growth stage investors describe how AI era reporting bent the standard metrics, with ARR now often meaning annualized run rate, contracted ARR mixing signed bookings with unproven capacity, and NRR inflated by converting small pilots into contracts."
+    },
+    {
+      "url": "https://www.danhock.co/p/how-to-build-a-high-growth-os?utm_source=tldrfounders",
+      "title": "How to Build a High-Growth Operating System: 9 Lessons from 9 Years at Faire",
+      "summary": "Faire had a team of under 10 people just 9 years ago. Now, the team has grown by over 100x and operates in 34 countries, connecting hundreds of thousands of local retailers with 20 million products from independent brands. Even at the beginning, Faire's founders had remarkable clarity about what they would accomplish. This article shares lessons learned at the startup on how to build a fast-growing company."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/the-case-against-the-full-stack-builder?utm_source=tldrfounders",
+      "title": "The \"Full Stack Builder\" is a terrible idea",
+      "summary": "AI makes drafts faster, so the extra capacity can go into more passes at stronger ideas. As building gets cheaper, the advantage will move towards teams that can turn abundant creation into work finely tuned to the customer. Teams that know the customer and the system can pull at its assumptions, correct the details, and tighten the story, so that by the time work reaches stakeholders, it carries the judgment of the team. The instruments are already in everyone's hands - the hard part is deciding what deserves to be heard."
+    },
+    {
+      "url": "https://www.indiehackers.com/post/tech/building-a-2m-arr-product-after-his-8m-arr-product-failed-overnight-UZm68xNgjDZBHH7Mvc54?utm_source=tldrfounders",
+      "title": "Building a $2M ARR product after his $8M ARR product failed overnight",
+      "summary": "Checkout X replaced Shopify's checkout and grew to $8 million ARR. Then Shopify locked down checkout and the business died overnight. The same founder's second product, an AI sales agent for ecommerce called Zipchat, now does $167,000 a month across 700,000 conversations. The rebuild ran on different rules. He stayed lean until $50,000 MRR, absorbed roughly $20,000 a month in losses for almost a year, then took revenue-based financing instead of venture money. Against more than 100 lookalike Shopify apps, distribution runs on YouTube, SEO, partnerships, and over a million outbound emails a month."
+    },
+    {
+      "url": "https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens?utm_source=tldrfounders",
+      "title": "GLM-5.3 hits the API at 1.4/4.4 per million tokens",
+      "summary": "The API for GPM-5.3 is now available. Z.ai plans to make the model's weights openly available, but it has yet to set a release date. API pricing remains unchanged from GLM-5.2, so developers gain substantially stronger coding and long-horizon agent performance without paying more."
+    },
+    {
+      "url": "https://www.clay.com/blog/the-story-of-clay-workflows?utm_source=tldrfounders",
+      "title": "Inside Clay Workflows: The Story Behind Our New Building Primitive",
+      "summary": "Clay has launched Workflows in open beta for all customers on all plans. A workflow is a visual graph of connected steps. After being triggered, each record moves through the branches one at a time, and the results write back to Audiences, the data layer in Clay. This post discusses why Clay moved orchestration out of tables, the product its team almost built instead, and a demo of two real Workflows."
+    },
+    {
+      "url": "https://speedrun.substack.com/p/guillermo-rauch-what-will-you-do?utm_source=tldrfounders",
+      "title": "Guillermo Rauch: What will you do with unlimited IQ?",
+      "summary": "AI is like an inexhaustible IQ machine. Getting the same level of energy on demand from a senior or principal engineer is basically impossible. Now, that level of energy and intelligence is available on tap. Anyone can just get a gateway and pick any model in the world, and they basically have unlimited IQ."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/compete-with-claude?utm_source=tldrfounders",
+      "title": "Meet your biggest competitor (👋 Claude)",
+      "summary": "An audit of 50 top SaaS companies looked at how each one positions against the foundation models their own customers now ask about. 34 have shipped MCP servers or connectors, so the models route through their product instead of around it. Only 12 mention Claude anywhere on their own domain, and just 4 publish a build versus buy cost comparison for prospects tempted to roll their own. Zapier connects 9,000 apps over MCP, while Intercom hands enterprise buyers a 20-question checklist for evaluating AI agents against a raw model."
+    },
+    {
+      "url": "https://x.com/brettcalhounn/status/2089733975619088744?utm_source=tldrfounders",
+      "title": "The Four Ways to Find Your Co-Founder",
+      "summary": "Co-founder searches should combine matching platforms, trusted networks, VC referrals, and in-person communities while prioritizing exceptional, aligned people."
+    },
+    {
+      "url": "https://bramo.ai/blog/01-post-mortem?utm_source=tldrfounders",
+      "title": "My AI agents shipped 128 releases of a product no one ever used",
+      "summary": "A solo builder let AI agents run his product development for two years."
+    },
+    {
+      "url": "https://x.com/haridigresses/status/2089416486704025835?utm_source=tldrfounders",
+      "title": "The Least-Understood Company in Silicon Valley",
+      "summary": "AngelList is evolving from a fund-administration platform into private-market infrastructure spanning banking, trust, transaction execution, and broader investor access."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/ai-app-retention-study?utm_source=tldrfounders",
+      "title": "We studied 3,500+ AI-powered apps to see why some retain users better than others",
+      "summary": "AI-powered apps now make up 25% of subscription apps, generating 41% more revenue than others within the first year."
+    }
+  ]
+}

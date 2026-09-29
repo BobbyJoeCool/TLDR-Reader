@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-08",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://searchengineland.com/winners-losers-us-website-traffic-past-year-486843?utm_source=tldrmarketing",
+      "title": "The big winners and losers in US website traffic over the past year",
+      "summary": "Google and YouTube still dominate web traffic in the US, but AI is reshaping the landscape. ChatGPT traffic jumped 48.4% year over year to 1.09B monthly visits, while Bing fell 50.4%. Meanwhile, GA4 is losing visibility into AI-driven traffic, with “direct” traffic increasingly absorbing visits it can't attribute."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/?utm_source=tldrmarketing",
+      "title": "Streaming Is Raising Prices Faster Than Cable Ever Did",
+      "summary": "Streaming prices have risen 3X faster than inflation since 2022. The 8 major services now cost around $151/month without ads or bundles, up from $90 four years ago. As subscription fatigue grows, Gen Z's “streaming cycling” trend is gaining traction. Consumers subscribe to one service at a time, then cancel and switch to another."
+    },
+    {
+      "url": "https://www.marketingideas.com/p/she-paid-people-to-cancel-her-competitor?utm_source=tldrmarketing",
+      "title": "She paid people to cancel her competitor",
+      "summary": "Cursor turned a giveaway into a competitor-poaching tool by offering its $200/month plan free to customers who canceled a rival and proved it with a screenshot. Claiming meant DMing the employee running the offer from her personal account, creating a private channel for retention offers and switching feedback. A second run added a 24-hour deadline and converted even better. Customers also posted cancellation screenshots publicly, creating free marketing."
+    },
+    {
+      "url": "https://conversion-rate-experts.com/ads-dont-create-desire-they-borrow-it-copywriting-friday/?utm_source=tldrmarketing",
+      "title": "The best ads don't create desire, they borrow it",
+      "summary": "The best copy doesn't create desire. It taps into wants customers already have, then connects the product to those deeper motivations. Identify the emotional driver behind the purchase, name the obstacle standing in the way, and show the customer what success looks like through a vivid, specific scenario. Rather than simply stating a benefit, make readers experience it before they buy."
+    },
+    {
+      "url": "https://www.seroundtable.com/google-ads-automated-promotions-42006.html?utm_source=tldrmarketing",
+      "title": "New Google Ads Automated Promotions",
+      "summary": "Google Ads can now automatically extract active promotions from landing pages and attach them to eligible Search and Performance Max ads. The account-level feature can surface offers such as “20% off” or “buy one get one free” without advertisers manually uploading each promotion. It applies only to eligible campaigns using location assets that do not already have manual promotions."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/do-we-still-need-google-disavow?utm_source=tldrmarketing",
+      "title": "Do We Still Need Google Disavow?",
+      "summary": "Google's Disavow tool is now mainly a recovery tool for sites hit with a manual action for unnatural links. Most sites don't need it after Penguin shifted spammy backlinks toward page-level devaluation. SEO efforts are better spent on useful content, UX, and earning credible links. Treat disavow as a targeted response to a confirmed manual action, not routine backlink cleanup."
+    },
+    {
+      "url": "https://www.growth-memo.com/p/the-ai-hours-nobody-on-your-marketing?utm_source=tldrmarketing",
+      "title": "The AI hours nobody on your marketing team is counting",
+      "summary": "Every AI workflow becomes a small maintenance job once it ships. Models change, connected tools get updated, and new edge cases surface. The person who built it is often the only one who knows how to fix it, so the workflow can quickly revert to manual when they're unavailable. Teams rarely plan for this upkeep, leaving it to compete with slower, harder-to-measure work like building visibility and trust."
+    },
+    {
+      "url": "https://karandhir.substack.com/p/how-netflix-measures-the-marketing?utm_source=tldrmarketing",
+      "title": "How Netflix Measures the Marketing You Cannot A/B Test",
+      "summary": "Netflix uses geographic holdouts to measure channels that can't be A/B tested at the user level, including TV, OOH, and sponsorships. The approach measures incremental impact but requires careful decisions around test size, timing, media spillover, and carryover. Repeating tests builds stronger evidence, while campaigns without historical data require different methodologies. The challenge is getting leadership to protect test windows and accept the tradeoff between media delivery and measurement certainty."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/alexandra-prochshenko_were-hiring-so-my-friends-send-me-their-share-7501293919918288897-Y-Zs/?utm_source=tldrmarketing",
+      "title": "Marketing resume tips",
+      "summary": "8 tips to tailor your marketing resume to the job you want."
+    },
+    {
+      "url": "https://cafetechinenglish.substack.com/p/why-nvidia-is-buying-hugging-face?utm_source=tldrmarketing",
+      "title": "Why Nvidia is buying Hugging Face",
+      "summary": "Nvidia plans to acquire Hugging Face for $12.9B to strengthen the open-source AI ecosystem around its chips."
+    },
+    {
+      "url": "https://www.semrush.com/blog/ai-chatbots-talk-ai-users-out-of-buying/#consumers-turn-to-ai-en-masse-for-product-research?utm_source=tldrmarketing",
+      "title": "AI chatbots talked 57.5% of AI users out of buying",
+      "summary": "AI chatbots now influence purchases in both directions, persuading 57.5% of AI users to buy and 57.5% to walk away."
+    }
+  ]
+}

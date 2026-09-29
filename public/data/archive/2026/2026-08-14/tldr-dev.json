@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-08-14",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/?utm_source=tldrdev",
+      "title": "Choosing an AI model: one prompt, 11 models, very different results",
+      "summary": "A range of AI models, including DeepSeek, Qwen, and Kimi, were tested for generating web pages, showing large variations in performance and credit costs. The best-performing models for a static coffee shop website were DeepSeek V4 Flash, which consumed only 2.4 credits on average, and GPT 5.6 Sol in low effort mode, which averaged 141 credits. In contrast, higher-tier models like Claude Opus 5 showed a lot of credit usage with results that didn't necessarily justify their cost."
+    },
+    {
+      "url": "https://earendil.com/posts/compaction-in-pi/?utm_source=tldrdev",
+      "title": "How Compaction Works in Pi",
+      "summary": "Compaction in coding agents like Pi is a process used to summarize and manage the growing conversation history that can exceed the model's context window during log coding sessions. By creating a smaller representation of prior messages, compaction makes sure that the conversation can continue while preserving relevant information, preventing errors related to context overflow."
+    },
+    {
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck?utm_source=tldrdev",
+      "title": "Understanding is the new bottleneck",
+      "summary": "As AI agents increasingly take on coding tasks, humans still need to understand the code being generated to actively participate in the creative process for collaboration purposes. Effective techniques for improving this understanding include creating structured code explainers, utilizing interactive environments to intuitively grasp systems, and developing shared spaces for team discussions."
+    },
+    {
+      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/?utm_source=tldrdev",
+      "title": "Blog about things you don't understand yet",
+      "summary": "Blogging serves as a learning tool, where the author consistently gains new insights through the writing process. This approach not only enriches the author's understanding but also offers value to readers, as it forces clear communication and thoughtful engagement with complex topics."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=tldrdev",
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "The new Gemini 3.7 Flash model significantly enhances coding and development capabilities by improving accuracy and efficiency in software engineering and web development tasks while offering it at a reduced cost compared to its predecessor. This latest version also incorporates better safeguards, making it more robust for handling complex workflows in knowledge-intensive fields and enhancing the developer experience with improved adaptability and reduced manual oversight."
+    },
+    {
+      "url": "https://deepseek.com/harness/en/?utm_source=tldrdev",
+      "title": "DeepSeek Harness developer preview: Everything is a plugin (Website)",
+      "summary": "DeepSeek Harness is now in developer preview, allowing developers to create agent harnesses using a modular plugin system where every capability, such as models, tools, and scheduling, can be swapped or extended. The platform supports multiple runtime modes and ensures complete traceability of agent actions through session logs."
+    },
+    {
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/?utm_source=tldrdev",
+      "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
+      "summary": "LLMs such as Gemini 3 and GPT-5 often encounter factual errors not due to a lack of encoded knowledge, but because they struggle with recalling this stored information. By using a knowledge profiling framework, analysis shows that while encoding is nearly saturated in these models, recall is still a hard challenge."
+    },
+    {
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/?utm_source=tldrdev",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "summary": "The European Union AI Act, which takes effect in August, mandates that all AI-generated text be watermarked to make sure it can be identified as artificially generated. Despite proposed solutions like Google's SynthID and potential Unicode tricks from other providers, the methods for watermarking text can still be easily circumvented."
+    },
+    {
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai?utm_source=tldrdev",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI",
+      "summary": "Cerebras and OpenAI have introduced a new service tier, GPT-5.6 Sol Ultrafast, which increases AI processing speeds up to 750 output tokens per second without sacrificing quality. It is powered by Cerebras' Wafer-Scale Engine, which eliminates memory bandwidth bottlenecks by packing 44 GB of SRAM on-chip to keep model weights local. This allows organizations to use AI more effectively in critical scenarios, such as addressing production outages rapidly or responding to cyberattacks."
+    },
+    {
+      "url": "https://allaboutcoding.ghinda.com/one-week-of-coding-and-reviewing-with-llm-agents/?utm_source=tldrdev",
+      "title": "One Week of Building and Reviewing Code With LLM Agents",
+      "summary": "A week-long experiment using LLM agents for backend coding and review revealed insights into productivity, error detection, and the evolving role of human oversight in software development processes."
+    },
+    {
+      "url": "https://gruhn.me/blog/2026-08-13/?utm_source=tldrdev",
+      "title": "NP-overrated",
+      "summary": "Despite the common belief that NP-hard problems are practically unsolvable, advancements in algorithms and heuristics have demonstrated that efficient solutions can often be found for a majority of cases."
+    },
+    {
+      "url": "https://ordinaryabundance.com/?utm_source=tldrdev",
+      "title": "Ordinary Abundance",
+      "summary": "Modern conveniences and technologies that once inspired awe have become commonplace in daily life, reflecting humanity's relentless pursuit of progress and the legacy of past innovations."
+    },
+    {
+      "url": "https://www.geopolitechs.org/p/how-some-chinese-ai-practitioners?utm_source=tldrdev",
+      "title": "How (some) Chinese AI Practitioners View Model Distillation",
+      "summary": "Chinese AI practitioners are increasingly recognizing the controversial practice of model distillation, which involves using data from superior \"teacher\" models to improve the capabilities of smaller \"student\" models, as a technical strategy that is misunderstood and stigmatized."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-07-30",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business?utm_source=tldrfintech",
+      "title": "Fanatics buys regulated exchange to expand prediction markets business",
+      "summary": "Fanatics agreed to acquire BGC Group's federally regulated exchange and clearinghouse, giving it direct control over listing and settling prediction-market contracts. The deal strengthens Fanatics' ability to compete with Kalshi, Polymarket, Robinhood, and DraftKings by combining regulated market infrastructure with its large sports audience and existing presence across 23 states."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html?utm_source=tldrfintech",
+      "title": "Visa cuts 7% of workforce as AI reshapes operations",
+      "summary": "Visa plans to eliminate roughly 2,600 jobs, primarily across technology and product teams, as it streamlines operations and uses AI to change how work is performed. The company will redirect investment toward growth areas including cross-border payments, business payments, stablecoins, affluent customers, and international expansion."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110525/paypal-and-amazon-launch-bnpl-payments-for-customers-in-germany-and-austria?utm_source=tldrfintech",
+      "title": "PayPal and Amazon launch BNPL payments for customers in Germany and Austria",
+      "summary": "PayPal and Amazon today announced that starting in August, eligible Amazon customers in Germany and Austria will be able to use PayPal Ratenzahlung on Amazon.de1 and in the Amazon app over the coming weeks, giving shoppers more flexibility to pay over time for eligible purchases."
+    },
+    {
+      "url": "https://fintechtakes.com/articles/2026-07-29/the-primary-banking-agent/?utm_source=tldrfintech",
+      "title": "The Primary Banking Agent",
+      "summary": "Primary banking used to mean physical proximity, then digital convenience. Trust is the new axis, and AI is what's driving that shift. Consumers now hold ~3 accounts each and move money more often, opening room for an AI \"Primary Banking Agent\" (like ChatGPT) to orchestrate funds across institutions. AI labs won't want the regulatory/accountability burden of actually holding money, so the bet is that whoever offers both the account and the agent, transparently, wins."
+    },
+    {
+      "url": "https://hackernoon.com/what-fintech-founders-get-wrong-about-ai-native-development?utm_source=tldrfintech",
+      "title": "What fintech founders get wrong about “AI-native” development",
+      "summary": "Many fintech startups use “AI-native” as a marketing label even when AI is merely layered onto a conventional product or used to accelerate development. Truly AI-native products should fail the “removal test” if their AI layer is stripped out, while also embedding compliance, explainability, and auditability into the architecture from the start rather than treating them as later additions."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110532/moonpay-opens-paybox-for-ai-agent-transactions?utm_source=tldrfintech",
+      "title": "MoonPay opens PayBox for AI agent transactions",
+      "summary": "MoonPay, a global financial technology company that powers the movement of value across fiat and digital assets, has launched PayBox, the first payment vault built for AI that lets a person's AI agent transact on the open internet without leaving the conversation."
+    },
+    {
+      "url": "https://mashable.com/tech/elon-musk-x-launches-x-money?utm_source=tldrfintech",
+      "title": "X Money launches as Elon Musk advances his “everything app” vision",
+      "summary": "X Money is now available for Premium subscribers. The service combines peer-to-peer payments, direct deposit, bill pay, wire transfers, checks, and an FDIC-insured deposit account inside the social platform. It also includes a Visa debit card with up to 3% cash back and accounts offering up to 6% APY, bringing Musk closer to turning X into a full financial super app."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110516/ramp-enters-canada?utm_source=tldrfintech",
+      "title": "Ramp enters Canada",
+      "summary": "Ramp today announced its entry into the Canadian market, making its finance platform available to businesses in Canada. With Ramp, companies can manage spend across currencies in one place, including cards in CAD and USD, CAD bill payments and reimbursements, automated GST, HST, PST, and QST coding, and shared controls, approvals, and accounting workflows."
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere?utm_source=tldrfintech",
+      "title": "US Senate delays crypto Clarity Act as floor time runs short",
+      "summary": "The Senate has postponed consideration of the Clarity Act while it prioritizes federal nominations and a Russia sanctions bill, leaving the crypto market structure legislation with little time before the August recess. Lawmakers are still negotiating ethics restrictions on government officials' crypto activities, and further delays could push passage into September or the post-election lame duck session."
+    },
+    {
+      "url": "https://www.courthousenews.com/judge-blocks-minnesota-ban-on-prediction-markets/?utm_source=tldrfintech",
+      "title": "Judge blocks Minnesota ban on prediction markets",
+      "summary": "A federal judge temporarily blocked Minnesota's prediction-market ban, allowing Kalshi and Polymarket to keep operating while the court considers whether federal commodities law preempts state restrictions. The ruling favors federal oversight for qualifying event contracts, but the judge warned that some contracts may not legally count as swaps and could still face narrower state enforcement."
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/citadel-securities-sees-warsh-delivering-214213265.html?utm_source=tldrfintech",
+      "title": "Citadel Securities expects surprise Fed rate hike under Kevin Warsh",
+      "summary": "Citadel Securities expects the Federal Reserve to raise rates by 25 basis points this week, arguing that a surprise move would strengthen Chair Kevin Warsh's inflation-fighting credibility and signal an end to heavily telegraphed policy decisions. The firm believes persistent inflation risks, a stable labor market, and recent energy price increases could outweigh softer payroll and inflation data, even though markets currently assign only about a 40% probability to a July hike."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48168/stripe-vet-buys-a-bank-for-his-fintech?utm_source=tldrfintech",
+      "title": "Stripe vet buys a bank for his fintech",
+      "summary": "Increase, a banking infrastructure fintech founded by Stripe's first employee, has acquired its own community bank."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/rwitoff_some-news-ive-started-my-next-tour-of-duty-share-7487350216262701056-gkM4/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAA32rJkBCFg6qK7f7aa8EYzYJ9ha6bbpnfk",
+      "title": "Coinbase promotes Rob Witoff to CTO",
+      "summary": "Coinbase promoted Rob Witoff from head of platform to chief technology officer after nearly two years at the company."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/5-payments-podcasts-for-a-listen/825929/?utm_source=tldrfintech",
+      "title": "5 payments podcasts worth listening to",
+      "summary": "Five podcasts that cover payments innovation, regulation, fintech strategy, stablecoins, fraud, and industry leadership: Payments on Fire, Consumer Finance Monitor, Fintech Hustle, Cheeky Pint, and Leaders in Payments."
+    }
+  ]
+}

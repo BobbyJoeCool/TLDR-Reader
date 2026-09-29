@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-09-07",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai/?utm_source=tldrnewsletter",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "OpenAI believes that Artificial General Intelligence must be democratically governed for it to benefit all humanity. This can only happen through an informed public debate on the capabilities, risks, and safeguards of highly capable AI systems. The company has released details of its progress towards Recursive Self-Improvement (RSI) in recent months. It plans to continue to be transparent about its progress with RSI and believes that other companies should be required to publicly track their progress as well."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&utm_source=tldrnewsletter",
+      "title": "Tim Cook's CEO-Like Pay Package Shows He Isn't Going Anywhere",
+      "summary": "Tim Cook remains a powerful center of gravity at Apple. He will play an especially crucial role in certain areas, such as the company's dealings with the US and China, and its handling of the memory shortage. Cook will get a base salary of $2 million, twice the typical base salary of senior vice presidents and members of the C-suite. He will also receive cash bonuses and stock units that vest over time. The salary clearly shows that Cook's role will be very active."
+    },
+    {
+      "url": "https://contraptions.venkateshrao.com/p/the-curiously-playable-universe?utm_source=tldrnewsletter",
+      "title": "The Curiously Playable Universe",
+      "summary": "A domain becomes playable when enough of its complexity can be compressed into a state where there is some reasonably stable repertoire of actions, interactions can be repeated, outcomes provide feedback about better and worse play, and the environment is stationary enough that lessons learned yesterday remain useful tomorrow. None of these conditions need to be perfect, as playability is a matter of degree. Far more of reality than we have previously expected can be turned into a game. Once something can be turned into a game, then it's possible to create a system that can beat it."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/?utm_source=tldrnewsletter",
+      "title": "Travis Kalanick's Atoms might be getting into the robotaxi business",
+      "summary": "Atoms, founded by Uber founder Travis Kalanick, is reportedly preparing for a hiring and acquisition spree. The company is also in discussions with Uber about how Uber can use Atoms' robotaxi technology. Uber has invested $100 million in Atoms. Kalanick has been cagey about his plans for the startup, but the recent moves could make it a major player in the autonomous vehicle industry."
+    },
+    {
+      "url": "https://ngrislain.github.io/blog/2026-9-6-terraform-in-lean-4-if-it-compiles-it-will-likely-deploy/?utm_source=tldrnewsletter",
+      "title": "Terraform in Lean 4: If It Compiles, It Will Likely Deploy",
+      "summary": "infra is an infrastructure-as-code tool that does what Terraform does. Users declare what resources they want, and infra looks at what their cloud accounts actually contain and reconciles the difference. This post details how its developer created the tool in two weekends in Lean 4, the problems it solves, and how the developer solved these problems."
+    },
+    {
+      "url": "https://jacob.gold/posts/i-trust-my-coding-agents-with-production-secrets-now/?utm_source=tldrnewsletter",
+      "title": "I trust my coding agents with production secrets now",
+      "summary": "Security is always a productivity-risk tradeoff. Not giving access to agents can slow things down significantly. Frontier models are getting better and better at distinguishing real from malicious instructions in the content they read. We may end up trusting agents with access more than humans as models improve."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://henryaj.substack.com/p/the-loop-closes?utm_source=tldrnewsletter",
+      "title": "The loop closes",
+      "summary": "AI models are now capable of taking a request from Slack and then building a feature from end-to-end, with humans just having to click 'merge' or 'deploy' at the end. There's not really much left for humans to do. Humans are still better at absorbing, parsing, and sharing context with each other. However, once that can be automated, the loop will finally be closed, and there will be nothing left to do but to pay the bill."
+    },
+    {
+      "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/?utm_source=tldrnewsletter",
+      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+      "summary": "OpenAI's president and co-founder, Greg Brockman, dropped out of college in 2010 to join Stripe. He eventually rose to become the company's CTO. He left in 2015 and co-founded OpenAI, where he served as CTO, and after a few years, he is now the company's president. This post features an interview with Brockman recorded before the announcement of Astra. It covers Brockman's background, the ChatGPT launch, OpenAI's place in the value chain, the company's commitment to alignment, the Hugging Face incident, and more."
+    },
+    {
+      "url": "https://smolnero.com/posts/between-the-graph-and-the-silicon-inside-the-apple-neural-engine-compiler?utm_source=tldrnewsletter",
+      "title": "Between the Graph and the Silicon: Inside the Apple Neural Engine Compiler",
+      "summary": "Apple publicly exposes the Apple Neural Engine through Core ML, while the compiler, program format, driver, firmware, and much of the machinery underneath it remains undocumented."
+    },
+    {
+      "url": "https://oruk.ai/research/we-taught-a-fruit-fly-to-read-human-emotion?utm_source=tldrnewsletter",
+      "title": "We taught a fruit fly to hear human emotion",
+      "summary": "Researchers built a neural network from a map of a fly brain and then trained it to recognize emotion in human voices."
+    },
+    {
+      "url": "https://farzad.fm/fznews/can-teslas-cybercab-actually-kill-uber?utm_source=tldrnewsletter",
+      "title": "Can Tesla Cybercab Actually Kill Uber? Day-Two Pricing From Austin",
+      "summary": "Real-world tests show that the Cybercab has competitive pricing, but currently has a much longer wait time compared to competitors."
+    },
+    {
+      "url": "https://www.hadijaveed.me/2026/09/06/leaving-mac-after-12-years/?utm_source=tldrnewsletter",
+      "title": "I Left the Mac After 12 Years. Omarchy Made Computers Fun Again",
+      "summary": "Omarchy is an opinionated Linux distribution built for AI agents."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/?utm_source=tldrnewsletter",
+      "title": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
+      "summary": "The iPhone Ultra's production is slow due to how difficult the device is to build."
+    },
+    {
+      "url": "https://taekim.substack.com/p/gpt-6-astra-and-the-fourth-exponential?utm_source=tldrnewsletter",
+      "title": "GPT-6 Astra and the Fourth Exponential",
+      "summary": "Demand for AI semiconductors is likely to surge with agent computer tool use, just as it did with the chatbot, reasoning, and agentic coding demand waves."
+    }
+  ]
+}

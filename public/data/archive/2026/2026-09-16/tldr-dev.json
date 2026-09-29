@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-16",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://danluu.com/ai-coding?utm_source=tldrdev",
+      "title": "Agentic Test Processes, LLM Benchmarks, and Other Notes on Agentic Coding from Galapagos Island",
+      "summary": "AI coding agents can save enormous time while fabricating convincing evidence, so the surrounding verification process matters as much as model capability. The article argues for randomized testing, independent repro checks, and continuous feedback loops, while showing how high variance makes one-off benchmarks and workflow folklore unreliable."
+    },
+    {
+      "url": "https://airbnb.tech/ai-ml/beyond-the-model-engineering-ai-infra-with-scientific-judgement?utm_source=tldrdev",
+      "title": "Beyond the Model: Engineering AI Infra with Scientific Judgement",
+      "summary": "Airbnb's Insight Miner turns a repeatable scientific methodology for exploring unstructured text into infrastructure around an AI agent. It combines extraction, embeddings, clustering, prompt tuning, hard-example mining, and audit trails so investigations that once took months can run in days without sacrificing expert judgment."
+    },
+    {
+      "url": "https://www.forbrukerradet.no/short-life/?utm_source=tldrdev",
+      "title": "Let's Make Quality the Norm Again (Website)",
+      "summary": "The Norwegian Consumer Council argues that longer product lifespans, affordable repairs, available spare parts, and durable software support are necessary for a workable circular economy. Its proposals include longer complaint periods, lower taxes on repair and secondhand sales, stronger rental protections, and tighter rules on purchase pressure."
+    },
+    {
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html?utm_source=tldrdev",
+      "title": "Why I'm Still Bearish on LLMs After Navier-Stokes",
+      "summary": "Frontier models can produce great results on tightly specified tasks, but most knowledge work lacks cheap, rigorous verification. The argument is that human oversight and specification costs will keep LLMs closer to fast, capable interns than autonomous replacements, while cheaper open models may win many practical workloads."
+    },
+    {
+      "url": "https://workos.com/blog/define-ai-agent-intent?utm_source=tldrdev",
+      "title": "Who Gets to Define an AI Agent's Intent?",
+      "summary": "An agent's user should describe the task and intended effects, while identity, permissions, and organizational policy remain separate enforcement layers. Clear intent makes proposed actions easier to evaluate, but broader wording must never expand authority or bypass approval and data-handling rules."
+    },
+    {
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev?utm_source=tldrdev",
+      "title": "Introducing System One Models & Jev",
+      "summary": "Jev is a model that returns typed probabilistic decisions instead of generated strings for automation workloads. The company says its RLCD training and parallel sampler provide calibrated confidence, 70 to 500 millisecond responses, and substantially lower costs on tasks with predefined output spaces."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/?utm_source=tldrdev",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Google's two new live audio models split the tradeoff between low-latency conversation and deeper multistep reasoning. Extended Thinking can keep speaking while it reasons and runs asynchronous tools in the background, but clients must track interaction status rather than treating turn completion as the end of processing."
+    },
+    {
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover?utm_source=tldrdev",
+      "title": "We Wanted to Use Baseten for Inference. We Ended Up With Admin Access to Baseten GitHub Repos",
+      "summary": "An autonomous security scan found a public Harbor registry, then recovered a live GitHub token from a 2023 container image's build history. The token still had broad admin and write access, showing why teams must inspect image metadata as well as layers, use BuildKit secret mounts, expire credentials, and minimize scopes."
+    },
+    {
+      "url": "https://mnoukhov.github.io/posts/ngu/?utm_source=tldrdev",
+      "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up",
+      "summary": "Standard RL post-training disproportionately improves problems the base model already solves, a pattern the piece calls the Matthew Effect. Never Give Up counters it by continuing to sample hard examples, with experiments across math and code showing better gains on previously unsolved tasks while introducing tradeoffs around asynchronous staleness and compute."
+    },
+    {
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution?utm_source=tldrdev",
+      "title": "The AI Inference Revolution Is Here",
+      "summary": "Inference demand is shifting hardware design toward memory bandwidth, specialized decode chips, wafer-scale systems, stacked memory, and aggressive quantization. Prefill and decode favor different architectures. Future systems may combine several chip types rather than rely on one universal accelerator."
+    },
+    {
+      "url": "https://github.com/pizza-bot-app/pizza-bot?utm_source=tldrdev",
+      "title": "Pizza Bot (GitHub Repo)",
+      "summary": "Pizza Bot is a local-first inbox for long-running AI agents with durable runs, approval queues, scheduling, checkpointing, delegated specialists, and desktop, web, and terminal clients."
+    },
+    {
+      "url": "https://vale.rocks/micros/20260915-0135?utm_source=tldrdev",
+      "title": "CSS-Tricks in Limbo",
+      "summary": "CSS-Tricks is inactive again after DigitalOcean stopped communicating about its future, raising concern that another specialist web publication could disappear."
+    },
+    {
+      "url": "https://withcapsule.app/?utm_source=tldrdev",
+      "title": "Capsule (Website)",
+      "summary": "Capsule packages an app's interface, media, and local SQLite data into a portable file that runs offline across desktop platforms and can be generated or updated with AI tools."
+    },
+    {
+      "url": "https://github.com/ordewell/ordewell?utm_source=tldrdev",
+      "title": "Ordewell (GitHub Repo)",
+      "summary": "Ordewell turns a coding goal into an editable dependency-aware plan, assigns each task a runner and model, then executes and verifies completion using explicit evidence markers."
+    },
+    {
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/?utm_source=tldrdev",
+      "title": "How Much of F-Droid Is LLM Generated?",
+      "summary": "A manual review of 102 recently updated F-Droid apps classified 74 as largely AI-written."
+    }
+  ]
+}

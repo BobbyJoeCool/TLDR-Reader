@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-29",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.mckinsey.com/industries/retail/our-insights/convenience-or-discovery-which-mission-will-your-store-serve?utm_source=tldrmarketing",
+      "title": "Convenience or discovery: Which mission will your store serve?",
+      "summary": "AI is splitting physical retail into two distinct missions. Convenience stores should reduce friction with easy navigation and reactive service. Discovery stores should drive dwell time through immersive experiences and specialized associates. More than 90% of consumers prioritize locations that fit their daily routines, while 78% cite product testing and 76% cite product guidance as drivers of discovery visits."
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/workers-warming-up-ai-gen-z-remains-skeptical-linkedin-news-jukbc/?utm_source=tldrmarketing",
+      "title": "Workers are warming up to AI - but Gen Z remains skeptical",
+      "summary": "AI confidence is growing across the workforce, with 53% of US workers saying AI makes them more efficient. Gen Z remains more hesitant. Only 38% plan to build AI skills in the next 6 months, while 52% are nervous about AI's impact on their jobs. At the same time, AI literacy is becoming more valuable in the workplace. LinkedIn finds it is associated with stronger hiring and promotion outcomes for Gen Z."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/chris-long-marketing_60-second-seo-the-content-in-your-faqs-might-ugcPost-7510318926933860352-BdRQ/?utm_source=tldrmarketing",
+      "title": "Audit if your FAQ is discoverable by search engines and LLMs",
+      "summary": "FAQs can improve visibility in search and AI systems only if the content is present in the page source when it loads. Many FAQ components hide their text until a user clicks to expand them, which means search engines and LLMs may not access the content by default. Use Chrome DevTools to check whether FAQ text remains discoverable after a page reload."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/davidkonitzny_chatgpt-reads-your-youtube-description-not-share-7510237770435616768-sxNC/?utm_source=tldrmarketing",
+      "title": "ChatGPT reads your YouTube description, not your transcript",
+      "summary": "Treat YouTube descriptions like landing pages for AI search. ChatGPT can retrieve a video's title, metadata, and full description, but not its transcript. That makes the description a key source for understanding the video. Include relevant terms and clear context. Use structured sections and timecodes so ChatGPT can understand what the video covers and where specific topics appear."
+    },
+    {
+      "url": "https://marketingadvice.substack.com/p/there-is-no-aeo-algorithm-to-hack?utm_source=tldrmarketing",
+      "title": "There is no AEO algorithm to hack",
+      "summary": "AEO is not an SEO ranking game with factors to reverse engineer. AI visibility depends on whether a brand is clearly associated with a category and supported by credible evidence. Fix positioning gaps and answer real buyer questions. Build comparison content that helps buyers evaluate vendors. Strengthen third-party corroboration instead of manufacturing mentions. Then track commercial prompts and connect AI visibility to buyer conversations and pipeline, not just brand mentions."
+    },
+    {
+      "url": "https://joost.blog/broken-sitemaps/?utm_source=tldrmarketing",
+      "title": "Almost nobody gets XML sitemaps right",
+      "summary": "XML sitemaps tell search engines which URLs a site wants in search results. They should contain canonical, working URLs that the site wants indexed. Google attempts to crawl each URL as listed, so redirects, errors, noindex pages, or conflicting canonicals make the sitemap less useful and can waste crawl activity. Missing or repeated ‘lastmod' dates can be acceptable. Fields like ‘priority' and ‘changefreq' are ignored by Google."
+    },
+    {
+      "url": "https://www.petervijeh.com/projects/reddit-astroturf?utm_source=tldrmarketing",
+      "title": "Does Reddit have an astroturfing problem?",
+      "summary": "Reddit is often treated as a source of unbiased product advice. However, some buying recommendations are unusually concentrated among a small group of accounts. The top 5% of brand-heavy accounts produced 11.3% of knife recommendations, versus 7.9% expected by chance. For three brands, that share reached 20% to 31%. This could indicate astroturfing, where paid accounts create the appearance of organic recommendations, but their histories looked more like genuine fans."
+    },
+    {
+      "url": "https://shorts.growthx.club/p/jio-the-final-boss-of-saas-distribution?utm_source=tldrmarketing",
+      "title": "Dissecting why Canva is partnering with Jio",
+      "summary": "Canva is using Jio's 524.4M customers to tackle a freemium problem. Many casual users get enough value from Free to justify paying for Pro. Bundling Pro with Jio plans lets users experience premium features without making a separate purchase. The real test is what happens after the bundle ends. Canva needs to see whether users build habits around Pro and become willing to pay for it."
+    },
+    {
+      "url": "https://www.growth-memo.com/p/the-collapse-of-attribution?utm_source=tldrmarketing",
+      "title": "The usefulness of attribution for AI Search",
+      "summary": "AI is making click-based attribution less useful as discovery increasingly happens through AI answers that never generate a website visit. Treat attribution as one imperfect signal rather than a definitive measure of channel value. Triangulate exposure, behavioral, and business metrics such as AI Share of Voice and CRM data. Use incrementality testing where possible to measure causal impact, especially for activities that attribution cannot capture."
+    },
+    {
+      "url": "https://www.wendys.com/blog/wendysr-square-deal-blog/wendys-drops-emo-album-songs-listen-wendys-parking-lot?utm_source=tldrmarketing",
+      "title": "Wendy's Drops an Emo Album: “Songs to Listen to in a Wendy's Parking Lot”",
+      "summary": "Wendy's dropped a full emo EP for late-night food runs."
+    },
+    {
+      "url": "https://www.marketingideas.com/p/psst-are-you-still-that-person?utm_source=tldrmarketing",
+      "title": "The \"Are you still that person?\" trick",
+      "summary": "Use identity-based emails to re-engage churned customers and dead leads."
+    }
+  ]
+}

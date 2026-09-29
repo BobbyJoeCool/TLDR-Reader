@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-08-19",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/?utm_source=tldrhardware",
+      "title": "Etched Doubles Valuation Again to $21B, Jane Street Puts First Rack Into Production",
+      "summary": "Etched raised $700 million at a $21 billion valuation, led by Jane Street, just a month after closing a $10.3 billion round and eight months removed from a $5 billion valuation in December. The jump is backed by real deployment: Jane Street tested and bought Etched's hardware before investing, and has now put its first “frontier inference cluster” rack into production in its own data center. Etched's pitch centers on two custom-built components for AI inference, a low-voltage prefill chip and a new memory/interconnect design for the decode stage, and the company has walked back its original plan to etch specific models into silicon in favor of systems that run any frontier model."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning?utm_source=tldrhardware",
+      "title": "Google Reportedly Taps AMD to Design Next-Generation TPU",
+      "summary": "Google is reportedly collaborating with AMD to develop a 10th-generation TPU variant featuring on-package CPU cores and advanced 3D packaging. While Google maintains its long-standing partnership with Broadcom for conventional AI accelerators, this hybrid design is expected to leverage AMD's x86 CPU IP and SoIC packaging expertise to integrate general-purpose compute directly alongside TPU matrix engines. The architectural shift targets complex reinforcement learning, reasoning, and agentic workloads that demand low-latency execution and higher CPU-to-accelerator compute ratios than standard LLM pipelines."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia?utm_source=tldrhardware",
+      "title": "Cerebras Says Its New Computer Boosts AI Speed Advantage Over Nvidia",
+      "summary": "Cerebras Systems has announced its next-generation wafer-scale AI supercomputing system, claiming substantial speed and throughput advantages over Nvidia's flagship accelerators. Built around its massive single-wafer processor architecture, the new machine eliminates inter-chip interconnect bottlenecks to deliver ultra-low latency and higher tokens-per-second performance for large language models. The rollout sharpens competition in datacenter AI infrastructure as Cerebras pitches its specialized wafer-scale silicon as a higher-performance, power-efficient alternative to traditional multi-GPU clusters for frontier model training and real-time inference."
+    },
+    {
+      "url": "https://www.electronicsweekly.com/news/business/nvidia-books-tsmc-1-6nm-process-for-feynman-in-h2-2028-2026-08/?utm_source=tldrhardware",
+      "title": "Nvidia Plans to Use TSMC 1.6nm Process for Feynman in H2 2028",
+      "summary": "Nvidia has reserved advanced production capacity on TSMC's 1.6nm (A16) manufacturing node for its next-generation \"Feynman\" architecture, slated for production in the second half of 2028. Incorporating nanosheet transistors alongside backside power delivery networks, TSMC's A16 process offers substantial improvements in logic density, power efficiency, and signal routing. By securing early foundry capacity, Nvidia locked in its long-term hardware roadmap."
+    },
+    {
+      "url": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate/?utm_source=tldrhardware",
+      "title": "800VDC Pushes AI Power Design From Grid To Gate",
+      "summary": "This article details how AI datacenters are evaluating the transition to 800VDC architectures of power distribution. Moving away from current 48V distribution streamlines the conversion path from medium-voltage grid AC to sub-1V silicon, cutting conversion heat losses and reducing heavy copper cabling requirements. Realizing this grid-to-gate efficiency relies on silicon carbide (SiC) and gallium nitride (GaN) power semiconductors, solid-state transformers, and upgraded DC-rated switchgear to manage high-voltage safety and rapid load switching across AI clusters. While these technologies are rapidly maturing, it still may take years to change datacenter designs that form the bedrock of all computing stacks."
+    },
+    {
+      "url": "https://www.eetimes.com/fluid-side-observability-expands-ai-hardware-reliability/?utm_source=tldrhardware",
+      "title": "Fluid-Side Observability Expands AI Hardware Reliability",
+      "summary": "As liquid cooling becomes standard for high-power AI accelerators, heat now travels through a whole chain - cold plate, manifold, hoses, distribution unit, and facility heat rejection - rather than staying inside the server, meaning problems anywhere along that path can quietly eat into a chip's thermal margin before temperature alarms ever trigger. Component temperature alone only confirms a chip is currently within limits - it doesn't reveal how hard the control system is working to hold that temperature or how much margin is left, since pumps and valves are designed to compensate for developing issues invisibly."
+    },
+    {
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3363884/us-china-tech-war-coming-ais-plumbing?utm_source=tldrhardware",
+      "title": "The US-China Tech War Is Coming for AI's Plumbing",
+      "summary": "The reported FCC ban on Chinese optical transceivers shows that the US-China tech war is expanding past chips and into the smallest links of AI's physical plumbing. Washington's concern centers on data theft, service disruption, and long-term dependence, since these modules sit physically embedded throughout the network and could theoretically carry malware. A sudden ban risks backfiring, as US suppliers can't match Chinese scale, leading hyperscalers like Amazon and Microsoft to face real supply disruption if forced to substitute quickly."
+    },
+    {
+      "url": "https://www.investing.com/analysis/chinas-ai-hardware-boom-offers-an-escape-from-wall-streets-circular-trade-200685935?utm_source=tldrhardware",
+      "title": "China's AI Hardware Exports Offer a Way Out of Wall Street's Circular AI Trade",
+      "summary": "US AI investment has become dangerously circular. Suppliers are financing customers who spend that capital back on the suppliers' own hardware, making it hard to separate real end-user demand from financial engineering. China's push into overseas industrial AI hardware, robotics, data-center equipment, and automated production systems has a cleaner signal, since a robot shipped abroad and installed on a factory floor can be checked against customs data and production volumes rather than internal financing loops."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/groq-valued-at-3-5-billion-in-funding-round-after-nvidia-deal?utm_source=tldrhardware",
+      "title": "Groq Valued at $3.5 Billion in Funding Round After Nvidia Deal",
+      "summary": "AI chip startup Groq has reached a $3.5 billion valuation in a new funding round following its IP acquisition by Nvidia."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12?utm_source=tldrhardware",
+      "title": "Etched Is Scooping Up Nvidia Talent",
+      "summary": "Etched, a high-flying AI chip startup, is aggressively poaching senior hardware engineers and system architects directly from Nvidia."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/?utm_source=tldrhardware",
+      "title": "Self-Driving Trucks Are Officially Testing on California Highways",
+      "summary": "Autonomous trucking company Kodiak Robotics has officially commenced road testing on public California highways following state regulatory clearance."
+    },
+    {
+      "url": "https://www.lightreading.com/business-transformation/nokia-quits-r-d-in-china-and-cuts-1-600-jobs?utm_source=tldrhardware",
+      "title": "Nokia Quits R&D in China and Cuts 1,600 Jobs",
+      "summary": "Nokia is shutting down its research and development operations in China and cutting approximately 1,600 jobs as part of a broader corporate restructuring and cost-reduction program."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-17",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://surgehq.ai/learn/evaluations?utm_source=tldrdev",
+      "title": "Designing Evaluations That Actually Tell You Something",
+      "summary": "Useful evaluations begin with a decision and a representative set of real workflows, including rare high-risk, edge, and adversarial cases. This guide covers dataset structure, evaluator calibration, inter-rater agreement, failure severity, production-derived tests, and hidden holdouts that reduce overfitting to a fixed score."
+    },
+    {
+      "url": "https://nousresearch.com/refactoring-hermes-with-1393-agents?utm_source=tldrdev",
+      "title": "Refactoring Hermes with 1,393 agents",
+      "summary": "Hermes coordinated 1,393 subagents over about 19 active hours to refactor a million-line Python repository, cutting non-test source by 34.4% for roughly $19,300 in model costs. Worktrees and frozen baselines supported parallel integration, but community review still caught removed public APIs and changed exception handling that the tests missed."
+    },
+    {
+      "url": "https://posthog.com/blog/self-driving-loops?utm_source=tldrdev",
+      "title": "6-7 loops we use everyday to make PostHog self-driving",
+      "summary": "PostHog describes agent loops that turn MCP feedback, Slack reports, issue specs, anomaly alerts, session replays, and runtime logs into investigations and pull requests. The key is persistent validation: scouts deduplicate evidence, keep humans at review and merge gates, then return after deployment to confirm the fix actually held."
+    },
+    {
+      "url": "https://bharatsharma.pro/articles/activity-based-engineering-metrics-are-obsolete?utm_source=tldrdev",
+      "title": "AI Is Making Activity-Based Engineering Metrics Obsolete",
+      "summary": "AI-generated code makes lines of code, commit counts, and raw pull request volume even weaker proxies for engineering value. The proposed replacement keeps delivery outcomes and adds team-level diagnostics such as review queue time, 14-day rework, validation failures, remediation deployments, and rework per unit of AI spend, while keeping them out of individual performance reviews."
+    },
+    {
+      "url": "https://github.com/MakazhanAlpamys/Soup?utm_source=tldrdev",
+      "title": "Soup (GitHub Repo)",
+      "summary": "Soup wraps LLM fine-tuning and post-training in one YAML file and command, with support for common training methods, local and cloud backends, evaluation, export, serving, and a web UI. Its beta layer-streaming mode trained an 8B NF4 LoRA model in 3.32 GB of GPU memory, though the published laptop throughput predates a later correctness repair."
+    },
+    {
+      "url": "https://github.com/Q00/ouroboros?utm_source=tldrdev",
+      "title": "Ouroboros (GitHub Repo)",
+      "summary": "Ouroboros is a local-first Agent OS that turns vague coding requests into replayable, policy-bound workflows through an interview, immutable specification, execution ledger, staged evaluation, and budgeted evolution loop. Its MCP server and adapters support 14 agent runtimes, including Claude Code, Codex CLI, Gemini CLI, OpenCode, and Copilot."
+    },
+    {
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html?utm_source=tldrdev",
+      "title": "DeepSeek-V4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "summary": "This deep dive explains how DeepSeek-V4.1 Flash combines a causal encoder-decoder, cross-layer sparse attention and index reuse, hierarchical retrieval, Engram memory, and FP4 storage to shrink the KV cache to 890 bytes per token. The 40-layer design activates 8B parameters during prefill and 16B during decoding, targeting lower HBM, SSD, and compute costs for long-horizon agent workloads."
+    },
+    {
+      "url": "https://accomplish.ai/blog/escaping-the-openai-codex-sandbox-twice/?utm_source=tldrdev",
+      "title": "Escaping the OpenAI Codex sandbox, twice",
+      "summary": "Two disclosed Codex sandbox escapes crossed different trust boundaries: one widened patch write permissions, while another recovered a trusted token from a shared JavaScript heap to reach an unsandboxed parent process. Both were fixed within eight days, and the broader lesson is to keep enforcement and real credentials outside the environment being constrained."
+    },
+    {
+      "url": "https://www.vals.ai/blogs/cheating-on-the-rise?utm_source=tldrdev",
+      "title": "AI Cheating is on the Rise",
+      "summary": "Trajectory audits across BioMysteryBench, Terminal-Bench 2.1, and SWE-bench Verified show rising attempts to obtain prohibited answers, strengthening the case for independent evaluators and explicit anti-cheating checks."
+    },
+    {
+      "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/?utm_source=tldrdev",
+      "title": "Anecdotally, programmers dislike \"reduce\"",
+      "summary": "Code reviews often accept map and filter while flagging “reduce” as harder to read, possibly because it is less familiar, less constrained, or less ergonomic in common imperative languages."
+    },
+    {
+      "url": "https://lws.io/blog/if-your-tool-isnt-reachable-by-agents-it-doesnt-exist/?utm_source=tldrdev",
+      "title": "If Your Tool Isn't Reachable by Agents, It Doesn't Exist",
+      "summary": "As agents become the interface to software, skills and MCP servers can outperform dashboards as a distribution channel by making capabilities discoverable and callable inside the user's existing workflow."
+    },
+    {
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/?utm_source=tldrdev",
+      "title": "Small Programming Tricks",
+      "summary": "Small, reusable tricks such as fuzzy shell history, EXPLAIN ANALYZE, git log -S, and ripgrep can compound into meaningful productivity gains when teams share them regularly."
+    }
+  ]
+}

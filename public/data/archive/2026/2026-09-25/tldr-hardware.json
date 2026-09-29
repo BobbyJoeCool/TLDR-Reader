@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-09-25",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/?utm_source=tldrhardware",
+      "title": "Google's Project Suncatcher Launches October 1, Testing TPUs in Orbit",
+      "summary": "Google is launching MVP, a refrigerator-sized satellite carrying four of its Tensor Processing Units, aboard a SpaceX Falcon 9 as part of the Transporter-18 rideshare mission, months ahead of the original early-2027 target. Built in partnership with Planet Labs, the satellite's solar panels generate only about one kilowatt, and the mission is primarily about stress-testing hardware, checking how the TPUs handle launch vibration and acceleration (50-100x gravity), radiation, and thermal extremes rather than doing anything computationally useful."
+    },
+    {
+      "url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally?utm_source=tldrhardware",
+      "title": "China installed 59% of the world's new factory robots last year",
+      "summary": "Factories installed 603,000 industrial robots worldwide in 2025. China accounted for 354,000. The global installed base passed five million, showing how concentrated the latest wave of factory automation has become."
+    },
+    {
+      "url": "https://www.lttlabs.com/articles/2026/09/24/iphone-18-pro-series-test-results?utm_source=tldrhardware",
+      "title": "Independent tests find a 55% GPU jump in the iPhone 18 Pro",
+      "summary": "LTT Labs measured the A20 Pro at 55% above the iPhone 17 Pro's A19 Pro in one 3DMark graphics test. Its broader review also tests sustained performance, display brightness, charging, and battery life."
+    },
+    {
+      "url": "https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/?utm_source=tldrhardware",
+      "title": "AMD Becomes the Fourth US Chipmaker to Reach a $1 Trillion Valuation",
+      "summary": "AMD shares jumped 9.6% to a record $613.31 on Monday, pushing its market cap above $1 trillion for the first time and making it the fourth US chipmaker to cross the threshold, after Nvidia, Broadcom, and Micron. The stock has gained roughly 185% in 2026, far outpacing the Nasdaq's 15.8%, as AMD increasingly positions itself as a full AI computing infrastructure competitor to Nvidia, selling complete systems combining processors, networking equipment, and related hardware rather than standalone accelerator chips."
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-11102-5?utm_source=tldrhardware",
+      "title": "KAIST's RAIBO2 Quadruped Completes a Full Marathon on One Battery Charge",
+      "summary": "Legged robots burn energy differently than wheeled ones, constantly working at the joints just to hold body weight up and losing kinetic energy every time a foot strikes the ground, so KAIST's team built RAIBO2 by comprehensively modeling every source of energy loss instead of optimizing pieces in isolation. The gains came from stacking hardware and software fixes: an optimized mechanical structure, a redesigned motor driver circuit that cuts electrical losses in the power-control stage, and a locomotion policy trained via RL specifically to minimize energy dissipation."
+    },
+    {
+      "url": "https://postquantum.com/engineering-news/ionq-real-time-decoder-cpu?utm_source=tldrhardware",
+      "title": "IonQ's Real-Time Decoder Runs a Simulated 408-Logical-Qubit Trapped-Ion Computer on a Single Laptop CPU",
+      "summary": "Fault-tolerant quantum computers need a classical decoder to keep pace with error-correction cycles in real time, or a backlog builds that slows the whole computation exponentially. IonQ researchers showed a decoder running on just twelve cores of an Apple M4 Max MacBook Pro chip could keep pace with a simulated 408-logical-qubit trapped-ion machine, using two sliding-window decoders per code block, a slower, highly accurate one tracking corrections for the whole computation, and a faster one handling time-critical logical measurements."
+    },
+    {
+      "url": "https://semiengineering.com/edas-future-is-evidence-driven-automation/?utm_source=tldrhardware",
+      "title": "Chip Design's Real AI Bottleneck Isn't Individual Tools, It's What Happens Between Them",
+      "summary": "Semiconductor design spans dozens of specialized tools - RTL, synthesis, place-and-route, timing sign-off, and DFT - each written by a different vendor with different assumptions about what \"done\" means. Every handoff between tools risks silently losing design intent, a problem serious enough that first-time silicon success has fallen sharply, with most respins still traced to these intent-transfer failures rather than raw errors. The consensus emerging is \"evidence-driven automation\": AI can propose fixes, extract properties, and orchestrate handoffs between agents, but every output has to remain independently checkable through formal proof, deterministic verification, and audit trails, since an AI-generated assertion is a hypothesis, not proof, until it's checked against a real engine."
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28431?utm_source=tldrhardware",
+      "title": "LiMA Splits Robot \"Thinking\" From \"Reacting\" Into Two Async Systems, Cuts Latency 45.8%",
+      "summary": "Dexterous manipulation needs both long-term foresight and fast reactive control, but existing models tend to be good at only one, so LiMA decouples the two into an asynchronous dual-system hierarchy: a slow system handles sparse long-horizon intent, a fast system handles dense high-frequency motion, bridged by a Latent Schrödinger Bridge Coupling mechanism that treats aligning the two as a probabilistic transport process rather than a direct mapping. This cuts inference latency by 45.8% versus Cosmos-Policy, and across six bimanual manipulation tasks, LiMA hit a 70.8% overall success rate while holding up on scenarios it wasn't trained on."
+    },
+    {
+      "url": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/?utm_source=tldrhardware",
+      "title": "Meta Unveils 100-Gram VR Glasses With a Compute Puck, Coming Spring 2027 for $1,299.99",
+      "summary": "Meta introduced VR Glasses, a headset weighing about 100 grams, five times lighter than Meta Quest 3, achieved by splitting the system in two: the glasses handle sensors and a 5K micro-OLED display at 37 pixels per degree through custom pancake lenses, while a separate puck connected by an optical tether handles compute, battery, and storage, clipping to a pocket or bag. The puck runs Qualcomm's new Snapdragon Reality Elite processor and delivers up to three hours of continuous high-resolution playback on 45W fast charging, while the glasses integrate Dolby Vision, Dolby Atmos spatial audio, and hands-free control through Meta AI, eye tracking, and natural gestures with no controllers."
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/?utm_source=tldrhardware",
+      "title": "Alibaba Unveils Zhenwu V900, Its Most Powerful AI Chip, Clustering to 500,000 Cards",
+      "summary": "Alibaba's T-Head semiconductor unit unveiled the Zhenwu V900, which CEO Eddie Wu called the most powerful AI chip in China, delivering roughly 3x the performance of its predecessor, the M890. A single cluster built on the V900 can reportedly link up to 500,000 cards for frontier model training and inference, the kind of scale needed to support the 5-10 trillion-parameter model Alibaba's Qwen team is now targeting."
+    },
+    {
+      "url": "https://quantumzeitgeist.com/silicon-photonics-market-ayar-labs/?utm_source=tldrhardware",
+      "title": "US Silicon Photonics Market Projected to Grow 10x to $10.76B by 2035",
+      "summary": "A new market report projects the US silicon photonics market growing tenfold from roughly $1 billion in 2025 to $10.76 billion by 2035, driven by AI data centers pushing past what traditional electrical interconnects can handle."
+    },
+    {
+      "url": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Qualcomm-and-Corning-to-Demonstrate-High-Density-1060-nm-VCSEL-Optical-D2D-Connectivity-for-AI-Scale-Up-at-ECOC-2026/default.aspx?utm_source=tldrhardware",
+      "title": "Lumentum, Qualcomm, and Corning Demo Optical Die-to-Die Links to Replace Copper in AI Racks",
+      "summary": "Lumentum, Qualcomm, and Corning are jointly demonstrating a board-level optical die-to-die interconnect at ECOC 2026, aimed at extending high-bandwidth, low-latency chip-to-chip connectivity well beyond what copper traces can support in AI systems."
+    },
+    {
+      "url": "https://qz.com/microsoft-darpa-quantum-center-maryland-majorana-092326?utm_source=tldrhardware",
+      "title": "Microsoft Opens Maryland Quantum Center, Gives DARPA Hands-On Access to Its Disputed Majorana 2 Chip",
+      "summary": "Microsoft opened a 15,000-square-foot quantum research center at the University of Maryland's Discovery District, giving DARPA on-site, hands-on access to a topological quantum system built on its Majorana 2 chip, a real shift from the remote evaluations DARPA previously ran from Microsoft's Redmond or European facilities."
+    },
+    {
+      "url": "https://www.digitimes.com/news/a20260924VL200/supermicro-nvidia-rubin-shipping-infrastructure.html?utm_source=tldrhardware",
+      "title": "Supermicro Begins Shipping Nvidia Vera Rubin NVL72 Racks With Full Liquid-Cooling Stack",
+      "summary": "Supermicro has started shipping Nvidia's next-gen Vera Rubin NVL72 systems bundled with its Data Center Building Block Solutions, integrating compute, direct liquid cooling, power delivery, storage, and networking into one deployable package rather than selling GPUs alone."
+    },
+    {
+      "url": "https://tech.yahoo.com/science/articles/china-launches-supercomputing-1-ai-103000723.html?utm_source=tldrhardware",
+      "title": "China Launches \"Supercomputing-1\" AI Satellite for Onboard Earth-Observation Processing",
+      "summary": "China's Kinetica 1 Y18 rocket launched nine satellites on September 20, headlined by Supercomputing-1 (S-AIDC-1), which pairs a high-resolution optical payload with an onboard AI computer to process Earth-observation imagery directly in orbit rather than beaming raw data back to ground stations first, cutting cross-regional processing time from hours to minutes."
+    }
+  ]
+}

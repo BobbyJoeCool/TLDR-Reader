@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-08-24",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://danluu.com/perf-opt/?utm_source=tldrdev",
+      "title": "There's no reason for software to be slow anymore",
+      "summary": "The cost of software optimization has drastically decreased, enabling more developers to implement performance improvements that previously required specialized skills. This allows for dynamic custom software tailored to specific workloads. As the barrier to entry for coding and testing optimizations lowers, it becomes increasingly feasible to get performance gains with minimal effort and time."
+    },
+    {
+      "url": "https://www.jepeake.com/ai-chip-architectures?utm_source=tldrdev",
+      "title": "AI Chip Architectures",
+      "summary": "Advancements in AI chip architectures have led to NVIDIA GPUs, Google's TPUs, AMD Instinct GPUs, and Cerebras' Wafer-Scale Engine, each with distinct designs catering to specific computational AI tasks. The key differentiators include NVIDIA's focus on programmability and scalable architecture, Google's emphasis on a single-purpose design optimized for matrix multiplication, AMD's commitment to memory capacity and open standards, and Cerebras' innovative wafer-scale integration for ultra-fast memory access."
+    },
+    {
+      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/?utm_source=tldrdev",
+      "title": "AI and Infrastructure Engineering",
+      "summary": "The integration of AI into infrastructure engineering is improving efficiency by automating routine tasks and lookups, freeing engineers to focus on higher-level decision-making, but it may also lead to diminishing expertise in foundational skills."
+    },
+    {
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/?utm_source=tldrdev",
+      "title": "How I Find Problems to Solve as a Staff Engineer",
+      "summary": "Finding worthwhile problems to solve as a staff engineer involves actively listening to the challenges faced by team members rather than waiting for management to identify opportunities. By absorbing feedback, allowing potential problems to accumulate, and connecting seemingly unrelated issues, engineers can uncover needs and develop impactful solutions that align with the broader organizational goals."
+    },
+    {
+      "url": "https://karlkoch.me/writing/on-teaching-ai-how-you-work/?utm_source=tldrdev",
+      "title": "On teaching AI how you work",
+      "summary": "A collection of eleven skills has been developed to streamline the process of teaching AI how to interact with design and engineering tasks by consolidating key lessons and practices into a single repository. This framework allows users to apply these skills efficiently, ensuring consistency in design intent and output while minimizing the need for repeated explanations."
+    },
+    {
+      "url": "https://github.com/apache/maka?utm_source=tldrdev",
+      "title": "Maka (GitHub Repo)",
+      "summary": "Apache Maka is an incubating project that provides a local-first AI agent workspace where user interactions and data are stored locally, allowing for the execution of tasks while maintaining control over session data."
+    },
+    {
+      "url": "https://github.com/proliferate-ai/proliferate?utm_source=tldrdev",
+      "title": "Proliferate (GitHub Repo)",
+      "summary": "Proliferate is an open-source AI IDE that enables users to run various coding agents, such as Claude Code and Codex, in parallel within isolated workspaces. It supports self-hosting and has features like reusable workflows, integration with multiple tools, and the ability to manage different tasks simultaneously in a structured manner."
+    },
+    {
+      "url": "https://schlarp.com/posts/everything-i-own-owned/?utm_source=tldrdev",
+      "title": "Everything I own, owned",
+      "summary": "Recent experiments with various peripherals revealed security vulnerabilities, enabling unauthorized access and control over devices such as microphones and webcams. The ease of reverse engineering these devices raises concerns about their security integrity, suggesting a future where malware could exploit such vulnerabilities to infiltrate and control connected accessories and IoT devices."
+    },
+    {
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917?utm_source=tldrdev",
+      "title": "Why your local LLM feels dumber than it is",
+      "summary": "Local implementations of LLMs often provide subpar performance due to variations in hardware, software, and configurations across different setups. This post explores these discrepancies through technical experiments, showing how benchmarks, model choices, and the specifics of quantization can affect the output and reliability of LLMs while underscoring that such issues are common to all users."
+    },
+    {
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/?utm_source=tldrdev",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
+      "summary": "Qwen 3.8 27B proved to be highly capable in reverse-engineering a commercial app's license check in just 30 minutes, demonstrating impressive self-correction and detailed analysis of the software's security processes. This local model's ability to function effectively offline and independently challenges previous assumptions about the complexities of such tasks."
+    },
+    {
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/?utm_source=tldrdev",
+      "title": "The New MCP Roadmap",
+      "summary": "The updated Model Context Protocol (MCP) roadmap outlines five priority areas for future specification releases."
+    },
+    {
+      "url": "https://how.complexsystems.fail/?utm_source=tldrdev",
+      "title": "How Complex Systems Fail",
+      "summary": "Complex systems are naturally hazardous and require multiple layers of defense against failure."
+    },
+    {
+      "url": "https://ericpardee.github.io/fire-hd-ownership/?utm_source=tldrdev",
+      "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+      "summary": "After struggling with constant shutdowns on an Amazon Fire HD tablet, the author spent $266 on multiple AI models to root the device and remove unwanted software."
+    },
+    {
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/?utm_source=tldrdev",
+      "title": "I dream of quieter computing",
+      "summary": "The concept of quieter computing envisions a return to a more intimate and personal internet experience, one that prioritizes exploration and creativity over the current fast-paced, feed-driven digital landscape."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-08-10",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thedefiant.io/news/defi/etherfi-removes-restaking-from-weeth-nearing-full-eigenlayer-exit?utm_source=tldrcrypto",
+      "title": "ether.fi Removes Restaking from weETH, Nearing Full EigenLayer Exit",
+      "summary": "ether.fi has unbundled restaking from weETH, moving that exposure to a new Symbiotic-based token called weETHs, which holds just 9,136 tokens (~$18M) against weETH's 1.72 million token supply. Restaking exposure in weETH is now below 1%, with the protocol's TVL at $3.3B (down from a $12.43B August 2025 peak), and full EigenPod withdrawal credential removal is planned for Q4 2026. ETHFI fell 11.4% on the week and EIGEN dropped 20.8% monthly as liquid restaking sector TVL contracts from its $18.3B December 2024 peak following incentive reductions. EigenLayer's total holdings have declined from $22.06B to $5.10B, and CEO Mike Silagadze called it the \"end of an era,\" stating restaking arrived prematurely."
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million?utm_source=tldrcrypto",
+      "title": "Bitcoin Whales Load Up on $1.2 Billion in BTC as ETFs Attract $750 Million",
+      "summary": "Bitcoin whales and sharks (10-10,000 BTC holders) accumulated more than 20,000 BTC (~$1.2 billion) between July 29 and August 7, while US spot Bitcoin ETFs drew $754.69 million this week, the strongest weekly inflow pace since April, with over $500 million booked in August alone. Despite this combined buying pressure, BTC held near $64,910 without a breakout, with analysts characterizing the marginal buyer as \"more tactical than convicted.\" A $120 million Coldcard hardware wallet hack on July 30 and the US Senate's expected delay on the CLARITY Act are suppressing institutional appetite, with the latter viewed as a prerequisite for broader capital deployment. Santiment's diverging accumulation data points toward a $70K+ target, though Nexo's Liya Kalchev says a decisive close above $65,000 is needed to validate any recovery thesis."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2085823606462812214.html?utm_source=tldrcrypto",
+      "title": "Helius Rings Brings Privacy to Solana",
+      "summary": "Helius, a Solana RPC and infrastructure provider, is launching Rings, a two-tier privacy layer built on Solana. The public ring hides transaction amounts while keeping sender and recipient addresses visible, preventing amount-based MEV extraction, with DeFi integrations planned across staking, trading, and borrow/lend. The customizable ring is fully anonymous, concealing sender, recipient, and amounts, and targets institutions and neobanks that need configurable compliance controls. The architecture splits into a permissionless public tier and a permissioned enterprise tier, both running on Solana's existing infrastructure."
+    },
+    {
+      "url": "https://runhalo.xyz/blog/halo-whitepaper?utm_source=tldrcrypto",
+      "title": "HALO Whitepaper: Decentralized AI Inference Network",
+      "summary": "Warden Protocol's HALO launched a permissionless AI inference marketplace on Base mainnet, settling operator payments in USDC, with no geographic restrictions or account requirements for model access. The verification mechanism, SPEX (Statistical Proof of Execution), fingerprints model outputs as Bloom filters and tasks independent verifiers with probing them, such that honest runs nearly fully overlap the fingerprint while fabricated outputs fall to the filter's false-positive floor, sidestepping trusted hardware and ZK proofs. HALO token emissions mint only against verified usage on a fixed declining schedule, protocol fees fund programmatic buybacks into a treasury, and zero supply is reserved for venture investors. Users fund accounts via card or crypto with session keys abstracting gas and per-transaction signing while retaining self-custody, though one routing layer remains centralized until federation to staked relayers ships in H2 2026."
+    },
+    {
+      "url": "https://x.com/Jun__Yoo/status/2085658799243702587?utm_source=tldrcrypto",
+      "title": "Visa's stablecoin strategy: procurement gateway, not issuer",
+      "summary": "Visa's Head of Crypto Cuy Sheffield told Bloomberg Crypto that Visa isn't competing to issue stablecoins but wants to be the \"procurement gateway\" that brings banks onchain and the \"acceptance layer\" that makes issued stablecoins spendable. Its Visa Stablecoin Platform (VSP; in beta) bundles wallet creation, Open USD issuance/redemption, custody, and transfers, paired with Visa Consulting & Analytics for use-case selection and launch support. Per Paymentscan, cumulative crypto card volume has topped $11 billion with Visa holding 96.8% of card network volume and powering 17 of the top 20 crypto card issuers by transaction volume. Visa's Trusted Agent Protocol (TAP) is also positioning it to connect stablecoins with agentic-commerce payment protocols like x402."
+    },
+    {
+      "url": "https://x.com/Shoalresearch/status/2085789554250834119?utm_source=tldrcrypto",
+      "title": "Circle and $USDC's Role In The Agentic Economy",
+      "summary": "Legacy payment rails (cards, ACH, SWIFT, and correspondent banking) were architected for human-initiated transactions, leaving a gap as AI agent deployment demands programmable, instant, global, and intermediary-free money movement. USDC and Circle's infrastructure target this gap as the settlement layer for the agentic economy, with onchain programmability enabling autonomous spending policies that traditional card rails cannot replicate. Circle's developer platform, CCTP cross-chain transfer protocol, and compliance tooling extend its advantage as enterprise AI agent deployments scale."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2086145453226398145.html?utm_source=tldrcrypto",
+      "title": "13 bear market observations on crypto's current state",
+      "summary": "Crypto is at \"peak depth,\" with sellers exhausted but no marginal buyers yet, early-stage fundraising near-dead as VCs chase AI instead, and hackathon/grant funding down ~95%, risking a shrinking, \"legacy industry\" outcome if capital doesn't return by Q1 2027. Crypto has narrowed to four markets with product-market fit: memecoins/spot, perps, yield, and prediction markets, plus stablecoin payments. Non-financial protocols (governance, social, identity, and gaming) are effectively dead. The field is consolidating around \"everything exchanges\" (Coinbase, Robinhood, Solana, and Polymarket) and yield packagers (USDT, USDC, Aave, and Morpho), with only community-led chains (ETH and Solana) and distribution-led chains (Base, Robinhood's Tempo, and BSC) surviving."
+    },
+    {
+      "url": "https://thedefiant.io/news/blockchains/robinhood-chains-dex-volume-fell-72-while-transactions-and-deposits-set-records?utm_source=tldrcrypto",
+      "title": "Robinhood Chain's DEX Volume Fell 72%, Tx And Deposits Set Records",
+      "summary": "Robinhood Chain's DEX volume dropped 72.5% from an $878 million peak on July 11 to $241 million by August 1, while the broader DEX market expanded 39% over the same period, cutting Robinhood's market share from 16.65% to 4.32%. On-chain metrics diverged: transactions hit a record 13.3 million, TVL climbed 820% to $433 million, and stablecoin supply reached $597 million, while average trade size fell 74% to $27.82. The chain's incentive allocation explains the gap: over 90% of $58,351 in daily rewards flows to stablecoin depositors via Morpho lending campaigns, while 11 trading campaigns split just $4,543 per day. A 0.63 correlation between CASHCAT memecoin activity and daily DEX volume points to speculative trading as the driver of the initial surge rather than organic usage growth."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2086358849506685336.html?utm_source=tldrcrypto",
+      "title": "Wirex migrating its European Debit Visa to a new issuer",
+      "summary": "Wirex will replace Transact Payments Malta Limited as the issuer of its European Debit Visa by September 30."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2085724591654060243.html?utm_source=tldrcrypto",
+      "title": "Plasma One card spend concentration",
+      "summary": "July on-chain settlement for the Plasma One card found 1.6% of wallets (263 of 16,434) drove 45% of the $15.18 million in card spend."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2086189958226710972.html?utm_source=tldrcrypto",
+      "title": "Crypto card settlement chain shift",
+      "summary": "Crypto card settlement volume has diversified from Gnosis (home of the first self-custodial Visa card) to Optimism (~29% of July volume), Solana (~19%), and Base (~19%) per Paymentscan, while Gnosis has fallen to about 2%."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2086360577413169479.html?utm_source=tldrcrypto",
+      "title": "Crypto card spending concentration",
+      "summary": "$7.3 billion has moved through crypto cards across 131 million purchases since October 2023."
+    }
+  ]
+}

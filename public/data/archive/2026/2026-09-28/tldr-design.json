@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-28",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/?utm_source=tldrdesign",
+      "title": "At Meta Connect, the company's smart glasses were everywhere",
+      "summary": "At Meta Connect, hands-on demos showed how Meta's smart glasses could support everyday tasks through its upcoming Muse integration, from sending emails to reading to-do lists aloud. The assistant still struggled to distinguish commands from nearby conversation, highlighting a challenge for voice-driven interfaces. Meta also demonstrated a separate $150 pair designed for people with hearing loss, with adjustable amplification that focuses on the person ahead or picks up sound from all directions."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/?utm_source=tldrdesign",
+      "title": "Lovable's Annualized Revenue Crosses $600M as Vibe Coding Takes Off",
+      "summary": "Lovable's annualized revenue has crossed $600 million, up from roughly $500 million in June. Two-thirds of Fortune 500 companies now use the vibe-coding platform, whose customers include Microsoft, Nvidia, and Deutsche Telekom. Apps built on Lovable draw nearly a billion monthly views, and two funding rounds totaling over $700 million lifted its valuation to $13.3 billion."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/22/apple-adds-raw-support-for-11-digital-cameras-across-iphone-ipad-mac-and-vision-pro/?utm_source=tldrdesign",
+      "title": "Apple adds RAW support for 11 digital cameras across iPhone, iPad, Mac, and Vision Pro",
+      "summary": "Apple has expanded RAW image support across iOS, iPadOS, macOS, and visionOS, adding compatibility for 11 more Fujifilm, OM System, Panasonic, and Phase One cameras, bringing the total number of supported models to 562."
+    },
+    {
+      "url": "https://www.tonyward.dev/articles/code-as-the-source-of-truth?utm_source=tldrdesign",
+      "title": "Code as the Source of Truth",
+      "summary": "With AI tooling, treating code as the shared source of truth lets design and engineering function as one real team rather than handing work off in sequence. Designers can prototype real coded components before engineers finalize them, while engineers push directly into Figma for designers to refine, provided a subject-matter expert reviews every step. Pairing engineers and designers to teach each other's practices speeds up delivery, and, over time, the title lines between them begin to blur."
+    },
+    {
+      "url": "https://pauljun.substack.com/p/brand-as-software?utm_source=tldrdesign",
+      "title": "Brand as Software",
+      "summary": "In-house brand teams have become service desks: at Ramp, a Slack help channel logged more than 375 requests in six months. Brand as software carries a company's point of view, product truths, and design decisions into the work itself, with artists setting the bar and builders codifying it. A Slack agent there already turns an attached doc into a near-final deck in one pass, so designers spend time on work no system can predict."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/advertising/apples-perfect-iphone-duo-tiktoks-nail-foldable-phone-marketing?utm_source=tldrdesign",
+      "title": "Apple's perfect iPhone Duo TikToks nail foldable phone marketing",
+      "summary": "Apple is leaning into playful, social-first marketing for the iPhone Duo with a series of TikTok sketches that showcase the foldable's versatility in everyday scenarios, from a mini laptop to a portable movie screen. Unlike Apple's typically minimalist campaigns, these ads spend more time explaining the product's use cases, reflecting the challenge of introducing its first foldable into a market where rivals like Samsung, Huawei, and Honor already have years of experience."
+    },
+    {
+      "url": "https://imagetoascii.art/?utm_source=tldrdesign",
+      "title": "Image to ASCII Converter (Website)",
+      "summary": "Convert JPG, PNG, WebP, or GIF to ASCII art in your browser. Set the width and style, then copy text or export TXT, PNG, or SVG."
+    },
+    {
+      "url": "https://loading.dev/?utm_source=tldrdesign",
+      "title": "Beautiful Loading Indicators for React (Website)",
+      "summary": "A lightweight library full of beautiful loading indicators for React."
+    },
+    {
+      "url": "https://www.pactto.com/?utm_source=tldrdesign",
+      "title": "Live Creative Review and Approval AI Platform (Website)",
+      "summary": "Bring your assets, present at the highest quality, review together, make decisions, and let AI agents apply them, live. All within the same shared context."
+    },
+    {
+      "url": "https://ixdf.org/literature/article/should-ux-designers-learn-to-code?utm_source=tldrdesign",
+      "title": "Should UX Designers Learn to Code?",
+      "summary": "Whether UX designers should learn to code depends on context: knowing a product's technical materials speeds up workflows and suits lean, bootstrapped teams. Yet coding can invite scope creep, narrow thinking toward technical constraints, and waste time on languages that quickly become obsolete. Teams with more T-shaped members, deep in one field and broadly aware of others, communicate more easily and ship better products faster."
+    },
+    {
+      "url": "https://marieclairedean.substack.com/p/that-crisp-interface-is-going-to?utm_source=tldrdesign",
+      "title": "That Crisp Interface is Going to Date",
+      "summary": "Today's crisp interfaces, with generous white space and a single decisive CTA, will date the way drop shadows and gradients did. Software has never been cheaper to ship, yet it keeps yielding identical landing pages, and AI models serving up the center of the distribution make it worse. Gumroad, Are.na, Substack, and Nothing show the alternative: someone had a default available and chose something else, from oversized type to deliberate friction."
+    },
+    {
+      "url": "https://www.creativeboom.com/work/from-ywca-to-hotel-willo-how-rethink-solved-a-branding-problem/?utm_source=tldrdesign",
+      "title": "From YWCA to Hotel Willo: how Rethink solved one of branding's trickiest problems",
+      "summary": "Hotel Willo rebranded a Vancouver hotel to overcome outdated perceptions tied to its former YWCA identity, replacing the name with a fresh, approachable brand centered on a simple willow-inspired logo. The identity uses restrained design, playful messaging, and consistent applications to communicate an affordable, welcoming boutique hotel while clearly distancing it from past misconceptions."
+    },
+    {
+      "url": "https://www.creativebloq.com/creative-inspiration/7-artists-reveal-the-revelations-that-took-their-practice-to-the-next-level?utm_source=tldrdesign",
+      "title": "Seven Artists Reveal the Revelations That Took Their Practice to the Next Level",
+      "summary": "Seven artists describe the realizations that took their practice further, from building faces out of geometric forms to dropping the idea of being a watercolor purist."
+    },
+    {
+      "url": "https://www.creativeboom.com/work/rosa-snijders/?utm_source=tldrdesign",
+      "title": "Illustrator Rosa Snijders Finds the Softness in Grief, Debt, and All of Life's Heavy Subjects",
+      "summary": "Dutch illustrator Rosa Snijders built an editorial career drawing heavy subjects like grief and death for outlets including Le Monde, National Geographic, and Corriere della Sera, using soft palettes rather than grim imagery."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-07-27",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models?utm_source=tldrdev",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "summary": "Context engineering for Claude 5 generation models has changed a lot, allowing for greater flexibility and better results by reducing unnecessary constraints previously placed on the system prompts and code documentation. System prompts have tended to be smaller, allowing the model to be more intuitive and use progressive disclosure through skills."
+    },
+    {
+      "url": "https://www.canva.dev/blog/engineering/session-revocations-at-scale/?utm_source=tldrdev",
+      "title": "Session revocations at scale",
+      "summary": "Canva has developed an efficient session revocation system to manage user sessions for hundreds of millions of users, using encrypted browser cookies and in-memory lookups for fast, reliable performance. By migrating to an S3-based caching solution for revocation records, they improved deployment speed, reduced database load, and minimized the in-memory cache size."
+    },
+    {
+      "url": "https://x.com/alxfazio/status/2081415650912727439?utm_source=tldrdev",
+      "title": "The life of a Codex conversation on disk",
+      "summary": "The life of a Codex conversation on disk involves a journal file that records each interaction and event in a JSON format, with various associated databases serving as temporary caches or indexes. As users engage with Codex, their chats are logged in a user-specific directory, where different data regarding the conversation is stored separately so that history is maintained even after a conversation ends or is archived. Various commands can manipulate the conversation's state, such as clearing or deleting threads, but hard deletion is necessary for complete removal from storage."
+    },
+    {
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon?utm_source=tldrdev",
+      "title": "A shell colon does nothing. Use it anyway",
+      "summary": "The shell colon, a null-command that appears to do nothing, can simplify shell script functionality by streamlining error handling and setting default values through parameter expansion. Its usage can make script readability better and reduce the potential for errors."
+    },
+    {
+      "url": "https://blog.sentry.io/structure-a-log/?utm_source=tldrdev",
+      "title": "How to structure a log",
+      "summary": "Structured logs should be designed with a predictable pattern, incorporating stable event names, scoped attribute keys, and primitive values for proper querying and debugging. By enforcing these conventions through tools like ESLint, teams can make sure logs are consistent and provide valuable context regarding application events."
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-opus-5?utm_source=tldrdev",
+      "title": "Introducing Claude Opus 5",
+      "summary": "Claude Opus 5 is a new AI model that offers improved performance and cost-effectiveness compared to its predecessor, Opus 4.8, doing particularly well in software engineering and scientific research tasks. While it has advancements in efficiency and alignment, it still trails behind the Claude Mythos 5 model in cybersecurity capabilities."
+    },
+    {
+      "url": "https://github.com/CoreBunch/Instatic?utm_source=tldrdev",
+      "title": "Instatic (GitHub Repo)",
+      "summary": "Instatic is a self-hosted content management system that integrates all necessary components, such as a visual editor, content engine, and publishing tools, into a single server. Users can easily deploy their sites with minimal configuration and manage everything from content creation to analytics through a unified interface."
+    },
+    {
+      "url": "https://lemire.me/blog/2026/07/25/memory-level-parallelism-amd-is-the-king/?utm_source=tldrdev",
+      "title": "Memory-level parallelism: AMD is the king",
+      "summary": "Memory-level parallelism is an important factor in software performance and has seen large improvements, particularly with AMD processors reaching 58 concurrent memory requests compared to Intel's 30. Despite Intel's gains over the past decade, AMD remains the leader in both bandwidth and memory-level parallelism."
+    },
+    {
+      "url": "https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events/?utm_source=tldrdev",
+      "title": "Modeling Facts and Reactions with Domain Events",
+      "summary": "Domain events provide a way to decouple actions within a system, enabling consequences of a primary fact, such as an order being placed, to react independently without direct knowledge of each other. This approach allows for better error handling, clearer model behaviors, and the flexibility to scale and evolve components of the system without affecting the core business logic."
+    },
+    {
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/?utm_source=tldrdev",
+      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "summary": "Open-weight AI models are becoming an important platform for the next generation of AI ecosystems, similar to how Kubernetes transformed cloud-native computing. To maintain its competitive edge, the US should foster innovation by releasing high-quality open-weight models."
+    },
+    {
+      "url": "https://killthecookiebanner.eu/?utm_source=tldrdev",
+      "title": "Kill the Cookie Banner",
+      "summary": "The EU Commission has proposed a solution to eliminate misleading cookie banners by allowing users to set their privacy preferences in their browsers, but the tracking industry is lobbying against this change to maintain their tracking practices."
+    },
+    {
+      "url": "https://stephango.com/design-is-compromise?utm_source=tldrdev",
+      "title": "Design is compromise",
+      "summary": "Compromise is an important aspect of decision-making in design, as good design involves making deliberate trade-offs that prioritize certain strengths while accepting weaknesses."
+    },
+    {
+      "url": "https://andonlabs.com/evals/drone-bench?utm_source=tldrdev",
+      "title": "Drone-Bench",
+      "summary": "Drone-Bench is a new benchmark designed to evaluate how effectively AI models can perform surveillance tasks with low-cost drones, assessing their capabilities across five specific tasks."
+    },
+    {
+      "url": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html?utm_source=tldrdev",
+      "title": "Prefactoring: Clear the Way for Your New Feature",
+      "summary": "Prefactoring involves restructuring existing code to facilitate the implementation of new features, making development easier, minimizing bugs, expediting code reviews, and allowing for safer rollbacks."
+    }
+  ]
+}

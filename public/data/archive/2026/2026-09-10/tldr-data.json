@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-09-10",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/30-years-of-postgres-architecture-tom-lane/?utm_source=tldrdata",
+      "title": "Tom Lane on the Architectural Decisions That Shaped 30 Years of Postgres",
+      "summary": "Tom Lane, a committer for 25 of Postgres' 30 years, walks through the architectural bets that held: process-per-connection for code simplicity, write-ahead logging in 8.0 that turned it from a plaything into a serious database, and MVCC pushing maintenance work into background vacuum. He credits Berkeley's liberal license for the project surviving where its contemporaries did not, names version 13 the buggiest release, and says he would delete partitioning given the chance."
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/built-for-reliability-how-american?utm_source=tldrdata",
+      "title": "Built for reliability: How American Express processes payments at scale",
+      "summary": "American Express uses cells as complete payment-processing failure domains: microservices, databases, DNS, and reference data are local, while dynamic transactions are routed to the cell that owns their state. The design trades global coordination for controlled failure scope and deliberately rejects transactions when consistency cannot be established."
+    },
+    {
+      "url": "https://gordonmurray.ie/data/2026/09/05/cloudfloes-query-engine-in-a-celld-cell.html?utm_source=tldrdata",
+      "title": "Cloudfloe's query engine in a celld cell",
+      "summary": "Cloudfloe is a web interface for querying Iceberg data on S3 with DuckDB. This experiment tested whether a stateful, serverless-style cell could replace a per-query container: DuckDB WebAssembly read a 37,537-row Iceberg table in 148 ms, but cold or woken cells took 250–320 ms and retained most of their memory. Keeping the connection warm cut repeat queries to about 3 ms, making lifecycle policy, not raw startup, the core design tradeoff."
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/ai-data-sprawl-barry-mccardel-mpfpc/?utm_source=tldrdata",
+      "title": "The AI Data Sprawl",
+      "summary": "Non-technical staff now write billions of lines of analytics code. The problem is where it lives: random context, porous permissions, and output scattered across one-off chats, Slack pastes, and someone's laptop. With no record of which table an agent grabbed or which filter it dropped, the only feedback loop left is people disagreeing."
+    },
+    {
+      "url": "https://www.theseattledataguy.com/5-cdc-tools-and-the-tradeoffs-you-should-know/?utm_source=tldrdata",
+      "title": "5 CDC tools and the tradeoffs you should know",
+      "summary": "CDC evaluation should start with failure behavior, not connector counts. Compare capture method, initial snapshots and backfills, schema evolution, delivery semantics, observability, deployment model, and who owns recovery. A production proof needs representative data and a broken-destination test, especially for type fidelity and duplicate handling."
+    },
+    {
+      "url": "https://ankit-rana.com/logs/49-jitter-synchronised-clients/?utm_source=tldrdata",
+      "title": "Jitter is the cheapest reliability fix you are not using",
+      "summary": "Distributed systems synchronise themselves without being told to: shared events such as deploys, cache flushes, or connection loss turn independent workloads into recurring load spikes. Add jitter to initial retries, TTL refreshes, heartbeats, token renewals, and scheduled work. This preserves average load while preventing retry storms from repeatedly hitting a recovering dependency in lockstep."
+    },
+    {
+      "url": "https://github.com/galaxy-io/filament?utm_source=tldrdata",
+      "title": "Filament (GitHub Repo)",
+      "summary": "Filament replicates data from sources to sinks with full, incremental, or CDC modes, verifying every bounded batch on both sides of the write and advancing checkpoints only after success. Sources, sinks, state storage, and event transport are all swappable."
+    },
+    {
+      "url": "https://kestra.io/blogs/release-2-0/?utm_source=tldrdata",
+      "title": "Kestra 2.0: A new engine, workers anywhere, and flows as agent tools",
+      "summary": "Kestra is an open-source orchestration platform for scheduling and operating data, infrastructure, and business workflows. Its 2.0 LTS release separates control and data planes so workers can run across regions, clouds, or private networks over outbound-only connections. It also exposes flows as MCP tools for agents, decouples queue and storage choices, and includes migration tooling for 1.x users."
+    },
+    {
+      "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0?utm_source=tldrdata",
+      "title": "JupyterGIS 0.16: Collaborative story maps and remote geospatial workflows",
+      "summary": "JupyterGIS 0.16 adds real-time collaborative story maps, lazy tile rendering for remote openEO workflows, and native GeoZarr and GeoPackage support. Declarative symbology and Xarray tiling keep visualizations reproducible while allowing large geospatial datasets to stay remote instead of being materialized locally."
+    },
+    {
+      "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing?utm_source=tldrdata",
+      "title": "Why Spotify is not using Bayesian A/B testing",
+      "summary": "Bayesian experimentation is not one method but a choice of prior, likelihood, and stopping rule. Spotify shows that common flat-prior posterior thresholds can reproduce frequentist peeking, while Bayes factors can control false positives under optional stopping. Choose guarantees for the experiment program first, then the inference configuration."
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data?utm_source=tldrdata",
+      "title": "Pretraining progress is mostly coming from data",
+      "summary": "A controlled comparison of 2019-2025 open-model recipes and data corpora attributes 12.0x compute-efficiency gains to data improvements versus 3.7x to model recipes at a 1e19-FLOP budget. The result frames dataset extraction, curation, and filtering as a major systems lever, while cautioning that larger-scale and synthetic-data effects remain untested."
+    },
+    {
+      "url": "https://github.com/RusselWebber/xlDuckDb?utm_source=tldrdata",
+      "title": "xlDuckDb (GitHub Repo)",
+      "summary": "xlDuckDb adds a DuckDbQuery() function to Excel that runs DuckDB SQL and spills results into cells, querying worksheet ranges, tables, and local or remote JSON, CSV, and Parquet in one statement."
+    },
+    {
+      "url": "https://database-doctor.com/posts/tpch-q15?utm_source=tldrdata",
+      "title": "TPC-H Query 15 - Scalar Constants and Materialisation",
+      "summary": "Referencing the same CTE twice tests whether the optimiser materialises the result."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-09-01",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.scrum.org/resources/blog/how-leverage-flow-metrics-accelerate-your-agentic-development-lifecycle?utm_source=tldrproduct",
+      "title": "Leverage Flow Metrics To Accelerate Your Agentic Development Lifecycle",
+      "summary": "AI moves development bottlenecks rather than eliminating them. Measure end-to-end flow to find where work is stuck and optimize the new constraint."
+    },
+    {
+      "url": "https://spin.atomicobject.com/ai-you-need-structure/?utm_source=tldrproduct",
+      "title": "In the Age of AI, You Need Structure",
+      "summary": "Better AI still needs strong structure. Use clear checkpoints to review AI-generated assumptions before they become foundations for everything downstream."
+    },
+    {
+      "url": "https://benn.substack.com/p/how-to-have-ideas?utm_source=tldrproduct",
+      "title": "How to have ideas",
+      "summary": "Great ideas often come from unexpected connections. Hold onto a problem, then create enough distance and randomness for something surprising to collide with it."
+    },
+    {
+      "url": "https://x.com/rsanghvi/status/2094478853955571912?utm_source=tldrproduct",
+      "title": "What is -1 to 0?",
+      "summary": "Great companies start before product-market fit. Spend time building conviction in the right problem before easy traction pulls you toward the wrong one."
+    },
+    {
+      "url": "https://nervegna.substack.com/p/grok-bot-for-designers-and-product?utm_source=tldrproduct",
+      "title": "Grok Bot for Designers and Product Teams",
+      "summary": "Don't choose AI agents by features alone. Design for custody, isolation, and accountability first, then decide whether convenience or control matters more."
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude?utm_source=tldrproduct",
+      "title": "How this PM uses Claude to handle 70% to 80% of his workday (46 minute video)",
+      "summary": "AI becomes far more powerful when it continuously learns your context, behavior, and feedback. Daniel Blum built a self-improving system that now handles most of his PM workload and can be personalized for colleagues in minutes."
+    },
+    {
+      "url": "https://bakadesuyo.com/2026/08/how-to-be-strategic/?utm_source=tldrproduct",
+      "title": "How To Be Strategic: 5 Secrets From History's Greatest General",
+      "summary": "Good strategy preserves your ability to choose. Stay prepared, understand reality, shape the conditions, and keep strong alternatives so you are never forced into a bad move."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-438-the-right-but-early-club?utm_source=tldrproduct",
+      "title": "The Right But Early Club",
+      "summary": "Teams need ways to surface early signals without acting on all of them immediately. Capture concerns, revisit them as evidence grows, and decide together when the time is right."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products / systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://x.com/DavidOndrej1/status/2093966150124122222?utm_source=tldrproduct",
+      "title": "Directionally correct",
+      "summary": "AI is moving too fast for perfect long-term plans."
+    },
+    {
+      "url": "https://nextbigteng.substack.com/p/ai-data-infra-dev-tools-m-and-a?utm_source=tldrproduct",
+      "title": "AI/Data infra + dev tools M&A is having a moment",
+      "summary": "AI infrastructure is becoming strategically critical."
+    }
+  ]
+}

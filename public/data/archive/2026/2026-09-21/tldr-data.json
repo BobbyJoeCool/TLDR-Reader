@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-09-21",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://medium.com/arcesium-engineering-blog/debugging-inconsistent-query-latency-on-a-postgresql-hypertable-what-we-learned-03253157fbdd?utm_source=tldrdata",
+      "title": "Debugging Inconsistent Query Latency on a PostgreSQL Hypertable: What We Learned",
+      "summary": "A PostgreSQL hypertable query was fast by hand but intermittently stalled because JDBC prepared statements switched to generic plans. Without parameter values, the planner could not exclude old chunks and spent seconds planning instead of executing. Logging the bind phase exposed the fault, while disabling server-side prepared statements and reducing chunk count restored predictable latency."
+    },
+    {
+      "url": "https://rohanbansal.com/qorl?utm_source=tldrdata",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "summary": "A 4B Qwen model was trained with supervised fine-tuning and reinforcement learning to generate faster PostgreSQL query plans. Across 113 join-heavy queries, its best-of-three results achieved a 1.81x geometric mean speedup over PostgreSQL's default plans and reduced total workload latency by 44.7%, showing small models can learn useful database optimization strategies from execution-time feedback."
+    },
+    {
+      "url": "https://planetscale.com/blog/the-architecture-of-neki?utm_source=tldrdata",
+      "title": "The architecture of Neki",
+      "summary": "PlanetScale's Neki horizontally shards standard PostgreSQL while presenting applications with a single Postgres connection, using routers, sidecars, replication, and automated failover to manage distributed queries and availability. It can also reshard data, move tables, and perform online schema changes without taking the database offline."
+    },
+    {
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/?utm_source=tldrdata",
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "summary": "Consistent hashing smooths load by assigning each server many virtual points, but those points can become a major memory cost at global scale. Cloudflare reworked Pingora's hash-ring representation, sorting, and rollout path to reclaim more than 100 TB of RAM. The article connects the distribution math to a staged migration that contained cache churn and preserved rollback control."
+    },
+    {
+      "url": "https://surfingcomplexity.blog/2026/09/19/saturation-at-github-the-saga-continues/?utm_source=tldrdata",
+      "title": "Saturation at GitHub: the saga continues",
+      "summary": "A GitHub outage was triggered when a background cleanup job saturated a shared database primary, while monitoring incorrectly showed the cluster as healthy because it only watched replica lag. Long request timeouts and repeated retries then amplified the failure, highlighting how partial health signals and retry storms can turn database saturation into a site-wide incident."
+    },
+    {
+      "url": "https://thinhdanggroup.github.io/otel-span-cardinality/?utm_source=tldrdata",
+      "title": "The Span Attribute That Blew Up Your Observability Bill",
+      "summary": "A high-cardinality span attribute can quietly multiply metric series even when trace volume and sampling remain flat. Sampling reduces stored trace bytes, not the distinct label combinations produced upstream by span metrics. Keep identifiers on traces, bucket them before metrics aggregation, and set cardinality and expiration limits so one deployment cannot turn a temporary dimension into a lasting observability bill."
+    },
+    {
+      "url": "https://www.seangoedecke.com/two-techniques-for-working-with-system-one-models/?utm_source=tldrdata",
+      "title": "Two techniques for working with System One models",
+      "summary": "System One models act as fast, general-purpose classifiers that make many simple decisions in parallel rather than generating long responses. Two useful patterns are to give them layered goals for real-time tasks and use tournament-style comparisons when choosing the best option from a large set."
+    },
+    {
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/?utm_source=tldrdata",
+      "title": "Charts built for Chat",
+      "summary": "dbt Charts is an open-source, YAML-based dashboard language designed for humans and AI agents to build governed charts in code rather than through a BI interface. Dashboards stay auditable and version-controlled alongside dbt models, with validation catching broken queries and poor visualisations before they ship."
+    },
+    {
+      "url": "https://github.com/realZachi/pg-jev?utm_source=tldrdata",
+      "title": "pg-jev (GitHub Repo)",
+      "summary": "pg-jev brings natural-language classification directly into PostgreSQL, letting you filter, rank, and classify rows with Jev-powered SQL functions that return calibrated probabilities instead of generated text. It batches and caches evaluations to make semantic queries practical without embeddings or vector indexes."
+    },
+    {
+      "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/?utm_source=tldrdata",
+      "title": "Faster JSON parsing with SVE2 on ARM processors",
+      "summary": "JSON ingestion often spends significant time locating structural characters before parsing values. A new simdjson implementation uses ARM SVE2's match instruction to classify those characters more directly, improving indexing throughput by 3-9% on Graviton 4 and 5. The full parser gain is smaller, but the patch shows how targeted SIMD changes can improve a heavily optimized data path."
+    },
+    {
+      "url": "https://mohammadsoleimanian.com/jev-for-10-k-data-extraction-fast-calibrated/?utm_source=tldrdata",
+      "title": "Jev for 10-K Data Extraction: Fast & Calibrated",
+      "summary": "Jev can act as a fast, inexpensive verification layer for extracting structured data from 10-K filings: another tool finds candidate values, then Jev selects the correct one and returns calibrated confidence. This avoids unreliable generate-and-parse loops while routing ambiguous cases to larger models or humans."
+    },
+    {
+      "url": "https://milanjovanovic.tech/blog/when-postgres-picks-the-wrong-index?utm_source=tldrdata",
+      "title": "Adding an Index Made This Query Slower",
+      "summary": "An index matching ORDER BY in Postgres can still hurt when the filtered rows sit far down that index: inspect Rows Removed by Filter, test representative parameters, and use a composite index that matches both the filter and ordering."
+    },
+    {
+      "url": "https://pgrun.dev/?utm_source=tldrdata",
+      "title": "PGRun (Tool)",
+      "summary": "PGRun gives agents and CI fast, isolated Postgres branches from production, avoiding shared staging conflicts, and keeping production protected."
+    }
+  ]
+}

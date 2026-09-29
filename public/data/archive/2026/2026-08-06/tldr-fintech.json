@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-08-06",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.paymentsdive.com/news/visa-to-buy-biocatch-for-24b/826816/?utm_source=tldrfintech",
+      "title": "Visa to acquire BioCatch for $2.4B",
+      "summary": "Visa agreed to acquire behavioral biometrics and fraud-prevention company BioCatch for $2.4 billion, strengthening its defenses against account takeovers, scams, and other AI-enabled financial crimes. The deal follows Visa's $1 billion acquisition of Featurespace and expands its value-added services with technology that analyzes behavioral, device, and network signals to distinguish legitimate users from fraudsters in real time."
+    },
+    {
+      "url": "https://www.a16z.news/p/marc-andreessen-and-chris-dixon-why?utm_source=tldrfintech",
+      "title": "Marc Andreessen and Chris Dixon argue America needs the CLARITY Act",
+      "summary": "Marc Andreessen and Chris Dixon argue that the CLARITY Act would replace regulatory ambiguity with federal oversight, disclosure requirements, anti-fraud protections, and clearer boundaries between securities and commodities regulation for digital assets. They contend that failing to pass durable legislation would favor offshore actors, slow responsible US development, and weaken America's leadership in crypto, while rejecting claims that the bill undermines sanctions enforcement, securities law, or open-source development."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48198/wells-fargo-to-roll-out-tokenised-deposits-for-corporate-clients?utm_source=tldrfintech",
+      "title": "Wells Fargo to roll out tokenised deposits for corporate clients",
+      "summary": "Wells Fargo is introducing tokenised deposits for corporate and commercial clients, enabling them to move, programme and settle funds 24/7. The programme will roll out this autumn, with a limited US dollar to British pound exchange, expanding over the course of 2027 to more clients, countries, and currencies."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/32463/the-future-of-payments-will-be-defined-by-interoperability?utm_source=tldrfintech",
+      "title": "The Future of Payments Will Be Defined by Interoperability",
+      "summary": "The payments industry has spent years building faster, more convenient, and increasingly digital ways to move money. Yet as payment methods and financial networks multiply, another challenge is becoming impossible to ignore: making these systems work together. A customer may use one wallet, a merchant another provider, and a bank connected to an entirely different infrastructure. Each system can function effectively on its own, but the experience becomes more complicated when they need to interact. This is where interoperability becomes critical."
+    },
+    {
+      "url": "https://lex.substack.com/p/fintech-can-elon-musk-convert-550mm?utm_source=tldrfintech",
+      "title": "Why X Money Is Willing to Lose Money Today",
+      "summary": "X has begun rolling out X Money to US Premium and Premium+ subscribers, bundling a 6% APY cash account, a 3% cashback Visa debit card, and free instant transfers between X accounts. The benefits are aggressive and land at an interesting moment for the social media app. X now sits inside SpaceX, down ~30% since IPO, and valued at $1.51T."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/32459/agentic-payments-will-need-more-than-wallets?utm_source=tldrfintech",
+      "title": "Agentic payments will need more than wallets",
+      "summary": "Agentic payments are moving from demo territory into infrastructure. Natural's recent raise is a useful signal for the category. The market is beginning to organize around wallets, vaults, cards, merchant acceptance, credit, billing, and direct rail access for AI agents. That matters. Agents need ways to participate in payment flows: holding value, accepting payments, triggering transfers, and interacting with existing rails."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48192/western-union-launches-stablecard?utm_source=tldrfintech",
+      "title": "Western Union launches Stablecard",
+      "summary": "Western Union has launched a digital wallet and stablecoin-backed Visa secured credit card designed to enable users to hold, move, and spend US dollar value globally."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html?utm_source=tldrfintech",
+      "title": "Clear Street offers pre-IPO access to Databricks through new private markets platform",
+      "summary": "Clear Street is launching a platform for accredited investors to gain pre-IPO exposure to Databricks and eventually up to 30 private companies, alongside dedicated research and financing for eligible positions. Investors will buy interests through layered SPV structures rather than directly owning Databricks shares, highlighting both Wall Street's growing push into private markets and the legal and transfer risks surrounding indirect secondary transactions."
+    },
+    {
+      "url": "https://coverager.com/ikea-launches-home-insurance-in-the-uk/?utm_source=tldrfintech",
+      "title": "IKEA launches UK home insurance",
+      "summary": "IKEA is expanding into financial services by launching home insurance in the UK through a partnership with insurtech startup Urban Jungle. Customers can purchase contents, buildings, or combined coverage backed by Urban Jungle's AI-powered platform. The launch reflects the growing trend of consumer brands embedding insurance into their ecosystems to extend customer relationships beyond the initial sale."
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/justice-department/feds-charge-fbi-agent-say-stole-nearly-one-million-crypto-russia-rcna590674?utm_source=tldrfintech",
+      "title": "FBI agent charged with stealing nearly $1M in crypto tied to Russia",
+      "summary": "Federal prosecutors charged former FBI supervisory agent Patrick Yaroch with transferring roughly $925,000 from cryptocurrency wallets linked to Russia into his personal accounts using private keys found in FBI systems. According to court filings, Yaroch later confessed and surrendered access to the wallets, while the FBI said it fired him and opened a broader investigation."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110564/fiserv-and-mastercard-deepen-global-partnership?utm_source=tldrfintech",
+      "title": "Fiserv and Mastercard deepen global partnership",
+      "summary": "Fiserv, a leading global provider of payments and financial services technology, and Mastercard today announced a strategic global partnership to help eligible enterprise merchants simplify commerce through an expanded suite of integrated value-added services."
+    },
+    {
+      "url": "https://www.indexventures.com/perspectives/30-years-in-perfecting-our-craft/?utm_source=tldrfintech",
+      "title": "Index Ventures raises $3.5B across new seed, venture, and growth funds",
+      "summary": "Index Ventures announced $3.5 billion in new investing capital, including a $400 million seed fund, a $900 million venture fund, and a $2.2 billion growth fund. The firm plans to continue backing companies from first check through the public markets, with a particular focus on AI-driven opportunities across infrastructure, cybersecurity, fintech, healthcare, productivity, and consumer technology."
+    },
+    {
+      "url": "https://www.lemonedge.com/news/lemonedge-raises-21m-series-a-led-by-blackstone-joined-by-bny?utm_source=tldrfintech",
+      "title": "LemonEdge raises $21M Series A led by Blackstone, joined by BNY",
+      "summary": "LemonEdge raised $21 million to expand its private markets fund accounting platform across the US and Europe, bringing total funding above $30 million."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/110584/borderlessxyz-and-mastercard-partner-on-cross-border-stablecoin-payments?utm_source=tldrfintech",
+      "title": "Borderless.xyz and Mastercard partner on cross-border stablecoin payments",
+      "summary": "Borderless.xyz will explore how Mastercard Crypto Credential can help bring greater trust and confidence to cross-border stablecoin payments."
+    }
+  ]
+}

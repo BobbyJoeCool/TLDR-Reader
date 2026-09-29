@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-09-15",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/?utm_source=tldrinfosec",
+      "title": "Telus Warns Customers of Account Breaches",
+      "summary": "Telus says attackers used compromised credentials to access consumer accounts from February 2025 through June 2026. Exposed data included contact details, account and billing records, partial card numbers, subscriptions, and payment history. Attackers attempted service transfers and changed some services. Telus reset credentials, added monitoring, notified police, and offered identity-theft protection."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943?utm_source=tldrinfosec",
+      "title": "More JFrog Artifactory bugs under attack, and all 3 have patches",
+      "summary": "Attackers are exploiting CVE-2026-42018, CVE-2026-42016, and CVE-2026-82329 in JFrog Artifactory. Activity includes admin-account creation, Rust backdoors, Groovy plugins, web shells, token minting, and key theft. Wiz found 59 percent exposed to CVE-2026-42016 and 62 percent to CVE-2026-42018, so please patch exposed instances, restrict network access, and audit privileged logins."
+    },
+    {
+      "url": "https://ministryofcyberaffairs.com/news/skill-poisioning-turning-ai-agents-into-malware-droppers-warns-china-s-national-cert-66b8bba4-9ffd-4583-a6c7-122e8149e0e8?utm_source=tldrinfosec",
+      "title": "Skill Poisoning Turns AI Agents Into Malware Droppers",
+      "summary": "China's National Computer Virus Emergency Response Center is warning of \"skill poisoning\" attacks, where counterfeit plugins compromise AI agents to secretly download malware. Analysts have already identified eight malicious skill packs in popular agent repositories that impersonate legitimate tools, granting attackers unauthorized file access and remote-control capabilities. These poisoned plugins exploit an AI agent's natural task-execution design, bypassing the need for a user to actually click a suspicious link."
+    },
+    {
+      "url": "https://monad.xyz/blog/writing-secure-code-with-llms?utm_source=tldrinfosec",
+      "title": "Writing More Secure Code with LLMs: Why \"Make No Mistakes\" Falls Short",
+      "summary": "Generic security prompts and OWASP-style checklists failed to improve AI coding security and occasionally increased the frequency of high-severity bugs when the Monad Foundation engineering team tasked an assistant with writing secure code for a URL unfurler. Utilizing an expert prompt that incorporates a specific application threat model reduced validated security findings by approximately 43 percent. Defenders must replace generic checklists with expert prompts incorporating specific application threat models to harden AI-generated code."
+    },
+    {
+      "url": "https://jasondoyle.ie/whitepapers/ai-makes-familiar-cyber-attacks-cheaper-to-run?utm_source=tldrinfosec",
+      "title": "AI Makes Familiar Cyber Attacks Cheaper to Run",
+      "summary": "Anthropic's threat intelligence report demonstrates that artificial intelligence lowers the cost of familiar cyber attacks against targeted organizations. The technology automates reconnaissance, retooling loops, and campaign coordination. Defenders must reassess their controls against repeated, parallel, and fast-adapting attack attempts despite the continued expense of compute resources and specialized exploits."
+    },
+    {
+      "url": "https://socket.dev/blog/malicious-twitch-browser-extension?utm_source=tldrinfosec",
+      "title": "Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service",
+      "summary": "Socket found that a cross-store browser extension, 'Twitch Enhanced Viewer | JeetBot', captures account OAuth tokens from Twitch pages. Current Chrome and Firefox builds add tokens to proxy redirect URLs for most viewed channels, but earlier builds sent tokens directly to set-token endpoints. The extension has about 31,000 installs across both stores, and anyone holding a token can access chat, whispers, account settings, and channel points. Remove the extension, disconnect Twitch sessions, and re-authenticate."
+    },
+    {
+      "url": "https://dev.profullstack.com/~anthony/blog/135-post.html?utm_source=tldrinfosec",
+      "title": "OpenThreat: what a security tool found in the open, as one file",
+      "summary": "ThreatCrush launched OpenThreat to share public repository findings, threat indicators, and advisories in a single-file format without exposing private data or unredacted secrets. LogicSRC co-developed the specification to serve these descriptors at a standard web path. Nichedb.dev introduced the first directory for reading and distributing these descriptors across RSS, JSON, and APIs."
+    },
+    {
+      "url": "https://github.com/ValentinNikolaev/php-analysis-tools-catalog?utm_source=tldrinfosec",
+      "title": "PHP Analysis Tools Catalog (GitHub Repo)",
+      "summary": "A curated, auto-updated catalog of PHP static-analysis, code-quality, linting, metrics, refactoring, and security tools."
+    },
+    {
+      "url": "https://github.com/jfrog/boost?utm_source=tldrinfosec",
+      "title": "Boost (GitHub Repo)",
+      "summary": "Boost wraps the commands your agents already run, turning noisy logs into compact, structured context."
+    },
+    {
+      "url": "https://www.rubyhack.ai/?utm_source=tldrinfosec",
+      "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
+      "summary": "Hundreds of malicious RubyGems packages appeared in May, attributed by researchers to internal OpenAI agents. The packages attempted API-key theft through an unreported RubyGems server flaw and used RubyDoc.info builds for arbitrary code execution. RubyGems halted registrations for four days, removed more than 500 packages, and later saw further uploads in May and June."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000?utm_source=tldrinfosec",
+      "title": "Security Through Obscurity Is Dead And AI Delivered The Fatal Blow",
+      "summary": "Artificial intelligence has delivered a fatal blow to security through obscurity by enabling the rapid discovery of deeply buried vulnerabilities in aging code and proprietary systems. Security experts warn that this rapid discovery creates immense pressure on defenders by exposing critical operational technologies. Defenders must respond by shifting away from endless patching toward proactive process improvements and systemic prevention."
+    },
+    {
+      "url": "https://joshuasaxe181906.substack.com/p/everyones-talking-past-each-other?utm_source=tldrinfosec",
+      "title": "Everyone's Talking Past Each Other About the OpenAI/Huggingface Hack so Here's a Synthesized View",
+      "summary": "Joshua Saxes attempts to synthesize different perspectives from AI safety researchers, cybersecurity experts, and policymakers on the OpenAI/Huggingface hack. Alignment and security go hand in hand to provide traditional and AI-native controls, with policy also acting as a backstop. Security's job is to provide a deterministic framework to reduce the blast radius of what an agent can do, whereas alignment's job is to constrain what an agent wants to do."
+    },
+    {
+      "url": "https://opensourcesecurity.io/2026/2026-09-daniel-cra?utm_source=tldrinfosec",
+      "title": "CRA vulnerability reporting with Daniel Thompson",
+      "summary": "The Open Source Security podcast notes that the European Union Cyber Resilience Act requires manufacturers to report actively exploited vulnerabilities to ENISA."
+    },
+    {
+      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html?utm_source=tldrinfosec",
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "summary": "Threat actors target Microsoft enterprise users with passkey lures to bypass multi-factor authentication."
+    },
+    {
+      "url": "https://industrialcyber.co/regulation-standards-and-compliance/enisa-launches-single-reporting-platform-as-eu-cyber-resilience-act-vulnerability-reporting-obligations-take-effect/?utm_source=tldrinfosec",
+      "title": "ENISA launches Single Reporting Platform as EU Cyber Resilience Act vulnerability reporting obligations take effect",
+      "summary": "ENISA launched its Single Reporting Platform for Cyber Resilience Act notifications."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-07-30",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.thestateofbrand.com/news/clickup-100x-cmo-one-person-marketing?utm_source=tldrmarketing",
+      "title": "The 100x CMO Job Is Here. ClickUp Is Paying Up To $1M for One Person To Be The Entire Marketing Department",
+      "summary": "ClickUp is hiring a $500K - $1M solo CMO to run its marketing function using AI agents, as companies rethink org structures. While Fortune 500 firms are eliminating the CMO role, ClickUp is consolidating it into one high-leverage operator focused on systems and judgment. The role shows how AI compresses execution and raises the value of taste and decision-making. It also introduces risks around scale and reliance on a single individual."
+    },
+    {
+      "url": "https://www.netinfluencer.com/influencer-marketing-didnt-blow-up-five-years-of-deal-data-shows-it-matured-instead/?utm_source=tldrmarketing",
+      "title": "Influencer Marketing Didn't Blow Up, Five Years of Deal Data Shows It Matured Instead",
+      "summary": "A newly released report based on five years of influencer deal data shows that influencer marketing has matured into a more structured and efficient channel. Average creator contract values grew from $3,065 in 2019 to $7,400 in 2025 while average deal timelines fell 36% as contracts and campaign processes became more standardized. Brands get better results from long-term creator relationships because 24% of partnerships now include repeat engagements, and repeated campaigns build audience trust over time. Micro-creators often generate stronger revenue per follower while larger creators still deliver greater overall reach."
+    },
+    {
+      "url": "https://www.wordstream.com/blog/marketing-tasks-to-automate?utm_source=tldrmarketing",
+      "title": "17 Marketing Tasks You Can Stop Doing Manually",
+      "summary": "Automatable marketing tasks repeat in a predictable pattern and stay easy to review before anything public goes out. Meeting recaps, search term sorting, pulling campaign summaries, and customer feedback clustering are all automatable tasks that can consume a lot of time but require little original thinking. An estimated 10 to 15% of a marketer's time can already be automated with current technology."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/chris-long-marketing_seo-tip-your-competitors-are-rewriting-their-share-7485658919198085122-SW4u/?utm_source=tldrmarketing",
+      "title": "SEO Tip: Track the changes your competitors are making on G2 / Capterra for AEO",
+      "summary": "Find a competitor profile on G2 or Capterra, open it in Ahrefs Page Inspect, and compare the current version to one from 6 to 12 months earlier to see every content change. Use those edits to spot new product descriptions, structured feature sections, and outcome-focused messaging that can improve AI search visibility. Apply the strongest ideas to your own third-party profiles instead of guessing what works."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/zevelez_product-hunt-2026-launch-guide-ugcPost-7488181422864715776-D8L0/?utm_source=tldrmarketing",
+      "title": "7 tips to winning on Product Hunt",
+      "summary": "Being featured on Product Hunt now depends less on total upvotes and more on consistency and credibility. Schedule your launch early to get featured, secure an experienced hunter, and activate supporters in advance with real engagement. Avoid asking for upvotes directly, since coordinated behavior gets penalized. Focus on generating thoughtful comments and replying quickly. Stagger promotion across time zones to maintain steady momentum. Skip paid upvotes, as detection systems can remove votes or derail your entire launch."
+    },
+    {
+      "url": "https://zapier.com/blog/ai-prompt-templates/?utm_source=tldrmarketing",
+      "title": "16 AI prompt templates for better AI agent outputs",
+      "summary": "A list of AI prompt templates that the Zapier team relies on to get usable outputs on the first try. Copy and paste them directly into your own AI agent's instructions or customize them to suit your own needs."
+    },
+    {
+      "url": "https://developers.google.com/search/docs/monitor-debug/analyze-social-video-content?utm_source=tldrmarketing",
+      "title": "Analyze your social and video platform content performance in Search Console",
+      "summary": "Google Search Console now tracks how social and video content performs in Google Search. It gives you search queries, top content, countries, devices, and traffic trends across platforms like TikTok, Instagram, X, and YouTube. Use this data to spot rising search terms, compare formats such as Shorts versus full-length videos or Reels versus posts, and repurpose content that already attracts search traffic. Track title and caption updates over time and promote content across platforms when search interest starts to grow."
+    },
+    {
+      "url": "https://www.elenaverna.com/p/so-you-want-to-be-a-content-creator?utm_source=tldrmarketing",
+      "title": "So, you want to be a content creator?",
+      "summary": "Content creators build stronger audiences by sharing real expertise around a specific niche instead of chasing viral posts or engagement metrics. The author grew a LinkedIn audience from a few thousand connections to 40,000 in one year by posting original frameworks, contrarian ideas, and patterns from real work, then expanded to nearly 100,000 newsletter subscribers by owning distribution outside social platforms. Consistent engagement in the comments and content rooted in firsthand experience created trust and opened new revenue through subscriptions and sponsorships. Audience growth creates business opportunities, but long-term success depends on credibility, authenticity, and solving real problems instead of optimizing for impressions."
+    },
+    {
+      "url": "https://app.sciencesays.com/p/products-made-by-mistake-sell-more?utm_source=tldrmarketing",
+      "title": "Products ‘made by mistake' sell more",
+      "summary": "Accidental product flaws can become a marketing asset when a brand presents them as unique instead of hiding them. Across seven experiments, people were 27.3% more likely to buy a product with an accidental flaw and were willing to pay up to 71.8% more in some cases. This approach works best for established brands that sell products for enjoyment rather than function because uniqueness increases appeal in those categories. Pairing the mistake with a clear explanation and a limited-time promotion can help turn excess inventory into higher demand."
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats?utm_source=tldrmarketing",
+      "title": "Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways",
+      "summary": "Food delivery search breaks classical keyword matching in every way at once, from synonyms and typos to compound constraints like \"vegan chicken sandwich\", which is why DoorDash, Instacart, and Uber Eats each rebuilt it around LLMs differently. DoorDash uses an LLM to enrich an existing knowledge graph offline, then constrains query parsing to only the labels that graph already knows, lifting dish carousel triggers by roughly 30%. Instacart fine-tuned a Llama-3-8B model to handle rare tail queries in real time under 300ms, cutting scroll depth 6% and tail-query complaints in half. Uber Eats went furthest, embedding every query and document through a fine-tuned Qwen model shared across every vertical, market, and language."
+    },
+    {
+      "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/?utm_source=tldrmarketing",
+      "title": "Hilton's CMO on why brand marketing is an ‘irrational affinity business'",
+      "summary": "Hilton lets creators write their own message instead of matching it to brand spec, a trust that holds whether the creator has 10,000 followers or 10 million."
+    },
+    {
+      "url": "https://www.juliedx.com/insights/blog/what-drives-inbound-job-leads-on-linkedin?utm_source=tldrmarketing",
+      "title": "What Actually Drives Inbound Job Leads on LinkedIn",
+      "summary": "Data-backed analysis of LinkedIn inbound leads showing how engagement and profile optimization attract recruiters and hiring managers."
+    },
+    {
+      "url": "https://www.socialmediatoday.com/news/meta-still-has-widest-social-media-reach/825259/?utm_source=tldrmarketing",
+      "title": "Meta still has the widest social media reach",
+      "summary": "Meta remains the leader of the pack in terms of total social platform reach and usage."
+    }
+  ]
+}

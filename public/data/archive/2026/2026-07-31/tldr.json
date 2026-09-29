@@ -1,0 +1,73 @@
+{
+  "name": "TLDR",
+  "date": "2026-07-31",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026?st=VgAado&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
+      "summary": "Tesla executives have been told to prepare for a separation of the China business ahead of a potential merger. The company's advisers have discussed possible options for a separation, including a spinoff, sale, or closure. Tesla's Chinese business is designed to be easily separated from its US business because of geopolitical tensions. Separating the company's China operations would address potential conflicts that may arise from SpaceX's work as a major US defense contractor."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html?utm_source=tldrnewsletter",
+      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
+      "summary": "OpenAI is reducing the price of Terra to $2 per million input tokens and $12 per million output tokens. It is also cutting the cost of Luna to 20 cents per million input tokens and $1.20 per million output tokens. The company is facing pressure to cater to a more cost-sensitive customer base. Sol's pricing remains the same."
+    },
+    {
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a?utm_source=tldrnewsletter",
+      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "summary": "Solid-state batteries have several potential advantages over lithium-ion batteries. A solid-state battery would be lighter and safer than the liquid electrolyte used now. This article looks at why solid-state batteries have these advantages compared to conventional lithium-ion batteries. It also looks at how they fit into the broader arc of lithium battery improvements."
+    },
+    {
+      "url": "https://blog.dshr.org/2026/07/microsofts-project-silica.html?utm_source=tldrnewsletter",
+      "title": "Microsoft's Project Silica",
+      "summary": "Microsoft's Project Silica produced excellent research and was a praiseworthy attempt to craft a technical solution to the extremely difficult economics of the market for archival media. However, the excellent technology will likely fail in the market. LTO tape is well established, has a credible roadmap, and is built into the processes of the likely customers. It is difficult to justify spending more capex to reduce future opex with non-zero interest rates."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/?utm_source=tldrnewsletter",
+      "title": "Stacked pull requests are now in public preview",
+      "summary": "GitHub Stacked Pull Requests break large changes into small, reviewable pull requests that each represent focused layers of the change. They allow developers to independently review and check each pull request, then merge everything together in one click. Stacked pull requests provide short, narrowly scoped pull requests, allowing developers to introduce smaller individual changes while shipping larger features. The feature is built into GitHub, so existing reviews, checks, and merge requirements all work out-of-the-box."
+    },
+    {
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform?utm_source=tldrnewsletter",
+      "title": "Meet Stripe's Knowledge AI Platform",
+      "summary": "Kai, Stripe's Knowledge AI Platform, helps most of Stripe's employees with their day-to-day work. The tool handles the data security requirements and specific workflows Stripe needs. It can query data warehouses, research accounts before sales calls, triage incidents, model revenue scenarios, and prepare compliance reviews. Most Kai sessions require many turns."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/?utm_source=tldrnewsletter",
+      "title": "Chrome may get faster updates with no restart required",
+      "summary": "Chrome 149 and Chrome 150 shipped with a total of 1,072 bug fixes, more than the previous 23 releases combined. AI is changing security analysis and enabling better flaw detection. Google is now piloting a system that would update Chrome twice per week. The company is working on ways to allow patches to be installed without restarting the browser."
+    },
+    {
+      "url": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b?st=pphibh&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
+      "summary": "Situational Awareness has sold the bulk of its stock portfolio to Citadel after suffering deep losses. The firm had amassed over $20 billion in assets, making it one of the fastest-growing firms in years. It encountered funding issues due to margin-call demands from its lenders. Citadel, one of the world's largest hedge-fund firms, has a long record of acquiring assets from forced sellers."
+    },
+    {
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/?utm_source=tldrnewsletter",
+      "title": "The AI Aesthetic",
+      "summary": "Every era brings its own designs - some fade, but others get incorporated into deeper parts of existing software interaction paradigms."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86?st=5vx6f5&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Anthropic AI Models Hacked Three Companies During Tests",
+      "summary": "Anthropic says it discovered that its models hacked three unsuspecting companies after hearing about the recent incident where OpenAI's model autonomously hacked Hugging Face to access data."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/amazon-zoox-robotaxi-rides-las-vegas.html?utm_source=tldrnewsletter",
+      "title": "Amazon's Zoox to begin charging for rides in Las Vegas after clearing NHTSA hurdle",
+      "summary": "Zoox has received a temporary exemption from US regulators that allows it to deploy up to 2,500 vehicles annually for two years."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/?utm_source=dlvr.it&amp;utm_medium=twitter",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "summary": "AI is helping Meta's teams speed up product development, allowing the company to test new ideas at a quicker pace."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html?utm_source=tldrnewsletter",
+      "title": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+      "summary": "Xbox CEO Asha Sharma, a former executive at Instacart and Meta, has appointed new leaders, lowered Game Pass subscription prices, and announced layoffs and divestitures of four development studios since taking over from Phil Spencer."
+    }
+  ]
+}

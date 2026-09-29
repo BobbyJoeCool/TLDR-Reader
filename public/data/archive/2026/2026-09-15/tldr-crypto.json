@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-09-15",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564?utm_source=tldrcrypto",
+      "title": "Mexican authorities raid hidden crypto mine",
+      "summary": "Mexican federal prosecutors, the navy, and state security raided a covert mining operation in Tlaola, Puebla, seizing roughly 300 GPUs, a transformer, 80 medium-voltage terminals, and eight satellite antennas. This is the fourth such site found in the area since early 2025, near a hydroelectric dam authorities suspect was tapped illegally. Investigators are examining whether the operation laundered cartel proceeds, echoing prior Chainalysis findings on mining as a way to generate \"clean\" crypto. Chainalysis estimated illicit addresses received at least $154 billion in 2025, though illicit activity stayed below 1% of tracked transaction volume."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575?utm_source=tldrcrypto",
+      "title": "Senate Republicans release 'final' Clarity Act draft",
+      "summary": "Sens. Lummis, Boozman, and Scott released the Digital Asset Market Clarity Act's final text late Sunday, incorporating 126 Democrat-requested changes. Trump agreed to most of the Tillis-Gallego ethics proposal, giving state attorneys general enforcement power over conflict-of-interest rules for officials, Congress members, and spouses (not extended family). The draft also gives Treasury authority to impose an 18-month stablecoin circuit-breaker protecting community banks from deposit outflows. Polymarket odds of passage this year rose from 22% to 32% after the release."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099315669087179096.html?utm_source=tldrcrypto",
+      "title": "US House to review two crypto tax bills September 16",
+      "summary": "The House Ways and Means Committee will review two crypto tax bills on September 16. The Mining and Staking Tax Clarity Act would defer taxes on newly generated tokens until disposal while still treating the income as ordinary income, though Republicans may limit the deferral to five years. The Applying Existing Tax Law Anti-Abuse Rules to Digital Assets Act would extend wash-sale and constructive-sale rules to digital assets, excluding mining/staking income and eligible USD stablecoins. Both advance to the House floor if approved."
+    },
+    {
+      "url": "https://thedefiant.io/news/defi/valinor-launches-tokenized-bdc-fund-on-superstate?utm_source=tldrcrypto",
+      "title": "Valinor Launches Tokenized BDC Fund On Superstate",
+      "summary": "Valinor Digital launched VBDC on Superstate's FundOS platform, a tokenized fund giving qualified purchasers exposure to publicly traded BDCs trading at steep NAV discounts, including FS KKR Capital (35% below NAV) and Blue Owl Capital (22% below NAV), with a $100K minimum and 1.25% annual management fee. The launch pushes Superstate's combined AUM to $1 billion, joining USTB ($816M), Bitwise Crypto Carry Fund ($158M), and Coinbase USD Stablecoin Yield Fund ($25M) on the platform. Despite launching on September 1, the VBDC token contract shows zero total supply with no on-chain transfers recorded, and DeFi integrations remain listed as coming soon."
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million?utm_source=tldrcrypto",
+      "title": "Bitcoin Bancorp Snaps Up Thousands of Defunct Bitcoin Depot ATMs for $620,000",
+      "summary": "Bitcoin Bancorp (BCBC), a micro-cap trading at $0.04 on OTC Markets with an $18.5 million market cap, won a bankruptcy auction for 2,547 Bitcoin Depot kiosks plus the BitcoinDepot.com domain and related IP for $731,250 combined, a fraction of the $26 million book value Bitcoin Depot assigned to its kiosk fleet in Q4 2025. Bitcoin Depot, which listed on Nasdaq at a roughly $400 million valuation, filed Chapter 11 in May after Q1 revenue fell 49% year-over-year and the company swung from a $12.2 million profit to a $9.5 million loss. The CEO attributed the failure to tightening compliance obligations and transaction limits. Crypto ATM fraud separately reached $389 million in 2025, up 58% year-over-year, prompting the UK, Australia, and Canada to impose restrictions or bans on operators."
+    },
+    {
+      "url": "https://x.com/0xApollo440/status/2098728259475177594?utm_source=tldrcrypto",
+      "title": "Stablecoins were supposed to cut out the middlemen",
+      "summary": "Visa, Mastercard, Coinbase, and Stripe are absorbing stablecoin rails rather than being disintermediated, since settlement is only one part of a payment alongside identity, fraud, disputes, and the customer relationship. Visa's stablecoin settlement volume surpassed a $20 billion annualized run rate in September 2026, over 15x year-over-year, while issuers still depend on Visa for network acceptance. Mastercard's new Wallet Pay lets wallets like Alipay+, CRED, and Mercado Pago extend cross-border through its network, and Coinbase's Moov deal lets 1,000+ community banks add stablecoin capability without leaving their bank relationship. Stripe, having acquired Bridge and Privy and co-incubated the Tempo L1 with Paradigm, is positioning to control which rail a transaction routes through as cards, banks, and stablecoins converge."
+    },
+    {
+      "url": "https://thedefiant.io/converge/defi/latitude-35-million-series-a-stablecoin-local-rails?utm_source=tldrcrypto",
+      "title": "Latitude Building Local Stablecoin Off-Ramps",
+      "summary": "Latitude routes stablecoins to local payment rails and holds 39 US money transmission licenses plus FinCEN registration, with SOC 2 Type II completion targeted for Q4. Payout services are live in Argentina, Brazil, Colombia, Mexico, the Philippines, India, and most of Europe, with beta expansion across Latin America, Southeast Asia, and several African markets underway. The raise lands as stablecoin payment infrastructure consolidates around well-capitalized players, including Circle's $400 million acquisition of Tazapay, Privy's Stripe fiat on-ramp partnership, and Deel's DLUSD wallet rollout to 80+ countries."
+    },
+    {
+      "url": "https://thedefiant.io/news/blockchains/robinhood-chain-revenue-falls-83-from-peak-while-trading-volume-sets-records?utm_source=tldrcrypto",
+      "title": "Robinhood Chain Revenue Falls 83% From Its Peak While Trading Volume Sets Records",
+      "summary": "Robinhood Chain's daily gas revenue fell 82.6% from $5.44 million on September 4 to $943,728 on September 10, driven by average transaction cost compression from $0.43 to $0.077 as the base fee normalized to 0.14 to 0.31 gwei after peaking at 0.467 gwei on September 2. Transaction count declined just 3% over the same period, with 13.6 million processed on September 10, pointing to fee deflation rather than user attrition as the cause. DEX volume on the chain surged 26.5% week-over-week to $12.34 billion, with September 8 setting a single-day record of $2.06 billion. Robinhood Chain leads all networks in seven-day cumulative revenue at $15.15 million, backed by $903.77 million in TVL and $1.01 billion in stablecoin deposits."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593?utm_source=tldrcrypto",
+      "title": "Bernstein sees more Clarity Act progress than markets expected",
+      "summary": "Senate Republicans' concessions on ethics and community bank concerns mean more progress on the Clarity Act than markets expected."
+    },
+    {
+      "url": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=tldrcrypto",
+      "title": "Standard Chartered Forecasts SKY Rising Fivefold to $0.325 by 2028",
+      "summary": "Standard Chartered's SKY initiation sets a $0.325 end-2028 target (5x from $0.065 current price) and pairs it with $18,000 ETH and $300,000 BTC targets from the same report."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099435082100482512.html?utm_source=tldrcrypto",
+      "title": "New crypto cards roundup for September 2026",
+      "summary": "Ethena's EthenaPay neobank launched on Avalanche with up to 6% on idle funds, Cashi's virtual Visa went live in Hong Kong, MoneyGram launched its first stablecoin Visa in Colombia, Western Union's Stablecard is live in 37 markets, THORWallet launched a self-custodial Mastercard in 172 countries, and Privy released an SDK letting apps issue their own stablecoin cards across 25+ markets."
+    },
+    {
+      "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=tldrcrypto",
+      "title": "German Finance Ministry Proposes 25% Crypto Tax Starting 2028",
+      "summary": "Germany's Federal Ministry of Finance has circulated a draft proposal to replace the country's one-year holding exemption with a flat 25% capital gains tax on cryptocurrency trading profits, applying to assets acquired after January 1."
+    }
+  ]
+}

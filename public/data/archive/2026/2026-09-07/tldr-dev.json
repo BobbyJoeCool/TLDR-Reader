@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-07",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://shopify.engineering/mobile-e2e-testing?utm_source=tldrdev",
+      "title": "How We Raised Mobile End-to-End Test Stability to 98%",
+      "summary": "Shopify rebuilt its flaky mobile E2E framework around a strict builder API that requires an assertion after every action and labels escape hatches as UNSAFE_. PaddleOCR and OpenCV now locate visible text and icons the way users see them, helping raise test stability from 50% to 98% while annotated videos make failures easier to diagnose."
+    },
+    {
+      "url": "https://zod.dev/blog/reducing-memory-footprint?utm_source=tldrdev",
+      "title": "Reducing Zod's Memory Footprint by an Order of Magnitude with Method Memoization",
+      "summary": "Zod 4.5 cuts schema memory use by creating bound methods only when they are first accessed instead of attaching dozens of closures to every instance. A bare z.string() now retains 784 bytes instead of 7.5 KB, with 2× to nearly 10× reductions across the benchmarked schema types."
+    },
+    {
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90?utm_source=tldrdev",
+      "title": "Portal by Spotify Cut My Claude Code Token Usage by 90%",
+      "summary": "Spotify routed large file reads and predictable code generation from Claude Code to cheaper Gemini 2.5 Flash workers through Portal modes and a Claude Code plugin. Hooks enforce delegation for files above a size threshold, producing about 90% mean token savings in four Java monorepo scenarios while keeping debugging, architecture, and editing with the frontier model."
+    },
+    {
+      "url": "https://blog.detail.dev/posts/towards-self-driving-codebases?utm_source=tldrdev",
+      "title": "Towards Self-Driving Codebases",
+      "summary": "Throwing more agents at a codebase has produced plenty of code without consistently producing better software. Self-driving codebases need environments agents can inspect, memory that carries corrections across tools, and systems that prevent rot, leaving engineers to focus on high-leverage ideas and architecture."
+    },
+    {
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems?utm_source=tldrdev",
+      "title": "AI Handles Incidents, Engineers Lose Touch with Their Systems",
+      "summary": "AI incident responders can lower MTTR on routine failures while depriving engineers of the practice that builds intuition for rare, ambiguous outages. Regular incident simulations, hands-on drills, and explanations of an agent's evidence can reduce the resulting comprehension debt, though observation cannot replace practice."
+    },
+    {
+      "url": "https://www.antonsten.com/articles/the-building-was-never-the-hard-part/?utm_source=tldrdev",
+      "title": "The Point of a System Is Fewer Decisions",
+      "summary": "AI makes execution cheaper, so a design system's value increasingly comes from preserving decisions instead of merely supplying components. Clear semantic names, fewer overlapping choices, and encoded institutional knowledge prevent people and agents from multiplying ambiguity across a product."
+    },
+    {
+      "url": "https://github.com/shadcn-ui/cn?utm_source=tldrdev",
+      "title": "cn (GitHub Repo)",
+      "summary": "cn is a drop-in replacement for clsx and tailwind-merge that keeps familiar APIs while handling Tailwind class merging and conflict resolution. It has zero dependencies, works across frameworks and runtimes, and benchmarks its most common component call at 30× faster."
+    },
+    {
+      "url": "https://www.vidact.dev/?utm_source=tldrdev",
+      "title": "Vidact (Website)",
+      "summary": "Vidact compiles a documented subset of React 19 into direct DOM operations, so component bodies run once and state updates touch only the nodes and attributes that depend on them. Its beta compiler rejects unsupported APIs at build time instead of silently falling back to the React runtime, while Vidact Start adds routing, loaders, SSR, hydration, and client navigation."
+    },
+    {
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai/?utm_source=tldrdev",
+      "title": "Research Acceleration: The View Inside OpenAI",
+      "summary": "OpenAI reports that by mid-August, its research organization was using 3.1 agent-workdays for every human workday, while experiments per active researcher reached an all-time high. Agents are taking on longer and more complex tasks, but more than half of successful four-to-eight-hour tasks still require human intervention."
+    },
+    {
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/?utm_source=tldrdev",
+      "title": "It Took a Year to Ship WebAssembly in Anubis",
+      "summary": "After a year of compatibility and tooling work, Anubis is adding WebAssembly proof-of-work challenges built around the memory-hard Argon2id algorithm. The implementation runs the same binary on clients and servers, ships SIMD and non-SIMD builds, and falls back to JavaScript generated with wasm2js when WebAssembly is disabled."
+    },
+    {
+      "url": "https://openai.robocurve.org/gpt-6-astra/?utm_source=tldrdev",
+      "title": "GPT-6 Astra on Robotic Manipulation",
+      "summary": "On identical robot-arm tests, GPT-6 Astra placed a block in a bowl in 19 of 20 trials versus 8 of 20 for Fable 5.1, but both completed the harder puzzle insertion only twice."
+    },
+    {
+      "url": "https://austinhenley.com/blog/python1024.html?utm_source=tldrdev",
+      "title": "Making a Python Interpreter in 1024 Bytes",
+      "summary": "A Python-like interpreter written in exactly 1,024 bytes of C supports integer arithmetic, comparisons, indentation-based control flow, functions, recursion, and enough syntax to run FizzBuzz by reparsing source instead of generating an intermediate representation."
+    },
+    {
+      "url": "https://openai.com/index/an-alien-mind/?utm_source=tldrdev",
+      "title": "An Alien Mind",
+      "summary": "Rapidly improving, hard-to-understand AI could sustain recursive self-improvement, making alignment, monitoring, defensive systems, shared safety thresholds, and coordinated slowdowns increasingly urgent."
+    },
+    {
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation?utm_source=tldrdev",
+      "title": "GPT-6 Astra in Code Review: Gains, Privacy, and Cost",
+      "summary": "In CodeRabbit's evaluation, GPT-6 Astra achieved 61.3% actionable bug coverage overall and 57.1% on harder cross-file reviews, beating GPT-5.6 Sol by roughly 4% and 20%, respectively."
+    }
+  ]
+}

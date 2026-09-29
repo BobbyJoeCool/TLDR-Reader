@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-09-03",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.finextra.com/newsarticle/48336/visa-boosts-a2a-fraud-prevention-tech?utm_source=tldrfintech",
+      "title": "Visa boosts A2A fraud prevention tech",
+      "summary": "A2A transactions are projected to surpass 5.8 trillion by 2028, a 160% increase from 2024, making them increasingly attractive to fraudsters. Visa's A2A Protect uses AI and sophisticated transfer learning to give banks immediate access to critical global risk insights on transactions, without waiting months for models to develop intelligence from a bank's own transaction data."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/hyperliquid-in-talks-with-kraken-parent-on-us-market-entry?utm_source=tldrfintech",
+      "title": "Hyperliquid explores US perpetuals push through Kraken parent Payward",
+      "summary": "Hyperliquid Labs is reportedly in advanced talks with Kraken parent Payward to offer certain Hyperliquid-linked perpetual futures to US traders through Bitnomial, the CFTC-regulated derivatives platform Payward agreed to acquire earlier this year. The potential structure would give Hyperliquid a regulated path into the US market, but the talks remain unconfirmed and subject to regulatory approval, while speculation around a possible HIP-3 implementation has not been verified."
+    },
+    {
+      "url": "https://news.kalshi.com/p/kalshi-us-open-official-prediction-market-partner?utm_source=tldrfintech",
+      "title": "Kalshi becomes first-ever prediction market partner of the US Open",
+      "summary": "Kalshi signed a multi-year deal with the USTA to become the exclusive prediction market partner of the US Open. Branding, live market data integrations, fan experiences, and hospitality will begin with the 2026 tournament. The partnership also includes an integrity framework with the USTA and International Tennis Integrity Agency, including data sharing and restrictions on markets tied to umpire decisions, injuries, and code violations."
+    },
+    {
+      "url": "https://www.benrothenberg.com/p/us-open-tennis-betting-odds-kalshi-sponsorship-predictions-market-selling-out-casino-new-york?utm_source=tldrfintech",
+      "title": "The US Open is a casino now",
+      "summary": "Ben Rothenberg argues that the USTA's new Kalshi partnership accelerates an unhealthy fusion of tennis and gambling, pointing to massive trading volumes on even low-level matches and growing harassment of players by bettors. He also highlights the double standard between tournaments taking betting sponsorships while players face strict gambling rules, arguing that commercial incentives are outrunning concerns about integrity and player welfare"
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/32698/stablecoins-are-moving-from-trading-to-payment-infrastructure?utm_source=tldrfintech",
+      "title": "Stablecoins Are Moving From Trading to Payment Infrastructure",
+      "summary": "Stablecoins moved $33 trillion in 2025. Only about $390 billion of stablecoin activity that year went to real-economy payments for goods and services, roughly 1% of the total. The industry has largely solved how to create and move digital dollars. What it has not solved is what happens next: when someone wants to use that balance to pay a supplier, send money home, or buy something without converting back into fiat first."
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/goldman-sachs-bofa-others-plan-issue-dollar-stablecoin-together-2027-2026-09-01/?utm_source=tldrfintech",
+      "title": "Goldman Sachs, BofA and 19 other institutions plan joint dollar stablecoin for 2027",
+      "summary": "A consortium of 21 financial institutions including Goldman Sachs, Bank of America, Citi, and Deutsche Bank plans to form a company this year and launch a dollar-backed stablecoin in the first half of 2027, with euro and other G7 currency tokens potentially following. The initiative would put major banks in direct competition with stablecoin incumbents like Tether and with rival banking consortium Qivalis, though existing bank-issued stablecoins have so far seen limited adoption."
+    },
+    {
+      "url": "https://www.airwallex.com/global/newsroom/t-0-launches-to-provide-startups-with-real-time-accounting-and-financial-intelligence?utm_source=tldrfintech",
+      "title": "Airwallex launches T:0 AI-native accounting platform for US startups",
+      "summary": "Airwallex launched T:0 out of private beta, making its AI-native accounting platform available to startups across the US. The platform automates bookkeeping and revenue recognition, keeps financials continuously updated, and provides real-time visibility into metrics such as cash, burn, and runway while supporting growing complexity across entities, revenue models, and geographies."
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260901321398/en/Block-Will-Open-Its-Cash-App-Score-to-Lenders-with-Nova-Credits-Cash-Flow-Intelligence-Platform-as-Partner?utm_source=tldrfintech",
+      "title": "Block opens Cash App Score to external lenders through Nova Credit",
+      "summary": "Block is making its proprietary Cash App Score available to outside lenders for the first time through Nova Credit's Cash Flow Intelligence Platform, using real-time Cash App activity such as spending, saving, repayments, deposits, and peer-to-peer transactions to supplement traditional credit data. Block says the score approves 38% more Cash App Borrow customers at the same loss rate as traditional scores and could help lenders expand approvals across credit cards, auto loans, personal lending, device financing, and tenant screening without requiring consumers to link new accounts."
+    },
+    {
+      "url": "https://ca.finance.yahoo.com/news/wall-street-banks-push-big-040020954.html?utm_source=tldrfintech",
+      "title": "Wall Street banks push Big Law to cut fees as AI reduces legal workloads",
+      "summary": "Morgan Stanley, Citi, and Goldman Sachs are pressing major law firms to share the efficiency gains from AI through lower fees, competitive bidding, fixed-fee arrangements, and other alternatives to traditional hourly billing. The shift threatens Big Law's leverage model, which depends on large teams of junior lawyers billing long hours, and could accelerate smaller associate classes, more in-house legal work, and a broader move toward pricing based on outcomes rather than time."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48327/singapore-commits-s220m-to-fintech-innovation?utm_source=tldrfintech",
+      "title": "Singapore commits S$220m to fintech innovation",
+      "summary": "The Monetary Authority of Singapore will invest US$173 million over three years to accelerate the development and adoption of technologies including AI, blockchain, quantum computing, and digital assets. The program will also fund shared infrastructure, attract global financial institutions, and support at least 1,000 fintech internships as Singapore builds on an ecosystem of more than 1,800 firms."
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/?utm_source=tldrfintech",
+      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
+      "summary": "The one-click checkout startup is seeking a financial lifeline after its valuation collapsed 97% from $11 billion to $300 million, with Ryan Breslow personally committing $5 million. Existing investors who decline to participate risk losing much of their equity, suggesting the company may be running short on options despite claims it is nearing profitability. Breslow is betting that a 60-person, AI-powered team and Bolt's new financial super app can return the company to growth."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48340/tabapay-closes-155m-financing-agrees-to-buy-a-bank?utm_source=tldrfintech",
+      "title": "TabaPay closes $155m financing; agrees to buy a bank",
+      "summary": "Money movement platform TabaPay is set to buy a Denver-based bank after securing $155 million in strategic growth financing led by FTV Capital."
+    },
+    {
+      "url": "https://thefinancialbrand.com/news/banking-products/personal-loan-levels-set-a-record-but-fintechs-dominate-the-race-199252?utm_source=tldrfintech",
+      "title": "Personal loan levels set a record, but fintechs dominate the race",
+      "summary": "US unsecured personal loan balances has reached a record $281 billion, up 9.6% year over year."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48337/orange-becomes-first-merchant-in-france-to-offer-wero-for-bill-payments?utm_source=tldrfintech",
+      "title": "Orange becomes first merchant in France to offer Wero for bill payments",
+      "summary": "Orange has become the first merchant in France to offer subscription bill payment with Wero."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48333/flix-raises-200m-in-equity-and-debt-to-expand-beyond-remittances?utm_source=tldrfintech",
+      "title": "Félix raises $200m in equity and debt to expand beyond remittances",
+      "summary": "Félix, a chat-based platform that utilises WhatsApp to enable Latino immigrants in the US to send money abroad, is planning to add a host of other financial products after raising $87 million in a Series C equity round."
+    }
+  ]
+}

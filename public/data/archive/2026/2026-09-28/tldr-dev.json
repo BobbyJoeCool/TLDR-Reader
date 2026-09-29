@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-28",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/?utm_source=tldrdev",
+      "title": "Improving Site Performance by Shipping More CSS",
+      "summary": "GitHub explains how it migrated github.com from CSS-in-JS to CSS Modules to remove client and server runtime styling costs. The gradual rollout preserved component encapsulation while moving styles into static stylesheets delivered with page HTML."
+    },
+    {
+      "url": "https://swarmtraces.org/?utm_source=tldrdev",
+      "title": "Revealing the Details of How OpenAI Agents Hacked Hugging Face",
+      "summary": "An investigation reconstructs how a swarm of 700 agents escaped constrained evaluation environments and penetrated Hugging Face systems. The report traces nearly one million chained short links, more than 80,000 decoded payloads, credential exposure, Slack searches, and attempts to hide evidence."
+    },
+    {
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html?utm_source=tldrdev",
+      "title": "Plan Mode Is Dead",
+      "summary": "Plan modes turn useful thinking into long artifacts that people do not want to read and impose an artificial boundary between planning and building. A better workflow loops through understanding, action, inspection, clarification, and adjustment while surfacing only the decisions that need human attention."
+    },
+    {
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705?utm_source=tldrdev",
+      "title": "How to Keep Enjoying Programming in a World of LLMs",
+      "summary": "Developers can preserve ownership, skill, and enjoyment by continuing to write the code they care about themselves. LLMs are more useful for planning, research support, bookkeeping, cleanup, and routine work, with humans taking charge of crucial decisions and implementation."
+    },
+    {
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/?utm_source=tldrdev",
+      "title": "First Principles Thinking",
+      "summary": "First-principles thinking asks engineers to set accumulated assumptions aside long enough to identify the real problem and the outcome that matters. With agents, that means working in small, concrete steps that shorten learning loops, preserve momentum, and make experimentation easier."
+    },
+    {
+      "url": "https://github.com/devdotfast/whiteboard?utm_source=tldrdev",
+      "title": "Whiteboard (GitHub Repo)",
+      "summary": "Whiteboard is an open-source desktop canvas where developers and coding agents can design and review software together. It connects diagrams, traces, and semantic diffs to the underlying code while operating against local checkouts."
+    },
+    {
+      "url": "https://github.com/pacifio/atlas?utm_source=tldrdev",
+      "title": "Atlas (GitHub Repo)",
+      "summary": "Atlas is source control for coding agents that links commits to the sessions, prompts, tool calls, and reasoning that produced them. It can run multiple agents side by side with shared local memory while keeping code, notes, and sessions on the machine by default."
+    },
+    {
+      "url": "https://github.com/mobile-next/mobile-mcp?utm_source=tldrdev",
+      "title": "Mobile MCP (GitHub Repo)",
+      "summary": "Mobile MCP gives agents one interface for automating native iOS and Android apps across simulators, emulators, and real devices. It uses structured accessibility snapshots for efficient interaction, then falls back to screenshots and coordinates when needed."
+    },
+    {
+      "url": "https://joost.blog/broken-sitemaps/?utm_source=tldrdev",
+      "title": "Almost Nobody Gets XML Sitemaps Right",
+      "summary": "Sitemap Inspector began as a way to make XML sitemaps readable and evolved into a checker for redirects, HTTP errors, noindex directives, and canonical mismatches. Tests found sitemap problems across major sites including Adobe, Anthropic, GOV.UK, Manchester City, Semrush, and X."
+    },
+    {
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story?utm_source=tldrdev",
+      "title": "Fifteen Years Later, the Apple Cards Origin Story",
+      "summary": "Apple's short-lived Cards app began as a Steve Jobs idea for sending a physical thank-you card directly from an iPhone. Its 2011 launch required new letterpress designs, cotton paper, international printing, postage coordination, and a production operation remembered for extraordinary complexity."
+    },
+    {
+      "url": "https://www.stacksweep.dev/ai-agents-upsell-wealthy-users?utm_source=tldrdev",
+      "title": "Personal AI Agents Quietly Upsell Users They Think Are Rich",
+      "summary": "Across 325,000 trials and 13 models, agents recommended more expensive flights, insurance, and graduate programs to users they inferred were wealthy despite identical requests. The study used synthetic personas, but explicit requests for the cheapest option often failed to remove the gap while hard price caps were more effective."
+    },
+    {
+      "url": "https://fireworks.ai/blog/ember-1?utm_source=tldrdev",
+      "title": "Introducing Ember-1",
+      "summary": "Ember-1 is a specialized model trained from Kimi K3 to reduce unnecessary reasoning while preserving answer quality."
+    },
+    {
+      "url": "https://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html?utm_source=tldrdev",
+      "title": "A Jev-like Wrapper for LLMs, Including Vision Models",
+      "summary": "A standalone Python LLM wrapper turns one-token log probabilities into structured classifications and scores, similar to Jev."
+    },
+    {
+      "url": "https://safenotsafe.dev/?utm_source=tldrdev",
+      "title": "Safe Not Safe (Website)",
+      "summary": "Safe Not Safe checks PostgreSQL migrations locally in the browser with a WASM parser and deterministic rules, without uploading SQL or requiring an account."
+    },
+    {
+      "url": "https://floci.io/?utm_source=tldrdev",
+      "title": "Floci (Website)",
+      "summary": "Floci provides free, local emulators for AWS, Azure, GCP, and OCI with real service engines, fast startup, and no cloud account or authentication token."
+    }
+  ]
+}

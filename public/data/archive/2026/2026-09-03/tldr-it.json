@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-03",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/?utm_source=tldrit",
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "summary": "Attackers accessed Dropbox accounts by exploiting a flaw in Lenovo's email verification process to create fraudulent Lenovo IDs tied to victims' email addresses, allowing them to authenticate without the Dropbox password. Roughly 5,000 accounts were reportedly affected, making the incident a useful reminder that federated identity risk can extend well beyond your primary IdP."
+    },
+    {
+      "url": "https://www.atlassian.com/blog/company-news/expanded-usage-based-pricing?utm_source=tldrit",
+      "title": "Atlassian's usage-based pricing: AI value with predictability and control",
+      "summary": "Atlassian is expanding usage-based pricing across Rovo credits, automation steps, and autonomous AI-agent resolutions, with billing beginning December 3. Admins will get centralized usage visibility, alerts, and spending limits, making AI and automation consumption another part of SaaS cost management alongside licenses and seats."
+    },
+    {
+      "url": "https://www.businessinsider.com/meta-switching-from-google-chat-slack-for-ai-agents-2026-9?utm_source=tldrit",
+      "title": "Meta is switching to Slack because it says it's better for AI agents",
+      "summary": "Meta is moving its internal communications from Google Chat to Slack, with AI chief Alexandr Wang citing Slack's conversational interface, developer tooling, and third-party integrations as better suited to AI agents. The move is notable because collaboration platforms are increasingly becoming the control layer through which employees and agents interact with enterprise systems."
+    },
+    {
+      "url": "https://www.cio.com/article/4214391/why-cisco-is-redefining-its-cio-role.html?utm_source=tldrit",
+      "title": "Why Cisco is redefining its CIO role",
+      "summary": "Cisco says the profile of a successful CIO is changing from someone focused primarily on applications, integrations, and UX to someone capable of redesigning how the company operates. Its EVP of operations argues that process transformation, AI governance, and deciding where agents should execute work are becoming increasingly central to the job."
+    },
+    {
+      "url": "https://industrycontents.com/rezolve-ai-revenue-partner-distribution/?utm_source=tldrit",
+      "title": "Rezolve Ai Shows Why Enterprise Sales Still Needs Middlemen",
+      "summary": "Enterprise AI companies increasingly need cloud providers, distributors, consultancies, and systems integrators to reach large customers because those partners already have contracts, approvals, and delivery teams. Rezolve Ai illustrates the trade-off: its first-half revenue rose to $130.8 million from $6.3 million after acquisitions and expansion, while gross margin fell to 48.9%, and the company has not disclosed how much partner relationships contribute."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/?utm_source=tldrit",
+      "title": "Adobe is making its tools available in Slack",
+      "summary": "Adobe is bringing more than 70 tools from products including Photoshop, Acrobat, Premiere, Illustrator, Express, and Firefly into Slack through an MCP integration with Slackbot. Business+ and Enterprise+ users can use Slack conversations and files as context while creating or modifying content without leaving Slack."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/09/automate-drive-gmail-and-google-chat-actions-with-new-steps-in-workspace-studio.html?utm_source=tldrit",
+      "title": "Automate Drive, Gmail, and Google Chat actions with new steps in Workspace Studio",
+      "summary": "Google Workspace Studio is adding automation steps that can copy or move Drive files, reply to Gmail threads, and post replies in Google Chat. Importantly for IT, admins can disable individual actions and require user approval when workflows could share data outside the organization."
+    },
+    {
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards?utm_source=tldrit",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "summary": "Anthropic's Enterprise Frontier Safeguards (EFS) is a solution designed to combine zero data retention with automated detection of serious misuse of frontier models. EFS stores monitoring data in customer-controlled cloud infrastructure and sends detected signals to customer teams, with phased rollout planned for later this fall and interim ZDR for eligible customers using Fable 5 and Fable 5.1."
+    },
+    {
+      "url": "https://objective-see.org/blog/blog_0x28.html?utm_source=tldrit",
+      "title": "Analyzing CrossRAT",
+      "summary": "This is a technical analysis of CrossRAT, a Java-based multiplatform surveillance implant associated with the Dark Caracal cyber-espionage campaign. It examines the malware's package structure, operating-system detection, intended persistence mechanisms, command-and-control communications, and capabilities, including file-system manipulation, screenshots, and arbitrary DLL execution on Windows."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/?utm_source=tldrit",
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "summary": "Microsoft is investigating a Defender for Office 365 Safe Links issue incorrectly identifying legitimate Google search URLs as malicious. The bug can block users from opening links and generate related incidents in Defender and Sentinel, potentially creating both helpdesk noise and false-positive alert volume for IT teams."
+    },
+    {
+      "url": "https://www.okta.com/blog/identity-security/okta-ispm-ai-agent-discovery/?utm_source=tldrit",
+      "title": "Okta adds AI agent discovery to Identity Security Posture Management",
+      "summary": "Okta ISPM can now discover shadow AI agents, MCP servers, OAuth grants, and agents built in platforms such as Copilot Studio and Salesforce Agentforce."
+    },
+    {
+      "url": "https://developer.chrome.com/blog/chrome-two-week-release?utm_source=tldrit",
+      "title": "Get features faster with Chrome's two-week release cycle",
+      "summary": "Chrome's move from four-week to two-week Stable releases begins September 8 with Chrome 153, while the eight-week Extended Stable channel for enterprise admins remains unchanged."
+    }
+  ]
+}

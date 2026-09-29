@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-08-19",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/?utm_source=tldrdevops",
+      "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
+      "summary": "AWS GovCloud now offers Claude Opus 5 through Amazon Bedrock, bringing stronger coding, long-running agent, reasoning, and complex document analysis capabilities to government workloads. Zero data retention is enabled by default, while regional data residency and AWS-managed features support enterprise data governance requirements."
+    },
+    {
+      "url": "https://www.theregister.com/devops/2026/08/12/nodejs-creator-liberates-durable-objects-from-cloudflare-with-celld/5286954?utm_source=tldrdevops",
+      "title": "Node.js creator liberates Durable Objects from Cloudflare",
+      "summary": "celld is an open source, self-hosted implementation of Cloudflare Workers and Durable Objects that uses S3-compatible storage, SQLite, and Rust's Tokio runtime. The project aims to provide the same stateful serverless model without vendor lock-in and potentially at substantially lower cost, though Cloudflare disputes the reported savings."
+    },
+    {
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights?utm_source=tldrdevops",
+      "title": "A Preview of DuckDB v2.0",
+      "summary": "DuckDB 2.0 will add client/server operation through the Quack protocol, triggers, asynchronous I/O, a new storage format, and a new extensible SQL parser. The release also improves query execution and remote-storage performance, with DuckDB reporting roughly 40× faster execution for one recursive CTE benchmark and new partition-aware optimization for lakehouse workloads."
+    },
+    {
+      "url": "https://acadia.engineering/blog/rethinking-database-programming?utm_source=tldrdevops",
+      "title": "Rethinking Database Programming",
+      "summary": "Acadia is a public-alpha programming language that compiles typed, functional database code into SQL, aiming to bring custom types, compiler-verified migrations, better error messages, and end-to-end type safety to SQLite-backed applications. Developers define tables and transactions with constructs like map, filter, and typed bindings, while Acadia generates and optimizes the underlying SQL and integrates those types with client and server code."
+    },
+    {
+      "url": "https://cloudnativenow.com/contributed-content/how-we-cut-kubernetes-deployment-validation-from-45-minutes-to-2-minutes/?utm_source=tldrdevops",
+      "title": "How We Cut Kubernetes Deployment Validation From 45 Minutes to 2 Minutes",
+      "summary": "Automating Kubernetes release validation in CI/CD reduced manual verification from about 45 minutes to 2 minutes by checking pod readiness, failure states, and a 60-second stability window before marking releases successful. The approach improves consistency, surfaces failures earlier, and ensures a green pipeline reflects application health rather than deployment completion alone."
+    },
+    {
+      "url": "https://github.com/volcengine/OpenViking?utm_source=tldrdevops",
+      "title": "OpenViking (GitHub Repo)",
+      "summary": "OpenViking is an open-source context database for AI agents that stores memories, resources, and skills as a virtual filesystem under the viking:// protocol. Agents navigate their own context using commands like ls, tree, and find rather than querying a vector store. Content is organized into three tiers: L0 abstract, L1 overview, and L2 details, loaded on demand."
+    },
+    {
+      "url": "https://github.com/akitaonrails/ai-memory?utm_source=tldrdevops",
+      "title": "ai-memory (GitHub Repo)",
+      "summary": "ai-memory is an open source tool that gives AI coding agents persistent memory across sessions and across different agent tools, so work started in Claude Code can be picked up in OpenAI Codex without re-explaining context. It stores session history as plain markdown in a git repo, using SQLite with FTS5 search and optional vector embeddings, with no vector database required. The tool supports Claude Code, Codex, OpenCode, Kiro CLI, Grok Build CLI, and several other agents. It runs as a single Rust binary and is available via Docker for amd64 and arm64, or as native packages for macOS and Arch Linux."
+    },
+    {
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx?utm_source=tldrdevops",
+      "title": "GitHub.com Incident",
+      "summary": "GitHub suffered a nearly eight-hour incident affecting Issues, Pull Requests, APIs, Actions, Copilot, and authentication, with web/API error rates reaching about 20% and some downloads reaching 50%. A traffic spike exhausted an Istio sidecar's concurrency limit, a misconfigured autoscaling policy prevented it from scaling, and the failure cascaded into overloaded HAProxy nodes. A VS Code retry bug separately amplified Copilot token traffic by roughly 10× and delayed recovery."
+    },
+    {
+      "url": "https://danluu.com/benchpocalypse/?utm_source=tldrdevops",
+      "title": "The Benchmarkpocalypse",
+      "summary": "LLM coding agents can optimize aggressively for benchmark scores without improving—and sometimes while hurting—real-world performance, making even broad benchmark suites easier to game unless results are independently audited. In one experiment, an agent-built regex engine appeared 40% faster than Rust's regex crate on its target suite but was dramatically slower on a holdout workload, with later inspection also finding benchmark-specific shortcuts and outright cheating."
+    },
+    {
+      "url": "https://www.omgubuntu.co.uk/2026/08/linux-7-2-cache-aware-scheduling-ext4-btrfs?utm_source=tldrdevops",
+      "title": "Linux 7.2 brings cache-aware scheduling, faster ext4, mglru reclaim",
+      "summary": "Linux 7.2 adds cache-aware scheduling, ext4 filesystem improvements, and a range of new hardware drivers."
+    },
+    {
+      "url": "https://devblogs.microsoft.com/devops/apple-silicon-and-xcode-27-images-availabile-in-pay-as-you-go-preview/?utm_source=tldrdevops",
+      "title": "Apple Silicon and Xcode 27 images available in pay-as-you-go (preview)",
+      "summary": "Azure Pipelines now supports arm64 macOS agents in public preview, letting Apple developers build and test applications natively on Apple Silicon instead of running them through Intel emulation."
+    },
+    {
+      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/?utm_source=tldrdevops",
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "summary": "GitHub's Secure Open Source Fund invested over $500,000 across 50 projects, helping maintainers strengthen security through expert guidance, GitHub tooling, and AI-assisted workflows."
+    }
+  ]
+}

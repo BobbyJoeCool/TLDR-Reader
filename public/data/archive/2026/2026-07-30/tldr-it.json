@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-30",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.networkworld.com/article/4202554/ibm-ai-driven-attacks-increased-56-last-year-and-data-breach-costs-are-up-12.html?utm_source=tldrit",
+      "title": "AI-driven attacks increased 56% last year, and data breach costs are up 12%",
+      "summary": "AI-driven attacks rose 56% over the past year and added an average of $1 million to breach costs, according to IBM's analysis of incidents at 602 organizations. The average breach now costs $4.99 million globally, while organizations using AI and automation extensively in security saved an average of $1.93 million per incident."
+    },
+    {
+      "url": "https://www.theregister.com/networks/2026/07/28/cisco-close-to-releasing-more-ai-models-this-time-for-deep-networking-ops/5279350?utm_source=tldrit",
+      "title": "Cisco close to releasing more AI models, this time for deep networking ops",
+      "summary": "Cisco is preparing to release AI models trained specifically on routing, switching, and network troubleshooting, alongside its Cloud Control agentic operations platform. Cloud Control will let administrators diagnose issues across Cisco products through a single interface, explain the potential impact of actions such as reboots, and support on-prem deployments, with US availability planned by the end of August."
+    },
+    {
+      "url": "https://patchmypc.com/blog/why-intune-devices-became-noncompliant-after-the-july-windows-update/?utm_source=tldrit",
+      "title": "Why Intune Devices Became Noncompliant After the July Windows Update",
+      "summary": "A Windows regression caused some newly enrolled or recovered Intune devices to incorrectly report BitLocker, Secure Boot, and Code Integrity as noncompliant, even when those controls were enabled. Microsoft initially reduced the impact through an Intune service change and recommends installing preview update KB5101684 for the complete Windows-side fix."
+    },
+    {
+      "url": "https://thenewstack.io/perplexity-space-agent-sandboxes/?utm_source=tldrit",
+      "title": "“Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes",
+      "summary": "Perplexity's SPACE platform separates short-lived Firecracker microVM sandboxes from durable sessions that can be paused, resumed, moved, or forked across clusters without losing an agent's work. The architecture uses frequent snapshots, isolated credential handling, and network controls to securely support long-running agents at a scale of millions of sandbox creations and tens of millions of reconnects."
+    },
+    {
+      "url": "https://www.cio.com/article/4202795/snowflake-launches-ai-agent-governance-layer-to-track-activity-control-costs.html?utm_source=tldrit",
+      "title": "Snowflake launches AI agent governance layer to track activity, control costs",
+      "summary": "Snowflake unveiled Cortex AI Gateway, a runtime control plane for tracking agent actions, enforcing access policies, and monitoring token usage and costs across models, tools, MCP servers, and enterprise systems. Built using technology acquired from Natoma, the service integrates with Snowflake's Horizon Catalog and is expected to enter public preview soon."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/07/29/abnormal-ai-extends-behavioral-security-to-identities-ai-systems-and-insider-threats/?utm_source=tldrit",
+      "title": "Abnormal AI extends behavioral security to identities, AI systems, and insider threats",
+      "summary": "Abnormal AI launched three products that extend its behavioral security platform into identity threat detection, AI governance, and fraudulent applicant screening. The tools correlate email, identity, SaaS, agent, and recruiting signals to flag compromised sessions, risky AI activity, suspicious help-desk requests, and potentially fabricated candidates before access is granted."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/07/29/reco-ai-runtime/?utm_source=tldrit",
+      "title": "Reco enhances AI Runtime with browser-based AI security and automated remediation",
+      "summary": "Reco expanded its AI Runtime platform with browser-based discovery of unsanctioned AI usage, automated permission remediation, and planned controls that analyze and block risky prompts, responses, and tool calls in real time. Browser Guard is in early access, while broader runtime enforcement across agents and MCP connections is expected to become generally available in October."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/?utm_source=tldrit",
+      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+      "summary": "The FCC banned imports of new foreign-made humanoid robots, robot dogs, and power inverters over concerns that connected devices could be remotely controlled, used for surveillance, or exploited in cyberattacks. Existing installations are unaffected, and exceptions may be granted for devices deemed safe."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/07/28/brandy-wityak-levelblue-shadow-ai-incident-response/?utm_source=tldrit",
+      "title": "Shadow AI incident response begins with logs that may already be gone",
+      "summary": "Shadow AI investigations often stall because endpoint and firewall logs have already rolled over, leaving organizations unable to prove what data was shared or whether their controls worked."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/07/29/1password-ai-agent-governance/?utm_source=tldrit",
+      "title": "Your AI agents can reach data no one approved",
+      "summary": "A 1Password survey found that 71% of organizations' AI agents can access sensitive data, while one-third of developers reported a security incident tied to overprivileged non-human identities."
+    }
+  ]
+}

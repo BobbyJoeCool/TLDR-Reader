@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-09-16",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wsj.com/tech/ai/openai-considers-pre-ipo-funding-round-at-more-than-1-2-trillion-valuation-54555295?st=LF5WKn&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
+      "summary": "OpenAI has held early discussions with investors about a financing round that would precede the company's highly anticipated initial public offering expected next year. The new funding round, which could value the company at more than $1.2 trillion, has been delayed due to concerns about AI safety. OpenAI has reached more than one billion active users, with more than 200 million businesses using its models."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/?utm_source=tldrnewsletter",
+      "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
+      "summary": "SpaceX plans to launch its 14th Starship mission as early as September 22. It will be the first time SpaceX attempts to launch the experimental vehicle into orbit. The super heavy lift rocket will be carrying 26 of the larger V3 Starlink satellites into orbit 275 kilometers above Earth. The upper stage will seek to complete six orbits around Earth before completing its mission after about 10 hours. SpaceX will not attempt a return of the upper stage to the launch site in Texas on this mission, as it plans to gather more data about heat shield performance."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html?unlocked_article_code=1.BlE.nuBX.48rpmwLEeo1-&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Is There Anything a Fruit Fly Brain Can't Do?",
+      "summary": "Researchers at the Janelia Research Campus at the Howard Hughes Medical Institute in Virginia, in partnership with Google, recently published a new map of the adult male fruit fly's brain. The effort, which involved hundreds of scholars, resulted in a complete map of the fly's 166,000 neurons that can be trained to complete tasks like solving a Rubik's Cube or playing poker. Internet engineers and artists have made the model complete many seemingly impossible tasks for a fruit fly, like parallel parking a car, playing Doom, and trading cryptocurrencies."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/?utm_source=tldrnewsletter",
+      "title": "Agility's new humanoid robot will stop, squat to avoid harming human coworkers",
+      "summary": "Agility Robotics has debuted a humanoid robot engineered to work safely near humans without risking harm to their co-workers. The robot autonomously takes precautions when it detects a person at a distance, such as moving to avoid the person or standing still so the person can pass without getting closer. It can even choose to squat and assume a seated position if a person is getting too close. The robot will be available in early access within the first half of 2027 and become generally available by the end of the year."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/?utm_source=tldrnewsletter",
+      "title": "Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today",
+      "summary": "Google has released two new speech-to-speech models similar to OpenAI's GPT-Live family. Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are advanced live dialogue models with major upgrades in intelligence and parallel reasoning. They are more intuitive to collaborate with than previous models and can be used to execute complex tasks using voice prompts. Users can select a model and voice preset, enter an optional system prompt, and then start a voice conversation through their browser. The models can be interrupted while talking."
+    },
+    {
+      "url": "https://yegge.ai/essays/seats-and-sunsets/?utm_source=tldrnewsletter",
+      "title": "Seats and Sunsets",
+      "summary": "Until Fable-tier intelligence gets cheap, everyone building orchestrators is just dabbling. They aren't getting anywhere useful yet. The pace of model development will likely continue. However, resource limitations like compute and RAM have started to flatten the curve."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html?unlocked_article_code=1.BlE.mZD7.hdwF58poMiHx&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over AI Slowdown",
+      "summary": "Mark Zuckerberg made a social media post on Tuesday, saying that calls to pause AI development industrywide were the wrong approach. He said that every lab has the responsibility and incentive to move at the pace required to train its models safely. He acknowledged the risks of AI, but said companies were already incentivized to keep users safe and slow progress on their own. Meta has been aiming to catch up in the AI race after falling behind Anthropic and OpenAI last year. It plans to release a new model, internally called Watermelon, in the coming weeks."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html?unlocked_article_code=1.BlE.DW7g.k_0NEuq6-JwF&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+      "summary": "The US Senate has voted to block consideration of the Clarity Act, a piece of legislation that would create business-friendly rules for cryptocurrencies. The vote makes it unlikely the legislation will pass anytime soon, if ever. Many Republicans embraced the bill, but Democrats largely opposed it. The Democrats wanted stronger language to prevent public officials from using crypto to make money. President Trump generated $1.4 billion from a network of crypto businesses last year."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2099898254905549220.html?utm_source=tldrnewsletter",
+      "title": "OpenRouter users spent more on OpenAI models than on Anthropic models last week",
+      "summary": "The last time OpenRouter users spent more on OpenAI than on Anthropic models was more than two and a half years ago."
+    },
+    {
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/?utm_source=tldrnewsletter",
+      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+      "summary": "Cloudflare's new Disallow AI Training setting lets users easily stay indexed for search while refusing to let crawlers train on their content."
+    },
+    {
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev?utm_source=tldrnewsletter",
+      "title": "Introducing System One Models & Jev",
+      "summary": "TypeSafe AI's Jev model, available now in early access, is part of a new class of frontier models called System One Models built to make fast, structured decisions that software can use directly."
+    },
+    {
+      "url": "https://x.com/jack/status/2099649359017046048?utm_source=tldrnewsletter",
+      "title": "Open the frontier",
+      "summary": "No company owns what comes next, and more people should be able to advance the edge of what we know."
+    },
+    {
+      "url": "https://trpevski.com/blog/image-model-decide-everything?utm_source=tldrnewsletter",
+      "title": "I Stopped Letting the Image Model Decide Everything",
+      "summary": "Some decisions, where creativity adds almost no value, don't need to be reinterpreted on every generation."
+    },
+    {
+      "url": "https://github.com/tailscale/tailcat?utm_source=tldrnewsletter",
+      "title": "Tailcat (GitHub Repo)",
+      "summary": "Tailcat is like netcat, but over Tailscale's data plane and without Tailscale's control plane."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-12",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.esecurityplanet.com/threats/ransomware-attacks-are-targeting-managers-and-other-business-leaders/?utm_source=tldrit",
+      "title": "Ransomware Attacks Are Targeting Managers and Other Business Leaders",
+      "summary": "Zscaler ThreatLabz research suggests ransomware operators are increasingly targeting managers and other business leaders whose business authority, relationships, and access can expose sensitive information and processes."
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now?utm_source=tldrit",
+      "title": "Mistral wants to build 1 GW of European AI compute by 2030",
+      "summary": "Mistral plans to build up to 1 GW of AI compute capacity in Europe by 2030 as it pushes for more sovereign infrastructure. The company is already seeking long-term customer commitments to support the expansion."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap?utm_source=tldrit",
+      "title": "Google Cloud lays out its post-quantum cryptography roadmap",
+      "summary": "Google Cloud details how it plans to transition its infrastructure and services toward post-quantum cryptography. The roadmap gives enterprises a clearer picture of how cloud providers are preparing for future quantum-era security requirements."
+    },
+    {
+      "url": "https://tomtunguz.com/a-winner-in-every-category?utm_source=tldrit",
+      "title": "A Winner in Every Category",
+      "summary": "Despite a broad SaaS multiple collapse, market leaders in most software categories continue to command substantial premiums because investors see credible AI-driven growth and durability. CrowdStrike, Cloudflare, Shopify, Samsara, ServiceNow, Figma, Twilio, and Salesforce are presented as category leaders whose products provide security, infrastructure, proprietary data, governance, design, communications, or customer records for enterprise AI adoption."
+    },
+    {
+      "url": "https://www.theregister.com/ai-ml/2026/08/11/enterprise-ai-projects-fail-because-governance-is-ceded-to-a-vendor-says-cto-advisor/5286244?utm_source=tldrit",
+      "title": "Why enterprise AI projects fail at the agent layer",
+      "summary": "Enterprise AI failures increasingly stem from how agents are governed and orchestrated rather than from the models themselves. Companies risk losing control when they outsource too much of that reasoning layer to vendors."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/08/jetbrains-ai-spend/?utm_source=tldrit",
+      "title": "JetBrains tackles rapidly growing AI costs",
+      "summary": "JetBrains detailed its early approach to measuring and controlling AI-related infrastructure spending as usage scales. The effort highlights AI cost management becoming a distinct operational problem for engineering teams."
+    },
+    {
+      "url": "https://blogs.cisco.com/ai/secure-claude-enterprise-with-cisco-ai-defense?utm_source=tldrit",
+      "title": "Secure Claude Enterprise with Cisco AI Defense",
+      "summary": "Cisco says its AI Defense service now integrates with Claude Enterprise through Anthropic's inference hooks, inspecting governed prompts and conversation transcripts before inference to block prompt injections, jailbreaks, tool exploitation, and sensitive-data risks. The integration works with Claude, Claude Code, and Claude Cowork, providing inline allow-or-deny enforcement without changing users' workflows, although inference hooks remain in beta and currently enforce only before model execution."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms?utm_source=tldrit",
+      "title": "Google brings Gemini to PostgreSQL migrations",
+      "summary": "Google Cloud added Gemini-powered code conversion to Database Migration Service to help migrate databases to PostgreSQL. Teams can review AI-generated PL/pgSQL conversions alongside the original source code before deploying them."
+    },
+    {
+      "url": "https://zapier.com/blog/enterprise-workflow-automation/?utm_source=tldrit",
+      "title": "What is enterprise workflow automation?",
+      "summary": "Enterprise workflow automation connects systems and departments to execute repeatable, multi-step business processes without manual handoffs. It uses a trigger-logic-integration structure and delivers benefits such as scalability, compliance, consistency, and citizen development. Zapier-based examples show how teams can automate processes across sales, marketing, customer service, and IT."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/08/canva-session-revocation-scale/?utm_source=tldrit",
+      "title": "Canva redesigns session revocation for 100M active sessions",
+      "summary": "Canva moved durable session-revocation records to Amazon S3 and distributes compact indexes to application gateways, reducing database dependencies at massive scale. The redesign also cut its revocation cache memory footprint by 87.5%."
+    },
+    {
+      "url": "https://blog.zm.is/an-inter-mesh-deployment-pipeline/?utm_source=tldrit",
+      "title": "An inter-mesh deployment pipeline",
+      "summary": "An inter-mesh deployment pipeline manages about 72 applications across staging and production, enabling secure, auditable deployments while leaving self-deployment of the pipeline unresolved."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/infrastructure/introducing-americas-connect?utm_source=tldrit",
+      "title": "Google Cloud expands its subsea network across the Americas",
+      "summary": "Google announced three new subsea cable systems—Alisios, Canoa, and OlaLuz—to expand cloud network capacity and resiliency across the Americas."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/08/lightwell-ai-open-source/?utm_source=tldrit",
+      "title": "IBM and Red Hat expand software supply-chain tooling for AI-generated code",
+      "summary": "New Lightwell offerings add software signing, provenance, artifact verification, and policy enforcement for both human- and AI-generated software."
+    }
+  ]
+}

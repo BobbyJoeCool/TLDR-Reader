@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-10",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming?utm_source=tldrdesign",
+      "title": "ByteDance is Preparing a Real-Time Spatial Video Model",
+      "summary": "ByteDance is developing a real-time spatial video model, built on its Seedance system for Pico headsets. The model would generate interactive 3D worlds in the cloud at around 20 frames per second with roughly 50 milliseconds of latency, shifting rendering costs away from device hardware. A launch could come as soon as next month, part of ByteDance's broader 2026 push to lead in world models alongside $30 billion in secured loans and up to $70 billion in planned AI infrastructure spending."
+    },
+    {
+      "url": "https://ux-news.com/adobe-is-building-a-new-ai-design-tool-called-project-oasis/?utm_source=tldrdesign",
+      "title": "Adobe is Building a New AI Design Tool Called Project Oasis",
+      "summary": "Project Oasis is Adobe's new web-based graphic design app, described as a modern workspace with brand-aware AI built into the workflow. A September 7 community post invites agency, freelance, and in-house designers into early access, with a private feedback channel and an NDA. Pricing, a full feature list, and a launch date remain undisclosed."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/?utm_source=tldrdesign",
+      "title": "Apple Unveils Its First Foldable, the iPhone Duo",
+      "summary": "Apple has unveiled the iPhone Duo, its first foldable. Featuring a 7.6-inch inner display, a 5.4-inch outer screen, Touch ID, and an adaptable iOS 27 interface designed for split-screen and half-folded use, the wider device supports paired apps and tabletop video. Counterpoint estimates it could capture up to 25% of the foldable market by year-end, despite foldables accounting for less than 2% of global smartphone shipments."
+    },
+    {
+      "url": "https://commandline.microsoft.com/design-product-simplicity-seamless-ux-ui-agentic-ai-azure-developer-services-foundry/?utm_source=tldrdesign",
+      "title": "Designing Product Simplicity for the Agentic AI Era",
+      "summary": "Microsoft's CoreAI portals all sat on Fluent 2 and still felt disjointed, because shared components did not prevent teams from inventing different navigation, layouts, and flows. The CoreAI Design System, forked from Foundry's work, ships guidance through both a Figma library and an experimental MCP server so coding agents can consume it too."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/product-design/some-people-are-worried-apples-folding-iphone-design-could-present-a-brand-new-health-risk?utm_source=tldrdesign",
+      "title": "Some people are worried Apple's folding iPhone design could present a brand new health risk",
+      "summary": "Rumors suggest Apple's upcoming foldable iPhone will be noticeably heavier than a standard iPhone, prompting concerns from a physical therapist that the added weight and grip could increase thumb and hand strain during prolonged use. Similar complaints have already been reported by some owners of existing foldable phones, though the risk is mainly associated with repetitive, extended use. Experts recommend taking breaks every 30–45 minutes, stretching your hands, and putting the phone down regularly to reduce fatigue and injury."
+    },
+    {
+      "url": "https://karlkoch.me/writing/principles-for-building-a-design-engineering-practice/?utm_source=tldrdesign",
+      "title": "Principles for Building a Design Engineering Practice",
+      "summary": "Six principles set the quality bar for a design engineering practice being built at DuckDuckGo, where the team is still small and hiring its second member. They cover understanding problems before making, owning the experience past handoff, making trust effortless, reducing scope rather than quality, finishing every state, and making craft repeatable. Moving fast by making less, better is the one expected to be tested most often."
+    },
+    {
+      "url": "https://boneyard.vercel.app/overview?utm_source=tldrdesign",
+      "title": "Skeleton Screens for Your UI (Website)",
+      "summary": "boneyard snapshots your real UI and captures a flat list of skeleton \"bones\" — positioned, sized rectangles that mirror the page exactly."
+    },
+    {
+      "url": "https://cmmnts.in/?utm_source=tldrdesign",
+      "title": "A Comments Section for Any Page (Website)",
+      "summary": "cmmnts is a lightweight comment section and comments library for any website. Add threaded comments, live updates, and moderation with one script tag."
+    },
+    {
+      "url": "https://uiverse.io/design/?utm_source=tldrdesign",
+      "title": "Design Systems for Coding Agents (Website)",
+      "summary": "Drop the design system into any codebase and your coding agent instantly knows how to build consistent, polished interfaces."
+    },
+    {
+      "url": "https://www.designweek.co.uk/ragged-edges-rebrand-for-financial-app-tabby-takes-a-playful-approach/?utm_source=tldrdesign",
+      "title": "Ragged Edge's rebrand for financial app Tabby takes a playful approach",
+      "summary": "Tabby has unveiled a new brand identity by Ragged Edge alongside the launch of Tabby Cash, replacing typical fintech visuals with hand-drawn characters, custom bilingual typography, and authentic photography to emphasize financial confidence and approachability. The redesign is built around the idea of helping users take control of their money, using playful visual elements and motion to make everyday financial tasks feel more engaging without sacrificing clarity. After debuting across the app, website, and digital channels, the refreshed identity is now expanding into physical advertising across the UAE."
+    },
+    {
+      "url": "https://amplitude.com/blog/ai-agents-need-good-context?utm_source=tldrdesign",
+      "title": "Your Agents are Only as Good as Your Data Context",
+      "summary": "Agents get only data points, so a sales spike from a limited-time promotion reads to them as a lasting trend worth producing more stock for. A semantic layer supplies the missing translation, defining what each column and event means in the words teams actually use in Slack and meetings. Amplitude's own layer took its agent to correct answers 80 to 90 percent of the time, with custom instructions closing the rest."
+    },
+    {
+      "url": "https://smart-interface-design-patterns.com/articles/accordion-icons/?utm_source=tldrdesign",
+      "title": "Accordion Icons: Which Ones Work Best?",
+      "summary": "NN/g research finds real differences between carets, arrows, and plus icons on accordions, with the caret the safest choice and the most tapped. With no icon at all, users expect the item to open a new page. Split menus, where label and icon trigger different actions, cause the most mistakes and are best avoided."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/09/artist-turnes-neon-paint-comic-book-chaos-and-punk-energy-into-one-of-urban-arts-most-recognizable-visual-languages/?utm_source=tldrdesign",
+      "title": "Artist Turns Neon Paint, Comic-Book Chaos, and Punk Energy into One of Urban Art's Most Recognizable Visual Languages",
+      "summary": "Lora Zombie, a self-taught painter, built an international following through DeviantArt before exhibiting in Toronto, Los Angeles, London, and New York."
+    },
+    {
+      "url": "https://designbeep.com/2026/09/04/why-ai-projects-often-fall-short-of-expectations-insights-from-a-powergate-software-expert/?utm_source=tldrdesign",
+      "title": "Why AI Projects Often Fall Short of Expectations: Insights from a PowerGate Software Expert",
+      "summary": "AI projects usually disappoint for reasons unrelated to the model: the wrong use case, scattered data, and tools that never connect to existing workflows."
+    },
+    {
+      "url": "https://www.itsnicethat.com/features/igor-bastidas-illustration-spotlight-070926?utm_source=tldrdesign",
+      "title": "How do you illustrate arguments? Igor Bastidas on illustrating You Be The Judge, The Guardian column that settles the nation's disputes",
+      "summary": "Illustrator Igor Bastidas has spent three years creating weekly illustrations for The Guardian's You Be the Judge column, developing a distinctive style that uses simple, empathetic storytelling to capture the human tension behind everyday disagreements."
+    }
+  ]
+}

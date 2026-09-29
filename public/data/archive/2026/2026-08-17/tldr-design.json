@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-08-17",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/?utm_source=tldrdesign",
+      "title": "WhatsApp working on customizable emoji reaction sets on iOS",
+      "summary": "WhatsApp is testing a feature that would let users customize the six default emoji reactions shown when reacting to messages, replacing them with emojis of their choice and restoring the defaults at any time. The feature is not yet available to beta testers but appears to be in development for both iOS and Android, with a possible tie-in to WhatsApp Plus."
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/samsung-may-be-going-in-for-the-full-liquid-glass-look-in-oneui-9-5/?utm_source=tldrdesign",
+      "title": "Samsung may be going in for the full iOS-esque Liquid Glass look in OneUI 9.5",
+      "summary": "Leaks suggest Samsung is exploring a glass-inspired redesign for One UI 9.5, featuring shinier edges, transparency effects, background blurring, greater visual depth, and possibly a new App Lock feature. While the update remains unconfirmed and likely won't arrive until 2027, it indicates Samsung may be pursuing a more visually expressive interface rather than simply refining its current design."
+    },
+    {
+      "url": "https://thelettertwo.com/2026/08/13/adobe-launches-ai-collaborators-workfront-general-availability/?utm_source=tldrdesign",
+      "title": "Adobe's AI Collaborators Turn Outside AI Agents Into Governed Workfront Teammates",
+      "summary": "Adobe has made AI Collaborators generally available in Workfront, letting users delegate tasks to outside AI agents from Microsoft Copilot Studio, Anthropic's Claude, and Writer as governed, permissioned teammates. These collaborators—task agents and brand-compliance reviewers now live, with a project coordinator coming soon—receive full project context automatically and return work for human review and approval. Alongside this, Adobe also launched Workfront MCP, enabling users to bring Workfront project data into Claude, Copilot, Gemini, or ChatGPT."
+    },
+    {
+      "url": "https://boagworld.com/emails/wrong-ux-team/?utm_source=tldrdesign",
+      "title": "Your UX Team is Set Up for the Wrong Job",
+      "summary": "Everyone across an organization is now designing using AI tools, which means UX teams need to shift roles rather than absorb more direct production work. Instead of routing all design through a small team, successful organizations move designers upstream to build design systems, playbooks, research repositories, and AI-briefing standards that guide everyone else's output. Cutting design teams to cut costs saves money short-term but creates inconsistency, accessibility issues, and rework, so success should be measured by adoption of these resources rather than throughput."
+    },
+    {
+      "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?utm_source=tldrdesign",
+      "title": "Rethinking design leadership with swarms and flocks",
+      "summary": "High-performing teams work best when they combine local autonomy with a small set of shared rules, allowing people to adapt quickly without losing alignment or direction. Leadership should focus less on controlling decisions and more on enabling communication, rotating responsibility, protecting team health, and reinforcing a few core principles that guide the work. Regularly pausing to improve systems, reduce technical or design debt, and invest in learning helps teams maintain speed and resilience over the long term."
+    },
+    {
+      "url": "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14?utm_source=tldrdesign",
+      "title": "Getting started is not getting it right",
+      "summary": "AI excels at overcoming the blank-page problem and generating first drafts, but significant human effort is still required to verify outputs, catch hallucinations, and ensure quality, especially for complex or specialized work. While it can accelerate some tasks, it often introduces new costs through fact-checking, rework, accessibility issues, and subtle inaccuracies that become harder to spot as models improve. Organizations will get more value from AI by defining where it is reliable, where human review is mandatory, and where expert-led work remains the better option."
+    },
+    {
+      "url": "https://www.omniwork.ai/?utm_source=tldrdesign",
+      "title": "The Agent OS for Creative Work (Website)",
+      "summary": "Omniwork brings together autonomous AI agents, expert teams, and intelligent automation in one unified workspace."
+    },
+    {
+      "url": "https://www.beautifului.dev/?utm_source=tldrdesign",
+      "title": "Crafted Primitives for AI-native Interfaces (Website)",
+      "summary": "A small library of extremely crafted, copy-paste components for chat agents, thinking states, human-in-the-loop approvals, and everything agents need."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/logos-icons/other-brands-are-throwing-shade-at-the-new-instagram-logo?utm_source=tldrdesign",
+      "title": "Other brands are throwing shade at the new Instagram logo",
+      "summary": "Instagram has replaced its 10-year-old wordmark with a cleaner, more digital-looking version, a change that has sparked criticism for being less distinctive and harder to read. The company says the update was simply due to the logo's age, prompting jokes from other brands about redesigning their own long-standing logos for the same reason. While some users welcome the refresh, many see it as a cosmetic change that does little to address broader perceptions of the platform."
+    },
+    {
+      "url": "https://webflow.com/blog/vibe-coded-apps-security-baseline?utm_source=tldrdesign",
+      "title": "Vibe Coded Apps are the New Shadow IT",
+      "summary": "AI-generated internal tools now create infrastructure with IAM roles and no ticket, review, or security involvement, unlike traditional SaaS-based shadow IT. A layered defense is proposed: platform controls prevent risky defaults, while process controls require automated baseline checks and security-informed human review before deployment. Cloud security posture management tools and behavioral telemetry signals serve as a detection safety net for tooling that slips through preventive layers undetected."
+    },
+    {
+      "url": "https://sparkbox.com/foundry/finding_and_fixing_design_system_drift?utm_source=tldrdesign",
+      "title": "Finding and Fixing Design System Drift",
+      "summary": "Design drift — the gap between Figma files and shipped product — is inevitable in fast-moving teams and stems from entropy, not negligence or failure. Screen drift, involving easily spotted rendering differences, differs from component drift, which involves underlying changes requiring human judgment. AI can assist with visual diffing to catch the former. Code represents \"now\" while Figma represents \"next,\" and scheduled reconciliation between the two lets Figma regain its authority for planning future changes."
+    },
+    {
+      "url": "https://designshack.net/articles/typography/candy-fonts/?utm_source=tldrdesign",
+      "title": "20+ Tasty Candy Fonts for Sweet & Colorful Designs",
+      "summary": "This collection presents 20+ candy-inspired fonts featuring soft curves, bubble shapes, and playful lettering suited for packaging, social media, invitations, and children's designs."
+    },
+    {
+      "url": "https://www.creativebloq.com/art/digital-art/i-just-found-a-daily-doodle-website-thats-the-most-joyful-middle-finger-to-ai-art?utm_source=tldrdesign",
+      "title": "I Just Found a Daily Doodle Website That's the Most Joyful Middle Finger to AI Art",
+      "summary": "Bakatako is a free, browser-based daily doodle site requiring artwork to be created directly on its canvas, ensuring human-made rather than AI-generated content."
+    }
+  ]
+}

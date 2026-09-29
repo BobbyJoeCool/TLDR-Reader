@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-09-24",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/business/2026-09-23-canada-banks-tokenized-deposit-system-416129?utm_source=tldrcrypto",
+      "title": "Canada's big six banks explore tokenized deposit system",
+      "summary": "BMO, CIBC, National Bank of Canada, RBC, Scotiabank, and TD jointly announced they're exploring a Canadian-dollar tokenized deposit system, with the first phase focused on moving tokenized deposits efficiently between institutions. The project follows Canada's OSFI clarifying that tokenized deposits are \"not legally distinct from traditional deposits,\" and builds on March's Project Samara pilot testing blockchain-based government bond issuance."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120?utm_source=tldrcrypto",
+      "title": "CFTC warns prediction contracts carry heightened manipulation risk",
+      "summary": "The CFTC's Division of Market Oversight issued an advisory warning that prediction contracts betting on whether someone will \"mention\" specific words or attend an event carry heightened manipulation risk, and can only be listed in limited circumstances under the Commodity Exchange Act. The agency has already charged a former White House teleprompter operator and ex-Rep. George Santos over trades tied to advance knowledge of \"mention markets\" on Kalshi, and it's telling exchanges to assess whether the person controlling a contract's outcome faces independent obligations that deter manipulation."
+    },
+    {
+      "url": "https://www.rain.xyz/resources/introducing-real-time-funding?utm_source=tldrcrypto",
+      "title": "Rain launches real-time funding for stablecoin cards",
+      "summary": "Rain introduced real-time funding, letting cardholders connect a wallet and approve a spending limit once, with each purchase authorizing only the exact amount needed directly from the wallet instead of requiring users to pre-fund a separate collateral balance. The feature is in beta for card programs where Rain manages authorization, launching with USDC on Base and Arbitrum and USDT0 on Plasma."
+    },
+    {
+      "url": "https://thedefiant.io/news/defi/circle-opens-bitcoin-backed-usdc-borrowing-to-mint-clients-on-morpho?utm_source=tldrcrypto",
+      "title": "Circle Opens Bitcoin-Backed USDC Borrowing to Mint Clients, Routed Through Morpho",
+      "summary": "Circle has launched a Bitcoin-backed USDC borrowing facility for Mint clients through Morpho's Arc market, wrapping deposited BTC as cirBTC to serve as collateral. The cirBTC/USDC market grew ~10x in five days, from $1.37 million on September 17 to $14.3 million in borrowed USDC against 287 cirBTC tokens. Galaxy and Keyrock supply the dollar liquidity, while Circle handles cirBTC issuance and wallet infrastructure, and Morpho governs loan terms. The structure gives institutional Bitcoin holders access to USDC without liquidating their BTC positions."
+    },
+    {
+      "url": "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049?utm_source=tldrcrypto",
+      "title": "CME Adds Bitcoin Cash and Uniswap Futures as Crypto Derivatives Push Grows",
+      "summary": "CME Group plans to list futures on Bitcoin Cash and Uniswap on October 19, pending regulatory approval, with standard and Micro contract sizes of 250/25 BCH and 10,000/1,000 UNI. The addition brings CME's single-asset crypto derivatives roster to 11 tokens, with Uniswap marking the first DEX governance token the exchange has listed. CME averaged 279,800 contracts per day in H1 2026, about $8.3 billion in daily notional, while altcoin-specific contracts generated more than $1 billion in notional for the year. The listings follow CME's June launch of a 24/7 crypto futures and options market, as institutional participants seek regulated venues for altcoin price risk management across a widening asset set."
+    },
+    {
+      "url": "https://ethresear.ch/t/post-poseidon-hash-function-variants-for-ethereum/26071?utm_source=tldrcrypto",
+      "title": "Post-Poseidon: Hash Function Variants for Ethereum",
+      "summary": "The emergence of Flock as a practical post-quantum proof system for binary circuits removes Ethereum's requirement for circuit-friendly hashes like Poseidon, opening five protocol layers (consensus signatures, CL aggregation, state tree construction, EL signatures, and EL aggregation) to standard hash function candidates. Performance targets set the bar at proving 2^25 bytes per second with LeanVM and approximately 1 million hash calls per second, a throughput floor that filters the field. BLAKE3 leads on raw speed at 7 GB/s parallel and 1.1 cycles per byte on long messages but carries no indifferentiability proofs and a thin cryptanalytic record. SHA-3 holds 50+ published cryptanalytic papers and sponge-mode indifferentiability proofs but runs at only 0.2 GB/s natively. The research ranks SHA-3 and BLAKE2s as the lowest-risk selections, with SHA-2's length-extension property disqualifying it as a random-oracle substitute despite 45+ cryptanalytic papers."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2102490623572095458.html?utm_source=tldrcrypto",
+      "title": "Tether walks away from Europe's MiCA stablecoin framework",
+      "summary": "Tether abandoned MiCA compliance in the EU over a rule that required 60% of reserves in commercial bank deposits. CEO Paolo Ardoino argued it would expose 400 million users to risk since EU deposit insurance caps out at €100,000 per account. Tether holds roughly 80% of its $183 billion in reserves in US Treasuries, and USDT was delisted from all EU exchanges on July 1, though Ardoino said Tether would reconsider \"when MiCA becomes safer.\" The ECB and all 27 EU central banks have separately called to scrap the 60% bank-deposit rule."
+    },
+    {
+      "url": "https://news.kalshi.com/p/the-facts-behind-kalshi-s-perpetuals-volume?utm_source=tldrcrypto",
+      "title": "Kalshi Rebuts Wash Trading Allegations on Perpetuals Platform",
+      "summary": "Kalshi published a detailed rebuttal to wash trading allegations on its perpetuals platform, arguing that its flat-fee liquidity incentive programs mirror standard structures at CME, CBOE, and Nasdaq. The core defense turns on trade economics: analyzed trades showed aggressors captured roughly $98,000 in profit potential, a signal of genuine price discovery rather than coordinated self-dealing. Kalshi also cited 350,000+ lifetime perpetual traders, open interest doubling over the past 30 days, and a July 2026 fee holiday structure for Self-Clearing Members that caps rebates at exact fees paid per trade, blocking the net-negative outcomes that would characterize artificial volume."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2102649947627696379.html?utm_source=tldrcrypto",
+      "title": "Binance to rebrand Funding Account to 'Stocks Account'",
+      "summary": "Binance will migrate crypto assets from Funding Accounts to Spot Accounts in phases starting September 29 through January, after which Funding Accounts become \"Stocks Accounts\" dedicated solely to equities and stock options clearing."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2101941890278936666.html?utm_source=tldrcrypto",
+      "title": "Cardano Added to Official x402 SDK",
+      "summary": "Cardano has been added to Coinbase's x402 SDK, making it the first non-EVM chain on the protocol and enabling apps and AI agents to settle API calls with ADA or Cardano Native Tokens over standard HTTP requests."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2102609179982917952.html?utm_source=tldrcrypto",
+      "title": "BitMEX shuts down exchange operations",
+      "summary": "BitMEX ended exchange operations as of 04:00 UTC on September 23."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-09-21-a-little-more-orange-strategy-bitcoin-michael-saylor-415893?utm_source=tldrcrypto",
+      "title": "Strategy buys 950 bitcoin for $76 million, bringing total holdings to 846,000 BTC",
+      "summary": "Strategy acquired 950 BTC for $75.7M at an average of $79,670/coin between September 14-20, bringing total holdings to 846,000 BTC, a position exceeding 4% of bitcoin's 21M hard cap."
+    }
+  ]
+}

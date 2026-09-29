@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-09-28",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thenextweb.com/news/snapdragon-sound-elite-gen-2-ai-glasses-health-alliance?utm_source=tldrhardware",
+      "title": "Qualcomm's AI earbud chip reaches the cloud without a phone",
+      "summary": "Qualcomm launched Snapdragon Sound Elite Gen 2, its first audio chip built for AI agents, with low-power Wi-Fi 6E so earbuds can reach cloud services without a phone. It claims up to twice the AI capability of the Snapdragon S7 Gen 1 in a package up to 30% smaller. Cleer showed a camera-equipped earbud concept that could answer questions about what the wearer sees."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/24/apple-and-qualcomm-renew-global-patent-licensing-agreement/?utm_source=tldrhardware",
+      "title": "Apple and Qualcomm renew global patent licensing agreement",
+      "summary": "Qualcomm and Apple have extended their global patent licensing agreement that was previously set to expire in 2027. The new deal will take effect on April 1. The companies did not disclose how long the renewed agreement will remain in effect. While Apple has not officially commented on its modem plans going forward, it is expected to eventually move away from Qualcomm modems altogether."
+    },
+    {
+      "url": "https://thenextweb.com/news/apple-taction-5-7bn-haptics-patent-verdict?utm_source=tldrhardware",
+      "title": "US jury orders Apple to pay Taction $5.7bn over iPhone haptics patents",
+      "summary": "Apple has been ordered to pay more than $5.7 billion to Taction Technology, a small haptics company, for infringing on two of its patents. The verdict is the largest patent award in US history. The jury found that Apple's Taptic Engine infringed on patents from Taction, but that Apple did not infringe on purpose. Apple has rejected the verdict and said it would appeal."
+    },
+    {
+      "url": "https://www.thelec.net/news/articleView.html?idxno=14192&amp;utm_source=tldrhardware",
+      "title": "China Moves Faster Than Korea in Glass Substrate Commercialization",
+      "summary": "Chinese companies have moved first to commercialize glass substrates, building production lines and accelerating product manufacturing and customer qualification. Korea is taking longer to build production lines as companies are trying to validate each process before making investment decisions. China is building the equipment first, making the products, and then having customers evaluate them, so it is faster in terms of commercialization speed. The country has built its own ecosystem spanning display, printed circuit board, and equipment suppliers."
+    },
+    {
+      "url": "https://www.assemblymag.com/articles/100432-boston-dynamics-begins-robotics-testing-at-hyundai-metaplant?utm_source=tldrhardware",
+      "title": "Boston Dynamics Begins Robotics Testing at Hyundai Metaplant",
+      "summary": "Boston Dynamics has opened a new robotics center at Hyundai Motor Group's Metaplant America. The company began pilot operations at the robotics center in June and recently transitioned to full operations. The center serves as a test bed and training center for integrating Boston Dynamics' Atlas humanoids across Hyundai's automotive factories. The companies hope to have the robots performing component assembly by 2030."
+    },
+    {
+      "url": "https://hackaday.com/2026/09/27/defeating-satellite-spoofing-with-galileos-encryption/?utm_source=tldrhardware",
+      "title": "Defeating Satellite Spoofing With Galileo's Encryption",
+      "summary": "Satellite navigation systems are surprisingly vulnerable to a variety of attacks, ranging from jamming to more sophisticated spoofing attacks. Europe's Galileo GNSS system aims to fix this. The system produces a cryptographically secured position to prevent spoofing. While it is complicated, it works, and tests show that a stable lock can be achieved on the receiver even during spoofing. The method can, in principle, be extended to other GNSS systems."
+    },
+    {
+      "url": "https://postquantum.com/quantum-computing/qec-classical-stack-infrastructure/?utm_source=tldrhardware",
+      "title": "Several Vendors Now Supply Quantum Error Correction's Classical Loop. The Qubits Are Still the Hard Part",
+      "summary": "This article looks at the current state of quantum computing, looking at different vendors and their progress."
+    },
+    {
+      "url": "https://parallelprogrammer.substack.com/p/covert-caches-the-way-predictor-edition?utm_source=tldrhardware",
+      "title": "Covert Caches: The Way Predictor Edition",
+      "summary": "Most tend to think of caches strictly in terms of capacity, and that suffices for most purposes. This post looks at chip designers' motivation for a way predictor. It looks at how they work, when the hardware misbehaves, how to detect issues, and workarounds."
+    },
+    {
+      "url": "https://davefriedman.substack.com/p/what-edge-ai-could-do-to-gpu-resale?utm_source=tldrhardware",
+      "title": "What Edge AI Could Do to GPU Resale Values",
+      "summary": "A GPU just needs to lose enough of the business its next owner expected to serve for its value assumption to fail. Increasingly capable inference on phones and laptops threatens that business. Edge adoption weakens the case for treating cheap inference as a dependable floor under GPU residual values. Once local execution meets quality, latency, memory, and battery requirements, end users may no longer require data center compute."
+    },
+    {
+      "url": "https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk?utm_source=tldrhardware",
+      "title": "Linux enthusiasts see 10-second kernel compilation times on the horizon",
+      "summary": "OS kernel compilation times have become a signature benchmark over the past two decades."
+    },
+    {
+      "url": "https://news.skhynix.com/en/tsmc-oip-conference-2026/?utm_source=tldrhardware",
+      "title": "“Behind AI's Rapid Growth Lies Memory” — SK hynix Shares Its Next-Generation Memory Portfolio at the TSMC OIP Conference",
+      "summary": "At the TSMC OIP Conference, SK hynix focused on showcasing its technological capabilities and product lineup while further defining and expanding its collaborative relationships with TSMC and other key partners."
+    },
+    {
+      "url": "https://www.thelec.net/news/articleView.html?idxno=14188&amp;utm_source=tldrhardware",
+      "title": "Qualcomm Brings 1-Bit AI Models to Latest Snapdragon Wearable Platforms",
+      "summary": "Qualcomm has introduced an architecture that supports 1-bit AI models in Snapdragon AR1 and AR1+, as well as Snapdragon Sound Elite Gen 2."
+    }
+  ]
+}

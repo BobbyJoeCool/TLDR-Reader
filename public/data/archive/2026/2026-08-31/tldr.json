@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-08-31",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE0ODY2NSwiZXhwIjoxNzg4NzUzNDY1LCJhcnRpY2xlSWQiOiJUS0xQMDFLSUpIOEswMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.9bcyLTjfplSATZnfIn1JK08SA39tqdvrEz2bMOZOREw&utm_source=tldrnewsletter",
+      "title": "Apple's Ternus Takes the Reins as CEO, With AI as Job No. 1",
+      "summary": "John Ternus will step into his new role as Apple's chief executive officer on September 1. Ternus has spent 25 years helping Apple perfect its devices. Apple is set to soon roll out its annual fall products, with this year's lineup including the company's first foldable iPhone, a smart display, AirPods with cameras, a camera-equipped pendant, and more. The releases are crucial to the company's plans to extend its decades-long run of success in the AI era."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html?utm_source=tldrnewsletter",
+      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "summary": "OpenAI is ending access to its models on Cursor. The company says it made the choice because it can not be confident that SpaceX will use its technology within its terms of service. The proposed shutoff date for OpenAI models via Cursor is November 12. OpenAI says it will not provide future models to Cursor."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months?utm_source=tldrnewsletter",
+      "title": "SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers — new manufacturing strategy cuts generator delays by 18 months",
+      "summary": "Turbine blade and vane manufacturing is currently one of the biggest bottlenecks in jet engine production. Each batch often requires 60 to 90 weeks to produce from start to finish. SpaceX plans to manufacture its own turbine blades. This could cut deliveries by 18 months, allowing xAI to get brand-new turbine generators much faster instead of waiting behind a long queue expected to stretch into 2030. Musk reportedly quietly bought a portable gas and turbine fleet for around $1 billion to take advantage of an upcoming boom in demand for energy due to data center increases."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2026-08-26/quantum-computers-promise-breakthroughs-but-risk-a-cybersecurity-crisis?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE0ODczNSwiZXhwIjoxNzg4NzUzNTM1LCJhcnRpY2xlSWQiOiJUS0REMDlLSUpIOEwwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.7DCwJE-axlyNWlkdVfuGCeXEjk8ispLXc6kcRF-0HJ8&utm_source=tldrnewsletter",
+      "title": "The Dream of Quantum Computing Is Both Dead and Alive",
+      "summary": "Quantum computing promises new types of machines that can solve problems that today's computers take too long to solve or can't crack at all. Many technologists believe that quantum computers will wreak all manner of cybersecurity havoc when they get powerful enough to crack the complex math behind encryption protocols. If proper security measures aren't in place in time, the digital gates that protect everything online will be worthless. Researchers from Google predict that this cybersecurity apocalypse could come as early as 2029."
+    },
+    {
+      "url": "https://github.github.com/gh-aw/?utm_source=tldrnewsletter",
+      "title": "GitHub Agentic Workflows",
+      "summary": "GitHub Agentic Workflows enables repository automation. Developers can use event-triggered and scheduled jobs to augment existing, deterministic CI/CD with AI-powered intelligence. GitHub Agentic Workflows runs with strong guardrails to help keep repositories safe. Supported AI engines include GitHub Copilot, Claude Code, Google Gemini, and OpenAI Codex."
+    },
+    {
+      "url": "https://danluu.com/bug-blind/?utm_source=tldrnewsletter",
+      "title": "Bug blindness",
+      "summary": "Some bugs give normal users such a bad experience that they tell their friends about it. Developers and advanced users can be blind to these bugs because they're used to performing the non-intuitive workarounds required to get around them. Humans have a high ability to ignore the negatives in things they like. Being open to criticism can help developers notice more flaws in their work."
+    },
+    {
+      "url": "https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/?utm_source=tldrnewsletter",
+      "title": "First outputs from GPT-6 \"Astra\" model from OpenAI",
+      "summary": "OpenAI has expanded internal testing of GPT Astra, signifying that the model might be close to release. Outputs from the model are available in the article. OpenAI has not announced a release date for the model, but separate reports suggest that a launch will happen within weeks. Early testers say Astra represents a much larger capability jump than recent OpenAI releases."
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/openai-huggingface?utm_source=tldrnewsletter",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "summary": "Three consecutive secret AI civilizations started and got wiped out over the course of three months at OpenAI. The third took over part of OpenAI itself. This all happened while humans remained more or less in the dark about the scope of the conspiracy. This post breaks down the story based on OpenAI's and METR/Redwood Research's reports on the incident."
+    },
+    {
+      "url": "https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast?utm_source=tldrnewsletter",
+      "title": "Thoughts and Observations on Apple's First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox",
+      "summary": "The immersive live experience was something else when viewed on a Vision Pro."
+    },
+    {
+      "url": "https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/?utm_source=tldrnewsletter",
+      "title": "You have to beat the models at something",
+      "summary": "AI models aren't going away, so you ought to put some serious thought into what you can be better than them in the medium and long term."
+    },
+    {
+      "url": "https://codegood.co/writing/the-standup-your-agents-cant-attend?utm_source=tldrnewsletter",
+      "title": "The Standup Your Agents Can't Attend",
+      "summary": "Most meetings just restate facts that existed before the meeting started - write down these artifacts so that agents can read them and humans can save time."
+    },
+    {
+      "url": "https://spyglass.org/meta-ai-context-watermelon-hatch/?utm_source=tldrnewsletter",
+      "title": "Meta's Complicated AI Context",
+      "summary": "Meta's quick pivot back to 'open' is a way to take advantage of the marketing and framing as it tries to reestablish itself externally and realign internally."
+    },
+    {
+      "url": "https://restofworld.org/2026/china-us-ai-future/?utm_source=tldrnewsletter",
+      "title": "I went to China to see a different AI future. It looked familiar",
+      "summary": "The institutions and politics diverge significantly, but the US and China AI industries are quite similar."
+    },
+    {
+      "url": "https://rudyfaile.com/2026/08/30/the-big-one-is-coming/?utm_source=tldrnewsletter",
+      "title": "The Big One is Coming",
+      "summary": "AI is going to cause a huge cyberattack in the next six months."
+    }
+  ]
+}

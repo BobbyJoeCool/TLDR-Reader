@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-24",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://currently.att.yahoo.com/att/ai-data-centers-dark-first-213033283.html?utm_source=tldrit",
+      "title": "AI data centers could be first to lose power when the grid is strained",
+      "summary": "PJM is proposing rules that would make some new large-load customers, including AI data centers, interruptible when electricity supply gets tight. The proposal highlights how power availability is becoming a limiting factor for AI infrastructure growth."
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23/?utm_source=tldrit",
+      "title": "Alibaba launches $10B share sale to fund AI expansion",
+      "summary": "Alibaba plans to raise roughly $10 billion to expand its AI infrastructure, chips, data centers, and model development. The raise comes days after the company reported a 75% jump in capex tied largely to AI."
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/sam-altman?utm_source=tldrit",
+      "title": "Sam Altman on building OpenAI and betting on the impossible (78 minute podcast)",
+      "summary": "Sam Altman discusses OpenAI's early non-consensus bets, scaling compute, AI adoption, and why society may absorb AI more slowly than model progress suggests. He also argues AI could enable a boom in small businesses while warning against concentrating control of the technology among too few players."
+    },
+    {
+      "url": "https://claude.com/blog-category/enterprise-ai?utm_source=tldrit",
+      "title": "The AI-Native SDLC playbook",
+      "summary": "Anthropic lays out how AI changes software development beyond simply adding coding assistants, including planning, implementation, review, and operations. It argues teams need to redesign development workflows around agents rather than bolt them onto existing processes."
+    },
+    {
+      "url": "https://www.hpcwire.com/aiwire/2026/08/21/cloverleaf-partners-with-nvidia-to-accelerate-data-center-infrastructure-development/?utm_source=tldrit",
+      "title": "Nvidia backs Cloverleaf to expand AI data center infrastructure",
+      "summary": "Nvidia made a minority investment in Cloverleaf Infrastructure. The companies have partnered to develop AI factories across the US. Cloverleaf says its pipeline already includes multiple gigawatt-scale infrastructure projects."
+    },
+    {
+      "url": "https://ramp.com/blog/router-launch?utm_source=tldrit",
+      "title": "Ramp launches an AI model router",
+      "summary": "Ramp has opened the internal model-routing infrastructure it uses across more than 100 AI use cases as a standalone product. Router can automatically choose models based on cost, quality, latency, and availability. Ramp says it cut its own LLM costs by roughly 30%."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/08/21/gitlab-19-3-updates?utm_source=tldrit",
+      "title": "GitLab 19.3 helps enterprises scale agentic development securely",
+      "summary": "The GitLab 19.3 update is aimed at helping enterprises scale agentic software development while retaining control over data, permissions, and spending. The release adds single-tenant deployment for the Duo Agent Platform, Secrets Manager support beyond pipelines, bulk SAST remediation, plain-language custom flow creation, and usage caps for agentic AI."
+    },
+    {
+      "url": "https://www.cio.com/article/4211613/the-gpu-bill-is-the-new-aws-bill.html?utm_source=tldrit",
+      "title": "The GPU bill is becoming the new AWS bill",
+      "summary": "Enterprises risk repeating the cloud cost-management mistakes of the last decade as expensive GPU infrastructure proliferates. AI teams increasingly need FinOps-style controls for utilization, capacity planning, and workload economics."
+    },
+    {
+      "url": "https://www.cio.com/article/4208824/ai-agents-are-turning-data-silos-into-an-existential-infrastructure-problem.html?utm_source=tldrit",
+      "title": "AI agents are turning enterprise data silos into an infrastructure problem",
+      "summary": "Enterprise data stacks were largely designed around human access patterns, but agents need reliable real-time access across systems. That is turning data integration and context infrastructure into a prerequisite for successful agent deployments."
+    },
+    {
+      "url": "https://qz.com/anthropic-enterprise-data-storage-policy-cloud-082126?utm_source=tldrit",
+      "title": "Anthropic plans customer-controlled storage for frontier-model data",
+      "summary": "Anthropic plans to let enterprises keep required retained data inside their own cloud infrastructure rather than Anthropic's systems."
+    },
+    {
+      "url": "https://docs.portworx.com/portworx-enterprise/release-notes?utm_source=tldrit",
+      "title": "Portworx Enterprise 3.6.2.2 adds stronger vSphere certificate verification",
+      "summary": "The release adds TLS certificate verification for vCenter connections during cloud-drive operations and includes several Kubernetes and disaster-recovery fixes."
+    }
+  ]
+}

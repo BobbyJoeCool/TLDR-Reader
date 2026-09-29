@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-08-27",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://9to5mac.com/2026/08/26/ads-have-landed-in-apple-maps-and-they-are-as-bad-as-expected/?utm_source=tldrdesign",
+      "title": "Ads have landed in Apple Maps, and they are as bad as expected",
+      "summary": "Apple has begun rolling out ads in Apple Maps across the US and Canada, showing sponsored locations before and after searches. While Apple says the ads are privacy-focused and don't use personal tracking, critics argue they still risk undermining Apple's privacy reputation and make its premium products feel less premium by introducing advertising into built-in apps."
+    },
+    {
+      "url": "https://www.fastcompany.com/91594105/calendly-gets-a-rippling-gloopy-rebrand-for-the-ai-age?utm_source=tldrdesign",
+      "title": "Calendly Gets a Rippling, Gloopy Rebrand for the AI Age",
+      "summary": "Calendly has unveiled a new logo, wordmark, and color system alongside an AI email assistant and an AI meeting notetaker. The rebrand replaces the previous neon palette with soft prismatic gradients and a rippling \"gloop\" motif, signaling that the product is more than a scheduling link as AI reshapes productivity software."
+    },
+    {
+      "url": "https://9to5google.com/2026/08/24/google-clock-pixel-magnifier-icon-updates/?utm_source=tldrdesign",
+      "title": "Google Clock and Pixel Magnifier roll out icon redesigns",
+      "summary": "Google has refreshed the Clock and Pixel Magnifier app icons as part of the visual design language introduced with the Pixel 11. The new Clock icon features thicker, watch-inspired hands, a blue gradient face, and a white background that aligns it with Google's broader app ecosystem, while Pixel Magnifier receives a similar treatment with a thicker gradient magnifying glass and updated Quick Settings icon. These changes are purely cosmetic, with no notable updates to the apps' functionality or user interfaces."
+    },
+    {
+      "url": "https://www.proofofconcept.pub/p/the-ledger-of-design?utm_source=tldrdesign",
+      "title": "The Ledger of Design",
+      "summary": "AI has made finished-looking output cheap, so credibility at work now rests on the trail behind an artifact rather than the artifact itself. Contributors, managers, and agents each need a different ledger: rejected directions, decision rationale, and scoped, reviewable execution. A useful one captures itself from tools already in use and records only what explains how the work came to be."
+    },
+    {
+      "url": "https://www.aidesignfieldguide.com/articles/benjamin-zweig?utm_source=tldrdesign",
+      "title": "Designing Memory",
+      "summary": "The first version of ChatGPT memory was a simple notepad the model could read from, write to, and edit across conversations. The hard part was not the interface, but training the decision boundaries for what is worth saving and when to recall it. Most current memory implementations still over-apply what they know, which makes productive forgetting the missing capability."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/product-design/apples-folding-iphone-ultra-could-have-one-fatal-flaw-for-creatives?utm_source=tldrdesign",
+      "title": "Apple's folding iPhone Ultra could have one fatal flaw for creatives",
+      "summary": "Apple's rumored foldable “iPhone Ultra” is reportedly impressing early testers with its pocket-friendly design, durable hinge, and larger iPad-like internal display, potentially making it Apple's most exciting hardware launch in years. However, leaks suggest it may omit key premium features such as a telephoto camera and Face ID, raising questions about its value at a rumored $2,000 price point. For creatives, the choice may come down to whether a larger foldable screen is more important than having Apple's best camera system."
+    },
+    {
+      "url": "https://imgpilot.app/?utm_source=tldrdesign",
+      "title": "AI Image Generator and Editor for Every Creative Workflow (Website)",
+      "summary": "Generate images from text, compare leading AI models, and edit with AI chat and references. Move from prompt to finished visual without starting over."
+    },
+    {
+      "url": "https://interfaces.kylejeong.com/?utm_source=tldrdesign",
+      "title": "The AI Interface Museum (Website)",
+      "summary": "A visual history of how humans learned to talk to, look through, create with, and delegate work to artificial intelligence."
+    },
+    {
+      "url": "https://euidev.ecdevops.eu/?utm_source=tldrdesign",
+      "title": "The Angular Component Library Powering the European Commission's Digital Services (Website)",
+      "summary": "From design tokens to fully interactive components — eUI provides the foundation for consistent, accessible, and beautiful web applications."
+    },
+    {
+      "url": "https://www.designweek.co.uk/the-boring-screens-that-run-the-world-a-designers-case-for-taking-admin-tools-seriously/?utm_source=tldrdesign",
+      "title": "The boring screens that run the world: a designer's case study",
+      "summary": "A fintech company significantly reduced costly loan-processing errors by redesigning an internal verification screen, highlighting how small usability improvements in back-office tools can have outsized business impact. Internal systems like admin portals, dashboards, compliance tools, and operational software are often more consequential than customer-facing apps, yet receive far less design attention. Some of the most valuable design work lies in understanding complex workflows, supporting decision-making under pressure, and improving the systems that keep businesses running."
+    },
+    {
+      "url": "https://tubikstudio.com/blog/the-discipline-loop-how-training-rewired-my-design-brain/?utm_source=tldrdesign",
+      "title": "The Discipline Loop: How Training Rewired My Design Brain",
+      "summary": "Gym training habits transfer to design work as fixed routines that remove hesitation before uncertain effort begins. Timed idea sprints break blank-canvas paralysis, while finishing the rep means named layers, documented states, and handoff-ready files. Polished interfaces that collapse under real data are the design equivalent of an athlete whose gear outpaces actual capacity."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/08/artist-olivier-menanteau-paints-a-world-where-human-bodies-and-plants-grow-into-one-another/?utm_source=tldrdesign",
+      "title": "A World Where Human Bodies and Plants Grow Into One Another",
+      "summary": "French illustrator Olivier Menanteau paints human figures merging with plant life in his ongoing series \"Polychröm Symbiosis.\""
+    },
+    {
+      "url": "https://www.creativebloq.com/design/logos-icons/apples-glaring-safari-logo-design-fail-shows-the-company-has-lost-its-direction?utm_source=tldrdesign",
+      "title": "The glaring design fail in the new iPhone Safari logo is proof that Apple's lost its direction",
+      "summary": "Apple's redesigned Safari icon in iOS 27 has sparked criticism from design enthusiasts, who argue its compass graphic inaccurately resembles two overlapping needles and reflects a decline in Apple's attention to detail."
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/ai-art/is-ai-destroying-the-art-and-magic-of-childrens-books?utm_source=tldrdesign",
+      "title": "Is AI Destroying the Art and Magic of Children's Books?",
+      "summary": "Poorly made AI-generated children's books are turning up in shops and libraries."
+    }
+  ]
+}

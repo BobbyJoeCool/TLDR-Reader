@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-08",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.expresscomputer.in/news/sophos-to-bring-openai-cyber-models-into-its-managed-risk-offering/138516/?utm_source=tldrit",
+      "title": "Sophos brings OpenAI models to vulnerability prioritization",
+      "summary": "Sophos is developing Exploit Path Verification to assess whether attackers can actually exploit vulnerabilities given an organization's network access, privileges, patches, and security controls. The capability will use OpenAI cyber models with analyst review, but availability has not been announced."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/?utm_source=tldrit",
+      "title": "Claude Fable 5.1 on AWS comes with new data controls",
+      "summary": "Claude Fable 5.1 is available through Amazon Bedrock and Claude Platform on AWS, with prompts and outputs subject to retention for up to 30 days and potential safety review by Amazon personnel. Planned Enterprise Frontier Safeguards will let eligible customers keep monitoring data in cloud infrastructure they control."
+    },
+    {
+      "url": "https://www.innovationendeavors.com/insights/a-decade-of-software-infrastructure?utm_source=tldrit",
+      "title": "A decade of software infrastructure",
+      "summary": "The next decade will be defined by software infrastructure as AI turns everything into infrastructure. This post outlines six megatrends, including AI-rebuilt development lifecycles, infrastructure re-architected for agents, and APIs replacing apps. Agent-driven buying and early-stage machine-learning infrastructure are predicted to expand opportunities for infrastructure startups."
+    },
+    {
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=tldrit",
+      "title": "Have the frontier labs mixed up AI safety and security?",
+      "summary": "Frontier AI labs confuse probabilistic AI safety with deterministic security, treating prompt-injection defenses as largely solved despite high failure rates. False positives, weak containment like proxy and firewall gaps, and reliance on detection over containment enabled the failures."
+    },
+    {
+      "url": "https://cursor.com/blog/self-hosted-machines?utm_source=tldrit",
+      "title": "Run cloud agents on machines you manage",
+      "summary": "Cursor now lets cloud agents run on your own infrastructure, while Cursor still handles the agent loop, inference, and orchestration. Self-hosted workers can scale dynamically across AWS, Vercel, Modal, Cloudflare,  Macs, etc., which gives teams direct access to internal systems, custom hardware, and existing build environments."
+    },
+    {
+      "url": "https://www.redhat.com/en/blog/introducing-external-secrets-management-console-plugin?utm_source=tldrit",
+      "title": "OpenShift adds a unified secrets management console",
+      "summary": "Red Hat's new console plug-in brings certificate and external secrets resources into one interface, helping administrators investigate expiration warnings and failed dependencies. It is available as an administrator-only technology preview for OpenShift 4.22."
+    },
+    {
+      "url": "https://www.finos.org/blog/portable-ai-decision-records-konspekt-contributed-to-finos-labs?utm_source=tldrit",
+      "title": "FINOS introduces portable records for AI-assisted work",
+      "summary": "The konspekt project proposes an open format for preserving project decisions, artifacts, and source provenance across AI tools. Records live in plain files and require human acceptance, creating an audit trail independent of any model provider or chat platform."
+    },
+    {
+      "url": "https://ppc.land/3pl/?utm_source=tldrit",
+      "title": "Explaining 3PL",
+      "summary": "A third-party logistics provider holds a brand's inventory and handles picking, packing, shipping, and returns while the brand keeps product and customer ownership. This explainer details its rate-card pricing, EDI and API integrations, and cut-off times, arguing that warehouse location and performance directly set delivery dates in Shopping ads and marketplace badges like Prime. It also notes rising fee and mandate disputes, including Amazon surcharges and conflicting accounts of TikTok Shop's shipping mandate."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/?utm_source=tldrit",
+      "title": "Amazon Linux 2027 enters public preview",
+      "summary": "The preview includes kernel 7.1+, SELinux enforcement by default, updated development tools, and AWS Neuron driver support."
+    },
+    {
+      "url": "https://www.akashbajwa.co/p/does-concentration-risk-matter-in?utm_source=tldrit",
+      "title": "Does Concentration Risk Matter In AI?",
+      "summary": "Heavy revenue concentration among AI labs and across the AI stack does not necessarily give large customers leverage - vulnerability is accessed by layer."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/companies-are-spending-millions-rewiring-how-ai-gets-used-almost-none-can-prove-its-working?utm_source=tldrit",
+      "title": "AI spending outpaces proof",
+      "summary": "Enterprises are experimenting with budgets and model routing while struggling to measure returns."
+    }
+  ]
+}

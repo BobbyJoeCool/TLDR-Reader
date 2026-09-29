@@ -1,0 +1,98 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-08-28",
+  "articleCount": 18,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cohere.com/blog/parse?utm_source=tldrai",
+      "title": "Introducing Parse: Enterprise document intelligence at scale",
+      "summary": "Cohere Parse converts complex, multimodal files into structured machine-readable data. A cost-effective vision language model for processing large volumes of enterprise documents, it detects and understands key visual elements and can process documents and images across nine major world languages. Parse can be accessed through the Cohere API for just $1.50 per 1,000 pages. A free version is available in Cohere Space for users to try."
+    },
+    {
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview?utm_source=tldrai",
+      "title": "Anthropic's Model Hardware Standard",
+      "summary": "Anthropic opened a research preview of the Model Hardware Standard, a model-agnostic specification for letting AI agents operate scientific and manufacturing equipment."
+    },
+    {
+      "url": "https://blog.fal.ai/introducing-h3-max-by-fal/?utm_source=tldrai",
+      "title": "Introducing H3 Max by fal",
+      "summary": "H3 Max is a post-trained version of MiniMax H3 optimized for maximum speed. It can generate a 5-second-long video in under 3 seconds. The model is now available on fal for 50% off for the first week. This article discusses how the model was trained."
+    },
+    {
+      "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200?utm_source=tldrai",
+      "title": "Accelerating MiniMax-H3",
+      "summary": "A detailed benchmark of MiniMax-H3 video generation on 8× H200 GPUs showed SGLang Diffusion reaching 1.95x lossless speedups and as much as 6.24x with step reuse and sparse attention."
+    },
+    {
+      "url": "https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting?utm_source=tldrai",
+      "title": "Will the AI boom continue? Forecasting the trajectory of the AI industry",
+      "summary": "Anthropic and OpenAI show impressive revenue growth, with expectations for continued rapid expansion. Forecasts indicate moderated growth for semiconductor stocks but an uptick for software stocks, with AI's impact on the software sector remaining a key consideration."
+    },
+    {
+      "url": "https://www.stripeeconomics.com/p/ai-and-the-city?utm_source=tldrai",
+      "title": "AI and the city",
+      "summary": "AI is driving more distributed business formation in the US, with a rise in new companies forming outside major cities and in outer suburbs. This trend began during COVID-19 with remote work and accelerated with AI, yet business formation does not correlate directly with work-from-home levels. AI labs and product companies still cluster in major metro areas like San Francisco, highlighting the continued value of agglomeration for innovation."
+    },
+    {
+      "url": "https://openrouter.ai/blog/insights/gpt-5-6-discounts-jevons-paradox/?utm_source=tldrai",
+      "title": "GPT 5.6 Discounts & Jevons Paradox",
+      "summary": "OpenAI introduced large discounts on some of its models between July 27 and August 14. This resulted in Luna token usage jumping 13.8x and Terra token usage rising 5.6x while Sol, which remained at list price, only saw a bump of 1.1x. Most of the share gained by OpenAI's discounts came from other labs as opposed to cannibalization within the OpenAI family of models. Nearly a third of users who tried a discounted OpenAI model kept using it after the discounts expired."
+    },
+    {
+      "url": "https://research.haloneuro.ai/posts/sopro-v2?utm_source=tldrai",
+      "title": "Fast On-Device Voice Cloning",
+      "summary": "Halo Neuro introduced Sopro V2 and open-sourced Sopro V2 Turbo, a 120M-parameter multilingual voice-cloning model that can stream on laptop CPUs and in browsers."
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/putting-task-expertise-into-rl/?utm_source=tldrai",
+      "title": "Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL",
+      "summary": "Adding scaffolding around text-to-SQL models improves performance somewhat, but this is limited by the base models' capabilities. This suggests that the task knowledge contained in the scaffold belongs in the training signal instead. Expert judgment needs to be part of the training process. Putting task expertise into task-specific training is ultimately what scales."
+    },
+    {
+      "url": "https://github.com/openai/codex/pull/40799?utm_source=tldrai",
+      "title": "Support persistent reasoning effort",
+      "summary": "Codex has added 'persistent' to the reasoning-effort protocol and TypeScript SDK types. When a user targets a custom Responses-compatible provider whose model-defined effort is literally persistent, this now deserializes to the new Persistent variant and is unconditionally rewritten to disabled. Previously, it remained Custom(\"persistent\") and was forwarded unchanged. Existing configurations and resumed sessions can therefore send a different value and change behavior or be rejected, so this alias should be limited to providers that define the translation."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/?utm_source=tldrai",
+      "title": "Gemini Omni 1.1 Flash",
+      "summary": "Google introduced Gemini Omni 1.1 Flash with new controls for extending scenes, interpolating first and last frames, 4K upscaling, and faster video iteration through the Gemini API."
+    },
+    {
+      "url": "https://www.mbi-deepdives.com/nvdafy2q27/?utm_source=tldrai",
+      "title": "Nvidia Climbing the Wall of Worries",
+      "summary": "The average sell-side estimates for Nvidia's FY 2028 revenue a year ago were around $310 billion. Nvidia guided for around 70% revenue growth in FY 2028 yesterday, which translates to approaching around $700 billion in revenue next year. While analysts kept updating the estimates throughout last year, they were still short by around $125 billion. Nvidia's revenue growth of around 70% could be the floor for next year."
+    },
+    {
+      "url": "https://epochai.substack.com/p/an-update-on-ais-most-important-number?utm_source=tldrai",
+      "title": "An update on AI's most important number",
+      "summary": "OpenAI and Anthropic are seeing unprecedented growth, with revenues surpassing $100 billion combined, fueled by rapid adoption and technical advancements. This swift rise challenges expectations, as typical tech growth slows at such scales, potentially reshaping the economy if sustained."
+    },
+    {
+      "url": "https://www.terminal-bench-science.ai/announcement?utm_source=tldrai",
+      "title": "Terminal-Bench-Science 0.1",
+      "summary": "Terminal-Bench-Science evaluates AI agents on workflows from researchers' own work."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/?utm_source=tldrai",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "summary": "Anthropic is putting a great deal of faith in Claude Code's auto mode for protecting its coding agent users against prompt injection attacks."
+    },
+    {
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/?utm_source=tldrai",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "summary": "DeepMind introduced the world's first double-blind evaluation for AI models, using cryptographic environments to prevent benchmark contamination."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/ai-startup-deepseek-poised-to-reach-74-billion-valuation-1e093592?st=PkTEiL&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "title": "AI Startup DeepSeek Poised to Reach $74 Billion Valuation",
+      "summary": "DeepSeek is seeking to raise $7.4 billion to bankroll research and development and the buildout of computing infrastructure."
+    },
+    {
+      "url": "https://prospect.org/2026/08/27/anthropic-reenlists-for-war-defense-department-ai/?utm_source=tldrai",
+      "title": "Anthropic (Re-)Enlists for War",
+      "summary": "Anthropic seeks a new Head of National Security Sales to revive its defense contracts, following previous blacklisting by the Department of Defense over technology use concerns."
+    }
+  ]
+}

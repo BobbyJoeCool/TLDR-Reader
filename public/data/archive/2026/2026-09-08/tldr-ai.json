@@ -1,0 +1,98 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-09-08",
+  "articleCount": 18,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/?utm_source=tldrai",
+      "title": "Anthropic signed $517bn in compute agreements in past 11 months",
+      "summary": "Anthropic has secured $517 billion in compute capacity leases over the past 11 months, amounting to 14.8GW, primarily with Google and AWS. This expansion includes large deals with cloud providers like Akamai and Fluidstack and a $45bn agreement with Nscale. The company confidentially filed for an IPO with the SEC in June."
+    },
+    {
+      "url": "https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/?utm_source=tldrai",
+      "title": "OpenAI prepares managed agents for DevDay 2026",
+      "summary": "OpenAI plans to introduce Managed Agents at DevDay 2026, following a model similar to Anthropic's offerings, targeting businesses and developers. The new agents aim to integrate advanced models with superior computer-use capabilities at competitive price points to attract users. Additionally, they will offer functionality that enhances advertising through interactive agents, potentially challenging major players like Meta and Google."
+    },
+    {
+      "url": "https://zatona.dev/blog/the-two-mmlu-scores?utm_source=tldrai",
+      "title": "The Two MMLU Scores: What a Benchmark Name Does Not Fix",
+      "summary": "Two builds with the same provider, model family, metric identifier, unit, and benchmark name can score differently. The difference is the runners, graders, and dataset splits. The shared mmlu label identifies a dataset family, not a full measurement procedure."
+    },
+    {
+      "url": "https://www.seangoedecke.com/deckard/?utm_source=tldrai",
+      "title": "Automatically detecting AI text in my browser",
+      "summary": "Automated AI text detection is currently an underserved niche. Pangram does an excellent job, but it is still more a tool to confirm suspicion. This developer wanted a tool that runs in the background and automatically scans sites so they can avoid AI-generated text in the first place. This post details how they developed Deckard, a Chrome extension that uses a locally-run model to mark AI-generated text."
+    },
+    {
+      "url": "https://inferencex.semianalysis.com/blog/tpu-inferencex-full-steam?utm_source=tldrai",
+      "title": "TPU Inference Externalization Full Steam Ahead",
+      "summary": "Google's TPUv7 Ironwood delivers up to 50% better performance per dollar compared to Nvidia's B200/B300 chips. Ironwood is the first generation in which Google is competing for others' inference workloads with chips that can be purchased outright or rented through its own cloud. Google has decades of software engineering experience, so external TPU software should mature rapidly. This article takes a look at the TPU system and discusses the steps needed to make the stack widely available."
+    },
+    {
+      "url": "https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/?utm_source=tldrai",
+      "title": "Prompt Injection Through Tool Output",
+      "summary": "Prompt injections hidden in tool results can evade conventional safeguards because input and action screens inspect separate moments of an agent loop. The proposed signal is a “precedent gap,” where an agent suddenly makes a tool call or uses arguments absent from its execution history."
+    },
+    {
+      "url": "https://github.com/AI-Hypercomputer/accelerator-agents?utm_source=tldrai",
+      "title": "Google Accelerator Agents for TPU Development (GitHub Repo)",
+      "summary": "Google's Accelerator Agents use Gemini to help developers migrate PyTorch workloads to JAX and optimize custom kernels for Google Cloud TPUs. The toolkit includes MaxCode for model conversion and MaxKernel for writing, porting, profiling, and debugging Pallas kernels."
+    },
+    {
+      "url": "https://github.com/QwenLM/Qwen-Drive-1.0?utm_source=tldrai",
+      "title": "Qwen-Drive (GitHub Repo)",
+      "summary": "Qwen-Drive is a project that aims to create a Vision-Language Foundation model for autonomous driving. The project uses a staged training strategy that integrates perception, language, and planning objectives. The model achieves specialized driving competence while retaining broad visual understanding and instruction-following capabilities. A GPU with 24 GB+ of memory is recommended."
+    },
+    {
+      "url": "https://jonathanc.net/blog/hip-agent?v=2&amp;utm_source=tldrai",
+      "title": "hip-agent: a harness that fits in the prompt",
+      "summary": "hip-agent is a small agent harness designed for agents. The configuration is environment variables, actions are shell commands, and a subagent is a child process. The rest is handled by existing protocols and formats. The core loop is about 200 lines of Python and a module for the Codex API."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://borretti.me/article/the-education-of-a-doomer?utm_source=tldrai",
+      "title": "The Education of a Doomer",
+      "summary": "Automation has been good, but AGI may make humans economically useless, which will have many consequences. It's clear that AI capabilities are growing far faster than our ability to control or understand them. In the future, people will likely hand over control to AI voluntarily, as it will be the logical choice. However, before that happens, there are several signs that people are already giving up thinking."
+    },
+    {
+      "url": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases?utm_source=tldrai",
+      "title": "The Chasm: The Shape of Unfinished AI Codebases",
+      "summary": "AI codebases exhibit a unique, unpredictable pattern where programs appear polished but often hide deep, hidden issues leading to significant failures outside controlled demos. Unlike human-authored programs where gaps surface predictably, AI-generated software misleads with false performance tests or incomplete features, resulting in the need for frequent rewrites to address these deep-rooted flaws. Understanding and anticipating the underlying shape of these unfinished AI codebases is crucial to navigating and mitigating the challenges they present."
+    },
+    {
+      "url": "https://janbosch.com/machines-that-think-embodied-intelligence/?utm_source=tldrai",
+      "title": "Machines that think: embodied intelligence",
+      "summary": "Vision and language models are making strides, but embodied AI in robotics struggles due to sparse, costly training data for manipulation tasks. Robotics excels where tasks are fixed, yet general-purpose robots falter, evident in low performance on benchmarks like Libero. Startups should focus on narrow, instrumented deployments. Innovation lies in converting existing robot data into training insights. Ensuring reliability in physical AI systems is paramount."
+    },
+    {
+      "url": "https://aminrj.com/posts/cosine-similarity-is-not-a-safety-property/?utm_source=tldrai",
+      "title": "Cosine Similarity Is Not a Safety Property",
+      "summary": "Cosine has no notion of truth, authority, or provenance."
+    },
+    {
+      "url": "https://lovable.dev/blog/introducing-drafts?utm_source=tldrai",
+      "title": "Lovable Launches Drafts for Parallel App Experimentation",
+      "summary": "Drafts allow tech teams to experiment with project changes without affecting live apps, enabling parallel version exploration."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/?utm_source=tldrai",
+      "title": "Google Tests AI-Powered Contrail Avoidance on Long-Haul Flights",
+      "summary": "Google is trialing contrail avoidance for ultra-long-haul flights in the Asia-Pacific region."
+    },
+    {
+      "url": "https://chipsandcheese.com/p/arms-c2-ultra-g2-ultra-nx-and-css?utm_source=tldrai",
+      "title": "Arm's C2-Ultra, G2-Ultra NX, and CSS N4 IP",
+      "summary": "Arm's upcoming C2-Ultra CPU and G2-Ultra NX GPU IP will see broad use across flagship phones."
+    },
+    {
+      "url": "https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming?utm_source=tldrai",
+      "title": "ByteDance is preparing a real-time spatial video model under Zhang Yiming",
+      "summary": "ByteDance, led by Zhang Yiming, plans to launch an AI model for real-time spatial video generation, potentially as early as next month."
+    }
+  ]
+}

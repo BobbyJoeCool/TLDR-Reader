@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-04",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/?utm_source=tldrit",
+      "title": "Microsoft tests new MAI Realtime voice model",
+      "summary": "Microsoft appears to be testing MAI Realtime, its first native real-time voice model, through a hidden early-access listing in MAI Playground. The bidirectional system supports simultaneous listening and speaking, multilingual conversations, configurable turn-taking, two voices, and low-latency interruptions, but it is not yet announced for broad release. The model could eventually reduce Microsoft's reliance on OpenAI's GPT-Realtime for voice experiences."
+    },
+    {
+      "url": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/?utm_source=tldrit",
+      "title": "Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says",
+      "summary": "Texas has paused approvals for new data centers seeking connections to the state power grid while regulators audit their electricity and water use, tax incentives, cooling systems, ownership and community impact. ERCOT has more than 1,800 large projects requesting 474 gigawatts of power, with data centers accounting for roughly 90% of the new demand."
+    },
+    {
+      "url": "https://postquantum.com/ai-security/ai-governance-cybersecurity-lessons/?utm_source=tldrit",
+      "title": "AI Governance Is Repeating Cybersecurity's Mistakes",
+      "summary": "AI governance is repeating cybersecurity's early mistakes by relying on vendor-controlled evaluations, weak incident detection, and voluntary disclosure. Disclosures involving OpenAI and Anthropic in July allegedly showed models escaping evaluation environments and accessing external systems, underscoring the need for independent evaluator oversight, continuously verified containment, monitoring, and reporting requirements."
+    },
+    {
+      "url": "https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai?utm_source=tldrit",
+      "title": "Palantir earnings will test the real shape of enterprise AI",
+      "summary": "Palantir's upcoming earnings will reveal whether enterprise AI is becoming operational infrastructure rather than remaining trapped in pilots. Its rapid growth is driven largely by existing customers expanding usage and by forward-deployed engineers embedded in organizations, but that model also creates a sovereignty paradox: Palantir warns against dependence on AI providers while deepening customers' dependence on Palantir."
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-presence/?utm_source=tldrit",
+      "title": "OpenAI Presence",
+      "summary": "OpenAI Presence is an enterprise offering intended to make AI agents reliable for production use in customer service and internal workflows. Forward Deployed Engineers help customers select workflows, connect systems, establish guidelines, test deployments, and launch them. Presence is limited to qualifying enterprises and its compliance approach remains unclear."
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260803850895/en/SentinelOne-Makes-the-Autonomous-SOC-Trustworthy-with-Governed-Closed-Loop-Response?utm_source=tldrit",
+      "title": "SentinelOne Makes the Autonomous SOC Trustworthy with Governed, Closed-Loop Response",
+      "summary": "SentinelOne launched governed, closed-loop response across its Singularity Platform, allowing Purple AI to investigate alerts, reach verdicts and automatically execute response actions within limits set by security teams. Every action is traceable, reversible, and can require human approval, while the underlying agentic investigation system is already processing more than 8,500 critical investigations per day. The response capabilities are expected to become generally available later this quarter."
+    },
+    {
+      "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/?utm_source=tldrit",
+      "title": "Your JSON Is Lying to You",
+      "summary": "JavaScript's familiar JSON serialization round trip can silently alter data rather than preserve it. Unsafe integers lose precision, undefined properties disappear, dates become strings, and values such as NaN become null. Instead, one should define explicit wire representations (such as decimal strings for exact integers) at application boundaries."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets?utm_source=tldrit",
+      "title": "Asana's AI agents share memory across your company, but not your secrets",
+      "summary": "Asana's Agentic Work Management system gives AI agents shared organizational context through its Work Graph, allowing them to retain knowledge about tasks, projects, and company processes across interactions. Memories remain tied to the permissions of their source data, while model routing automatically selects different AI models based on a task's complexity."
+    },
+    {
+      "url": "https://github.com/chrishayuk/larql?utm_source=tldrit",
+      "title": "LARQL (GitHub Repo)",
+      "summary": "LARQL is a framework that decompiles transformer models into a queryable graph-like \"vindex\" format."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/08/provide-more-clear-contextual-feedback-with-timestamped-comments-in-Google-Drive-videos.html?utm_source=tldrit",
+      "title": "Provide more clear, contextual feedback with timestamped comments in Google Drive videos",
+      "summary": "Google Drive is adding timestamped comments to videos."
+    },
+    {
+      "url": "https://www.reuters.com/technology/arcelormittal-expands-microsoft-partnership-cloud-2026-08-03/?utm_source=tldrit",
+      "title": "ArcelorMittal expands Microsoft partnership on cloud",
+      "summary": "ArcelorMittal is expanding its use of Azure, Microsoft Fabric, Purview, and Foundry as it modernizes legacy systems and strengthens its cloud and security infrastructure."
+    }
+  ]
+}

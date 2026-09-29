@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-21",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.a16z.news/p/rise-of-the-borderless-founder?utm_source=tldrfounders",
+      "title": "Rise of the Borderless Founder",
+      "summary": "International founders that make it in Silicon Valley tend to find communities of similar people who have done the same. When these founders get together, they have each other's backs. The emergence of these international tech mafias has changed the playing field for international founders. These borderless founders who have a foot in their home country and in Silicon Valley know the strongest engineers in their home market before the rest of the market catches on and can get early customers from large companies at home that give them big proof points early."
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/?utm_source=tldrfounders",
+      "title": "Apple announces changes for apps in the European Union",
+      "summary": "Apple set new EU App Store terms that take effect October 1, and agreements can be signed now. The standard in-app purchase commission moves to 26%, or 15% for qualifying developers. Alternative payment processing runs 20%, or 10% for eligible program members, and apps distributed outside the App Store pay a 5% Core Technology Commission on digital transactions and require notarization. For the first time, a single app can offer both Apple in-app purchase and alternative payments. Once an option is picked, it stays for 12 months."
+    },
+    {
+      "url": "https://startupgtm.substack.com/p/the-commenting-sales-move?utm_source=tldrfounders",
+      "title": "The one sales move that doesn't ask your prospect for anything",
+      "summary": "Commenting on your prospects' posts can create investment while adding value. Comments create a direct touchpoint with your prospects, and it works as a distribution to many more similar prospects. They allow you to get free reach into a network of people just like your buyer. Commenting lets you stay visible in a way nothing else in outbound can."
+    },
+    {
+      "url": "https://review.firstround.com/firsthand-lovable/?utm_source=tldrfounders",
+      "title": "Firsthand: How I Built a Brand with Heart at Lovable",
+      "summary": "Lovable launched in late 2024 with a visual identity that was prototyped in 30 machines. The brand quickly picked up $10 million in annual recurring revenue just 60 days after launch. Lovable's brand was designed and redesigned over two and a half years by an insanely talented design team. This post tells the story of how Lovable's first designer translated a feeling of genuine infectiousness into a design brief and brand identity. The company's growth shows what is possible when people with innate curiosity and genuine care for what they do are given complete trust: they produce exceptional work, remarkably fast."
+    },
+    {
+      "url": "https://thefounderplaybook.hustlefund.vc/p/why-fundraising-gets-harder-vc-math-explained?utm_source=tldrfounders",
+      "title": "Raising Your Next Round Is Harder Than Your Last One. Here's Why",
+      "summary": "This post lays out the arithmetic behind why a company that raised a seed easily gets Series A nos without changing anything about itself. An accelerator writing checks at $330K to $2.5M post-money only needs a $33M to $250M exit to work. Your seed at $5-10M post requires belief in a $500M to $1B outcome, and a Series A investor underwrites a path to roughly $100M a year, which is why $1M ARR is not enough. Dilution eats 50%+ by exit. Three escape valves get named, including customer-funded growth and capital that does not need 100x."
+    },
+    {
+      "url": "https://slack.com/features/code-channels?utm_source=tldrfounders",
+      "title": "Slack Code",
+      "summary": "Slack Code creates temporary channels where teams and agents can work together on a specific task or project. The channel is archived automatically when the work is done, but the context remains searchable. Code channels follow Slack's enterprise-grade security and permissions model. They make it easy for anyone, even non-technical employees, to see what an agent is building, review previews, and share feedback directly in Slack."
+    },
+    {
+      "url": "https://linear.app/changelog/2026-08-20-coding-environments?utm_source=tldrfounders",
+      "title": "Coding sessions: environments, browser use, and updated pricing",
+      "summary": "Linear Agent can now set up, run, and test code before returning its work. Coding sessions now automatically adapt to each codebase's configuration. Once the application is running, Linear Agent tests it in the browser, where users experience it. If the agent finds a problem, it can make a fix and rerun the test before returning the work. Linear has also introduced more transparent pricing and made AI credit usage easier to understand and control."
+    },
+    {
+      "url": "https://www.mironov.com/ingredients/?utm_source=tldrfounders",
+      "title": "Technical Ingredients, Revenue Ingredients",
+      "summary": "Shipping code is not the same as shipping revenue. Confusing the two is an unforced error. If you haven't prepared great market-readiness ingredients, you just have another unsellable software. CEOs need to identify the next revenue to bottle next when code development is faster than selling."
+    },
+    {
+      "url": "https://x.com/mardehaym/status/2090478724290359520?utm_source=tldrfounders",
+      "title": "Forget about the ARR",
+      "summary": "AI acquisitions require code-level diligence because ARR and growth cannot reveal whether proprietary technology is defensible or merely a model wrapper. Buyers should score model dependency, data moat, talent concentration, and substitution risk before signing or assigning premium valuations."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/477ea713-56c3-49ee-8e0c-88cce2feb57e?utm_source=tldrfounders",
+      "title": "GTM Engineer, Applied AI at TLDR ($175-205k base + $40-60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a GTM Engineer to join our Applied AI team and own our AI-native GTM stack. We're looking for someone comfortable building AI agents and working with HubSpot. Click here to learn more!"
+    },
+    {
+      "url": "https://www.saastr.com/can-a-good-salesman-sell-anything/?utm_source=tldrfounders",
+      "title": "Can A Great Sales Rep Sell Any Product?",
+      "summary": "Just because a salesperson was pretty good at their last role doesn't mean they'll be good at your startup too."
+    },
+    {
+      "url": "https://www.edisonpartners.com/blog/ai-adoption-is-an-operating-model?utm_source=tldrfounders",
+      "title": "AI Adoption Is an Operating Model",
+      "summary": "Organizations should integrate AI across all functions to align with business outcomes, rather than keeping it isolated in pockets."
+    },
+    {
+      "url": "https://wersm.com/meta-launches-startup-school-consumer-brands/?utm_source=tldrfounders",
+      "title": "Meta Launches Startup School For Early-Stage Consumer Brands",
+      "summary": "The Meta Startup School is a three-month-long program built to help early-stage consumer brands accelerate growth."
+    }
+  ]
+}

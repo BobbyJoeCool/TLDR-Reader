@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-08-07",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/post/410966/eu-watchdogs-warn-crypto-scams-mica?utm_source=tldrcrypto",
+      "title": "EU watchdogs warn scammers are posing as crypto firms and regulators",
+      "summary": "French regulator AMF, Dutch watchdog AFM, and ESMA warned of rising scams exploiting the July 1 MiCA compliance deadline, with fraudsters impersonating AMF staff and misusing ESMA's logo to direct victims to fake sites. ~320 entities have secured MiCA licenses as of August 5, while VASPnet estimates over 1,700 firms, including Binance, must wind down or restrict EU services for missing the deadline. AMF has avoided setting an aggressive shutdown timeline for unlicensed exchanges to limit scam exposure."
+    },
+    {
+      "url": "https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income?utm_source=tldrcrypto",
+      "title": "Circle's Q2 counters bearish concerns over competition, reserve income",
+      "summary": "Bernstein reiterated its Outperform rating and $140 price target on Circle after Q2 revenue hit $701 million, up 7% year over year but roughly 2% below consensus. Adjusted EBITDA of $143 million and EPS of $0.19 beat expectations, with reserve income making up 95% of revenue. Analysts cited Circle's OCC trust bank approval, growing Circle Payments Network, and the September 16 Arc mainnet launch as revenue streams not yet reflected in estimates. USDC circulation stood at $73.3 billion, down 5% quarter over quarter but up 19% year over year."
+    },
+    {
+      "url": "https://www.lightspark.com/news/lightspark/lithic-lightspark-announcement?utm_source=tldrcrypto",
+      "title": "Lithic and Lightspark Partner to Power Global Card Program",
+      "summary": "Lithic will process Lightspark's Visa card program, issued by Lead Bank and settling in USDC. Lightspark holds account balances natively in stablecoins and converts to local currency at point of spend, using Lithic's Authorization Intelligence for unified card authorization, device authentication, and fraud decisioning. CEO David Marcus said the partnership matches Lightspark's need for speed across its stablecoin-based settlement infrastructure."
+    },
+    {
+      "url": "https://www.theblock.co/post/410870/coinbase-launches-24-5-us-stock-trading-uk-users-advancing-everything-exchange-strategy?utm_source=tldrcrypto",
+      "title": "Coinbase launches 24/5 US stock trading for UK users",
+      "summary": "Coinbase began rolling out 24/5 trading on nearly 4,000 US stocks to eligible UK users on August 6, with zero-commission trades, fractional shares from £1, and funding via GBP or USDC. Shares are custodied by Apex Clearing, with orders routed through Coinbase Capital Markets Corporation. UK CEO Keith Grose said the launch builds on Coinbase's recent UK MiFID license and prior savings and crypto-backed lending products. Plans for tokenized equities are pending regulatory development."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2084929406959751485.html?utm_source=tldrcrypto",
+      "title": "Hyperliquid Q2: RWA Perps Scale to $213B",
+      "summary": "HYPE hit an ATH of $76.90 in Q2, up 79% while BTC fell 14%, a second consecutive quarter of decoupling from majors. RWA perpetuals on HIP-3 grew from 1.8% to 32.2% of matched volume across three quarters, reaching $213B in Q2, with a private rocket company priced onchain on a Saturday while the NYSE was closed and a Chinese chipmaker trading above its Shanghai listing. Protocol revenue closed Q2 at $169M with $141M returned via buybacks, cumulative revenue crossed $1B, and three HYPE ETFs began trading after four asset managers filed in Q1. Concentration risk remains: $5.6B in stablecoin float relies on a single issuer and exchange volume runs through one deployer."
+    },
+    {
+      "url": "https://x.com/FourPillarsFP/status/2084947679306764754?utm_source=tldrcrypto",
+      "title": "EIP-8363 Tapered Issuance Burn for Hegotá",
+      "summary": "EIP-8363 (Tapered Issuance Burn) proposes burning a fraction of consensus-layer validator rewards each epoch so that net staking yield reaches zero once 50% of ETH supply (~60.25M ETH) is staked, submitted two days before the August 6 ACDC call reviewing Hegotá hard fork candidates. With the staking ratio already above 1/3 as of April 2026 and ~1.75M ETH entering per month, projections place total staked ETH above 55% of supply by January 2028, well before roadmap milestones that would redefine the validator role. TIB leaves execution-layer income (MEV and priority fees) untouched, so as consensus rewards compress, MEV becomes a growing share of total income, a variance that large custodians and ETF issuers absorb through scale while solo stakers and independent operators exit first, deteriorating the Nakamoto coefficient. ETH staking yield serves as the base rate for lending markets, leveraged staking loops, LST collateral, and fixed-income protocols, so critics argue TIB makes yields unpredictable and uneconomical across the onchain economy before the validator role has been redesigned to justify the cut."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2085148502292566070.html?utm_source=tldrcrypto",
+      "title": "Neobanks chasing crypto-native users",
+      "summary": "Neobanks like Dakota, Rain, Stablecoin, MoonPay, and Blend are building near-identical stablecoin-powered products for the same small crypto-native audience instead of everyday consumers and businesses. Most people don't care whether a payment settles via ACH, Fedwire, SWIFT, or stablecoins. They care about speed, cost, and reliability. The bigger opportunity is using stablecoin infrastructure to serve the much larger legacy-banking market instead."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2084766991932612911.html?utm_source=tldrcrypto",
+      "title": "ai16z Token Dead, Foundation Winds Down",
+      "summary": "Shaw, creator of the Eliza agent framework and ai16z, announced the foundation is winding down after a Burwick class action settlement consumed all remaining treasury funds and his personal savings, which he described as a forced outcome since the project could not afford to litigate. Shaw told token holders the position is \"completely ngmi,\" with no buybacks, no foundation supply, and no further support forthcoming. Shaw said he never sold his ai16z tokens and drew only an engineer-level salary throughout the project's run, but the settlement cost ended the foundation regardless. Eliza OS development continues on Shaw's personal savings as an independent effort, and he committed to never attaching a token to the Eliza brand again, a notable exit for what was one of Solana's highest-profile AI agent tokens during the 2024-2025 cycle."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2085035741717872926.html?utm_source=tldrcrypto",
+      "title": "AI Meets Formal Verification for Smart Contracts",
+      "summary": "AI and formal verification are converging to eliminate entire classes of smart contract bugs."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2085223222564270308.html?utm_source=tldrcrypto",
+      "title": "Solana Validator Q2: 0.035% Skip Rate",
+      "summary": "Coinbase's bare metal validators hit a 0.035% skip rate in Q2, with clients split across Harmonic (76%), Jito (19%), JitoBAM (5%), and Firedancer held in reserve."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2085358038181990461.html?utm_source=tldrcrypto",
+      "title": "CASHCAT Listed on Robinhood",
+      "summary": "CASHCAT, the leading memecoin on Robinhood Chain, has been listed and is now tradable in the app and on Robinhood Legend."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2085332528198566182.html?utm_source=tldrcrypto",
+      "title": "Four new crypto cards: XPlace, Jupiter, KOLO, Avalanche",
+      "summary": "Onboarding was near-seamless for XPlace, Jupiter, and Avalanche cards."
+    }
+  ]
+}

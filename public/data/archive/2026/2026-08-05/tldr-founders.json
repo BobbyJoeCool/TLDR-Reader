@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-05",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.new-ontologies.com/posts/Crosby/?utm_source=tldrfounders",
+      "title": "Crosby: The Inner Workings of a Neofirm",
+      "summary": "Crosby is an AI native law firm. It employs lawyers from elite law firms as well as engineers from top startups. The firm takes on commercial contracts like Non-Disclosure Agreements and Master Services Agreements, the basic units of doing business. This article looks at how the firm operates and how it uses AI to complete tasks in minutes that would otherwise take a human hours."
+    },
+    {
+      "url": "https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/?utm_source=tldrfounders",
+      "title": "Time has started serving ads to AI agents",
+      "summary": "More bots than people visit Time on most days now. So it started selling ads to the bots. Every article gets a stripped-down markdown twin with one sponsored FAQ telling crawlers what a brand wants them to know. Ally Bank and the Project Management Institute are among the first buyers. Time charges more than it does for a human ad because an answer engine could repeat the message across thousands of answers. The catch is that nobody knows whether models will absorb it, ignore it, or treat the whole page as cloaking."
+    },
+    {
+      "url": "https://x.com/Alfred_Lin/status/2084636778791858256?utm_source=tldrfounders",
+      "title": "Speed Above All Else",
+      "summary": "Don't let people slow you down. Build and operate with strong edge-case detection, great testing frameworks, pre-mortems, and intense heads-down focus. Write down a plan, test it in your head, and sprint. Things are often possible in insanely fast timelines."
+    },
+    {
+      "url": "https://blog.cloudflare.com/astro-issue-triage/?utm_source=tldrfounders",
+      "title": "How we built a software factory to drive Astro's GitHub issue count to zero",
+      "summary": "Astro handed more than 200 open GitHub issues to four agents that separately reproduce, diagnose, verify, and fix each report. The backlog is now around 30, and the team expects to reach zero for the first time in Astro's five-year history. The four-agent split matters more than the agent count. No agent owns an issue from start to finish. Each leaves evidence for the next one, GitHub labels hold the state, and the original reporter tests a preview package before a pull request opens."
+    },
+    {
+      "url": "https://digiday.com/marketing/inside-unilevers-300000-creator-network-the-logistics-behind-the-headline-number/?utm_source=tldrfounders",
+      "title": "Inside Unilever's 300,000 creator network: the logistics behind the headline number",
+      "summary": "Unilever activated 50,000 creators during the World Cup and reached more than 600 million people. The hard part was not finding them. It was vetting, contracting, briefing, and reviewing them without getting 50,000 versions of the same post. Its full network now has 300,000 creators, from big long-term partners to small local accounts that can move around one cultural moment. AI can handle more of the paperwork. It can also push every brand toward the same safe creators and the same safe work. Scale fixes logistics faster than it fixes taste."
+    },
+    {
+      "url": "https://thephysicsofstartups.substack.com/p/the-physics-of-enterprise-sales?utm_source=tldrfounders",
+      "title": "The Physics of Enterprise Sales",
+      "summary": "Two college dropouts sold a $100,000 contract to a public company from one cold LinkedIn message. They did not have a product yet. They had not even decided exactly what to build. An enterprise does not buy anything. One person with an urgent priority does. Use the first call to test the pain and your rough solution. Use the second to get the yes and map the path through legal and procurement. Group demos and pilots only matter if your champion needs them."
+    },
+    {
+      "url": "https://workos.com/blog/atlas?utm_source=tldrfounders",
+      "title": "Introducing Atlas, your AI coworker",
+      "summary": "Atlas is an AI agent that works alongside teams in Slack. It can answer questions, prepare workers for customer calls, summarize information, investigate regressions, and more. Teammates can add context, correct an answer, and continue the work together. Atlas learns organizations' shorthand, priorities, processes, and people from the conversations already happening in Slack."
+    },
+    {
+      "url": "https://aws.amazon.com/de/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/?utm_source=tldrfounders",
+      "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
+      "summary": "Web Search is now generally available on Amazon Bedrock. The server-side tool grounds model responses in current web knowledge. It is backed by a web index that spans billions of documents and is refreshed continually. Web Search on Bedrock offers zero data egress, so users' data never leaves their AWS environments."
+    },
+    {
+      "url": "https://www.akashbajwa.co/p/the-endgame-of-vertical-integration?utm_source=tldrfounders",
+      "title": "The Endgame Of Vertical Integration",
+      "summary": "Anthropic's vertical integration, co-designing models with harnesses, pressures agent labs to evolve beyond domain-specific harnesses. The move aims to optimize intelligence per dollar in enterprise AI, challenging agent labs to match margins by integrating and enhancing their own model-harness combinations."
+    },
+    {
+      "url": "https://mili.dev/writing/canva-is-one-percent-of-the-way-there/?utm_source=tldrfounders",
+      "title": "Canva is one percent of the way there",
+      "summary": "One of the phrases most heard inside Canva is 'we're one percent of the way there'. The phrase was repeated when the company was just a few hundred people, and it continues to be repeated now that it has five thousand employees and a quarter of a billion users. The phrase keeps employees hungry, but there is also a lot of truth to it. When the ambition is large and genuine, the target never stands still."
+    },
+    {
+      "url": "https://www.saastr.com/nues-guided-selling-playbook-took-2-minutes-to-build-the-implementation-still-takes-90-days/?utm_source=tldrfounders",
+      "title": "Nue's Guided Selling Playbook Took 2 Minutes to Build. The Full Implementation Still Takes 90 Days.",
+      "summary": "An AI demo built Nue's guided-selling playbook in two minutes, but cleaning the catalog, pricing rules, approval paths, and billing data needed to run it still takes about 90 days."
+    },
+    {
+      "url": "https://gruhn.me/blog/2026-08-03/?utm_source=tldrfounders",
+      "title": "Don't be a meat proxy",
+      "summary": "If your Slack reply is only \"Claude said\" followed by 800 words, you did not save the team any work - you made everyone else review the model for you."
+    },
+    {
+      "url": "https://www.productcurious.com/p/deep-dive-why-did-doordash-ship-a?utm_source=tldrfounders",
+      "title": "Why DoorDash Shipped a CLI",
+      "summary": "DoorDash's CLI was a response to AI agents bypassing app-based habits and comparing services directly on price and availability."
+    },
+    {
+      "url": "https://workos.com/blog/making-agent-prose-publishable?utm_source=tldrfounders",
+      "title": "Anyone can generate a blog post. Making it publishable is the work",
+      "summary": "It takes a lot of engineering to get AI to generate thousands of words a company would put its name on."
+    }
+  ]
+}

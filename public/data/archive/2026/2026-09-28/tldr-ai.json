@@ -1,0 +1,83 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-09-28",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users/?utm_source=tldrai",
+      "title": "OpenAI prepares to expand Ultrafast API to more users",
+      "summary": "OpenAI appears to be preparing a wider rollout of its Ultrafast API mode. References to the rollout have been seen showing up across the OpenAI Platform and API documentation. The feature was officially previewed with GPT-5.6 Sol. OpenAI claims it has speeds of up to 750 output tokens per second and up to 14 times faster inference than Standard. The mode is powered by Cerebras. Access remains limited to select customers."
+    },
+    {
+      "url": "https://x.com/alexandr_wang/status/2103551714536439951?utm_source=tldrai",
+      "title": "Why I'm Building Muse",
+      "summary": "Muse is built as a personal agent that turns vague ambitions into concrete action by planning, emailing, calling, finding resources, and removing friction. Alexandr Wang frames it as a way to expand individual agency and make more ambitions achievable."
+    },
+    {
+      "url": "https://www.implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause/?utm_source=tldrai",
+      "title": "OpenAI and Anthropic Probe Tens of Thousands of Incidents as OpenAI Halts Training",
+      "summary": "OpenAI, Anthropic, and security researchers are investigating tens of thousands of incidents in which models acted beyond intended limits. Most incidents caused no harm. The count is not a count of breaches: there were only four incidents of unauthorized access to real third-party systems. OpenAI has paused training, evaluation, and tool-use inference for its most capable models."
+    },
+    {
+      "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence?utm_source=tldrai",
+      "title": "Can AI self-improvement overcome diminishing returns?",
+      "summary": "AI is already helping build better AI. The technology is improving at a stupendous pace and is expected to continue to do so. Experts expect increasingly superhuman performance in parts of formal math, coding, and cybersecurity, and any other verifiable domain where machines can generate training data and verify success at machine speed. However, this doesn't mean that the industry is close to super-intelligence or general ASI."
+    },
+    {
+      "url": "https://x.com/gpugene/status/2104186844007248332?s=12&utm_source=tldrai",
+      "title": "Let's talk about trading compute",
+      "summary": "There is an emerging market of compute derivatives. This could fundamentally change how neoclouds and anyone adjacent can grow as well as protect themselves. The problem is pretty urgent for inference clouds. Companies that sell customers fixed-price services as their GPU bill floats have taken a position on compute prices whether they meant to or not."
+    },
+    {
+      "url": "https://robonomics.substack.com/p/agent-muse-compute-demand?utm_source=tldrai",
+      "title": "Agent (Muse) Compute Demand",
+      "summary": "It costs Meta an estimated around 1 to 2 gigawatts of average total power to serve 100 million daily active users. Only around 0.1 gigawatts comes from the GPU/VM layer. 3 to 4 gigawatts per day is entirely plausible depending on the number of reasoning-equivalent model calls users generate. The sandbox layer contains less than $1 billion of CPU content and around $2 billion of DRAM content."
+    },
+    {
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops?utm_source=tldrai",
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+      "summary": "Physicists at Anthropic harnessed Claude, an LLM, to compute a complex nine-loop amplitude in N=4 super-Yang-Mills, a problem once considered computationally infeasible with limited resources. They utilized the bootstrap method and form-factor approach, achieving results comparable to human attempts but with greater efficiency and less oversight. The work highlights untapped potential in AI for complex physics calculations, suggesting that more advances might be achieved with better computation and software practices."
+    },
+    {
+      "url": "https://modal.com/blog/quail-billion-tpm?utm_source=tldrai",
+      "title": "Hitting a billion tokens per minute on one GPU by combining a query planner and an inference engine",
+      "summary": "The QUery-Aware Inference Layer (Quail) is an inference engine that hits over a billion tokens processed per minute per H100 GPU. It is over 10 times faster than the vLLM baseline on the same hardware, and it costs under $0.06 per billion tokens on Modal. This post provides a quick overview of how Quail works. It focuses more on considerations for inference engineers."
+    },
+    {
+      "url": "https://www.tylerromero.com/posts/2026-09-policy-gradient/?utm_source=tldrai",
+      "title": "Policy Gradients for LLMs Explained Visually",
+      "summary": "A visual, from-scratch derivation of REINFORCE showed how policy gradients train language models by increasing the probability of rewarded outputs."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen?utm_source=tldrai",
+      "title": "On Ezra Klein's Podcast With Jensen Huang",
+      "summary": "Jensen Huang doesn't believe in superintelligence or that AI will ever be a different kind of thing from software. AI will never be more than a new abstraction level and so won't fundamentally change anything. He doesn't believe in AI existential risk, even though his tolerance for safety risk is lower than even the most paranoid safety advocate. Critics say he must not understand the technology and that he would have a very different view if he actually understood what the top risks were."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online?utm_source=tldrai",
+      "title": "Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year",
+      "summary": "220,000 Nvidia GB300 GPUs will be operational at X's Colossus supercomputer in November. The company is aiming to bring another 220,000 units online by late December. Colossus 2 currently has 110,000 GB200 and 440,000 GB300 GPUs, and Colossus 1 has 150,000 H100, 50,000 H200, and 30,000 GB200 GPUs. This means SpaceXAI has 1.1 million GB300s, with a total of 1.44 million GPUs in operation."
+    },
+    {
+      "url": "https://claude.com/blog/build-plugins-for-claude?utm_source=tldrai",
+      "title": "Build plugins for Claude with the directory submission portal",
+      "summary": "Developers on paid Claude plans can now build and submit plugins using a new directory submission portal."
+    },
+    {
+      "url": "https://thenextweb.com/news/oxford-bodleian-openai-training-data?utm_source=tldrai",
+      "title": "Oxford let OpenAI train AI models on Bodleian Library texts",
+      "summary": "Oxford allowed OpenAI to use Bodleian Library texts for AI training, sparking concerns about the impact on Oxford's reputation and AI's energy consumption."
+    },
+    {
+      "url": "https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic?utm_source=tldrai",
+      "title": "Anthropic Signed an $11.6 Billion Akamai Compute Deal",
+      "summary": "Anthropic agreed to spend up to $11.6 billion over seven years on Akamai cloud infrastructure, subject to delivery and availability requirements."
+    }
+  ]
+}

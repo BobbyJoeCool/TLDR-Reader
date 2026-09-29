@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-14",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.windowslatest.com/2026/09/13/microsoft-confirms-windows-11s-update-kills-audio-on-some-pcs-and-the-bugs-keep-piling-up/?utm_source=tldrit",
+      "title": "Microsoft confirms Windows 11's update kills audio on some PCs, and the bugs keep piling up",
+      "summary": "Microsoft has confirmed that September's Windows update can break USB Audio Class 1.0 devices, causing missing sound, device errors, and unresponsive audio settings. Switching to two-channel audio has helped some users affected by multichannel failures, but a general fix remains pending. The issue affects Windows 11 versions 24H2, 25H2, and 26H1-not all USB audio devices."
+    },
+    {
+      "url": "https://www.salesforce.com/news/stories/enterprise-ai-harness/?utm_source=tldrit",
+      "title": "Salesforce Introduces the Trusted Enterprise AI Harness",
+      "summary": "Salesforce has introduced the Enterprise AI Harness, a composable architecture featuring six trusted capabilities and an AI Control Plane designed to give businesses a unified way to manage and control agents and AI across their organization. The platform connects open-ended AI reasoning with enterprise data, security, governance, and business rules. The system allows enterprises to leverage proprietary customer context securely while maintaining compliance and flexibility across different models and third-party systems."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000?utm_source=tldrit",
+      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+      "summary": "AI is eroding the protection organizations implicitly get from obscure software and unfamiliar legacy systems. The bigger challenge is remediation capacity: discovering more vulnerabilities accomplishes little unless teams can prioritize fixes, validate patches, and prevent the same weaknesses from recurring."
+    },
+    {
+      "url": "https://www.theregister.com/personal-tech/2026/09/12/dells-52-inch-enormo-monitor-is-a-tsunami-of-impractical-fun/5290753?utm_source=tldrit",
+      "title": "Dell's 52-inch enormo-monitor is a tsunami of impractical fun",
+      "summary": "Dell pitches its UltraSharp 52 as a replacement for four smaller monitors, reducing the clutter of cables and stands. This hands-on review finds an impressive display for visual work and multiple data feeds, but also connection problems, awkward port access, and a setup that is difficult to justify for ordinary office work."
+    },
+    {
+      "url": "https://workos.com/blog/mcp-gateway-hard-part-is-auth?utm_source=tldrit",
+      "title": "The hard part of an MCP gateway is auth",
+      "summary": "Authorization, rather than integration, is the primary engineering challenge when deploying AI agents at enterprise scale with a Model Context Protocol gateway. Building robust identity, per-tool scopes, consent mechanisms, and audit logs is essential for safely connecting agents to internal services."
+    },
+    {
+      "url": "https://boomi.com/blog/everything-you-want-to-know-about-the-september-2026-boomi-integration-and-automation-platform-release/?utm_source=tldrit",
+      "title": "Boomi Integration and Automation Platform Release – September 2026",
+      "summary": "Boomi's September release makes Orchestrate generally available to US customers and adds native tracking of Claude Managed Agents, including their tools, models, and token usage. Administrators can now inspect agent session logs across users, while new connectors cover Zoom, Ping Identity, and other business apps. Knowledge Hub also enters early access, bringing structured and unstructured company information into a governed retrieval layer for people and agents."
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-agents-api/?utm_source=tldrit",
+      "title": "Introducing the Agents API",
+      "summary": "OpenAI has introduced a managed Agents API in public beta to help enterprises build custom AI agents with reduced infrastructure management and engineering complexity. The service hosts the underlying harness and allows developers to run agents in OpenAI-managed sandboxes, on their own infrastructure, or through supported providers."
+    },
+    {
+      "url": "https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4?utm_source=tldrit",
+      "title": "When Anyone Can Build Software, Who Decides What Not to Build?",
+      "summary": "As generative AI makes writing software cheaper and faster, the primary bottleneck in enterprise software development shifts from building code to making coherent architectural judgments. Code is disposable while operational state and system integrations accumulate, so organizations face a growing risk of fragmented, locally optimized silos unless they maintain a deliberate enterprise-wide perspective before committing resources."
+    },
+    {
+      "url": "https://slack-status.com/2026-09-12?utm_source=tldrit",
+      "title": "Some customers experiencing blurry image previews and download issues",
+      "summary": "Slack resolved a weekend incident that made older image uploads appear blurry or fail to download across desktop, web, and mobile clients. A code change disrupted retrieval of existing files, while newly uploaded images were unaffected. Slack deployed a fix and confirmed that access was restored for affected customers."
+    },
+    {
+      "url": "https://newsletter.getdx.com/p/how-okta-governs-ai-agents-at-enterprise?utm_source=tldrit",
+      "title": "How Okta governs AI agents at enterprise scale (37 minute podcast)",
+      "summary": "Okta Chief Architect Robert Lucero discusses how agentic AI is transforming identity and access management."
+    },
+    {
+      "url": "https://appleinsider.com/articles/26/09/13/macos-tahoe-264-update-stops-you-from-copying-your-login-keychain?utm_source=tldrit",
+      "title": "macOS Tahoe 26.4 update stops you from copying your login Keychain",
+      "summary": "New reporting highlights a macOS 26.4 change that prevents manually copied login Keychains from working on another Mac, creating a credential-recovery gotcha for IT teams replacing failed devices."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/?utm_source=tldrit",
+      "title": "Here's When iOS 27 Rolls Out Around the World",
+      "summary": "Apple's iOS 27, iPadOS 27, and macOS Golden Gate updates are scheduled for September 14, with a roughly 10 AM Pacific rollout expected, though not officially confirmed."
+    }
+  ]
+}

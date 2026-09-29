@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-29",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.geekwire.com/2026/artists-game-designers-and-producers-hit-hard-as-microsoft-cuts-277-jobs-in-washington-state/?utm_source=tldrdesign",
+      "title": "Artists, Game Designers and Producers Hit Hard as Microsoft Cuts 277 Jobs in Washington State",
+      "summary": "Microsoft cut 277 jobs in the Seattle region, according to a newly public WARN Act filing, with artists, game designers and producers among the hardest hit. Art, production, design, and audio roles total 77 positions, while software engineering is the largest single category at 60. Of the cuts, 252 were at the Redmond campus, and 25 were remote, part of a wider Xbox restructuring that also moves the next Halo game to Activision."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/?utm_source=tldrdesign",
+      "title": "YouTube Releases New AI Features for Creators within its Studio App",
+      "summary": "YouTube is adding AI tools to its Studio app that critique unpublished videos on pacing, structure, and storytelling before creators publish. A new research feed shows what content performs well on the platform, and thumbnails and titles can be generated to match a creator's own style. Creators have already run over 40 million title and thumbnail A/B tests, and Studio will soon test three video cuts and swap out weak thumbnails automatically."
+    },
+    {
+      "url": "https://www.digitaltrends.com/wearables/apples-vr-headsets-are-supposedly-on-life-support-as-it-experiments-with-new-models/?utm_source=tldrdesign",
+      "title": "Apple's XR headset plans are supposedly on life support, as it experiments with new design ideas",
+      "summary": "Apple is exploring a completely redesigned Vision headset that could address the Vision Pro's biggest weakness—its weight—using lighter materials or moving the processor and battery into a separate puck similar to Meta's new VR glasses. Several concepts are reportedly under consideration, but development remains uncertain, and any new headset is unlikely to arrive before 2028 or 2029."
+    },
+    {
+      "url": "https://whydesignishard.substack.com/p/the-5-big-lessons-designers-must?utm_source=tldrdesign",
+      "title": "The 5 Big Lessons Designers Must Learn",
+      "summary": "Five lessons run through design work: someone always has to pay for an idea, and framing it as higher quality sells better than calling it good design. Power, not talent, decides most projects, since whoever controls budget, schedule, and goals is the real designer, leaving others to work through influence instead. What counts as good depends on context, such as affordability and bureaucracy, and products bought before they're used are often designed to sell rather than to serve."
+    },
+    {
+      "url": "https://hitesh.in/2026/best-ai-still-feels-broken/?utm_source=tldrdesign",
+      "title": "Google has the best AI money can buy. Its products still feel broken",
+      "summary": "Google's AI-powered search is eroding trust not because Gemini is inherently incapable, but because probabilistic answers have been inserted into an interface that users expect to deliver deterministic, verifiable results without clearly communicating uncertainty. The deeper problem may be organizational: weak feedback loops between product teams and real users can produce fragmented features optimized for internal goals rather than actual workflows. For teams integrating AI, the key is to distinguish surfaces where occasional mistakes are acceptable from those where accuracy is fundamental, while preserving direct user feedback and making uncertainty visible."
+    },
+    {
+      "url": "https://nitayneeman.com/blog/how-to-sync-a-design-system-with-claude-design/?utm_source=tldrdesign",
+      "title": "How to Sync a Design System with Claude Design",
+      "summary": "Syncing a design system with Claude Design creates a mirror: a compiled, self-rendering copy of the component library, so Claude designs with the real components. The sync runs with /design-sync from Claude Code and checks and fixes its own work before uploading, and the mirror is a one-way snapshot. With shadcn and Tailwind v4, the key steps are an entry file with type definitions, a compiled stylesheet with safelisted layout utilities, fonts listed in extraFonts, and a conventions file. Storybook is optional, but it provides the reference that makes the sync verifiable."
+    },
+    {
+      "url": "https://lumiko.dev/?utm_source=tldrdesign",
+      "title": "Free Chrome Screen Recorder with Cursor Zoom (Website)",
+      "summary": "Screen capture with automatic cursor zoom, panning, and a built-in screen recording editor."
+    },
+    {
+      "url": "https://shotonlightmeter.com/?utm_source=tldrdesign",
+      "title": "Your Pocket Film Camera (Website)",
+      "summary": "Lightmeter captures natural and raw photos with authentic film looks. Zero-AI processing, no HDR. Natural colors, authentic grains."
+    },
+    {
+      "url": "https://www.hidingelephant.com/?utm_source=tldrdesign",
+      "title": "AI Canvas for Real Design Work (Website)",
+      "summary": "Generate, edit, and scale on-brand visuals in one workspace for marketing teams, ecommerce brands, and creative agencies."
+    },
+    {
+      "url": "https://www.creativeboom.com/work/moksi-gives-gifttrees-the-confidence-to-be-both-good-and-profitable/?utm_source=tldrdesign",
+      "title": "MOKSi gives GiftTrees the confidence to be both good and profitable",
+      "summary": "GiftTrees worked with MOKSi to reposition itself as a profitable business that creates positive environmental and social impact, centered on the proposition “impact made easy” and an intentionally upbeat, anti-guilt tone. The refreshed identity combines a leaf-and-bow logo, expressive typography, green with vibrant purple, orange, and red, and positive imagery to distinguish the company from traditional charity and sustainability branding. The result gives GiftTrees a clearer way to unite people, planet, and profit while supporting its ambition to scale from more than five million trees planted toward one billion."
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/?utm_source=tldrdesign",
+      "title": "When Chat is the Wrong UI",
+      "summary": "Chat has stayed the default way to work with AI for three years, but it suits people who don't know what they want, not those who do. In the GitHub Copilot app, a canvas is a small full-stack application, with no browser chrome, that talks back and forth with the agent. Examples include a playable Connect 4 game, a local package manager, and a workflow tool that automates research and planning so a developer can step back."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/branding/inca-kola-rebrands-as-the-worlds-other-cola-war-heats-up?utm_source=tldrdesign",
+      "title": "Inca Kola rebrands as the world's other cola war heats up",
+      "summary": "Inca Kola simplified its identity in 2016 by removing elements such as Peru's silhouette and its founding date, creating a cleaner, more modern logo but prompting criticism that the brand is losing some of its distinctly Peruvian character. Rather than relying on explicit national symbols, the new system emphasizes belonging through imagery of social gatherings and food, while turning the logo's distinctive shape into a flexible framing device. The identity also expands into sound with a four-note mnemonic created from traditional glass cola bottles, reinforcing familiar brand associations while modernizing the overall experience."
+    },
+    {
+      "url": "https://uxknowledgebase.com/easter-eggs-in-product-design-web-design-5f69d883cd33?utm_source=tldrdesign",
+      "title": "Easter Eggs in Product Design & Web Design",
+      "summary": "Hidden features and secret interactions make a product feel delightful and memorable, tapping into the dopamine hit of discovering something unexpected."
+    },
+    {
+      "url": "https://molily.de/web-dev-education/?utm_source=tldrdesign",
+      "title": "The Death of Web Development Education",
+      "summary": "Generative AI has gutted the market for web-development education."
+    }
+  ]
+}

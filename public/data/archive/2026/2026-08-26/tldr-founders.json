@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-26",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://paulgraham.com/prepare.html?utm_source=tldrfounders",
+      "title": "How Universities Should Prepare Founders",
+      "summary": "Microsoft and Meta both started during Harvard's reading period, when students are on campus with nothing due the next day. The hard part of a startup is product - knowing what to build and being able to build it - so universities should fund computer science, mechanical engineering, and molecular biology over entrepreneurship curricula. Business plan competitions train founders to impress investors with a story instead of impressing users. YC application data has Harvard alumni applying at about twice the rate of Yale and Princeton alumni, which is credited to culture and exposure."
+    },
+    {
+      "url": "https://www.saastr.com/the-3-new-pricing-models-in-b2b-pick-one-because-the-old-one-just-seats-is-dying/?utm_source=tldrfounders",
+      "title": "The 3 New Pricing Models in B2B. Pick One, Because The Old One (Just Seats) Really is Dying",
+      "summary": "Your next renewal increase is what pays for your customer's AI bill, and their procurement team has already worked that out. Software prices rose 12% to 16.4% through 2026 while general inflation sat near 2.7%. The average enterprise now spends $55.7M a year on software, up 8%, even though the number of apps in use slipped slightly, so every dollar of that growth came from price. 79% of IT leaders saw a price increase at renewal, and 78% got surprise AI or usage charges. Among 141 CIOs surveyed, 45% fund AI from existing software budgets and 54% are cutting vendor counts. Only about 28 cents of each new AI dollar is fresh budget."
+    },
+    {
+      "url": "https://docs.google.com/document/d/1-Ij4_SIgwNcEXOatytMl-6c2-GYj0OGy82KrqAzTiG8/edit?tab=t.0&amp;utm_source=tldrfounders",
+      "title": "Discovery Meetings Playbook",
+      "summary": "Discovery meetings are a commercial handshake between organizations. The purpose of these meetings is to figure out whether future communication is worthwhile. It is to determine whether an organization can solve a need well. Founders tend to show up and give demos, but what they need to do instead is to establish whether they can solve the problem and how they plan to do it."
+    },
+    {
+      "url": "https://speedrun.substack.com/p/max-mullen-on-when-to-take-advice?utm_source=tldrfounders",
+      "title": "Max Mullen on when to take advice from your investors",
+      "summary": "Only take advice from investors if it is a science question. Science decisions are ones that have a right answer. Great investors have answers for science questions because they sit on boards and invest in a lot of companies. They can just inform founders what will work and what won't work. Other areas, such as culture, mission, and strategy, should be the founder's domain and no one else's business."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2092279738396201023.html?utm_source=tldrfounders",
+      "title": "Monaco",
+      "summary": "Monaco is an advanced AI sales platform that can add 16 points to the average customer's month-over-month revenue growth rate. The company's average customer tripled their monthly meeting volume during the beta. Several hundred hypergrowth startups experienced staggering results in the preview. The platform has now moved to General Availability."
+    },
+    {
+      "url": "https://github.com/CopilotKit/OpenTag?utm_source=tldrfounders",
+      "title": "OpenTag (GitHub Repo)",
+      "summary": "OpenTag is a self-hosted knowledge-work agent for Slack and Microsoft Teams. It can turn data into charts and insights where the work already is. Support for Discord, Telegram, and WhatsApp is coming soon. A video demoing the agent is available in the repository."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/you-need-to-find-product-market-fit?utm_source=tldrfounders",
+      "title": "You need to find product-market fit again (sorry)",
+      "summary": "The product-market fit game never really ends. However, once you've done it once, you're better armed than any first-timer. You have revenue, real users, years of data, and now agents to do half the building. This post provides some observations that might help post-product-market-fit companies prepare for whatever comes next."
+    },
+    {
+      "url": "https://prc.beehiiv.com/p/compounded-mastery?utm_source=tldrfounders",
+      "title": "Compounded Mastery",
+      "summary": "Compounded mastery, where founders possess deep domain expertise prior to starting their companies, is becoming essential as AI makes software development more accessible. This expertise, built over time through trust, networks, and recognition, cannot be replicated by AI or bought with capital. In a future dominated by AI content, only founders with established mastery and trust will thrive."
+    },
+    {
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm&amp;utm_source=tldrfounders",
+      "title": "Update: New domain for Sign in with Apple",
+      "summary": "If your signup flow has a rule anywhere that looks for the words privaterelay.appleid.com, that rule is about to start rejecting real customers."
+    },
+    {
+      "url": "https://news.crunchbase.com/startups/bootstrapped-self-funded-business-ai-relevancy-desilva-lateral/?utm_source=tldrfounders",
+      "title": "Why Bootstrapped Businesses Are More Relevant Than Ever",
+      "summary": "Bootstrapped businesses are gaining relevance, driven by their focus on solving existing customer problems rather than chasing risky capital."
+    },
+    {
+      "url": "https://unbeatenpath.substack.com/p/robotic-companies-should-go-full?utm_source=tldrfounders",
+      "title": "Robotics companies should go full-stack",
+      "summary": "Vertically integrating and fighting an open battle is much harder, but it's worth fighting because the prize for winning is much bigger."
+    }
+  ]
+}

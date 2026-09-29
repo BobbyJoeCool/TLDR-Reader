@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-09-24",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system?utm_source=tldrnewsletter",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": "Claude autonomously discovered a novel enzyme system that is associated with an array of DNA repeats. The system's function is still unknown, but it is programmable and can perform operations like cutting, copying, and pasting DNA. It is based on a reverse transcriptase previously known to science, but Claude appears to be the first to notice the system's defining features - an associated array of non-coding DNA sequences and an additional accessory protein of unknown function."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIyNjQ3MywiZXhwIjoxNzkwODMxMjczLCJhcnRpY2xlSWQiOiJUTFRUVFFUOU5KTFMwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.M6Y1QJ3bC19uLscLkm71ztDA6rRfF34NahHUdWj1-_o&utm_source=tldrnewsletter",
+      "title": "Meta Launches Lightweight $1,299 VR Headset That Looks Like Glasses",
+      "summary": "Meta has launched the Meta VR Glasses at $1,299. The device has many of the same features as Meta's existing Quest headsets. Its processor, cooling fan, battery, and other computing components are housed in an external pack. At about 100 grams, the device is roughly one-sixth the weight of Apple's Vision Pro."
+    },
+    {
+      "url": "https://www.wsj.com/health/healthcare/grails-multi-cancer-blood-test-gets-fda-committee-vote-for-premarket-approval-24f5aa90?st=bVsE9g&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Grail's Multi-Cancer Blood Test Gets FDA Committee Vote for Premarket Approval",
+      "summary": "Grail has received a favorable vote from an FDA panel regarding premarket approval for its multi-cancer early detection test. The test is designed to detect cancer-specific methylation patterns and, if detected, predict the cancer signal origin with high accuracy to help guide diagnostic evaluation. While the FDA isn't bound to the committee's decision, it takes them into consideration when making the final regulatory decision. It is expected to make its final ruling on the test's premarket approval in the coming months."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/space/china-puts-ai-compute-into-orbit-with-supercomputing-1-satellite-onboard-processing-aims-to-cut-earth-observation-data-processing-from-hours-to-minutes?utm_source=tldrnewsletter",
+      "title": "China puts AI compute into orbit with Supercomputing-1 satellite — onboard processing aims to cut Earth-observation data processing from hours to minutes",
+      "summary": "China has launched nine satellites into orbit as part of a push to put AI computing in space. The Supercomputing-1 satellite that launched on the mission is designed to capture and process Earth-observation data in orbit instead of sending data back to terrestrial data centers. It features both a high-res optical payload and an image-processing AI computer. Local processing will cut cross-regional data processing times from hours to minutes."
+    },
+    {
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/?utm_source=tldrnewsletter",
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "summary": "Anthropic made the core user experience of claude.ai and the Claude desktop app about 3x faster during a two-week sprint in August. Time to a typeable page on a fresh load of claude.ai went from 3.1 seconds to 0.55 seconds, starting a new Claude Code session went from 0.8 seconds to 0.3 seconds, and loading a Claude Cowork cloud session went from 2.6 seconds to 0.73 seconds. The optimizations will likely save an estimated tens of thousands of user-hours of waiting every day. This post covers what the Claude team shipped, how they measured it, and the loop they built with Claude to do it safely."
+    },
+    {
+      "url": "https://blog.scotterickson.info/2026-09-23-Redistributed-Ownership?utm_source=tldrnewsletter",
+      "title": "A Redistribution of Code Ownership",
+      "summary": "Product managers and designers used to have to think through a great deal ahead of time because the build was a larger investment, and the people paying for it wanted to know what they were getting before they committed. Agent coding changes the process so that nobody has to hold the whole vision in their head and transfer it losslessly to someone else. Engineers have historically owned code out of necessity, but AI enables a model of ownership and collaboration that is distributed a little more evenly."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Jensen Huang Thinks AI Alarmism Has Gone Too Far",
+      "summary": "Nvidia CEO Jensen Huang controls one of the central resources for training new AI models and using them to answer questions. He has become very influential in the Trump administration. While Huang is worried about AI safety, he sees it as a very solvable engineering problem. He does not want to see new regulation to change the direction things are going in."
+    },
+    {
+      "url": "https://spyglass.org/meta-muse-ai-humans/?utm_source=tldrnewsletter",
+      "title": "Meta Muse is People",
+      "summary": "Meta has been testing a human concierge for its Muse AI personal assistant. Human contractors are quietly handling some of the phone calls placed via the digital agent. The Muse agent is designed to autonomously perform tasks like sending emails, shopping, and booking travel on a person's behalf. The phone-calling feature allows users to tell the agent to dial phone numbers for businesses in the US and talk with people to handle errands like booking haircuts, checking whether a store has an item in stock, or getting quotes from different contractors."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/?utm_source=tldrnewsletter",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "summary": "The annual Made on YouTube event introduced several AI features coming to the online streaming platform in the coming months, as well as a handful of non-AI updates."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/openai-siri-chatgpt-underperforming/?utm_source=tldrnewsletter",
+      "title": "ChatGPT in Siri 'Persistently Underperforming,' Says OpenAI",
+      "summary": "Elon Musk alleged that OpenAI and Apple's deal harmed xAI's growth and customer acquisition, but xAI can't prove harm cause the ChatGPT Siri integration just didn't draw in many new ChatGPT users."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIyNjQyMywiZXhwIjoxNzkwODMxMjIzLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.J09uijjWHjD0wCb8T3pAGsyiMxA0T5aNTAT18py752s&utm_source=tldrnewsletter",
+      "title": "Meta Debuts Dedicated ‘Charm' Device for Using Muse AI",
+      "summary": "Muse Charm is a palm-sized, dedicated gadget for using Muse, Meta's new AI assistant."
+    },
+    {
+      "url": "https://michaelheap.com/i-dont-want-the-details/?utm_source=tldrnewsletter",
+      "title": "I don't want the details",
+      "summary": "When something goes wrong, don't talk about the details - focus on what will change so it doesn't happen again."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.vzm8.4XCYKmlCKabZ&smid=url-share&utm_source=tldrnewsletter",
+      "title": "OpenAI's AI Tried Breaching 4 Other Targets, Without Prompting",
+      "summary": "Three out of the four attempts were unsuccessful, but the Australian Medicare Statistics Reporting Service reported that OpenAI's AI acquired health data from its website."
+    },
+    {
+      "url": "https://electrek.co/2026/09/23/byds-new-ultra-luxe-ev-first-with-solid-state-batteries/?utm_source=tldrnewsletter",
+      "title": "BYD's new ultra-luxe EV has coach doors and may be its first with solid-state batteries",
+      "summary": "BYD's upcoming Yangwang model features Rolls-Royce-like coach doors, 5-minute Flash Charging, and possibly solid-state batteries."
+    }
+  ]
+}

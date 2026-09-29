@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-24",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mikeshields.substack.com/p/advertising-is-going-ai-tv-isnt?utm_source=tldrmarketing",
+      "title": "Advertising is Going AI. TV Isn't",
+      "summary": "By 2030, 27% of ad revenue could flow through AI-powered platforms. TV is moving slower. North American TV ad revenue is expected to grow just 3% in 2026, excluding political spending. Complex buying workflows and fragmented inventory make automation harder. AI could simplify TV buying, but it needs strong first-party data to work well."
+    },
+    {
+      "url": "https://www.retaildive.com/news/lower-income-households-financially-vulnerable-financial-health-network/831129/?utm_source=tldrmarketing",
+      "title": "More lower-income households feel financially vulnerable",
+      "summary": "Financially vulnerable US households rose from 15% to 17% in 2026, while fewer than 70% said they paid all bills on time over the past year. Low-income consumers have shifted more than $10 billion from discretionary purchases toward essentials since 2019, as prices for that group have risen 35% since January 2018. Consumer spending has still held steady in 2026, but many consumers are tapping into their savings to keep spending. This may not be sustainable if inflation, gas prices, and other costs continue to rise."
+    },
+    {
+      "url": "https://thenextweb.com/news/california-ab-1130-paid-political-posts-influencer-fine?utm_source=tldrmarketing",
+      "title": "California will fine creators $5,000 a post for hidden political ads",
+      "summary": "California now allows fines of up to $5,000 per post for creators who fail to disclose paid political content from campaigns. AB 1130 gives the Fair Political Practices Commission enforcement powers that were previously missing. The law applies when creators are paid by campaign committees to support or oppose candidates or ballot measures. It doesn't cover unpaid political opinions. The law follows growing use of influencers in political campaigns and similar disclosure efforts elsewhere."
+    },
+    {
+      "url": "https://nectivdigital.com/blog/the-perfectly-optimized-page-for-aeo-ai-search?utm_source=tldrmarketing",
+      "title": "The Perfectly Optimized Page for AEO",
+      "summary": "A visual checklist showing the 6 key elements of a page optimized for AEO. Allowing major AI crawlers and server-side rendering makes the page accessible, while four to six direct sentences near the top give AI a concise answer to extract. Tables, lists, clear heading hierarchies, and FAQs make information easier to parse, and pages less than three months old are reportedly 3x more likely to earn citations."
+    },
+    {
+      "url": "https://theindiepreneur.substack.com/p/i-built-growth-team-out-agents-here-exactly-works?utm_source=tldrmarketing",
+      "title": "I Built a Growth Team of Agents To Run a 6 Figures Business",
+      "summary": "An agent growth team can take over drafting and routing but should never take over sending. One solo operator pairs an orchestrator with about ten channel agents, covering everything from SEO to paid media to lifecycle email, each tied to a share of a 900-signup, 200-customer monthly target. Every task goes on a Todoist board that separates decisions from execution, and each card must say what the task is, why it matters, and where to click. Finished cards trigger the next agent's follow-up automatically, so the founder only approves and sends."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/?utm_source=tldrmarketing",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "OpenAI has launched GPT-6 Sol and GPT-6 Luna, two faster and more affordable models for everyday work, coding, computer use, and AI agents. Both bring improvements from GPT-6 Astra, including stronger factuality and collaboration. GPT-6 Sol costs $2 input and $10 output per 1M tokens, while Luna costs $0.10 input and $0.50 output, both 50% cheaper than GPT-5.6 promotional pricing."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/chloe-christine-allerton_i-made-you-a-free-looker-studio-report-to-share-7508234535520628737-UYjQ/?utm_source=tldrmarketing",
+      "title": "Free Looker Studio report to monitor AI traffic to your website",
+      "summary": "A Looker Studio template that pulls data from Google Analytics. It visualizes AI-generated website traffic metrics, including breakdowns by AI tool and page."
+    },
+    {
+      "url": "https://www.wired.me/story/what-would-a-child-free-internet-look-like?utm_source=tldrmarketing",
+      "title": "What Would a Child-Free Internet Look Like?",
+      "summary": "Australia's under-16 social media ban deactivated 4.7M accounts, yet more than 80% of surveyed children still used age-restricted services. A “child-free” internet could push young users toward gaming, messaging, and smaller platforms, making their activity harder to monitor. Children could also remain visible through adult-run family influencer accounts. The shift could make young consumers' influence less visible to brands while limiting children's access to online communities and digital experiences."
+    },
+    {
+      "url": "https://research.contrary.com/report/ai-polling-how-synthetic-surveys-could-predict-real-behavior?utm_source=tldrmarketing",
+      "title": "AI Polling: How Synthetic Surveys Could Predict Real Behavior",
+      "summary": "People answer surveys as the person they want to be rather than the one they are, and synthetic surveys try to close that gap by simulating behavior instead of asking. AI personas built from interviews and behavioral records can return results in hours at about half the cost of human panels, and incumbents like Gallup and Qualtrics are already testing them. The simulations tend to match overall results but miss on subgroups and on questions outside their training data, where they rarely admit uncertainty."
+    },
+    {
+      "url": "https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/?utm_source=tldrmarketing",
+      "title": "AI Agent Calls That Are Actually Made By Humans in a Call Center",
+      "summary": "Meta pitched the feature publicly as AI, but internal posts describe a \"human agent layer,\" and at least one tester only found out after the call that a person had placed it."
+    },
+    {
+      "url": "https://forkast.news/only-11-of-small-merchants-are-ready-for-ai-shopping-agents/?utm_source=tldrmarketing",
+      "title": "Only 11% of Small Merchants Are Ready for AI Shopping Agents",
+      "summary": "The bottleneck is merchant infrastructure rather than AI reasoning."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/amy-c-watts_product-content-doesnt-have-to-be-dull-ugcPost-7508073983930658816-0aeU/?utm_source=tldrmarketing",
+      "title": "4 brands that prove product content doesn't have to be dull (2 minute rad)",
+      "summary": "B2B content ideas from Canva, Ramp, Optimizely, and Notion."
+    }
+  ]
+}

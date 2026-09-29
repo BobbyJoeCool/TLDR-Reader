@@ -1,0 +1,73 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-13",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reco.ai/blog/city-forum-campaign-salesforce-servicenow?utm_source=tldrit",
+      "title": "An Advanced Attacker Is Targeting Salesforce and ServiceNow",
+      "summary": "There is an ongoing campaign targeting guest-accessible Salesforce Experience Cloud sites and ServiceNow Service Portals from infrastructure linked to the IP address 158.220.87[.]79. The actor uses Salesforce Aura and previously undocumented Salesforce LWR UI-API techniques, plus a ServiceNow search endpoint, to extract records."
+    },
+    {
+      "url": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs?utm_source=tldrit",
+      "title": "Enterprises are running AI in production without knowing what it costs",
+      "summary": "Two-thirds of surveyed enterprises now run AI workloads in production, but many still lack visibility into infrastructure costs and utilization. The gap is becoming more important as inference becomes a continuous operational expense."
+    },
+    {
+      "url": "https://www.cloudera.com/about/news-and-blogs/press-releases/2026-08-11-ninety-five-percent-of-enterprises-have-delayed-ai-projects-as-infrastructure-limitations-spark-the-great-ai-re-architecture.html?utm_source=tldrit",
+      "title": "95% of enterprises have delayed AI projects over infrastructure and governance gaps",
+      "summary": "Cloudera found nearly every surveyed organization delayed or canceled AI projects over the past year, with governance and compliance among the biggest blockers. Nearly three-quarters said AI has made data governance more complex."
+    },
+    {
+      "url": "https://thegtmnewsletter.substack.com/p/gtm-201-salesforce-agentforce-ai-era-kris-billmaier?utm_source=tldrit",
+      "title": "Will Salesforce Win the AI Era Like It Won Cloud?",
+      "summary": "Salesforce's AI strategy will transform CRM into “agentic revenue orchestration,” with agents handling prospecting, research, pipeline management, and quoting. Its vision of a “headless CRM” surfaced through tools such as Slack and ChatGPT, while claiming that AI will augment rather than replace sellers and push pricing toward consumption and outcomes."
+    },
+    {
+      "url": "https://www.wheresyoured.at/dont-look-up/?utm_source=tldrit",
+      "title": "Don't Look Up",
+      "summary": "The future cloud growth of Microsoft, Google, and Amazon is increasingly dependent on Anthropic and OpenAI sustaining enormous, largely venture-funded compute spending. The two AI companies may need to spend more than $200 billion on compute in 2027 and raise roughly $250 billion to $300 billion to finance it, creating substantial risk if end-customer returns fail to materialize."
+    },
+    {
+      "url": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent?utm_source=tldrit",
+      "title": "Enterprise AI agents keep getting confident answers wrong",
+      "summary": "A survey of 101 enterprises found bad context behind many confidently incorrect agent answers. Organizations using governed semantic layers were substantially better at detecting those failures."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/08/11/citrix-platform-flex-new-services/?utm_source=tldrit",
+      "title": "Citrix expands Platform Flex with observability and secure developer services",
+      "summary": "Citrix announced two services expanding Platform Flex: Experience Insights Flex for managed workspace observability and SecurSpaces Flex for hosted, secure developer and agentic workspaces. The services use a shared credit pool, with Citrix managing analytics and infrastructure while customers retain control of identity, code, policies, and data."
+    },
+    {
+      "url": "https://newsroom.ibm.com/2026-08-11-IBM-and-Together-AI-Sign-Multi-Year-Agreement-to-Scale-Open-Source-AI-Inference-with-NVIDIA-AI-Infrastructure-on-IBM-Cloud?utm_source=tldrit",
+      "title": "IBM and Together AI build a $240M inference cluster",
+      "summary": "IBM will deploy a large Nvidia HGX B300 cluster for Together AI on IBM Cloud, with availability expected in Q1 2027. The infrastructure is designed specifically for large-scale open-model inference."
+    },
+    {
+      "url": "https://www.theregister.com/ai-ml/2026/08/12/oh-no-not-another-one-databricks-buys-electric/5286721?utm_source=tldrit",
+      "title": "Databricks buys Electric to build databases for AI agents",
+      "summary": "Databricks acquired Electric, whose PGlite and sync technology lets agents keep fast local Postgres state synchronized with centralized databases. The team will join Neon to build infrastructure specifically for agentic applications."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4207475/navigating-the-ai-data-center-capacity-crisis.html?utm_source=tldrit",
+      "title": "AI is creating a data center capacity crisis",
+      "summary": "AI demand is colliding with long data center construction timelines and constrained power availability. Enterprises may increasingly need hybrid infrastructure strategies instead of assuming new GPU capacity will always be available on demand."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/software-factories?utm_source=tldrit",
+      "title": "Can software factories actually work?",
+      "summary": "Software factories, automated pipelines in which agents build, test, and sometimes ship code, could solve the code-review bottleneck created by faster agent-generated development. The factory model contrasts human-reviewed systems with controversial “lights-off” setups and requires validated agent output, broad adoption, and failure-tolerant guardrails."
+    },
+    {
+      "url": "https://vercel.com/changelog/enterprise-managed-users?utm_source=tldrit",
+      "title": "Enterprise Managed Users is now generally available",
+      "summary": "Vercel has made Enterprise Managed Users generally available, giving organizations centralized control over accounts using their verified domains."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4208360/nvidias-half-trillion-dollar-ai-investment-fund-could-impact-enterprise-chip-pricing-availability.html?utm_source=tldrit",
+      "title": "Nvidia's $500B AI financing pool could reshape chip availability",
+      "summary": "Nvidia and six financial firms are creating financing pools that could accelerate AI infrastructure purchases while potentially tightening chip supply for enterprises."
+    }
+  ]
+}

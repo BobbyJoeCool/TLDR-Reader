@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-07-27",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what/?utm_source=tldrdevops",
+      "title": "OpenTelemetry has graduated… Now what?",
+      "summary": "OpenTelemetry officially achieved CNCF graduated status in May, placing it alongside Kubernetes and Prometheus. The project has over 12,000 contributions from more than 2,800 companies and is the second-highest velocity project in the CNCF. OpenTelemetry originated from a 2019 merger of OpenCensus and OpenTracing, and its traces, logs, and metrics signals have all reached general availability, with profiling added as a new signal. Future work includes generative AI semantic conventions for agentic workflows, browser and mobile observability, and zero-code instrumentation via the OpenTelemetry Injector."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/?utm_source=tldrdevops",
+      "title": "Open Weights and American AI Leadership",
+      "summary": "Open-weight AI models can expand access, lower costs, strengthen competition, reduce vendor lock-in, and let organizations adapt and run models on their own infrastructure. More than 70 technology companies and organizations argue that policymakers should support compute access, shared AI infrastructure, model evaluation, and targeted safeguards rather than imposing broad restrictions that could concentrate advanced AI among a few closed providers."
+    },
+    {
+      "url": "https://octopus.com/blog/the-compliance-ratchet?utm_source=tldrdevops",
+      "title": "The compliance ratchet",
+      "summary": "AI-driven productivity gains can be offset by increased compliance overhead when organizations focus on shipping faster without reducing risk. It advocates pairing faster development with AI-assisted safety, governance, and risk management to avoid the compliance ratchet and achieve sustainable velocity."
+    },
+    {
+      "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/?utm_source=tldrdevops",
+      "title": "The cost of saying yes has changed",
+      "summary": "AI has shifted the main cost of many small engineering changes from writing code to reviewing and owning it, making generated patches a fast way to price uncertainty, validate scope with concrete evidence, and focus human judgment on maintainability, risk, and long-term ownership rather than implementation effort."
+    },
+    {
+      "url": "https://medium.com/pinterest-engineering/securing-infrastructure-at-scale-introducing-pinterests-resource-provisioner-pipeline-rpp-8283bb12cbe5?utm_source=tldrdevops",
+      "title": "Securing Infrastructure at Scale: Introducing Pinterest's Resource Provisioner Pipeline",
+      "summary": "Pinterest's Resource Provisioner Pipeline centralizes Terraform execution across hundreds of workspaces and tens of thousands of AWS resources while preserving team ownership in a multi-repository environment. It enforces least privilege through GitHub OIDC, strict repository-path-to-workspace mappings, backend validation, down-scoped IAM roles, mandatory review, and explicit apply commands, while centralization enables consistent auditing, security scanning, and company-wide fixes."
+    },
+    {
+      "url": "https://github.com/block/buzz?utm_source=tldrdevops",
+      "title": "Buzz (GitHub Repo)",
+      "summary": "Buzz is a self-hostable workspace built by Block, Inc. where humans and AI agents share the same rooms and communicate over a single Nostr relay event log. Every message, code patch, workflow step, and review approval is a signed event with the same identity model regardless of whether the author is a person or a process. Agents inside a Buzz community can open repos, send patches, review code, run workflows, and join voice huddles with the same affordances as human teammates."
+    },
+    {
+      "url": "https://github.com/OtterMind/Chat2DB?utm_source=tldrdevops",
+      "title": "Chat2DB (GitHub Repo)",
+      "summary": "Chat2DB Community is a free, cross-platform database client with a built-in AI assistant that connects to your own model. It runs locally on Windows, macOS, and Linux, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, SQLite, H2, ClickHouse, and others."
+    },
+    {
+      "url": "https://platformengineering.org/blog/platforms-are-sitting-on-buried-knowledge-for-agents?utm_source=tldrdevops",
+      "title": "Platforms are sitting on buried knowledge your agents are forcing you to dig it up",
+      "summary": "Trusting AI agents is fundamentally a platform engineering challenge because agents need explicit organizational standards, evaluation systems, policies, and accountability frameworks. Platform teams are positioned to translate hidden human judgment into scalable agent infrastructure, enabling safer autonomy through codified workflows, governance, and evolving guardrails."
+    },
+    {
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/?utm_source=tldrdevops",
+      "title": "How I Find Problems to Solve as a Staff Engineer",
+      "summary": "Staff engineers find high-impact work by absorbing recurring problems across teams, digging beneath requested solutions, and waiting for enough evidence to reveal a shared underlying need. Promising ideas should be pressure-tested with prototypes, RFCs, and stakeholder feedback before committing, while repeatedly solving useful problems builds the trust and organizational visibility needed to influence roadmaps without owning every implementation."
+    },
+    {
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability?utm_source=tldrdevops",
+      "title": "Postgres LISTEN/NOTIFY Actually Scales",
+      "summary": "Postgres LISTEN/NOTIFY can bottleneck because every notifying transaction acquires a global exclusive lock through commit, serializing writes, and preventing group commit. Buffering notifications in memory, flushing them in batches, and using infrequent polling as a reliability fallback increased throughput from 2,900 to 60,000 stream writes per second while maintaining 15–100 ms latency."
+    },
+    {
+      "url": "https://grafana.com/blog/grafana-cloud-supabase-one-click-integration/?utm_source=tldrdevops",
+      "title": "How to monitor your Supabase projects: connect Grafana Cloud in one click",
+      "summary": "Supabase and Grafana Labs have launched a one-click integration that gives Supabase users access to Grafana Cloud observability directly from their dashboard."
+    },
+    {
+      "url": "https://thenewstack.io/self-healing-gpu-nodes/?utm_source=tldrdevops",
+      "title": "Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent",
+      "summary": "AWS built the open source EKS Node Monitoring Agent to automate self-healing Kubernetes GPU node repair by detecting hardware and infrastructure failures, triggering Karpenter replacements, and applying key lessons on stable APIs, latency, severity classification, workload isolation, and separate detection from diagnosis."
+    }
+  ]
+}

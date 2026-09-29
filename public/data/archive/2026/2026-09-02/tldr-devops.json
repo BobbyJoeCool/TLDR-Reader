@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-09-02",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/?utm_source=tldrdevops",
+      "title": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
+      "summary": "Storage version migration (SVM) is now generally available in Kubernetes v1.37, stable and enabled by default across all clusters running that version. The feature lets cluster administrators migrate stored API resources to a current storage version by creating a declarative StorageVersionMigration object, which the built-in control plane controller then handles automatically. Previously, admins had to rely on manual kubectl scripts or a separate out-of-tree component called kube-storage-version-migrator."
+    },
+    {
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/?utm_source=tldrdevops",
+      "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters",
+      "summary": "Wasmi 2.0 is roughly 2.2× faster than Wasmi 1.0 across its benchmark suite, largely through a redesigned interpreter that adds threaded-code dispatch, accumulator registers, and lower-overhead instruction handling. The release also preserves fast startup, adds options to reduce binary size, and includes stable fuel metering, deterministic WebAssembly support, and an improved CLI."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/?utm_source=tldrdevops",
+      "title": "Build your own continuous modernization pipeline with AWS Transform custom",
+      "summary": "AI-driven development accelerates technical debt, making continuous modernization essential in legacy environments. A DIY approach using AWS Transform custom and GitHub Actions automates dependency remediation, documentation, repository-wide transformations, and continual learning, enabling ongoing modernization through CI/CD."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/?utm_source=tldrdevops",
+      "title": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
+      "summary": "AWS has published a guide for building an automated incident response pipeline on Amazon EKS using a new open source tool called the DevOps Agent Operator. The Operator watches for pod failures like OOMKilled or IP exhaustion, immediately collects pod logs, node-level data, and Kubernetes events, then sends that data to AWS DevOps Agent via a webhook before evidence disappears."
+    },
+    {
+      "url": "https://github.com/affaan-m/ECC?utm_source=tldrdevops",
+      "title": "ECC (GitHub Repo)",
+      "summary": "ECC is an open-source engineering harness for coding agents that adds a reusable workflow around planning, testing, implementation, review, verification, memory, and continuous improvement. It ships with specialized agents, skills, hooks, rules, persistent memory, and security scanning, with strongest support for Claude Code plus integration paths for Codex and other agent environments."
+    },
+    {
+      "url": "https://github.com/Gitlawb/openclaude?utm_source=tldrdevops",
+      "title": "Openclaude (GitHub Repo)",
+      "summary": "OpenClaude is an open-source command-line coding agent that works with multiple AI backends, including OpenAI-compatible APIs, Gemini, GitHub Models, Codex, and Ollama."
+    },
+    {
+      "url": "https://grafana.com/blog/how-to-monitor-hcp-terraform-and-terraform-enterprise-with-grafana-cloud/?utm_source=tldrdevops",
+      "title": "How to monitor HCP Terraform and Terraform Enterprise with Grafana Cloud",
+      "summary": "Grafana 13.2 expands shared saved queries with search, RBAC, command palette access, and Terraform provisioning, while the new View panel sidebar improves exploration without edit permissions. Additional updates include Git Sync enhancements, a refreshed homepage, secure cloud data source authentication, improved variable editing, and dashboard organization."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/ai-agent-security-lessons/?utm_source=tldrdevops",
+      "title": "What we learned about AI agent security by monitoring our agents",
+      "summary": "Datadog monitored its own AI agents to uncover security lessons, starting with building an inventory of agent components. The effort also traced sensitive data flows and tool calls to identify risks across the agent stack."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/?utm_source=tldrdevops",
+      "title": "OpenTelemetry has graduated… now what?",
+      "summary": "OpenTelemetry achieved graduated status within the Cloud Native Computing Foundation in May, making it one of the few projects to reach that tier alongside Kubernetes and Prometheus. Graduated status means the project's contributor health, security standards, governance processes, and adoption have been evaluated at a level suitable for enterprise use at any scale."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/?utm_source=tldrdevops",
+      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+      "summary": "Amazon EC2 R9g and R9gd instances are now generally available, powered by AWS Graviton5 processors."
+    },
+    {
+      "url": "https://newrelic.com/blog/observability/gcp-cost-optimization-tools?utm_source=tldrdevops",
+      "title": "Choosing the Right GCP Cost Optimization Tools for Your Environment",
+      "summary": "GCP cost optimization becomes difficult when billing data is disconnected from operational telemetry, making cost anomalies harder to attribute and resolve."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/monitor-azure-functions-hosting-plans/?utm_source=tldrdevops",
+      "title": "Monitor Azure Functions across every hosting plan with Datadog",
+      "summary": "Datadog Serverless Monitoring now traces requests, reports enhanced CPU metrics, and profiles code across all Azure Functions hosting plans."
+    }
+  ]
+}

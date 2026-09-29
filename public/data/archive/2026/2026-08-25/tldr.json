@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-08-25",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/?utm_source=tldrnewsletter",
+      "title": "Tesla confirms Cybercab launch coming next week",
+      "summary": "Tesla is holding an invite-only event to launch the Cybercab in Austin on September 3. The invitations are going to the riders who logged the most Robotaxi trips and winners of a draw. Estimates currently put Tesla's active unsupervised fleet at roughly 20 to 30 vehicles. Tesla claims to have driven about 380,000 cumulative unsupervised miles as of its July earnings call."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/apple-to-launch-new-mac-mini-airpods-5-and-oled-ipad-mini-timing-details?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzYzMjMwMywiZXhwIjoxNzg4MjM3MTAzLCJhcnRpY2xlSWQiOiJUS0FOUk1UOU5KTFMwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.U7K_-LYyuIqPNfPcN7pxM2FSIxM8S_X7Pms_tZw-UaY&utm_source=tldrnewsletter",
+      "title": "Apple Gears Up to Launch Its First New Mac Mini in Two Years",
+      "summary": "Apple's first new Mac mini in almost two years will debut as soon as the next few days. The upgrade follows a surge in demand for the current Mac mini, which has become popular for running AI applications locally. It is part of a wave of new products Apple plans to release in the second half of this year. Apple is set to hold an event on September 9 where it will introduce its first foldable smartphone, as well as the iPhone 18 Pro line. The company is also preparing a range of new Apple Watches and fresh AirPods."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/?utm_source=tldrnewsletter",
+      "title": "Data centers become “killer application” for new power transformer tech",
+      "summary": "The AI data center boom has accelerated investment into solid-state power transformers. This technology relies on high-frequency semiconductor switching to perform voltage conversions and can be mass-manufactured using semiconductor materials such as silicon carbide. Solid-state power transformers are physically smaller and lighter than conventional transformers and have modular designs that enable easy upgrades and replacements of parts. They can directly convert AC power from a local grid's distribution network into the DC power that data centers require."
+    },
+    {
+      "url": "https://itcanthink.substack.com/p/approaching-robotics-hardware-takeoff?utm_source=tldrnewsletter",
+      "title": "Approaching Robotics Hardware Takeoff",
+      "summary": "The World Humanoid Games in Beijing showed how much has changed since last year. The robots are faster, more intelligent, and more capable. The rapid pace of robotic hardware and software innovation is enabling a robust ecosystem that can both build things and isn't afraid to break them. There is now a massive number of companies producing a truly amazing number of robots."
+    },
+    {
+      "url": "https://newsletter.port.io/p/how-uber-built-a-software-factory?utm_source=tldrnewsletter",
+      "title": "How Uber built a software factory for agentic coding: the MCP gateway and the platform underneath",
+      "summary": "More than 70% of pull requests at Uber are now written by AI agents. Code shipped per engineer has doubled in a year. This was enabled through a software factory that runs on a platform that Uber built. The platform gives agents the pieces they need to work safely across thousands of engineers. This post looks at how the factory was built. It covers what MCP gateways are and why they are needed for agentic coding at scale, workflows, and more."
+    },
+    {
+      "url": "https://www.vedanshh.com/blog/context-engineering?utm_source=tldrnewsletter",
+      "title": "The State Machine Nobody Designed",
+      "summary": "Every part of an agent harness adds information to the model's context, controls what information is allowed into that context, or checks the model's output after it is generated. This is just context engineering. Thinking in terms of harnesses makes developers think in terms of adding components. Context is limited, so it's not just about what you can add, but about what's worth keeping as well. The context window is the whole state machine."
+    },
+    {
+      "url": "https://paulgraham.com/prepare.html?utm_source=tldrnewsletter",
+      "title": "How Universities Should Prepare Founders",
+      "summary": "Universities tend to resist the idea of keeping students less busy with coursework, partly because educators feel they have to take active measures to achieve something. However, student founders should be left alone to their own projects, partly because they will be more excited to work on a project that's entirely their own, and because many projects wouldn't survive official recognition. It seems excessive to change the whole schedule of a university just to encourage would-be founders, but giving students some of their time back would help all of the most energetic and ambitious ones. They'd have time to explore new things if the pressure of work were relieved for even a week or two."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/08/24/business/media/amazon-youtube-netflix-streaming-platform.html?unlocked_article_code=1.71A.eTI0.gdO_UDMiC1kn&smid=url-share&utm_source=tldrnewsletter",
+      "title": "The Biggest Dogs in Streaming Want You to Use Only Their App",
+      "summary": "YouTube and Roku are racing to become one-stop shops for all of the content people watch on their TVs. Some paying YouTube subscribers will soon have access to content from Peacock as part of a recent deal between the two companies. The streaming wars have now morphed into a bundling war. The biggest streaming companies no longer just want to have the most subscribers - they also want to be the main entry point to everything streaming has to offer."
+    },
+    {
+      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database?utm_source=tldrnewsletter",
+      "title": "Your executable is a SQLite database",
+      "summary": "This post explores whether it is possible to replace ELF with SQLite as an executable format."
+    },
+    {
+      "url": "https://blog.sshh.io/p/the-harness-is-the-company?utm_source=tldrnewsletter",
+      "title": "The Harness Is the Company",
+      "summary": "Leaders should work on building an organization where great people can do their best work, and then use AI to multiply that."
+    },
+    {
+      "url": "https://thezvi.substack.com/p/the-american-people-really-hate-data?utm_source=tldrnewsletter",
+      "title": "The American People Really Hate Data Centers",
+      "summary": "75% oppose local data center development, despite the economic benefits."
+    },
+    {
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity?utm_source=tldrnewsletter",
+      "title": "Good Culture is the Biggest Productivity Hack, Not AI",
+      "summary": "Making employees worry about their jobs breaks a good culture as it totally decreases psychological safety."
+    },
+    {
+      "url": "https://potsandpansbyccg.com/2026/08/24/starlinks-interesting-approach-to-cellular/?utm_source=tldrnewsletter",
+      "title": "Starlink's Interesting Approach to Cellular",
+      "summary": "StarLink plans to enter the terrestrial cellular business by building a large number of cell sites provisioned with satellite backhaul."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/ai-world-models-robotics-33ab46cb?st=xnEhg4&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "AI's Next Big Leap Is Into the Real World",
+      "summary": "Doing real physical work requires world models, aka 'large action models'."
+    }
+  ]
+}

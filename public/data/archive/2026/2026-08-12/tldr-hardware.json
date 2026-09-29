@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-08-12",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing?utm_source=tldrhardware",
+      "title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
+      "summary": "Chinese AI accelerator firm Moore Threads, founded by former NVIDIA executives, filed for a Hong Kong listing to raise capital for global R&D. As Nvidia faces strict US export bans, Moore Threads is positioning itself alongside Huawei and Cambricon to capture China's domestic AI datacenter hardware market."
+    },
+    {
+      "url": "https://www.forbes.com/sites/robertszczerba/2026/08/10/nvidias-500b-bet-to-make-ai-compute-wall-streets-next-asset-class/?utm_source=tldrhardware",
+      "title": "Nvidia's $500B Bet to Make AI Compute Wall Street's Next Asset Class",
+      "summary": "Nvidia announced financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR, aiming to raise over $500 billion in outside capital for AI \"factories,\" the data centers that train and run AI models, with Jensen Huang pitching this compute as a durable, reusable \"investable asset class.\" The core problem is that these are non-binding MOUs, not signed deals, and the entire pitch hinges on residual value, what the hardware is actually worth if the paying customer walks away, since Huang's own evidence for durability (rising H100 rental rates) proves current earnings, not resale value."
+    },
+    {
+      "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/10/digit-v5-first-humanoid-robot-out-of-the-cage?utm_source=tldrhardware",
+      "title": "Agility's Digit v5 targets unfenced human-robot collaboration and 20-hour shifts",
+      "summary": "Agility Robotics says Digit v5 will work alongside humans without traditional safety fencing, using upgraded perception to detect people and cycloidal actuators to react while maintaining balance and payload control. Better battery life and fast charging target 20-hour operating days, while an ISO flange will support standard industrial end-effectors and eventually autonomous tool swapping. Early customer deployments are planned for December."
+    },
+    {
+      "url": "https://interestingengineering.com/energy/sandia-elemental-sco2-generator-data-centers-2027?utm_source=tldrhardware",
+      "title": "Sandia and Elemental Nuclear to Build sCO2 Generators for On-Site Data Center Power",
+      "summary": "Sandia National Laboratories and Elemental Nuclear Energy are building supercritical carbon dioxide (sCO2) Brayton Cycle generators, which use CO2 held in a state with properties of both a liquid and a gas as the working fluid instead of steam, letting the closed-loop system convert heat to power more compactly than a conventional steam turbine. The first target is a 1-megawatt system running on natural gas and waste heat aimed at small modular data centers and remote military sites, with commercial deliveries planned for 2028."
+    },
+    {
+      "url": "https://semiengineering.com/hybrid-computing-framework-looks-beyond-peak-tops-w-for-ai-efficiency-nottingham-trent-icl-aston/?utm_source=tldrhardware",
+      "title": "Hybrid Computing Framework Looks Beyond Peak TOPS/W For AI Efficiency",
+      "summary": "Researchers propose a hybrid computing framework that moves beyond traditional peak TOPS/W efficiency metrics. The paper demonstrates that combining digital orchestration with analogue, photonic, and neuromorphic accelerators delivers a scalable path toward energy-efficient AI systems. Rather than forcing all workloads onto pure digital logic, the proposed system dynamically routes tasks so physical substrates earn an expanding role only where they offer a measurable, system-level efficiency advantage while digital software manages noise, integration, and fallbacks."
+    },
+    {
+      "url": "https://www.dyna.co/dyna-2?utm_source=tldrhardware",
+      "title": "Dyna-2 establishes a million-hour scaling law for robot learning",
+      "summary": "Dyna-2 is a video-diffusion world-action model pre-trained on more than 1 million hours of egocentric human-manipulation video, with no robot data included during pre-training. Dyna reports that prediction performance improved monotonically across a 1,000-to-1-million-hour training ladder, including zero-shot evaluation on 39 robot tasks from embodiments excluded from training. After limited robot post-training, normalized physical performance across 14 tasks rose from 20% to 53% as human-video pre-training scaled, with the largest model leading on nine tasks. Roughly 10 minutes of robot demonstrations were sufficient to post-train bottle-cap opening with two five-fingered robot hands."
+    },
+    {
+      "url": "https://www.wsj.com/business/energy-oil/china-free-batteries-made-from-salt-are-finally-here-cc1cd766?st=dLihzu&utm_source=tldrhardware",
+      "title": "Batteries Made From Salt Are Finally Here",
+      "summary": "Sodium-ion batteries made from abundant salt reserves are emerging as a viable commercial alternative to lithium-ion energy storage systems. While sodium-ion cells possess lower energy density than lithium, their low raw material costs and rapid charging capabilities make them ideal for stationary grid storage and short-range urban electric vehicles worldwide."
+    },
+    {
+      "url": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech?utm_source=tldrhardware",
+      "title": "China's Top AI Still Trained on Nvidia Chips as Switch to Local Tech Lags",
+      "summary": "Leading Chinese artificial intelligence firms continue to rely on Nvidia GPUs for training frontier AI models, delaying a full transition to domestic silicon alternatives. Despite Beijing's aggressive drive for semiconductor self-reliance and heavy investments in local accelerator developers like Huawei, technical hurdles persist. Domestic AI chipmakers face ongoing challenges with software ecosystem maturity, inter-chip interconnect bandwidth, and cluster stability during massive-scale training runs."
+    },
+    {
+      "url": "https://www.axios.com/2026/08/10/boeing-archer-air-taxis-deal?utm_source=tldrhardware",
+      "title": "Boeing Sells Wisk, Insitu, and SkyGrid to Archer for a 16% Stake",
+      "summary": "Archer Aviation is acquiring Boeing's Wisk Aero, Insitu, and SkyGrid in an all-stock deal that gives Boeing roughly a 16% stake in Archer plus a board seat."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/sony-tsmc-to-invest-6-4-billion-in-joint-chip-plant-in-japan?utm_source=tldrhardware",
+      "title": "Sony and TSMC to Invest $6.4 Billion in Joint Japan Image Sensor Plant",
+      "summary": "Sony Group and TSMC are in joint talks to invest $6.4 billion to build an advanced image sensor manufacturing plant in Kumamoto, Japan."
+    },
+    {
+      "url": "https://thenextweb.com/news/microsoft-maia-300-chip-tsmc-production-boost-nvidia?utm_source=tldrhardware",
+      "title": "Microsoft Expands Maia 300 Custom AI Accelerator Orders at TSMC",
+      "summary": "Microsoft is negotiating with foundry leader TSMC to reserve manufacturing capacity for over 300,000 next-generation Maia 300 custom AI accelerators."
+    },
+    {
+      "url": "https://www.digitimes.com/news/a20260810VL206/samsung-production-hbm4-sk-hynix-hbm.html?utm_source=tldrhardware",
+      "title": "Samsung HBM4 Production Yield Approaches 80% as Race with SK Hynix Heats Up",
+      "summary": "Samsung Electronics has reportedly pushed manufacturing yields for its sixth-generation High Bandwidth Memory close to 80% following mass production refinements."
+    },
+    {
+      "url": "https://www.wsj.com/us-news/how-amazon-built-a-data-center-in-a-california-town-without-anyone-noticing-8610bb67?st=Zy4Loo&utm_source=tldrhardware",
+      "title": "How Amazon Built a $2B Data Center in California Without Public Notice",
+      "summary": "Amazon Web Services secured municipal approvals to construct a $2 billion, 438,500-square-foot data center in Gilroy, California, without triggering public town hearings."
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/us-sec-exempts-certain-data-center-bonds-key-securitization-rules-2026-08-10/?utm_source=tldrhardware",
+      "title": "SEC Exempts Data Center Bonds From Key Securitization Rules",
+      "summary": "The SEC's Division of Corporation Finance has issued guidance confirming that data center securitizations don't count as asset-backed securities under the Exchange Act, as they are treated as operating assets rather than self-liquidating financial assets."
+    }
+  ]
+}

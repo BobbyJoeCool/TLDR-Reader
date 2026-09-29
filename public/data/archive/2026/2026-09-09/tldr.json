@@ -1,0 +1,73 @@
+{
+  "name": "TLDR",
+  "date": "2026-09-09",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html?unlocked_article_code=1._1A.SizP.sP5X3oDk_yD0&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Meta Introduces Muse, an AI Agent That Can Send Your Emails and Book Your Travel",
+      "summary": "Meta's new Muse AI agent can act as a personal digital assistant, autonomously using software apps and websites on behalf of users. It can be instructed to send emails, book travel reservations, make online purchases, and more through an app or WhatsApp. Muse AI can connect to Meta's other apps to learn more about its user. It can also link to third-party apps like Spotify, Ticketmaster, Shopify, Gmail, and OpenTable. The Muse app is free but has limits on usage, which users can pay $20 or $100 a month to increase."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/apple-s-2-000-plus-foldable-iphone-was-a-decade-in-the-making?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODkyMjc5NSwiZXhwIjoxNzg5NTI3NTk1LCJhcnRpY2xlSWQiOiJUS1VVRzFUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.TlVkbi5zJELYLIcbu4vGwZvd3BfmxkTRnrTy4JDNPjI&utm_source=tldrnewsletter",
+      "title": "Apple's $2,000-Plus Foldable iPhone Was a Decade in the Making",
+      "summary": "Apple's secretive core technology development teams had already been studying foldable phones well before Samsung released the first Galaxy Fold in 2019. The company is set to unveil its first foldable phone today. The phone will feature a roughly 7.8-inch interior display considerably wider than those on many Android foldables. Apple was targeting a price of $1,999 early in development, but it has more recently been discussing pricing the foldable product as high as $2,199."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?unlocked_article_code=1._1A.qn87.8x2oWI24XmHE&smid=url-share&utm_source=tldrnewsletter",
+      "title": "OpenAI Says It Has Cracked One of Math's ‘Millennium Problems'",
+      "summary": "OpenAI says its newest AI technology has solved one of the Millennium Problems. The Millennium Problems are the most heavily researched in the field of mathematics. OpenAI's model solved the Navier–Stokes existence and smoothness problem in just 88 hours. The company's proof claims to have defined a situation in which the Navier-Stokes equations completely break down. This implies that the laws of physics could theoretically break down under certain conditions."
+    },
+    {
+      "url": "https://spectrum.ieee.org/alphagenome-atlas?utm_source=tldrnewsletter",
+      "title": "Google DeepMind Maps 9 Billion Possible DNA Variants",
+      "summary": "The AlphaGenome Atlas is an online repository of precomputed predictions made using Google DeepMind's AlphaGenome model. It allows scientists to access the benefits of the model without having to write code or run the model themselves. The atlas includes a single-number impact score to show at a glance if a variant is likely to be meaningful. The atlas could greatly accelerate work in fundamental biology, disease research, and treatment development."
+    },
+    {
+      "url": "https://www.katelynlesse.com/blog/cpu-shortage-software-teams?utm_source=tldrnewsletter",
+      "title": "What the CPU shortage means for software teams",
+      "summary": "Teams that operate software at scale need to bake in some real time to deal with the CPU shortage. Most software teams have never capacity-planned CPUs. General-purpose compute is now something many teams need to commit to ahead of time. Teams need to start forecasting and planning around this."
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/?utm_source=tldrnewsletter",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 is a new state-of-the-art image model that generates sharper details with more precise editing. Image generation latency has been reduced by up to 50% compared with Images 2.0. Images 2.5 is available for all ChatGPT, ChatGPT Work, and Codex users across desktop, mobile, and web. OpenAI has introduced a new feature called Sketch in ChatGPT that lets users draw directly in the app as a reference."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html?unlocked_article_code=1._1A.nHTx.hSdaY1ds-C0F&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Key App Developers Have Yet to Embrace Apple's New Siri AI",
+      "summary": "Apple's success with Siri AI will be largely dependent on third-party developers. However, these developers have a lot at stake, as while their apps may become more useful on Apple devices through working with Siri AI, enabling the assistant could risk sidelining their own assistants. Several staple apps are still not working with an early version of Siri AI available to app developers, and it is unclear whether they will. If Siri AI rolls out this year with only support from some apps and not others, it could create a confusing experience for users and turn them off from using the assistant."
+    },
+    {
+      "url": "https://mathstodon.xyz/@tao/117237320796901560?utm_source=tldrnewsletter",
+      "title": "The collection of good, fruitful open problems is now being mined in a non-renewable fashion",
+      "summary": "Working out whether a question is actually worth working on is a lengthy, deliberate, and subjective process. Being aware of the difficulty landscape in a field is crucial in making such determinations. Every new advance in mathematics reduces the difficulty of solving problems, which reduces the difficulty landscape of the field. While there are an infinite number of possible problems to solve in mathematics, the vast majority of these problems are not worth focusing on. The indiscriminate use of powerful solution-extraction tools achieves the immediate short-term goal of solving problems at hand at the cost of sustaining the ecosystem for the next wave of progress, or in understanding the progress already obtained."
+    },
+    {
+      "url": "https://gizmodo.com/google-mapped-a-fruit-flys-brain-now-its-playing-doom-and-super-mario-64-2000808616?utm_source=tldrnewsletter",
+      "title": "Google Mapped a Fruit Fly's Brain. Now It's Playing Doom and Super Mario 64",
+      "summary": "Google's fly connectome contains over 166,000 neurons and 125 million synaptic connections, providing scientists with a fundamental resource for studying how the brain works."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about?utm_source=tldrnewsletter",
+      "title": "God Help Us, Let's Try To Learn About Mechanistic Interpretability Techniques",
+      "summary": "Mechanistic interpretability is the science of reading an AI's mind."
+    },
+    {
+      "url": "https://www.wsj.com/finance/banking/block-applies-to-establish-builders-bank-trust-3c6c9556?st=efn9Ai&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Block Applies to Establish Builders Bank & Trust",
+      "summary": "Block has submitted an application to federal regulators to establish a federally regulated, uninsured national trust bank called Builders Bank & Trust."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-acquires-sonera/?utm_source=tldrnewsletter",
+      "title": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology'",
+      "summary": "Sonera is working on sensing technology that non-invasively measures magnetic fields generated by the brain and body to analyze neural data without direct skin contact."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html?unlocked_article_code=1._lA.Krp-.CpJAS216xN4U&smid=bs-share&utm_source=tldrnewsletter",
+      "title": "A Hacking Tool Built With AI Can Breach Phones Without a Click",
+      "summary": "WeWorm is a zero-click attack that can compromise WeChat accounts without users doing anything and gain access to messages, calls, and accounts."
+    }
+  ]
+}

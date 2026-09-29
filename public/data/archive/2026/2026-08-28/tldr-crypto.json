@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-08-28",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876?utm_source=tldrcrypto",
+      "title": "Bitcoin Faces Key Hurdle in $81,000-$86,000 Range to Reach January High",
+      "summary": "Analysts have identified an $81,000-$86,000 supply zone as the key barrier Bitcoin must clear to recapture its January 2026 highs, with four factors overlapping in that band: long-term holders sitting near breakeven, self-custody accumulation starting around $80,800, options dealer hedges activating near $82,300, and dense short liquidation clusters between $82,000 and $86,000. The current recovery was catalyzed by the US Treasury's buyback expansion announcement, followed by the largest short liquidation event since 2019 on August 19, which compressed futures open interest 11% in coin terms. Eight consecutive days of ETF inflows totaling $2.8 billion support the rally, with a close above $83,300 alongside continued inflows serving as the signal that overhead supply is being absorbed. A retreat from this zone would expose $62,900, the level that would erase the entire recovery."
+    },
+    {
+      "url": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913?utm_source=tldrcrypto",
+      "title": "Potential Moonwell exploit on Base",
+      "summary": "Security firms estimate an $8.7M loss after an attacker manipulated the price of the illiquid MAMO token used as collateral, then borrowed real cbBTC against it. Borrowing/supply on Base Core Markets has been capped to 1 wei as a precaution. WELL is down ~13%, MAMO down ~9% in 24 hours."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2092236686939877800.html?utm_source=tldrcrypto",
+      "title": "LayerZero Launching Institutional Blockchain Exchange This Fall",
+      "summary": "LayerZero is launching a blockchain-based exchange targeting financial institutions this fall, backed by Citadel Securities, DTCC, and Intercontinental Exchange. The trio covers primary market-making, central US securities clearing, and exchange operations, positioning LayerZero's cross-chain messaging infrastructure as a settlement backbone for institutional capital markets."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2092610530779545948.html?utm_source=tldrcrypto",
+      "title": "Revolut Launches Euro Stablecoin EURR on Ethereum",
+      "summary": "Revolut, the European neobank with 80 million customers globally, announced EURR, a Euro-denominated stablecoin deployed on Ethereum mainnet and targeted at European Economic Area users. The launch adds a high-distribution issuer to Ethereum's Euro stablecoin segment, which has lagged USD-pegged counterparts in adoption and liquidity depth. Revolut's entry follows the PayPal PYUSD model of a regulated fintech issuing its own stablecoin to capture payment flows onchain, and arrives as MiCA's stablecoin provisions create clearer issuance pathways across the EU. If Revolut integrates EURR into its core app for transfers and spending, its existing euro user base could drive adoption that reshapes Euro stablecoin market share on Ethereum."
+    },
+    {
+      "url": "https://ethresear.ch/t/when-multiple-pools-behave-like-one-impact-constrained-capacity-concentration-in-uniswap-v3/25823?utm_source=tldrcrypto",
+      "title": "When Multiple Pools Behave Like One: Impact-Constrained Capacity in Uniswap v3",
+      "summary": "A study of 293,273 capacity scenarios across 78 Ethereum token families finds that Uniswap v3 pool multiplicity delivers almost no distributed execution capacity in practice. The median HHI across scenarios sits at 0.930, the top pool captures a 96.3% median share, and only 0.67% of scenarios achieve an effective pool count above 2, with multi-pool routing adding just 3.2% capacity on average. Reconstructed daily pool states show actual trading concentration exceeds the already-concentrated liquidity-layer capacity on 67.6% of matched family-days, with a Spearman correlation of 0.841 between observed and modeled distributions. The analysis covers liquidity-layer capacity only and excludes gas costs, routing friction, and MEV, meaning measured concentration represents a floor, not a ceiling."
+    },
+    {
+      "url": "https://x.com/defyneric/status/2092790674114646171?utm_source=tldrcrypto",
+      "title": "14 ways neobanks make money",
+      "summary": "A breakdown of neobank revenue streams beyond interchange: on/off-ramp spreads, FX markup, yield/treasury products, credit cards, float on customer deposits/stablecoin balances, lending spreads, payment processing, wire/transfer fees, payroll, travel commissions, subscriptions, brokerage/investing, and embedded verticalized software (like AI billing or AR-collection agents). The core thesis is that the more of a customer's financial life a neobank owns, the more monetizable surfaces it creates and the harder the platform becomes to replace."
+    },
+    {
+      "url": "https://x.com/philjacobson/status/2092270729186164944?utm_source=tldrcrypto",
+      "title": "What Watching Fomo's Rise Taught Me About Vector",
+      "summary": "The Vector co-founder traces how the Solana social trading app, acquired by Coinbase in late 2025, peaked at $20M daily volume and ~$1B all-time volume before stalling when it pivoted to pro desktop tools after memecoin activity concentrated in ~5% of its user base. Fomo pursued the inverse strategy, targeting TikTok and Instagram audiences new to onchain trading rather than competing for existing crypto-native traders, and recently crossed $100M in daily spot volume. Crypto Twitter is a beachhead that validated the social-signal-plus-execution thesis but represented only a fraction of the eventual market. As equities, RWAs, and prediction markets migrate onchain and AI sharpens signal discovery, a social trading graph paired with execution rails could scale to a $1T category."
+    },
+    {
+      "url": "https://x.com/binji_x/status/2091985798711119909?utm_source=tldrcrypto",
+      "title": "Ethlabs Week 9: What Happened When We All Got Into One Room",
+      "summary": "Ethlabs, a 9-week-old nonprofit R&D lab focused on making Ethereum the global settlement layer, emerged from its first in-person offsite with four concrete priorities. EIP-8198 (Quick Slots), which makes slot time configurable to bring the 12-second block time down in stages, is advancing in the Hegotá fork discussion, and a major bridge is preparing to adopt the Fast Confirmation Rule (FCR) in production, promising up to 32x faster deposit confirmations in best-case scenarios. On interop, the team landed on a 1-second cross-chain movement goal and separated problems requiring protocol changes from those needing ecosystem coordination alone. The lab is also committing to substantive work on ETH as an asset, a topic protocol organizations have long sidestepped in favor of Ethereum-as-platform framing."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2092853152852639808.html?utm_source=tldrcrypto",
+      "title": "Banks moving into stablecoins",
+      "summary": "A dozen-plus banks are moving forward with a joint stablecoin venture after a year of lobbying against stablecoins in favor of tokenized deposits."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2092676701687824677.html?utm_source=tldrcrypto",
+      "title": "DeFi absorbing tokenized stocks",
+      "summary": "DeFi is rebuilding TradFi cheaper/faster."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-08-27-bithumb-wins-lawsuit-btc-412893?utm_source=tldrcrypto",
+      "title": "Bithumb wins lawsuit over BTC fat-finger error",
+      "summary": "A Seoul court ruled in Bithumb's favor in one of four lawsuits tied to February's error, where the exchange mistakenly credited 620,000 BTC (~$43B at the time) to users in a promo campaign."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2092891974609096773.html?utm_source=tldrcrypto",
+      "title": "KAST business crypto card",
+      "summary": "KAST's new business card provides 3% cashback uncapped on the free tier (2% after a 2026 launch bonus expires), 4% on paid plan up to $1M then 3% uncapped, up to 12% APY on idle cash (8% post-bonus), and 5% ad-spend cashback for the first 100 approved businesses."
+    }
+  ]
+}

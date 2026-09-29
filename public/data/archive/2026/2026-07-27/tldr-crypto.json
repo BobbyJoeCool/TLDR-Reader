@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-07-27",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://threadreaderapp.com/thread/2081197305491845201.html?utm_source=tldrcrypto",
+      "title": "BitMart Exchange Winds Down Operations",
+      "summary": "BitMart, the centralized exchange that sustained a $196 million hot wallet exploit in December 2021, has announced a full wind-down of its trading platform, citing operating conditions, market environment, and strategic direction. New registrations, deposits, and order placement are suspended as of July 26. All trading services end August 26, and the platform fully closes January 31. Withdrawals remain available through the shutdown window. The exchange is urging users to close open positions, complete any pending KYC, and withdraw assets well ahead of the final deadline."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080351645796614297.html?utm_source=tldrcrypto",
+      "title": "Hyperliquid's RWA Volume Surpasses Crypto for First Time",
+      "summary": "Hyperliquid's HIP-3 RWA perpetuals generated $26B in volume last week, representing 54% of the platform's total activity and exceeding the combined crypto perpetual volume of every other DEX. Individual equities now compose 61% of that RWA flow, having overtaken indices and commodities since June. The milestone challenges the assumption that RWA and crypto trading will consolidate on the same venues, pointing instead toward category-specific leaders emerging within on-chain RWA markets. If that specialization holds, BTC/ETH/SOL order flow carries less strategic moat value than current venue theses imply."
+    },
+    {
+      "url": "https://x.com/Wajahat/status/2080827680065249338?utm_source=tldrcrypto",
+      "title": "New DeFi Primitives Roundup: Fixed Rates, Equity Credit, Privacy Trading",
+      "summary": "This practitioner-curated list highlights emerging DeFi products across fixed-rate lending, equity credit and AMM stock liquidity, credit yield protocols, and Aave V4 isolated markets. More experimental entries include futarchy governance via MetaDAO, RWA leverage through 3f.xyz, privacy trading on Hyperliquid via hyperlink.xyz, and yield-bearing options from Rysk Finance and DeriveXYZ, pointing to a broad expansion of on-chain financial primitives into TradFi-adjacent territory."
+    },
+    {
+      "url": "https://x.com/wowens/status/2080683084945469893?utm_source=tldrcrypto",
+      "title": "Bitcoin's Largest Institutions Launch $15M Security Consortium",
+      "summary": "Nine major Bitcoin institutional holders, including BlackRock, Fidelity Digital Assets, Coinbase, and Strategy, formed the Bitcoin Security Consortium this week, committing $15 million over three years for security research and open-source developer grants. Members hold no governance rights, write no code, and do not speak for Bitcoin's development direction, with Brink's executive director Mike Schmidt coordinating day-to-day operations as an independent volunteer. Quantum computing risk to the hundreds of billions in institutionally held BTC is the primary stated motivation, with Galaxy Digital committing $5 million to its Bitcoin Quantum Readiness Initiative and BitGo rolling out quantum risk scoring for institutional wallets. The consortium marks a structural shift in Bitcoin maintenance funding, moving from thin-budget nonprofits to institutional holders financing developer work at scale without claiming control."
+    },
+    {
+      "url": "https://x.com/Uniswap/status/2081100748923023590?utm_source=tldrcrypto",
+      "title": "Uniswap Permissioned Pools for compliant regulated assets trading",
+      "summary": "Uniswap introduced Permissioned Pools, a v4 hook standard that enforces issuer-managed allowlist checks directly at the protocol level for every swap and LP action, letting regulated assets trade on an AMM without a frontend gate. Launch partners Superstate, Securitize, and Dowgo will use the standard for tokenized funds, securities, and equities, targeting a tokenized asset market projected to reach $11 trillion by 2030. Dowgo's integration uses ERC-3643 and will activate once it receives DLT TSS authorization under the EU's DLT Pilot Regime."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2081271886038901193.html?utm_source=tldrcrypto",
+      "title": "Arc mainnet USDC bridge is misleading",
+      "summary": "An investigator claims bridging USDC to Arc mainnet to receive eUSD scheme is fraudulent as the vault, bridge, and eUSD contracts are unverified, single-wallet-owned, and contain a sweep function letting the anonymous owner drain the entire ~$490,000 USDC reserve in one transaction. Arc mainnet isn't actually open, and deposits aren't verified onchain before eUSD is minted. The bridge's exchangeOpen and isSolvent flags currently read false so users can't withdraw. The owner has already moved over $200,000 offchain via cross-chain relay this week, including a single $142,000 transfer."
+    },
+    {
+      "url": "https://thedefiant.io/news/defi/robinhood-chain-overtakes-base-on-daily-active-users-three-weeks-after-launch?utm_source=tldrcrypto",
+      "title": "Robinhood Chain Overtakes Base on Daily Active Users",
+      "summary": "Robinhood Chain surpassed Coinbase's Base in daily active users on July 21, recording 323,969 DAUs against Base's 274,520, three weeks after its July 1 mainnet launch. TVL climbed from under $5 million pre-launch to a record $588.9 million, and the chain edged out Base in spot DEX volume ($624M vs. $603M over 24 hours) while generating nearly four times Base's chain fees in the same period. Despite being architected for tokenized real-world assets, memecoins have driven the majority of on-chain activity. Stock Tokens reached only $19.3 million in tokenized market cap across 36,170 holders, a fraction of overall network usage. Base retains larger aggregate metrics across most other measures, and the DAU lead has traded hands multiple times since Robinhood Chain first crossed that threshold on July 11."
+    },
+    {
+      "url": "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=tldrcrypto",
+      "title": "Triple-A hot wallet losses climb to $11.8 million",
+      "summary": "Losses from a compromise of Singapore payments firm Triple-A's hot wallets rose to roughly $11.8 million, up from an initial $9.3 million estimate, per onchain investigator Specter, with new deposits still being drained 31 hours after the first outflows across Ethereum, TRON, Polygon, Arbitrum, Solana, TON, and Bitcoin. Triple-A confirmed it's investigating and says customer funds aren't affected, but hasn't disclosed how the wallets were accessed. The incident follows two other major exploits this week, a $24.15 million AFX Trade hack and a second $7.54 million Verus-Ethereum bridge breach."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2081539326115250212.html?utm_source=tldrcrypto",
+      "title": "Storj Labs files for Chapter 11 bankruptcy",
+      "summary": "Storj Labs, behind the decentralized cloud storage network, voluntarily filed for Chapter 11 to address legacy debt while continuing operations."
+    },
+    {
+      "url": "https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=tldrcrypto",
+      "title": "Michael Saylor teases 'another color' after 4 weeks without a bitcoin buy",
+      "summary": "Saylor posted Strategy's bitcoin tracker chart captioned \"We're gonna need another color,\" his fifth Sunday post since the company's last confirmed BTC purchase on June 21."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2080816333948940649.html?utm_source=tldrcrypto",
+      "title": "Phantom Ends Monad Network Support on August 26",
+      "summary": "Phantom wallet will end support for the Monad network on August 26th."
+    }
+  ]
+}

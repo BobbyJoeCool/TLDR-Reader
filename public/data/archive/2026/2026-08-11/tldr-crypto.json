@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-08-11",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237?utm_source=tldrcrypto",
+      "title": "Michael Saylor's Strategy sells another 1,690 BTC",
+      "summary": "Strategy sold 1,690 BTC for roughly $108.6 million between August 3-9 at an average $64,262, cutting total holdings to 840,447 BTC (worth ~$54.7 billion, about 4% of bitcoin's supply cap). The firm also sold $653.1 million in MSTR shares, using proceeds to repurchase STRC preferred stock and replenish its USD reserve by $650 million. Holdings now carry ~$8.7 billion in paper losses at current prices, and MSTR remains down about 78% from its enterprise mNAV peak despite gaining 3.3% last week."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140?utm_source=tldrcrypto",
+      "title": "Robinhood brings crypto trading to main UK app through Bitstamp",
+      "summary": "Robinhood is rolling out trading in 50+ digital assets (including BTC, ETH, XRP, and HYPE) to UK users this week via Bitstamp UK, alongside its existing stocks, ISAs, options, and futures. Zero trading/custody/maintenance fees apply, though a 0.1%-0.3% FX fee applies to GBP conversions. Crypto holdings also aren't covered by UK compensation schemes. The launch also introduces AI-powered digests for crypto price context. It follows Q2 results showing prediction markets ($156M revenue) surpassing crypto trading ($100M, down 38% YoY) for the first time, while Robinhood Chain has generated $18 billion in DEX volume since its July 1 launch."
+    },
+    {
+      "url": "https://x.com/UmbraPrivacy/status/2085468782273982946?utm_source=tldrcrypto",
+      "title": "Umbra V2: The Sovereign Chapter Begins",
+      "summary": "Umbra V2 marks an architectural pivot for the stealth address protocol, moving from an Ethereum plugin to a standalone sovereign privacy system with its own governance and treasury. The upgrade introduces a redesigned stealth address scheme with stronger privacy guarantees alongside a new smart contract architecture. The \"sovereign\" positioning targets the gap left by Tornado Cash's OFAC sanctions and Aztec's L2-centric focus, aiming the protocol at private everyday payments on mainnet. Self-governance and an independent treasury signal that the Umbra team is building toward protocol-level financial infrastructure rather than a composable privacy primitive."
+    },
+    {
+      "url": "https://x.com/aadopico/status/2085771230578086193?utm_source=tldrcrypto",
+      "title": "Sailor: The Money Agent",
+      "summary": "Sailor is an AI money agent built to execute trades, payments, and financial decisions on users' behalf rather than surfacing recommendations for users to act on themselves. The agent runs on onchain infrastructure with programmable spending policies and safety constraints that bound execution to user-defined parameters. The product targets DeFi, stablecoins, and crypto rails as the settlement layer, abstracting protocol-level complexity behind an AI interface. Dopico positions autonomous execution, not better information dashboards, as the missing layer between retail users and sophisticated financial management."
+    },
+    {
+      "url": "https://x.com/clickl3ss/status/2085441738551025967?utm_source=tldrcrypto",
+      "title": "ROBBINGHOOD",
+      "summary": "A forensic analysis of Robinhood's CASHCAT listing revealed the anatomy of a false insider narrative: the wallet flagged for front-running the announcement was a public market maker, not a Robinhood insider, and it lost money on the trade. Retail traders who copied its positioning, believing they had sourced insider flow from on-chain data, bought the top and absorbed the losses. Robinhood Chain listing dynamics have also shifted: the traditional listing pump is weaker because tokens appear on competing venues before the official announcement lands. On-chain attribution errors, where market maker activity is misclassified as insider trading, are driving copycat behavior that converts into retail losses at scale."
+    },
+    {
+      "url": "https://x.com/a16zcrypto/status/2085381271967142232?utm_source=tldrcrypto",
+      "title": "Why CLARITY Can't Wait",
+      "summary": "The CLARITY Act would create a federal framework separating digital commodities from digital securities, resolving the ambiguity that has pushed crypto companies offshore and produced a two-tier market where similar products face inconsistent legal treatment. The US risks losing its financial infrastructure lead to the EU and Asia, where MiCA and comparable regimes already provide the legal clarity that attracts capital and engineering talent. The bill is an institutional on-ramp that strips the default securities-law treatment from tokenized assets, DeFi protocols, and stablecoin payments so developers do not have to handle SEC oversight as a baseline regardless of a project's actual structure."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2086425708159545618.html?utm_source=tldrcrypto",
+      "title": "Why shrinking stablecoin supply isn't bearish this time",
+      "summary": "Stablecoin supply has fallen for three straight months, from a mid-May peak near $320B to roughly $307B (about 4% off the high), versus a 26% collapse during the 2022-23 bear's 17-month decline. The GENIUS Act's ban on payment stablecoin yield is pushing idle capital into tokenized Treasuries instead (BUIDL, USYC), which grew from $6.5B to nearly $16B in a year, 56% in the last six months alone, while onchain stablecoin transaction volume hit an all-time high of $1.8T in June, up 63% in a month. The shift resembles stablecoins moving from parking spots to settlement layers. For example, Binance's $1.84B in USYC is now used as off-exchange collateral on BNB Chain."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2086756935496274086.html?utm_source=tldrcrypto",
+      "title": "FCA tokenized gold rules and reserve diversification",
+      "summary": "The FCA is drafting rules on whether tokenized gold can be posted as collateral for OTC derivatives, since 70% of world gold trades through London and tokenization enables people to trade gold easily. The Strait of Hormuz has been effectively closed since February, oil is above $100, and central banks bought a record 289 tonnes of gold last quarter. Reserve managers are rotating into assets that don't depend on politically exposed dollar payment rails."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=tldrcrypto",
+      "title": "Brazil to require 24-hour wait on large self-custody crypto transfers",
+      "summary": "Brazil's central bank will require crypto firms to hold transfers over $10,000 to self-custody wallets or foreign firms for 24 hours starting January 1."
+    },
+    {
+      "url": "https://x.com/redphone/status/2085070966279884972?utm_source=tldrcrypto",
+      "title": "Crypto Was the Training Ground",
+      "summary": "Crypto veterans spent a decade building cognitive skills that now transfer directly to AI-driven market volatility."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2085367777163194586.html?utm_source=tldrcrypto",
+      "title": "Maple Selects Ethena's USDtb for syrupUSDC and syrupUSDT",
+      "summary": "Maple Finance has integrated Ethena's USDtb as a core collateral holding across syrupUSDC and syrupUSDT, which together hold approximately $400M in liquid USD assets."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2086739773062807968.html?utm_source=tldrcrypto",
+      "title": "Crypto card user growth",
+      "summary": "Active crypto card users with on-chain settlement grew 45% over eight months, from 282,000 to 410,000."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-12",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.a16z.news/p/some-simple-economics-of-open-versus?utm_source=tldrfounders",
+      "title": "Some Simple Economics of Open versus Closed AI",
+      "summary": "The debate between open vs. closed AI models revolves around innovation's direction rather than its level, with open models fostering broad experimentation and closed models maintaining control. Open models encourage widespread tech adoption and specialization, leveraging lower costs and complementary asset synergies."
+    },
+    {
+      "url": "https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/?utm_source=tldrfounders",
+      "title": "Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025's Totals",
+      "summary": "In the first half of 2026, 195 companies became unicorns, surpassing the entire 2025 total. Robotics and AI sectors led this surge, while notable companies like China-based DeepSeek and Seychelles-based OKX reached valuations of $50 billion and $25 billion, respectively. The US and China were dominant, with fast-follow funding rounds rapidly increasing valuations, particularly in AI and semiconductor startups."
+    },
+    {
+      "url": "https://x.com/Alfred_Lin/status/2087171460242801052?utm_source=tldrfounders",
+      "title": "Parallel vs. Serial",
+      "summary": "Serial processing is better for tasks that must be completed in a specific order and best performed by the CPU. Parallel processing is better for tasks that can be divided into many parts and done simultaneously and is best performed by a GPU. Many problems benefit from the fusion of both approaches, where the main problem is broken into many smaller independent problems solved in parallel. The solutions of the smaller problems can then be integrated serially to create the complete solution."
+    },
+    {
+      "url": "https://x.com/everestchris6/status/2086835132695265586?utm_source=tldrfounders",
+      "title": "How to Actually Sell a Product (Full Guide)",
+      "summary": "Organic marketing works best when founders define one specific buyer, study their language and communities, then design content packaging around behavior. Test hooks and formats, read retention signals, repurpose winning ideas by platform, and automate repetitive research and packaging."
+    },
+    {
+      "url": "https://healthvc.substack.com/p/the-lead-investor-problem?utm_source=tldrfounders",
+      "title": "The Lead Investor Problem",
+      "summary": "A founder can fill a calendar with investor meetings and still have no round. \"Interested,\" \"keep us posted,\" and \"we could participate\" sound positive, but none means an investor will set the terms, anchor the valuation, do the deepest diligence, or give everyone else a deadline. A lead does those jobs. Keep likely leads separate from likely followers, then ask directly whether each fund would actually set the terms. Ten more meetings with followers still leave the lead column empty."
+    },
+    {
+      "url": "https://www.plg.news/p/preventing-churn-in-set-and-forget?utm_source=tldrfounders",
+      "title": "Preventing churn in set-and-forget products",
+      "summary": "Backups and monitoring can be working perfectly even when nobody logs in. One company with hundreds of thousands of customers searched its first 30 days of human activity for something that predicted who would still pay 12, 18, or 24 months later. It found nothing. The integration was doing the work, so the useful signals were whether data was still moving, volume was falling, or errors were rising. A cancellation may arrive months after the product stopped working, which means the real churn date happened much earlier."
+    },
+    {
+      "url": "https://x.ai/bot?utm_source=tldrfounders",
+      "title": "Grok Bot (Website)",
+      "summary": "Grok Bot provides a team of AI agents, each with their own computer, that can perform real work inside tools and apps, 24/7. Bots can sign in to tools and work across apps, inboxes, and more. The agents can finish jobs end-to-end, and only report back when something needs human approval. They remember conversations, learn how users like to get things done, and get sharper the more you work together."
+    },
+    {
+      "url": "https://www.seroundtable.com/google-ads-analytics-new-ai-features-41848.html?utm_source=tldrfounders",
+      "title": "Google Ads & Google Analytics Gain New AI Features",
+      "summary": "Google has introduced new AI Overviews, new AI data dashboard tools, and a new benchmarking AI feature to Google Ads and Google Analytics. The changes are aimed at simplifying users' workflows and expediting their path to business growth. A video of each new feature in action is available in the article."
+    },
+    {
+      "url": "https://posthog.com/blog/on-doing-more-weird?utm_source=tldrfounders",
+      "title": "We spend $45,000 on doing more weird every month",
+      "summary": "PostHog sets aside $45,000 every month for marketing ideas that may fail. Anyone can pitch one in Slack, and a two- or three-person \"Council of Weird\" scores the cost, effort, and whether people actually want to make it. Some bets did almost nothing. Billboards got zero comments, Easter eggs were found by about three people, and a documentary got 2,000 views. Most startups can steal the setup for far less money by fixing what they are willing to lose each month and judging several experiments together."
+    },
+    {
+      "url": "https://microventures.com/building-a-diversified-startup-portfolio?utm_source=tldrfounders",
+      "title": "Building a Diversified Startup Portfolio",
+      "summary": "Diversifying startup investments by sector, stage, and geography can mitigate risks associated with market volatility. Sector diversification helps balance industry-specific cycles, while stage diversification mixes potential high-reward early-stage investments with more stable later-stage companies. Geographic diversification protects against regional economic fluctuations, though it can be challenging to access international deals."
+    },
+    {
+      "url": "https://valueaddvc.com/pulse/robotics-humanoid-funding-23-billion-2026?utm_source=tldrfounders",
+      "title": "Robotics Startups Have Raised $23B So Far in 2026",
+      "summary": "Robotics startups have secured $23 billion in funding in 2026. This surge highlights increased investor interest and potential growth in the robotics sector."
+    },
+    {
+      "url": "https://x.com/DanWestgarth/status/2087190429057819009?utm_source=tldrfounders",
+      "title": "Documenting everything we've learned in Deel's wild ride",
+      "summary": "Deel grew from zero to $1.5B ARR in seven years. It has been EBITDA-profitable for three consecutive years now. This post looks at how the company got here and where it is going. It covers what most people get wrong about growth, the lightbulb moments that changed how the company operates, how Deel changed as it grew to a 7,000-people remote operation, the impact AI will have on Deel's next growth curve, and more."
+    },
+    {
+      "url": "https://x.com/dittysan/status/2087160612971323723?s=12&utm_source=tldrfounders",
+      "title": "Inside an Applied AI company",
+      "summary": "Applied AI companies sell completed work - their agents run end-to-end workflows, and they own the outcome."
+    },
+    {
+      "url": "https://www.breakingpoint.tech/p/the-advantages-you-have-vs-the-advantages?utm_source=tldrfounders",
+      "title": "The Advantages You Have vs The Advantages You Need",
+      "summary": "Traditional SWOT analysis falls short when market-required strengths aren't existing strengths."
+    },
+    {
+      "url": "https://www.tomtunguz.com/a-winner-in-every-category/?utm_source=tldrfounders",
+      "title": "A Winner in Every Category",
+      "summary": "Rubrik is growing 46%, twice CrowdStrike's 23%, but CrowdStrike trades at more than three times the revenue multiple because investors still see it as the category winner."
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your?utm_source=tldrfounders",
+      "title": "How to make people care about your startup",
+      "summary": "Founders should identify their archetype to tailor their communication strategy effectively."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-09-01",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally?utm_source=tldrai",
+      "title": "OpenClaw 2.0",
+      "summary": "OpenClaw released its largest update to date after an effort to simplify installation and rebuild its browser experience expanded into a broader overhaul. OpenClaw 2.0 incorporates more than 16,000 pull requests spanning memory, skills, models, automations, apps, plugins, security, and other components."
+    },
+    {
+      "url": "https://runway.com/news/research/introducing-solaris?utm_source=tldrai",
+      "title": "Introducing Solaris",
+      "summary": "Solaris is an Interface World Model. It can generate real-time interactive interfaces frame by frame as users interact with it. Solaris handles rendering and interactions jointly, generating every frame and every response to user input, eliminating the need for an intermediate representation. The model opens up new ways of building websites, apps, and other online interfaces. It can also be used to train agents in much more dynamic environments."
+    },
+    {
+      "url": "https://dev.meta.ai/?utm_source=tldrai",
+      "title": "Muse Code (Website)",
+      "summary": "Muse Code is a coding agent for the terminal and CI. It can plan, edit, and run commands to do tasks within projects. Approvals and an OS sandbox are on by default. Users just run Muse Code in any project directory to start an interactive session. Muse Spark is now available on the Meta Model API and Muse Code."
+    },
+    {
+      "url": "https://flaviocopes.com/zcode/?utm_source=tldrai",
+      "title": "A deep dive into ZCode",
+      "summary": "ZCode is Z.ai's desktop coding agent. Users give the agent a task, and it plans the work, edits files, runs commands, uses the browser, and checks the result. Tasks can be run in parallel, and users can schedule recurring work. The agent can be controlled from a mobile device while running on macOS, Windows, or Linux."
+    },
+    {
+      "url": "https://tomtunguz.com/the-great-segmentation?utm_source=tldrai",
+      "title": "The Price of Entry to the Frontier",
+      "summary": "The frontier AI market is sorting itself into closed camps as rationing programs and export limits decide who may run the strongest models. Enterprises are standardizing on one or two named vendors. Products are shipping with default models inside. Frontier AI is no longer a utility sold by the token - labs are developing whitelists and blacklists."
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents?utm_source=tldrai",
+      "title": "Agency and Agents",
+      "summary": "The Hugging Face Incident highlights AI agents' potential to self-organize and collaborate, bypassing set constraints to achieve common goals. This raises cybersecurity and control concerns, emphasizing the need for human oversight and intervention. For sustainable AI integration, identify when AI should engage with humans for approval, expertise, diversity, or interest, ensuring meaningful human contributions remain essential."
+    },
+    {
+      "url": "https://denislavgavrilov.com/diffium-db-live-database-diff?utm_source=tldrai",
+      "title": "diffium-db: A live diff of what agents do to your database",
+      "summary": "diffium-db is a live TUI that shows users what is changing in their database as an agent, a migration, or anyone else works. Users just point it at a database, take a baseline, and leave it open. diffium-db will show one pane of what changed and one pane of the change itself, with changes showing up as they happen."
+    },
+    {
+      "url": "https://calpaterson.com/memoryfields.html?utm_source=tldrai",
+      "title": "A Portable File Format for Agent Memory",
+      "summary": "Memoryfields proposes storing agent memory as portable Markdown files with optional YAML metadata and a SQLite vector index. The approach treats memory as inspectable data instead of a complex retrieval pipeline or proprietary agent feature."
+    },
+    {
+      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/?utm_source=tldrai",
+      "title": "Google's Foundation Model for Zero-Shot Forecasting",
+      "summary": "Google has introduced TimesFM-3, a 330M-parameter time-series foundation model pretrained on more than 1 trillion time points. It added zero-shot forecasting across multiple targets and supports historical and known-future covariates without task-specific fine-tuning."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://thenextweb.com/news/openai-outcome-based-pricing-enterprise?utm_source=tldrai",
+      "title": "OpenAI has started letting some customers pay only when the AI works",
+      "summary": "OpenAI has started testing an arrangement with a limited number of select major accounts where they only pay when the AI actually completes the job. The terms, customers, and prices are all unknown as OpenAI has not announced the test publicly. Token-based pricing has become a problem in the industry as it makes accounting difficult. The industry has started turning to outcome-based pricing as a market standard."
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/?utm_source=tldrai",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "summary": "Anthropic's mass campaign of illegal torrenting allegedly began in July 2021. Anthropic co-founder Benjamin Mann personally used BitTorrent to unlawfully download and upload via torrenting millions of pirated books from Library Genesis. Anthropic co-founder and CEO Dario Amodei allegedly approved the torrenting. While Anthropic denies that it used any of the pirated material to train its commercial models, publishers believe they can prove otherwise."
+    },
+    {
+      "url": "https://x.com/DoWCTO/status/2094431308202033439?utm_source=tldrai",
+      "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil",
+      "summary": "The Department of War launched ChatGPT Mil on GenAI.mil for more than 3 million personnel."
+    },
+    {
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/?utm_source=tldrai",
+      "title": "ChatGPT Ads Reaches $1B Revenue Run Rate",
+      "summary": "OpenAI said ChatGPT Ads reached a $1 billion annualized revenue run rate less than 200 days after launch."
+    },
+    {
+      "url": "https://x.com/sytaylor/status/2094346674911035447?utm_source=tldrai",
+      "title": "Instinct Made the Consumer Agent Feel Real",
+      "summary": "Instinct makes personal AI agents feel consumer-ready by combining memory, natural language, and real-world action across bookings, payments, and life admin."
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/?utm_source=tldrai",
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "summary": "ChatGPT, Reddit, and Roblox will face the EU's strictest Digital Services Act obligations after surpassing 45 million EU users."
+    },
+    {
+      "url": "https://www.testingcatalog.com/google-develops-ai-rooms-for-gemini-enterprise/?utm_source=tldrai",
+      "title": "Google develops AI Rooms for Gemini Enterprise",
+      "summary": "Google is prototyping \"Rooms\" for Gemini Enterprise, a workspace feature enabling teams to collaborate with Gemini on specific objectives."
+    }
+  ]
+}

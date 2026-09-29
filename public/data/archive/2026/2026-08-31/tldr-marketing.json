@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-08-31",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/?utm_source=tldrmarketing",
+      "title": "Sony Music, Warner sue Anthropic, alleging intellectual property theft",
+      "summary": "Anthropic is being sued for allegedly downloading and scraping copyrighted books, lyrics, and sheet music to train Claude. The case follows a $1.5B settlement with authors over similar claims of using pirated training data."
+    },
+    {
+      "url": "https://www.inc.com/kamya-marwah/marketing-careers-arent-just-posting-on-instagram-women-in-spam-want-more-respect/91397353?utm_source=tldrmarketing",
+      "title": "Marketing Careers Aren't Just ‘Posting on Instagram.' Women in SPAM Want More Respect",
+      "summary": "Marketing is often described in casual terms that diminish the profession. Laura Cameron created “Women in SPAM” (Social Media, Public Relations, Advertising, and Marketing) to give women across communications a shared professional identity beyond labels like “marketing girlies.” The community aims to position marketing as a credible business function and build greater recognition for the strategic value of the work."
+    },
+    {
+      "url": "https://support.google.com/google-ads/answer/18061165?hl=en&amp;utm_source=tldrmarketing",
+      "title": "Creative guidance on YouTube",
+      "summary": "Google says creative can drive up to 49% of campaign ROI, and small creative changes can lift YouTube conversions. For Demand Gen ads, adding a human voice lifts conversions 12%, text overlays 3%, and showing the brand within the first five seconds 4%. Google recommends designing for YouTube's native look, avoiding fake buttons or oversized logos, and featuring people wherever possible."
+    },
+    {
+      "url": "https://read.first1000.co/p/growing-lazyweb-to-50k-agents?utm_source=tldrmarketing",
+      "title": "Growing Lazyweb to 50k+ Agents",
+      "summary": "Lazyweb reached 50K signups in a few months through distribution tactics built around AI agents. Removing email requirements increased activation by 50%+ and a one-line installation command added 20%. Automatic MCP routing more than doubled DAUs. Free MCP access to its blog and data-driven research also helped agents discover and use the product. Generic SEO content and novelty products had little impact. The approach focused on making Lazyweb easy for agents to use while giving away useful tools and data to drive word of mouth."
+    },
+    {
+      "url": "https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/?utm_source=tldrmarketing",
+      "title": "How We Use AI for Every Article Without Making AI Slop",
+      "summary": "Ahrefs uses AI throughout its content workflow while keeping humans responsible for judgment. Writers define the audience, angle, evidence, and original insights before using AI for research, drafting, and fact-checking. Human review gates catch weak ideas and unsupported claims before publication. Time saved on production goes toward original research and data analysis. Every article also has an owner and second reviewer who can challenge the work before it goes live."
+    },
+    {
+      "url": "https://seonotebook.notion.site/Helpful-Content-Grader-GPT-3778c3685191807e93dbc131fc2addc8?utm_source=tldrmarketing",
+      "title": "Helpful Content Grader GPT",
+      "summary": "This GPT evaluates a webpage against Google's 32-question helpful content self-assessment. Paste in a page, upload the content, or provide a URL to get started. It scores the content across quality, expertise, people-first value, and search-engine-first risks. The output includes an overall grade, section scores, evidence for each verdict, and prioritized fixes. The score is a diagnostic, not a ranking guarantee. Google's questions describe what helpful content should look like, but the score doesn't directly influence search rankings."
+    },
+    {
+      "url": "https://startupgtm.substack.com/p/the-shared-agent-brief-a-practical?utm_source=tldrmarketing",
+      "title": "The Shared Agent Brief: A Practical Operating Agreement for GTM Teams",
+      "summary": "AI GTM workflows need clear decision rights before teams connect more tools. A Shared Agent Brief defines who contributes what, who makes each decision, what AI can handle, and when it must stop. Start with one recurring workflow and test both a normal case and a conflict case before running a small manual pilot. AI can handle research and scoring, but should pause when evidence conflicts or ownership is unclear. Expand permissions gradually, keeping external actions behind human approval."
+    },
+    {
+      "url": "https://www.adweek.com/commerce/dont-let-retail-media-tell-you-its-brand-building/?utm_source=tldrmarketing",
+      "title": "Don't Let Retail Media Tell You It's Brand Building",
+      "summary": "Retail media is not brand building, no matter how retailers frame it. It's the same shelf-position and end-cap money brands have paid since the 1980s, just wrapped in a modern dashboard. Retail media only reaches shoppers who are already in the store and ready to buy, not the much larger group that actually drives category growth. Treat it as a bottom-of-funnel investment that protects distribution, not a substitute for building the brand."
+    },
+    {
+      "url": "https://dribbble.com/stories/2026/08/28/cl-eddie-lobanovskiy-unfold-enterprise-design-agency?utm_source=tldrmarketing",
+      "title": "We Designed for Facebook, Ripple, and Merck. Here's What Working With Enterprise Clients Looks Like",
+      "summary": "Enterprise marketing work often gets slowed down by everything around the work, not the work itself. Large companies bring more stakeholders, longer approval cycles, and conflicting feedback. The key is knowing who actually makes decisions, giving internal champions what they need to sell the work, and having one clear project owner. Once teams trust you, that relationship can expand into work across departments and years of projects."
+    },
+    {
+      "url": "https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/?utm_source=tldrmarketing",
+      "title": "Marketers know AI is using bad data to make decisions",
+      "summary": "91% of marketers say data readiness is critical for AI, but only 21% say their CRM data is AI-ready."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/randfishkin_is-marketing-really-all-that-different-in-share-7499257056634384384-BDJv/?utm_source=tldrmarketing",
+      "title": "What has zero click marketing really changed?",
+      "summary": "A 1-pager of how zero-click marketing has changed search engines, social networks, and AI tools."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-08-11",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-new-ai-vision-in-6-500-word-essay-966e9a56?st=Tfgtoj&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay",
+      "summary": "Mark Zuckerberg recently released a wide-ranging essay that outlined a new course of action to spread the wealth and opportunity from AI to users around the world, and to residents of the communities that host the data centers powering it. Zuckerberg's plans include releasing more open-weight models and establishing a $1 billion fund to invest in the communities where Meta hosts data centers. He believes that Meta's approach to developing powerful AI and distributing it as widely as possible is the least likely path to disastrous outcomes for humanity. The commitment marks a significant development in the debate around whether advanced AI is too dangerous to create on an open-source basis."
+    },
+    {
+      "url": "https://searchenginewatch.com/google-tests-ai-focused-homepage-for-signed-out-users/?utm_source=tldrnewsletter",
+      "title": "Google's classic Search button is gone in a new AI-first homepage",
+      "summary": "Google is testing a version of its homepage where the search button is replaced with an AI Mode button. The new interface allows users to ask about files and use the Brainstorm function without having to log in. Logged-in users are also able to generate images. Ask about files allows users to attach a file before submitting a question, and Brainstorm helps users explore ideas."
+    },
+    {
+      "url": "https://www.humanoidsdaily.com/news/dyna-2-proves-scaling-laws-for-robotics-1-million-hours-of-human-video-unlocks-zero-shot-dexterity?utm_source=tldrnewsletter",
+      "title": "Dyna-2 Proves Scaling Laws for Robotics: 1 Million Hours of Human Video Unlocks Zero-Shot Dexterity",
+      "summary": "Dyna-2 is a world-action model (WAM) pre-trained on over one million hours of human video data. Its existence proves that scaling human video data predictably improves zero-shot performance on unseen robot hardware. Dyna-2 achieved an 87% pass rate in real-world zero-shot deployments at customer sites, vastly outperforming the 46% pass rate of its VLA predecessor, Dyna-1. The model uses a new one-step video generation distillation pipeline that drops inference latency by two orders of magnitude for downstream planning."
+    },
+    {
+      "url": "https://www.anthropic.com/research/riemann-zeta?utm_source=tldrnewsletter",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "summary": "Claude was recently challenged with one of the most famous unsolved problems in mathematics: the Riemann hypothesis. While Claude didn't succeed, it unexpectedly made strides on a related problem. It improved on a longstanding lower bound for the fraction of zeros of the Riemann zeta function that satisfy the Riemann hypothesis. The result shows that AI models like Claude can extend the impact and reach of mathematicians' ideas in new and sometimes surprising ways."
+    },
+    {
+      "url": "https://www.seangoedecke.com/local-models-will-not-win/?utm_source=tldrnewsletter",
+      "title": "No, local models will not win",
+      "summary": "Local models are never going to be as powerful as datacenter models. All of the current frontier models are far too big to run on anything but a full GPU cluster. Smaller models are getting more intelligent, but datacenter models will always be the strongest available. When given a choice, people are going to pick the strongest available model in their price range, the one that frustrates them least, which is always going to be the bigger, more powerful one."
+    },
+    {
+      "url": "https://danluu.com/pl-tokens/?utm_source=tldrnewsletter",
+      "title": "What's the best programming language for coding agents?",
+      "summary": "Anyone who wants to make a strong claim about which language or classes of languages are particularly good with LLMs would need to run quite a few different evaluations. Failures with languages are generally something idiosyncratic, where it's not always obvious how much the issue generalizes across tasks or setups. There's no way to look at the score on one or even several evaluations and draw a conclusion about programming in general. At this point, it would be a mistake to draw a strong conclusion about any particular language."
+    },
+    {
+      "url": "https://www.wsj.com/business/see-how-a-tesla-spacex-merger-gives-musk-a-shortcut-to-his-1-trillion-payday-327bc491?st=o4qEdC&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday",
+      "summary": "The conditions for Elon Musk to receive his $1 trillion pay package at Tesla could easily be achieved if the company were acquired. There is a clause in the agreement that declares half the targets as good as accomplished if Tesla is acquired or otherwise taken over. This leaves only market-value targets to determine how many shares Musk gets. Musk has considerable say over any offer SpaceX makes for Tesla. Even a stratospheric bid would keep Musk in firm control of the combined company."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html?utm_source=tldrnewsletter",
+      "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset'",
+      "summary": "Nvidia has partnered with six large asset managers on a $500 billion financing push designed to treat compute infrastructure much like commercial real estate, toll roads, or other assets to borrow against. The effort will mobilize third-party capital for hyperscalers, frontier AI labs, and enterprises to build out data centers and acquire Nvidia hardware. It will help Nvidia's customers secure financing without tapping their own balance sheets. Nvidia believes lenders can reliably underwrite compute as a revenue-generating asset with an extended life as its hardware is broadly adopted and transferable across customers."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/?utm_source=tldrnewsletter",
+      "title": "Introducing Muse Glimmer",
+      "summary": "Muse Glimmer is a 30B open weights model optimized for end-to-end agentic task completion, reliable tool use, and multi-step reasoning."
+    },
+    {
+      "url": "https://scotthelme.co.uk/everything-i-learned-shipping-device-bound-session-credentials/?utm_source=tldrnewsletter",
+      "title": "Everything I Learned Shipping Device Bound Session Credentials",
+      "summary": "Device Bound Session Credentials bind sessions to a private key a browser generates in hardware and cannot export."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/?utm_source=tldrnewsletter",
+      "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+      "summary": "Aptoide, a game-focused store that has been available as a sideloaded client since the early days of Android, is the first third-party app store to arrive in Google Play."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/?utm_source=tldrnewsletter",
+      "title": "A researcher bought noreply.net. Companies started sending him secrets",
+      "summary": "Cory Solovewicz created an accidental honeypot when he purchased noreply[.]us and noreply[.]net in 2020 and 2024, respectively."
+    },
+    {
+      "url": "https://www.cogniscendo.com/p/compute-is-revenue-revenue-is-collateral?utm_source=tldrnewsletter",
+      "title": "Compute Is Revenue. Revenue Is Collateral",
+      "summary": "Nvidia is attempting to turn a handful of bespoke transactions into a financial production line."
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/?utm_source=tldrnewsletter",
+      "title": "Apple is working on a way to authenticate that a photo came from an iPhone camera",
+      "summary": "Apple Reference Image is designed to authenticate the source of photos using unique data tied to the iPhone camera hardware that captured them."
+    }
+  ]
+}

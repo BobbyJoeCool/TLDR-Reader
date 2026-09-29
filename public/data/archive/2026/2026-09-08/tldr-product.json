@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-09-08",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://industrycontents.com/clementine-ai-behavioral-science?utm_source=tldrproduct",
+      "title": "Is behavioural science becoming AI's next product category?",
+      "summary": "AI vendors are increasingly marketing behavioral science, emotional calibration, and conversation design as core capabilities."
+    },
+    {
+      "url": "https://www.antmurphy.me/newsletter/how-the-leading-ai-companies-do-product-part-1?utm_source=tldrproduct",
+      "title": "How The Leading AI Companies Do Product",
+      "summary": "AI makes execution cheaper and experimentation faster, but product expertise still matters. The advantage shifts toward judgment, customer understanding, taste, and verification."
+    },
+    {
+      "url": "https://kolemannix.com/blog/how-to-name-things/?utm_source=tldrproduct",
+      "title": "How to name things",
+      "summary": "Good naming reflects clear thinking. Precise language makes systems easier to understand and can expose deeper design flaws."
+    },
+    {
+      "url": "https://awaitinginput.substack.com/p/slop-creep-when-building-gets-cheaper?utm_source=tldrproduct",
+      "title": "Slop-Creep: When Building Gets Cheaper Than Thinking",
+      "summary": "AI agents have created \"slop-creep\" - the accumulation of unnecessary features, abstractions, and infrastructure built simply because they are cheap to produce. Without implementation friction, weak ideas survive longer, especially in large companies where software persists."
+    },
+    {
+      "url": "https://www.productcompass.pm/p/product-engineering-for-pms-part-2?utm_source=tldrproduct",
+      "title": "Build a SaaS App Without Coding",
+      "summary": "Product managers should build engineering understanding with AI as product and engineering roles converge."
+    },
+    {
+      "url": "https://benn.substack.com/p/how-to-find-insights?utm_source=tldrproduct",
+      "title": "How to find insights",
+      "summary": "AI may create more analytics questions than it eliminates. The winning tools could look more like Excel than SaaS, giving agents a portable workspace to explore data and compound insights."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2096966511974064535.html?utm_source=tldrproduct",
+      "title": "AI Can Climb the Hill. Humans Pick the Next One",
+      "summary": "AI can increasingly handle execution, but humans still choose the next hill to climb. Consumer AI's biggest opportunity may be helping people feel happier and more connected, not merely more productive."
+    },
+    {
+      "url": "https://x.com/vasuman/status/2095999742031675738?utm_source=tldrproduct",
+      "title": "Applied AI Doesn't Work",
+      "summary": "AI creates little value when it simply speeds up a broken process. Companies should redesign the workflow first, then use software, agents, and humans where each is best suited."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We’re looking for a builder who has shipped real products / systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-438-the-myth-of-workplace-consensus?utm_source=tldrproduct",
+      "title": "Am I the Only Weirdo in This Company?",
+      "summary": "Workplace conformity does not always mean agreement."
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-write-a-definition-of-done-for-an-ai-feature/?utm_source=tldrproduct",
+      "title": "How to write a definition of done for an AI feature",
+      "summary": "Evals tell you whether AI works, not whether it creates value."
+    }
+  ]
+}

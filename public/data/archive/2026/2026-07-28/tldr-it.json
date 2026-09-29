@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-28",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/27/tech-sector-pours-1t-into-ai-and-sends-customers-the-bill/5278845?utm_source=tldrit",
+      "title": "Tech sector pours $1T into AI and sends customers the bill",
+      "summary": "Technology companies are spending roughly $1 trillion on infrastructure this year, helping push global IT spending toward $6.37 trillion and raising prices for hardware, cloud services, and enterprise software. CIOs are pushing back as vendors bundle AI into products and shift more of the infrastructure cost onto customers through higher subscriptions and usage-based pricing."
+    },
+    {
+      "url": "https://www.reuters.com/commentary/breakingviews/cloudmaxxing-sucks-nvidia-into-dangerous-game-2026-07-27/?utm_source=tldrit",
+      "title": "Cloudmaxxing sucks Nvidia into dangerous game",
+      "summary": "Nvidia is reportedly considering guaranteeing up to $250 billion in financing for a 10-gigawatt data center involving SoftBank's SB Energy and potentially OpenAI, while separately financing as much as $350 billion in GPUs. The arrangement shows how the AI infrastructure boom is expanding beyond chips and cloud capacity into enormous credit guarantees that could leave technology suppliers exposed if demand or returns fall short."
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/?utm_source=tldrit",
+      "title": "Rethinking security for the age of AI",
+      "summary": "Microsoft's Project Perception is an agentic security system that coordinates red-team agents to identify attack paths, blue-team agents to investigate risks, and green-team agents to take corrective action across identities, endpoints, applications, data, clouds, and AI systems. The multi-model platform is designed to continuously detect, prioritize, and respond to threats while keeping security teams in control. It enters public preview on August 3."
+    },
+    {
+      "url": "https://systemsapproach.org/2026/07/27/reality-based-network-operations/?utm_source=tldrit",
+      "title": "Reality-based Network Operations",
+      "summary": "Network operations in hyperscale cloud environments differ fundamentally from traditional multi-vendor management. Device inconsistency and CLI-driven workflows have long hindered programmatic APIs, while SDN abstractions built on uniform virtual switches enable simpler, more consistent control in cloud environments."
+    },
+    {
+      "url": "https://iamcharliegraham.substack.com/p/where-should-your-companys-ai-brain?utm_source=tldrit",
+      "title": "Where Should Your Company's AI Brain Live?",
+      "summary": "As companies embed institutional knowledge, workflows, and decision-making into AI systems, they may be creating deep vendor lock-in before consciously choosing where that infrastructure should live. This article compares model providers, incumbent SaaS platforms, closed startups, and open-source options, arguing that companies should retain control over AI processes central to their competitive advantage while using simpler managed tools for more generic work."
+    },
+    {
+      "url": "https://github.com/features/ai/github-app?utm_source=tldrit",
+      "title": "GitHub Copilot app",
+      "summary": "The GitHub Copilot app is a desktop experience for agent-driven development built natively on GitHub, available for macOS, Windows, and Linux on any Copilot plan or with a bring-your-own key. Users can inspect diffs, preview via an in-app browser, run terminal checks, and merge pull requests inside a session."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app/?utm_source=tldrit",
+      "title": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "summary": "GitHub expanded its enterprise controls so administrators can apply the same centrally managed Copilot policies across its desktop app, cloud agent, CLI, and VS Code. Organizations can restrict plugins and marketplaces, prevent users from bypassing approval prompts, and distribute the configuration through GitHub, MDM, or managed files."
+    },
+    {
+      "url": "https://www.kai-waehner.de/blog/2026/07/27/data-integration-vs-workflow-orchestration-connecting-systems-is-not-coordinating-the-work/?utm_source=tldrit",
+      "title": "Data Integration vs Workflow Orchestration: Connecting Systems Is Not Coordinating the Work",
+      "summary": "Data integration moves and reshapes data between systems, while workflow orchestration decides what runs, in what order, and how to recover from failures. Enterprises confuse the two because both offer connectors, though those connectors serve different jobs. Data orchestration and workflow automation serve different purposes, but organizations are increasingly bringing them together under a single control plane to manage workflows across domains."
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/?utm_source=tldrit",
+      "title": "Building the enterprise environment for agentic AI",
+      "summary": "Intel's experiments with agentic AI workloads suggest enterprises need to evaluate the entire system rather than focusing only on model and inference performance. The article recommends measuring task success, cost per task, end-to-end latency, and agent density per vCPU, while using scale-out infrastructure to balance performance, capacity, and cost."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/07/visual-screenshots-in-google-meet-meeting-notes-will-soon-be-generally-available-pre-configure-admin-settings-in-advance.html?utm_source=tldrit",
+      "title": "Visual screenshots in Google Meet meeting notes will soon be generally available, pre-configure admin settings in advance",
+      "summary": "Google Meet will soon add screenshots of presented slides, charts, and diagrams to AI-generated meeting notes."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance?utm_source=tldrit",
+      "title": "Six Agent Harness Capabilities for Higher Model Performance",
+      "summary": "NVIDIA Labs has released Object-Oriented Agents (NOOA), an open-source research preview that treats AI agents as Python classes whose methods, state, and prompts form a typed harness."
+    }
+  ]
+}

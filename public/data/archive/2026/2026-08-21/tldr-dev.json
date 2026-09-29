@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-08-21",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://tanstack.com/blog/tanstack-router-navigation-lanes?utm_source=tldrdev",
+      "title": "Inside a TanStack Router Navigation",
+      "summary": "TanStack Router navigations involve complex asynchronous operations that manage multiple independent components, such as route loading, caching, and rendering, often resulting in overlapping processes. This architecture allows for efficient handling of user interactions and errors, while making sure that operations such as preloads and navigations can coexist without creating unnecessary updates or failures in the user interface."
+    },
+    {
+      "url": "https://thegustafson.com/blog/paged-attention?utm_source=tldrdev",
+      "title": "PagedAttention: Virtual Memory for the KV Cache",
+      "summary": "PagedAttention is an approach that transfers concepts from virtual memory in operating systems to improve the efficiency of key-value (KV) cache management in LLMs. It reduces memory waste and improves throughput by using a shared pool of fixed-size physical blocks for memory allocation, allowing for better handling of concurrent requests in LLM serving."
+    },
+    {
+      "url": "https://shopify.engineering/mobile-e2e-testing?utm_source=tldrdev",
+      "title": "How we raised mobile end-to-end test stability to 98%",
+      "summary": "Shopify's mobile E2E test suite had become so flaky that it had to be pulled from PR checks, because the old Appium/WebdriverIO setup using React Native Test IDs allowed footguns like arbitrary pauses and asserted on view-hierarchy nodes rather than what a user could actually see. They rebuilt it as an opinionated wrapper with a strict builder-style API that forces an assertion on every step and prefixes escape hatches with UNSAFE_, plus computer vision that finds elements the way a merchant does."
+    },
+    {
+      "url": "https://infrequently.org/2026/08/notes-on-performance-remediation-strategies?utm_source=tldrdev",
+      "title": "The Wicked Reason Removing Code Beats Better Scheduling",
+      "summary": "Removing excess code is generally more effective than merely reordering it to enhance performance, as the complexities involved in scheduling can lead to increased operational challenges and confusion among teams. Focusing on code elimination not only simplifies the system but also prepares the groundwork for more effective performance improvements in the future."
+    },
+    {
+      "url": "https://www.lesswrong.com/posts/Hoxj8tEGGQ7HaLzf4/thoughts-on-taking-openai-foundation-funding?utm_source=tldrdev",
+      "title": "Thoughts on Taking OpenAI Foundation Funding",
+      "summary": "In light of advancing AI capabilities potentially aiding biological threats, SecureBio secured a $17.2M grant from the OpenAI Foundation to enhance its monitoring system for disease outbreaks, while maintaining independence in evaluating AI models. Concerns remain regarding the incentives that funding may create for AI developers to lower safety standards, emphasizing the need for continued pressure on AI firms to prioritize risk mitigation alongside the advancement of their technologies."
+    },
+    {
+      "url": "https://bun.com/blog/bun-v1.4?utm_source=tldrdev",
+      "title": "Bun 1.4 (Website)",
+      "summary": "Bun 1.4 introduces improvements, such as the addition of over 1,500 tests from the Node.js suite, achieving a 97% pass rate on many core modules and incorporating over 2,900 fixes. Performance improvements include a fivefold decrease in CPU usage, a 35% reduction in memory consumption, and a start time that is 50% faster on Linux, along with new features like Bun.Image for image processing, Bun.WebView for headless browser automation, and better support for HTTP/3."
+    },
+    {
+      "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL&amp;utm_source=tldrdev",
+      "title": "Slack Code (Website)",
+      "summary": "Slack Code helps teams collaboratively write, review, and ship code directly within Slack. By integrating AI coding agents into dedicated code channels, it allows team members without technical skills to participate actively in the development process."
+    },
+    {
+      "url": "https://github.com/bgub/fig?utm_source=tldrdev",
+      "title": "Fig (GitHub Repo)",
+      "summary": "Fig is a small, stable pre-1.0 TypeScript UI runtime for building apps and metaframeworks, inspired by React's core model (components, Fiber, hydration, and state). It builds in first-class primitives for data, 'payload' server-rendered trees treated as ordinary data-resource values, and component-declared assets, with a working TanStack Start integration."
+    },
+    {
+      "url": "https://antonz.org/going-freestanding/?utm_source=tldrdev",
+      "title": "Going freestanding",
+      "summary": "Solod, a subset of Go, was developed to translate to C with a focus on porting Go's standard library into a freestanding mode that operates independently of operating system runtimes. This approach involves using compiler builtins, implementing missing components, and utilizing explicit allocators while accommodating hardware-specific hooks for functionality."
+    },
+    {
+      "url": "https://strn.cat/posts/spacetime/?utm_source=tldrdev",
+      "title": "SpacetimeDB: a short technical review",
+      "summary": "The database market is challenging for new entrants, and SpacetimeDB's recent version 2.0 launch uses a controversial approach that includes misleading benchmarks and a playful demeanor towards competitors. While their database has unique characteristics, it has some technical flaws, and the marketing tactics might overshadow the genuine potential of the product."
+    },
+    {
+      "url": "https://github.com/zonelessdev/zoneless?utm_source=tldrdev",
+      "title": "Zoneless (GitHub Repo)",
+      "summary": "Zoneless is an open-source payments platform designed for stablecoins, enabling users to manage payments, subscriptions, and seller payouts through a Stripe-compatible API without intermediaries or fees."
+    },
+    {
+      "url": "https://www.danielvaughn.dev/posts/huzzah/?utm_source=tldrdev",
+      "title": "Huzzah",
+      "summary": "A new experimental coding editor named Huzzah aims to improve the efficiency and clarity of interacting with AI coding agents by using pseudocode that is declarative and persistent."
+    },
+    {
+      "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/?utm_source=tldrdev",
+      "title": "GitHub, autoscaling, and the component substitution fallacy",
+      "summary": "The GitHub outage was partially caused by a misconfigured autoscaling policy that failed to account for the Istio sidecar's limits, highlighting the importance of understanding component interactions in complex systems rather than solely focusing on individual defects."
+    },
+    {
+      "url": "https://chrisburnell.com/html-can-do-that/?utm_source=tldrdev",
+      "title": "HTML Can Do That",
+      "summary": "HTML is increasingly capable of providing dynamic functionalities, traditionally managed by JavaScript, through modern attributes and elements that improve accessibility and user experience."
+    }
+  ]
+}

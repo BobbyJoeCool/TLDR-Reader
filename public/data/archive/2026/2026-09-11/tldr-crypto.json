@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-09-11",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://threadreaderapp.com/thread/2097689508187680794.html?utm_source=tldrcrypto",
+      "title": "MetaMask Begins Its Next Chapter as an Independent Company",
+      "summary": "Consensys Software Inc. is rebranding as MetaMask, consolidating its identity around the consumer wallet product while spinning out its protocols and institutional infrastructure businesses into a separate entity that will carry the Consensys name forward. The split cleanly divides the organization's assets: the MetaMask brand and consumer wallet stay with the newly renamed company, while Linea (the Ethereum L2) and enterprise tooling move to the new Consensys entity. The restructuring gives MetaMask a focused mandate as a standalone consumer product company, freeing it from the overhead of running institutional infrastructure under one roof. For Linea, operating under a dedicated infrastructure-focused parent may accelerate its go-to-market toward developers and institutional integrators without competing internally for resources against a mass-market wallet."
+    },
+    {
+      "url": "https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034?utm_source=tldrcrypto",
+      "title": "Hunter Biden's LAPTOP airdrops briefly worth over $1 million each before 99% crash",
+      "summary": "Hunter Biden airdropped 4,276 LAPTOP tokens on Base to each Substack subscriber enrolled before September 6, with those allocations carrying a theoretical peak value of roughly $1.3M per wallet when the token hit $300 in its first hour. Thin order depth made executing sales near that peak infeasible for most recipients, and the token shed over 99% within minutes, settling near $2. Airdrop recipients who held through the collapse could still redeem approximately $8,000 per wallet, a sharp contrast to the 11,500+ wallets that bought during the run-up, leaving over 80% of those purchasers in the red. Supply is split 10% to community airdrop, 30% to founders under six-month lockups and 24-month vesting schedules, and 30% tied to real-world prediction outcomes that either burn tokens or redirect them to charity."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2097762296986817012.html?utm_source=tldrcrypto",
+      "title": "Coinbase for Agents Now Available on Grok",
+      "summary": "Coinbase for Agents is now natively integrated with Grok, letting users connect their Coinbase account at grok.com to execute trades, analyze portfolios, and automate financial workflows without any MCP configuration. Users can sign in with Coinbase, then use Grok to trade across crypto, derivatives, and equities – and eventually anything available on the Coinbase platform."
+    },
+    {
+      "url": "https://x.com/dphnAI/status/2097732391616049634?utm_source=tldrcrypto",
+      "title": "Introducing the Dolphin Foundation: One Network One Asset",
+      "summary": "The Dolphin Foundation has incorporated in the Cayman Islands as the legal entity for Dolphin Network, a decentralized peer-to-pool inference protocol where GPU providers earn POD tokens for completed inference work. POD is the sole value-accruing asset, with 100% of inference revenue from API access and credit card subscriptions directed to open-market POD purchases, creating buy pressure proportional to usage. The structure eliminates the split-incentive problem common in foundation models by removing an equity layer that would otherwise compete with token holders for economic upside. The foundation holds core IP and manages commercial relationships the decentralized protocol cannot, with the inference API launch imminent."
+    },
+    {
+      "url": "https://x.com/Paymentscan/status/2097337358936944747?utm_source=tldrcrypto",
+      "title": "Why crypto cards cost 2% abroad",
+      "summary": "Most issuers settle with Visa/Mastercard in a single currency (usually USD), triggering cross-border assessment fees (~0.13-0.14% baseline, jumping with currency mismatch by up to 0.6%) plus FX spreads (0.1-0.4%), adding over 1% in network costs alone before issuer/program margin. Multi-currency settlement (registering several currencies with the network, the model Revolut/Wise pioneered) and local issuance (issuing cards domestically in each market so transactions never count as cross-border) are two potential workarounds here. Only a few stablecoin issuers like Wirex, StraitsX, and Monavate currently do either. Wirex's EURC settlement volume has grown from zero to ~$500M of Visa's $20B annualized stablecoin volume in a year. Structural and technical constraints (sponsor bank limitations, cost of reissuing card portfolios) explain why most others haven't caught up, though Stripe/Bridge and Rain say wider currency support is on their roadmap."
+    },
+    {
+      "url": "https://x.com/openstandard/status/2097722798773076479?utm_source=tldrcrypto",
+      "title": "Open Standard: Stablecoins Are Supposed To Be Better Dollars",
+      "summary": "Open USD is the structural incentive misalignment in stablecoin design, where issuers earn revenue from idle reserve AUM and are therefore disincentivized to support settlement use cases that reduce those balances. Open Standard's model shares reserve yield proportionally with developers who build on Open USD, replaces burn fees with a small per-transaction fee, and eliminates exit costs when converting to other assets, tying issuer revenue to volume rather than float. Target use cases include card settlement infrastructure for Visa and Mastercard, stablecoin collateral acceptance on institutional venues such as NYSE and CME, and programmatic corporate treasury management via tokenized money market funds. The project has received thousands of partnership inquiries since its summer announcement, signaling substantial institutional appetite for a stablecoin model aligned to transaction throughput."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2097949048011440566.html?utm_source=tldrcrypto",
+      "title": "Could Robinhood stock tokens ever carry voting rights?",
+      "summary": "Robinhood's tokenized stocks (structured as debt securities issued by a Jersey entity, backed 1:1 by real shares in US custody) could theoretically let tokenholders direct the underlying shares' proxy votes if Robinhood built an on-chain voting mechanism. This could potentially let a large-enough token holder bloc support board nominees at real public companies, raising concerns about outside/foreign influence over US corporate governance."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2097993002312515772.html?utm_source=tldrcrypto",
+      "title": "EtherFi Cash tax treatment by region",
+      "summary": "This thread breaks down how EtherFi Cash's tax treatment varies drastically by country. In the EU and US, \"Direct Pay\" spending counts as a taxable crypto disposal, while \"Borrow Mode\" (spending against borrowed funds) generally isn't taxed until repayment/liquidation. The UAE has no personal income or capital gains tax. Kazakhstan taxes disposals around 10%. Onboarding is blocked entirely in India, South Africa, the Netherlands, Estonia, and Finland, and Kenya/Nigeria have their own evolving digital-asset tax frameworks."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2097668551725223983.html?utm_source=tldrcrypto",
+      "title": "Tokenized Equity Volume on Base Hits $44M All-Time High",
+      "summary": "Tokenized equity volume on Base reached an all-time high of $44M in a single day, continuing the trend driven by Robinhood Chain's xStocks trading integration."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2097951575398302172.html?utm_source=tldrcrypto",
+      "title": "Mastercard launches Wallet Pay",
+      "summary": "Mastercard launched Wallet Pay, connecting 3.7 billion Mastercard credentials to digital wallets (which have 4.3B users globally, projected to pass 6B by 2030), covering NFC, QR, and online payments."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2097786518110609620.html?utm_source=tldrcrypto",
+      "title": "Trezor phishing warning (under 1 minute read)",
+      "summary": "Trezor warned that its third-party email provider was breached and that an email titled \"Critical Security Alert: STM32 Entropy Vulnerability\" is a phishing attempt, not from Trezor."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2097774339626348612.html?utm_source=tldrcrypto",
+      "title": "Mercury Bank gets FDIC deposit insurance approval",
+      "summary": "Mercury CEO Immad Akhund announced that the FDIC approved Mercury Bank, N.A.'s deposit insurance application, moving the fintech closer to becoming an actual chartered bank (targeting a 2027 opening) rather than a tech company operating through bank partners."
+    }
+  ]
+}

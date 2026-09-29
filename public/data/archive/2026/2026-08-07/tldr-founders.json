@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-07",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.platformer.news/replit-amjad-massad-interview-coding-design-jobs/?utm_source=tldrfounders",
+      "title": "Replit's CEO on building a company that can run itself",
+      "summary": "Amjad Masad started Replit in 2016 with his wife, designer Haya Odeh. Replit began as a website where beginners could run code in a browser without having to install anything. Today, it features an agent that can design, write, test, deploy, and host applications from a prompt. This post contains an excerpt from an interview with Masad where he discusses the way AI is changing work, AI job losses, the future of software, and more."
+    },
+    {
+      "url": "https://frontierai.substack.com/p/the-saas-extinction-test-f6e?utm_source=tldrfounders",
+      "title": "The SaaS Extinction Test",
+      "summary": "The rumors of the demise of modern software are greatly exaggerated. However, the nature of what makes software valuable is quickly changing. SaaS companies can no longer survive by being a slightly better UI for a human workflow. Defensibility remains at the intersection of data and risk."
+    },
+    {
+      "url": "https://x.com/haridigresses/status/2084825945609802079?utm_source=tldrfounders",
+      "title": "Airtable's Road Not Traveled",
+      "summary": "Airtable's no-code advantage eroded as coding agents let operators build directly on Postgres, while organizational drift and incremental AI features slowed adaptation. Selling the legacy business and spinning out Hyperagent creates a clean break, preserving upside without dragging old architecture."
+    },
+    {
+      "url": "https://zoneless.com/blog/how-to-grow-your-marketplace-to-500000-users?utm_source=tldrfounders",
+      "title": "How to Grow Your Marketplace to 500,000 Users",
+      "summary": "PromptBase has 500,000 users and roughly 300,000 listings. It started with no users, two listings, and a bad website. The founder became seller number one, uploaded the first prompts himself, and found the next sellers in Reddit threads. He messaged them after their first sale, fixed bugs quickly, and shared their listings. Storefronts and lower fees gave sellers a reason to bring buyers, while every prompt became a page Google could find. The marketplace grew by hand before it grew through sellers and search."
+    },
+    {
+      "url": "https://thefounderplaybook.hustlefund.vc/p/blog-should-investors-always-follow-on?utm_source=tldrfounders",
+      "title": "Should Your Early Investors Always Follow On?",
+      "summary": "A seed investor can love your company and still skip the next round. The math may leave no other choice. A fund's $100,000 at a $2 million valuation can return 100 times at a $200 million exit. If it puts its remaining $500,000 in at a $10 million valuation, the company needs a $1 billion exit for that new money to do the same. The fund may prefer five early bets. A Series A fund that invested early for access and then passes at Series A is a different signal. Ask what earns the second check before taking the first."
+    },
+    {
+      "url": "https://microsoft.github.io/flint-chart/?utm_source=tldrfounders",
+      "title": "Flint: A Visualization Language for the AI Era (Tool)",
+      "summary": "Flint lets an AI create or edit a chart once, then render it in Vega-Lite, ECharts, Chart.js, Plotly, or Excel, with ten built-in visual themes."
+    },
+    {
+      "url": "https://github.com/CopilotKit/channels-sdk?utm_source=tldrfounders",
+      "title": "Channels SDK (GitHub Repo)",
+      "summary": "Channels SDK is an open-source SDK for bringing any agent into any chat platform. It connects an AG-UI-compatible agent to the communication platforms teams already use. The agent can understand conversations, stream responses, call tools, work with files, render interactive UI, and pause for human approval. Managed connections for Slack and Microsoft Teams are available through CopilotKit Intelligence, with more channels on the way."
+    },
+    {
+      "url": "https://staysaasy.com/management/2026/08/05/the-big-management-lie-overpromising.html?utm_source=tldrfounders",
+      "title": "The Big Management Lie: Overpromising",
+      "summary": "Overpromising career rewards to retain high performers can backfire, damaging trust and causing significant personnel issues. Despite well-intentioned optimism, unexpected circumstances often prevent managers from fulfilling these promises. Managers should instead focus on controllable actions, provide disclaimers, and avoid guaranteeing outcomes to maintain credibility and trust with their teams."
+    },
+    {
+      "url": "https://x.com/medeana/status/2084671218704159169?utm_source=tldrfounders",
+      "title": "I launched a fake deodorant brand to see if AI would notice",
+      "summary": "Someone spent $11.25 and less than an hour making up a deodorant brand. Three weeks later, ChatGPT started mentioning it. By day 30, the fake brand ranked first in four answers and once beat MAGS Skin, a real product with clinical testing and a National Eczema Association seal. No fake reviews, Reddit posts, or press. It did not take over deodorant search. It worked for only two narrow questions about sensitive skin. Claude, Gemini, and 13 broader searches ignored it. Native still won 99 of 180 answers. The fake brand found two questions the real brands had left open."
+    },
+    {
+      "url": "https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie/?utm_source=tldrfounders",
+      "title": "Your AI Strategy May Be Destroying Your Exit Value",
+      "summary": "An aggressive AI strategy can harm exit value by complicating due diligence, increasing vendor dependency, and introducing security risks."
+    },
+    {
+      "url": "https://fermisense.com/when-machines-take-the-wheel/?utm_source=tldrfounders",
+      "title": "The Rise of Intelligence Ownership",
+      "summary": "A company that can grade every answer may not need an expensive general AI model."
+    },
+    {
+      "url": "https://x.com/mxfp4/status/2084885190242095135?utm_source=tldrfounders",
+      "title": "28k views / 167 shares / 67 upvotes / 0 sales, a couple of trials. Back to the drawing board",
+      "summary": "A launch post got 28,000 views, 167 shares, and 67 upvotes, then produced zero sales and only a couple of trials."
+    },
+    {
+      "url": "https://news.crunchbase.com/venture/y-combinator-repeat-founders-numbers-grow-epstein-callaway/?utm_source=tldrfounders",
+      "title": "The Return Of The Repeat Founder: Inside YC's Growing Class Of Second-Timers",
+      "summary": "Second-time Y Combinator founders have been showing up in greater numbers lately."
+    }
+  ]
+}

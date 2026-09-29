@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-01",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://neon.com/blog/autoscaling-lakebase-postgres?utm_source=tldrdev",
+      "title": "Autoscaling Lakebase Postgres",
+      "summary": "Neon uses Lakebase Postgres to enable real-time autoscaling of database resources, where compute sizes can change dynamically based on CPU load, memory use, and cache working set size without interrupting operations. This separation of storage and compute functions optimizes performance, reduces waste, and also allows for fast resource adjustments."
+    },
+    {
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/?utm_source=tldrdev",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "summary": "A recent exploration shows that Claude Code Opus 5 in Auto Mode is vulnerable to prompt injection attacks, achieving a 60-80% success rate despite previous claims of a 0.00% success rate in these scenarios. The findings suggest that Auto Mode, which is intended as a safety measure, does not provide a definitive security guarantee."
+    },
+    {
+      "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md?utm_source=tldrdev",
+      "title": "How our agents build on-brand pages with design.md",
+      "summary": "Vercel uses coding agents to create on-brand pages that adhere to specific design guidelines, using a public file called DESIGN.md to provide consistent design parameters for various tools and contexts. This framework incorporates a three-part system of guidance, a public stylesheet, and an evaluation loop to guarantee high-quality, cohesive outputs while continuously adapting through user feedback and real-world application."
+    },
+    {
+      "url": "https://vettedconsumer.com/which-mac-for-local-llms-2026-buyers-guide/?utm_source=tldrdev",
+      "title": "Which Mac Should You Buy to Run Local LLMs in 2026? A Memory-First Buyer's Guide",
+      "summary": "When selecting a Mac for local LLMs in 2026, prioritize unified memory and memory bandwidth over chip type, as these factors impact model size and processing speed. The best choices vary by need: the Mac mini M4 Pro offers great value for 30B-class models, while the new M5 Max and Ultra models are great for heavy workloads requiring larger capacities."
+    },
+    {
+      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours?utm_source=tldrdev",
+      "title": "AI-Written Code Is Still Your Code. Are You OK With That?",
+      "summary": "AI in software development is driving down the cost of writing code, but this might lead to a lack of understanding and ownership of the software created. As coding becomes increasingly automated, it raises important questions about the responsibilities of developers, particularly in areas like quality, security, and maintainability."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/your-agentsmd-is-holding-you-back?utm_source=tldrdev",
+      "title": "Your AGENTS.md is holding you back",
+      "summary": "Context engineering has evolved from adding information to minimizing it, as overly detailed context can reduce AI agents' performance. To optimize AI agent functionality, it's recommended to regularly revise and test context documents, solicit feedback from the agents themselves, and maintain a detailed record of past errors to refine the context over time."
+    },
+    {
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally?utm_source=tldrdev",
+      "title": "OpenClaw 2.0, Accidentally",
+      "summary": "OpenClaw 2.0 has been released as the largest update in its history, with an overhaul of the installation process, browser experience, and collaborative functionalities."
+    },
+    {
+      "url": "https://github.com/AlgorithmicResearchGroup/fnscribe?utm_source=tldrdev",
+      "title": "FnScribe (GitHub Repo)",
+      "summary": "FnScribe is a private dictation tool for macOS that transcribes voice recordings locally and integrates seamlessly with any active application. It allows users to dictate using a shortcut, supports hands-free operation, and offers features like smart cleanup and a personal dictionary."
+    },
+    {
+      "url": "https://github.com/Waishnav/devspace?utm_source=tldrdev",
+      "title": "DevSpace (GitHub Repo)",
+      "summary": "DevSpace is a self-hosted server that integrates ChatGPT with local coding environments, allowing users to read, edit, and run code without exposing their files to third-party services. It enables ChatGPT to interact with users' projects directly, providing tools for repository inspection and command execution in a secure and controlled manner."
+    },
+    {
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/?utm_source=tldrdev",
+      "title": "How to Build a Diffusion Language Model",
+      "summary": "Diffusion language models represent a new approach to generative AI, focusing on the simultaneous generation of entire text sequences rather than iteratively producing tokens one at a time. These models use techniques such as iterative refinement, variable-length generation, and error correction, allowing for faster and more controllable text generation."
+    },
+    {
+      "url": "https://eris-system.dev/blog/forgetting-curve?utm_source=tldrdev",
+      "title": "I built a forgetting curve for an agent with one user",
+      "summary": "A forgetting curve was designed for a local-first vault agent to manage memory, but its complexity led to more problems than benefits. The system proposed intricate scoring and tiering for memory management, which ultimately went unused and overcomplicated the process of deciding what to retain. Simpler methods could effectively handle memory without the unnecessary layers of abstraction."
+    },
+    {
+      "url": "https://blog.starpointllp.com/2026/08/instinct-hottest-agentic-assistant-payments-advantage/?utm_source=tldrdev",
+      "title": "Instinct: Hottest Agentic Assistant – Payments Advantage?",
+      "summary": "Instinct uses SMS and voice communication to manage consumer tasks across various sectors without a traditional eCommerce interface, showing a shift toward agentic commerce in everyday services."
+    },
+    {
+      "url": "https://usewire.io/blog/ai-memory-lock-in-blocks-your-own-product/?utm_source=tldrdev",
+      "title": "AI memory lock-in works until it blocks your own product",
+      "summary": "AI memory lock-in improves user retention by accumulating context that makes switching expensive, but it can also hurt product adoption within a company's own offerings."
+    },
+    {
+      "url": "https://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html?utm_source=tldrdev",
+      "title": "The Safest Job from AI may be Writing",
+      "summary": "Despite advancements in AI-generated content, human writing remains safe from obsolescence as AI struggles to capture the depth, authenticity, and subjectivity inherent in effective prose."
+    },
+    {
+      "url": "https://calpaterson.com/memoryfields.html?utm_source=tldrdev",
+      "title": "Agent memory as a file format",
+      "summary": "Memoryfields represent a simplified and effective data format for agent memory, allowing AI agents to store and retrieve relevant information through directly written Markdown pages and semantic search, rather than relying on complex multi-stage memory systems."
+    }
+  ]
+}

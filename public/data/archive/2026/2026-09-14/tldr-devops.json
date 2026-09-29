@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-09-14",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://spacelift.io/blog/spacelift-flows-is-live?utm_source=tldrdevops",
+      "title": "Spacelift Flows Is Live: Bring IaC Rigor to Day 2",
+      "summary": "Spacelift Flows brings Day 2 infrastructure operations into a visual, auditable workflow platform, enabling teams to automate incident response, provisioning, drift handling, and routine requests without scattered scripts or credentials. Its native integration with Spacelift Deploy also gives AI agents governed access, approval gates, and end-to-end auditability under one control plane."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/?utm_source=tldrdevops",
+      "title": "Kubernetes v1.37: Native Histograms Graduates to Beta",
+      "summary": "Native histogram support for Kubernetes metrics has graduated to Beta and is enabled by default in Kubernetes v1.37. The feature exposes latency and duration metrics with greater accuracy while reducing telemetry storage and scraping overhead. Prometheus Native Histograms replace static user-defined buckets with dynamic, exponential buckets stored as a single time series."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudformation-contract-tests-v2-resource-types/?utm_source=tldrdevops",
+      "title": "AWS CloudFormation now supports contract tests v2 for resource types",
+      "summary": "AWS CloudFormation contract tests v2 provide deeper validation across resource handler operations, including live-state verification, schema compatibility checks, and input linting for hardcoded environment values. Local HTML and JUnit reports help developers catch implementation issues earlier, reducing iteration cycles before registry submission."
+    },
+    {
+      "url": "https://www.harness.io/blog/catch-ai-regressions-before-they-ship-with-ai-evals-in-ci-cd?utm_source=tldrdevops",
+      "title": "Catch AI Regressions Before They Ship with AI Evals in CI/CD",
+      "summary": "Harness AI Evals integrates AI agent testing into CI/CD using golden datasets, behavioral metrics, and blocking quality gates to catch regressions that traditional tests miss. Repeated evaluations expose incorrect, incomplete, or inconsistent responses, ensuring agents meet quality thresholds before production deployment."
+    },
+    {
+      "url": "https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query?utm_source=tldrdevops",
+      "title": "The lifecycle of a sharded Postgres query",
+      "summary": "PlanetScale's Neki router makes a sharded Postgres deployment appear as a single database by handling authentication, protocol parsing, shard-aware planning, connection pooling, and distributed execution across many Postgres nodes. Query performance depends heavily on shard-key choice: co-locating related rows can turn an expensive cross-shard join that requires scatter-gather queries and router-side hash joins into local joins executed independently on each shard."
+    },
+    {
+      "url": "https://github.com/SnailSploit/Claude-Red?utm_source=tldrdevops",
+      "title": "Claude-Red (GitHub Repo)",
+      "summary": "Claude-Red is a curated library of offensive security skills for the Claude AI system. It offers structured SKILL.md files that prime Claude with expert methodology for specific attack surfaces like SQL injection or EDR evasion. The project targets roughly 130 skills across 23 categories."
+    },
+    {
+      "url": "https://github.com/JustVugg/colibri?utm_source=tldrdevops",
+      "title": "Colibrì (GitHub Repo)",
+      "summary": "Colibrì is a pure-C inference engine for running very large Mixture-of-Experts models across VRAM, RAM, and NVMe as a single memory hierarchy. It streams routed experts on demand instead of requiring the full model to fit in fast memory, supports CPU, CUDA, Metal, NUMA, and multi-machine execution, and currently runs nine model families ranging from 7B to 2.8T parameters."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/from-traces-to-experiments-a-loop-for-improving-ai-agents/?utm_source=tldrdevops",
+      "title": "From traces to experiments: A loop for improving AI agents",
+      "summary": "Agent optimization should use a continuous loop of trace analysis, hypothesis formation, offline evaluation, controlled production experiments, and post rollout monitoring. Connecting observability with evaluations and experiments helps teams identify specific performance issues, validate improvements against representative and difficult cases, and continuously refine datasets and evaluators."
+    },
+    {
+      "url": "https://www.rubyhack.ai/?utm_source=tldrdevops",
+      "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
+      "summary": "Researchers investigating the May 2026 GemStuffer campaign attribute more than 2,000 malicious RubyGems package uploads to an OpenAI agent swarm based on package contents, naming patterns, and other public evidence. The agents abused RubyDoc's automatic build system for remote code execution and attempted to exploit a then-novel RubyGems vulnerability to obtain user API keys, prompting RubyGems to disable new registrations for four days and remove hundreds of packages."
+    },
+    {
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one?utm_source=tldrdevops",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "OpenAI's Habitat storage platform now handles over 70 million requests per second and serves more than 500 petabytes of data. The team recently rewrote the service in Rust, which is 6x more CPU efficient and 15x more memory efficient than the previous Python version. Habitat first launched as a Python library at DevDay 2023 to support GPTs and evolved into a complex distributed system supporting over 1 billion weekly users across nearly 40 regions."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes/?utm_source=tldrdevops",
+      "title": "Whose GPUs are these, anyway? Secure, self-service metrics for multi-tenant Kubernetes",
+      "summary": "A multi-tenant Prometheus proxy can safely expose curated, namespace-isolated metrics to Kubernetes teams without opening the shared infrastructure store or creating noisy-neighbor problems."
+    },
+    {
+      "url": "https://blog.cloudflare.com/casb-policies/?utm_source=tldrdevops",
+      "title": "Introducing automatic remediation policies with Cloudflare CASB",
+      "summary": "Cloudflare CASB now supports automatic remediation policies."
+    }
+  ]
+}

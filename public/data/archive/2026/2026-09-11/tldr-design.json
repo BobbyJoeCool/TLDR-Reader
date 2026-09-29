@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-11",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://analyticsindiamag.com/ai-news/tailwind-joins-shopify-will-remain-open-source?utm_source=tldrdesign",
+      "title": "Shopify Acquires Tailwind",
+      "summary": "Shopify is acquiring Tailwind Labs, bringing the team behind Tailwind CSS, installed more than 110 million times a week by firms like OpenAI and Cloudflare, in-house. The framework stays open source and MIT-licensed, with Tailwind's creator Adam Wathan citing a stable long-term home for millions of dependent developers as the goal. The deal follows layoffs of three of four engineers in January after revenue fell 80%, and leaves Tailwind Labs closing sign-ups for commercial products like Tailwind Plus."
+    },
+    {
+      "url": "https://siliconangle.com/2026/09/08/openais-chatgpt-images-gets-faster-with-sharper-details-and-more-refined-edits/?utm_source=tldrdesign",
+      "title": "OpenAI's ChatGPT Images Gets Faster, with Sharper Details and More Refined Edits",
+      "summary": "OpenAI's ChatGPT Images 2.5 generates images up to 50% faster, with more natural lighting, richer textures, and steadier detail preservation across edits and long conversations. A new Sketch tool lets users draw a rough reference for the model to build on, while the Flare and Sunburst variants weigh speed against fidelity. The model, rolling out now in ChatGPT, ChatGPT Work, and Codex plus API access, also adds guardrails, C2PA metadata, and watermarking to flag AI-generated content."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-officially-announced-heres-whats-new/?utm_source=tldrdesign",
+      "title": "iPhone 18 Pro officially announced: Here's what's new",
+      "summary": "Apple has unveiled the iPhone 18 Pro and Pro Max with the new A20 Pro chip, a smaller Dynamic Island, improved battery life, a 48MP variable-aperture camera with expanded manual controls, and AI-focused enhancements powered by a 32-core Neural Engine. Other highlights include faster graphics, better thermal management, support for Apple Reference Image authenticity metadata, up to 2TB of storage, and new accessories, with preorders opening September 12 and devices launching September 18."
+    },
+    {
+      "url": "https://www.creativebloq.com/tech/the-iphone-duo-is-perfect-for-people-with-uncanny-alien-fingers?utm_source=tldrdesign",
+      "title": "The iPhone Duo is perfect for people with uncanny alien fingers",
+      "summary": "Apple's marketing for the new $1,999 foldable iPhone Duo has drawn criticism after promotional images appeared to use unrealistically long fingers to make the device seem easier to hold one-handed. The exaggerated visuals sparked jokes and accusations of misleading marketing, adding to the debate over the Duo's ergonomics alongside its price and unconventional design."
+    },
+    {
+      "url": "https://adplist.substack.com/p/designers-should-be-paid-the-same?utm_source=tldrdesign",
+      "title": "Designers Should Be Paid the Same as Engineers",
+      "summary": "Designers who design and ship, not just hand off files, deserve engineering-level pay, since compensation has long tracked who ships work rather than who shapes it. Levels.fyi data puts median product-designer pay near $170,000 against $226,000 for engineers, with designer compensation growing just 1.8% a year versus faster-compounding engineering salaries. Hybrid design-engineer roles, like one at Ramp spanning $172,000 to $440,000, already pay closer to engineering, and the fix is negotiating a shipped product against that band."
+    },
+    {
+      "url": "https://ref.tools/blog/how-i-design-with-ai?utm_source=tldrdesign",
+      "title": "How I Design with AI",
+      "summary": "Product design with AI turns to slop unless constraints come first and the extra copy, lines, and icons agents love to add get removed. The approach favors iterating in a design tool like Figma rather than the codebase, building reusable component libraries, and validating results with preview deploys against real data. At Ref, the team also borrows interface patterns from existing products for context and stress-tests taste by critiquing drafts as a group until something holds up."
+    },
+    {
+      "url": "https://kombai.com/?utm_source=tldrdesign",
+      "title": "Your AI Design Engineer (Website)",
+      "summary": "Kombai is your AI design engineer for designing standout websites and product UIs, then shipping production-ready frontend in the same loop."
+    },
+    {
+      "url": "https://www.diiverge.co/?utm_source=tldrdesign",
+      "title": "Explorable Worlds Grown from a Single Picture (Website)",
+      "summary": "A series of explorable worlds, each grown from a single picture. Click anything in the frame, choose what happens to it, and AI generates the next scene and a short film of the moment in between."
+    },
+    {
+      "url": "https://www.extend.ai/ui?utm_source=tldrdesign",
+      "title": "Open Source UI Kit for Modern Document Apps (Website)",
+      "summary": "React components for PDF, DOCX, XLSX, and CSV viewers, with bounding box citations, file upload, e-signing, and more."
+    },
+    {
+      "url": "https://graphicdesignjunction.com/2026/09/10-common-logo-design-mistakes-that-make-brands-look-unprofessional/?utm_source=tldrdesign",
+      "title": "10 Common Logo Design Mistakes That Make Brands Look Unprofessional",
+      "summary": "Ten recurring mistakes make brands look unprofessional, according to a new logo design guide, from skipping brand strategy to cramming too many ideas into one mark. Other flagged missteps include trendy typefaces, unnecessary effects, overly detailed forms, generic stock symbols, and designing only in color instead of testing black-and-white first."
+    },
+    {
+      "url": "https://the-brandidentity.com/project/o0-extends-fauna-robotics-brand-into-a-system-that-moves-on-screen?utm_source=tldrdesign",
+      "title": "O0 extends Fauna Robotics' brand into a system that moves on screen",
+      "summary": "O0 evolved Fauna Robotics' existing identity into a flexible digital brand system centered on motion, modularity, and the adaptable nature of its Sprout robot, making the product feel approachable while remaining technically credible. The website combines photography, video, 3D, and interactive storytelling to introduce the robot, explain its capabilities, and build trust through layered technical detail rather than marketing claims. The scalable design system helped position Fauna Robotics for growth ahead of its acquisition by Amazon in March."
+    },
+    {
+      "url": "https://www.loop11.com/how-to-test-interface-states-ai-agents-usually-miss/?utm_source=tldrdesign",
+      "title": "How to Test Interface States AI Agents Usually Miss",
+      "summary": "AI-generated prototypes often look complete in happy-path form while states like loading, empty results, permission changes, and overlapping actions remain undefined. A better process builds a state inventory, embeds those states in realistic tasks and transitions, and measures comprehension and recovery, not just preference, across desktop and mobile. Findings get converted into reusable interface contracts defining triggers, messages, actions, and recovery behavior, so future AI-assisted designs don't reinvent handling for loading, empty, and error states."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/09/download-the-new-iphone-18-pro-wallpapers-here/?utm_source=tldrdesign",
+      "title": "Download the new iPhone 18 Pro wallpapers here",
+      "summary": "Apple's new iPhone 18 Pro and Pro Max wallpapers are available to download as high-resolution static images from the iOS 27 Release Candidate, allowing anyone to use them without buying a new iPhone."
+    },
+    {
+      "url": "https://aestheticamagazine.com/five-iconic-artists-who-work-with-the-landscape/?utm_source=tldrdesign",
+      "title": "Iconic Artists Who Work with the Landscape",
+      "summary": "'The Art Travel Book: 40 Iconic Outdoor Artworks' traces land art since the 1960s pioneers."
+    },
+    {
+      "url": "https://ux-news.com/what-john-ternuss-leadership-could-mean-for-apples-user-experience/?utm_source=tldrdesign",
+      "title": "What John Ternus's Leadership Could Mean for Apple's User Experience",
+      "summary": "John Ternus became Apple's CEO on September 1, succeeding Tim Cook, bringing hardware expertise in reliability, durability, and repairability to a company facing an uneven AI rollout."
+    }
+  ]
+}

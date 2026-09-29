@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-08-07",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.producttalk.org/the-call-to-adventure?utm_source=tldrproduct",
+      "title": "I Can't Predict the Future (and Neither Can You) (30 minute video)",
+      "summary": "After an injury forced her to slow down, Teresa Torres began experimenting with AI and gradually learned to build tools, agents, and production software. Small steps, curiosity, and a willingness to be a beginner can turn uncertainty into meaningful growth."
+    },
+    {
+      "url": "https://www.a16z.news/p/knowing-when-to-stop-the-art-of-making?utm_source=tldrproduct",
+      "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+      "summary": "Effective AI loops require more than repeated attempts. They need clear goals, editable work, reliable verification, and stopping rules that account for both progress and cost."
+    },
+    {
+      "url": "https://theskip.substack.com/p/lessons-from-three-product-leaders?utm_source=tldrproduct",
+      "title": "Lessons From Three Product Leaders Living in the Future (60 minute video)",
+      "summary": "As AI makes building accessible to everyone, product leaders must spread customer judgment, remove unnecessary handoffs, and help small teams focus on the work that creates real value."
+    },
+    {
+      "url": "https://www.uxtigers.com/post/framing?utm_source=tldrproduct",
+      "title": "The Framing Effect in UX: Identical Facts, Opposite Decisions",
+      "summary": "Every interface frames information, so designers should use transparent, balanced language that improves understanding instead of manipulating decisions."
+    },
+    {
+      "url": "https://newsletter.weskao.com/p/before-you-delegate-ask-yourself?utm_source=tldrproduct",
+      "title": "Before you delegate, ask yourself these 6 questions",
+      "summary": "Good delegation gives people the context, resources, expectations, and guardrails they need to succeed independently."
+    },
+    {
+      "url": "https://frontierai.substack.com/p/the-saas-extinction-test-f6e?utm_source=tldrproduct",
+      "title": "The SaaS Extinction Test",
+      "summary": "Coding agents threaten simple workflow software, but systems of record and mission-critical platforms remain protected by data, operational complexity, and risk."
+    },
+    {
+      "url": "https://news.harvard.edu/gazette/story/2026/08/when-ai-goes-rogue/?utm_source=tldrproduct",
+      "title": "When AI goes rogue",
+      "summary": "AI sandbox escapes highlight the limits of current safety controls and the urgent need for stronger safeguards, transparency, and regulation."
+    },
+    {
+      "url": "https://thenextweb.com/news/uber-cto-tokenmaxxing-era-ending-ai-spending?utm_source=tldrproduct",
+      "title": "Uber's tech chief says the AI ‘tokenmaxxing' era is ending",
+      "summary": "Rapidly increasing AI consumption is no longer a meaningful measure of success. Companies are moving toward disciplined spending, efficient models, and practical applications that produce measurable returns."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585?utm_source=tldrproduct",
+      "title": "Prompt injection isn't the bug, AI agent frameworks are",
+      "summary": "AI agent security risks extend beyond prompt injection because flaws in the surrounding frameworks can turn untrusted content into code execution, credential theft, and other serious attacks."
+    },
+    {
+      "url": "https://x.com/GergelyOrosz/status/2081845248120988114?utm_source=tldrproduct",
+      "title": "Why Engineering Leaders Are Walking Away",
+      "summary": "Unrealistic AI expectations and weak company strategies are pushing engineering leaders toward fractional work, entrepreneurship, and career breaks."
+    }
+  ]
+}

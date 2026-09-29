@@ -1,0 +1,73 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-07-29",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs?utm_source=tldrit",
+      "title": "Snowflake launches Cortex AI Gateway for enterprise agents",
+      "summary": "Snowflake's Cortex AI Gateway gives organizations centralized control over how agents access models. The product is designed to improve governance and prevent uncontrolled usage from creating unexpectedly high AI costs."
+    },
+    {
+      "url": "https://www.geekwire.com/2026/microsoft-escalates-the-ai-cybersecurity-race-with-project-perception-and-a-new-in-house-model/?utm_source=tldrit",
+      "title": "Microsoft escalates the AI security race with ‘Project Perception' and a new in-house model",
+      "summary": "Microsoft's Project Perception is an AI cybersecurity system that coordinates red, blue, and green team agents to defend against AI-driven attacks. Entering public preview August 3, it is based on Microsoft's new MAI-Cyber-1-Flash model used with OpenAI's GPT-5.4 for the hardest tasks. Microsoft says the combination scores 96% on CyberGym and is initially available only to MDASH customers."
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents?utm_source=tldrit",
+      "title": "MCP gets its biggest architectural update yet",
+      "summary": "The Model Context Protocol's July 28 revision introduces major architectural changes aimed at supporting large-scale enterprise agent deployments. The update moves MCP beyond its earlier stateful design, but could require existing implementations to adapt."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance?utm_source=tldrit",
+      "title": "Why SAP says enterprise agents need knowledge graphs",
+      "summary": "SAP argues that enterprise agents need governed knowledge graphs rather than simple access to disconnected documents and applications. Reliable agents require shared business context, relationships, and permissions that can be consistently applied across workflows."
+    },
+    {
+      "url": "https://2amsecurity.substack.com/p/from-zero-trust-to-zero-custody?utm_source=tldrit",
+      "title": "From Zero Trust to Zero Custody",
+      "summary": "Zero Trust is insufficient for AI agents because verifying identity does not stop attackers from hijacking behavior through malicious language in context. Zero Custody holds that the reasoning loop should hold nothing that matters, so a compromised agent has empty hands. Secrets and raw values should stay with external brokers or gateways that inject or re-identify them only after policy checks."
+    },
+    {
+      "url": "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix?utm_source=tldrit",
+      "title": "Enterprise AI has a context trust problem",
+      "summary": "A survey of 101 enterprises found that companies are building infrastructure to supply agents with business context faster than they can ensure that context is trustworthy. The next enterprise AI bottleneck may be data lineage, permissions, and accuracy rather than retrieval performance."
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/?utm_source=tldrit",
+      "title": "Microsoft previews a multi-model AI security stack",
+      "summary": "Microsoft's Project Perception combines specialized and frontier models with shared security context and agents that can act across its security products. Microsoft says the architecture can improve reasoning consistency while cutting costs by nearly 50%. The public preview begins on August 3."
+    },
+    {
+      "url": "https://www.theregister.com/file/2026/07/28/nutanix-gets-dell-powerstore-support/5279629?utm_source=tldrit",
+      "title": "Dell PowerStore adds support for Nutanix Cloud Platform",
+      "summary": "Dell PowerStore can now serve as external storage for Nutanix Cloud Infrastructure 7.6, with deployment and lifecycle management integrated through Dell Private Cloud and Nutanix Prism. The integration gives customers another path away from legacy virtualization stacks while allowing compute and storage to scale independently."
+    },
+    {
+      "url": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/?utm_source=tldrit",
+      "title": "We're open sourcing our privacy proxy CLI",
+      "summary": "Cloudflare is open sourcing pvcli (privacy-client), a CLI for debugging privacy-preserving protocols such as Oblivious HTTP, under the Apache-2.0 License. The tool automates binary HTTP encoding, encryption, and multi-party relay/gateway flows that previously required manual bit-level work and one-off custom clients. It logs each protocol step so developers can isolate failures across relays, gateways, and origins."
+    },
+    {
+      "url": "https://www.theregister.com/flash/2026/07/28/kioxia-launches-first-pcie-gen-5-liquid-cooled-ssd/5279797?utm_source=tldrit",
+      "title": "Kioxia launches its first liquid-cooled PCIe Gen 5 SSD",
+      "summary": "Kioxia's new NX1 SSD is designed for GPU servers and hyperscale data centers where storage performance and heat management are becoming more important. The E1.S drive supports capacities up to 15.36 TB and offers improved write performance over the company's previous generation."
+    },
+    {
+      "url": "https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/?utm_source=tldrit",
+      "title": "AI-powered Phishing-as-a-Service",
+      "summary": "Security researchers uncovered two AI-built Phishing-as-a-Service kits, TokenLover and YaksaLover, that automate business email compromise against Microsoft 365. Marketed like legitimate SaaS products with operator dashboards, they industrialize documented techniques such as device code phishing and Windows Hello persistence. One kit uses AI to map payment flows from harvested mailboxes, and both can keep access after password resets."
+    },
+    {
+      "url": "https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/?utm_source=tldrit",
+      "title": "How Observability transforms vibe coding into AI engineering",
+      "summary": "AI-generated code often omits production essentials such as error handling, rate limiting, and instrumentation, and observability skills let agents verify work against runtime behavior to feed observations back into the next plan."
+    },
+    {
+      "url": "https://www.theregister.com/object/2026/07/27/meta-reinvents-ai-metadata-flow-and-kv-caching/5278805?utm_source=tldrit",
+      "title": "Meta says storage is becoming a bottleneck for AI infrastructure",
+      "summary": "Meta argues that faster metadata pipelines, ingestion systems, and GPU-adjacent flash can reduce expensive idle time in AI clusters."
+    }
+  ]
+}

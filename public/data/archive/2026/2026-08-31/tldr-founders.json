@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-08-31",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.revenuecat.com/blog/growth/short-drama-mobile-acquisition-monetization?utm_source=tldrfounders",
+      "title": "Short drama has cracked mobile acquisition and early monetization",
+      "summary": "Short-drama apps are 6.5% of the highest-grossing entertainment apps and 38% of the downloads. RevenueCat found 5.5% of its installs became paying customers within 35 days, against 1.6% for other entertainment apps. The reason is portable. The ad, the cliffhanger, the free episodes, and the paywall were built as one continuous experience rather than four steps owned by four different teams. Retention is where it falls apart, with 31.1% renewing after the first purchase compared with 44.3% across the broader category."
+    },
+    {
+      "url": "https://www.saastr.com/rule-of-40-is-half-dead-growth-is-all-that-matters-margins-above-25-dont-help-and-category-beats-both-the-latest-from-kroll/?utm_source=tldrfounders",
+      "title": "Rule of 40 Is Half Dead: Growth Is All That Matters, Margins Above 25% Don't Help, and Category Beats Both",
+      "summary": "Software M&A is on pace for its second busiest year ever, though SpaceX's $60 billion acquisition of Cursor accounts for half the annualized deal value, and removing it drops total dollars near a decade low. If you are weighing another point of growth against another point of margin, Kroll's data answers it. Companies growing above 20% trade at 7.2x revenue versus 4.1x for 10-20% growers, and margin gains past 25% barely move the price. Category framing carries similar weight, since engineering software and HCM share a 46% Rule of 40 yet trade at 5.2x and 3.0x."
+    },
+    {
+      "url": "https://thegtmnewsletter.substack.com/p/product-market-fit-has-always-been?utm_source=tldrfounders",
+      "title": "Product-Market Fit Has Always Been a Treadmill, But it Just Got WAY Faster",
+      "summary": "Product-market fit has always been a treadmill, but the AI innovation cycle is making it go at a much faster pace. Founders now need to be concerned about whether they're compounding fast enough to keep their product-market fit. Teams that compound customer usage into model performance run faster. The teams pulling ahead are building for the intelligence they expect to have in six to nine months."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/one-year-as-a-solopreneur?utm_source=tldrfounders",
+      "title": "One year as a solopreneur",
+      "summary": "Growth Unhinged is about to pass $1M in annual revenue as a one person business, and its author published the books. More than 88,000 subscribers and roughly 700 premium ones support it with zero employees. That's rare. Most of the money is brand partnerships at 55% and consulting at 25%, with subscriptions at 10-15% and speaking at 5-10%. The fastest moving line in the acquisition mix is ChatGPT and Claude referrals, up from 6% of new subscribers in February to 15.6% in August, while 940 paid beehiiv recommendations cost $1.96 each."
+    },
+    {
+      "url": "https://galratner.substack.com/p/say-youre-pre-revenue?utm_source=tldrfounders",
+      "title": "Say You're Pre Revenue",
+      "summary": "Report a number, and people will evaluate it. Stay pre-revenue, and nobody can do the arithmetic on you. You get priced on what you might eventually be worth instead of what you actually earned."
+    },
+    {
+      "url": "https://slack.com/blog/news/slackbot-ai-workspace-for-deep-work?utm_source=tldrfounders",
+      "title": "Slackbot: Your Agentic AI Workspace for Deep Work",
+      "summary": "Slackbot's latest updates enable the agent to start scaling with teams rather than just answering one person at a time. Big Mode gives the agent room to do deep research, multi-step analysis, and real drafting. Skill Sets lets teams bundle related skills and roll them out together in one click. Deep Research can analyze organizational data and the web and synthesize its findings into a report with citations."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/?utm_source=tldrfounders",
+      "title": "Understanding ChatGPT Work",
+      "summary": "ChatGPT Work is actually two products: Work Cloud runs in the cloud, while Work Local, the app that used to be called Codex, is more like a regular Codex re-skinned to be less intimidating to non-software developers. ChatGPT Work is currently available only to $20/month and up subscribers. It is designed for completing tasks with clear outcomes, with features such as a code execution environment with Internet access, a headless Chrome browser, a persistent file system shared between sessions, scheduled prompt automations, and more."
+    },
+    {
+      "url": "https://zlatkov.substack.com/p/what-i-learned-about-founder-market?utm_source=tldrfounders",
+      "title": "What I learned about founder-market fit",
+      "summary": "Founder-market fit is a big part of a startup's search for product-market fit. The most important factor is whether founders deeply care about the problem and how passionate they are. Experience is an obvious advantage, but it only counts when the passion is still there. When founders spend years on a problem, they come out knowing that space better than almost anyone else. This doesn't disappear with the outcome, and founders can take that experience with them into whatever comes next."
+    },
+    {
+      "url": "https://blog.mastykarz.nl/your-app-is-losing-its-grip-on-your-customers/?utm_source=tldrfounders",
+      "title": "Your app is losing its grip on your customers",
+      "summary": "Product merit used to be closely tied to human usability, so developers created attractive interfaces and intuitive workflows. UI is still important for jobs where people operate the product directly, but agents will increasingly start operating every part of every product. This means over time, familiarity and learned workflows will exert less influence over whether customers stay. Businesses will have to earn their place in customers' workflows even when the customer no longer sees their interfaces. This changes what usability, differentiation, and loyalty mean."
+    },
+    {
+      "url": "https://www.opensourceceo.com/p/matt-mcfarlane-interview-2?utm_source=tldrfounders",
+      "title": "Take The Cap Off Your Salary Bands",
+      "summary": "If you want a high-performance workforce, then pay for it."
+    },
+    {
+      "url": "https://world.hey.com/jason/5300-in-100s-the-verdict-74c41080?utm_source=tldrfounders",
+      "title": "$5300 in $100s: The verdict",
+      "summary": "Roughly half the RSVPs just never show up."
+    },
+    {
+      "url": "https://www.petervijeh.com/projects/saas-scanner?utm_source=tldrfounders",
+      "title": "I built a scanner to find a SaaS worth cloning. Its best answer was “don't.”",
+      "summary": "Rebuilding isn't the moat - the sales motion is, and AI hasn't made that cheaper."
+    },
+    {
+      "url": "https://the-waterline.beehiiv.com/p/the-one-customer-pool-company?utm_source=tldrfounders",
+      "title": "The One-Customer Pool Company",
+      "summary": "A thought experiment compares two $3 million pool companies with the same two-person support team, where revenue per account divided by weekly issue contacts leaves one with 95 minutes to solve each problem and the other with three."
+    },
+    {
+      "url": "https://apievangelist.com/2026/08/31/mintlify-put-signup-in-the-cli-when-it-was-already-in-the-protocol/?utm_source=tldrfounders",
+      "title": "Mintlify Put Signup in the CLI When It Was Already in the Protocol",
+      "summary": "mint signup is a CLI command that creates a Mintlify account from the terminal so coding agents never have to open a browser to get started."
+    },
+    {
+      "url": "https://deanjackson.com/blog/zero-to-20-percent-market-share/?utm_source=tldrfounders",
+      "title": "Zero to 20% market share",
+      "summary": "In a story from 1997 retold this week, a realtor captured 20% of listings in a 2,000-home neighborhood by sending one useful postcard each week for eight weeks before the fall selling season, arriving while future sellers were still forming their plans."
+    }
+  ]
+}

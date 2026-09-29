@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-08-25",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database?utm_source=tldrdev",
+      "title": "Your executable is a SQLite database",
+      "summary": "The concept of replacing the traditional ELF executable format with SQLite as an executable format is explored in this article, introducing a new prototype called SELF, which functions as a structured executable and linkable format. This shift allows for simplified querying and modification of executable files using SQL."
+    },
+    {
+      "url": "https://kciter.so/posts/how-to-design-animation/en/?utm_source=tldrdev",
+      "title": "How to Design an Animation",
+      "summary": "Animation improves user experience by clarifying interactions and conveying brand personality, but creating it can be a complex task that requires breaking down intricate motions into manageable components represented mathematically. Designers can develop animations that feel natural and responsive to user input by using tools such as graphs, easing functions, and physics simulations."
+    },
+    {
+      "url": "https://blog.tymscar.com/posts/howtoreportabug/?utm_source=tldrdev",
+      "title": "How To Report A Bug So It Actually Gets Fixed",
+      "summary": "Effective bug reporting includes owning the bug, creating a reproducible environment, and providing detailed documentation, all while assuming initial responsibility for the issue. By following a structured process that includes version bisecting and thorough communication with maintainers, the chances of a bug being addressed are improved."
+    },
+    {
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise?utm_source=tldrdev",
+      "title": "AI Coding will Prevent Expertise",
+      "summary": "The growing reliance on AI coding tools may negatively affect the development of true expertise among junior developers, requiring them to possess expert-level skills to effectively use AI."
+    },
+    {
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/?utm_source=tldrdev",
+      "title": "Stop Using Conventional Commits",
+      "summary": "Conventional Commits prioritizes commit type over the more critical component, scope, resulting in a misleading format that fails to communicate essential changes effectively. The article advocates for a shift towards scope-prefixed commit messages, emphasizing that this approach aligns better with the actual needs of developers and contributors."
+    },
+    {
+      "url": "https://github.com/picomq/picomq?utm_source=tldrdev",
+      "title": "PicoMQ (GitHub Repo)",
+      "summary": "PicoMQ is a framework designed for durable, real-time streaming over HTTP, utilizing S3-compatible object storage. It provides tools for easy installation, node management, and stream operations through its command-line interface and Docker integration."
+    },
+    {
+      "url": "https://github.com/getkern/kern?utm_source=tldrdev",
+      "title": "Kern (GitHub Repo)",
+      "summary": "Kern is a lightweight, rootless container runtime that allows for fast, kernel-enforced execution of workloads, achieving cold starts in approximately 3.5 ms without a daemon."
+    },
+    {
+      "url": "https://cameronrwolfe.substack.com/p/llm-rl?utm_source=tldrdev",
+      "title": "Reinforcement Learning for LLMs: The Complete Guide",
+      "summary": "Reinforcement Learning (RL) has been integral to the development of LLMs, addressing complex issues such as alignment, reasoning, and safety while being a fast-moving area of AI research. This overview covers foundational concepts of RL, its application in LLM training, various algorithms used, including policy gradient methods and recent advancements like Group Relative Policy Optimization (GRPO)."
+    },
+    {
+      "url": "https://plicara.ai/research/agent-skill-languages/?utm_source=tldrdev",
+      "title": "What language are agent skills written in?",
+      "summary": "The percentage of newly created agent skills written in languages other than English rose from 13.0% to 16.3% in the first half of 2026, with Chinese leading among these non-English skills. The growth of non-English skills shows a shift in the AI development landscape, influenced by increasing contributions from countries like India, Brazil, and others."
+    },
+    {
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs?utm_source=tldrdev",
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "summary": "New packaging regulations introduced by the European Union threaten the viability of makers and micro-entrepreneurs by imposing disproportionate costs and administrative burdens. The regulations could lead to job losses and stifle innovation, forcing many micro-businesses to consider selling exclusively in non-EU markets instead."
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/why-code-verification-matters-more?utm_source=tldrdev",
+      "title": "Why Code Verification Matters More Than Ever in the Age of AI",
+      "summary": "AI made writing code cheap, but verifying it correct/safe is now the bottleneck, so verification should be a layered, risk-adjusted stack."
+    },
+    {
+      "url": "https://glassbox.codecanary.org/?utm_source=tldrdev",
+      "title": "GlassBox (Website)",
+      "summary": "GlassBox is a client-side tool that reveals the various signals a website can collect from a browser."
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/?utm_source=tldrdev",
+      "title": "Anger, Anxiety and Agency",
+      "summary": "Anger in the workplace is often counterproductive, as it does not improve situations and can negatively impact those around you, compared to more constructive emotional responses like curiosity."
+    },
+    {
+      "url": "https://rushed-reflections.bearblog.dev/an-unlikely-experiment/?utm_source=tldrdev",
+      "title": "An unlikely experiment",
+      "summary": "The use of the \"unlikely\" macro in programming allows developers to optimize their code by providing the compiler with information about which execution paths are less likely to be taken."
+    }
+  ]
+}

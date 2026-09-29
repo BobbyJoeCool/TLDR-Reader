@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-15",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.youtube/culture-and-trends/youtube-culture-trends-modern-mainstream-research/?utm_source=tldrmarketing",
+      "title": "Has mainstream culture disappeared? New YouTube trends research says no",
+      "summary": "Mainstream culture isn't disappearing, but brands can no longer rely on celebrities or broad media to create cultural relevance. YouTube creators and memes are now seen as widely known as Hollywood stars. Cultural momentum often starts in niche online communities before spreading through sharing and creating. YouTube says the platform can turn that momentum into broader cultural validation, with 65% of respondents saying something feels more real or legitimate when they see it there."
+    },
+    {
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/14/zuckerberg-short-form-video-cognitive-harm?utm_source=tldrmarketing",
+      "title": "The harms of short-form video on the brain are starting to show",
+      "summary": "Heavy short-form video use may impair attention and memory. A meta-analysis of about 70 studies found stronger links to cognitive problems than mental health issues, with compulsive use predicting worse outcomes. Other research links more phone time to poorer working memory and uncontrolled short-form use to weaker episodic memory. Memory and imagination share neural circuitry, so these effects could also make it harder to envision and plan for the future."
+    },
+    {
+      "url": "https://www.brandingmag.com/rande-vick/are-we-building-brands-for-a-world-that-no-longer-exists/?utm_source=tldrmarketing",
+      "title": "Are We Building Brands for a World That No Longer Exists?",
+      "summary": "Brands still rely on growth tactics built for a simpler, more stable world. This piece argues for a “both/and” approach. Keep evidence-based marketing principles while accounting for trust, context, and long-term consequences. Set rules against manipulative tactics. Use brand touchpoints to explain real-world decisions. Dedicate 10% of activity to retention, employee pride, and referrals."
+    },
+    {
+      "url": "https://www.marketingideas.com/p/proof-of-humanity-is-the-biggest?utm_source=tldrmarketing",
+      "title": "\"Proof of humanity\" is the biggest marketing opportunity right now",
+      "summary": "66% of people under 30 already react negatively when a business visibly uses AI in its ads, a reversal for the generation assumed to be AI's biggest fans. That backlash is turning restraint itself into a content opportunity, since publicly declaring what a brand won't automate can work as marketing in its own right, not just a compliance footnote. Aerie's pledge to skip AI-generated models became its most-liked Instagram post ever, with a 23% sales bump the same quarter."
+    },
+    {
+      "url": "https://www.airops.com/events/webinar-the-new-rules-of-growth?utm_source=tldrmarketing",
+      "title": "The New Rules of Growth (Webinar)",
+      "summary": "High-growth marketing teams are changing how they hire and allocate resources as growth demands rise. On September 17, Krithika Shankarraman of Thrive Capital and Christy Roach of AirOps will share how they secure resources, measure newer channels like AI Search, and get more leverage from smaller teams as growth accelerates."
+    },
+    {
+      "url": "https://standingongiants.gradual.us/public/events/what-it-actually-takes-to-win-on-reddit-with-rachel-duffy-from-the-times-and-standing-on-giants-x15zfqo2du?utm_source=tldrmarketing",
+      "title": "What It Actually Takes to Win on Reddit (Webinar)",
+      "summary": "This session, on September 22, explores how brands can build a meaningful presence on Reddit. It covers subreddit culture, moderator relationships, and community engagement. Rachel Duffy shares how The Times built its Reddit strategy and drove visibility and trust. The session also looks at Reddit's role as search and LLMs reshape audience behavior."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/does-retail-media-add-value?utm_source=tldrmarketing",
+      "title": "Does Retail Media Add Value?",
+      "summary": "Retail media only adds value when ads drive profitable incremental sales. For advertisers, high ROAS can be misleading if shoppers would have purchased anyway. Retailers can also hurt margins if ads displace organic conversions or degrade the shopping experience. Both sides should measure whether advertising changes outcomes."
+    },
+    {
+      "url": "https://www.growth-memo.com/p/are-you-doing-marketing-or-building?utm_source=tldrmarketing",
+      "title": "Are you doing marketing…or building software?",
+      "summary": "95% of enterprise GenAI projects show zero return. The biggest gap is in areas with strong off-the-shelf options, such as rank tracking, citation monitoring, and content scoring. Vendors serving thousands of customers have already solved these integration challenges. Custom workflows are harder to outsource, but buying proven expertise can still beat learning through trial and error."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/colby-kultgen_anytime-im-feeling-overwhelmed-overcommitted-share-7504915823757672448-5GY0/?utm_source=tldrmarketing",
+      "title": "How to actually do a braindump",
+      "summary": "A 5-step process to quickly organize tasks, decisions, and ideas."
+    },
+    {
+      "url": "https://www.advanced-television.com/2026/09/14/research-3-in-4-americans-use-phones-while-watching-tv/?utm_source=tldrmarketing",
+      "title": "3 in 4 Americans use phones while watching TV",
+      "summary": "Broadcasters and advertisers now plan for TV and mobile as one viewing environment."
+    }
+  ]
+}

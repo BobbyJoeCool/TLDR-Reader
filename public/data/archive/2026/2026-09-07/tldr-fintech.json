@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-09-07",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://finainews.com/risk-security/ai-outages-ripple-through-banking-sector-raising-resilience-questions/?utm_source=tldrfintech",
+      "title": "AI outages ripple through banking sector, raising resilience questions",
+      "summary": "Simultaneous disruptions at Anthropic, OpenAI, Grok, and Gemini exposed the limits of relying on multiple external model providers. Banks are considering locally hosted models, interchangeable infrastructure, degraded operating modes, and manual fallbacks to keep critical systems running when providers fail."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html?utm_source=tldrfintech",
+      "title": "LeBron James teases partnership with Polymarket",
+      "summary": "LeBron James teased an upcoming partnership with Polymarket, with a broader football-focused campaign expected to be announced soon as prediction markets deepen their ties with athletes, teams, and leagues. The deal adds another major sports figure to the sector's marketing push, though terms were not disclosed and NBA rules limit players' financial interests in wagering-related businesses."
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/revolut-wins-conditional-us-banking-license-2026-09-03/?utm_source=tldrfintech",
+      "title": "Revolut wins conditional US banking license",
+      "summary": "Revolut received preliminary approval from the OCC for a national bank charter, moving it closer to launching a full-service American bank in the first half of 2027. The fintech plans to invest about $95 million in the Connecticut-based operation, which would offer checking accounts, loans, credit cards, foreign exchange services, and potentially a stablecoin, pending approval from the FDIC and Federal Reserve."
+    },
+    {
+      "url": "https://x.com/seema_amble/status/2095546732633379079?utm_source=tldrfintech",
+      "title": "The incumbents are coming",
+      "summary": "Amble argues that AI may strengthen incumbent systems of record because they control the data, permissions, and actions that general-purpose agents increasingly rely on, but that the full customer job usually spans multiple systems and organizations. The best opportunity for vertical AI startups is in high-frequency, judgment-heavy workflows where they can own more of the end-to-end job, build tighter expert learning loops, and become better at producing the actual outcome than either the incumbent's agent or a general-purpose model."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/instinct-consumer-agent?utm_source=tldrfintech",
+      "title": "Instinct made the consumer agent feel real",
+      "summary": "Instinct is the first consumer AI agent that makes the shift from apps to agents feel tangible, using persistent context and delegated actions to handle tasks like bookings, appointments, and purchases without forcing users through individual websites or apps. The bigger implication is a new distribution channel where businesses need to make themselves reliably callable by consumer agents, with identity, permissions, payments, liability, and recourse becoming core infrastructure while wallets like Stripe Link sit between agent intent and merchant checkout."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/32720/ai-is-ready-for-finance-but-many-finance-teams-arent?utm_source=tldrfintech",
+      "title": "AI is Ready for Finance, But Many Finance Teams Aren't",
+      "summary": "For finance leaders, the AI conversation has reached a tipping point. The question of whether AI should have a role to play in finance has moved on (the answer is yes), and we're now seeing professionals working on making sure their operations are mature enough to scale AI effectively."
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-launches-ai-agent-blueprints-retailers-ahead-holiday-shopping-season-2026-09-02/?utm_source=tldrfintech",
+      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday season",
+      "summary": "Anthropic released blueprints to help retailers, travel companies, and ticketing platforms build shopper and merchant agents on Claude, as AI-driven commerce becomes a growing source of high-intent traffic. Anthropic says early partners have seen 30% to 35% larger carts and roughly 60% higher purchase completion, while merchant agents can also help optimize inventory, pricing, and marketing without autonomously completing transactions."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/ramp-takes-on-ai-expense/829642/?utm_source=tldrfintech",
+      "title": "Ramp expands into AI expense management with Router",
+      "summary": "Ramp is extending its expense-management platform into AI cost control with Router, a tool that directs workloads across models based on factors such as price, latency, and benchmark performance while giving finance teams visibility into token spend and the rationale behind each routing decision. Ramp sees AI usage becoming a standard corporate expense category, with companies increasingly applying the same budgeting, controls, and ROI discipline to model spend that they already use for travel, software, and other operating costs."
+    },
+    {
+      "url": "https://www.dig-in.com/news/insurers-are-retraining-ai-insourcing-data-to-regain-control?utm_source=tldrfintech",
+      "title": "Insurers are retraining AI, insourcing data to regain control",
+      "summary": "Insurance companies including MSI, American Growth Insurance, and VIPR Solutions are bringing more data operations in-house after early vendor-led deployments produced inconsistent results. By training models on carefully governed, company-specific information, insurers hope to improve accuracy, limit hallucinations, and maintain greater oversight of automated decisions."
+    },
+    {
+      "url": "https://fintech.global/2026/09/03/tabapay-raises-155m-as-it-moves-into-banking/?utm_source=tldrfintech",
+      "title": "TabaPay raises $155M as it moves into banking",
+      "summary": "TabaPay raised $155 million in strategic growth financing from FTV Capital as it prepares to acquire Transact Bank and rebrand it as TabaBank, bringing banking and payments capabilities under one corporate structure. The company, which expects to process more than $100 billion this year, plans to use the bank to expand sponsor banking, card sponsorship, acquiring, and access to rails including RTP, FedNow, ACH, and wires while continuing to work with its existing bank partners."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/?utm_source=tldrfintech",
+      "title": "Four major AI models suffer rare overlapping downtime",
+      "summary": "ChatGPT, Claude, Grok, and Gemini all experienced service interruptions within a few hours Thursday morning, disrupting products operated by four competing companies. No common cause was identified, making the near-simultaneous failures an unusual reminder of how dependent businesses have become on a small group of AI providers."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/32739/5-questions-every-payment-product-manager-should-ask-about-checkout-performance?utm_source=tldrfintech",
+      "title": "5 Questions Every Payment Product Manager Should Ask About Checkout Performance",
+      "summary": "Checkout is the last step in the funnel and the costliest one to get wrong."
+    },
+    {
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-credit-facility-to-15-billion-ahead-of-mega-ipo/?utm_source=tldrfintech",
+      "title": "Anthropic expands credit facility to $15 Billion ahead of mega IPO",
+      "summary": "Anthropic is increasing its revolving credit facility sixfold, from $2.5 billion to $15 billion, as it prepares for a potential IPO."
+    },
+    {
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/paypal-pauses-venture-capital-portfolio-sale-after-lowball-offers/?utm_source=tldrfintech",
+      "title": "PayPal pauses venture capital portfolio sale after lowball offers",
+      "summary": "The payments giant shelved plans to offload roughly $900 million to $1 billion in startup investments after bids topped out at just 60 cents on the dollar."
+    }
+  ]
+}

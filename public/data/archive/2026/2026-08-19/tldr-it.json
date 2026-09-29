@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-08-19",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.jamf.com/blog/mac-compliance-fleet-growth/?utm_source=tldrit",
+      "title": "Your Mac fleet is growing. Is your compliance keeping up?",
+      "summary": "As Mac fleets grow, manual scripts, spreadsheets, and one-off remediation become increasingly difficult for lean IT teams to maintain. Device configuration, patching, drift detection, and audit evidence need to become continuously automated rather than treated as periodic compliance projects."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html?utm_source=tldrit",
+      "title": "Microsoft begins consolidating Copilot into one app",
+      "summary": "Microsoft started unifying its consumer and Microsoft 365 Copilot experiences on August 18 ahead of a broader “super app” overhaul later this quarter. Work and personal identities remain separated through Microsoft and Entra accounts, while enterprise tenant controls and compliance boundaries remain intact."
+    },
+    {
+      "url": "https://www.expresscomputer.in/guest-blogs/the-browser-is-now-your-businesss-primary-endpoint-is-it-secure/137877/?utm_source=tldrit",
+      "title": "The browser is now your business's primary endpoint, is it secure?",
+      "summary": "With more employee work happening inside SaaS applications, the browser increasingly acts as the gateway between users, corporate identities, and company data. Browser policy, extensions, work profiles, session controls, and visibility should increasingly be treated as endpoint-management concerns rather than leaving the browser as an unmanaged application."
+    },
+    {
+      "url": "https://blogs.cisco.com/networking/how-cisco-and-auvik-simplify-network-modernization-for-ai?utm_source=tldrit",
+      "title": "How Cisco and Auvik simplify network modernization for AI",
+      "summary": "Cisco and Auvik are combining network discovery, topology mapping, and monitoring to help IT teams understand what infrastructure they actually have and where upgrades are needed. The approach is designed for Cisco, Meraki, and multi-vendor environments, giving teams a clearer way to prioritize aging hardware, capacity issues, and modernization work before rolling out more demanding workloads."
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/vertice-and-rsm-collaborate-to-help-middle-market-enterprises-control-ai-consumption-and-saas-costs-302853143.html?utm_source=tldrit",
+      "title": "Vertice and RSM team up on SaaS cost control",
+      "summary": "Vertice and RSM launched a strategic alliance to help midmarket companies control SaaS and cloud spend, combining Vertice's procurement intelligence across more than $75 billion in spend with RSM's technology and cloud advisory services. The goal is to move software procurement from reactive renewal negotiations to continuous cost and vendor optimization."
+    },
+    {
+      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-reports-fourth-quarter-earnings.html?utm_source=tldrit",
+      "title": "Cisco closes two more enterprise infrastructure acquisitions",
+      "summary": "Cisco disclosed that it closed acquisitions of Galileo Technologies, focused on observability, and Astrix Security, focused on non-human identity, during its latest quarter. The deals expand Cisco's push toward a broader networking, observability and identity operations platform."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/08/managing-unsolicited-event-invitations-with-user-blocking-in-Google-Calendar.html?utm_source=tldrit",
+      "title": "Managing unsolicited event invitations with user blocking in Google Calendar",
+      "summary": "Google Calendar users can now block a sender, automatically removing their current invitation and preventing future invites from that Google account. The block also applies across supported Google products. The feature is rolling out to all Workspace customers starting August 18."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4210979/new-malware-turns-microsoft-365-and-azure-into-its-control-center.html?utm_source=tldrit",
+      "title": "New malware turns Microsoft 365 and Azure into its control center",
+      "summary": "TWINLOOT hides its command-and-control traffic inside trusted Microsoft services, using SharePoint, Teams infrastructure, Microsoft Graph, and even the victim's own Edge browser. The malware can steal credentials and tunnel into internal systems while much of its activity appears to originate from legitimate Microsoft infrastructure, making behavioral and identity-based detection more important."
+    },
+    {
+      "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/?utm_source=tldrit",
+      "title": "An LLM wiki changed how I work",
+      "summary": "Casey Newton built a self-organizing knowledge base that uses LLMs to ingest articles, update Markdown pages, build timelines, surface related topics, and answer questions over years of accumulated research. The system saves significant research time and suggests new connections, but still requires ongoing maintenance, offering a useful glimpse at how AI could reshape personal and enterprise knowledge management."
+    },
+    {
+      "url": "https://www.ciodive.com/news/cisco-ai-revenue-enterprise-networking-security-hardware-refresh/828073/?utm_source=tldrit",
+      "title": "Cisco zeroes in on enterprise hardware refresh",
+      "summary": "Cisco says enterprises are in a multiyear networking refresh cycle."
+    },
+    {
+      "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html?utm_source=tldrit",
+      "title": "One attacker has scraped Salesforce and ServiceNow portals since 2025",
+      "summary": "A single attacker has spent more than a year scraping data from misconfigured Salesforce Experience Cloud and ServiceNow portals by abusing over-permissioned guest access."
+    }
+  ]
+}

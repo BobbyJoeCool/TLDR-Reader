@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-09-28",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://x.com/gradypb/status/2103536289438130670?utm_source=tldrfounders",
+      "title": "AI for Boston College's Investment Committee",
+      "summary": "Pat Grady frames AI as a technology wave that is bigger, faster, and fundamentally different because progress increasingly comes from computation. His reflection for Boston College's Investment Committee examines how that shift is reshaping technology and investing."
+    },
+    {
+      "url": "https://x.com/gregisenberg/status/2103927365977928019?s=12&utm_source=tldrfounders",
+      "title": "$5T opportunity: AI Roll Ups",
+      "summary": "Buy a business that already has customers, the licenses, and the trust, and then change how the work gets done with AI agents. Around $5 trillion worth of businesses in the US will change hands by 2035. Most of these belong to boomers heading into retirement. Many of them have nobody lined up to buy them. This guide walks readers through how to find the right business, buy it, and run it with agents."
+    },
+    {
+      "url": "https://aspiringforintelligence.substack.com/p/the-rise-of-the-neo-neo-lab?utm_source=tldrfounders",
+      "title": "The Rise Of The Neo Neo Lab",
+      "summary": "The last generation of enterprise software was built around proprietary data and workflows. The next will be built around the intelligence derived from them. Frontier labs will continue pushing the ceiling of general intelligence, but enterprises will take that intelligence and teach it what only they know. Companies with enough proprietary data, expert judgment, workflow volume, and distribution will have the raw materials to produce proprietary intelligence of their own."
+    },
+    {
+      "url": "https://www.saastr.com/the-keepers-the-employees-to-never-let-go-even-if-you-have-to-invent-a-role/?utm_source=tldrfounders",
+      "title": "The Irreplaceables. The Employees to Never Let Go. Even If You Have to Invent a Role",
+      "summary": "You will always regret letting one of the truly irreplaceable people on your team leave. This usually happens with scale. As things change, you need larger teams and different processes, and new executives may not think these employees are so irreplaceable. However, they are the ones who truly know how and why everything works and are often the best to help figure out how the next move can work. Top performers are the people you'd rehire into their role - irreplaceables are the ones you would rehire into a role that doesn't exist yet."
+    },
+    {
+      "url": "https://x.com/turnernovak/status/2103137278281326912?utm_source=tldrfounders",
+      "title": "Gusto's Cofounder Says AI Made Your Revenue Worth Less to an Acquirer and Your Speed Worth More",
+      "summary": "An acquirer may love your product and still decide it's faster to build its own. Gusto's cofounder explains that AI has shortened the time the company expects internal development to take, making acquisitions harder to justify. His example is hypothetical. If buying a company saves 18 months' worth of $50 million to Gusto, a business with $5 million in revenue might fit at a 10x multiple. One with $50 million in revenue probably won't. Your revenue can raise your asking price without increasing how much development time the buyer saves."
+    },
+    {
+      "url": "https://blog.n8n.io/introducing-n8n-agents/?utm_source=tldrfounders",
+      "title": "Introducing n8n Agents",
+      "summary": "n8n now has Agents. Developers describe what an agent should do, give it a model, tools, and workflows, and it works out the steps itself. An agent can be reached through Slack, run on a schedule, or called from any workflow. The same agent runs in every one of those places. Videos on how to use the agents in real-world applications are available."
+    },
+    {
+      "url": "https://www.firecrawl.dev/alexandria?utm_source=tldrfounders",
+      "title": "Alexandria (Website)",
+      "summary": "Alexandria is a knowledge library for superintelligence that gives agents tools like the live web, official providers, and specialized indexes. It provides a world of data with just one library. There are over 113 million indexed sources, 93 providers, 640 capabilities, and 20 categories. Data providers can join a waitlist to get paid for sharing their data."
+    },
+    {
+      "url": "https://parallel.ai/data-connectors?utm_source=tldrfounders",
+      "title": "Parallel (Website)",
+      "summary": "Parallel provides data connectors that connect agents to sources beyond the public web. Categories span company, people, financial, commerce, web, news, and health care & life sciences data. Visitors can request a source or connect their data to the platform. Pricing is pay-as-you-go, and users can run up to 5,000 requests per month for free."
+    },
+    {
+      "url": "https://konvoy.beehiiv.com/p/value-accrual-flywheel?utm_source=tldrfounders",
+      "title": "Value Accrual Flywheel",
+      "summary": "Software accrues value by creating dependencies that compound over time and raise switching costs. These dependencies compound internally as the product embeds deeper into workflows and externally through network effects and ecosystem adoption. Dependencies inside critical systems get a value multiplier because ripping them out threatens the business itself. Resulting revenue from these embedded software systems funds new features that create new dependencies, creating a Value Accrual Flywheel."
+    },
+    {
+      "url": "https://operatorsnotebook.beehiiv.com/p/the-cautious-tale-of-cal-ai?utm_source=tldrfounders",
+      "title": "The Cautious Tale Of Cal AI",
+      "summary": "Before Cal AI reached a reported $50 million in annual recurring revenue, one founder's mom had to co-sign the company bank account. Two of the four founders were still in high school. People now ask how they assembled that team, but the answer involves a cousin's YouTube recommendation, a cold DM, and meeting a future cofounder while working at another startup. There was no recruiting process to copy. The advice is more realistic: look for someone who is available and can learn, and expect to offer enough money or equity to make joining worthwhile."
+    },
+    {
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html?utm_source=tldrfounders",
+      "title": "What Would A Serious AI Product Look Like?",
+      "summary": "Every AI tool is missing critical features needed to do real work with it."
+    },
+    {
+      "url": "https://thephysicsofstartups.substack.com/p/37-ways-to-ask-about-pull?utm_source=tldrfounders",
+      "title": "37 ways to ask about PULL",
+      "summary": "PULL makes startups take off as long as they design everything around it."
+    },
+    {
+      "url": "https://ilyastrebulaev.substack.com/p/ten-votes-to-your-one-how-supervoting?utm_source=tldrfounders",
+      "title": "Ten Votes to Your One: How Supervoting Separates Ownership from Control",
+      "summary": "Supervoting shares allow founders to control companies with minimal ownership by granting disproportionate voting rights."
+    }
+  ]
+}

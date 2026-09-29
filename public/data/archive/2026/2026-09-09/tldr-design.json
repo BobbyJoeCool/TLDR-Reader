@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-09",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://9to5google.com/2026/09/04/gemini-minimize-bubble/?utm_source=tldrdesign",
+      "title": "Gemini overlay gets bubble minimization and multitasking on Android",
+      "summary": "Google is rolling out a new multitasking feature for the Gemini overlay on Android that lets users minimize conversations into a floating bubble for quick access while using other apps. The bubble can be repositioned to preset locations, although a bug currently resets it to the bottom-right corner after each use. The update makes it easier to continue conversations without reopening the Gemini app and is now widely available on Android."
+    },
+    {
+      "url": "https://cursor.com/blog/self-hosted-machines?utm_source=tldrdesign",
+      "title": "Run Cursor Cloud Agents on Machines You Manage",
+      "summary": "Cursor cloud agents can now run on self-hosted machines inside a team's own network, with a worker linking that infrastructure to Cursor's agent loop. Worker pools scale with queued demand, hibernate idle machines, and run across partners such as AWS Lambda, Cloudflare, Modal, and Vercel. Cloud agents already produce more than 60% of the pull requests Cursor merges internally, and Linux workers now support computer use alongside Macs."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/08/camera-app-in-ios-27-reportedly-includes-four-major-pro-photography-features/?utm_source=tldrdesign",
+      "title": "Camera app in iOS 27 reportedly includes four major pro photography features",
+      "summary": "Code discovered in the latest iOS 27 beta suggests Apple may bring advanced photography features to the Camera app, including exposure histograms, waveform monitors, focus peaking, zebra highlight warnings, and manual focus controls. The update could also add burst-style self-timer shots and image processing tailored for the rumored variable-aperture camera on the iPhone 18 Pro. If released, these features would significantly narrow the gap between Apple's built-in Camera app and professional third-party camera apps."
+    },
+    {
+      "url": "https://www.pipshea.net/manifesto?utm_source=tldrdesign",
+      "title": "The Critical Design Engineering Manifesto",
+      "summary": "A remix of the 2011 Critical Engineering Manifesto adapts its statements for Critical Design Engineers navigating agentic software tools. Eleven numbered statements set guardrails such as treating generated code as both capability and threat, designing seams instead of seamlessness, and recording the \"why\" behind decisions. The text lives as a versioned GitHub Gist under the GNU Free Documentation License, with an influence register crediting the thinkers behind each statement."
+    },
+    {
+      "url": "https://ixdf.org/literature/article/perceptual-issues-in-dynamic-interfaces?utm_source=tldrdesign",
+      "title": "Perceptual Issues in Dynamic Interfaces",
+      "summary": "Dynamic interfaces built with Ajax can change content without users ever noticing, because inattentional blindness, change blindness, and attentional gambling let even large updates slip past. In testing on a UK government site, users caught a content update but missed the menu expansion happening at the same time. Making changes bigger, brighter or animated, and placing feedback where users are already looking, keeps updates from going unseen."
+    },
+    {
+      "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca?utm_source=tldrdesign",
+      "title": "AI in Product teams: In 2026, the growing impact on collaboration",
+      "summary": "AI adoption in product teams is shifting from ad hoc experimentation to more structured, organization-wide strategies, although progress varies widely across companies. Research and examples from firms like Fin, Amplitude, and N26 suggest that clear governance, experimentation, and cross-functional collaboration deliver stronger productivity and teamwork benefits than simply encouraging AI use. At the same time, AI is blurring the boundaries between design, engineering, and product roles, creating both new opportunities and new challenges as companies work out how to adapt their culture, workflows, and responsibilities."
+    },
+    {
+      "url": "https://www.archyl.com/?utm_source=tldrdesign",
+      "title": "AI-Powered Architecture Documentation (Website)",
+      "summary": "Archyl maps every system, service, and dependency into an interactive C4 model, then keeps it in sync on every push."
+    },
+    {
+      "url": "https://www.fontself.app/?utm_source=tldrdesign",
+      "title": "Self-Hosted Google Fonts Configurator (Website)",
+      "summary": "Your site might be violating GDPR by loading fonts from Google's servers. Self-host them in minutes to keep performance fast and user data private."
+    },
+    {
+      "url": "https://particles.js.org/?utm_source=tldrdesign",
+      "title": "tsParticles: Powerful Particle Engine, Simple Developer Workflow (Website)",
+      "summary": "Ship interactive backgrounds, effects, and confetti on any framework. Start with a minimal setup, then scale to presets, plugins, and custom shapes."
+    },
+    {
+      "url": "https://designwanted.com/planetary-design-human-centered/?utm_source=tldrdesign",
+      "title": "What if Humans are No Longer at the Center of Design?",
+      "summary": "Planetary Design widens human-centered design to the social, technological, and ecological systems around users, with Kate Raworth's Doughnut Economics as its starting frame. TetraPOT, a wave breaker that shelters mangrove seedlings, and IDEO's pre-, mid-, and post-flight rituals show how artifacts can surface non-human stakeholders and trade-offs. A new University of Michigan course on Design for Longevity applies the lens at the Dexter Senior Center, mapping the ecosystem around older adults."
+    },
+    {
+      "url": "https://the-brandidentity.com/project/socio-designs-the-identity-for-modern-chemistry-a-boots-own-brand?utm_source=tldrdesign",
+      "title": "SOCIO designs the identity for Modern Chemistry, a Boots own brand",
+      "summary": "SOCIO created the identity for Boots' new Modern Chemistry range by drawing on the retailer's heritage in analytical chemistry while avoiding nostalgic design clichés, resulting in a clean, ingredient-focused brand aimed at younger, value-conscious consumers. The system features a bespoke logo inspired by laboratory tools, clear information hierarchy, and functional typography that emphasizes formulations over decorative scientific aesthetics. Built around the brand idea “Follow the Formula,” the identity encourages customers to build personalized skincare and supplement routines while reinforcing Boots' reputation for accessible, science-backed products."
+    },
+    {
+      "url": "https://www.designweek.co.uk/design-sector-outpaces-retail-to-become-136-7bn-pillar-of-uk-economy/?utm_source=tldrdesign",
+      "title": "Design sector outpaces retail to become £136.7bn pillar of UK economy",
+      "summary": "The UK design economy contributed £136.7 billion to the economy in 2023—5.5% of total gross value added (GVA)—growing nearly twice as fast as the broader economy and surpassing the retail sector, with most designers now working in industries such as healthcare, manufacturing, and finance rather than traditional design firms. Digital design remains the largest driver of growth and exports, while regional employment is expanding faster than London, reflecting design's growing role as a strategic business capability rather than a standalone creative discipline. Despite its strong performance, the report warns of declining participation in design education and persistent diversity gaps, calling for greater investment in skills, regional innovation, AI, and design-led economic policy."
+    },
+    {
+      "url": "https://measuringu.com/nine-design-fixes-for-your-ux-research-reports/?utm_source=tldrdesign",
+      "title": "Nine Design Fixes for Your UX Research Reports",
+      "summary": "The nine fixes cover structure, imagery, hierarchy, contrast, spacing, alignment, and templates."
+    },
+    {
+      "url": "https://www.itsnicethat.com/features/the-next-interface-google-gemini-event-partnership-010926?utm_source=tldrdesign",
+      "title": "The Next Interface: Learn How Google Gemini is Rethinking How We Design and Build for AI",
+      "summary": "The Next Interface is a free event at New York Live Arts focused on designing for AI."
+    }
+  ]
+}

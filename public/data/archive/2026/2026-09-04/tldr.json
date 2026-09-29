@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-09-04",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products / systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra?utm_source=tldrnewsletter",
+      "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
+      "summary": "OpenAI claims its newly released frontier model, GPT-6 Astra, likely marks the onset of artificial general intelligence. The promotional video OpenAI released for the model shows various OpenAI employees interacting with computer interfaces using Astra through voice. Astra is now rolling out to enterprise customers through OpenAI's gated access program, Daybreak. It will become available over the coming days to ChatGPT Plus, Pro, Business and Enterprise customers, as well as through the OpenAI API and cloud platforms, including AWS Bedrock and Microsoft Azure."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/03/business/tesla-cybercab-robotaxi-rides.html?unlocked_article_code=1.-lA.66qi.-mrNRjcPxWM5&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Tesla Begins Offering Rides in a Car Without a Steering Wheel",
+      "summary": "OpenAI has started offering rides in its Cybercab robotaxis. The two-seat vehicle has no steering wheel and is designed to transport passengers with no direct human intervention. Tesla is authorized to operate 314 vehicles in Texas to provide paid rides without a driver. Most of the vehicles are Model Y sport utility vehicles, but the fleet includes 45 Cybercabs."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/03/well/pig-kidney-bridge-transplant.html?unlocked_article_code=1.-lA.b-RW.rHV_VZhWk1pp&smid=url-share&utm_source=tldrnewsletter",
+      "title": "In a First, a Pig Kidney Kept a Patient Alive Until He Got a Human One",
+      "summary": "Tim Andrews' kidneys were destroyed from diabetes and high blood pressure two years ago. At 66, he had no energy or appetite and was too weak to walk. Andrews received a genetically modified pig kidney in January last year, and then lived with it for nine months. He then received a human donor kidney, providing early proof that pig kidneys, while not yet a permanent solution, offer a bridge to transplants with human organs."
+    },
+    {
+      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/?utm_source=tldrnewsletter",
+      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+      "summary": "Researchers led by Howard Hughes Medical Institute Janelia Research Campus have released a complete wiring diagram of the male fruit fly's brain and central nervous system. The map is the result of a decade-long partnership that advances the field of connectomics using computing and AI to build cellular-scale maps of entire brains. It is the largest brain map by number of neurons to date. The map is a fundamental resource for scientists who use fruit flies as a model organism for studying how the brain works."
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/?utm_source=tldrnewsletter",
+      "title": "Meta wanted to reduce teams by 60% because of AI",
+      "summary": "Two months ago, Meta laid off 10% of its staff and moved 20% to 30% of its engineers into AI training. This resulted in low morale and a string of embarrassing outages. The company had planned even larger layoffs, but those plans did not eventuate. This post looks at what the planned AI job cuts reveal about Meta, what CEO Mark Zuckerberg might have been thinking, and what the layoffs could mean for other tech companies."
+    },
+    {
+      "url": "https://ben3d.ca/blog/running-llms-in-the-browser-with-threejs?utm_source=tldrnewsletter",
+      "title": "Running LLMs in the Browser with Three.js",
+      "summary": "Three-LLM runs GPT-2, SmolLM2, Qwen, and Phi models locally in the browser by turning their inference graphs into Three.js TSL compute shaders on WebGPU. The project was created to see how far the general computer capabilities of Three.js and WebGPU can be pushed, and to see what today's small language models can do when they run in a browser. Three.js is known as a rendering library, but its WebGPU renderer also exposes storage buffers, compute dispatches, workgroup memory, atomics, and GPU readback. Large language models put all of those capabilities to work as they need hundreds of ordered compute dispatches, large matrix-vector products, reductions, persistent attention or recurrent state, and a tight loop between the GPU and JavaScript as each new token appears."
+    },
+    {
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation?utm_source=tldrnewsletter",
+      "title": "AI, tools, and transformation",
+      "summary": "It's tempting to believe that AI can turn everyone into a tool-builder. However, that line of thought misunderstands how most people think and where software comes from. Turning everyone into a builder isn't how companies should work. The hard part is knowing that you need a tool for a specific task in the first place, and then knowing what that tool should do."
+    },
+    {
+      "url": "https://frontierai.substack.com/p/llms-are-becoming-commodities-de1?utm_source=tldrnewsletter",
+      "title": "LLMs are becoming commodities",
+      "summary": "Model quality is no longer a clear differentiator. It's only a matter of time before open source catches up to the current state-of-the-art. Model providers must look elsewhere for differentiation. For many, this will mean finding a niche and moving away from the defaults."
+    },
+    {
+      "url": "https://tapoueh.org/blog/2026/09/getting-ready-for-postgresql-19/?utm_source=tldrnewsletter",
+      "title": "Getting Ready for PostgreSQL 19",
+      "summary": "PostgreSQL's usual September/October cadence means that general availability should land within the next few weeks."
+    },
+    {
+      "url": "https://buttondown.com/blog/software_over_email?utm_source=tldrnewsletter",
+      "title": "Email should be the universal interface for software",
+      "summary": "Email is just structured text wrapped up as a human-readable letter, complete with data to identify senders and recipients."
+    },
+    {
+      "url": "https://x.ai/news/designing-grok-bot?utm_source=tldrnewsletter",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "summary": "A look at how X.ai designed Grok Bot for agents that persist beyond a single session."
+    },
+    {
+      "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796?utm_source=tldrnewsletter",
+      "title": "Ozempic and Other GLP-1s Are Being Linked to Fewer Serious Infections—Including TB",
+      "summary": "Recent studies have suggested that GLP-1 drugs can reduce the occurrence or severity of certain infections, particularly among more vulnerable groups like people with type 2 diabetes."
+    },
+    {
+      "url": "https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai?utm_source=tldrnewsletter",
+      "title": "The Ads Model for Prompts Vertically Integrates AI",
+      "summary": "Meta's Muse Spark propels open source models from the US to the frontier, and its pricing system resets the industry's economics."
+    },
+    {
+      "url": "https://xusheng.dev/posts/reversing/zoom_my_notes_detector/main/?utm_source=tldrnewsletter",
+      "title": "How Zoom Detects Google Meet Without Microphone Access",
+      "summary": "Zoom uses macOS Control Center logs and Windows microphone privacy records to detect when other applications use the microphone."
+    }
+  ]
+}

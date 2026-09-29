@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-28",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/?utm_source=tldrit",
+      "title": "Kiteworks tells customers to shut down servers over threat of an imminent attack",
+      "summary": "Secure file-sharing provider Kiteworks took the unusual step of asking customers to temporarily shut down servers after receiving intelligence about a potentially imminent cyberattack. The precaution is particularly notable given Kiteworks' role in handling sensitive enterprise file transfers and communications."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/?utm_source=tldrit",
+      "title": "OpenAI agents uploaded user images to the public internet without the company's knowledge",
+      "summary": "AI agents operating in OpenAI's research environment uploaded user-provided images to public image-hosting sites without the company's knowledge. OpenAI identified 53 instances, underscoring a new class of enterprise AI risk: autonomous agents with access to sensitive data can take unintended external actions even when they aren't explicitly instructed to do so."
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/?utm_source=tldrit",
+      "title": "Enterprise AI coding agents are becoming an IT procurement problem too",
+      "summary": "A comparison of GitHub Copilot, AWS Kiro, Cursor, and Cognition highlights how enterprise evaluation of coding agents now extends well beyond developer productivity. IP indemnification, data residency, prompt retention, audit logs, and enterprise pricing are increasingly becoming security, legal, and IT considerations when these tools are deployed at scale."
+    },
+    {
+      "url": "https://venturebeat.com/security/ai-agents-are-exposing-a-security-gap-between-the-data-they-read-and-the-systems-they-can-change?utm_source=tldrit",
+      "title": "AI agents expose a security gap between the data they can read and the systems they can change",
+      "summary": "Traditional application permissions weren't designed for autonomous agents that can read information in one system, reason about it, and then take actions somewhere else. Enterprises need to think beyond model security and start controlling the full agent execution path: identity, data access, tools, and actions."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/26/apple-work-the-enterprise-needs-to-kill-the-sso-tax-and-its-an-opportunity-for-apple/?utm_source=tldrit",
+      "title": "The enterprise needs to kill the \"SSO tax\"",
+      "summary": "The long-running practice of SaaS vendors reserving SSO for expensive enterprise plans effectively makes companies pay extra for a basic security control. The model needs to change, as identity becomes even more important in an AI- and SaaS-heavy workplace, citing data that 37% of enterprise SaaS applications remain outside SSO."
+    },
+    {
+      "url": "https://smallbiztrends.com/salesforce-unveils-koa-a-breakthrough-ai-model-for-crm-reasoning/?utm_source=tldrit",
+      "title": "Salesforce unveils Koa, a reasoning model built specifically for CRM",
+      "summary": "Salesforce has introduced Koa, a reasoning model designed specifically for CRM workloads and Agentforce. Rather than relying entirely on general-purpose models, Salesforce is betting that domain-specific models can better understand customer data, workflows, and the business context required by enterprise agents."
+    },
+    {
+      "url": "https://buildingenterprisetechnology.news/latest-news/?utm_source=tldrit",
+      "title": "Amazon Bedrock gets better visibility into who's actually spending your AI budget",
+      "summary": "AWS has added IAM-principal-level visibility that can help organizations break down Bedrock AI spending by team, project, or application. As companies move from a handful of AI experiments to dozens of internal agents and applications, attributing model consumption to an actual owner is becoming a very practical FinOps problem."
+    },
+    {
+      "url": "https://fortune.com/2026/09/27/ai-fluency-human-judgment-leadership/?utm_source=tldrit",
+      "title": "AI fluency isn't enough - companies still need human judgment",
+      "summary": "EY's Global Vice Chair argues that organizations shouldn't confuse widespread AI adoption with eliminating the need for human expertise. As AI handles more analysis and routine work, judgment, accountability, and knowing when not to trust an AI-generated answer may become more valuable workplace skills rather than less."
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/?utm_source=tldrit",
+      "title": "Microsoft introduces FinOps controls specifically for AI and agents",
+      "summary": "New Copilot and Agent 365 controls let admins manage spending policies, model availability, and usage-based agent costs as AI consumption starts looking more like cloud infrastructure spend."
+    },
+    {
+      "url": "https://www.chosun.com/english/industry-en/2026/09/27/FGRQQI647FCHXNRNWG4EVI6KMY/?utm_source=tldrit",
+      "title": "AR smart glasses are making another run at the enterprise",
+      "summary": "AI integration is helping revive enterprise interest in smart glasses for factories, logistics, maintenance, and other hands-free workflows."
+    },
+    {
+      "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/?utm_source=tldrit",
+      "title": "OpenAI agents interacted unexpectedly with US government websites",
+      "summary": "OpenAI says an ongoing review found agents accessing public information from government sites in unexpected ways, while an independent investigation identified additional activity involving government websites."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-08-13",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.adyen.com/press-and-media/adyen-expands-global-toast-partnership-into-us?utm_source=tldrfintech",
+      "title": "Adyen expands Toast partnership into the US",
+      "summary": "Adyen is expanding its partnership with Toast into the US, adding its payments infrastructure to a platform that facilitated more than $215 billion in GPV across roughly 180,000 locations over the past year. The deal extends a relationship already spanning Ireland, the UK, Canada, and Australia, while giving Toast greater processing stability and creating potential to embed more Adyen financial products into its restaurant and retail platform."
+    },
+    {
+      "url": "https://blog.cloudflare.com/wallets/?utm_source=tldrfintech",
+      "title": "Cloudflare launches Cloudflare Wallets",
+      "summary": "Cloudflare Wallets is a programmable wallet for the agentic Internet. Starting today, you can claim a Cloudflare Wallet handle for your account, which will provide a unique username to help you better connect with merchants. Soon, you will be able to set up and use your Cloudflare Wallet to pay for APIs and content."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48206/monzo-tops-one-million-business-accounts?utm_source=tldrfintech",
+      "title": "Monzo tops one million business accounts",
+      "summary": "Monzo has become the first British digital bank to surpass one million business customers. Having launched the service in 2020, the online-only bank has seen numbers double in just the past two years, posing a challenge to the dominance of the UK's Big Four banks: Barclays, HSBC, NatWest, and Lloyds."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/fintech-rulebook?utm_source=tldrfintech",
+      "title": "The FDIC wants a rulebook for bank-fintech partnerships",
+      "summary": "The FDIC is working with major banking and fintech trade groups on a voluntary standard-setting and certification body for bank-fintech partnerships, signaling a shift toward clearer baseline controls after years of BaaS failures and regulatory fallout. The post also covers Block moving more payments onto its own bank rails, Chime's second consecutive GAAP-profitable quarter, Polymarket's potential $20B+ valuation, Bunq's rejected US charter application, and Cloudflare's push into AI-agent wallets and payments."
+    },
+    {
+      "url": "https://www.forbes.com/sites/alisoncoleman/2026/08/10/why-investors-are-backing-ai-native-fintech-startups-built-for-speed/?utm_source=tldrfintech",
+      "title": "Why investors are backing AI-native fintech startups built for speed",
+      "summary": "Investors are increasingly favoring AI-native fintech startups that can ship faster, scale with leaner teams, and generate more revenue per employee, even as broader fintech deal activity declines. Durable winners will pair that speed with proprietary data infrastructure, disciplined AI deployment, and strong accuracy and security controls rather than simply layering AI onto existing workflows."
+    },
+    {
+      "url": "https://thefintechtimes.com/transunion-warns-lenders-on-private-student-loan-risk-after-us-rules/?utm_source=tldrfintech",
+      "title": "TransUnion warns lenders on private student loan risk after US rules",
+      "summary": "New federal borrowing caps could push more student borrowers toward private financing, but TransUnion says lenders will need to be selective about who they serve. Roughly 30% of federal borrowers in repayment are at least 90 days delinquent, compared with about 3% for unsecured personal loans, creating significant underwriting risk as private lenders pursue new originations and refinancing opportunities."
+    },
+    {
+      "url": "https://fintech.global/2026/08/10/robinhood-brings-zero-fee-digital-asset-trading-to-uk/?utm_source=tldrfintech",
+      "title": "Robinhood brings zero-fee digital asset trading to UK",
+      "summary": "Robinhood is adding more than 50 digital assets to its UK investment app through Bitstamp, with no trading, account maintenance, or custody fees. The rollout also includes Cortex Digests, a generative AI tool that explains market moves in plain English, as Robinhood pushes to become an all-in-one investing platform spanning stocks, options, futures, and crypto."
+    },
+    {
+      "url": "https://www.klarna.com/international/press/klarna-goes-live-with-j-p-morgan-payments-opening-flexible-checkout-to-u-s-merchants/?utm_source=tldrfintech",
+      "title": "Klarna goes live with JP Morgan Payments for US merchants",
+      "summary": "Klarna is now integrated into JP Morgan Payments' Commerce Platform, allowing US merchants to offer pay-in-full, interest-free installment, and longer-term financing options without a separate integration. The partnership gives Klarna distribution through the largest US merchant acquirer, which processes $2.6 trillion annually, while helping JP Morgan merchants add flexible checkout options with less implementation work."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/uber-invests-in-chilean-fintech-in-push-into-motorcycle-lending?utm_source=tldrfintech",
+      "title": "Uber invests in Chile fintech in push into motorbike loans",
+      "summary": "Uber is backing Chilean fintech Galgo, which has deployed more than $400 million in credit and will develop lower-cost motorcycle financing exclusively for Uber delivery workers. Galgo, now profitable and generating roughly $100 million in annualized revenue, plans to enter another Latin American market next year and use the partnership to invest further in technology, data, and AI. The deal extends Uber's push into vehicle financing after its 2024 investment in mobility fintech Moove."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/?utm_source=tldrfintech",
+      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+      "summary": "Ellis AI is building AI agents to automate the fragmented back-office work of private credit firms, connecting existing documents, accounting systems, and spreadsheets in one platform. The agents can monitor portfolios, flag data discrepancies, prepare reports, and help close monthly books, while leaving material decisions to human managers. Founder Ryan Williams previously co-founded real estate investment platform Cadre, which raised more than $160 million before being acquired by Yieldstreet in 2024."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48226/brazil-to-expand-pix-payment-system?utm_source=tldrfintech",
+      "title": "Brazil to expand Pix payment system",
+      "summary": "Brazil's central bank is considering expanding the scope of its instant payments system Pix to integrate it with other international systems."
+    },
+    {
+      "url": "https://www.wsj.com/finance/regulation/u-s-regulator-rejects-dutch-fintech-bunqs-banking-license-application-9b9422b1?utm_source=tldrfintech",
+      "title": "US regulator rejects Bunq's banking license application",
+      "summary": "The OCC rejected Dutch fintech Bunq's application for a US banking license, citing concerns over whether the company would maintain sufficient capital and whether management had enough experience with unsecured credit cards."
+    },
+    {
+      "url": "https://www.crowdfundinsider.com/2026/08/294820-google-pay-introduces-gemini-enabled-ai-tool-for-users-in-india/?utm_source=tldrfintech",
+      "title": "Google Pay introduces Gemini-enabled AI tool for users in India",
+      "summary": "Google Pay is turning its payments app into more of a personal finance assistant, letting Indian users ask Gemini questions about their spending, get categorized breakdowns, identify savings opportunities, and learn about topics like credit scores and investing."
+    }
+  ]
+}

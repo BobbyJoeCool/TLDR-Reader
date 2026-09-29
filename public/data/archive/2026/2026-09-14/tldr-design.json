@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-14",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://9to5mac.com/2026/09/11/whatsapp-rolling-out-redesigned-ipad-interface-with-mac-like-sidebar/?utm_source=tldrdesign",
+      "title": "WhatsApp rolling out redesigned iPad interface with Mac-like sidebar",
+      "summary": "WhatsApp is expanding its Liquid Glass redesign for iPad with a new Mac-style sidebar that replaces the bottom tab bar, offering quicker access to chats, calls, communities, Meta AI, and other sections. Users can hide the sidebar for a larger conversation view, creating a more tablet-friendly experience, and the update is gradually rolling out to beta testers and some users on the stable App Store version."
+    },
+    {
+      "url": "https://creativecow.net/generate-and-create-directly-in-your-timeline-with-new-ai-powered-innovations-in-premiere-and-after-effects/?utm_source=tldrdesign",
+      "title": "Premiere Adds AI Media Generation",
+      "summary": "Premiere's new Generative Media tool lets editors fill timeline gaps with AI-generated video and sound effects without leaving the project. Editors can pick among models like Adobe Firefly, Google Veo, Runway, Luma, and Kling, while beta tools add music and soundscape generation, speaker separation, and an After Effects AI Assistant."
+    },
+    {
+      "url": "https://webdesignerdepot.com/firefox-is-getting-its-biggest-redesign-in-years-then-mozilla-got-cold-feet/?utm_source=tldrdesign",
+      "title": "Firefox is Getting its Biggest Redesign in Years. Then Mozilla Got Cold Feet",
+      "summary": "Firefox 157 brings Project Nova's warmer colors, softer tabs, refreshed icons, and rounded corners across desktop and mobile. Early designs had floating toolbars, chrome-to-page gaps and pastel gradients, but complaints about wasted space pushed Mozilla to soften the rounding and restore Compact Mode. Public testing and listening to what users hated counts as good UX, even as the rounded, gradient-heavy look risks modernizing Firefox into sameness."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/?utm_source=tldrdesign",
+      "title": "The Death of the Button: Why the Best Interface is No Interface",
+      "summary": "A new wave of \"Intent-Driven Design\" replaces multi-step point-and-click interfaces with tools that capture a user's goal and execute the steps invisibly. Perplexity AI synthesizes answers instead of ten blue links, Vercel v0 generates full interfaces from a text prompt, and Goblin.tools breaks overwhelming tasks into checklists. This shift rests on contextual goals, generative UI, and agent execution, but risks a loss of control and opaque \"black box\" decisions needing transparent feedback."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=tldrdesign",
+      "title": "Test Complex Interactions Earlier with AI Prototyping",
+      "summary": "AI prototyping tools make it possible to quickly create realistic, interactive prototypes for complex interfaces—such as dashboards, filters, and conversational AI—allowing teams to test real user behavior and uncover edge cases much earlier in the design process. While AI dramatically speeds up execution, designers must still define the interaction, provide clear guidance, and critically review the results, as polished prototypes are not production-ready simply because they look complete."
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/the-iphone-duo-gives-ios-room-to-breathe-and-its-a-whole-new-experience/?utm_source=tldrdesign",
+      "title": "The iPhone Duo gives iOS room to breathe, and it's a whole new experience",
+      "summary": "Apple's iPhone Duo introduces a foldable-optimized version of iOS 27 with redesigned navigation, seamless transitions between its two displays, Split View multitasking, flexible foldable modes, dual-screen camera features, and upcoming Apple Pencil support. While many ideas borrow from existing foldables, Apple's strength lies in refining the software experience, making the Duo feel like a cohesive blend of iPhone and iPad rather than simply a folding phone."
+    },
+    {
+      "url": "https://adscope.live/?utm_source=tldrdesign",
+      "title": "Ad Reporting for Meta and Google (Website)",
+      "summary": "AdScope pulls Meta and Google Ads into a dashboard simple enough to read on your phone. What you spent, what it got you, and every live Meta ad sitting right next to its own numbers."
+    },
+    {
+      "url": "https://www.mockmagic.com/?utm_source=tldrdesign",
+      "title": "Device Mockup Generator for Images and Video (Website)",
+      "summary": "Upload your screenshot or screen recording, pick a device frame, and export in seconds."
+    },
+    {
+      "url": "https://opensourceui.in/?utm_source=tldrdesign",
+      "title": "Free, Open-Source, Production-Ready Components for React & Next.js (Website)",
+      "summary": "Opensource UI is a free, MIT-licensed copy-paste library of 200+ production-ready React and Next.js components."
+    },
+    {
+      "url": "https://medium.com/user-experience-design-1/a-short-history-of-logos-made-of-data-bd6a89e732ce?utm_source=tldrdesign",
+      "title": "A short history of logos made of data",
+      "summary": "Logos that embed real data—not just symbolic references—have existed for over a century, from transit maps and scientific diagrams to charts, weather-driven identities, and geographic forms, creating visual identities that change or derive directly from meaningful information. While these logos often require explanation to reveal their deeper meaning, they represent a distinct category of branding where data actively shapes the design rather than simply inspiring it."
+    },
+    {
+      "url": "https://www.creativeboom.com/insight/kent-wood-on-motion-design/?utm_source=tldrdesign",
+      "title": "How Kent Wood pivoted to motion design at 30, and what he's learned so far",
+      "summary": "Motion designer Kent Wood left a struggling wholesale business, moved from the Caribbean to the UK, and launched Kwoo Studio, specializing in motion identity systems that bring static brands to life. By openly sharing his career transition and work online, he has built a network, attracted new opportunities, and encouraged other creatives to embrace change and use their online presence as a digital business card."
+    },
+    {
+      "url": "https://ibelick.com/anatomy-ai-input?utm_source=tldrdesign",
+      "title": "Anatomy of AI Input",
+      "summary": "Today's AI input has evolved far beyond the plain textbox and send button ChatGPT shipped in 2022, now layering auto-growing text, context bars, and file uploads. Controls like model selectors, tool triggers, and an assist layer of ghost text or suggestions should stay discreet and keyboard-accessible without overwhelming the field. Across idle, loading, streaming, and error states, the input must remain typable and never lock up, letting users edit or stop a response at any time."
+    },
+    {
+      "url": "https://www.wallpaper.com/travel/best-cabin-stays?utm_source=tldrdesign",
+      "title": "The Best Bookable Cabins around the World for Design Lovers",
+      "summary": "Ten handpicked cabin stays for design lovers range from a midcentury home in California's Sea Ranch to an off-grid red hut in the Irish countryside."
+    },
+    {
+      "url": "https://pangrampangram.com/blogs/journal/optical-vs-mathematical-alignment?utm_source=tldrdesign",
+      "title": "Optical vs. Mathematical Alignment",
+      "summary": "Software places objects with mathematical precision, but the eye often disagrees, since curved letters like \"O\" look smaller than flat-sided ones like \"H\" in identical boxes."
+    },
+    {
+      "url": "https://blog.mastykarz.nl/your-product-didnt-get-worse/?utm_source=tldrdesign",
+      "title": "Your Product Didn't Get Worse",
+      "summary": "A product's quality can stay the same yet start to feel tedious once customers get used to handling tasks, like submitting expenses, through AI agents elsewhere."
+    }
+  ]
+}

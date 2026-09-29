@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-04",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/?utm_source=tldrit",
+      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+      "summary": "Teams and New Outlook can crash or fail to launch on ARM-based Windows 11 devices after recent security updates, particularly on newly imaged machines missing Microsoft Store updates. Microsoft recommends updating the Auto Super Resolution Package as a temporary workaround while it prepares a permanent fix."
+    },
+    {
+      "url": "https://www.salesforce.com/news/stories/salesforce-simplifies-editions-2026/?utm_source=tldrit",
+      "title": "Salesforce simplifies its editions by bundling Slack, security, AI, and analytics",
+      "summary": "Salesforce has introduced new Core, Advanced, and Max editions that package Agentforce, Slack, Tableau Next, security capabilities, and support into fewer SKUs. The move reflects a broader push by SaaS vendors to consolidate products into larger platform bundles rather than selling each capability separately."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/?utm_source=tldrit",
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "summary": "Enterprise buyers are treating AI software very differently from traditional SaaS: 77% of companies surveyed by Madrona re-evaluate AI vendors every six months or continuously. That creates a “fast in, fast out” buying model where even landing an enterprise contract may no longer translate into durable recurring revenue."
+    },
+    {
+      "url": "https://www.cio.com/article/4217619/why-data-sovereignty-has-become-a-strategic-it-priority.html?utm_source=tldrit",
+      "title": "Why data sovereignty has become a strategic IT priority",
+      "summary": "Data sovereignty is becoming less about simply knowing which region hosts your data and more about retaining control when vendors, regulations, infrastructure, or geopolitical conditions change. Portability, operational independence, and avoiding concentration risk should increasingly factor into architecture and vendor decisions."
+    },
+    {
+      "url": "https://www.battery.com/blog/defying-gravity-the-system-of-record-in-the-age-of-ai/?utm_source=tldrit",
+      "title": "Defying Gravity: The System of Record in the Age of AI",
+      "summary": "AI is creating a new opportunity for startups to build systems of record rather than merely lightweight systems of action. AI agents require integrated, high-quality domain data, so businesses may replace entrenched software systems, increasing market turnover and expanding software vendors' potential from seat-based revenue to automated labor and outcomes."
+    },
+    {
+      "url": "https://jfrog.com/blog/the-evolution-of-jfrog-ai-catalog/?utm_source=tldrit",
+      "title": "The Evolution of JFrog AI Catalog: Your AI Control Plane for Agentic Development",
+      "summary": "JFrog says its AI Catalog has evolved from a secure model registry into an AI control plane for governing models, MCP servers, skills, plugins, and agent packages. The company presents semantic scanning, shadow AI detection, governed registries, and runtime Agent Guard enforcement as measures to prevent agents from consuming unapproved or malicious assets across the Agentic Development Lifecycle."
+    },
+    {
+      "url": "https://itbrief.com.au/story/okta-launches-auth0-tools-for-ai-agents-b2b-logins?utm_source=tldrit",
+      "title": "Okta launches Auth0 tools for AI agents & B2B logins",
+      "summary": "Okta has introduced new Auth0 capabilities for authenticating AI agents, agent-led commerce, and enterprise B2B identity. The launch also includes B2B Connect, which lets SaaS providers add enterprise SSO, federation, and multi-tenant identity capabilities without replacing their existing identity infrastructure."
+    },
+    {
+      "url": "https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph?utm_source=tldrit",
+      "title": "How NASA is Using Graph Technology and LLMs to Build a People Knowledge Graph",
+      "summary": "NASA's People Analytics team built a People Knowledge Graph with Memgraph, large language models, and secure AWS infrastructure to connect employees, skills, projects, and organizational data. The system supports expert discovery, project similarity analysis, workforce insights, and a GraphRAG chatbot, while remaining under development as NASA works to improve data quality, automation, and scale."
+    },
+    {
+      "url": "https://www.cio.com/article/4215442/when-ais-human-in-the-loop-really-isnt.html?utm_source=tldrit",
+      "title": "When AI's human in the loop really isn't",
+      "summary": "Many organizations claim to have human oversight of AI when reviewers can observe or flag decisions but cannot actually stop or override them. Effective human-in-the-loop controls require the right expertise, context, and authority, and need to be tested like any other operational control."
+    },
+    {
+      "url": "https://www.cio.com/article/4218403/chatgpt-claude-and-grok-all-went-down-at-once-enterprises-need-a-backup-plan-2.html?utm_source=tldrit",
+      "title": "ChatGPT, Claude, and Grok all went down at once; enterprises need a backup plan",
+      "summary": "ChatGPT, Claude, and Grok experienced overlapping multi-hour outages on Thursday, exposing a growing business-continuity problem as companies automate more workflows around AI services. IT teams may need to treat AI providers like other critical infrastructure, with fallback models, documented manual workflows, and outage planning."
+    },
+    {
+      "url": "https://rootly.com/changelog/related-incidents-detected-automatically?utm_source=tldrit",
+      "title": "Rootly automatically surfaces related past incidents in Slack",
+      "summary": "Rootly's agent can now automatically post up to three relevant historical incidents into an active Slack incident channel, including why they match, severity, resolution time, and links to the previous incident."
+    },
+    {
+      "url": "https://windowsreport.com/microsoft-gives-admins-until-2027-to-move-teams-to-its-new-domain/?utm_source=tldrit",
+      "title": "Microsoft Teams is moving to teams.cloud.microsoft",
+      "summary": "Microsoft is redirecting Teams web users to teams.cloud.microsoft, with admins advised to ensure the new domain is allowed through proxies, firewalls, and other network controls."
+    }
+  ]
+}

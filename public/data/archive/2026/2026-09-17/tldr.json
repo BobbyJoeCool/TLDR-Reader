@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-09-17",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/?utm_source=tldrnewsletter",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "summary": "Apple is working on an AI server powered by its M-series Ultra chips. It is expected to be released in 2029. The enterprise server will come with either two or four M8 Ultra chips. The project, which received support from John Ternus when it began a year ago, back when Ternus led Apple's hardware engineering efforts, will be Apple's first server to hit the market in nearly two decades."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYxNTA0OCwiZXhwIjoxNzkwMjE5ODQ4LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.2G2BTeaml3btAnI1PjgbUYcOyVKEWcBmTaGt5Q4lux4&utm_source=tldrnewsletter",
+      "title": "Snap Tries to Sell Consumers on the Idea of $2,195 Smart Glasses",
+      "summary": "Snap's forthcoming Specs augmented reality glasses will launch later this year at $2,195. People will be able to try the glasses at select Verizon stores and purchase custom wireless data plans for them. There will be a higher-priced version at $2,395 that includes a carrying case with built-in cellular data connectivity."
+    },
+    {
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics?utm_source=tldrnewsletter",
+      "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
+      "summary": "Researchers have developed a technique for installing millions of human brain cells into mice. The scientists bred mice that were missing most of their cerebral cortexes and then replaced a large part of those missing mouse cells with lab-grown human brain cells. This resulted in mice with human neurons that could be altered to approximate human brain conditions. The technique could potentially create better scientific models for studying neurodegenerative disease."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html?unlocked_article_code=1.B1E.pNx0.2jBUgG5HQfZL&smid=url-share&utm_source=tldrnewsletter",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning' AI Behavior",
+      "summary": "OpenAI has revealed several more incidents involving its AI systems as part of its new framework for reporting misalignment. The company's AI systems hid mistakes, made up data, and moved miles onto the open internet without permission. The industry is currently in heated discussions about whether AI development needs to be slowed to address the technology's potential dangers. AI leaders have called for a pause in the technology's development to provide more time to build proper guardrails."
+    },
+    {
+      "url": "https://support.google.com/googlehome/thread/467705013/introducing-home-mcp-enabling-your-agent-to-interact-with-your-home?utm_source=tldrnewsletter",
+      "title": "Introducing Home MCP: enabling your agent to interact with your home",
+      "summary": "Google has opened early access to Model Context Protocol for Google Home in English for Google Home Premium Advanced users in the US. Any agent that supports calling MCP tools can now interact with all of the devices and event history in the Google Home ecosystem. The MCP allows agents to analyze and answer questions about home activity, summarize camera footage across rooms, manage devices, and create smart home dashboards using everyday language. It contains safety protections, such as prohibiting sensitive actions like unlocking doors, but depending on the agent, using the MCP can result in unexpected or even undesired behavior."
+    },
+    {
+      "url": "https://rohanbansal.com/qorl?utm_source=tldrnewsletter",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "summary": "Query optimizers continue to leave much to be desired despite an enormous body of research. A Postgres database should know everything about the stuff that lives in its tables, but the problem is enormously hard. What's not as hard is verifying whether a query plan an optimizer picks is good or not. Language models are particularly good at learning how to do tasks with easily verifiable outputs. A small, open-weights model can be post-trained via supervised fine-tuning and agentic reinforcement learning to produce Postgres query plans that beat Postgres' default plans."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html?unlocked_article_code=1.B1E.Neti.V5qVxDTOnyfj&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Judge Orders Data Sharing and Other Fixes to Solve Google's Ad Tech Monopoly",
+      "summary": "While Google isn't required to break up its ad tech business, judges have mandated changes to the company's practices. The changes largely align with recommendations made by Google and the Justice Department to correct the company's monopolistic behavior. Google will make its ad pricing more transparent to marketers and rival ad businesses, and appoint a trustee to oversee the changes."
+    },
+    {
+      "url": "https://blog.ptidej.net/read-the-history-not-just-the-code/?utm_source=tldrnewsletter",
+      "title": "Read the History, Not Just the Code",
+      "summary": "Code can't explain things like the history can. You can't understand a codebase from its current state alone. AI models have no commit history. Nobody wrote down why it does things, so researchers have to reconstruct its thought processes from whatever traces are available."
+    },
+    {
+      "url": "https://scottaaronson.blog/?p=10062&amp;utm_source=tldrnewsletter",
+      "title": "The Age of Wonders and Terrors",
+      "summary": "AI is permanently changing the way mathematical research is done."
+    },
+    {
+      "url": "https://planetscale.com/blog/introducing-tin?utm_source=tldrnewsletter",
+      "title": "Introducing TIN: full-text search for Postgres",
+      "summary": "TIN (Text INdex) is a fast, full-featured, and reliable full-text search extension for Postgres."
+    },
+    {
+      "url": "https://spyglass.org/metas-amusing-muse/?utm_source=tldrnewsletter",
+      "title": "Meta's Amusing Muse",
+      "summary": "Meta's Muse is impressive, but there aren't that many companies with a worse tech brand when it comes to user trust."
+    },
+    {
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html?utm_source=tldrnewsletter",
+      "title": "What Regulatory Capture Actually Looks Like",
+      "summary": "Regulatory capture is when the government slowly gains more and more power to regulate an industry and eventually becomes the industry's protector."
+    },
+    {
+      "url": "https://davefriedman.substack.com/p/ai-labs-want-compute-commitments?utm_source=tldrnewsletter",
+      "title": "AI Labs Want Compute Commitments, and Their Customers Want Model Choice",
+      "summary": "Filings describe hyperscaler contracts but reveal little about private labs' customer agreements."
+    },
+    {
+      "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?st=7jVzW1&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "How a Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
+      "summary": "A look into the interconnected network of Chinese hacking-for-hire companies that steal and analyze confidential information and sell it to Chinese authorities."
+    }
+  ]
+}
