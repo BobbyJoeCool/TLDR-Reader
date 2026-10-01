@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-10-01",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://hackernoon.com/rebuilding-data-engineering-with-harness-engineering-a-new-paradigm-for-the-agent-era?utm_source=tldrdata",
+      "title": "Rebuilding Data Engineering with Harness Engineering: A New Paradigm for the Agent Era",
+      "summary": "Data platforms are shifting from human-operated tooling to agent-ready infrastructure, where the core challenge is not generating SQL or pipelines but safely turning AI-generated work into production outcomes. The proposed stack centers on five layers: Intent, Control, Semantic, Harness, and Runtime. For data teams, the implication is a move from building scripts and DAGs to designing reusable Skills, Policies, and context-rich execution loops that make automation trustworthy."
+    },
+    {
+      "url": "https://now-next.nl/en/insights/row-level-security-performance-postgresql/?utm_source=tldrdata",
+      "title": "Row-level security performance in PostgreSQL, measured",
+      "summary": "PostgreSQL row-level security can be effectively free when the policy is a simple indexed tenant check, but poorly structured policies can turn sub-millisecond queries into tens of milliseconds or even seconds. The main traps are per-row membership lookups, VOLATILE helper functions, and non-leakproof query functions that stop PostgreSQL from using the full index."
+    },
+    {
+      "url": "https://www.streamingdata.tech/p/improving-cost-efficiency-of-data-streaming-pipelines?utm_source=tldrdata",
+      "title": "Improving Cost Efficiency of Data Streaming Pipelines",
+      "summary": "Streaming platforms get expensive for structural reasons, not data volume: request counts, extra copies of each message, serialization, and cross-AZ traffic often dominate the bill. Practical wins include batching producers and consumers, eliminating intermediate topics, using columnar payloads and compression, paying for low latency only where workloads truly need it, designing state deliberately, and keeping cost attribution visible per pipeline."
+    },
+    {
+      "url": "https://www.lkranz.com/blog/semantics-of-semantic-layers?utm_source=tldrdata",
+      "title": "Can Your LLM Vibe Code Your Semantic Layer?",
+      "summary": "A strong semantic layer can dramatically improve LLM analytics accuracy, with the best model-built layer reaching 91% versus 39% with no layer. The main failure mode was not metric arithmetic but hidden business conventions like which accounts count as customers, showing that semantic layers still need explicit human-defined rules and validation."
+    },
+    {
+      "url": "https://practicaldatamodeling.substack.com/p/the-five-camps-of-data-modeling-and?utm_source=tldrdata",
+      "title": "The Five Camps of Data Modeling (and Which One You're Stuck In)",
+      "summary": "Data modeling grew up in five separate camps: relational, analytics, application, ML/AI, and knowledge/ontology, each solving different problems with real blind spots. One JSON product catalog can satisfy an application while breaking analytics, ML, and governance, producing brittle pipelines and lost dashboard trust. Modern stacks span all five camps at once, so shared literacy across them matters more than any single modeling tradition."
+    },
+    {
+      "url": "https://turbopuffer.com/blog/rip-vector-database?utm_source=tldrdata",
+      "title": "RIP, vector database",
+      "summary": "turbopuffer v3 stops using the ANN vector index as the primary storage layout. That should reduce duplicated data and expensive rewrites, while letting full-text, filtering, aggregations, and vector search each use storage and block sizes better suited to their workload."
+    },
+    {
+      "url": "https://planetscale.com/blog/hot-shards-hotter-tenants?utm_source=tldrdata",
+      "title": "Handling hot shards",
+      "summary": "Sharding by tenant ID works until a large tenant makes one shard run hot, as Slack learned when enterprise workspaces overwhelmed workspace-keyed shards. The fixes range from vertical scaling to isolating whale tenants on dedicated shards and ultimately resharding tables by the column queries actually touch. Choosing keys per table rather than globally keeps common access paths single-shard while spreading load."
+    },
+    {
+      "url": "https://duckdb.org/2026/09/28/announcing-duckdb-156?utm_source=tldrdata",
+      "title": "Announcing DuckDB 1.5.6",
+      "summary": "DuckDB 1.5.6 is a maintenance release with correctness, crash, security, and performance fixes. DuckDB 2.0 is in development, with an internal Windows TPC-H test running over 6x faster than 1.5.6, though DuckDB says that speedup will not generalize to every workload."
+    },
+    {
+      "url": "https://github.com/cfahlgren1/parquet-xray?utm_source=tldrdata",
+      "title": "Parquet X-ray (GitHub Repo)",
+      "summary": "Parquet X-ray is a browser-based visual inspector for understanding how a Parquet file is physically laid out. You can open a local file or remote URL and explore row groups, column chunks, pages, indexes, bloom filters, schema, min/max statistics, compression efficiency, and byte-level layout without downloading the whole file. You can test it out via Hugging Face."
+    },
+    {
+      "url": "https://moj-analytical-services.github.io/splink/blog/2026/09/28/splink-500-released.html?utm_source=tldrdata",
+      "title": "Splink 5: Probabilistic record linkage at billion-row scale",
+      "summary": "Splink, an open-source library for record linkage and deduplication, scales probabilistic record linkage to billion-row jobs: a prediction job ran 10 billion comparisons in 8.5 minutes on a 192-vCPU instance using the upcoming DuckDB 2.0 engine. The tool supports chunked sampling to speed up model training or distribute processing and incremental prediction APIs to link new records without full re-runs."
+    },
+    {
+      "url": "https://arize.com/blog/anthropic-says-it-fixed-claudes-writing/?utm_source=tldrdata",
+      "title": "Anthropic says it fixed Claude's writing. I ran the evals to check",
+      "summary": "Anthropic's writing changes in Opus 5.5 appear to work partly: em dashes fell by 99.6% and other recognizable “Claudisms” fell about 50% versus Opus 5. The bigger lesson is methodological: style evals work better when you annotate exact problematic spans and judge recurring rhetorical moves, not just banned phrases or vague overall scores."
+    },
+    {
+      "url": "https://thegresqlpost.org/articles/a-hint-of-dependence/?utm_source=tldrdata",
+      "title": "A Hint of Dependence",
+      "summary": "Query hints solve bad plans by hard-coding execution choices into SQL, which creates brittle coupling to indexes and data shape. A better approach is to keep plan control outside the query and improve the planner's information with tools like plan management and CREATE STATISTICS, so it can adapt as the data changes."
+    },
+    {
+      "url": "https://blog.dbtrail.com/introducing-mysql-analytical-replica/?utm_source=tldrdata",
+      "title": "Introducing the MySQL Analytical Replica (Parquet + DuckDB)",
+      "summary": "DBTrail is an open-source analytical replica for MySQL: it reads the binlog, keeps tables as Parquet in a bucket you own, and queries them with DuckDB."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/marcfdupuis_were-officially-recommending-an-openai-model-share-7510794731698855936-Kt6Z?utm_source=tldrdata",
+      "title": "We're officially recommending an OpenAI model as the default model family for Omni customers",
+      "summary": "Omni benchmarked 16 OpenAI and Anthropic model configurations and is making GPT-6 Sol its default after it scored 92% on its hardest analytics eval at $0.23 per question."
+    }
+  ]
+}

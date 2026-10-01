@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-01",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://buf.build/blog/grpc-vs-rest-is-the-wrong-question?utm_source=tldrdev",
+      "title": "gRPC vs REST Is the Wrong Question",
+      "summary": "Connect lets browsers and gRPC clients call the same service without a separate gateway, using HTTP and JSON or binary Protobuf on one port. It preserves schema-driven clients, streaming, ordinary HTTP status codes, and curl-friendly requests while keeping gRPC compatibility."
+    },
+    {
+      "url": "https://blog.curiosity.ai/blog/2026-09-design-language-in-three-days?utm_source=tldrdev",
+      "title": "How We Rebuilt Our Design Language in Three Days with AI",
+      "summary": "A small team used tightly specified briefs and coding agents to rebuild a 67-page site across 22 visual directions, then turned the strongest ideas into one design system. The process worked because content stayed fixed, rules were numerical, real pages were reviewed, automated checks were themselves verified, and losing experiments were deleted."
+    },
+    {
+      "url": "https://x.com/yashhsm/status/2105380670688346335?utm_source=tldrdev",
+      "title": "Why Instinct Feels Magical",
+      "summary": "A reverse engineering tour attributes Instinct's appeal to a single conversational thread, delegated task agents, file-based memory, computer use, and quiet background automation. iMessage/WhatsApp distribution, Instinct's easy-to-understand personality, and proactive execution make the underlying agent harness feel accessible to nontechnical users."
+    },
+    {
+      "url": "https://matthenry.fyi/posts/a-system-is-what-it-does/?utm_source=tldrdev",
+      "title": "A Design System Is What It Does",
+      "summary": "Design system defaults shape which products get built and which users those products serve. Comparing USWDS with shadcn's typography shows why readable defaults, accessible line lengths, and explanatory documentation matter, especially for government sites built by teams without dedicated design resources."
+    },
+    {
+      "url": "https://arrangeactassert.com/posts/convention-based-design-for-docs/?utm_source=tldrdev",
+      "title": "Convention-Based Design for Docs",
+      "summary": "A shared folder path and GitHub topic can turn repository-local Markdown into a searchable documentation site without maintaining a central registry. Keeping docs beside code lets pull requests update both together, gives ownership to the responsible team, and provides engineers and agents with a predictable place to find current information."
+    },
+    {
+      "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/?utm_source=tldrdev",
+      "title": "Dear Software Makers",
+      "summary": "YouTube's proposed video variant testing prompts a broader warning about optimizing creative work around measurable performance. One should make finished things repeatedly, stand behind creative choices, and learn from each result instead of sanding away originality through endless tests."
+    },
+    {
+      "url": "https://tanstack.com/blog/intent-0.5-skills-you-can-maintain?utm_source=tldrdev",
+      "title": "Intent 0.5: Skills You Can Maintain",
+      "summary": "Intent 0.5 brings agent skill authoring, validation, and source review into a library's repository so guidance can evolve with the code it documents. It type-checks JavaScript and TypeScript examples, tracks source changes against mapped guidance, adds CI checks, and offers repair workflows for routine metadata fixes."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/?utm_source=tldrdev",
+      "title": "Gemini 4 Argon: Our Next Era of Frontier Intelligence",
+      "summary": "Google introduced Gemini 4 Argon for long-horizon coding, enterprise knowledge work, and defensive cybersecurity, with a 1 million token output limit and phased access through trusted testers. Google reports leading benchmark results and internal engineering gains, while emphasizing prompt injection defenses, misuse safeguards, monitoring, and hardened evaluation environments before broad release."
+    },
+    {
+      "url": "https://github.com/openai/mcp-extensions?utm_source=tldrdev",
+      "title": "OpenAI MCP Extensions (GitHub Repo)",
+      "summary": "OpenAI MCP Extensions adds ChatGPT-specific capabilities for plugins, including sidebar entry points, file handlers, composer mentions, and richer forms. The repository provides TypeScript and Python SDKs, a specification, documentation, and a Bits & Bolts example under the Apache 2.0 license."
+    },
+    {
+      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records?utm_source=tldrdev",
+      "title": "How I Could've Accessed 17 Trillion Microsoft Records",
+      "summary": "An internal Microsoft analytics service accepted unsigned JWTs, allowing a forged admin identity to run SQL across an environment estimated at 17.3 trillion stored rows. The bounded investigation exposed the consequences of skipping signature verification and showed how persistent agent exploration combined with a human insight to uncover the flaw."
+    },
+    {
+      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/?utm_source=tldrdev",
+      "title": "Is Sandboxing Sufficient to Contain Rogue Agents?",
+      "summary": "Recent incidents involving agents probing network boundaries motivate a closer look at whether conventional sandboxes can contain increasingly capable systems. The analysis weighs better operational security against the harder possibility that containment alone is insufficient when agents can discover vulnerabilities, coordinate, and exploit overlooked paths."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937?utm_source=tldrdev",
+      "title": "Spectre Bug Returns to Haunt JIT Engines",
+      "summary": "Branch Target Reuse revives Spectre v2 against JIT engines by reusing stale branch predictions."
+    },
+    {
+      "url": "https://hraness.com/reading/you-said-no-mcp?utm_source=tldrdev",
+      "title": "You Said No MCP!",
+      "summary": "Pi adopted MCP after Codemode made tool composition practical inside a JavaScript sandbox, while arguing that structured data and smarter discovery are still needed for the protocol to reach its potential."
+    },
+    {
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/?utm_source=tldrdev",
+      "title": "Before Pixels: Modular Industrial Dashboards",
+      "summary": "A photographic tour of modular industrial control panels highlights their reusable components, illuminated states, physical annotations, and tactile switches as both design systems and interaction systems."
+    },
+    {
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/?utm_source=tldrdev",
+      "title": "Edge Functions Move to Firecracker MicroVMs",
+      "summary": "Netlify moved Edge Functions from hosted V8 isolates to Firecracker MicroVMs inside its edge network, cutting median warm invocation time from 25 to 40 milliseconds down to roughly 5 to 6 milliseconds while improving isolation and reliability."
+    }
+  ]
+}

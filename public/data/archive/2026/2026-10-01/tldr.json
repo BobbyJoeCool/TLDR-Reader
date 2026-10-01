@@ -1,0 +1,13 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-01",
+  "articleCount": 1,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/?utm_source=tldrnewsletter",
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "summary": "Google's Gemini 4 Argon model offers industry-leading performance in coding, knowledge work, and cybersecurity. Google's engineers are already using the model extensively, and Argon-powered agents have been working to migrate C/C++ codebases to Rust across Google. The model supports an output limit of 1 million tokens. It will be priced at $2 per million input tokens and $10 per million output tokens for a limited time. The model is still in limited testing, and there is no timeline for when it will be available to enterprise and consumer customers."
+    }
+  ]
+}

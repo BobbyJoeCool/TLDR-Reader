@@ -1,0 +1,22 @@
+{
+  "id": "2026-10-01",
+  "date": "2026-10-01",
+  "editions": [
+    {
+      "name": "TLDR",
+      "file": "tldr.json"
+    },
+    {
+      "name": "TLDR Dev",
+      "file": "tldr-dev.json"
+    },
+    {
+      "name": "TLDR Marketing",
+      "file": "tldr-marketing.json"
+    },
+    {
+      "name": "TLDR Data",
+      "file": "tldr-data.json"
+    }
+  ]
+}
