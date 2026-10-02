@@ -1,0 +1,78 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-02",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.computerworld.com/article/4229635/memory-squeeze-set-to-tighten-through-2028-micron-says-3.html?utm_source=tldrit",
+      "title": "Memory squeeze set to tighten through 2028, Micron says",
+      "summary": "The memory shortage driving up server, storage, and PC costs is expected to get worse through 2027 and 2028, with Micron saying more than 75% of its 2027 output is already committed. For IT teams planning endpoint and infrastructure refreshes, analysts recommend locking in pricing where possible and being more deliberate about which hardware lifecycles can safely be extended."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/?utm_source=tldrit",
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "summary": "OpenAI has delayed its planned initial public offering until it can make confident safety decisions, according to CEO Sam Altman. The decision comes amid intense scrutiny over the company's AI safety practices, following incidents where its models hacked third parties, and a new lawsuit filed by the Legal Advocates for Safe Science & Technology."
+    },
+    {
+      "url": "https://www.cio.com/article/4229751/microsoft-google-back-apache-ossie-to-make-enterprise-data-and-ai-platforms-more-interoperable.html?utm_source=tldrit",
+      "title": "Microsoft, Google back Apache Ossie to make enterprise data and AI platforms more interoperable",
+      "summary": "Microsoft and Google have joined an open-source effort to make semantic models portable across analytics, data, and AI platforms, alongside companies including Salesforce, Snowflake, Oracle, Nvidia, and Databricks. If it works, enterprises could reuse business definitions and data models across systems such as Power BI and BigQuery instead of rebuilding them inside every platform - although analysts say governance and vendor-specific differences remain obstacles."
+    },
+    {
+      "url": "https://www.cio.com/article/4229004/modernization-without-disruption-rethinking-the-rip-and-replace-mindset.html?utm_source=tldrit",
+      "title": "Modernization without disruption: Rethinking the rip-and-replace mindset",
+      "summary": "Large modernization projects often create operational risk because the same teams replacing legacy systems still have to keep the existing environment running. Treat modernization more like triage: prioritize technology that has become a real business constraint rather than assuming everything old needs to be replaced at once."
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era?utm_source=tldrit",
+      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "summary": "The Google Threat Intelligence Group examined vulnerability disclosure and exploitation trends from January 2025 through August 2026 and found that AI is measurably changing the pace, types, and risk profiles of discovered vulnerabilities. Researchers report that monthly vulnerability disclosures doubled and in-the-wild exploitation nearly doubled, driven by automated disclosures and the rapid weaponization of n-day vulnerabilities using AI tools."
+    },
+    {
+      "url": "https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962?utm_source=tldrit",
+      "title": "Meta wants people to use ‘AI agents' to do daily tasks. Why that's a problem",
+      "summary": "Meta has launched its new AI agent, Muse, designed to handle daily tasks like shopping, booking appointments, and travel planning. While Zuckerberg promotes the system as approachable for all users, such agents could create deeper behavioral habits than social media and raise significant data privacy concerns given Meta's past infractions."
+    },
+    {
+      "url": "https://www.coreweave.com/blog/coreweave-forge-turn-ai-iteration-into-compounding-improvement?utm_source=tldrit",
+      "title": "CoreWeave: CoreWeave launches CoreWeave Forge, an AI development platform",
+      "summary": "CoreWeave Forge is an AI development platform designed to connect and accelerate the AI improvement lifecycle by integrating model serving, observability, data curation, improvement, and evaluation. It features new services such as Agent Lens, Model Distillation, and Notebooks, alongside generally available tools like ARIA and Sandboxes, aimed at reducing manual handoffs and operational complexity for AI teams."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/?utm_source=tldrit",
+      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+      "summary": "Cloudflare announced plans to issue free hybrid quantum-safe TLS certificates to both paying and non-paying users using an open-source platform. To help establish ubiquity across the WebPKI ecosystem, the company will acquire a trusted certificate root from CA GlobalSign. Cloudflare states the transition is part of a necessary, multi-year architectural overhaul to prevent quantum-proof signatures from breaking the Internet with excessive bandwidth and computation requirements."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4229579/servicenow-launches-standalone-ai-service-desk-to-provide-support-in-teams-slack-and-email-2.html?utm_source=tldrit",
+      "title": "ServiceNow launches standalone AI service desk for Slack, Teams, and email",
+      "summary": "Flow by ServiceNow lets employees request IT help directly from Slack, Teams, email, or a web interface instead of opening traditional tickets. ServiceNow says it can deploy within a day, connect to more than 100 systems, automate repeat requests such as password resets, and escalate to humans when it cannot complete the work."
+    },
+    {
+      "url": "https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/?utm_source=tldrit",
+      "title": "Actively Exploited NetScaler Vulnerabilities",
+      "summary": "Citrix and CISA report active exploitation of unmitigated NetScaler ADC and Gateway vulnerabilities, specifically CVE-2026-88771 and CVE-2026-88772. Sygnia advises organizations to immediately patch appliances, investigate for pre-patch compromise, preserve evidence, and restrict access to sensitive internal systems because patching alone does not remove existing threat actors or persistence mechanisms."
+    },
+    {
+      "url": "https://www.outflank.nl/blog/2026/09/30/mcp-design/?utm_source=tldrit",
+      "title": "MCP Beyond the Spec: Inside Codex and Claude Code",
+      "summary": "Popular Model Context Protocol (MCP) clients like Codex and Claude Code implement tool definitions, annotations, and search mechanisms that deviate from the base MCP specification. The schema presented to an AI model can differ significantly from the raw output provided by an MCP server due to client-side processing. The analysis involved testing specific client behaviors, including parallel execution and approval modes, to understand how they interpret MCP server data."
+    },
+    {
+      "url": "https://www.logitech.com/blog/2026/10/01/celebrate-global-ergonomics-month-with-workspace-tips-from-logitech-leaders/?utm_source=tldrit",
+      "title": "Your employees' keyboards and mice may matter more than you think",
+      "summary": "Logitech's latest workplace ergonomics research found that 58% of surveyed workers report pain or discomfort at the end of the workday, a reminder that employee experience extends beyond SaaS and laptops into the physical workplace IT teams help standardize."
+    },
+    {
+      "url": "https://admin.salesforce.com/blog/2026/how-do-i-decide-if-a-new-salesforce-feature-belongs-in-my-org-podcast?utm_source=tldrit",
+      "title": "How Do I Decide If a New Salesforce Feature Belongs in My Org?",
+      "summary": "A practical Salesforce-admin discussion on evaluating new features based on business timing, strategic value, supportability, admin skills, and whether the organization can realistically maintain what gets deployed."
+    },
+    {
+      "url": "https://www.geopolitechs.org/p/deepseek-builds-for-huawei-ascend?utm_source=tldrit",
+      "title": "DeepSeek Builds for Huawei Ascend",
+      "summary": "DeepSeek has open-sourced a suite of foundational infrastructure components for Huawei's Ascend platform, including the TileLang high-level language and compiler toolchain, compute libraries, and distributed communication libraries."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-10-02",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://a16z.com/state-of-markets-ii/?utm_source=tldrfounders",
+      "title": "State of Markets II",
+      "summary": "Andreessen Horowitz's \"State of Markets II\" report highlights tech's dominance in capital markets, contributing 76% of the SP500's earnings growth in 2026. A pivot from software to hardware sees high demand for AI-driven semiconductors, funded by tech giants' profits and debt. Despite fears of GPU obsolescence, demand-driven pricing remains strong, with SaaS companies facing a revaluation as they shift from growth to profitability."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/fintech-is-dead?utm_source=tldrfounders",
+      "title": "Fintech is Dead",
+      "summary": "Fintech has been brutally effective at stripping costs out of traditional banking. It has made entire customer segments profitable for the first time. However, cloud and mobile are no longer the driving forces of disruption in financial services - intelligence tokens and value tokens are. The first trillion-dollar finance company will be an AI-first, token-first company."
+    },
+    {
+      "url": "https://x.com/immad/status/2105776246236000621?utm_source=tldrfounders",
+      "title": "Writing is essential to how @Mercury communicates as a 1,300-person remote-first company",
+      "summary": "Writing helps you process ideas, analyze problems, and explore solutions. Good writing is concise - reading should be easy. AI can churn out a lot of content, but it isn't a good writer. The technology should be used instead to critique, condense, shape initial drafts, and summarize complex information."
+    },
+    {
+      "url": "https://blog.cloudflare.com/managed-cloudflare-os/?utm_source=tldrfounders",
+      "title": "Cloudflare OS: your company's agent workspace, managed for you",
+      "summary": "Cloudflare has opened up the waitlist for fully managed Cloudflare OS deployments. Cloudflare OS gives everyone in an organization an agent workspace that knows how the company works and connects to its data and systems. Teams can ask agents to handle work and build tools for them. Cloudflare OS is open source, so businesses can customize it around how their company works. With the fully managed option, teams decide who can access Cloudflare OS, which organization skills and context are available, and which systems it can reach, and Cloudflare will handle the rest."
+    },
+    {
+      "url": "https://docs.firecrawl.dev/features/agent?utm_source=tldrfounders",
+      "title": "Firecrawl Agent",
+      "summary": "Firecrawl Agent gathers data whenever it lives on the web. It searches, navigates, and gathers data from a wide range of websites, finding data in hard-to-reach places and uncovering information in ways no other API can. The agent can accomplish in a few minutes what would take a human many hours. It handles end-to-end data collection without scripts or manual work."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/?utm_source=tldrfounders",
+      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+      "summary": "DuckDB is now embedded directly within Amazon Aurora PostgreSQL. Users can now directly query operational data together with data stored in their data lakes in Apache Iceberg and Apache Parquet formats using existing PostgreSQL applications and tools. They can power real-time dashboards, enrich transactions with historical context, and build AI agents that reason over both live and archived data through a single, familiar interface. They can also use Aurora PostgreSQL to query data from data lakes managed in Iceberg REST Catalog (IRC)-compatible catalogs."
+    },
+    {
+      "url": "https://www.saastr.com/this-is-a-pretty-fancy-dinner-that-probably-means-im-overpaying-a-dreamforce-lesson-from-a-top-5-customer/?utm_source=tldrfounders",
+      "title": "“This Is a Pretty Fancy Dinner. That Probably Means I'm Overpaying.” A Dreamforce Lesson From a Top 5 Customer",
+      "summary": "A Groupon executive commented on a fancy vendor dinner, suggesting it signaled overpayment, leading to strategic adjustments. Companies must ensure customers perceive value continuously, not just at renewal, by avoiding mediocre support and unnecessary upcharges and focusing on customer success. Especially crucial in AI, value perception affects fast audits and contract renewals."
+    },
+    {
+      "url": "https://chrisneumann.com/archives/now-is-not-the-time-to-increase-your-burn-rate?utm_source=tldrfounders",
+      "title": "Now Is Not the Time to Increase Your Burn Rate",
+      "summary": "Founders misinterpret the current VC market as abundant in capital, leading to increased burn rates without securing additional funding. Investors increasingly prioritize fast-growing startups, leaving many others, including those needing bridge rounds, unable to secure additional capital. To avoid running out of runway, founders must engage in open dialogue with investors and heed their guidance on funding realities."
+    },
+    {
+      "url": "https://www.cbinsights.com/research/coding-agent-investor-overlap/?utm_source=tldrfounders",
+      "title": "Who's on both sides? The investors backing rival coding agents",
+      "summary": "Investors like Vinod Khosla and Keith Rabois back both Factory and Cognition amid a public dispute involving board advisers."
+    },
+    {
+      "url": "https://x.com/Ronanchamberss/status/2105711731112620364?utm_source=tldrfounders",
+      "title": "Peter Thiel, René Girard, and Anti-Mimetic Investing",
+      "summary": "René Girard's theory of mimetic desire explains how tightly networked communities converge on the same goals, creating rivalry and herd behavior."
+    },
+    {
+      "url": "https://blog.cloudflare.com/ai-search-ga/?utm_source=tldrfounders",
+      "title": "AI Search is now generally available",
+      "summary": "Cloudflare's AI Search combines Workers AI, Vectorize, R2, and Browser Run into a fully managed index and retrieval pipeline."
+    },
+    {
+      "url": "https://solofounders.com/blog/20m-from-accel-index-to-replace-slack-with-no-co-founder/?utm_source=tldrfounders",
+      "title": "$20M From Accel & Index to Replace Slack — With No Co-Founder",
+      "summary": "Sara Du's new startup, Ando, secured $20M in funding from Accel and Index Ventures to create a messaging platform integrating AI agents as coworkers."
+    }
+  ]
+}

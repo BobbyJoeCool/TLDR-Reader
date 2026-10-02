@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-10-02",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/?utm_source=tldrdevops",
+      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+      "summary": "AWS has introduced metadata pre-filtering for Amazon S3 Vectors to improve recall on filtered queries. The feature evaluates metadata filters before running a similarity search and supports up to 100 filter constraints per query. On highly selective filters, pre-filtering returns up to five times more matching vectors than previous methods. It is available immediately at no additional cost and works on existing indexes without requiring data re-ingestion."
+    },
+    {
+      "url": "https://blog.cloudflare.com/faster-agent-sandboxes/?utm_source=tldrdevops",
+      "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+      "summary": "Cloudflare has rearchitected its Containers service to handle agent workloads, allowing code to select the image and instance type at runtime. The update introduces a new scheduling policy that starts containers six times faster, with median startup times falling from over four seconds to 648 milliseconds in independent benchmarks. A filesystem snapshots feature is also available in public beta to let workspaces save and restore their state."
+    },
+    {
+      "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/?utm_source=tldrdevops",
+      "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+      "summary": "Cloudflare is launching a certificate authority that will support Merkle Tree Certificates (MTCs), targeting early 2027 for inclusion in Chrome's Quantum-resistant Root Store. The company will provide standard MTC issuance at no cost. MTCs batch certificates into an append-only Merkle tree to address the scaling issues of post-quantum cryptography, which can increase log storage requirements by 40 times. Cloudflare successfully tested the technology with Chrome, serving billions of MTCs and finding that median performance was 9% faster than classical signature chains."
+    },
+    {
+      "url": "https://blog.cloudflare.com/adaptive-ai-waf-testing/?utm_source=tldrdevops",
+      "title": "We tested our own WAF with frontier AI models. Here's what we found",
+      "summary": "Cloudflare built a dynamic testing tool that uses large language models to iterate attack payloads against its Web Application Firewall. The system ran 1,107 attempts across six attack categories and recorded 49 findings that required human review. Cloudflare used these results to release new detections for SSRF attacks and improve an existing cloud metadata rule."
+    },
+    {
+      "url": "https://platformengineering.org/blog/how-to-justify-investment-in-a-platform?utm_source=tldrdevops",
+      "title": "How to justify investment in a platform",
+      "summary": "Gartner forecasts that 40% of companies will downgrade autonomous AI agents by 2027 due to governance gaps found after production incidents. Google's DORA 2025 research found that 90% of organizations already use an internal platform, and 76% have dedicated teams for them. Broadcom research shows 97% of IT leaders believe some public cloud spending is wasted, with cost now exceeding security as the primary concern."
+    },
+    {
+      "url": "https://github.com/t8y2/dbx?utm_source=tldrdevops",
+      "title": "DBX (GitHub Repo)",
+      "summary": "DBX is a 25 MB cross-platform database client that supports over 100 databases, including MySQL, PostgreSQL, SQLite, Redis, and MongoDB. It runs as a native desktop app on macOS, Windows, and Linux, or via Docker and web deployments, without requiring Java, Python, or bundled Chromium. The tool includes an AI assistant that generates SQL from natural language and an MCP server that lets coding agents query databases."
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes?utm_source=tldrdevops",
+      "title": "Hyperframes (GitHub Repo)",
+      "summary": "HyperFrames is an open-source framework that converts HTML, CSS, and seekable animations into deterministic MP4 videos. The toolkit ships 21 skills that teach AI coding agents the full production loop, from planning and writing valid HTML to rendering with FFmpeg. It renders video by seeking frames in headless Chrome to ensure the same input always produces the same output."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/datadog-code-execution/?utm_source=tldrdevops",
+      "title": "Cut AI agent cost and improve accuracy with Code Execution in the Datadog MCP Server",
+      "summary": "Datadog's new Code Execution feature lets AI agents run sandboxed JavaScript against its MCP Server, querying, joining, and filtering data across multiple APIs before returning only relevant evidence to the model. Testing across four models showed accuracy gains up to 21.8 points alongside 73% fewer input tokens and 40% fewer tool calls."
+    },
+    {
+      "url": "https://platformengineering.org/blog/the-4-levels-of-agentic-software-development?utm_source=tldrdevops",
+      "title": "The 4 levels of agentic software development",
+      "summary": "Enterprise AI productivity gains depend on platform maturity rather than model choice, with four levels running from humans approving every change to fully autonomous agents. Most organizations sit between levels one and two, and shifting validation from a single human gate to a continuous loop marks the hardest, highest payoff transition."
+    },
+    {
+      "url": "https://amoffat.github.io/blog/cognitive-load.html?utm_source=tldrdevops",
+      "title": "Reducing the cognitive load of AI changes",
+      "summary": "Unfamiliar abstraction names in AI-generated code add mental translation work during review."
+    },
+    {
+      "url": "https://cloudnativenow.com/contributed-content/why-kubernetes-rbac-misconfigurations-are-the-easiest-privilege-escalation-youll-ever-find/?utm_source=tldrdevops",
+      "title": "Why Kubernetes RBAC Misconfigurations Are the Easiest Privilege Escalation You'll Ever Find",
+      "summary": "Recurring Kubernetes RBAC mistakes, cluster-admin bound to service accounts, wildcard permissions, over-broad secrets access, and stale bindings that never expire, drive most cluster compromises rather than novel vulnerabilities."
+    },
+    {
+      "url": "https://grafana.com/blog/tempo-3-1-release-all-the-latest-features/?utm_source=tldrdevops",
+      "title": "Tempo 3.1 release: new features for Kafka, TraceQL metrics updates, trace redaction, and more",
+      "summary": "Tempo 3.1 adds community-contributed improvements for Kafka ingestion, including TLS support and options to reduce data transfer costs."
+    }
+  ]
+}

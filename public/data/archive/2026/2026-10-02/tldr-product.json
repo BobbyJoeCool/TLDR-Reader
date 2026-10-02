@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-10-02",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/?utm_source=tldrproduct",
+      "title": "Lean LaunchPad - The Next Generation",
+      "summary": "AI makes products easier to build, but not easier to validate. Lean LaunchPad is shifting its focus from building MVPs to deeply understanding customers, testing assumptions, and proving demand with real design partners."
+    },
+    {
+      "url": "https://theskip.substack.com/p/three-top-executive-recruiters-on?utm_source=tldrproduct",
+      "title": "Top Executive Recruiters on Where Product Management Is Going (59 minute video)",
+      "summary": "The best product leaders combine executive seniority with hands-on building. As AI skills become table stakes, judgment, taste, and problem selection matter more."
+    },
+    {
+      "url": "https://jennywanger.com/articles/building-alone-faster/?utm_source=tldrproduct",
+      "title": "Building alone, faster: a panel on what AI is doing to the product trio",
+      "summary": "AI helps product, design, and engineering move faster, but solo AI work can create debt, burnout, and fragmented teams. The real opportunity is using AI with shared guardrails so specialists can move faster together."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/product-management-is-not-optional?utm_source=tldrproduct",
+      "title": "Product management is not optional",
+      "summary": "Reports of the death of product management are exaggerated. While AI is shifting the role away from administrative work, strategy, judgment, and customer understanding remain essential."
+    },
+    {
+      "url": "https://thegood.com/insights/personalize-user-onboarding/?utm_source=tldrproduct",
+      "title": "How to Personalize User Onboarding Without Introducing Friction",
+      "summary": "SaaS onboarding surveys often add friction without personalizing the experience. To succeed, keep surveys short, deliver immediate value, infer user data, separate attribution questions, and avoid closed survey loops."
+    },
+    {
+      "url": "https://www.uxtigers.com/post/satisfaction-expectations?utm_source=tldrproduct",
+      "title": "User Satisfaction Depends on Delivered Quality Relative to Expectations",
+      "summary": "User satisfaction depends on delivered quality relative to prior expectations. Managing the expectation gap is a key design challenge."
+    },
+    {
+      "url": "https://www.tanayj.com/p/agentic-commerce-and-incentives?utm_source=tldrproduct",
+      "title": "Agentic Commerce and Incentives",
+      "summary": "Shopify benefits from AI agents driving more transactions, while Amazon risks losing default purchases and ad revenue. Agentic commerce could shift power and ad dollars toward agents, making their incentives increasingly important."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($225k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We’re looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://www.jamesshore.com/v2/blog/2026/modeling-softwares-business-impact?utm_source=tldrproduct",
+      "title": "Modeling Software's Business Impact",
+      "summary": "As AI makes software easier to build, choosing what is worth building matters more. Model business value so product priorities reflect strategy, not just speed or cost."
+    },
+    {
+      "url": "https://www.lukew.com/ff/2164/design-systems-for-ai-agents?utm_source=tldrproduct",
+      "title": "Design Systems for AI Agents",
+      "summary": "Design systems can become steering layers for AI agents, automatically keeping website changes consistent."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2105235210573086966.html?utm_source=tldrproduct",
+      "title": "Heat of Innovation: How to Conduct Better User Interviews",
+      "summary": "Great user interviews uncover real behavior, not tidy explanations."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-02",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://expo.dev/blog/live-activities-with-expo-end-to-end-client-and-backend?utm_source=tldrdev",
+      "title": "Live Activities with Expo, End to End",
+      "summary": "Expo shows how to build iOS Live Activities in TypeScript, compile their interfaces to SwiftUI, and update them from a backend through APNs. The walkthrough covers push-to-start and per-activity tokens, database mappings, JWT authentication, payload structure, and activity lifecycle handling."
+    },
+    {
+      "url": "https://blog.janestreet.com/linux-engineering-depot-fuse-index/?utm_source=tldrdev",
+      "title": "A FUSE Server for an In-House Storage Backend",
+      "summary": "Jane Street built an OCaml-native, read-only FUSE server that exposes its Depot object store through a POSIX filesystem interface. Parallel reads and zero-copy buffer handling raised large-file throughput from about 30 MiB/s to 1.3 GiB/s."
+    },
+    {
+      "url": "https://blog.sterlingfreeman.net/posts/folder-structure-two-jobs/?utm_source=tldrdev",
+      "title": "Your Folder Structure Has Two Jobs, but Only Does One",
+      "summary": "Folder structures must support two different tasks: helping people find existing files and giving them a consistent rule for placing new ones. Role-based taxonomies improve navigation but create fuzzy boundaries, while layer-based structures make classification deterministic and prevent placement mistakes from compounding as a codebase grows."
+    },
+    {
+      "url": "https://x.com/hunterrice/status/2105311793631633565?utm_source=tldrdev",
+      "title": "Predicting the Winner of Personal Agents",
+      "summary": "Personal agents face a cold-start problem because they need context to be useful before users have a reason to provide it. The winning products may combine behavioral context with deeper identity context, distinguishing lasting preferences from temporary interests so personalization compounds without constructing the wrong version of a person."
+    },
+    {
+      "url": "https://x.com/divya_venn/status/2105578860733739375?utm_source=tldrdev",
+      "title": "Why I Changed My Mind About the Death of Software Engineering",
+      "summary": "Coding agents are strong prototypers, but experienced engineers still decide which tradeoffs, risks, customer needs, and long-term maintenance costs matter. Engineers become more valuable by deeply understanding their systems and organizations, then directing agents with judgment rather than outsourcing decisions to them."
+    },
+    {
+      "url": "https://vitonsky.net/blog/2026/09/18/design-system/?utm_source=tldrdev",
+      "title": "Props Are Not a Design System",
+      "summary": "Call-site styling through props, utility classes, or inline styles turns every component instance into a separate design decision. Semantic variants should define a component's complete appearance, while limited modifiers handle intentional variation without eroding consistency."
+    },
+    {
+      "url": "https://blog.cloudflare.com/clef-decision-models/?utm_source=tldrdev",
+      "title": "Introducing Clef Decision Models",
+      "summary": "Cloudflare released Clef and Clef-flash, open-source models that return bounded, typed decisions with probabilities for routing and classification workflows. The models run on Workers AI, support the Jev API, and pair with a reinforcement learning platform for fine-tuning on customer use cases."
+    },
+    {
+      "url": "https://github.com/weave-os/router?utm_source=tldrdev",
+      "title": "Weave Router (GitHub Repo)",
+      "summary": "Weave Router is an open-source model router for agentic systems that sends each prompt to a suitable model behind an OpenAI-compatible endpoint. It targets sub-50 ms routing overhead and lower inference costs, with a quick-start path for proxying existing applications."
+    },
+    {
+      "url": "https://earendil.com/posts/pi-1-0/?utm_source=tldrdev",
+      "title": "Pi 1.0",
+      "summary": "Pi 1.0 hardens the minimal agent harness with Codemode, virtual models, deferred tool loading, cache warming, transcript-aware system changes, and a refreshed terminal interface. The release also introduces the experimental Pi Durable package for long-running agentic applications, with both projects available under the MIT license."
+    },
+    {
+      "url": "https://www.stacksweep.dev/ai-coding-tools-shift-mental-load/?utm_source=tldrdev",
+      "title": "AI Coding Tools Shift Mental Load",
+      "summary": "A four-day field study of 21 SAP developers found that tasks using generative AI scored about one point higher on a seven-point cognitive-load scale after controlling for task type and duration. The result suggests that AI shifts effort from typing toward prompting, reviewing, validating, and integrating generated work, even when developers feel more productive overall."
+    },
+    {
+      "url": "https://nordicapis.com/how-ai-agents-are-changing-api-architecture/?utm_source=tldrdev",
+      "title": "How AI Agents Are Changing API Architecture",
+      "summary": "Autonomous agents push API architecture toward least privilege, just-in-time authorization, predictable schemas, machine-readable documentation, and stronger controls against prompt injection and excessive agency. Observability also needs agent identity, delegated authority, workflow context, conversation IDs, and token usage beyond traditional latency and error metrics."
+    },
+    {
+      "url": "https://molily.de/web-dev-education/?utm_source=tldrdev",
+      "title": "The Death of Web Development Education",
+      "summary": "Independent web educators are losing income and audiences to AI systems trained on their work, threatening the human communities and durable knowledge that make the open web learnable."
+    },
+    {
+      "url": "https://turbopuffer.com/blog/rip-vector-database?utm_source=tldrdev",
+      "title": "RIP, Vector Database",
+      "summary": "Turbopuffer v3 makes approximate nearest-neighbor search a secondary index so storage layouts can reduce amplification and use block sizes suited to full-text search, filtering, aggregation, and other query plans."
+    },
+    {
+      "url": "https://help.openai.com/en/articles/20001542-using-your-chatgpt-plan-in-other-apps-and-sites?utm_source=tldrdev",
+      "title": "Using Your ChatGPT Plan in Other Apps and Sites",
+      "summary": "Plus and Pro users can let participating apps use ChatGPT Work and Codex usage without sharing an API key, while managing per-app limits, credit fallback, permissions, and disconnection in ChatGPT settings."
+    },
+    {
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here?utm_source=tldrdev",
+      "title": "SvelteKit 3 Is Here",
+      "summary": "SvelteKit 3 removes deprecated APIs, adopts native subpath imports and Vite 8 with Rolldown, improves service workers and environment variables, and includes a migration command for existing projects."
+    }
+  ]
+}

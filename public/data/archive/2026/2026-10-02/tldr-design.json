@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-10-02",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/?utm_source=tldrdesign",
+      "title": "Instagram Rolls out an AI Video Assistant for Creators",
+      "summary": "Instagram is rolling out an AI video assistant in Edits, its CapCut competitor, that gives creators personalized feedback instead of generic advice. The assistant combines account metrics like views and video retention with comments and trends to spot performance patterns, while leaving creative calls to creators. Usage is capped, with more available through a Meta One subscription."
+    },
+    {
+      "url": "https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/?utm_source=tldrdesign",
+      "title": "The New Firefox Design: More Modern, More Flexible, Still Firefox",
+      "summary": "Mozilla is rolling out the Firefox 157 redesign to all desktop and mobile users, refreshing colors, icons, and themes across the browser without hurting performance. The update adds flexibility through a returning Compact Mode, a theme picker with new themes and wallpapers, and a customizable New Tab page with pinned shortcuts. Firefox remains independent and open source, with built-in privacy protections and user controls, including over AI features, since the redesign renews rather than reinvents it."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/29/john-ternus-apple-new-products-leaner/?utm_source=tldrdesign",
+      "title": "John Ternus has big plans to make Apple ‘leaner' and release more products",
+      "summary": "Apple CEO John Ternus reportedly wants a leaner organization focused on engineering, with fewer management layers and more frequent product releases. Apple has dismissed some engineering program managers, while Ternus is considering a less seasonal launch schedule and more experimental products. The plans also include growing services revenue through new offerings and existing products."
+    },
+    {
+      "url": "https://yeseniaperezcruz.substack.com/p/has-your-product-outgrown-its-floor?utm_source=tldrdesign",
+      "title": "Has Your Product Outgrown its Floor Plan?",
+      "summary": "Visual inconsistency gets the attention, but spatial incoherence is often worse, as products expand past the simple floor plan they launched with. Slack's pile of added features and Substack's inconsistent reader and publisher navigation show the problem, while YouTube's clearly scoped menus make shifts easy to map. Overlays that misrepresented an action's scope were one reason Shopify deprecated its Polaris Sheet component, forcing a rethink of the admin's floor plan."
+    },
+    {
+      "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9?utm_source=tldrdesign",
+      "title": "How to De-slopify Your Designs",
+      "summary": "Vibecoders can keep AI-generated designs from looking like generic slop by learning to spot its telltale components, then applying one of three escalating fixes: cleaning up fluff with specific colors, fonts, and icons; defining an aesthetic through references; or designing from scratch in Figma. Since slop stems from generating artifacts without thought or effort, even a brief review forces reflection, and AI handles digital styles far better than organic, expressive ones. These levels suit one-off designs like dashboards and trivia decks, while fixing an entire product or brand would require agentic workflows and design systems."
+    },
+    {
+      "url": "https://matthenry.fyi/posts/a-system-is-what-it-does/?utm_source=tldrdesign",
+      "title": "A design system is what it does",
+      "summary": "Matt Henry argues that a design system's defaults reveal which users and tasks it prioritizes, comparing the US Web Design System (USWDS) with shadcn. USWDS supports information-heavy government websites through readable typography and guidance that explains its design choices, while shadcn's denser defaults require more customization. He warns that a possible shift from USWDS to shadcn could make public information less accessible, especially when government teams lack the time or expertise to adjust those defaults."
+    },
+    {
+      "url": "https://www.imejis.io/agents?utm_source=tldrdesign",
+      "title": "Give Your AI Agent a Design Studio (Website)",
+      "summary": "Connect Claude, ChatGPT, Cursor, or any MCP client to Imejis, and it creates, edits, and exports real designs on its own. No screenshots, no separate design tool."
+    },
+    {
+      "url": "https://jambuild.dev/?utm_source=tldrdesign",
+      "title": "Build Web Apps in Real Time by Talking and Pointing (Website)",
+      "summary": "Say what you want to build. Point at what you mean. Build alone, or send a link and build with one other person."
+    },
+    {
+      "url": "https://shotcandy.app/?utm_source=tldrdesign",
+      "title": "Make Your Screenshots Look Lovely (Website)",
+      "summary": "Turn any screenshot or screen recording into a beautiful, share-ready image or video in seconds. Free, open source, and it runs entirely in your browser."
+    },
+    {
+      "url": "https://abduzeedo.com/murri-unveils-rcd-espanyol-de-barcelona-brand-identity?utm_source=tldrdesign",
+      "title": "Murri unveils RCD Espanyol de Barcelona brand identity",
+      "summary": "Murri's refreshed identity for RCD Espanyol de Barcelona preserves the soccer club's history while creating a more flexible visual system for modern applications. Custom Perico Type typography draws on Catalan poster traditions and the club's blue-and-white stripes, supported by graphic elements derived from its visual heritage. The system is designed to work consistently across stadium environments, digital platforms, merchandise, and communications while keeping the club's established identity recognizable."
+    },
+    {
+      "url": "https://www.gabrielvaldivia.com/notes/building-an-independent-design-practice?utm_source=tldrdesign",
+      "title": "Building an Independent Design Practice",
+      "summary": "More than 10,000 hours of independent design work produce five lessons, from following what gives energy to testing through moonlighting first. Saying yes early builds stability and reveals where skills meet demand, while the clients a practice wants to attract shape its pricing. Starting most engagements with a couple of weeks on a well-scoped project lets both sides experience the relationship before committing."
+    },
+    {
+      "url": "https://www.renatovaldes.com/essays/what-happens-when-you-can-build-it-all-yourself?utm_source=tldrdesign",
+      "title": "What Happens When You Can Build It All Yourself",
+      "summary": "Building everything alone with AI agents got a complex backend to alpha in under two weeks, and the bar for normal output keeps rising. Within weeks came a new Noord site, the Vlak design system with 200-plus components, the Bureau workspace for people and AI agents, and three workbooks. Unless a software startup is doing frontier work, most of the money it raises should go toward discovering or building distribution channels rather than product development."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/09/designer-steven-haulenbeek-turns-functional-objects-into-physical-records-of-ice-sand-fire-and-serendipity/?utm_source=tldrdesign",
+      "title": "Designer Steven Haulenbeek Turns Functional Objects into Physical Records of Ice, Sand, Fire, and Serendipity",
+      "summary": "Carved ice, molten bronze, and reclaimed foundry sand let industrial designer Steven Haulenbeek make furniture and lighting shaped by weather, gravity, heat, and chance."
+    },
+    {
+      "url": "https://www.creativeboom.com/insight/louise-french-quit-london-cycled-the-andes-and-came-home-an-illustrator/?utm_source=tldrdesign",
+      "title": "Louise French quit London, cycled the Andes and came home an illustrator",
+      "summary": "After leaving London and cycling through South America, Louise French renewed her illustration practice, developing a playful style through drawing and the freedom to experiment."
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/you-can-now-use-chatgpt-and-claude-to-speed-up-3d-art-in-cinema-4d?utm_source=tldrdesign",
+      "title": "You Can Now Use ChatGPT and Claude to Speed up 3D Art in Cinema 4D",
+      "summary": "Maxon's Cinema 4D now lets artists direct Claude, ChatGPT, or Codex through a built-in MCP server, automating repetitive tasks with natural language instructions."
+    }
+  ]
+}
