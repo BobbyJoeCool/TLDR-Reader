@@ -1,0 +1,53 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-10-05",
+  "articleCount": 9,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://gadgets.muse.ai/?utm_source=tldrhardware",
+      "title": "Meta opens its Muse agent to DIY hardware with an open-source gadget SDK",
+      "summary": "Muse is Meta's subscription AI agent, and its new Apache 2.0 SDK lets hobbyists build physical front-ends for it on ESP32 boards or a Raspberry Pi, adding screens, mics, speakers, and sensors. Community-built skills can let Muse control lights, a TV, or a printer through a local network device. Meta's own Muse Home Link, which bridges Muse to home Wi-Fi devices, is free to US subscribers and ships in October."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai?utm_source=tldrhardware",
+      "title": "Musk confirms TSMC talks on Terafab, which could sideline Intel's 14A node",
+      "summary": "Culpium reports TSMC is exploring building and operating a fab that would exclusively serve Tesla, SpaceX, and xAI, and Musk confirmed it on X, saying \"just discussions, but something may come of it\" while TSMC stayed silent. The two speculative structures Culpium floats are a JASM/ESMC-style joint venture where partners supply capital and demand while TSMC contributes process technology and operations, or a novel arrangement where SpaceX holds majority ownership and TSMC only operates the fab and licenses its process."
+    },
+    {
+      "url": "https://roboticsandautomationnews.com/2026/10/02/boston-dynamics-unveils-new-four-finger-hand-for-atlas-humanoid-robot/105440/?utm_source=tldrhardware",
+      "title": "Boston Dynamics unveils new four-finger hand for Atlas humanoid robot",
+      "summary": "Boston Dynamics has introduced a new four-finger hand for its Atlas robot, optimizing cost and reliability by excluding the pinky. The hand, with 13 degrees of freedom, uses dense tactile sensors and enables complex tasks like in-hand object reorientation and tool operation. Designed for simulation and reinforcement learning, this innovation aims to enhance Atlas' capabilities for industrial applications."
+    },
+    {
+      "url": "https://www.latimes.com/california/story/2026-10-02/california-man-smuggled-300-million-of-ai-hardware-to-china-feds-say?utm_source=tldrhardware",
+      "title": "California man charged with smuggling $300M of Nvidia AI servers to China through Malaysia and Singapore",
+      "summary": "Federal prosecutors arrested Greg (Yiu Kong) Lui, owner of San Gabriel Valley company Earthmade, on charges of exporting more than $300 million of servers loaded with export-controlled Nvidia AI GPUs to China between 2023 and 2024. The scheme worked by exploiting a licensing gap: Commerce doesn't require an export license to ship this hardware to Malaysia or Singapore, but does for China, so Lui allegedly sent servers to Malaysian and Singapore transshipment companies using false paperwork, then used freight forwarders to move them on to Chinese buyers."
+    },
+    {
+      "url": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/?utm_source=tldrhardware",
+      "title": "The physical AI race will be won in the patent office",
+      "summary": "The physical AI race will depend on owning IP rather than just building the best robot. Robotics companies need a strong IP strategy, focusing on key inventions that ensure their competitiveness. Utilizing AI in patent processes can reduce costs and improve efficiency, crucial for resource-limited startups."
+    },
+    {
+      "url": "https://roboticsandautomationnews.com/2026/10/04/hello-robot-awarded-3-million-to-develop-stretch-robot-for-elder-care/105500/?utm_source=tldrhardware",
+      "title": "Hello Robot awarded $3 million to develop Stretch robot for elder care",
+      "summary": "Hello Robot secured nearly $3 million from the NIH to advance its Stretch robot for elder care, focusing on cognitive support, social engagement, and safety management."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/?utm_source=tldrhardware",
+      "title": "Legato launches $999 AI hearing glasses that amplify voices and cancel noise on-device",
+      "summary": "Legato Frames pack the startup's hearing-assistance tech into the arms of eyewear, aimed at adults with up to moderate hearing loss and starting at $999."
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync?utm_source=tldrhardware",
+      "title": "Nvidia launches a $4,999 DGX Spark with 64GB of memory that clusters with a second unit to run 200B-parameter models",
+      "summary": "Nvidia is adding a 64GB unified-memory DGX Spark, sold only through partners (Acer, ASUS, Dell, Gigabyte, HP, and MSI) starting October 23 at $4,999, built on the same GB10 Grace Blackwell chip as the 128GB model and able to run models up to 100B parameters on-device."
+    },
+    {
+      "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/?utm_source=tldrhardware",
+      "title": "Runway introduces Praxis-1 world action model for robotics",
+      "summary": "Praxis-1 is a world action model that uses video pretraining to control robots."
+    }
+  ]
+}

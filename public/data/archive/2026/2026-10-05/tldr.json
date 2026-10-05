@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-05",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://neuralink.com/updates/pretraining-on-50000-hours/?utm_source=tldrnewsletter",
+      "title": "Pretraining on 50,000 Hours of Unlabeled Brain Data",
+      "summary": "Neuralink's decoders are machine learning models trained to convert neural activity into intended action. These decoders are unique to each user - all users have to perform calibration prior to using a Neuralink device. Neuralink has collected over 50,000 hours of unlabeled, freeform neural data since its clinical trials began. This post details how the company used this data to improve its models, making its decoders more accurate and long-lived."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTE3MzMyNSwiZXhwIjoxNzkxNzc4MTI1LCJhcnRpY2xlSWQiOiJUTURZVzFWVFRDWkwwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.88q58p2LUcPDbaTrqvWp7jlXBdX_yTJ-72TQE75fUII&utm_source=tldrnewsletter",
+      "title": "Apple's John Ternus Has Found a New Design Chief: Himself",
+      "summary": "Apple CEO John Ternus is spending a lot of time overseeing the company's hardware and software design work. He is largely leaving the company's financial operations to CFO Kevan Parekh and the supply chain to COO Sabih Khan. Ternus is deeply involved in product engineering and design. One of his first priorities was to restore the company's design studio standing. The company is not looking to recruit an outside chief design officer to oversee the entire organization."
+    },
+    {
+      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer?utm_source=tldrnewsletter",
+      "title": "Things that Apparently Cause Cancer",
+      "summary": "The series of Harvard studies that showed that nuclear power plants were associated with higher rates of cancer and cancer mortality are nonsense. The methodology used in the studies will always show an increased cancer risk and mortality no matter what landmark is used. The studies simply do not prove anything about cancer incidence. Sophisticated statistics can produce extremely precise nonsense when the design fails to identify the causal mechanism."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html?unlocked_article_code=1.GVE.qRZX.psKv79OvBAKk&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "summary": "NASA wants contractors to prepare to build a nuclear reactor that could survive a space voyage and run without maintenance near the south pole by December 2030. The agency is racing for the future of space exploration. The US and China are both racing to establish a moon base to search for resources and to launch missions deeper into the solar system. Controlling access to the Moon's assets is vital to this mission. Both superpowers believe a nuclear reactor is the centerpiece of this ambition."
+    },
+    {
+      "url": "https://tester.army/e2e?utm_source=tldrnewsletter",
+      "title": "e2e (Website)",
+      "summary": "e2e is an open-source AI testing framework. It provides customizable testing for web, mobile apps, and more. e2e remembers agents' actions and replays them when possible without calling the model again. Less repeated reasoning results in fewer tokens and lower costs. Developers can choose their preferred AI model and customize the testing agent."
+    },
+    {
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/?utm_source=tldrnewsletter",
+      "title": "Why don't more developers “use the platform”?",
+      "summary": "Advocates for web standards, performance, and accessibility have implored web developers for years to 'use the platform', but despite how obvious the advice seems to be, many people seem to still need convincing. One reason for this is that, for the longest time, browsers were playing catch-up with the ecosystem on top of them. Another is due to the familiarity with tools they've used in the past. Often, even with a robust standard, libraries fill a useful gap between framework ergonomics and the platform underneath it."
+    },
+    {
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=1ga2TvL-DbuHDQIcYF7oR4o908Fsjxr4NFLlsptkfP8&amp;utm_source=tldrnewsletter",
+      "title": "I Quit OpenAI Because Its Culture Is Broken",
+      "summary": "David Robinson resigned from OpenAI this week, joining a parade of former colleagues who have decided that the company's current path is unacceptable. Robinson headed the writing of the safety reports that OpenAI publishes with each major launch. OpenAI has thrived by trial and error, but this approach guarantees periodic failures, and the scale of those failures is growing. Achieving something much closer to perfect the first time is becoming more essential because iteration after a mistake may not be possible."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=2c1SNo&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
+      "summary": "Alexandr Wang, 29, was hand-picked by Mark Zuckerberg last year to oversee Meta's AI efforts. Wang, the company's first Gen Z senior executive, brings an internet-flavored communication style that could help the company connect with younger customers. He is a native of the social-media ecosystem his boss built. Wang has succeeded in building hype for Muse, in part with an unconventional internet campaign. The challenge is now to keep the momentum going as rival companies press ahead with their own offerings."
+    },
+    {
+      "url": "https://sjg.io/writing/could-this-finally-be-microsofts-moment/?utm_source=tldrnewsletter",
+      "title": "Could this finally be Microsoft's moment?",
+      "summary": "Microsoft could win the enterprise harness with Copilot while labs compete to supply its intelligence."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=S8tw35&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "The Sleuths Who Expose When AI Goes Rogue",
+      "summary": "The swarm chasers are a loose crew of online sleuths that work together to piece together interconnected AI swarm incidents."
+    },
+    {
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician?utm_source=tldrnewsletter",
+      "title": "So You Think You Could Be An Electrician?",
+      "summary": "Trades involve physical demands and uncertain rewards that people outside the industry just don't understand."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/?utm_source=tldrnewsletter",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "summary": "People who want to live dangerously should be able to do that, but it needs to be on an opt-in basis."
+    },
+    {
+      "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse?utm_source=tldrnewsletter",
+      "title": "What Meta Got Right With Muse",
+      "summary": "None of Muse's capabilities are new, Meta just put the pieces together in the right way."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/?utm_source=tldrnewsletter",
+      "title": "Spotify billionaire's body scan startup has come to America",
+      "summary": "Neko Health uses 'advanced technology' to screen for issues in the blood, skin, and metabolism."
+    }
+  ]
+}

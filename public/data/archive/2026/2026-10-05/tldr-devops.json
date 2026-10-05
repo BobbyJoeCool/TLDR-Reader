@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-10-05",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/cloudflare-tracing/?utm_source=tldrdevops",
+      "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+      "summary": "Cloudflare Traces is now available in open beta, extending automatic tracing beyond Workers to the rest of the request path. Users can view security rules, transformations, cache decisions, and origin handling in one trace without special configuration or plugins. The feature supports OpenTelemetry and enables users to control sampling rates or trace 100% of specific traffic using Trace Rules."
+    },
+    {
+      "url": "https://lwkd.info/2026/20260930?utm_source=tldrdevops",
+      "title": "Last Week in Kubernetes Development: Week Ending September 27, 2026",
+      "summary": "Two medium-severity Kubernetes CVEs were disclosed and patched, SIG Cluster Lifecycle is getting a new chair, and v1.38 entered Enhancements Freeze with 89 of 100 enhancements remaining. Device Binding Conditions graduated to GA, and steering elections close on October 2."
+    },
+    {
+      "url": "https://cd.foundation/blog/2026/09/30/project-updates-sept-2026/?utm_source=tldrdevops",
+      "title": "CD Foundation Project Updates September 2026",
+      "summary": "The CD Foundation's September update covers CDEvents spec v0.5.1, Jenkins finishing five Google Summer of Code projects, and Spinnaker 2026.3.0, which removes AWS SDK1 and Halyard. Ortelius, Screwdriver, and JayeX also reported progress."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/?utm_source=tldrdevops",
+      "title": "Closed-loop incident response: connect AWS DevOps Agent to OpenSearch",
+      "summary": "A new AWS guide explains how to connect AWS DevOps Agent to Amazon OpenSearch Service using the Model Context Protocol (MCP). This setup allows an AI agent to automatically investigate alerts by querying logs and traces, rather than requiring manual intervention from an engineer. Organizations can host the MCP server on Amazon ECS, Amazon Bedrock AgentCore, or use the built-in endpoint on OpenSearch version 3.3+."
+    },
+    {
+      "url": "https://www.uber.com/ad/en/blog/uber-eats-search-pipeline/?utm_source=tldrdevops",
+      "title": "Halving the Time: How Uber Eats Rebuilt Its Search Pipeline",
+      "summary": "Uber cut end-to-end Eats search latency in half by removing low-value retrieval paths, separating ranking features from presentation data, and eliminating false dependencies between pipeline stages. Additional gains came from pagination, concurrent rendering, request hedging, compact embeddings, and fixing service-mesh connection bottlenecks."
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable?utm_source=tldrdevops",
+      "title": "Impeccable (GitHub Repo)",
+      "summary": "Impeccable is a design skill for AI coding agents that includes 24 commands and 61 deterministic detector rules for identifying common problems in AI-generated frontend design. The tool works with editors including Cursor, Claude Code, VS Code, and Grok Build."
+    },
+    {
+      "url": "https://github.com/pingdotgg/t3code?utm_source=tldrdevops",
+      "title": "T3code (GitHub Repo)",
+      "summary": "T3 Code is an \"agent harness control surface\" that manages AI agents from Claude, Codex, Cursor, and other platforms. Users can control these agents through mobile, web, and desktop apps."
+    },
+    {
+      "url": "https://github.com/facebook/rebalancer?utm_source=tldrdevops",
+      "title": "Rebalancer (GitHub Repo)",
+      "summary": "Meta open-sourced Rebalancer, a library for assigning tasks, shards, servers, and traffic while balancing resource limits, placement constraints, and optimization objectives. It supports local-search and mixed-integer solvers, plus a Dockerized Explorer interface for debugging why assignments were made and which constraints are binding."
+    },
+    {
+      "url": "https://blog.cloudflare.com/introducing-web-search-api/?utm_source=tldrdevops",
+      "title": "Introducing Web Search API via AI Gateway",
+      "summary": "Cloudflare partnered with web search providers Ceramic.ai, Exa, and Linkup to add web search capabilities to its AI Gateway. The feature lets agents retrieve live data instead of guessing URLs. Web search partners must comply with Cloudflare's \"Verified bots\" requirements and respect robots.txt."
+    },
+    {
+      "url": "https://www.infoq.com/presentations/ai-production-operations/?utm_source=tldrdevops",
+      "title": "Beyond Observability: Evolving Production Operations in the Age of AI",
+      "summary": "Panelists from Genesys, Netflix, and Groundcover discuss using AI agents for incident response and observability, stressing human accountability, machine-readable high-cardinality telemetry, sandboxed rollouts, and organizational context. They advise starting small in greenfield environments and documenting jobs to be done for agents."
+    },
+    {
+      "url": "https://www.infoq.com/articles/high-availability-not-resilience-cloud/?utm_source=tldrdevops",
+      "title": "High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most",
+      "summary": "A TLS 1.3 upgrade broke Route 53 health checks and silently rerouted a region's traffic, showing that high availability differs from resilience."
+    },
+    {
+      "url": "https://www.techtarget.com/it-infrastructure/definition/What-is-IT-automation-A-complete-guide-for-IT-teams?utm_source=tldrdevops",
+      "title": "What is IT Automation? A Complete Guide",
+      "summary": "IT automation replaces manual data center and cloud work with repeatable scripted processes."
+    }
+  ]
+}

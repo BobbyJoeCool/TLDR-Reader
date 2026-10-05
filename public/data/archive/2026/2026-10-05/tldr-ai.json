@@ -1,0 +1,78 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-10-05",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.primeintellect.ai/blog/prime-inference?utm_source=tldrai",
+      "title": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+      "summary": "Prime Inference covers both serverless endpoints and reserved capacity. It offers resilient serving of frontier open-source models on Prime Intellect's GPU infrastructure across multiple data centers. The serving platform has powered large-scale RL rollouts, synthetic data generation, evaluations, and long-running coding agents at Prime, processing nearly a trillion tokens internally every day. Prime's mission is to build frontier open models and the open superintelligence stack for continuously improving agents."
+    },
+    {
+      "url": "https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context/?utm_source=tldrai",
+      "title": "Aleph Alpha releases open-weight Kolibri with 1M context",
+      "summary": "Kolibri is an open-weight English-German Mixture-of-Experts model with 78.1 billion parameters. It supports tool calling and contexts up to one million tokens. The model is available on Hugging Face under the Apache 2.0 license. It is designed for sovereign, mission-critical work in government and regulated industries."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html?utm_source=tldrai",
+      "title": "Anthropic to invest $100 million to train AI engineer talent",
+      "summary": "Anthropic is investing $100 million in the Claude Frontier Academy to train 10,000 AI engineers by 2027. The program partners with firms like Accenture and Morgan Stanley to enhance AI fluency and enterprise tech integration. The initiative addresses increasing demand for AI expertise in various industries."
+    },
+    {
+      "url": "https://epoch.ai/publications/estimating-the-agent-population?utm_source=tldrai",
+      "title": "How many AI agents could run on the AI chips shipped through 2027?",
+      "summary": "AI chips shipped through 2027 could run tens to hundreds of millions of concurrent frontier-model agents. These agents could supply as many weekly working hours as about 140-720 million full-time employees. Even a modest use of this capacity would require a massive increase in global demand for AI. Using 20% of the estimated central capacity would imply $2.6 trillion to $5.3 trillion a year in API-equivalent spending."
+    },
+    {
+      "url": "https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue?utm_source=tldrai",
+      "title": "AI21 uses Kueue to manage a 10,000-GPU fleet",
+      "summary": "AI21 describes replacing ad hoc GPU-capacity negotiations with queueing and fair scheduling across a shared Google Cloud cluster. A Google Cloud case study says high-priority workloads began 83% sooner under the new setup."
+    },
+    {
+      "url": "https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/?utm_source=tldrai",
+      "title": "Smaller models are the future of AI sovereignty",
+      "summary": "Australia needs AI sovereignty by retaining control and choice, not relying on external companies for critical capabilities. Smaller, specialized AI models offer practical benefits such as adaptability, cost-efficiency, and easier governance compared to larger, frontier models. Embracing a portfolio approach with open-weight models increases options, fostering managed interdependence without becoming dependent on a single provider."
+    },
+    {
+      "url": "https://cactuscompute.com/blog/whistle?utm_source=tldrai",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "summary": "Whistle is an open speech recognition model that runs on the same CPU engine as Needle. It can transcribe English, German, French, Spanish, Italian, Dutch, and Polish. At 16.8 MB, the model can run on mobiles, wearables, robots, smart home devices, automobiles, and microcontrollers."
+    },
+    {
+      "url": "https://vxlang.org/?utm_source=tldrai",
+      "title": "Vx (Website)",
+      "summary": "Vx is a systems programming language for heterogeneous computing. It puts hardware topology, memory placement, and reachability directly into the type system. Vx front-loads into type checking a class of bug that normally surfaces as a runtime crash, silent corruption, or an out-of-memory error at training step 1,200. Vx is the right language for things that must be correct and fast across ten kinds of silicon."
+    },
+    {
+      "url": "https://x.com/worldnetwork/status/2105989118287134752?utm_source=tldrai",
+      "title": "Muse, dots, Instinct, and the question every agent will be asked",
+      "summary": "Agentic services will increasingly need to prove both which agent is acting and whether a real person authorized it. World ID lets users delegate privacy-preserving Proof of Human credentials to agents for access, limits, and approvals."
+    },
+    {
+      "url": "https://x.com/RayanKrishnan/status/2106053382448484796?utm_source=tldrai",
+      "title": "Human Intelligence is Surprising",
+      "summary": "Human intelligence is a recent evolutionary accident, while AI can optimize directly against explicit objectives and rapidly surpass people on measurable tasks. The harder human problem is defining worthwhile objectives without steering models toward the wrong capabilities."
+    },
+    {
+      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/?utm_source=tldrai",
+      "title": "Toward provably private learning from federated data",
+      "summary": "Google's new Federated Learning system provides externally verifiable privacy guarantees while shifting computation to the server to improve training speed, accuracy, and device coverage."
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38721?utm_source=tldrai",
+      "title": "Multimodal Models Learn From Their Own Critiques",
+      "summary": "UniEvo-VL lets a single multimodal model act as both teacher and student, using its own critiques as privileged information during test-time self-improvement."
+    },
+    {
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link?utm_source=tldrai",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta has open-sourced code to allow integration of its Muse AI agent into custom gadgets."
+    },
+    {
+      "url": "https://research.meta.ai/blog/solving-open-research-problems-together?utm_source=tldrai",
+      "title": "Solving Open Research Problems Together",
+      "summary": "Meta partnered with mathematicians to solve open mathematical research problems using its Muse Spark AI models."
+    }
+  ]
+}
