@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-10-06",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.eventmarketer.com/article/experiential-marketing-trend-of-the-week-brand-gazettes/?utm_source=tldrmarketing",
+      "title": "Experiential Marketing Trend: Brand Gazettes",
+      "summary": "Brand gazettes are becoming a way for brands to extend physical events into tangible content experiences. Publications are designed specifically for an activation and give attendees something to read and keep after the event. Grey Goose used its Gazette to tell stories about the brand's French heritage while Disney recreated the fictional Runway magazine from The Devil Wears Prada 2 as a real 90-page issue. QR codes and other interactive elements can also connect print content to digital experiences."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2026-10-03/american-consumers-tap-home-equity-and-ai-as-prices-rise?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTIwNTI5OCwiZXhwIjoxNzkxODEwMDk4LCJhcnRpY2xlSWQiOiJUTUM0ODNLSUpIOFcwMCIsImJjb25uZWN0SWQiOiI0RTBDNzNFOTJCRTc0NjVDQjlDMDEyRUQ0RkNDMjE3OSJ9.miNIZzAJ3rR5h46GSH5bKydYGGLhrTe8ICTz7tNmsf0&utm_source=tldrmarketing",
+      "title": "Cash-Strapped Americans Tap Home Equity and AI to Keep Spending",
+      "summary": "Consumers are maintaining spending despite higher prices by finding ways to offset rising costs. Grocery prices are up 32% since 2020, yet spending on cars, clothing, and restaurants still increased in August. Some consumers are using credit or drawing from savings while others are cutting costs elsewhere. AI is also becoming a budgeting tool, with one consumer using ChatGPT to compare grocery prices and save about $100 a month."
+    },
+    {
+      "url": "https://expo.dev/blog/you-automated-your-build-your-growth-is-still-manual?utm_source=tldrmarketing",
+      "title": "You automated your build. Your growth is still manual",
+      "summary": "Growth compounds when each marketing activity creates inputs for the next one. The author focuses on 3 growth loops: app installs can improve store visibility, content can inform the next post, and product usage can generate reviews and user content. The content loop is often the slowest because it requires the most manual work, yet it can have significant results. Find the slowest step in each loop and remove unnecessary manual handoffs so each cycle happens faster."
+    },
+    {
+      "url": "https://www.saastr.com/we-vibe-coded-our-own-calendly-our-ai-agent-pushed-us-to-do-it-and-it-was-right/?utm_source=tldrmarketing",
+      "title": "We Vibe Coded Our Own Calendly. Our AI Agent Pushed Us To Do It, and It Was Right",
+      "summary": "A 3-person team built its own scheduling tool in 20 mins after its AI agent identified a limitation with Calendly. The custom booker connects scheduling to Salesforce and prospect data, showing each prospect a personalized prospectus and routing them to the right salesperson based on account ownership. The team could have integrated Calendly, but the agent determined that most of the custom logic would still need to be built. The default remains buying software, with custom builds reserved for narrow workflows where proprietary data creates an advantage."
+    },
+    {
+      "url": "https://lilyraynyc.substack.com/p/prediction-the-next-massive-google?utm_source=tldrmarketing",
+      "title": "Prediction: the next massive Google update is around the corner",
+      "summary": "Google tends to rewrite its documentation shortly before a major update, and it has just rewritten its guidance on AI content and authorship. Publishing AI text at scale without manual review now counts as little to no effort, and invented authors with AI headshots count as deception. The GEO tactics built to win AI answers, including self-ranking listicles and paid mentions, repeat old SEO spam patterns that Google has historically shut down. Cutting or consolidating scaled content before an update is often easier than recovering after one."
+    },
+    {
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/?utm_source=tldrmarketing",
+      "title": "Building advertising for the way people use AI",
+      "summary": "OpenAI is testing visual ads in ChatGPT that show products and services through images during image generation. The format lets advertisers demonstrate products in use and link to more information. ChatGPT Ads are also adding conversion tracking and attribution through partners including Hightouch, Tealium, LiveRamp, AppsFlyer, and Triple Whale. Testing starts in the US later this month."
+    },
+    {
+      "url": "https://destbreso.com/blog/bcs-the-economics-of-the-streak?utm_source=tldrmarketing",
+      "title": "The Economics of the Streak: Loyalty Programs and Stars",
+      "summary": "Loyalty programs use loss aversion and goal gradients to make accumulated points feel like possessions worth protecting. A 100-day streak can become more motivating to preserve than the underlying habit, while being close to a reward or tier encourages extra spending. Programs also benefit from unredeemed points through breakage and collect purchase data. They can reward behaviors customers already value or drive spending and engagement mainly to avoid losing accumulated progress."
+    },
+    {
+      "url": "https://kristenberman.substack.com/p/i-shopped-for-soccer-shoes-with-chatgpt?utm_source=tldrmarketing",
+      "title": "I shopped for soccer shoes with ChatGPT, Claude, and Muse. One got me closer to buying",
+      "summary": "AI shopping assistants need to balance choice with guidance to build purchase confidence. ChatGPT won by showing 3 soccer shoe options with a recommended pick and clear comparison. Claude offered useful product details but lacked images and purchase links. Muse made shopping more engaging with interactive questions and visuals but recommended the wrong shoes. The test suggests giving shoppers a few options plus a clear recommendation can make AI-assisted purchases easier."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/chloe-christine-allerton_universal-analytics-stopped-processing-data-share-7512584065355657219-xIPh/?utm_source=tldrmarketing",
+      "title": "Clean up your UA tags",
+      "summary": "Search Google Tag Manager for old “Universal Analytics” or “UA-” tags, pause them for a week, then remove them if nothing breaks."
+    },
+    {
+      "url": "https://newsletter.mkt1.co/p/marketing-salaries-2026?utm_source=tldrmarketing",
+      "title": "I analyzed 1,100+ job posts with Claude Code. Here's what B2B marketers get paid",
+      "summary": "B2B marketing salaries range from a $119K median for early-career roles to $300K for VP and CMO roles."
+    }
+  ]
+}

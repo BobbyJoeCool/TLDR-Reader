@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-10-06",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://philippdubach.com/posts/future-of-knowledge-inside-the-enterprise/?utm_source=tldrproduct",
+      "title": "The Future of Knowledge Inside the Enterprise",
+      "summary": "Enterprise knowledge management creates business value by connecting organizational experience to AI agents acting under human accountability. Establishing a context layer over existing systems extends expertise, improves efficiency, enhances verification, and strengthens continuity through a structured operating model."
+    },
+    {
+      "url": "https://docs.base14.io/blog/role-of-product-manager/?utm_source=tldrproduct",
+      "title": "Building is cheap. Owning it is not",
+      "summary": "While modern tools and AI make building software products cheaper, the cost of ownership and making strategic choices remains high. Dedicated PMs add value by focusing on business viability, ranking roadmap bets, tracking clear predictions, and acting as communication bridges and quality gatekeepers for their teams."
+    },
+    {
+      "url": "https://thrivinginengineering.substack.com/p/who-is-your-bullseye-customer?utm_source=tldrproduct",
+      "title": "Before You Build, Ask Yourself: Who is Your Bullseye Customer?",
+      "summary": "Early-stage product teams should define a one-sentence Bullseye Customer hypothesis before building. Specifying the target customer, trigger, and outcome surfaces hidden team disagreements and improves user research."
+    },
+    {
+      "url": "https://www.romanpichler.com/podcast/product-ethics-in-the-age-of-ai?utm_source=tldrproduct",
+      "title": "Product ethics in the age of AI (13 minute podcast)",
+      "summary": "Product ethics in the age of artificial intelligence must become a core success factor alongside desirability, feasibility, and viability, rather than remaining an afterthought. This podcast episode explains how to integrate ethical considerations into the innovation process, factor them into strategy updates, and measure a product's ethical impact."
+    },
+    {
+      "url": "https://www.thevoiceofuser.com/uxr-team-not-uxr-people-a-manifesto-on-how-a-modern-research-team-should-work/?utm_source=tldrproduct",
+      "title": "A Manifesto on How a Modern Research Team Should Work",
+      "summary": "Modern UX research teams fail when researchers work in isolation. To fix this, teams should adopt shared goals, conduct weekly peer critiques, maintain a central user research record, and enforce clear rules for study requests."
+    },
+    {
+      "url": "https://www.productcompass.pm/p/jev-decision-model?utm_source=tldrproduct",
+      "title": "A New Kind of AI Model: Jev and Quick Wins for PMs",
+      "summary": "TypeSafe AI's Jev is a decision model that outputs probabilities rather than text. Operating at low cost and high speed, it supports binary questions, multiple-choice selections, and scoring."
+    },
+    {
+      "url": "https://productpicnic.beehiiv.com/p/the-fake-double-diamond-is-dead-the-real-double-diamond-is-immortal?utm_source=tldrproduct",
+      "title": "The fake double diamond is dead. The real double diamond is immortal",
+      "summary": "The product development dichotomy between upfront definition and continuous iteration is a false choice. True innovation requires balancing upfront discovery with ongoing observation within a cohesive system. Relying on artificial shortcuts or AI-driven alignment ultimately degrades software quality and prevents teams from solving complex problems."
+    },
+    {
+      "url": "https://cwodtke.medium.com/users-dont-hate-change-they-hate-you-461772fbcac7?utm_source=tldrproduct",
+      "title": "Users don't hate change. They hate you",
+      "summary": "Users do not inherently hate change - they resent updates that destroy their familiarity and control without clear benefit. Citing psychological research on loss aversion, the article explains that users weigh losses in comfort far more than potential gains, criticizing tech companies for forcing redesigns without explaining their value."
+    },
+    {
+      "url": "https://hraness.com/reading/what-i-learned-getting-acquired-by-google?utm_source=tldrproduct",
+      "title": "What I learned getting acquired by Google",
+      "summary": "A co-founder of Socratic reflects on their startup's acquisition by Google, detailing the challenges of rebuilding their product on Google's stack while navigating reorgs, reviews, and process debt."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107131339355181240.html?utm_source=tldrproduct",
+      "title": "10 things OpenAI's Tibo thinks builders are underestimating about AI",
+      "summary": "Tibo Sottiaux highlights upcoming shifts in AI, emphasizing that product teams must build for faster, cheaper, and more capable models while focusing on user understanding and taste."
+    }
+  ]
+}

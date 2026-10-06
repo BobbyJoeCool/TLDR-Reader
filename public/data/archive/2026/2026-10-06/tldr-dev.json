@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-06",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.builder.io/blog/build-an-agent-loop-a-small-model-can-finish?utm_source=tldrdev",
+      "title": "Build an agent loop a small model can finish",
+      "summary": "A reliable agent loop depends less on model size than on a trustworthy check that turns progress into a score or pass condition. In two visual tasks, small models improved dramatically when they received repeatable feedback across varied examples and holdout cases, while weak checks encouraged overfitting or shortcuts."
+    },
+    {
+      "url": "https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev?utm_source=tldrdev",
+      "title": "How we built the fastest, cheapest browser agent with Jev",
+      "summary": "IronBee Express uses Jev as a fast classifier for bounded browser decisions, calling an LLM only for writing, recovery, or failure explanations. Explored runs cost about $0.0042 for 20 actions, recordings can replay with no step decisions, and narrow verification questions helped a 130-run replay test reach 130 correct outcomes."
+    },
+    {
+      "url": "https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era/?utm_source=tldrdev",
+      "title": "Chat is AI's command line",
+      "summary": "Chat is useful for rough direction, but it becomes awkward when people need to make precise edits or understand the state of ongoing work. The piece argues for AI interfaces built around direct manipulation, visible state, and reversible experimentation, much like spreadsheets and graphical desktops expanded computing beyond the command line."
+    },
+    {
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/?utm_source=tldrdev",
+      "title": "Ephemeral testing",
+      "summary": "Ephemeral testing evaluates a software component by asking an AI agent to build disposable applications or layers on top of it, then judging how well those downstream projects work. Repeating the exercise with different agents and tasks can expose hidden state, unstable invariants, surprising defaults, and weak documentation."
+    },
+    {
+      "url": "https://tanstack.com/blog/tanstack-charts-1-0?utm_source=tldrdev",
+      "title": "TanStack Charts 1.0",
+      "summary": "TanStack Charts 1.0 offers a composable, type-safe charting system built from marks, scales, axes, and interactions instead of rigid chart types. It supports custom marks and renderers, optional SVG or Canvas output, modular animation and scale packages, and a stable API intended to evolve without forcing applications to rebuild their visualizations."
+    },
+    {
+      "url": "https://reflection.ai/blog/introducing-beam?utm_source=tldrdev",
+      "title": "Introducing Beam: Reflection's 501B open-weight model",
+      "summary": "Beam is a sparse Mixture-of-Experts model with 501 billion total parameters and 23 billion active parameters aimed at coding, reasoning, and agentic workloads. Reflection trained it on 23.8 trillion tokens and more than 100 million reinforcement learning rollouts, with Apache 2.0 weights and developer artifacts planned for release later this month."
+    },
+    {
+      "url": "https://adventures.nodeland.dev/archive/how-bookingcom-cut-nodejs-costs-by-38-with-watt?utm_source=tldrdev",
+      "title": "How Booking.com cut Node.js costs by 38% with Watt",
+      "summary": "Booking.com moved a major Node.js rendering service from pm2 clustering to Watt worker threads, cutting compute costs by 38% with 30% fewer pods, 20% less memory per pod, and up to 10% lower tail latency. The migration required no service code changes, and production tests showed 40% to 50% more throughput within the same latency target."
+    },
+    {
+      "url": "https://armstr.ng/writing/worth-building?utm_source=tldrdev",
+      "title": "Worth building",
+      "summary": "Cheaper software development makes small tools worthwhile even when they solve one person's annoyance and never become a business. As more people can ship, the story behind a project and the choices that shaped it become increasingly important reasons for others to care."
+    },
+    {
+      "url": "https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now/?utm_source=tldrdev",
+      "title": "CSS does your tooltip positioning now",
+      "summary": "CSS anchor positioning, position fallbacks, popovers, and anchor-size() can now handle responsive tooltip and dropdown placement with little or no JavaScript, though component-scoped anchor names and accessible DOM order still matter."
+    },
+    {
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/?utm_source=tldrdev",
+      "title": "Introducing Web Search API",
+      "summary": "Cloudflare's beta Web Search API lets agents search through Ceramic.ai, Exa, or Linkup via AI Gateway with Zero Data Retention, gateway logging, and provider list pricing without added markup."
+    },
+    {
+      "url": "https://pranitha.dev/posts/rwlock-vs-lockfree/?utm_source=tldrdev",
+      "title": "The performance cost of RwLock in a read-heavy workload",
+      "summary": "A Rust benchmark found that replacing 16,384 per-item RwLock acquisitions with one Crossbeam epoch guard and atomic pointer loads raised read throughput from 15.93k to 229.07k operations per second, while a simple lock still worked well around an infrequently changed collection."
+    },
+    {
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors?utm_source=tldrdev",
+      "title": "Two Room-Temperature Antiferromagnetic Semiconductor Candidates",
+      "summary": "AI agents identified two candidate room-temperature Luttinger-compensated semiconductors for spintronic memory, but one may be difficult to synthesize, and the other still needs direct measurement of its band gap and spin sorting."
+    }
+  ]
+}

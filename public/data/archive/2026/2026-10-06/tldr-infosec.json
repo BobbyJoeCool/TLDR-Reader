@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-10-06",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://forkast.news/bouncy-castle-cve-2026-71885-harvested-the-credential-binding-that-authenticates-agent-to-agent-channels?utm_source=tldrinfosec",
+      "title": "Bouncy Castle CVE-2026-71885 Harvested the Credential Binding That Authenticates Agent-to-Agent Channels",
+      "summary": "A critical vulnerability in Bouncy Castle for Java versions before 1.86 lets attackers spoof legitimate participants and decrypt messages within Messaging Layer Security groups. Improper certificate validation in the protocol implementation lets threat actors bypass core security objectives by presenting arbitrary credentials. Developers must upgrade to version 1.86 to enforce cryptographic binding between end-entity certificates and LeafNode signature keys."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/?utm_source=tldrinfosec",
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
+      "summary": "A critical path traversal flaw in Dell System Update (CVE-2026-86360) allowed unauthenticated remote attackers to execute code as root on PowerEdge servers using the DSU deployment tool. Dell's advisory also addressed four other high-severity DSU vulnerabilities: two that enable remote code execution (CVE-2026-63697 and CVE-2026-71168) and two that enable privilege escalation (CVE-2026-86361 and CVE-2026-86362). None have been reported as exploited so far. Admins should upgrade to DSU 2.3.0.0 or later."
+    },
+    {
+      "url": "https://beyondmachines.net/event_details/roundcube-webmail-sql-injection-vulnerability-cve-2026-48842-under-active-exploitation-o-t-j-p-f?utm_source=tldrinfosec",
+      "title": "Roundcube Webmail SQL Injection Vulnerability CVE-2026-48842 Under Active Exploitation",
+      "summary": "Unauthenticated attackers are actively exploiting a pre-authentication SQL injection vulnerability in Roundcube Webmail versions 1.6.0 through 1.6.15 and 1.7.0 to execute arbitrary database commands and access sensitive data. The flaw, tracked as CVE-2026-48842, resides in the built-in virtuser_query plugin. Administrators must immediately update to versions 1.6.16 or 1.7.1, or disable the vulnerable plugin."
+    },
+    {
+      "url": "https://fenrisk.com/research/open-build-service-2/?utm_source=tldrinfosec",
+      "title": "Open Build Service, one year later: command execution through Mercurial argument injection",
+      "summary": "Fenrisk found CVE-2026-56004 in Open Build Service's obs_scm Mercurial backend. An attacker-controlled _service revision beginning with --config could set a pre-update hook and run shell commands on the service server. A space in the value bypassed Python argparse handling of dash-prefixed arguments. Exploitation required Mercurial, a reachable HTTP(S) repository, and a successful clone. Fenrisk confirmed build.opensuse.org was vulnerable. openSUSE patched the flaw on July 2 by adding -- before the revision and recommending rejection of dash-prefixed revisions."
+    },
+    {
+      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/?utm_source=tldrinfosec",
+      "title": "A peek into Reddit's anti-spam internals",
+      "summary": "A 2021 Reddit glitch exposed internal removal reasons in Relay notifications. Screenshots reveal domain blocks, account bans, shadowbans, Spamurai rules, and URL inspection. Spamurai logged account age, karma, reports, ISP, email domain, browser details, language headers, TLS fingerprints, and referrers. This reproduced a Perspective API score and showed that appending two letters changed a spam score from 86% to 1%. Reddit also followed redirected URLs, scanned page content, and matched a Google Analytics ID tied to a spam ring."
+    },
+    {
+      "url": "https://automatictransmission.khoury.northeastern.edu/?utm_source=tldrinfosec",
+      "title": "Your car is a smartphone on wheels. Here's who's listening",
+      "summary": "Northeastern researchers and Consumer Reports captured Wi-Fi traffic from 21 vehicles through a Raspberry Pi access point, decrypted 30 companion iOS apps with mitmproxy, and found that 19 vehicles contacted at least one third party, including ad and tracking domains. Seven apps sent VINs, emails, phone numbers, or precise location to trackers, and GM's four apps shared VINs with ten companies, including Meta, Google, and Acxiom. Pairing a companion app roughly doubled a vehicle's tracker exposure on average, and of 17 manufacturers contacted, most shifted responsibility to owners. One notable exception: Honda improved its data collection practices to avoid sending precise geolocation information to a third party involved in user tracking."
+    },
+    {
+      "url": "https://github.com/coipond/coi?utm_source=tldrinfosec",
+      "title": "Coi (GitHub Repo)",
+      "summary": "Coi protects host credentials and files by isolating AI coding agents such as Claude Code or Codex inside Linux system containers during autonomous sessions. The open-source tool uses Incus, a lightweight LXD fork, to grant root access, systemd, and native Docker, alongside kernel-level threat detection that automatically pauses or kills compromised containers."
+    },
+    {
+      "url": "https://github.com/guardana/guardana?utm_source=tldrinfosec",
+      "title": "Guardana (GitHub Repo)",
+      "summary": "Guardana is an open-source AI security verification tool for security and platform engineers. It checks code and model artifacts, live AI systems, and recorded runs. It reports what it found, what it could not verify, and what it could not check. It verifies outside the request path. Guardana is not an inline guardrail, a general SAST or CVE scanner, or a compliance certification."
+    },
+    {
+      "url": "https://www.doxx.net/?utm_source=tldrinfosec",
+      "title": "doxx.net (Product Launch)",
+      "summary": "doxx.net has launched ADN, a private network with peer-to-peer messaging, file transfers, custom domains, and DNS threat blocking. It blocks malicious destinations before connections and uses proof-of-work accounts without usernames, passwords, or personal data."
+    },
+    {
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/?utm_source=tldrinfosec",
+      "title": "Apple and a Hacker's Future",
+      "summary": "A Claude Code agent flagged a root-level Monero miner on Ben Thompson's always-on Mac Mini after attackers exploited CVE-2026-65400, a macOS screen sharing flaw, through an internet-exposed port 5900. Thompson kept screen sharing on because headless Macs need someone to click GUI-only TCC prompts, and he found that the automatic security updates setting did not cover the point release carrying the fix. He argues that Apple's planned Full Disk Access restrictions push macOS further toward a managed device, at odds with agent-driven computing."
+    },
+    {
+      "url": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/?utm_source=tldrinfosec",
+      "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
+      "summary": "The Senate passed the Health Care Cybersecurity and Resilience Act by unanimous consent. The bill moves to the House. It funds prevention, incident response, and security training. It directs HHS and CISA coordination, names ASPR as sector risk manager, and requires an HHS incident-response plan."
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/?utm_source=tldrinfosec",
+      "title": "ShinyHunters hacker in FBI data theft detained in Jordan, cooperating with bureau, sources say",
+      "summary": "Jordanian authorities detained alleged ShinyHunters member Saif al-Din Khader, known as Rey. Two sources said he is helping the FBI identify other members through his devices and correspondence with a sample of stolen FBI data containing employee identities, job details, and medical and psychiatric records. The group's dark-web site disappeared after another alleged member was detained in the Netherlands."
+    },
+    {
+      "url": "https://www.phoronix.com/news/AMD-Zen-6-BTB-CTX-Linux-7.4?utm_source=tldrinfosec",
+      "title": "Linux 7.4 To Land New BTB CTX Isolation Feature Of AMD Zen 6",
+      "summary": "Linux 7.4 will support AMD Zen 6's BTB CTX Isolation, which separates user/kernel and guest/host branch predictor contexts."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/?utm_source=tldrinfosec",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise' in AI submissions",
+      "summary": "Google paused its Open Source Software Vulnerability Rewards Program on October 1 after automated reports flooded maintainers and engineers."
+    },
+    {
+      "url": "https://www.yahoo.com/news/world/articles/data-breach-hits-denmarks-population-113327844.html?utm_source=tldrinfosec",
+      "title": "Data breach hits Denmark's population register, affecting 8.8 million",
+      "summary": "Names, addresses, and CPR numbers for about 8.8 million people were exposed after attackers accessed Denmark's Central Population Register, reportedly using a Danish company's legitimate login credentials."
+    }
+  ]
+}
