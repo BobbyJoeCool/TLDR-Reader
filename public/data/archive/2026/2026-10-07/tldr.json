@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-07",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.nytimes.com/2026/10/06/science/openai-math-problems.html?unlocked_article_code=1.G1E.ZtV-._3l-Xarh37IT&smid=url-share&utm_source=tldrnewsletter",
+      "title": "OpenAI Releases Findings on 377 Math Problems, Further Roiling Field",
+      "summary": "OpenAI released hundreds of new findings spanning a wide range of topics including algebra, number theory, theoretical computer science, mathematical logic, and topology. These were solved with an internal model that has not been released publicly. There is debate on whether OpenAI's systems were employing creative thinking or simply completing the final steps of a proof after borrowing ideas from human mathematicians' work. OpenAI has provided summaries of how its models came up with the solution for 10 of the problems."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTM0MDUyNSwiZXhwIjoxNzkxOTQ1MzI1LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.p5C0LmMpeaR0RutnTheHAawT8APIRiBf5yBSNNpnwcU&utm_source=tldrnewsletter",
+      "title": "Apple to Launch Doorbell, Lock, Thermostat Developed With LG",
+      "summary": "Apple plans to launch several devices developed through a partnership with LG as part of an ecosystem of devices that work with its new smart home hub. These include a doorbell, thermostat, an upgraded HomePod mini, and a fresh TV set-top box. The products, set to launch on October 13, will carry the LG brand. Most of the devices will include support for Wi-Fi, Bluetooth, Thread, and Matter."
+    },
+    {
+      "url": "https://www.tectonicdefense.com/andurils-big-week-arsenal-2-ngc2-and-a-6-6b-bet-on-the-future-of-american-shipbuilding/?utm_source=tldrnewsletter",
+      "title": "Anduril's Big Week: Arsenal-2, NGC2, and a $6.6B Bet on the Future of American Shipbuilding",
+      "summary": "Anduril recently announced that it was awarded a contract worth up to $1.8 billion over five years to scale Lattice across the Army's Next-Generation Command and Control effort. The company plans to build the second of its Arsenal mega-factories in Baltimore. The mega-factory will be shipbuilding-focused and will, when operations begin in 2030, span over 2 million square feet of manufacturing space. The facility will be backed by $6.6 billion across both private investment and up to $2.9 billion through a submarine production contract with the US Navy."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html?unlocked_article_code=1.G1E.6Viw.7hEh6hhvzhML&smid=url-share&utm_source=tldrnewsletter",
+      "title": "A New Trend in Nuclear Energy: Squeezing More Power Out of Old Plants",
+      "summary": "Building nuclear power plants takes a long time, so some companies are looking to upgrade older reactors to squeeze even more power out of them instead. These types of upgrades can cost billions and require approval by regulators, but they can often be completed in five years or less at a fraction of the cost of building a new plant from scratch. Many tech giants are eager to pay for these upgrades to power AI. Increasing production from existing nuclear plants will add an estimated 6,000 to 8,000 megawatts of electric capacity to US grids."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr&amp;sp=Azpxuhac1UTjxgboaD0qUokw",
+      "title": "Product Manager, Applied AI at TLDR ($225k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in?utm_source=tldrnewsletter",
+      "title": "The state of the tech industry in 2026",
+      "summary": "The speed of change in the tech industry has never been this large-scale or fast. Practically nobody writes code by hand anymore. Assumptions about code output have broken, code reviews have become theatrical, and quality and reliability are down. Teams are still important, as is planning. Engineers will likely stop reading code altogether as companies start building a new type of AI infrastructure."
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/decisions?utm_source=tldrnewsletter",
+      "title": "Decisions",
+      "summary": "OpenAI's Decisions API turns text and images into decisions that applications can use. It evaluates text, images, or both and returns typed answers 10 times faster than the Responses API. The Decisions API returns a probability that a condition is true, a choice from a fixed set, or a score against a rubric. These answers can be used to classify content, route requests, and prioritize work in an application."
+    },
+    {
+      "url": "https://ogzhanolguncu.com/blog/how-to-keep-learning-in-the-age-of-llms/?utm_source=tldrnewsletter",
+      "title": "How to keep learning in the age of LLMs",
+      "summary": "We used to learn things by doing something wrong first and then taking a lesson out of it. LLMs make everything so fast that we don't want to spend time doing the wrong things, even though it's more beneficial in the long run. The struggle is how the brain actually learns new things. Use AI to help you think through problems rather than just giving you the answer."
+    },
+    {
+      "url": "https://swapniltalekar.substack.com/p/the-decision-model-gold-rush?utm_source=tldrnewsletter",
+      "title": "The Decision Model Gold Rush",
+      "summary": "Decision models return a choice, a score, or a yes-or-no with a confidence number stapled on. Within a day of launch, TypeSafe's Jev decision model had been wired into 13% of Vercel's paid AI Gateway customer workflows, and within three days, Cloudflare, LangChain, and Langfuse had shipped integrations for it. It took competitors about two weeks to show up. The field is evolving quickly - this post looks at the criteria and nuances of using decision models in production to help readers decide which model to use."
+    },
+    {
+      "url": "https://survey.stackoverflow.co/2026?utm_source=tldrnewsletter",
+      "title": "Stack Overflow Developer Survey 2026",
+      "summary": "The Stack Overflow Developer Survey 2026 asked developers and technologists about everything from how they're using AI to how happy they are at work to where they're learning new skills."
+    },
+    {
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome?utm_source=tldrnewsletter",
+      "title": "Shipping JPEG XL in Chrome",
+      "summary": "JPEG XL offers 30% to 50% better compression than JPEG, lossless compression, built-in HDR support, lossless JPEG transcoding, and more."
+    },
+    {
+      "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/?utm_source=tldrnewsletter",
+      "title": "The keys to the Internet change on October 11. Are you ready?",
+      "summary": "The DNS root is scheduled to change its key-signing key for the second time ever on October 11."
+    },
+    {
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/?utm_source=tldrnewsletter",
+      "title": "What is Codemode",
+      "summary": "Codemode is a way for LLMs to express and orchestrate complex operations on the harness side, but not the execution environment side."
+    },
+    {
+      "url": "https://mitchellh.com/writing/program-status-osc7501?utm_source=tldrnewsletter",
+      "title": "A Terminal Protocol for Program Status (OSC 7501)",
+      "summary": "OSC 7501 is a specification for a terminal escape sequence that lets any program tell the terminal whether it's idling, working, waiting on the user, finished, or failed, and why."
+    },
+    {
+      "url": "https://ghuntley.com/lisp/?utm_source=tldrnewsletter",
+      "title": "An application in Lisp you grow by talking to it",
+      "summary": "Jiti is a small kernel for growing a running Lisp application through conversation with an LLM - users ask for a capability, the model writes Lisp, and the application permanently acquires that capability until the user asks for that capability to be removed."
+    }
+  ]
+}

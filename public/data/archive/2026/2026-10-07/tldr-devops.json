@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-10-07",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/?utm_source=tldrdevops",
+      "title": "What's new in AI infrastructure and orchestration in September",
+      "summary": "Google Cloud's September roundup highlights GKE Agent Substrate with 10x sandbox density, Pod snapshots cutting inference startup by 89%, a multi-cluster Inference Gateway, and new Filestore and VM storage options. It also cites analyst rankings in Forrester, Gartner, and SemiAnalysis ClusterMax."
+    },
+    {
+      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/?utm_source=tldrdevops",
+      "title": "Everything we launched during Birthday Week 2026",
+      "summary": "Cloudflare shipped 46 announcements during its Birthday Week 2026, including a new command-line interface called cf and an open-source pipeline named Forge. The company intends to become a public certificate authority and is preparing its cryptography for the post-quantum era. Cloudflare also launched a beta Monetization Gateway that lets creators charge AI agents for content using HTTP 402."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/?utm_source=tldrdevops",
+      "title": "Scaling Kubernetes Workloads with Node Swap",
+      "summary": "Kubernetes support for running nodes with swap enabled reached General Availability in v1.34. Tests using Local SSDs for swap showed density gains of up to 3× across workloads like kernel builds and isolated Python sandboxes. One benchmark scaled concurrent Python sessions from 80 to 240 by offloading dormant memory to disk."
+    },
+    {
+      "url": "https://www.elastic.co/blog/banks-ai-agents-visibility?utm_source=tldrdevops",
+      "title": "When AI agents swarm, can banks keep up?",
+      "summary": "Banks face new risks as AI agents act autonomously at machine speed, and individual controls alone may miss unexpected behavior. Elastic argues for unified data across logs, metrics, traces, threat intelligence, audit trails, and security operations that combine human judgment with automated investigation."
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure?utm_source=tldrdevops",
+      "title": "Proactive Defense: Hardening Code Pipelines and CI/CD Infrastructure",
+      "summary": "Ephemeral runners, short-lived OIDC credentials, immutable dependency references, and provenance verification limit opportunities for software supply-chain compromise. Isolating build caches by branch privilege, blocking untrusted pull requests from release secrets, and quarantining incoming dependencies help prevent malicious code from reaching trusted builds."
+    },
+    {
+      "url": "https://github.com/morluto/rea?utm_source=tldrdevops",
+      "title": "Rea (GitHub Repo)",
+      "summary": "REA lets users ask an AI agent to investigate app features without source code, explaining how they work down to the native binary level. It includes tools for inspecting JavaScript and Electron apps, .NET assemblies, websites, and native binaries through Hopper, Ghidra, or IDA Pro. Analysis runs locally, and the tool supports agents like Claude Code, Cursor, and GitHub Copilot CLI."
+    },
+    {
+      "url": "https://github.com/tester-army/e2e?utm_source=tldrdevops",
+      "title": "e2e (GitHub Repo)",
+      "summary": "e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/?utm_source=tldrdevops",
+      "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "summary": "Kubernetes v1.35 defaults to refusing kubelet startup on cgroup v1 nodes, making migration to cgroup v2 an operational upgrade concern. Teams should check kernel and runtime compatibility, align kubelet and runtime cgroup drivers, and update monitoring tools that read cgroup files directly."
+    },
+    {
+      "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15?utm_source=tldrdevops",
+      "title": "How fast is Python 3.15?",
+      "summary": "Informal CPU-bound benchmarks of Python 3.15.0rc3 show standard-interpreter performance largely unchanged from 3.14, while the experimental JIT runs roughly 20–28% faster than the standard 3.15 interpreter. Free-threaded builds deliver substantial gains in four-thread tests, but these results cover only Fibonacci and bubble-sort workloads rather than general application performance."
+    },
+    {
+      "url": "https://www.pulumi.com/blog/gcp-v10-release/?utm_source=tldrdevops",
+      "title": "Pulumi Google Cloud Provider Version 10.0.0",
+      "summary": "Pulumi has released version 10 of its Google Cloud provider."
+    },
+    {
+      "url": "https://thenewstack.io/openclaw-enterprise-kubernetes-agents/?utm_source=tldrdevops",
+      "title": "\"Think of it as Kubernetes for agents\": OpenClaw lands in the enterprise with OpenAI, Nvidia and Red Hat on board",
+      "summary": "OpenClaw Enterprise is an open-source control plane for managing AI agents on Kubernetes launched with backing from OpenAI, Nvidia, and Red Hat."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/09/cursor-continuity-git-storage/?utm_source=tldrdevops",
+      "title": "Cursor Uses S3 WAL to Scale Git Storage to More than 300 Pushes per Second",
+      "summary": "Cursor's Continuity treats S3-backed write-ahead logs as the source of truth for Git storage."
+    }
+  ]
+}

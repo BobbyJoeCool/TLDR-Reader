@@ -1,0 +1,93 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-10-07",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mistral.ai/news/mistral-large-4/?utm_source=tldrai",
+      "title": "Mistral Large 4",
+      "summary": "Mistral Large 4 is a one-trillion-parameter multimodal model positioned as a European alternative to leading closed and open AI systems."
+    },
+    {
+      "url": "https://deepmind.google/models/model-cards/nano-banana-2-1/?utm_source=tldrai",
+      "title": "Nano Banana 2.1",
+      "summary": "Nano Banana 2.1 is a member of the Gemini 3 series of models. It can take text and image inputs and output images and text. Based on Gemini 3.6 Flash, the model has a token context window of up to 1 million. Nano Banana 2.1 is available in the Gemini app and API, Google AI Studio, Google Search AI Mode, Google Ads, Google Flow, and Google Stitch."
+    },
+    {
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/?utm_source=tldrai",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI has released a broad range of mathematical results produced by an internal frontier model. It has published the results in a GitHub repository along with protocols for paper revisions and citations. The repository contains formalizations of many of the proofs in Lean and will be updated with more formalizations as they are obtained. It also includes 10 summaries of the model's reasoning, estimations of compute spent in terms of Pro usage on ChatGPT, and statistics about the number of attempted problems."
+    },
+    {
+      "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken?utm_source=tldrai",
+      "title": "The Cyber Risk Discourse is Broken",
+      "summary": "Open-weight models potentially pose an untenable risk to society's functionality. Chinese companies continue to release open-weight models with strong cyber capabilities. GLM-5.3 crosses a threshold of capability, but there is little public evidence that much has changed. Some say that open-weight models will result in a crippling of cyber infrastructure - after many years of debating open-weight risks, we will finally start to get some real answers."
+    },
+    {
+      "url": "https://projectzero.google/2026/10/emergency-patching.html?utm_source=tldrai",
+      "title": "Building Faster Emergency Patching Systems",
+      "summary": "Google Project Zero examined how large software vendors can patch urgent vulnerabilities faster than their normal release cycles allow. The guide breaks down the full remediation pipeline (from triage and development through testing, delivery, and activation) and highlights systems designed for exceptional security incidents."
+    },
+    {
+      "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877?utm_source=tldrai",
+      "title": "Decisions API is now available in Public Beta",
+      "summary": "OpenAI's Decisions API is now available to all developers in public beta. It makes decisions up to 10 times faster than GPT-6 Luna through the Responses API. The Decisions API accepts text and image inputs and supports three kinds of outputs: predicates, choices, and scores. It costs $0.10 per 1 million input tokens - there are no cache-read, cache-write, or output-token charges."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/?utm_source=tldrai",
+      "title": "EmbeddingGemma 2",
+      "summary": "EmbeddingGemma 2 is a 740M-parameter model that maps text, code, images, audio, and video into a shared embedding space. Built for on-device inference and released under Apache 2.0, it enables multimodal search and retrieval without sending data to the cloud."
+    },
+    {
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol?utm_source=tldrai",
+      "title": "Introducing Personal Agent Protocol",
+      "summary": "The Personal Agent Protocol is an open standard that Meta and Sierra are developing along with other industry partners. It is designed to handle authentication, empower consumers, and give companies visibility into what personal agents do through their websites, APIs, or company agents. Consumers decide what access to give their personal agents, and companies set parameters for what those agents can do. The protocol is open for anyone to implement."
+    },
+    {
+      "url": "https://pantheon.inc/research/diverse-umi?utm_source=tldrai",
+      "title": "Building the Most Diverse UMI Dataset in Robotics",
+      "summary": "Pantheon rapidly assembled a robust UMI data collection operation, creating a diverse dataset to improve dexterous manipulation in robotics. They built custom infrastructure and hardware, drastically reducing data collection costs from $60/hr to $10/hr while ensuring data diversity. By incorporating innovative freeform and scripted methodologies, Pantheon accumulated over a million unique tasks, overcoming traditional data limitations for enhanced AI model training."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html?unlocked_article_code=1.G1E.vzNX.LAgmpYtxdpWb&smid=url-share&utm_source=tldrai",
+      "title": "In Race With US, China Struggles to Recruit Foreign AI Researchers",
+      "summary": "China has made recruiting the world's best scientists a national priority. It introduced a visa for scientists and is offering lucrative research grants. Foreigners are not coming despite those efforts. The number of Chinese scientists working in the US has risen rather than declined."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr&amp;sp=Azpxuhac1UTjxgboaD0qUokw",
+      "title": "Product Manager, Applied AI at TLDR ($225k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://yellow.com/news/deepseek-12b-raise-close-tencent-catl?utm_source=tldrai",
+      "title": "A $12B DeepSeek Raise Is Reportedly Close, With Tencent And CATL Among Backers",
+      "summary": "DeepSeek is nearing a $12 billion raise, surpassing its initial 50 billion yuan target, with Tencent and CATL as major contributors. The funding boost follows the release of DeepSeek's latest AI model, with expectations it might reach 100 billion yuan. The company is also preparing for a potential Shanghai STAR Market IPO, employing CITIC Securities for assistance."
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides?utm_source=tldrai",
+      "title": "Claude now works with Google Docs, Sheets, and Slides",
+      "summary": "Claude now integrates with Google Docs, Sheets, and Slides for all paid plans, allowing direct editing within files."
+    },
+    {
+      "url": "https://www.techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm?utm_source=tldrai",
+      "title": "US-China AI Gap Hits 3%, and DeepSeek V4.1 Flash Now Leads on Agentic Coding Benchmarks",
+      "summary": "DeepSeek V4.1 Flash, a Chinese AI model, now leads in agentic coding benchmarks, surpassing US competitors."
+    },
+    {
+      "url": "https://thenextweb.com/news/hark-pro-agent-hardware-europe?utm_source=tldrai",
+      "title": "Hark debuts an AI agent a year before its first devices",
+      "summary": "Hark has released an AI agent that buys groceries, books cars, and pays bills."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration?utm_source=tldrai",
+      "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+      "summary": "NVIDIA's AI Cluster Runtime (AICR) v1.0 offers version-locked, validated recipes for stable GPU-accelerated Kubernetes cluster configurations."
+    },
+    {
+      "url": "https://www.anthropic.com/news/cyber-verification-program?utm_source=tldrai",
+      "title": "Anthropic Expands Verified Access to Cyber Capabilities",
+      "summary": "Anthropic expanded its Cyber Verification Program into three access tiers for qualifying security professionals, providing its most capable models with reduced cyber blocking."
+    }
+  ]
+}

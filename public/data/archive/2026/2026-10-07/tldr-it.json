@@ -1,0 +1,83 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-07",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/?utm_source=tldrit",
+      "title": "The internet's DNS root key changes October 11",
+      "summary": "The DNS root will switch to a new key-signing key on October 11, only the second such rollover ever. Most organizations need to do nothing, but anyone operating DNSSEC-validating resolvers should verify that their infrastructure trusts KSK-2024 or risk DNS resolution failures."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/?utm_source=tldrit",
+      "title": "Lambda seeks up to $4 billion ahead of planned IPO",
+      "summary": "Lambda reportedly seeks up to $4 billion at a $14.5 billion pre-money valuation before a planned 2027 IPO, with Coatue and Blackstone leading."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284?utm_source=tldrit",
+      "title": "Atlassian warns of critical file access flaw in its datacenter products",
+      "summary": "Atlassian has issued an urgent warning regarding a critical 9.3-rated arbitrary file access vulnerability, tracked as CVE-2026-21589, that affects multiple Data Center products, including Bitbucket and Confluence. The flaw allows unauthenticated attackers to access specific files within the web application root directory if they know the exact filename and path. Atlassian has released fixed versions and recommends immediately patching affected installations. Organizations unable to patch should restrict external access or apply the published mitigations."
+    },
+    {
+      "url": "https://www.financialexpress.com/business/industry-dont-just-layer-chatbots-onto-existing-processes-intels-cynthia-stoddard-4353610/?utm_source=tldrit",
+      "title": "Intel CIO: Don't just put chatbots on top of broken processes",
+      "summary": "Intel CIO Cynthia Stoddard argues that companies should measure AI through business outcomes such as cycle-time improvements and ROI rather than tool adoption. Intel's approach combines employee training and experimentation with permission controls, data governance, MCP controls, and observability, while redesigning the underlying processes AI is meant to improve."
+    },
+    {
+      "url": "https://www.techradar.com/pro/why-agentic-ai-demands-a-new-approach-to-enterprise-security?utm_source=tldrit",
+      "title": "Enterprise security needs to start governing what AI agents do, not just what they can access",
+      "summary": "Traditional access controls answer whether an identity has permission, but autonomous agents introduce a second question: whether a permitted action actually matches the user's intent. The piece argues for behavioral governance, sensitive-data controls, audit trails, and targeted human approval for high-impact actions rather than treating AI security as another SSO problem."
+    },
+    {
+      "url": "https://tomtunguz.com/inference-is-the-most-important-market-in-software?utm_source=tldrit",
+      "title": "Inference Is the Most Important Market in Software",
+      "summary": "AI inference could become a larger software market than databases, with spending projected to reach $350 billion by 2027. Rising inference costs will pressure software companies' gross margins, forcing them to improve efficiency through smaller models, better harnesses, and smarter routing techniques."
+    },
+    {
+      "url": "https://openai.com/index/atlassian-partnership/?utm_source=tldrit",
+      "title": "Atlassian expands OpenAI partnership for enterprise agents",
+      "summary": "Atlassian and OpenAI expanded their partnership to combine OpenAI models with the Teamwork Graph, which connects company projects, documents, people, and decisions. The companies are also exploring Jira integrations for assigning work to agents, tracking progress, and reviewing results."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-Markdown-files-natively-across-Drive-and-Docs.html?utm_source=tldrit",
+      "title": "Google Docs can finally edit Markdown files natively",
+      "summary": "Google Docs can now open, edit, comment on and collaboratively work with .md files without converting them into Google Docs, while Drive can render Markdown previews. The change is especially useful as AI agents and developer tools increasingly generate Markdown as a default working format."
+    },
+    {
+      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/?utm_source=tldrit",
+      "title": "Cloudflare Birthday Week 2026: Complete Launch Wrap-Up",
+      "summary": "Cloudflare published a comprehensive wrap-up of 46 announcements made during its Birthday Week 2026 celebration. The updates span across open-source commitments, application security and post-quantum cryptography, economic models for the agentic Internet, developer platform tools, and performance and observability enhancements."
+    },
+    {
+      "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software?utm_source=tldrit",
+      "title": "How to build an AI-native software factory",
+      "summary": "Companies building AI-native software factories need managed environments, shared skills, cost controls, and validation systems to support fleets of autonomous coding agents. A four-step framework and six foundational platform components help teams start with low-risk tasks such as code reviews and migrations."
+    },
+    {
+      "url": "https://www.reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06/?utm_source=tldrit",
+      "title": "Software stocks hit 2026 highs as “SaaSpocalypse” fears fade",
+      "summary": "US software stocks have climbed to fresh 2026 highs as strong results from companies including Salesforce and ServiceNow ease fears that AI would rapidly replace traditional SaaS. Analysts increasingly see AI as an enabler for established software vendors, although the longer-term threat from cheaper AI-built internal applications remains."
+    },
+    {
+      "url": "https://www.ajeetraina.com/docker-does-that-five-docker-capabilities-in-one-morning-wearedevelopers-na-2026/?utm_source=tldrit",
+      "title": "Docker does that?! Five Docker capabilities in one morning",
+      "summary": "Docker demonstrated five modern Docker capabilities during a conference talk, highlighting features like AI-assisted containerization, Testcontainers for integration testing, Docker Scout for vulnerability scanning, Docker Hardened Images for pre-patched base images, and Docker Sandboxes for securing coding agents. The session aimed to update developers' mental models of Docker beyond simple packaging. All five steps are available via a browser-based workshop."
+    },
+    {
+      "url": "https://blog.glazer.ee/posts/building-glazer-disposable-browser/?utm_source=tldrit",
+      "title": "Orchestrating Disposable Browser",
+      "summary": "Building a containerized disposable Browser as a Service infrastructure where logs are streamed from Docker to Python with specific tokens to strike a balance between speed and stability."
+    },
+    {
+      "url": "https://thebuild.com/blog/everyone-into-the-pool/?utm_source=tldrit",
+      "title": "Everyone into the Pool",
+      "summary": "Evaluation of five PostgreSQL connection poolers—Pgpool-II, PgBouncer, RDS Proxy, PgCat, and PgDog—that compares their process models, pooling modes, and handling of session state."
+    },
+    {
+      "url": "https://www.tanium.com/press-releases/tanium-redefines-security-operations-for-the-ai-era?utm_source=tldrit",
+      "title": "Tanium reworks its security operations platform around behavior-based detection",
+      "summary": "Tanium is emphasizing endpoint behavior and rapid response to attacks that use stolen credentials and legitimate administrative tools rather than conventional malware."
+    }
+  ]
+}

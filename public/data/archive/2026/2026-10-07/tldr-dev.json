@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-07",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox?utm_source=tldrdev",
+      "title": "The Agent Said It Was Done. The Database Disagreed",
+      "summary": "ThinkingBox evaluates agents by the backend state and side effects they leave behind across 507 workflows repeated 20 times. Among 79,853 failed runs, 67% ended without a tool error, showing why terminal state and repeatability matter more than a confident final response."
+    },
+    {
+      "url": "https://www.vlt.io/blog/registry-metadata-70-percent-smaller?utm_source=tldrdev",
+      "title": "How We Made Registry Metadata 70% Smaller",
+      "summary": "vlt.io reduces npm registry metadata transfers by serving install-focused packuments that keep fields package managers need while dropping large signatures and checksums that do not affect installation. Across four clean-install fixtures, metadata transfers fell from 25% to 45% of downloaded bytes on npmjs.org to 5% to 15% on vlt.io, with install times improving by 20% to 70%."
+    },
+    {
+      "url": "https://airbnb.tech/infrastructure/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb/?utm_source=tldrdev",
+      "title": "Beyond Synthetic Testing: Capturing and Replaying Real Database Workloads at Airbnb",
+      "summary": "Airbnb captures MySQL traffic at ProxySQL, rebuilds transaction order offline, and replays production workloads for load testing, migration checks, and performance debugging. The system exposed upgrade regressions such as a query rising from 0.03 to 2.6 seconds and helped move the fleet from MySQL 5.7 to 8.0 without a major production incident."
+    },
+    {
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature?utm_source=tldrdev",
+      "title": "The Smartest Claude Code Feature Is Not for Its Users",
+      "summary": "Claude Code can predict a likely follow-up and place it in the prompt box for the user to accept or edit. The article suggests those interactions could provide valuable preference data, while clearly presenting that interpretation as speculation rather than a confirmed Anthropic practice."
+    },
+    {
+      "url": "https://www.seangoedecke.com/how-to-read-code/?utm_source=tldrdev",
+      "title": "How to Read Code",
+      "summary": "Code is easier to understand through several focused passes than through a linear read from top to bottom. Trace one execution path or piece of data at a time, inspect call sites outside the diff, and save the final line-by-line review after the broader structure is clear."
+    },
+    {
+      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk?utm_source=tldrdev",
+      "title": "The Grand Unifying Architecture of Frontend",
+      "summary": "Frontend architectures can be understood as three layers: navigation, server-owned content, and client-owned affordances such as optimistic state. The framework maps HTMX, LiveView, Astro, React Server Components, SPAs, and sync engines onto the same model, with differences in transport, lifetime, and how much code reaches the client."
+    },
+    {
+      "url": "https://nextjs.org/blog/next-16-4?utm_source=tldrdev",
+      "title": "Next.js 16.4",
+      "summary": "Next.js 16.4 enables Cache Components by default for new apps and adds static-render guarantees, finer prefetch controls, agent-assisted upgrades, React 19.3, and build and bundle improvements."
+    },
+    {
+      "url": "https://github.com/dzhng/jevgrep?utm_source=tldrdev",
+      "title": "jevgrep (GitHub Repo)",
+      "summary": "jevgrep lets coding agents search a repository by describing what the code does, returning relevant files and source excerpts through a CLI. Its ten-task SWE-bench comparison completed the same eight tasks as the baseline at about 30% lower cost."
+    },
+    {
+      "url": "https://github.com/ai/size-limit?utm_source=tldrdev",
+      "title": "Size Limit (GitHub Repo)",
+      "summary": "Size Limit measures JavaScript bundle size and execution cost, then fails CI when a configured performance budget is exceeded. Its plugins can bundle dependencies and estimate parse and execution time under throttled device conditions."
+    },
+    {
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html?utm_source=tldrdev",
+      "title": "LLMs May Have Immensely Helped My RSI",
+      "summary": "Using coding agents shifted hours of symbol-heavy typing and debugging toward prompts, design documents, and code review, which may have reduced repetitive strain symptoms. The account is personal and acknowledges other possible causes, including improved ergonomics and a more senior role."
+    },
+    {
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/?utm_source=tldrdev",
+      "title": "Sharing AI Progress in Mathematics",
+      "summary": "OpenAI is publishing mathematical results from an internal frontier model with revision and citation protocols, reasoning summaries, compute estimates, and statistics on attempted problems. Many proofs are also being formalized in Lean so they can be checked by a computer."
+    },
+    {
+      "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity?utm_source=tldrdev",
+      "title": "AI Changed How Spotify Builds: What We Learned About Quality at Higher Velocity",
+      "summary": "Spotify found no material direct link between AI-authored code and reviewed production incidents, but merged changes more than doubled year over year as verification systems struggled to keep pace. The response expands long-term quality signals and strengthens review, testing, rollout, observability, rollback, service tiering, and capacity."
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/decisions?utm_source=tldrdev",
+      "title": "Decisions API (Website)",
+      "summary": "The Decisions API evaluates text and images to return typed predicates, choices, or rubric scores about ten times faster than the Responses API for classification, routing, and prioritization."
+    },
+    {
+      "url": "https://2026.stateofdevs.com/en-US/?utm_source=tldrdev",
+      "title": "State of Devs 2026 (Website)",
+      "summary": "A survey of 5,463 developers explores career insecurity, burnout, workplace conditions, health, and polarized attitudes toward AI."
+    },
+    {
+      "url": "https://blog.logrocket.com/vibe-coding-failures/?utm_source=tldrdev",
+      "title": "Vibe Coding Gone Wrong: 5 of the Biggest Failures",
+      "summary": "Five incidents show how generated code can expose secrets, weaken authentication, miss access controls, and damage production data when engineering checks disappear."
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-large-4/?utm_source=tldrdev",
+      "title": "Introducing Mistral Large 4",
+      "summary": "Mistral Large 4 is a one-trillion-parameter multimodal model in public preview, with 49 billion active parameters, support for more than 160 languages, and open weights planned for later this month."
+    }
+  ]
+}

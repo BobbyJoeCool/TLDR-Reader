@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-10-07",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/media-telecom/spacex-seeks-40-billion-buy-nvidia-chips-ft-reports-2026-10-06/?utm_source=tldrhardware",
+      "title": "SpaceX seeks $40B Apollo-led debt financing to buy Nvidia chips",
+      "summary": "The FT reports SpaceX is raising about $10 billion in bank loans and $30 billion in investment-grade debt to fund an Nvidia chip order, with Apollo leading and helping sell the debt to a broad investor base, and bond fund Pimco among lenders in talks. The deal is expected to close in 2027. It fits the pattern Nvidia flagged in August, when it disclosed its own SpaceX stake and a $500 billion Wall Street financing push, with chip purchases increasingly funded by debt and equity ties to the buyer. Reuters could not independently verify the report, and SpaceX, Apollo, Nvidia, and Pimco haven't commented."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/?utm_source=tldrhardware",
+      "title": "Ghost launches a personal AI computer",
+      "summary": "Ghost opened pre-orders for Core, a $3,499 screenless computer with an Nvidia RTX Pro 4000 SFF Blackwell GPU. The device runs preinstalled AI models locally and gives users access through a phone app. Ghost raised an $11 million seed round and plans to ship the first batch in late October."
+    },
+    {
+      "url": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/?utm_source=tldrhardware",
+      "title": "Synopsys and OpenAI team up on GPT-Synopsys, a frontier model that runs EDA tools like an engineer",
+      "summary": "GPT-Synopsys is an OpenAI frontier model trained and tuned to operate Synopsys' EDA tools directly, covering PPA optimization, timing closure, and verification. Engineers hand it an objective, and agents run the tools, interpret the results, make changes, and loop until there's a verified outcome to review. It runs on OpenAI-hosted infrastructure and plugs into Synopsys.ai and the Autopilot agentic platform. OpenAI licenses Synopsys' tools to train the model, paying a training subscription fee, and the two companies then share revenue based on how well the model improves chip designs, an unusual structure that ties both to the results. Synopsys says customer design data stays protected and won't be used to train the frontier model, and the bundled service covers compute, the model, and EDA licenses."
+    },
+    {
+      "url": "https://semiengineering.com/extreme-environments-push-chips-to-their-breaking-point/?utm_source=tldrhardware",
+      "title": "Designing chips for extreme environments",
+      "summary": "Engineers must test chips against combined radiation, thermal shock, vibration, and other stresses rather than qualify each condition alone. Arizona State University pairs a radiation source with a cryostat to test devices at 77 Kelvin. Digital twins can model package and system behavior, but physical tests still check whether those predictions hold."
+    },
+    {
+      "url": "https://dynamic.robots.ox.ac.uk/projects/scarf-slam/?utm_source=tldrhardware",
+      "title": "ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM",
+      "summary": "ScaRF-SLAM is a dense visual mapping system that pairs the reliability of classical visual SLAM with modern feed-forward geometric foundation models for 3D scene reconstruction. By decoupling camera tracking from dense depth estimation and optimizing scale consistency across submaps, it achieves globally accurate 3D maps across diverse sensor configurations. For perception engineers and autonomy developers, this framework provides a practical way to produce metric-scale environmental maps in real time without sacrificing tracking stability."
+    },
+    {
+      "url": "https://interestingengineering.com/ai-robotics/robopartys-rp1-open-source-humanoid-robotics?utm_source=tldrhardware",
+      "title": "RoboParty demonstrates the RP1 humanoid",
+      "summary": "RoboParty demonstrated RP1 recovering its balance after visitors pushed or kicked it at IROS. The platform combines actuator modules, robot hardware, and reinforcement-learning motion control, with peak joint torque up to 160 Nm. RoboParty plans to release more control software, simulation tools, and hardware details, so its full open-source roadmap remains in progress."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports?utm_source=tldrhardware",
+      "title": "Google faces scrutiny over Finnish data-center clearing",
+      "summary": "Finnish authorities are investigating allegations that Google's local operator cleared over 300 hectares of forest before a required environmental assessment. A conservation group has requested a suspension of work near Muhos. Google says the tree felling complied with forestry requirements and that it protected high-value nature zones."
+    },
+    {
+      "url": "https://github.com/FeSens/openTPU?utm_source=tldrhardware",
+      "title": "OpenTPU Full-Stack Open-Source AI Accelerator",
+      "summary": "OpenTPU is a complete, open-source AI accelerator project that packages custom SystemVerilog RTL, instruction set architecture, a bit-exact simulator, and a compiler into a single accessible repository. The design runs modern quantized language models directly on cost-effective Kintex-7 FPGA PCIe cards, matching simulation results bit for bit. This architecture provides embedded systems designers and compute engineers an invaluable end-to-end reference for deploying and tailoring custom neural network hardware without relying on proprietary black-box tooling."
+    },
+    {
+      "url": "https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM?utm_source=tldrhardware",
+      "title": "Meta develops compressed RAM \"CRAM\" for Linux",
+      "summary": "Meta's Gregory Price presented hardware-offloaded compression at Linux Plumbers."
+    },
+    {
+      "url": "https://github.com/ManufacturedMotion/Hex?utm_source=tldrhardware",
+      "title": "Hex Open-Source Hexapod Robot Platform",
+      "summary": "Hex is an open-source, six-legged robot platform designed to give makers and developers an accessible foundation for building and testing legged locomotion."
+    },
+    {
+      "url": "https://www.theverge.com/tech/1005397/amd-intends-to-substantially-increase-its-chip-supply-next-year?utm_source=tldrhardware",
+      "title": "AMD says it will substantially increase chip supply in 2027",
+      "summary": "Lisa Su said supply grew through 2026."
+    },
+    {
+      "url": "https://www.washingtonpost.com/technology/2026/10/06/trump-steers-nearly-7b-shipbuilding-deal-with-weapons-maker-anduril/?utm_source=tldrhardware",
+      "title": "Trump announces nearly $7B Anduril submarine shipyard deal in Baltimore",
+      "summary": "Anduril will invest $3.7 billion to build a two-million-square-foot \"software-defined\" shipyard at Sparrows Point, the former Bethlehem Steel site near Baltimore, and the Navy separately awarded it a $2.9 billion \"Arsenal 2\" contract with payments tied to production outcomes, bringing the package to roughly $6.6 billion."
+    }
+  ]
+}

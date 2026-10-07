@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-10-07",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://newsletter.angularventures.com/p/everyone-is-building-the-same-thing?utm_source=tldrfounders",
+      "title": "Everyone is building the same thing",
+      "summary": "AI startups are converging on the same agent loops, memory systems, connectors, and sandboxes. The comparison here is to web companies in 2005, when everyone needed a database and a login page. Sharing those parts didn't make the businesses interchangeable. The concern is that founders are pitching basic infrastructure as their advantage while saying little about the customer problem they've figured out. Customer references and the team's knowledge of its industry may tell you more than which model or memory system they've chosen."
+    },
+    {
+      "url": "https://ramp.com/data/businesses-are-changing-ai-model-providers-more-often?utm_source=tldrfounders",
+      "title": "Businesses are changing AI model providers more often",
+      "summary": "The monthly share of firms switching providers, averaged over three months, reached a record 8% in September. Anthropic gained significant share in May last year following the launches of Opus 4 and Sonnet 4. Switching declined over the next year until OpenAI introduced price cuts and new model launches in June this year. The intense competition between the two companies could be an early sign that AI models are becoming commodities."
+    },
+    {
+      "url": "https://platformchronicles.substack.com/p/platforms-are-still-the-best-businesses?utm_source=tldrfounders",
+      "title": "Platforms are (still) the best businesses",
+      "summary": "Businesses that perform strongly in profitability, scalability, and defensibility generate substantial profits relative to the capital they require. They grow with limited incremental effort or additional capital, and can sustain success over long periods. Platforms, businesses that enable direct interactions between customers, come closer to this Platonic ideal than any other type of business. Network effects and asset-light cost structures allow successful platforms to generate exceptional returns on invested capital."
+    },
+    {
+      "url": "https://x.com/jdpruettt/status/2107579719462035889?utm_source=tldrfounders",
+      "title": "How to Hire in the Age of AI",
+      "summary": "While everyone agrees that AI requires rethinking which knowledge and skills signal quality in a new hire, there's little consensus on what those are. The stakes are highest for early-stage companies where new hires matter most. This post approaches the problem by running an experiment to see what makes the most sense for gauging a candidate's quality."
+    },
+    {
+      "url": "https://x.com/JohnKutay/status/2106823335523058108?utm_source=tldrfounders",
+      "title": "GTM in git",
+      "summary": "Put as much of your GTM operations into git so agents can reason over them, test, and scale. Give agents the context and tools to understand the system, investigate a problem, and help implement a change. Agents make analysis easier to produce, so business context and tools need to work across interfaces, with evals to check that answers remain consistent. Every GTM operator needs reliable data, research, and an environment to make decisions quickly. Do as much GTM operating work as possible with coding agents, and keep the logical brain in git."
+    },
+    {
+      "url": "https://www.venturecurator.com/p/competitor-raised-funding-what-to-do?utm_source=tldrfounders",
+      "title": "What do you do the week a competitor raises millions?",
+      "summary": "A competitor raises millions, and suddenly you're considering a new round or copying features you'd ignored last week. Before changing either plan, look at what the money commits them to spending and how much growth they'll need to justify it. One founder in this piece calmed down after comparing their monthly burn with his own. Its review of ten AI categories found the best-funded company led three, with two already ahead before raising the most."
+    },
+    {
+      "url": "https://higgsfield.ai/ads-studio-intro?utm_source=tldrfounders",
+      "title": "Higgsfield Ads Studio (Website)",
+      "summary": "Higgsfield Ads Studio produces static ads for every product on a website. Users just paste a link to their website, and it builds ads based on what converts in that niche. Ads produced by Higgsfield can be used in organic posts and paid campaigns. Users can review and fix logos, colors, tone, and selling points before ad generation."
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides?utm_source=tldrfounders",
+      "title": "Claude now works with Google Docs, Sheets, and Slides",
+      "summary": "Claude for Google Workspace is now in public beta on all paid Claude plans. It adds Claude to Google Docs, Sheets, and Slides so users can work with Claude directly in their files. Anthropic has also released new Google Docs, Sheets, and Slides connectors so Claude users can create and edit Google files directly from Claude."
+    },
+    {
+      "url": "https://tomtunguz.com/inference-is-the-most-important-market-in-software/?utm_source=tldrfounders",
+      "title": "Inference Is the Most Important Market in Software",
+      "summary": "AI inference is projected to become a $350 billion market by 2027, doubling the size of the database market. This shift leads to higher usage costs, reduced gross margins below typical SaaS levels, and makes infrastructure a key component of COGS. Businesses will need to adapt by optimizing efficiencies and could see innovation opportunities arise from these evolving dynamics."
+    },
+    {
+      "url": "https://andrewchen.substack.com/p/will-agents-have-network-effects?utm_source=tldrfounders",
+      "title": "Will agents have network effects?",
+      "summary": "If my agent can email yours, why do we need to use the same product? That gives assistants a different problem from social networks, where everyone benefits from joining the same service. Network effects could still come from what agents create and share. An event website can bring in new users, and a shared reputation system could help agents find a trustworthy seller or a candidate who isn't publicly job hunting. That reputation system could belong to one assistant, or become a separate service that every assistant can access."
+    },
+    {
+      "url": "https://x.com/Alfred_Lin/status/2107469398319722813?utm_source=tldrfounders",
+      "title": "Awkward Adolescence",
+      "summary": "Zappos had about five years with little competition because people doubted customers would buy shoes without trying them on."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107216485898760238.html?utm_source=tldrfounders",
+      "title": "The single best predictor of founder success we've seen, above all else, is raw determination.",
+      "summary": "Interviews with more than 100 successful founders point to seven signs of determination, including earlier failures, rejection, and staying optimistic after losing a key employee or customer."
+    },
+    {
+      "url": "https://writing.nikunjk.com/p/more-warm-bodies?utm_source=tldrfounders",
+      "title": "More warm bodies",
+      "summary": "As AI takes over routine work, one way to judge a role is to ask what its best performers did that went against the playbook."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/apple-retention-messaging-benchmarks?utm_source=tldrfounders",
+      "title": "Early Apple Retention Messaging benchmarks from 22M messages",
+      "summary": "Across 309 apps, subscribers accepted 0.68% of cancellation-screen discounts and 0.52% of plan switches, while the early observational data showed no measurable effect on cancellation rates."
+    }
+  ]
+}
