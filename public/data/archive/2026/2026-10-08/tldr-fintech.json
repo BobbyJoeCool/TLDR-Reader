@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-10-08",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.finextra.com/newsarticle/48545/plaid-launches-credit-fraud-and-payment-risk-ai-models?utm_source=tldrfintech",
+      "title": "Plaid launches credit, fraud and payment risk AI models",
+      "summary": "Open finance fintech Plaid has unveiled AI models designed to help financial firms make better lending decisions, catch more fraud, and reduce payment risk. Plaid notes that millions of US adults fall outside of the traditional credit lens, making them difficult to evaluate with traditional scores alone. To help with this, the firm is tapping into cash flow data, which shows how people earn, spend, and pay their bills, giving lenders a fuller picture of their ability to repay."
+    },
+    {
+      "url": "https://www.valon.ai/blog/series-d-deploying-valonos-and-ai-to-the-mortgage-industry?utm_source=tldrfintech",
+      "title": "Valon raises $150M Series D at a $2.3B valuation to deploy AI across mortgage servicing",
+      "summary": "Valon raised $150 million led by Ribbit Capital, with participation from Andreessen Horowitz and existing investors, after opening ValonOS to third-party mortgage servicers and signing more than $200 million of ARR within six months. The company says 1 in 6 US mortgages is now signed up to run on ValonOS, while its Ditto AI agent automates complex servicing work such as homeowner communications, escrow analysis, complaint research, and payment reallocations on top of a unified system of record."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111148/pine-labs-launches-unified-platform-for-merchants-in-singapore?utm_source=tldrfintech",
+      "title": "Pine Labs launches unified platform for merchants in Singapore",
+      "summary": "Pine Labs, a global payments technology company, today announced a unified platform for merchants in Singapore that combines payment acceptance, acquiring, instalment payments, and customer engagement."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107108798607536563.html?utm_source=tldrfintech",
+      "title": "John Collison says AI agents will rewire internet commerce (28 minute podcast)",
+      "summary": "Stripe co-founder John Collison argues that AI agents will increasingly replace humans as the primary actors in online commerce, forcing Stripe to redesign its APIs and infrastructure for machine-driven transactions. He points to acquisitions including Bridge, Privy, Metronome, and OpenRouter as building blocks for this shift across stablecoins, wallets, usage-based billing, and model routing, while computer use provides a compatibility layer for agents to operate across today's web."
+    },
+    {
+      "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage?utm_source=tldrfintech",
+      "title": "CFTC unveils plan to bring crypto exchanges under federal oversight",
+      "summary": "The CFTC proposed a framework that would let crypto exchanges register under a new federal “crypto asset market” regime, with leverage or margin serving as the main trigger for federal oversight while non-leveraged exchanges could remain under state licensing. The plan would also introduce broker, AML, proof-of-reserves, and market-manipulation standards, marking a shift toward formal rulemaking after the Clarity Act failed to advance in Congress."
+    },
+    {
+      "url": "https://lex.substack.com/p/ai-cloudflares-200b-shot-at-machine?utm_source=tldrfintech",
+      "title": "Cloudflare's $200B Shot at Machine Payments, $0.30 at a time",
+      "summary": "With Cloudflare's latest launch, agents can now pay at request time rather than requiring subscriptions. The economics of software is changing by becoming the economics of tokens and inference. Intelligence acts upon data, and data is still gated all across different parts of the web. In order to be able to answer questions and book trips, robots need to query information and pull together a lot of disconnected context. Little tentacles will extend from our searches into machine brains, ready to purchase whatever mana is needed to fulfill our wish."
+    },
+    {
+      "url": "https://www.axios.com/pro/fintech-deals/2026/10/07/stuut-52-5-million-series-b-insight-partners?utm_source=tldrfintech",
+      "title": "Stuut raises $52.5M to automate invoice collections",
+      "summary": "Stuut connects to accounting, banking, sales, and payment systems so its AI agents can pursue collections, resolve invoice disputes, and match incoming cash rather than merely flagging work for employees. The October 7 round, led by Insight Partners with Andreessen Horowitz and Microsoft's M12 participating, brings total funding to $93 million as the company expands from receivables into credit, lending, and cross-border payments."
+    },
+    {
+      "url": "https://www.moderntreasury.com/newsroom/press-releases/modern-treasury-applies-to-establish-national-trust-bank?utm_source=tldrfintech",
+      "title": "Modern Treasury applies to establish national trust bank",
+      "summary": "Modern Treasury applied to the OCC to create a limited-purpose national trust bank that would add federally supervised digital asset custody and related fiat services to its existing payments platform. If approved, customers could custody and move both stablecoins and fiat through an integrated setup, while the proposed bank would remain separate from Modern Treasury's software business and would not make loans or issue stablecoins."
+    },
+    {
+      "url": "https://x.com/sternhenri/status/2107113519564922897?utm_source=tldrfintech",
+      "title": "Henri Stern takes over Stripe's crypto and stablecoin strategy",
+      "summary": "Privy CEO Henri Stern is expanding his role to lead crypto and stablecoins at Stripe, with a focus on building an open, global developer platform that connects wallets, fiat rails, cards, asset issuance, and stablecoin infrastructure. His roadmap centers on practical business use cases, seamless fiat-crypto interoperability, end-to-end products, open modular systems, and compliance, positioning Stripe to make stablecoins easier for mainstream fintechs and enterprises to adopt without rebuilding their entire stack."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/33090/when-agents-pay-the-wrong-party-what-the-sourced-public-record-shows-so-far-in-2026?utm_source=tldrfintech",
+      "title": "When agents pay the wrong party: what the sourced public record shows so far in 2026",
+      "summary": "As agentic commerce and HTTP 402 (“x402”) payments draw more attention, executives and risk teams keep asking for one number: how much have AI agents lost by paying the wrong party? After compiling sourced items for the Agent Payment Risk Index 2026, the honest answer is that confirmed production-loss totals are still scarce—none of the indexed sources establishes one."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/33098/is-the-end-of-the-multi-day-payment-finally-in-sight?utm_source=tldrfintech",
+      "title": "Is the end of the multi-day payment finally in sight?",
+      "summary": "Banks have taken meaningful steps of late to incorporate stablecoins into their institutional payment strategy as pressure intensifies for faster cross-border settlement."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107157478810997027.html?utm_source=tldrfintech",
+      "title": "Fintech is dead: The next wave will be agents and tokens",
+      "summary": "Traditional fintech built on cloud and mobile has matured."
+    }
+  ]
+}

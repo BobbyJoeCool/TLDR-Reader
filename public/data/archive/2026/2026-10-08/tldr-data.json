@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-10-08",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://medium.com/pinterest-engineering/metrics-board-building-an-agent-ready-metrics-layer-2c8fefe68756?utm_source=tldrdata",
+      "title": "Metrics Board: Building an Agent-ready Metrics Layer",
+      "summary": "Pinterest built Metrics Board, a central platform that automates metric creation, quality checks, documentation, and publishing, making metrics easier to manage and trust. It now handles over 98% of experimentation metrics, cuts development time from weeks to days, and gives AI agents access to reliable, well-defined metrics for answering data questions."
+    },
+    {
+      "url": "https://airbnb.tech/infrastructure/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb?utm_source=tldrdata",
+      "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+      "summary": "Airbnb built a database traffic replay system to test real MySQL workloads instead of relying on synthetic benchmarks. By capturing production queries with low overhead and replaying them while preserving ordering and timing, it can validate upgrades, migrations, and capacity plans. Replay surfaced severe regressions that ordinary testing would likely have missed."
+    },
+    {
+      "url": "https://engineering.whoop.com/cdc-at-whoop?utm_source=tldrdata",
+      "title": "CDC at WHOOP: Self-Service Replication for Hundreds of Postgres Tables",
+      "summary": "WHOOP built a self-service CDC pipeline so application teams can replicate Postgres tables into the warehouse. The design separates fast access to raw changes from slower, costlier table materialization, while automating schema evolution and ownership. The key lesson is that CDC scales better when onboarding is publication-driven and operational responsibility stays aligned with the source service."
+    },
+    {
+      "url": "https://www.fivetran.com/blog/i-benchmarked-databricks-against-my-iphone?utm_source=tldrdata",
+      "title": "I benchmarked Databricks against my iPhone",
+      "summary": "Fivetran CEO George Fraser benchmarked DuckDB on an iPhone 17 Pro against Databricks clusters and found the iPhone was faster on most TPC-H workloads, even with far fewer CPUs and less memory. The results suggest many business analytics workloads don't need expensive distributed systems and could run more cheaply on single machines using engines like DuckDB or Polars."
+    },
+    {
+      "url": "https://iceberglakehouse.com/posts/data-agent-golden-question-benchmark?utm_source=tldrdata",
+      "title": "How to Build a Golden-Question Benchmark for Your Data Agents",
+      "summary": "Data agents need regression testing, not demo-style evaluation, because models, prompts, schemas, and metric definitions keep drifting. A strong pattern is a golden-question suite tied to frozen data snapshots and scored on actual execution results, then enforced in CI. Treat agent changes like software releases, with stored runs, category-level thresholds, and hard safety gates."
+    },
+    {
+      "url": "https://motherduck.com/blog/jev-analytics-use-cases/?utm_source=tldrdata",
+      "title": "5 Jev use cases for analytics, with real queries and datasets",
+      "summary": "MotherDuck shows five practical ways to use its Jev AI model to classify text directly in SQL, including evaluating AI agents, analyzing sentiment, scoring sales calls, and categorizing job postings. Jev returns predefined answers with confidence scores and can be around 20 times faster than standard LLM calls, making large-scale text analysis cheaper and easier."
+    },
+    {
+      "url": "https://github.com/statelyai/graph?utm_source=tldrdata",
+      "title": "Stately Graph (GitHub Repo)",
+      "summary": "Stately released an open-source TypeScript library for building, analyzing, and visualizing graphs using simple JSON data, with support for common algorithms and 14 graph formats. It outperforms popular alternatives in most benchmarks, including building 100,000-node graphs 9-15 times faster than Graphology."
+    },
+    {
+      "url": "https://pola.rs/posts/release-polars-2/?utm_source=tldrdata",
+      "title": "Release of Polars 2.0",
+      "summary": "Polars 2.0 brings faster queries, first-class SQL support, a new Map data type, and streaming with spill-to-disk enabled by default to handle larger datasets without running out of memory. Polars also reports beating DuckDB and DataFusion in most of its SQL benchmarks, while stricter type checking helps developers and AI agents catch errors earlier."
+    },
+    {
+      "url": "https://datafusion.apache.org/blog/2026/10/01/datafusion-comet-1.1.0?utm_source=tldrdata",
+      "title": "Apache DataFusion Comet 1.1.0 Release",
+      "summary": "Comet 1.1.0 pushes more Spark execution into native code, most notably with experimental Iceberg writes and native shuffle via Celeborn. The release also targets a common operational failure mode: opaque off-heap memory pressure. Alongside broader native coverage, it adds memory accounting and logging to reduce container kills."
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.01.756017v1?utm_source=tldrdata",
+      "title": "Designing enzymes for new-to-nature chemistry and non-natural substrates with AlphaProtein Novo",
+      "summary": "Google DeepMind's AlphaProtein Novo uses AI to design new enzymes from scratch, including ones that produce drug ingredients and break down plastic pollutants. Some outperform natural enzymes on specific tasks, opening new possibilities for medicine, chemistry, and environmental cleanup."
+    },
+    {
+      "url": "https://github.com/openai/math?utm_source=tldrdata",
+      "title": "OpenAI Math (GitHub Repo)",
+      "summary": "OpenAI published 722 AI-generated mathematical manuscripts covering 372 research families, produced by an unreleased internal model tested on roughly 4,000 problems. Many results include formally verified proofs using Lean, but OpenAI cautions that some unverified findings may contain errors."
+    },
+    {
+      "url": "https://ontologist.substack.com/p/turtle-is-not-json?utm_source=tldrdata",
+      "title": "Turtle Is Not JSON",
+      "summary": "Time-series data often needs more than values and timestamps: units, provenance, derivations, and exceptions matter too. JSON-LD and RDF make that context explicit and queryable, which improves validation and interoperability. Keep bulk measurements in efficient tabular or time-series storage, and use a graph layer for metadata, semantics, and anomaly handling."
+    },
+    {
+      "url": "https://prateek-arora.github.io/2026/10/timed-179-index-recommendations/?utm_source=tldrdata",
+      "title": "I timed 179 index recommendations on real data. 18% made the query slower",
+      "summary": "A developer tested 179 PostgreSQL index recommendations and found that 72% made queries at least 15% faster, but 18% actually made them slower, sometimes by more than 2x."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107644837407404340.html?utm_source=tldrdata",
+      "title": "I benchmarked \"Jev-killer\" OpenAI Decisions API against Jev",
+      "summary": "HiringCafe found Jev outperformed OpenAI's new Decisions API and Gemini 3.1 Flash-Lite at matching jobs to searches and resumes."
+    }
+  ]
+}

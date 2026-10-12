@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-10-08",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953?utm_source=tldrcrypto",
+      "title": "Grayscale says the crypto ETF market is entering a new phase",
+      "summary": "SEC's generic listing standards now cover about 15 tokens, giving issuers more room to be selective beyond bitcoin and ether. Grayscale's Zcash ETF gathered over $1 billion in its first 30 trading days, putting it in the top 1% of ETF launches over the past decade. Grayscale also filed last week to tokenize two covered-call funds (bitcoin and ether) under the SEC's innovation exemption."
+    },
+    {
+      "url": "https://x.com/AbstractChain/status/2107554632675340420?utm_source=tldrcrypto",
+      "title": "Abstract is Winding Down",
+      "summary": "Abstract, a consumer-focused Ethereum Layer 2 chain, is shutting down on December 15 after nearly three years of operation. Despite onboarding over 400,000 users, deploying 144 apps, and securing partnerships with brands including Red Bull Racing and Disney, the team cited a restricted DeFi ecosystem, thin liquidity, minimal institutional crossover, and budget constraints against better-funded competitors as reasons the chain became unsustainable as a standalone model. Abstract Global Wallet, described as the most adopted smart contract wallet in crypto, and the Portal onchain discovery product were standout achievements that could not offset these structural pressures. Users must bridge assets via migrate.abs.xyz or the native bridge before December 15 to avoid losing access to their funds."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2108005707819692238.html?utm_source=tldrcrypto",
+      "title": "GSR commits $100M of its own capital to Hare, an onchain credit desk",
+      "summary": "GSR is putting $100 million of its own capital behind Hare, a credit desk for onchain finance built with Turtle and backed by Aave, Paxos, Chainlink, and Hypernative. It launches with two vaults, Hare USD Earn for major USD stablecoins and Hare Gold Earn for yield on Paxos' tokenized gold (PAXG and PAXGy), with GSR supplying anchor liquidity before outside investors join."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107754380367716753.html?utm_source=tldrcrypto",
+      "title": "EtherFi launches its own dollar powered by Ethena",
+      "summary": "EtherFi USD will use Ethena's Whitelabel infrastructure, giving EtherFi a branded stablecoin across its card, savings, and future products. EtherFi already has more than $300 million in stablecoin deposits, over 100,000 active cards, and nearly $1 billion in cumulative card spend. Crypto neobanks are shifting from apps built on top of stablecoins to companies launching their own dollars."
+    },
+    {
+      "url": "https://x.com/0xTraderSam/status/2107473042750533790?utm_source=tldrcrypto",
+      "title": "AntSeed: The Router Nobody Owns",
+      "summary": "OpenRouter processed 568 trillion tokens in September, a 25x year-over-year increase, signaling that model aggregators have become critical AI infrastructure, yet centralized gatekeepers give providers limited pricing control and offer buyers few privacy guarantees. AntSeed builds an open inference marketplace on a BitTorrent-style DHT with WebRTC P2P connections, so no central server relays or inspects request data, with payments settling in USDC on Base. Providers publish capacity and compete in an RFQ-style maker-taker structure, while on-chain verifiers confirm model identity and a reputation system tracks service quality. The protocol ships with a local AI VPN router that proxies existing chat and agent traffic through the P2P network, giving users and agents access to any listed model without reconfiguring their existing tools or workflows."
+    },
+    {
+      "url": "https://ethresear.ch/t/accountability-for-encrypted-mempools/26123?utm_source=tldrcrypto",
+      "title": "Accountability for Encrypted Mempools",
+      "summary": "Researchers Aditi Partap and Arantxa Zapico propose a traitor-tracing mechanism to close an accountability gap in encrypted mempool designs, where committee members holding threshold decryption key shares could leak or sell those shares to enable premature transaction disclosure and MEV extraction. The construction models leaked decryption capability as \"partial decoder boxes,\" algorithms that decrypt with fewer shares than the threshold requires, and adapts tracer techniques to threshold Paillier encryption over Shamir secret sharing to identify which committee members defected. Three limitations constrain deployment: a trusted setup authority retains the ability to decrypt transactions or falsely accuse honest parties, tracing fails against stateful decoder boxes, and the factoring-based cryptographic assumptions are vulnerable to quantum computers. The work represents preliminary theoretical progress toward accountable encrypted mempools rather than production-ready infrastructure."
+    },
+    {
+      "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study?utm_source=tldrcrypto",
+      "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024",
+      "summary": "A Journal of Financial Crime study catalogued 72 flash loan attacks that drained $1.211 billion from DeFi between February 2020 and July 2024, representing 18.44% of the $6.568 billion lost to all DeFi exploits in that window. Ethereum absorbed over 80% of those losses, and attacks exceeding $10 million accounted for more than 88% of total stolen funds, with a single incident reaching $197 million. Protocol logic exploits grew from 28% of losses in the first period (Feb 2020-Jan 2022) to 55% in the second (Feb 2022-Jul 2024), displacing price oracle manipulation as the primary attack category. Four exploit types drove over 81% of cumulative losses: price oracle attacks, donate function logic exploits, reentrancy attacks, and a governance exploit that alone cost $181 million."
+    },
+    {
+      "url": "https://x.com/coinbase/status/2107480329791365535?utm_source=tldrcrypto",
+      "title": "The Coinbase Builders League",
+      "summary": "Coinbase is the presenting sponsor of the 2026 Polytopia World Championship, doubling the prize pool and awarding the champion $10,000 in USDC through a new initiative called the Builders League. The program targets high-potential strategists without traditional credentials, citing past finalists including a high schooler from the Netherlands and math and CS students from France and Germany as examples of talent the credential-gated system would overlook. The USDC prize positions crypto as a direct vehicle for economic access, with the championship final streaming live from Stockholm on October 10."
+    },
+    {
+      "url": "https://thedefiant.io/converge/defi/redstone-tokenized-stocks-report-defi-gap-equity-perps?utm_source=tldrcrypto",
+      "title": "Tokenized Stocks Grew 395% in a Year While DeFi Use Stayed Under 3%",
+      "summary": "Tokenized stocks reached $3.17 billion in supply over the past year, a 395% increase."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107836342097092992.html?utm_source=tldrcrypto",
+      "title": "Ethena's Whitelabel and the EtherFi USD tradeoff",
+      "summary": "Ethena now owns both its yield engine and distribution through its own neobank, while EtherFi owns users and distribution but allocates capital across strategies, meaning EtherFi is effectively relying on a competitor's infrastructure for its stablecoin."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931?utm_source=tldrcrypto",
+      "title": "Moody's gives Sky Protocol a B3 rating",
+      "summary": "Moody's assigned Sky Protocol, the issuer of USDS, a B3 issuer rating with a stable outlook, its first rating of any stablecoin protocol, making Sky the only stablecoin protocol rated by both Moody's and S&P (which gave a B- in August 2025)."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107988979274703156.html?utm_source=tldrcrypto",
+      "title": "Vitalik warns AI could undermine cryptography within two years",
+      "summary": "Vitalik Buterin warned that AI could accelerate mathematical advances enough to weaken lattice-based cryptography, including ML-DSA and FHE, within two years, potentially putting ECDSA at risk sooner than expected."
+    }
+  ]
+}

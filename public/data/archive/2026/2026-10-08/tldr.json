@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-08",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/?utm_source=tldrnewsletter",
+      "title": "Claude Haiku 5.5",
+      "summary": "Claude Haiku 5.5 is Anthropic's latest fast and low-cost model. The model is priced at $0.10 per million input tokens and $0.50 per million output tokens up to 100,000 tokens, after which the price increases 5x. Under 100,000 tokens, Haiku is the same price as GPT-6 Luna and reports higher benchmark scores, but above 100,000 tokens, Luna looks like a much better deal."
+    },
+    {
+      "url": "https://scottaaronson.blog/?p=10169&amp;utm_source=tldrnewsletter",
+      "title": "The Mathocalypse",
+      "summary": "OpenAI recently released 372 breakthrough results in the field of mathematics. However, it appears no human has understood any of the proofs yet. Experts reading the proofs say the papers are so horribly written they're impossible to read without AI help. The citations are also often irrelevant and confusing."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/zuckerbergs-biohub-partners-with-doe-nih-to-invest-1-8-billion-in-biological-data-for-ai-models-f8d5f799?st=Js7LNy&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Zuckerberg's Biohub Partners With DOE, NIH to Invest $1.8 Billion in Biological Data for AI Models",
+      "summary": "Biohub, a nonprofit co-founded by Mark Zuckerberg, is working with the Department of Energy, the National Institutes of Health, and other funding partners to invest $1.8 billion in building biological data ready for AI models. The investment is aimed at providing data sets that allow researchers to use AI models to find new ways of preventing and treating diseases. The DOE will invest more than $500 million across five years in lab measurement, modeling, and computation to build an AI-ready open data resource; the NIH will coordinate the contribution of relevant datasets, repositories, and knowledge bases; and Biohub will work with the NIH to standardize the datasets for AI model training."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html?unlocked_article_code=1.HFE.1iUy.NoHdOAmeAMAL&smid=url-share&utm_source=tldrnewsletter",
+      "title": "In Vienna and Beijing, the First Nuclear Clocks Begin to Tick",
+      "summary": "Two independent teams in Vienna and Beijing have simultaneously built the first clocks that keep time by counting the squishing and unsquishing of the atomic nuclei of thorium. The clocks are so precise that they only lose one second once every few million years or so. Nuclear clocks have the ability to search for certain kinds of dark matter. If a particle of dark matter passes through the thorium nuclei, it could register as a wobble in the nuclear clock's otherwise steady tick-tock."
+    },
+    {
+      "url": "https://www.gabrielvaldivia.com/notes/influence-without-authority?utm_source=tldrnewsletter",
+      "title": "Influence without authority",
+      "summary": "Super ICs gain influence by repeatedly doing the unglamorous things. Over time, making the work better, making the story clearer, and making it easier for other people to succeed changes how people behave around you. Authority is a natural side effect of being the person others rely on. Focus on sharpening your craft, turning ideas into stories people can retell, packaging your thinking so it travels without you, and helping your peers hit their goals."
+    },
+    {
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/?utm_source=tldrnewsletter",
+      "title": "Anti-Patterns in Software Blogging",
+      "summary": "Readers need a compelling reason quickly to continue reading. The reader should be able to read an article from start to finish without clicking links or hovering for tooltips. Avoid presenting articles as a follow-up to a previous article. Drop the formality and write the way you speak in real life. Test articles in mobile view, and use browser testing tools to find low-contrast text to improve visibility."
+    },
+    {
+      "url": "https://www.kevin.md/i-put-melee-in-my-living-room.md?utm_source=tldrnewsletter",
+      "title": "I Put Smash Bros Melee in My Living Room",
+      "summary": "Super Smash Bros. Melee's decompilation reached 100% on September 7. Within hours, this developer was wearing a Meta Quest and watching Fox and Marth fight in their apartment. The screen recording of the fight passed a hundred thousand views in just a few days. This article details how the developer brought the match into the headset."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/?utm_source=tldrnewsletter",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "summary": "Artcraft released a suite of open-source apps over the weekend aimed at recreating the user interface and tools found in Adobe Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign, and Acrobat Pro. The developer used Claude Opus 5.5 to create the software. The apps are still in a 'super early alpha' state, but the developer believes that they will be able to produce something as functional as anything Adobe has ever put out. They claim they will be able to reach 99% feature parity within months."
+    },
+    {
+      "url": "https://jasmi.news/p/ai-polls?utm_source=tldrnewsletter",
+      "title": "🌻 Notes on AI & popular politics",
+      "summary": "People are mostly sanguine about the AI present and fearful about the AI future, and national policymakers are committed to a US-China race that the public has no interest in."
+    },
+    {
+      "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall?utm_source=tldrnewsletter",
+      "title": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
+      "summary": "Xbox has returned to growth in its first-party segment and stabilized user engagement after earlier declines this year."
+    },
+    {
+      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html?utm_source=tldrnewsletter",
+      "title": "Apple's Verified Photography System",
+      "summary": "Apple's 'Reference Image' system can verify that an image was taken by an iPhone without tying the image to a specific iPhone or photographer."
+    },
+    {
+      "url": "https://www.theregister.com/offbeat/2026/10/07/starlinks-plan-to-avoid-orbital-near-misses-ephemeris-sharing/5301650?utm_source=tldrnewsletter",
+      "title": "Starlink's plan to avoid orbital near-misses: Ephemeris sharing",
+      "summary": "SpaceX has called for other satellite operators to share their satellites' ephemeris to facilitate timely avoidance maneuvers."
+    },
+    {
+      "url": "https://ciphertalk.substack.com/p/when-hypotheses-become-cheap?utm_source=tldrnewsletter",
+      "title": "When Hypotheses Become Cheap",
+      "summary": "Cheaper intelligence raises the value of evidence."
+    },
+    {
+      "url": "https://tomtunguz.com/what-if-the-models-are-commoditized?utm_source=tldrnewsletter",
+      "title": "A Change in AI Strategy",
+      "summary": "AI labs need to partner and resell models, control the user interface where distribution becomes the moat, and capture routing data to reduce the cost of training future models."
+    }
+  ]
+}

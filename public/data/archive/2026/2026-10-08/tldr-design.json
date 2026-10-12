@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-10-08",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/?utm_source=tldrdesign",
+      "title": "Pinterest's AI Now Turns Beauty Pins into Action Plans",
+      "summary": "Pinterest's AI-powered Beauty Guides turn saved hair and nail Pins into action plans to take to the salon. Tapping \"Get the Guide\" translates a look into stylist terms like \"balayage,\" \"root melt,\" and \"almond nails,\" plus the time, price range, and maintenance involved. At launch, the feature covers Pins for hairstyle, color, nail shape, and finish."
+    },
+    {
+      "url": "https://www.figma.com/release-notes/?title=the-figma-agent-is-generally-available&amp;utm_source=tldrdesign",
+      "title": "The Figma Agent is Generally Available",
+      "summary": "The Figma agent is generally available, leaving beta with improved latency, in-chat file search, and configurable guidelines that give it context about design libraries. Teammates' agents can be watched live on the canvas, generative plugins reach general availability, and custom skills arrive on Starter."
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/07/leaked-images-reveal-apples-new-home-smart-lock-thermostat-more-for-lg/?utm_source=tldrdesign",
+      "title": "Leaked images reveal Apple's new Home smart lock, thermostat, more for LG",
+      "summary": "Apple has reportedly co-developed a collection of smart home accessories with LG, including a smart lock, thermostat, temperature sensor, video doorbell, and several security cameras. Leaked images show a deadbolt with a rotating keypad and automatic unlocking alongside the thermostat and temperature sensor. The accessories will carry LG branding and are unlikely to ship alongside Apple's imminent Home product launches, but they could still feature in the company's announcements."
+    },
+    {
+      "url": "https://adamsilver.io/blog/why-i-wait-for-research-to-prove-something-is-needed-before-its-added-to-the-ui/?utm_source=tldrdesign",
+      "title": "Why I Wait for Research to Prove Something is Needed before It's Added to the UI",
+      "summary": "Adding indicators for annotated documents to a collapsed accordion was set aside until research shows users need them, since more on-screen information raises cognitive load. Adding the element first obscures the cause, since a user who ignores it may not have needed it, barely benefited, or never seen it. Seeing users repeatedly expand documents to find annotations would be the clear signal to add indicators."
+    },
+    {
+      "url": "https://thedesignersfieldguide.substack.com/p/what-does-good-enough-actually-mean?utm_source=tldrdesign",
+      "title": "What does “good enough” actually mean for designers now?",
+      "summary": "AI has raised expectations for speed and visual polish, creating a “fidelity trap” where designers feel pressure to make every artifact look finished even when rougher work would better support the decision at hand. A practical definition of “good enough” starts by identifying what the work needs to unlock—such as a usability test, engineering estimate, design direction, or leadership approval—and applying only enough fidelity to achieve that goal. Clear quality criteria can help teams know both when work isn't ready and when to stop, preserving human judgment as AI compresses more of the design process."
+    },
+    {
+      "url": "https://builtformars.com/case-studies/granola?utm_source=tldrdesign",
+      "title": "Why Granola's Lack of Onboarding Backfires When You Test It",
+      "summary": "People trying an AI note-taking app for the first time are likely to record a meaningless test before trusting it with a real meeting, yet Granola's mobile experience provides little reassurance that the recording is working. Instead of trying to change this instinctive behavior, Granola could embrace it with a one-time test mode that shows a live transcript or otherwise demonstrates the product's capabilities before normal use. Features designed to appear only once can still be valuable because the first session disproportionately shapes perception, particularly in a crowded category where users can easily try a competitor."
+    },
+    {
+      "url": "https://www.flowbase.co/?utm_source=tldrdesign",
+      "title": "The Creators Library of Components & Templates (Website)",
+      "summary": "Flowbase is the world's largest premium library of Webflow, Figma, and Framer components and tools."
+    },
+    {
+      "url": "https://www.details.so/inspo?utm_source=tldrdesign",
+      "title": "Curated Web Design Inspiration from Real Websites (Website)",
+      "summary": "Curated web design inspiration from real websites: hero sections, footers, preloaders, page transitions, and animations — updated weekly."
+    },
+    {
+      "url": "https://astryx.atmeta.com/?utm_source=tldrdesign",
+      "title": "Open Source Design System, Fully Customizable and Agent Ready (Website)",
+      "summary": "A design system that adapts to your workflow, not the other way around. Built for speed, clarity, and creative freedom."
+    },
+    {
+      "url": "https://adobe.design/ideas/beyond-productivity-designing-space-for-creativity?utm_source=tldrdesign",
+      "title": "Beyond Productivity: Designing Space for Creativity",
+      "summary": "Creativity dies from overload, not laziness, so a Reset, Spark, and Protect framework builds in breaks, joy, and boundaries with technology. Breaks of 20 to 30 minutes, walks, time in nature, and naps restore the brain, and AI works best as a calculator, not a composer. Joy is designed through paid sabbaticals, company-wide shutdowns, and permission to be a beginner, while switching off notifications guards attention."
+    },
+    {
+      "url": "https://microsoft.design/articles/more-than-a-mark/?utm_source=tldrdesign",
+      "title": "More than a mark",
+      "summary": "Microsoft redesigned Copilot's icon around two simple square-derived forms that combine into one silhouette, creating a mark capable of remaining recognizable while moving and changing across contexts. Color retains a connection to Copilot's original gradient, while a motion language turns the icon into part of the interface by visually communicating when Copilot is thinking, planning, or retrieving information. The same behaviors follow users across Windows, Word, PowerPoint, and other experiences, transforming a static brand asset into a functional part of how the product communicates."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/product-design/jaguars-dramatic-type-01-finally-makes-sense-of-the-controversial-rebrand?utm_source=tldrdesign",
+      "title": "Jaguar's controversial rebrand finally makes sense with the unveiling of the bold Type 01",
+      "summary": "Jaguar's Type 01 production EV reveals how its controversial 2024 rebrand anticipated an intentionally polarizing product strategy rather than simply introducing a new visual identity. The dramatic 1,015-horsepower electric grand tourer was designed before the Type 00 concept, which was reverse-engineered and exaggerated to generate attention, while consumer testing produced unusually high numbers of both very low and very high ratings. By abandoning the middle ground, Jaguar is targeting wealthy, design-focused buyers who want something distinctive rather than trying to retain its traditional executive-car audience."
+    },
+    {
+      "url": "https://newsletter.baselinedesign.com/naming-is-the-argument/?utm_source=tldrdesign",
+      "title": "Naming is the Argument",
+      "summary": "Teams stall on naming or let tokens balloon from 20 to 487, yet both treat names as permanent when renaming is cheap."
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/06/see-for-yourself-the-difference-the-wider-aperture-of-the-iphone-18-pro-makes/?utm_source=tldrdesign",
+      "title": "See for yourself the difference the wider aperture of the iPhone 18 Pro makes",
+      "summary": "Real-world comparisons between the iPhone 18 Pro's f/1.48 and f/1.8 apertures show a subtle but useful increase in natural background blur and subject separation without relying on computational Portrait mode."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion?utm_source=tldrdesign",
+      "title": "Photoshop's Controversial New AI Tool is Dividing Opinion",
+      "summary": "Photoshop's beta Relight tool adds up to three AI-generated lights to a photo, dividing opinion between faster retouching and unnatural, video-game-like results."
+    }
+  ]
+}
