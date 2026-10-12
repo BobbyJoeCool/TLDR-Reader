@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-10-09",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://andrewchen.substack.com/p/will-agents-have-network-effects?utm_source=tldrproduct",
+      "title": "Will agents have network effects?",
+      "summary": "While current AI agents act as standalone tools, future agents can develop network effects through acquisition and engagement loops. By turning artifacts into viral objects and building centralized identity layers, agent platforms could create winner-take-all dynamics."
+    },
+    {
+      "url": "https://www.techfounderstack.com/p/your-moat-is-dead-anyone-can-rebuild?utm_source=tldrproduct",
+      "title": "Your Moat Is Dead. Anyone Can Rebuild Your Product",
+      "summary": "Falling code generation costs and AI agent reimplementations have eliminated traditional software feature and UI moats. Defensibility has shifted toward accountability, proprietary data, regulatory trust, hardware coupling, and customer outcomes, forcing companies to focus on operational moats and server-side APIs."
+    },
+    {
+      "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?gi=bb33669a8f44&source=rss----138adf9c44c---4&utm_source=tldrproduct",
+      "title": "Tesler's Law: complexity moved to a different part of the journey",
+      "summary": "Generative AI interfaces do not eliminate software complexity - they shift it to users, developers, and reviewers. While AI automates routine tasks, it adds hidden burdens in prompt specification and verification. Designers must address this by creating clear constraints and verification workflows."
+    },
+    {
+      "url": "https://stack72.dev/why-agent-written-code-needs-product-verification/?utm_source=tldrproduct",
+      "title": "Why Agent-Written Code Needs Product Verification",
+      "summary": "When AI agents write both code and tests, they encode identical misunderstandings, producing green builds that fail real user needs. Teams must establish independent verification based on user requirements. Lower maintenance costs and faster repair cycles make comprehensive end-to-end product verification feasible."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/product-definition?utm_source=tldrproduct",
+      "title": "Product definition",
+      "summary": "Product thinking and \"Product Definition\" are essential in the AI era, where agents execute code rapidly given clear direction. Formerly known as feature specification, Product Definition shapes requirements and context into actionable artifacts like prototypes and PRDs. This competency evolves from tactical execution to building systems that align teams and AI agents."
+    },
+    {
+      "url": "https://amycmitchell.substack.com/p/product-management-developer-experience?utm_source=tldrproduct",
+      "title": "When Does Onboarding Become a Product Problem?",
+      "summary": "Customer onboarding friction often signals a hidden product issue. Product managers should address this by creating a repeatable \"Golden Path,\" mapping user tasks from purchase to production to replace manual steps with automated features. Tracking time to first value and completion rates reduces delays and builds long-term product value."
+    },
+    {
+      "url": "https://www.langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature?utm_source=tldrproduct",
+      "title": "How Snyk turned an internal support agent into a customer feature",
+      "summary": "Snyk turned its internal AI support agent, Snyk Assist, into a customer-facing feature. The agent answers user queries within permission boundaries, utilizing offline and online evaluations. Since launch, it has resolved over 85% of support sessions without needing a ticket."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr&amp;sp=yrg9v5ND66fpmjSlDWUDRPCh",
+      "title": "Product Manager, Applied AI at TLDR ($225k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours?utm_source=tldrproduct",
+      "title": "Introducing: Spotify Technology. Proven at Spotify, now yours",
+      "summary": "Spotify Technology is a unified suite of developer and media tools including Portal, Confidence, Xirp, and Spotify for Backstage. Tested across Spotify's internal engineering teams to cover the entire development lifecycle, the offering aims to help external R&D organizations balance team autonomy with architectural alignment."
+    },
+    {
+      "url": "https://flaviocopes.com/agent-checkout/?utm_source=tldrproduct",
+      "title": "What happens when AI agents shop for us",
+      "summary": "As AI shopping agents use wallets to browse catalogs and complete checkouts automatically, online merchants risk losing direct customer contact, while users must retain final purchase approval to prevent accidental transactions."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2107530654741348354.html?utm_source=tldrproduct",
+      "title": "The most common reasons why AI pilots fail, even at the 'best' companies",
+      "summary": "This thread outlines thirteen common pitfalls that cause enterprise AI pilots to fail, such as automating isolated steps instead of full workflows, lacking baseline metrics, ignoring edge cases, and failing to engage legal and security teams early."
+    }
+  ]
+}

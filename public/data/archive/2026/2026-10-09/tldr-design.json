@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-10-09",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/?utm_source=tldrdesign",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary": "OpenAI's Intelligent UI lets ChatGPT combine text with interactive diagrams, charts, buttons, and task-specific tools instead of using the same format for every answer. Users can explore explanations, change inputs, or use a calculator directly within a conversation, with the layout adapting to the question. The feature is rolling out with GPT-6 across paid and free plans, and users can reduce visual elements when they prefer simpler responses."
+    },
+    {
+      "url": "https://ux-news.com/google-nano-banana-2-1-image-editing/?utm_source=tldrdesign",
+      "title": "Google Releases Nano Banana 2.1 for Image Generation and Editing",
+      "summary": "Google's Nano Banana 2.1 reached the Gemini API for image generation and editing, at 1K, 2K, and 4K resolutions. Google reports better text rendering, prompt adherence, and character consistency across successive edits, plus fixes for tiling artifacts in wide and panoramic images at 2K and 4K. The model is available as gemini-nano-banana-2.1, and Google has deprecated gemini-3.1-flash-image without announcing a shutdown date."
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/chatgpt-can-imitate-a-cartoonist-now-its-signing-their-name-too/?utm_source=tldrdesign",
+      "title": "ChatGPT can imitate a cartoonist. Now it's signing their name, too",
+      "summary": "ChatGPT has generated cartoons containing signatures associated with more than 15 New Yorker contributors, potentially making AI-generated work appear to have been created by real artists. Cartoonists including Brendan Loper and Emily Flake have encountered images bearing recognizable versions of their names despite having no involvement in creating them. OpenAI has introduced warnings for some New Yorker-style requests, but signed outputs have reportedly continued to appear, raising concerns that style imitation can cross into false attribution."
+    },
+    {
+      "url": "https://mamuso.dev/note/imperfection?utm_source=tldrdesign",
+      "title": "Imperfection",
+      "summary": "A personal website redesign became an excuse to explore deliberately playful details, including fake game cartridges for past jobs, draggable photo prints, paper-like shaders, animated labels, unusual links, and dynamically generated social cards. Many of these touches serve little practical purpose, but that lack of optimization is precisely what makes the process enjoyable and gives the site its personality. Personal projects can create space for experimentation that professional work often removes, making unnecessary details, imperfection, and prolonged tinkering valuable in themselves."
+    },
+    {
+      "url": "https://slack.design/articles/slack-content-design-in-the-age-of-ai/?utm_source=tldrdesign",
+      "title": "Slack Content Design in the Age of AI",
+      "summary": "Slack's AI-drafted UI copy is almost indistinguishable from human work, and content designers are uniquely equipped to close the trust gap that \"almost\" opens. When Slackbot appeared to leak private information that was actually hallucinated, the team redesigned the UX to fetch correct data and explain why LLMs hallucinate. Three tenets guide the work: trust is the product, human judgment is irreplaceable, and language is infrastructure for AI agents."
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/?utm_source=tldrdesign",
+      "title": "Building a General-Purpose Accessibility Agent—and What We Learned in the Process",
+      "summary": "An experimental general-purpose accessibility agent piloted at GitHub has reviewed 3,535 pull requests with a 68% resolution rate. It gives engineers real-time guidance in Copilot CLI and VS Code, and fixes straightforward issues before code reaches production. A parent agent directs two sub-agents, a passive reviewer and an active implementer, and escalates drag-and-drop, data grids, and rich text editors to human specialists."
+    },
+    {
+      "url": "https://siteprint.app/?utm_source=tldrdesign",
+      "title": "Any Website's Design, as a Prompt for Your AI (Website)",
+      "summary": "A Safari extension for Mac that measures any website's colors, type, spacing, and layout, then hands it to your coding agent as one measured prompt."
+    },
+    {
+      "url": "https://energyicons.com/?utm_source=tldrdesign",
+      "title": "Energy Icons — energy transition icons (Website)",
+      "summary": "Energy Icons is an open-source library of more than 1,200 icons for energy and climate products, covering areas such as renewables, electricity, transportation, buildings, and decarbonization in two optical sizes and two weights."
+    },
+    {
+      "url": "https://www.autonomyware.ai/?utm_source=tldrdesign",
+      "title": "Create Physical Products (Website)",
+      "summary": "Create physical products with Autonomyware: everyday objects, complex systems, sculpts, and toys, engineered autonomously from your idea."
+    },
+    {
+      "url": "https://www.creativebloq.com/tech/phones-tablets/testing-the-ipad-air-m4-as-a-multi-disciplinary-artist-does-it-stack-up?utm_source=tldrdesign",
+      "title": "Testing the iPad Air M4 as a multi-disciplinary artist: does it stack up?",
+      "summary": "The M4 iPad Air's 12GB of unified memory brings it much closer to the iPad Pro for demanding creative work, comfortably handling large Procreate files, 3D models approaching 20 million polygons, and ProRes video editing. Its M4 chip delivers roughly 42% higher single-core and 44% higher multi-core Geekbench performance than the M2 Air, while Apple Pencil Pro support provides the same drawing experience as higher-end models. The iPad Pro still offers advantages such as an OLED display, nano-texture glass, and more memory, but many artists, illustrators, 3D artists, photographers, and video editors may no longer need to pay the premium."
+    },
+    {
+      "url": "https://www.designweek.co.uk/mother-design-exercises-restraint-with-new-ms-pack-system/?utm_source=tldrdesign",
+      "title": "Mother Design exercises restraint with new M&S pack system",
+      "summary": "Mother Design has created a restrained packaging system for thousands of M&S Home and Lingerie products by removing competing sub-brands and hierarchies and looking to classic information design rather than other retailers for inspiration. The system standardizes MS London typography, introduces a geometric numeral set called MS London Geo, and uses grids, consistent hierarchy, restrained colors, and color-coded sizing to make complex product information easier to navigate. Packaging materials, photography, and tone adapt between Home and Lingerie while maintaining a shared structure designed to strengthen the M&S master brand and scale into additional categories."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/10/street-artist-turns-graffiti-letters-into-neon-portals-where-typography-architecture-and-science-fiction-collide/?utm_source=tldrdesign",
+      "title": "Street Artist Turns Graffiti Letters into Neon Portals Where Typography, Architecture, and Science Fiction Collide",
+      "summary": "Spanish artist Javier Demsky, who started in graffiti in the early 1990s, bends the letters of his name into luminous structures blending typography, architecture, and science fiction."
+    },
+    {
+      "url": "https://www.agux.co/information-architecture/talking-about-ia/ia-works-at-different-scales?utm_source=tldrdesign",
+      "title": "Information Architecture Works at Different Scales",
+      "summary": "Evaluating an information architecture starts with its scale, whether organization, platform, site, interface, or interaction, since only IAs at the same scale can be compared."
+    }
+  ]
+}

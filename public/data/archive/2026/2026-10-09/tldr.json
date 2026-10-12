@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-09",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNTk4OSwiZXhwIjoxNzkyMTIwNzg5LCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.CEWGhV2fQozYdZYJ8pr7ny3YmkLOw3vjyZGM3FSYgf0&utm_source=tldrnewsletter",
+      "title": "Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October",
+      "summary": "Apple plans to introduce a touch-screen MacBook and a new iPad mini on or around October 27. The launch will include an online video presentation and an in-person component for the press. Apple will also hold an event next week to introduce its first smart home hub with a display, a new HomePod mini, and an updated Apple TV set-top box. It plans to introduce a home ecosystem that will include accessories from LG and Schneider Electric."
+    },
+    {
+      "url": "https://www.wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?st=JfGrmW&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "SpaceX Makes Big Play to Become a Wireless Carrier",
+      "summary": "SpaceX will pay investment firm Grain Management about $8 billion in cash for US cellular spectrum licenses. The licenses will be for the 800-megahertz band, which is tailored for wireless service from cellphone towers rather than satellites. SpaceX says the new spectrum will help cover places satellite links can't reach. SpaceX still needs some terrestrial infrastructure to use the spectrum for mobile coverage."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html?unlocked_article_code=1.HVE.gmzw.NJlFbZU8R7je&smid=url-share&utm_source=tldrnewsletter",
+      "title": "The Start-Up That Wants to Build ‘Microrobots' With AI",
+      "summary": "Atomic Machines is building AI technology that can discover new ways of designing extremely small devices. It is building an automated manufacturing system that turns computer code into a physical device. The company aims to revamp the field of microelectromechanical systems (MEMS), tiny devices made of both electrical and mechanical components. These devices are traditionally manufactured like computer chips, but this limits the possibilities of the technology to the physical properties of a semiconductor."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/?utm_source=tldrnewsletter",
+      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+      "summary": "Amazon's Leo project is nearing several critical milestones. The company recently manufactured its 1,000th satellite and has reached the point where it can build a handful of satellites every day. The Vulcan's upcoming return-to-flight mission will carry Amazon Leo satellites, and another Vulcan rocket is currently being prepared to launch this year with more Amazon satellites. The company is just weeks away from offering a commercial space broadband service for the first time."
+    },
+    {
+      "url": "https://www.ivokund.com/first-look-at-claude-code-mods-spoiler-yes-use-one-now/?utm_source=tldrnewsletter",
+      "title": "First look at Claude Code mods (spoiler: yes, use one now!)",
+      "summary": "You can now add panes, commands, and tool call rules to Claude Code with Mods. A mod is a plugin that changes how Claude Code looks and behaves. They can be used to add custom features to Claude Code. Mods run inside Claude Code, so they can do things that hooks, skills, status lines, and MCP servers can't, like redraw Claude Code's own interface, step into a tool call or request, and share data between hooks."
+    },
+    {
+      "url": "https://blog.getbootstrap.com/2026/10/08/bootstrap-6-alpha/?utm_source=tldrnewsletter",
+      "title": "Bootstrap 6 Alpha",
+      "summary": "Bootstrap 6 features a major overhaul to the project that modernizes it from the ground up with the Sass module system, support for more native browser APIs and elements, ESM-only JavaScript plugins, and a slew of new CSS standards. Alpha 1 is on npm and jsDelivr right now. Bootstrap 6 requires Chrome and Edge 130, Firefox 132, and Safari 18. Bootstrap 5 remains available and supported."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr&amp;sp=yrg9v5ND66fpmjSlDWUDRPCh",
+      "title": "Product Manager, Applied AI at TLDR ($225k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We’re looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://nathanbenaich.substack.com/p/state-of-ai-2026?utm_source=tldrnewsletter",
+      "title": "The State of AI Report 2026",
+      "summary": "Agents are now doing valuable work in software and science. Physical AI is learning how to act in the world, and access and control are becoming more essential. The frontier is now a three-lab race between Anthropic, OpenAI, and Google. Anthropic leads on Artificial Analysis' Intelligence Index, while Google leads on Arena's ranking of the answers people prefer."
+    },
+    {
+      "url": "https://kwokchain.com/2026/10/09/abstract-warfare-how-tsmc-made-its-own-market/?utm_source=tldrnewsletter",
+      "title": "Abstract Warfare: How TSMC Made Its Own Market",
+      "summary": "The most important tech companies are much larger than their original markets. They not only expand their market, but make their own markets as well. These companies achieve this by attacking the abstractions their industry is built on. They change what it takes to participate in the industry and create shared infrastructure out of their competitors' businesses. This allows an ecosystem of new companies to form that both win in the market and are dependent on them."
+    },
+    {
+      "url": "https://thenextweb.com/news/perm-suspension-capgemini-europe?utm_source=tldrnewsletter",
+      "title": "US suspending permanent residency programme for Microsoft and Capgemini, officials say",
+      "summary": "Microsoft, Adobe, Cognizant, Infosys, Tata, Wipro, HCL, and Capgemini are being suspended from PERM, the labour certification employers need before sponsoring a worker for permanent residency."
+    },
+    {
+      "url": "https://github.com/zerobrewhq/zerobrew?utm_source=tldrnewsletter",
+      "title": "zerobrew (GitHub Repo)",
+      "summary": "zerobrew brings uv-style architecture to Homebrew packages on macOS and Linux."
+    },
+    {
+      "url": "https://www.theregister.com/networks/2026/10/08/icann-reveals-bids-for-new-top-level-domains/5301857?utm_source=tldrnewsletter",
+      "title": "ICANN reveals bids for new top-level domains",
+      "summary": "String Confirmation Day will be on November 17."
+    },
+    {
+      "url": "https://www.stripeeconomics.com/p/an-empirical-agenda-for-ai?utm_source=tldrnewsletter",
+      "title": "An empirical agenda for AI",
+      "summary": "How AI will transform society will depend on how businesses reorganize, markets adjust, and workers respond."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/microsoft-expands-xbox-s-movie-tv-ambitions-with-new-division?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNjAxOCwiZXhwIjoxNzkyMTIwODE4LCJhcnRpY2xlSWQiOiJUTUs5RlJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.ogVQuJkIBbQ8EXEKbIj_F1zzKhITDNFShNMOe0xMndc&utm_source=tldrnewsletter",
+      "title": "Xbox Expands Movie, TV Ambitions With New Division",
+      "summary": "Xbox's entertainment division will grow Xbox's footprint in film, TV, products, events, and theme parks."
+    },
+    {
+      "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/?utm_source=tldrnewsletter",
+      "title": "100+ reactions to 100+ solutions",
+      "summary": "This post presents a snapshot of the mathematical community's gut feelings regarding OpenAI's announcement on October 6."
+    }
+  ]
+}

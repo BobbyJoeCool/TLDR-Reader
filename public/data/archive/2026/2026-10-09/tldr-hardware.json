@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-10-09",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html?utm_source=tldrhardware",
+      "title": "TSMC's September sales surge year-over-year as AI drives chip demand",
+      "summary": "TSMC reported revenue of $511.86 billion New Taiwan dollars for September, a 54.6% year-over-year increase. Demand for advanced AI chips, driven by customers like Nvidia and Apple, boosted sales. TSMC has also committed to using ASML's advanced lithography machines to enhance chip production."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout?utm_source=tldrhardware",
+      "title": "Amazon builds its 1,000th Leo satellite at 27 a week, but only 396 are in orbit",
+      "summary": "Amazon built its 1,000th Leo broadband satellite at its Kirkland, Washington plant, which took six months to produce its first 27 and now turns out 27 a week. It builds propulsion in-house and borrowed consumer electronics methods to cut tests that took weeks down to hours. The bottleneck is launch: only 396 are in orbit against 3,232 needed, and the Vulcan grounding and a New Glenn pad explosion cost Amazon FCC spectrum priority."
+    },
+    {
+      "url": "https://spectrum.ieee.org/anderon-quantum-fab?utm_source=tldrhardware",
+      "title": "Anderon aims to industrialize quantum chip fabrication",
+      "summary": "IEEE Spectrum examines the up-to-$1B CHIPS R&D award finalized for IBM spinoff Anderon in September. IBM is matching that funding with $1B, while Anderon uses a 300mm Albany line and plans foundry services and process design kits for outside developers. The challenge is repeatable fabrication, including tighter control of Josephson junctions, rather than simply adding wafer capacity."
+    },
+    {
+      "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge?utm_source=tldrhardware",
+      "title": "Google open-sources ML Drift, a GPU engine that runs one shader set across OpenCL, Metal, WebGPU, and OpenGL ES",
+      "summary": "Tensor virtualization decouples a tensor's logical layout from its physical GPU allocation, so one shader template replaces separate backend-specific codebases. For edge LLMs, ML Drift switches kernels between compute-bound prefill and memory-bound decode, using a convolution-aligned KV cache layout and in-kernel activation quantization to skip memory roundtrips. It cut YouTube Shorts frame latency by up to 40%, and Google co-optimized it with Arm, Intel, and Qualcomm GPUs."
+    },
+    {
+      "url": "https://newatlas.com/energy/cement-based-supercapacitor/?utm_source=tldrhardware",
+      "title": "Supercapacitor cement is key to buildings that store their own power",
+      "summary": "Scientists from the Harbin Institute of Technology developed a cement-based supercapacitor capable of powering small devices like LEDs. The device uses a 3D-printed electrode ink made from carbon nanotubes and cement, enabling fast energy discharge. Future research will enhance cold-weather performance, potentially allowing buildings to store energy and support smart environments."
+    },
+    {
+      "url": "https://www.theregister.com/systems/2026/10/08/too-many-quantum-startups-too-little-money-to-keep-them-alive/5302025?utm_source=tldrhardware",
+      "title": "Too many quantum startups, too little money to keep them alive",
+      "summary": "Gartner predicts that over half of quantum startups will fail by 2030 due to a market unable to generate sufficient revenue. Despite this, companies are investing in quantum technologies for their potential business advantages, focusing on building expertise rather than waiting for technological maturity. The public sector and financial industries are expected to lead quantum computing investments, with spending reaching $245 million and $289 million by 2027 and 2028, respectively."
+    },
+    {
+      "url": "https://appleinsider.com/articles/26/10/08/theres-a-hidden-upside-to-the-rampocalypse-for-apple?utm_source=tldrhardware",
+      "title": "There's a hidden upside to the rampocalypse for Apple",
+      "summary": "Apple gained a full percentage point in market share year-over-year as RAM price increases led to a 20% decrease in overall PC shipments. Despite this downturn, Apple was less affected than most competitors. With prices expected to worsen, Apple's resilience highlights its strong customer base willing to invest in new devices."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/?utm_source=tldrhardware",
+      "title": "NVIDIA's Safety Stack for Physical AI",
+      "summary": "NVIDIA expanded its Halos safety system from self-driving cars to robots with Halos for Robotics in June."
+    },
+    {
+      "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/?utm_source=tldrhardware",
+      "title": "AWS Launches an Open-Source Physical AI Toolchain for Robotics",
+      "summary": "The toolchain covers synthetic data generation, training, simulation and validation, edge deployment, and continuous improvement."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra?utm_source=tldrhardware",
+      "title": "Microsoft's Surface Laptop Ultra brings Nvidia's RTX Spark to a 15-inch, $2,600 laptop",
+      "summary": "Microsoft's 15-inch Surface Laptop Ultra runs Nvidia's RTX Spark superchip, pairing up to a 20-core Grace CPU and Blackwell graphics with up to 128GB of unified memory, enough for local agents on models up to 120B parameters."
+    }
+  ]
+}

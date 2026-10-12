@@ -1,0 +1,38 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-09",
+  "articleCount": 6,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.anthropic.com/claude-haiku-5-5?utm_source=tldrit",
+      "title": "Introducing Claude Haiku 5.5",
+      "summary": "Anthropic has released Claude Haiku 5.5, its fastest and cheapest small model to date, designed for high-volume, cost-sensitive tasks such as summaries, database queries, and classifications. The new model costs roughly 75% less to run than Haiku 4.5 and is available across major cloud platforms including Amazon Web Services, Google Cloud, and Microsoft Azure. Alongside the launch, Anthropic halved cache read prices for Claude Sonnet 5.5 and introduced monthly API credits for Max and Team subscribers."
+    },
+    {
+      "url": "https://blog.mikegchambers.com/posts/decider-gated-memory/?utm_source=tldrit",
+      "title": "Should the agent even look that up?",
+      "summary": "Decision models can efficiently determine when AI agents need to retrieve long-term memory, reducing unnecessary context and token usage without sacrificing accuracy. Using a carefully designed classifier reduced injected context by 85% and eliminated five of eight memory calls."
+    },
+    {
+      "url": "https://commandline.microsoft.com/local-models-sandboxed-tools-github-windows/?utm_source=tldrit",
+      "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
+      "summary": "GitHub Copilot is introducing support for local inference models and sandboxed tool execution on Windows devices, coordinated automatically with cloud models through intelligent orchestration. To enable this, Microsoft AI developed a quantized local version of the coding-optimized MAI Code 1.1 Flash model running on NVIDIA RTX Spark hardware with unified memory. Additionally, Microsoft Execution Containers provide operating-system-level sandboxing to secure shell commands and local server interactions during agentic workflows."
+    },
+    {
+      "url": "https://forkast.news/sap-just-added-stablecoin-settlement-to-the-software-that-runs-84-of-global-commerce/?utm_source=tldrit",
+      "title": "SAP Just Added Stablecoin Settlement to the Software That Runs 84% of Global Commerce",
+      "summary": "SAP has introduced SAP Pay, an ERP-level accounting upgrade embedded in SAP Cloud ERP that enables institutional stablecoin settlement in USDC and EURC. Developed in partnership with Tereina and Circle, the platform allows multinational corporations to settle invoices across 89 global payment corridors directly within their existing enterprise software workflows. The infrastructure relies on Circle's Arc blockchain and is supported by upcoming Joule AI agents designed to execute autonomous payments."
+    },
+    {
+      "url": "https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/?utm_source=tldrit",
+      "title": "Building Windows for hybrid intelligence",
+      "summary": "Microsoft has announced the expansion of Windows into a platform for hybrid intelligence, combining local AI processing with cloud capabilities and introducing enhanced security controls. The release includes generally available Microsoft Execution Containers for agent containment, new local model support via Windows ML and llama.cpp, and an expanded ecosystem of builder PCs and desktop supercomputers powered by NVIDIA technology."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687?utm_source=tldrit",
+      "title": "AWS launches Strands Box, an open-source AI agent sandbox to prevent YOLO mode disasters",
+      "summary": "The new solution integrates tools like the Dogwood Local Engine, Strands Shell, and Python interpreters to give the policy engine temporal awareness, enabling developers to monitor and restrict file deletions, API calls, and Slack postings based on prior actions."
+    }
+  ]
+}
