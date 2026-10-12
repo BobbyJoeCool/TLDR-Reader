@@ -9,13 +9,19 @@ on:
     branches:
       - main
 
+# Back-to-back pushes make Azure cancel the older in-flight deploy, which shows up as a
+# failed run. Cancel the superseded run on the GitHub side instead.
+concurrency:
+  group: swa-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build_and_deploy_job:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
         with:
           submodules: true
           lfs: false
