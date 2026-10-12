@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-10-12",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://fluxcd.io/blog/2026/10/flux9s-ga/?utm_source=tldrdevops",
+      "title": "flux9s GA: Flux cluster state, from the terminal",
+      "summary": "flux9s, a Rust terminal UI for Flux inspired by K9s, reached 1.0. It adds dependency graphs, reconciliation history, a cluster health pulse dashboard, and opt-in discovery for Flagger and tofu-controller, and it is read-only by default."
+    },
+    {
+      "url": "https://www.digitalocean.com/blog/microvms-public-preview?utm_source=tldrdevops",
+      "title": "DigitalOcean MicroVMs: Fast, isolated compute for your AI agent infrastructure",
+      "summary": "DigitalOcean has released MicroVMs in public preview, offering isolated virtual machines that pause when idle and resume in milliseconds. The service costs $0.022 per vCPU-hour and $0.0085 per GiB-hour for compute, billed per second, while paused instances only incur storage fees. MicroVMs are built on the open-source Firecracker platform and are designed for workloads like coding agents, sandboxes, and CI/CD runners."
+    },
+    {
+      "url": "https://newrelic.com/blog/news/introducing-ai-evaluation?utm_source=tldrdevops",
+      "title": "Introducing AI Evaluation: Close the Loop Across the Full AI Lifecycle",
+      "summary": "New Relic added AI Evaluation to its AI Observability platform, using an LLM as a judge to score live prompts and completions for safety and accuracy. It flags prompt injection, data leakage, and hallucinations with 0 to 1 scores attached to distributed traces."
+    },
+    {
+      "url": "https://www.solo.io/blog/agentic-quality-benchmarking-with-agent-evals?utm_source=tldrdevops",
+      "title": "Agentic Evaluations: Benchmark AI Agent Quality, Performance, & Safety",
+      "summary": "Anthropic has introduced a new concept called agentic evaluations, or agentevals, to verify that AI agents perform tasks correctly and safely. The tool grades agent traces based on specific criteria like performance, output quality, and safety. Developers can install agentevals via a Python package or clone the source repository from GitHub."
+    },
+    {
+      "url": "https://boundlayer.io/blog/zero-downtime-postgresql-migrations?utm_source=tldrdevops",
+      "title": "Zero-Downtime PostgreSQL Migrations: A Production Playbook for Safe Schema Changes",
+      "summary": "Safe PostgreSQL schema changes separate expansion, backfills, traffic switches, and cleanup so old and new application versions remain compatible during deployment. Short lock timeouts, concurrent index builds, separately validated constraints, and throttled backfills limit disruption, while monitoring replica lag and data consistency determines when each phase can proceed."
+    },
+    {
+      "url": "https://planetscale.com/blog/leaky-buckets-in-software-explained?utm_source=tldrdevops",
+      "title": "What today's software owes to Bronze Age clocks",
+      "summary": "Leaky buckets provide inexpensive admission control by calculating available capacity from elapsed time rather than running a background timer. PlanetScale applies related token-bucket budgets to Postgres queries, estimating resource costs before execution and reconciling actual costs afterward to control bursts and protect database capacity."
+    },
+    {
+      "url": "https://github.com/lyogavin/airllm?utm_source=tldrdevops",
+      "title": "AirLLM (GitHub Repo)",
+      "summary": "AirLLM allows 70B large language models to run on a single 4GB GPU without quantization. The tool can run Kimi K3 (2.8T) on under 4GB of VRAM and DeepSeek-V3 (671B) on about 12GB. It works by keeping only one layer on the GPU at a time. AirLLM also supports training huge models on small VRAM, with Qwen3.8-Flash-Next (125B) training under 6GB."
+    },
+    {
+      "url": "https://github.com/mksglu/context-mode?utm_source=tldrdevops",
+      "title": "Context Mode (GitHub Repo)",
+      "summary": "Context Mode is an MCP server that reduces context window usage by 98% for AI coding agents. It saves tool output to a sandbox so raw data never enters the conversation, shrinking a typical 315 KB output load to 5.4 KB. The tool also persists session memory in SQLite, allowing agents to recover their state after a conversation compacts. It works across 17 platforms, including Claude Code, Gemini CLI, VS Code Copilot, and Cursor."
+    },
+    {
+      "url": "https://openai.com/index/atlassian-partnership/?utm_source=tldrdevops",
+      "title": "Atlassian and OpenAI expand their partnership",
+      "summary": "Atlassian and OpenAI expanded their partnership, bringing GPT-6 Astra and the GPT-5.6 series into Atlassian's platform and Rovo alongside its Teamwork Graph. Over 3,000 Atlassian developers already use Codex, and future integrations will let teams assign work directly to AI agents."
+    },
+    {
+      "url": "https://blog.cloudflare.com/workers-on-demand-profiling/?utm_source=tldrdevops",
+      "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+      "summary": "Cloudflare added on-demand production CPU and memory profiling for Workers and Durable Objects, with interactive flamegraphs and downloadable profiles. Internal profiling uncovered redundant JSON processing and partially disabled metrics code that still consumed memory. Memory profiles capture allocations during the recording window rather than the entire existing heap."
+    },
+    {
+      "url": "https://tailscale.com/blog/codex-cloud-tailscale?utm_source=tldrdevops",
+      "title": "Codex Cloud shipped with Tailscale support. Nobody told us",
+      "summary": "Codex Cloud's Tailscale integration connects cloud coding environments to private APIs and test services using tagged, ephemeral devices governed by tailnet access rules."
+    },
+    {
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/?utm_source=tldrdevops",
+      "title": "Deno is joining Cloudflare",
+      "summary": "The Deno team is joining Cloudflare to simplify self-hosting for Workers and Durable Objects."
+    }
+  ]
+}

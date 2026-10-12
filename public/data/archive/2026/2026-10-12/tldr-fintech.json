@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-10-12",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/?utm_source=tldrfintech",
+      "title": "OpenAI's annualized revenue reportedly closer to $50B, not $70B",
+      "summary": "OpenAI has reportedly told investors that annualized revenue is approaching $50 billion, well below the roughly $70 billion figure previously circulated by investors attempting to compare the company with Anthropic. The discrepancy also highlights differing revenue definitions between the two companies, while raising more scrutiny around OpenAI's economics as it invests heavily in infrastructure and prepares for a potential IPO in 2027."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-nik-storonsky-on-us-strategy-video?utm_source=tldrfintech",
+      "title": "Revolut CEO Nik Storonsky says company wants to “dominate” the US (10 minute podcast)",
+      "summary": "Revolut CEO Nik Storonsky says the fintech plans to build a full US digital banking offering, including credit cards and loans, as it competes with incumbents such as JPMorgan and American Express. He also expects AI and automation to reshape banking, with Revolut preparing to test AI agents that can shop and transact on behalf of customers."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/?utm_source=tldrfintech",
+      "title": "Netflix sets Nov. 19 release for FTX drama “The Altruists”",
+      "summary": "Netflix will release “The Altruists,” a dramatized series about the collapse of FTX, on November 19, starring Anthony Boyle as Sam Bankman-Fried and Julia Garner as Caroline Ellison. The show focuses on their relationship and the effective altruism movement surrounding FTX, turning one of crypto's biggest scandals into a scripted Hollywood drama."
+    },
+    {
+      "url": "https://www.a16z.news/p/you-need-a-new-cfo?utm_source=tldrfintech",
+      "title": "You need a new CFO",
+      "summary": "AI is changing finance software from tools that help teams manage work into systems that increasingly do the work themselves, pushing CFOs toward a new role as builders of the company's operating system. The AI-native finance organization is smaller and higher leverage, with continuous forecasting, finance engineers, agent-driven workflows, and stronger audit controls, while the CFO focuses more on designing what people versus software should do and less on manually collecting and reconciling data."
+    },
+    {
+      "url": "https://thefinanser.com/2026/10/where-will-banks-make-money-if-it-isnt-from-payments?utm_source=tldrfintech",
+      "title": "Where will banks make money if it isn't from payments?",
+      "summary": "AI agents and programmable money are pushing financial value away from transaction processing and toward orchestration, identity, liquidity, compliance, and software. McKinsey estimates agentic AI could put $75 billion to $160 billion of payments revenue at risk by 2030, while Capgemini says $230 billion is already exposed across areas like FX spreads, correspondent fees, and float income. The emerging battleground is increasingly about who controls the intelligence that decides how money moves, whether that is a bank, fintech, software platform, or AI agent."
+    },
+    {
+      "url": "https://www.pymnts.com/news/b2b-payments/2026/chase-adds-payroll-to-larger-business-banking-offering/?utm_source=tldrfintech",
+      "title": "Chase adds payroll to larger business banking offering",
+      "summary": "Powered by Gusto, the service lets eligible small businesses handle payroll, tax filings, and employee payments inside Chase Business Online, with next-day processing available to qualifying checking customers. The integration brings another essential workflow into Chase's platform while leaving the specialized payroll calculations and filings to its fintech partner."
+    },
+    {
+      "url": "https://finovate.com/experian-unveils-new-consumer-reporting-agency-for-cashflow-underwriting?utm_source=tldrfintech",
+      "title": "Experian unveils new consumer reporting agency for cashflow underwriting",
+      "summary": "Experian is building an FCRA-regulated layer that lets lenders incorporate permissioned bank-account activity into credit decisions, potentially helping thin-file and credit-challenged borrowers qualify. Experian says these insights can increase approvals by up to 25% without changing risk tolerance, while bringing consent, data aggregation, standardized reports, analytics, and its existing scoring tools into one ecosystem. The move puts Experian into closer competition with Plaid, Prism Data, Mastercard Finicity, and Nova Credit, even as Plaid remains one of its data partners."
+    },
+    {
+      "url": "https://unchainedcrypto.com/nfl-tells-supreme-court-prediction-market-sports-contracts-are-gambling-not-swaps/?utm_source=tldrfintech",
+      "title": "NFL tells Supreme Court prediction market sports contracts are gambling, not swaps",
+      "summary": "The NFL urged the Supreme Court to review whether sports prediction contracts such as Kalshi's should be regulated as gambling by states or as swaps under exclusive CFTC jurisdiction, arguing that Dodd-Frank was not intended to federalize sports betting. The dispute has produced conflicting appeals-court rulings, while Kalshi argues its markets are federally regulated and protected by existing integrity controls, setting up a potentially important Supreme Court test of prediction-market regulation."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/amex-dinged-by-fed-occ-must-pay-350m-for-aml-failures/832575/?utm_source=tldrfintech",
+      "title": "Amex dinged by Fed, OCC over anti-money laundering failures",
+      "summary": "American Express National Bank was ordered to pay a $350 million penalty after the OCC found major deficiencies in its anti-money laundering program, including weak risk assessments and systemic failures in suspicious activity monitoring that regulators said involved roughly $13 billion of suspected money laundering activity over 10 years. The Federal Reserve separately issued a cease-and-desist order covering broader enterprise-wide AML issues, while Amex said the penalty will not affect its 2026 or 2027 guidance."
+    },
+    {
+      "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?utm_source=tldrfintech",
+      "title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
+      "summary": "Bank of America, Citi, and Morgan Stanley are syndicating $42 billion of Broadcom-backed senior loans plus $18 billion of riskier junior debt to finance Anthropic's lease of Google-designed chips."
+    },
+    {
+      "url": "https://www.reuters.com/legal/transactional/citi-backed-fintech-capitolis-valued-about-2-billion-latest-funding-round-2026-10-06/?utm_source=tldrfintech",
+      "title": "Citi-backed fintech Capitolis valued at $1.9B in latest funding round",
+      "summary": "Capitolis raised $220 million in new financing at a $1.9 billion valuation, including a $120 million Series E led by Citi with participation from Bank of America, Nomura, Tradeweb, and several major global banks."
+    },
+    {
+      "url": "https://finainews.com/banking/jpmorgan-tops-global-ai-banking-index-with-jobs-seen-to-grow/?utm_source=tldrfintech",
+      "title": "JPMorgan tops global AI banking index with jobs seen to grow",
+      "summary": "AI capabilities across banking improved nearly three times faster over the past year than the average of the previous three years, as deployment accelerated at a record pace."
+    }
+  ]
+}

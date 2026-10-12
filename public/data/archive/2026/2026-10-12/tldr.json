@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-12",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html?unlocked_article_code=1.IFE.3m8j.FbOfjIqvdFLM&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Inside Mark Zuckerberg's Decision to Pull the Trigger on Meta's AI Agent",
+      "summary": "Meta had delayed the release of Muse for months due to safety concerns. However, the success of an AI agent created by a startup called Instinct led Mark Zuckerberg to push for a launch due to fear of losing a competitive edge. The launch was successful and has given Meta an early lead with agents. The agent has only had a few safety hiccups, like when it gave out a user's address to a seller on Facebook Marketplace without permission."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTc3NDc4NCwiZXhwIjoxNzkyMzc5NTg0LCJhcnRpY2xlSWQiOiJUTVFYSzJOM04wOFowMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.VpLYB31tmlC9YKzhenXXqPdvFv297p02RZ_WTDk3s8g&utm_source=tldrnewsletter",
+      "title": "Apple Is About to Close the Biggest Hole In Its Ecosystem With HomeView",
+      "summary": "Apple is set to unveil new smart home products tomorrow. The centerpiece will be a smart home hub called the HomeView that essentially serves as the Siri command center for an Apple-powered household. There will be a countertop model with a metal base and a wall-mounted version with a flat, square base that sits against the wall beneath the display. The HomeView will only support a limited selection of Apple applications, and there will be no App Store for downloading additional software."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTc3NDgzNywiZXhwIjoxNzkyMzc5NjM3LCJhcnRpY2xlSWQiOiJUTU0yS0ZWVFRDWlYwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.qKwaxiQA41bCTyhO89iik9g1DsGnuCz_-BYe0uX0X2o&utm_source=tldrnewsletter",
+      "title": "China's Delivery Robots Are Learning to Tackle the Night Shift",
+      "summary": "Shenzhen opened access for nighttime deliveries by driverless vehicles in March. Night operations make otherwise idle vehicles and infrastructure productive. It also means quieter roads, reduced pedestrian traffic, and lower congestion. Driverless vehicles eliminate the cost of a human: they don't need night shift wages, they don't get tired, and they don't need to be paid extra for driving in the rain."
+    },
+    {
+      "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?utm_source=tldrnewsletter",
+      "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them",
+      "summary": "Borrowing an idea from one research discipline to solve a problem in another is an age-old scientific trick. However, such clever leaps are rare because researchers don't tend to spend their time researching fields outside of their expertise. AI can easily hop between fields. BootLoops is a harness that can spot and solve problems in seemingly unrelated fields that share the same mathematical structures at massive scale. Researchers recently released 36 preprints produced with BootLoops covering a wide range of topics, including figuring out the age of sunspots, analyzing government health policies, and attempting to decipher a mysterious medieval manuscript."
+    },
+    {
+      "url": "https://ghuntley.com/replaced/?utm_source=tldrnewsletter",
+      "title": "If your team is too busy doing their 'normal job' to experiment with AI, you're preparing them to be replaced",
+      "summary": "Not learning to use AI at this point is detrimental to your career. The tastes and desires in the employment market have changed. Teams that aren't working with AI will be replaced with workers who use AI. The job market might look tough, but it's much easier for workers who have been investing in themselves."
+    },
+    {
+      "url": "https://www.theregister.com/devops/2026/10/09/so-long-spokes-github-rewrites-storage-to-restore-reliability-just-in-time-for-agentic-hordes/5302148?utm_source=tldrnewsletter",
+      "title": "So long, Spokes: GitHub rewrites storage to restore reliability, just in time for agentic hordes",
+      "summary": "GitHub is rebuilding its Git storage architecture from scratch. Early internal testing shows a promising 35x write improvement. The plan involves decoupling writes from reads, offloading maintenance, and letting object storage manage redundancy. The change won't alter developer workflows, review processes, or security controls."
+    },
+    {
+      "url": "https://www.wsj.com/articles/the-ai-computing-crunch-is-making-rivals-into-partners-09431721?st=vsq7AV&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "The AI Computing Crunch Is Making Rivals Into Partners",
+      "summary": "Anthropic entered into a deal worth up to $45 billion earlier this year to lease computing power from SpaceX. The unlikely alliance illustrates the industry's increasingly desperate scramble for compute. Demand is outstripping supply, and prices are rising, causing tech companies to strike deals with rivals. Venture-capital firms are helping startups obtain computing capacity."
+    },
+    {
+      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/?utm_source=tldrnewsletter",
+      "title": "How to Build Wealth as a Career Person",
+      "summary": "Ownership is not the only credible path to prosperity. It's possible to build substantial wealth through a career. A career provides income, training, relationships, credibility, and exposure. In some cases, it can also provide pensions, bonuses, equity, and other benefits. This can be used to build wealth that remains under your ownership and continues to serve you after the salary has been paid."
+    },
+    {
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/?utm_source=tldrnewsletter",
+      "title": "Deno is joining Cloudflare",
+      "summary": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects."
+    },
+    {
+      "url": "https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/?utm_source=tldrnewsletter",
+      "title": "Speeding up the Unreal editor by… not using unnecessarily secure hash methods",
+      "summary": "There's no reason to use cryptographically secure hashes when there's no sensitive data."
+    },
+    {
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies?utm_source=tldrnewsletter",
+      "title": "From now on I'll call you",
+      "summary": "Brave, Tor, and Mullvad Browser are the only major browsers at the moment that implement advanced protections against fingerprinting."
+    },
+    {
+      "url": "https://eastwind.substack.com/p/below-the-frontier-the-battle-for?utm_source=tldrnewsletter",
+      "title": "Below the Frontier: The Battle for Good-Enough AI",
+      "summary": "Frontier labs will likely capture the bulk of revenue from the most demanding work, but there's still plenty of room below the frontier for very large businesses."
+    },
+    {
+      "url": "https://www.nibzard.com/hiring?utm_source=tldrnewsletter",
+      "title": "We don't know how to hire. We're just very confident",
+      "summary": "Skill and competence matter, but being a 'good human' is one of the strongest foundations for doing great work together."
+    },
+    {
+      "url": "https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264?utm_source=tldrnewsletter",
+      "title": "Global PC shipments crater 20% as rising prices hammer demand",
+      "summary": "The AI-driven memory shortage is pushing up prices, and buyers are deciding that their existing machines are just fine."
+    },
+    {
+      "url": "https://scotthelme.co.uk/the-first-reduction-in-their-history-64-day-lets-encrypt-certificates/?utm_source=tldrnewsletter",
+      "title": "The First Reduction in Their History: 64-Day Let's Encrypt Certificates",
+      "summary": "Let's Encrypt will start issuing 64-day certificates starting on October 14."
+    }
+  ]
+}

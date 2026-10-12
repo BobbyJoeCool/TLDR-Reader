@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-10-12",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.seangoedecke.com/softwares-centaur-age-may-last-decades/?utm_source=tldrfounders",
+      "title": "Software's centaur age may last decades",
+      "summary": "Human engineers paired with AI coding systems are more effective than either by themselves. This fact is likely to remain true for the next decade or two. Software engineers have plenty of time to consider their next move. There's no need to panic and jump ship early when there's still time to live out an entire normal-length career."
+    },
+    {
+      "url": "https://www.coinbase.com/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent?utm_source=tldrfounders",
+      "title": "Part 1/3 Owning Intelligence Series: How Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
+      "summary": "Coinbase built an LLM risk agent onto Onramp's existing ML model and rules. Online A/B experiments showed a 30% reduction in fraudulent transactions and 22% less fraud value. Coinbase then post-trained Qwen3.5-9B on its proprietary Onramp fraud dataset. The resulting model outperformed Opus 4.5 on all fraud detection metrics while delivering 55% lower end-to-end online serving latency."
+    },
+    {
+      "url": "https://longform.asmartbear.com/you-didnt-do-it-right/?utm_source=tldrfounders",
+      "title": "“You didn't do it right”",
+      "summary": "When OKRs don't work, how many times are you supposed to try again? WP Engine gave them four attempts, including paid training and coaching, and kept hearing that it wasn't doing them properly. What eventually worked was much smaller. One team picked a metric it cared about, set a loose goal, and followed it for a quarter before adding anything else. The metric also had to measure something the team could actually control, so people weren't being judged on a number their own work couldn't fix."
+    },
+    {
+      "url": "https://gtm.stage2.capital/p/your-churn-problem-started-in-the?utm_source=tldrfounders",
+      "title": "Your Churn Problem Started in the Comp Plan",
+      "summary": "Your reps are hitting their targets, but a year later the customers are gone. One founder in this piece lost 30% of the previous year's new customers and wanted to know what was wrong. The answer starts with what reps get paid to sell. In a separate Airtable example, a birthday-calendar user counted as much toward the new-logo target as a team running a critical workflow. Airtable began scoring prospects against its best customers, giving reps smaller account lists and paying more for customers with room to grow."
+    },
+    {
+      "url": "https://www.copilotkit.ai/blog/introducing-open-intelligent-ui?utm_source=tldrfounders",
+      "title": "Introducing Open Intelligent UI: the Open-Source Alternative to ChatGPT's Intelligent UI",
+      "summary": "Open Intelligent UI answers prompts with charts, maps, and working tools, and can create interfaces on demand. Interfaces can be downloaded as a standalone HTML file. Open Intelligent UI is compatible with any model and works with existing components. It runs generated code in an isolated iframe, and it can only load libraries from an approved list of CDNs."
+    },
+    {
+      "url": "https://www.testingcatalog.com/claude-launches-dashboards-and-motion-in-beta/?utm_source=tldrfounders",
+      "title": "Claude launches Dashboards and Motion in beta",
+      "summary": "Claude Dashboards and Claude Motion are now in beta. Claude Dashboards connects to data platforms, allowing Claude to build dashboards that update as the underlying data changes. Claude Motion converts reports, charts, and product walkthroughs into short animated explainers. Claude's broader artifact suite now supports team editing, admin-controlled external sharing, PowerPoint and PDF exports that retain formatting, editable Google Slides exports, and mobile editing."
+    },
+    {
+      "url": "https://x.com/loubohan/status/2082143914924851449?utm_source=tldrfounders",
+      "title": "How China's Venture Ecosystem Works",
+      "summary": "China's venture ecosystem pushes startups toward early IPOs through investor repayment clauses and a weak acquisition market. Government-backed funds, domestic USD investors, financial advisors, and relationship networks shape fundraising, while industrial policy directs capital toward strategic sectors."
+    },
+    {
+      "url": "https://x.com/satyanadella/status/2108931348857827686?utm_source=tldrfounders",
+      "title": "Models as Insider Risks in the Super Intelligence Era",
+      "summary": "We need to separate the supply of intelligence from the authority over it. This means surrounding non-deterministic models with strong, deterministic system design, human controls, and reliable operating procedures, and establishing industry standards where existing ones are insufficient. Any sufficiently capable actor with access to important systems can make mistakes or be compromised. The architecture of containment and control must account for that."
+    },
+    {
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-10926-cache-is?utm_source=tldrfounders",
+      "title": "Clouded Judgement 10.9.26 - Cache Is the New Egress",
+      "summary": "Egress matters because it created real switching costs - cache is similar in that swapping out models mid-session means building that cache over again."
+    },
+    {
+      "url": "https://yusufaytas.com/the-double-counted-future?utm_source=tldrfounders",
+      "title": "The Double-Counted Future",
+      "summary": "Everyone wants to operate with fewer employees because their collective can be much higher due to productivity gains from AI."
+    },
+    {
+      "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/?utm_source=tldrfounders",
+      "title": "4 team rituals that drive AI adoption",
+      "summary": "Teams need to create forums centered on peer support where both beginners and skilled practitioners can learn, practice, and refine AI skills in a low-pressure environment to foster team-wide adoption."
+    },
+    {
+      "url": "https://x.com/wickedguro/status/2109169795820081232?utm_source=tldrfounders",
+      "title": "I think you can easily install Postiz open-source with LLMs.",
+      "summary": "Postiz's founder argues that making self-hosting difficult loses users who create tutorials and spread the product, while frustrated users who pay instead are unlikely to stay."
+    },
+    {
+      "url": "https://x.com/domschats/status/2109071150089445424?utm_source=tldrfounders",
+      "title": "How to go from 0-100M views/month",
+      "summary": "This is a tactical guide on how to scale a company from zero to 100 million organic views per month."
+    }
+  ]
+}

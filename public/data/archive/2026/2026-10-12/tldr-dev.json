@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-12",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://nishtahir.com/build-your-own-decision-model/?utm_source=tldrdev",
+      "title": "Build Your Own Decision Model",
+      "summary": "A Qwen3-1.7B walkthrough turns multiple-choice questions into single-pass predictions by scoring only the allowed answer tokens. Fine-tuning improves accuracy on a 1,221-question CommonsenseQA sample from 59.4% to 62.4%, while temperature scaling makes the model's confidence better reflect its actual accuracy."
+    },
+    {
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/?utm_source=tldrdev",
+      "title": "Five Months Treating Bugs Like Patients and Coding Agents Like a Medical Team",
+      "summary": "Cockroach Labs structures coding agents around a teaching hospital, with reviewed plans, separate implementation and review roles, structured handoffs, and an audit before merge. The pipeline landed over a million lines of code in five months with seven reverts, and human approval became mandatory after the first autonomous week before the team used it to build customer-facing migration tooling."
+    },
+    {
+      "url": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b?utm_source=tldrdev",
+      "title": "How to Effectively Debug When You No Longer Understand the Code",
+      "summary": "Three production investigations, a latency regression, a memory leak, and a kernel-level hang, show how to steer coding agents through unfamiliar systems using runtime evidence. The framework separates facts from hypotheses, compares failures with a control, and requires every proposed cause to satisfy all known constraints. Adversarial reviews should seek contradictions, and reproductions must match the real failure's signals before they can be trusted."
+    },
+    {
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/?utm_source=tldrdev",
+      "title": "I'm Sorry, but You Still Have to Think",
+      "summary": "The AI-generated Campfire app rewrites make different choices about compatibility, queues, and concurrency, so throughput alone cannot establish which language performs better. Constant-arrival-rate tests expose tradeoffs between dropped notifications, timeouts, memory use, and delivery latency, showing why engineers still need to inspect code and specify failure behavior."
+    },
+    {
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/?utm_source=tldrdev",
+      "title": "Grieving the Loss of Details",
+      "summary": "A personal reflection explores the loss of professional identity when AI shifts attention from low-level knowledge and performance details toward architecture and delegation."
+    },
+    {
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/?utm_source=tldrdev",
+      "title": "Why Isn't the Industry Freaking Out About DeepSeek 4.1 Flash?",
+      "summary": "An account of using DeepSeek 4.1 Flash across a dozen projects argues that inexpensive models can handle much of the work typically assigned to premium frontier models. Lower session costs encourage unattended chores, exploratory testing, and long planning sessions, with a more expensive model sometimes brought in for a final review."
+    },
+    {
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen?utm_source=tldrdev",
+      "title": "Big Arrow on the Screen (GitHub Repo)",
+      "summary": "A macOS command-line tool lets coding agents draw temporary arrows, boxes, and text over the screen to show users where to click. Its transparent overlays allow clicks through to the underlying application and disappear automatically, with skills provided for Claude Code and Codex."
+    },
+    {
+      "url": "https://rea.tools/?utm_source=tldrdev",
+      "title": "REA (Website)",
+      "summary": "REA gives coding agents tools to reverse engineer native binaries, JavaScript and Electron applications, and browser behavior. Its examples recover Windows Calculator's percentage rules and a browser game's acceleration logic, then use those findings to explain or rebuild the features."
+    },
+    {
+      "url": "https://github.com/rociiu/talorys?utm_source=tldrdev",
+      "title": "Talorys (GitHub Repo)",
+      "summary": "Talorys is a single-user personal AI assistant that runs in your own Cloudflare account and deploys with one command. It combines chat, editable memory, tasks, notes, projects, and scheduled reminders, with core organizational features continuing to work when AI is unavailable."
+    },
+    {
+      "url": "https://deno.com/blog/cloudflare?utm_source=tldrdev",
+      "title": "Deno Is Joining Cloudflare",
+      "summary": "The Deno team is joining Cloudflare to focus on a shared platform built around Workers, Durable Objects, and celld. Deno runtime development will end after one year of bug fixes and security updates, Deno Deploy will shut down in six months, and JSR will continue operating on Cloudflare infrastructure."
+    },
+    {
+      "url": "https://swingbit.github.io/dirty_pages/?utm_source=tldrdev",
+      "title": "The Dirty Pages Surprise: When a Read-Only Query Writes Terabytes",
+      "summary": "A MonetDB count-distinct query saturates an NVMe drive with writes because Linux flushes dirty pages from temporary memory-mapped scratch files. Moving the scratch files to tmpfs cuts runtime from 73 minutes to 97 seconds, while workload-specific writeback tuning reaches about 100 seconds without moving them off disk."
+    },
+    {
+      "url": "https://astralord.github.io/posts/speculative-decoding-the-art-of-guessing-well/?utm_source=tldrdev",
+      "title": "Speculative Decoding: The Art of Guessing Well",
+      "summary": "Speculative decoding accelerates generation by drafting several tokens cheaply and verifying them in one target-model pass while preserving the target's output distribution. This detailed walkthrough derives acceptance and speedup formulas, covers EAGLE-3, multi-token prediction, and diffusion drafters, and explains why training for acceptance is different from simply minimizing KL divergence."
+    },
+    {
+      "url": "https://importstatic.com/databases/postgres-uuidv7-vs-uuidv4-bigint?utm_source=tldrdev",
+      "title": "PostgreSQL uuidv7 Keys Load Like bigint, UUIDv4 Took Twice as Long",
+      "summary": "In a PostgreSQL 18 laptop benchmark loading 10 million rows, UUIDv7 took 32.3 seconds versus 29.7 for bigint and 60.7 for UUIDv4."
+    },
+    {
+      "url": "https://ratfactor.com/cards/git-commit-size?utm_source=tldrdev",
+      "title": "How Big Is a Git Commit?",
+      "summary": "Git commit storage depends on directory structure, filesystem overhead, and compression."
+    },
+    {
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/?utm_source=tldrdev",
+      "title": "Introducing Microsoft-Decision-1, Our Model for Fast Decision-Making",
+      "summary": "Microsoft-Decision-1 scores fixed answer options in a single pass for routing, classification, and workflow control."
+    },
+    {
+      "url": "https://www.seangoedecke.com/softwares-centaur-age-may-last-decades/?utm_source=tldrdev",
+      "title": "Software's Centaur Age May Last Decades",
+      "summary": "Human and AI teams may remain the strongest software builders for another decade or two."
+    }
+  ]
+}

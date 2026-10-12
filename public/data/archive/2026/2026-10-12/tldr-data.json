@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-10-12",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://ipolyzos.substack.com/p/what-defines-the-streamhouse-architecture?utm_source=tldrdata",
+      "title": "What Defines The Streamhouse Architecture?",
+      "summary": "Apache Fluss' “Streamhouse” concept proposes one maintained logical table for streaming, serving, and analytics instead of separate synchronized systems. The key idea is to unify fresh stream data and historical lakehouse data behind shared metadata and tiering, so teams stop rebuilding state in multiple places. This can cut duplicate ingestion while still allowing specialized caches or replicas for specific access patterns."
+    },
+    {
+      "url": "https://www.linkedin.com/blog/engineering/infrastructure/inside-linkedins-data-context-layer-curating-trustworthy-context-for-humans-and-agents?utm_source=tldrdata",
+      "title": "Inside LinkedIn's data context layer: curating trustworthy context for humans and agents",
+      "summary": "LinkedIn built a shared layer that tells people and AI agents which datasets to trust, which filters and joins are required, and what each row means. It combines profiles that an LLM writes from schemas, query logs, and code with notes that teams write and review in Git like code. After LinkedIn's analytics agent was connected to it, the share of acceptable answers in one test rose from 25.9% to 79.5%, and median time to answer fell from 10.7 to 4.7 minutes."
+    },
+    {
+      "url": "https://engineering.salesforce.com/apache-spark-resource-optimization-lessons-from-eight-million-jobs-a-day/?utm_source=tldrdata",
+      "title": "Apache Spark Resource Optimization: Lessons From Eight Million Jobs a Day",
+      "summary": "Salesforce runs about 8 million Spark jobs a day and found some workloads left executors idle more than 90% of the time. Sizing targeted workloads to measured usage reduced weekly compute costs by 31%, while runtime, failures, and retries remained within acceptable levels."
+    },
+    {
+      "url": "https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626?utm_source=tldrdata",
+      "title": "From Activity to Intent: Generating User Journeys with LLMs",
+      "summary": "Pinterest replaces a fragile keyword-clustering pipeline with a fine-tuned 4B LLM that converts a user's activity history into ranked, localized “journeys” (active goals). Teacher-model distillation makes it affordable at scale. The system improves notification engagement while applying strict output validation, safety filters, and feedback loops."
+    },
+    {
+      "url": "https://thedatavist.substack.com/p/claude-dashboards-and-the-shift-from?utm_source=tldrdata",
+      "title": "Claude Dashboards and the shift from chart builder to chart specifier",
+      "summary": "Anthropic's new Claude Dashboards beta can build a dashboard without making a single chart manually. You can trace every number back to its source, but there is no row-level security, refresh, or audit log yet. The advice to BI developers: spend less time on tool tricks and more on data modelling, SQL, and design."
+    },
+    {
+      "url": "https://explainmeasured.com/posts/queries-doing-extra-work/?utm_source=tldrdata",
+      "title": "Five PostgreSQL queries that did more work than I asked for",
+      "summary": "Five PostgreSQL benchmarks show how unnecessary deduplication, CTE materialization, random sorting, extra column retrieval, and unindexed expressions can dramatically slow queries, with small SQL changes or a matching index delivering major speedups."
+    },
+    {
+      "url": "https://contextandchaos.substack.com/p/your-ontology-records-permission?utm_source=tldrdata",
+      "title": "Your Ontology Records Permission. It Does Not Resolve Authority",
+      "summary": "Enterprise agents can enforce permissions yet make bad decisions when formal records omit the people whose judgment shapes outcomes. The Authority Resolution Framework separates documented rights, system permissions, recorded approvals, informal influence, and an agent's mandate, then treats disagreement among them as a governance signal. Audit authority gaps before automation turns organizational blind spots into confident actions."
+    },
+    {
+      "url": "https://github.com/elstongun/leviathan?utm_source=tldrdata",
+      "title": "Leviathan: Deep memory for agents over large datasets (GitHub Repo)",
+      "summary": "Leviathan is a Rust tool that gives AI agents compact, cited search results from large datasets using SQLite full-text indexing, with optional persistent memory and CLI, MCP, or remote access."
+    },
+    {
+      "url": "https://www.reddit.com/r/DuckDB/comments/1x1h4f4/im_now_convinced_singlenode_duckdb_is_the_best/?utm_source=tldrdata",
+      "title": "I'm now convinced single-node DuckDB is the best engine at any realistic scale (Reddit Thread)",
+      "summary": "A Databricks user found that Spark, Trino, and DuckDB all spent most of their time waiting on S3, with CPUs about 90% idle. After running four times as many read threads as CPU cores, one DuckDB machine beat Trino on the same hardware by 1.7 to 2.1 times on 10 TB queries. Against a Trino cluster with 5 to 13 nodes, it was 2 to 3 times slower but about half the cost."
+    },
+    {
+      "url": "https://duckdb.org/2026/10/09/agent-mode?utm_source=tldrdata",
+      "title": "Agent Mode in the DuckDB CLI",
+      "summary": "The DuckDB 2.0 command line now detects when an AI agent is using it. It then switches to compact output, flags cut-off results, stops runaway queries, and returns errors as JSON. Across 132 TPC-H runs, agents read back about 60% fewer tokens and still got every answer right."
+    },
+    {
+      "url": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale?utm_source=tldrdata",
+      "title": "Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale (51 minute video)",
+      "summary": "Netflix is using an ontology-driven knowledge graph to make observability data, incident chatter, and service topology queryable as one system. This delivers faster automated triage and root-cause analysis at large scale, with AI helping turn messy human signals into structured facts. The key takeaway: better incident response may come from modeling operational meaning, not just collecting more telemetry."
+    },
+    {
+      "url": "https://boringsql.com/posts/files-forks-and-relfilenodes?utm_source=tldrdata",
+      "title": "Postgres relation files, filed under base/",
+      "summary": "Postgres stores each relation as physical files identified by tablespace, database, and relfilenode, with extra forks and TOAST files appearing as needed. Logical objects and physical files are loosely coupled: operations like VACUUM FULL or REINDEX can rewrite storage and swap relfilenodes while the table's identity stays the same. Large relations also continue transparently across segmented files."
+    },
+    {
+      "url": "https://www.elastic.co/search-labs/blog/context-engineering-for-agents?utm_source=tldrdata",
+      "title": "How we're building a context engine to cut agent token use by 71%",
+      "summary": "Agents waste most of their tokens working out what tables and fields mean, then do it again on the next question."
+    },
+    {
+      "url": "https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves?utm_source=tldrdata",
+      "title": "The reverts will continue until morale improves",
+      "summary": "Eight to ten major features have been pulled from Postgres 19 during beta, some very late."
+    }
+  ]
+}

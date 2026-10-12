@@ -1,0 +1,88 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-12",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179?utm_source=tldrit",
+      "title": "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
+      "summary": "HPE networking chief Rami Rahim predicts that AI-driven network operations could eliminate the need for human intervention in troubleshooting tickets within two years. He estimates that 70-80% of tickets already require no human intervention, reflecting HPE's push toward autonomous enterprise network management following its acquisition of Juniper Networks."
+    },
+    {
+      "url": "https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264?utm_source=tldrit",
+      "title": "Global PC shipments crater 20% as rising prices hammer demand",
+      "summary": "Global PC shipments fell roughly 20% year-over-year in Q3 2026 as rising memory costs and earlier purchasing pushed demand lower. AI infrastructure's appetite for components is contributing to higher PC prices, potentially complicating corporate device refresh cycles and hardware budgets."
+    },
+    {
+      "url": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/?utm_source=tldrit",
+      "title": "Nvidia in talks to invest further in Reflection AI or buy it",
+      "summary": "Nvidia is in talks to acquire or deepen its investment in US-based open-weight model start-up Reflection AI. Discussions are at an early stage and could result in an acqui-hire to avoid drawn-out regulatory reviews. Reflection AI was reportedly seeking funding at a $25 billion pre-money valuation earlier this year, and Nvidia has already invested $800 million in the company."
+    },
+    {
+      "url": "https://platforms.substack.com/p/how-agents-unlock-new-markets?utm_source=tldrit",
+      "title": "How agents unlock new markets",
+      "summary": "AI agents can unlock new markets by reducing negotiation and coordination costs, enabling transactions that were previously uneconomical or impossible. Unlike consumer-side agents that merely select from existing static offers, future agentic markets will involve buyer and seller agents collaborating to construct entirely new agreements and uncover latent supply and demand."
+    },
+    {
+      "url": "https://boristane.com/blog/self-improving-software-is-inevitable/?utm_source=tldrit",
+      "title": "Self-improving software is inevitable",
+      "summary": "AI coding agents currently automate writing code, but the feedback loop of identifying issues and deciding what to fix remains largely manual. Connecting production signals such as logs, traces, and support tickets to AI agents through clearly defined performance goals could enable software to continuously identify problems and implement improvements, shifting engineers toward defining objectives and overseeing outcomes."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4232819/neoclouds-and-the-enterprises-that-need-them.html?utm_source=tldrit",
+      "title": "Neoclouds and the enterprises that need them",
+      "summary": "Specialized GPU cloud providers such as CoreWeave, Lambda, and Nebius are growing rapidly as demand for AI infrastructure increases. These providers must better explain how their services fit into enterprise architecture alongside traditional hyperscalers, particularly around integration, governance, and operational responsibility."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4232577/fast-ai-slow-rollback-the-risk-facing-apple-it-teams.html?utm_source=tldrit",
+      "title": "Fast AI, slow rollback: the risk facing Apple IT teams",
+      "summary": "A Fleet survey found that 86% of IT teams allow AI-generated configurations or scripts into production, but 69% cannot roll back a problematic change within an hour. The findings highlight a growing operational challenge as endpoint management automation advances faster than change control and recovery capabilities."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/?utm_source=tldrit",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "Google introduced a new enterprise Gemini agent that can independently plan and execute multi-step tasks across Google Workspace, Microsoft 365, Slack, Jira, and other business applications. The agent can have its own workplace identity, email address, and audit trail, positioning it as a digital coworker rather than a traditional chatbot."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/?utm_source=tldrit",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "summary": "Cloudflare announced it is acquiring Deno to improve its Workers programming model and platform. The company plans to use the acquisition to enhance its network software capabilities, noting that Deno recently launched an open-source implementation of Workers called celld."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html?utm_source=tldrit",
+      "title": "Microsoft will let Copilot act on local files on Windows PCs",
+      "summary": "Microsoft announced new Copilot capabilities that will allow the assistant to organize files, change settings, and execute tasks directly on Windows PCs with user permission. The company is also introducing hybrid AI processing that combines local and cloud models, potentially improving privacy, performance, and costs for enterprise users."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4231779/cisco-brings-collaborative-agents-and-claude-into-webex-chats.html?utm_source=tldrit",
+      "title": "Cisco brings collaborative agents and Claude into Webex chats",
+      "summary": "Cisco is adding collaborative AI agents to Webex conversations, allowing employees to assign tasks, summarize discussions, and coordinate work directly within group chats. The update also introduces integrations with Anthropic's Claude agents, a personalized workspace, and AI-assisted calling features."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html?utm_source=tldrit",
+      "title": "LibreOffice touts ‘no AI' as a feature",
+      "summary": "LibreOffice's developers are positioning the absence of built-in AI as a deliberate product choice, emphasizing privacy, user control, and open standards. The project remains open to future AI capabilities, provided they are optional and meet its requirements for transparency and data ownership."
+    },
+    {
+      "url": "https://muratbuffalo.blogspot.com/2026/10/atlas-infinite-mongodbs-disaggregated.html?utm_source=tldrit",
+      "title": "Atlas Infinite: MongoDB's Disaggregated Architecture",
+      "summary": "MongoDB released Atlas Infinite in public preview alongside MongoDB 9.0, introducing a compute-storage disaggregated architecture designed to separate scaling while preserving WiredTiger's performance and security. To keep customer data encrypted and maintain WiredTiger's batching efficiency, MongoDB developed a blind shared storage layer using two separate logs and page materializers rather than traditional physical page logging."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4231366/windows-11-gains-ground-as-price-hike-looms-for-windows-10-security-updates.html?utm_source=tldrit",
+      "title": "Windows 11 gains ground as price hike looms for Windows 10 security updates",
+      "summary": "Windows 11 now accounts for an estimated 71.5% of Windows PCs, while the annual cost of extended Windows 10 security updates for businesses is set to double to $122 per device."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4233232/bidding-war-over-key-component-could-eliminate-third-hard-disk-maker-2.html?utm_source=tldrit",
+      "title": "Bidding war over key component could eliminate third hard disk maker",
+      "summary": "Seagate and Toshiba are reportedly competing to acquire TDK's hard disk head business, potentially reshaping the already highly concentrated storage hardware market."
+    },
+    {
+      "url": "https://www.shayon.dev/post/2026/283/versioned-filesystem-for-disposable-sandboxes/?utm_source=tldrit",
+      "title": "A versioned filesystem for disposable sandboxes",
+      "summary": "The system behaves like database transactions and Git commits by utilizing copy-on-write snapshots, content-addressing, and atomic compare-and-swap operations on pointers."
+    }
+  ]
+}
