@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-13",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.networkworld.com/article/4229048/orsted-builds-compliance-into-automation-speeds-firewall-changes.html?utm_source=tldrit",
+      "title": "Ørsted builds compliance into automation, speeds firewall changes",
+      "summary": "Energy company Ørsted automated firewall change management using Nautobot, reducing some requests from weeks to around 10 minutes. The system incorporates policy validation, approvals, and audit trails, demonstrating how network automation can improve speed without sacrificing compliance."
+    },
+    {
+      "url": "https://www.theregister.com/saas/2026/10/12/microsoft-blames-a-configuration-change-for-exchange-admin-center-tumble/5302698?utm_source=tldrit",
+      "title": "Microsoft blames a configuration change for Exchange Admin Center tumble",
+      "summary": "Microsoft rolled back a configuration change after administrators were unable to access Exchange Admin Center on Monday. Access has been restored, with Microsoft reviewing the change and its monitoring after another deployment-related disruption."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/?utm_source=tldrit",
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "summary": "Attackers reportedly manipulated refrigeration controllers across hundreds of French supermarkets, triggering defrost cycles and causing food spoilage. The incident highlights how compromises of operational technology and third-party managed systems can create immediate physical-world disruptions."
+    },
+    {
+      "url": "https://eastwind.substack.com/p/below-the-frontier-the-battle-for?utm_source=tldrit",
+      "title": "Below the Frontier: The Battle for Good-Enough AI",
+      "summary": "While consumer AI agents and frontier coding models capture current headlines and capital, the most significant future revenue battle lies below the frontier in mainstream enterprise knowledge work. As open-weight and cheaper cloud or on-device models become capable of handling bounded tasks, a massive market will emerge for everyday business applications. Winning this \"Switzerland\" layer requires navigating complex trade-offs in data sovereignty, local versus cloud inference, and seamless software integration."
+    },
+    {
+      "url": "https://www.cio.com/article/4064309/7-standout-cio-skills-every-company-wants.html?utm_source=tldrit",
+      "title": "12 standout CIO skills every company wants",
+      "summary": "Technology expertise is only part of the job: IT leaders also need financial judgment, operational understanding, clear communication, and the ability to build effective teams. This roundup emphasizes connecting investments to measurable business results and making deliberate trade-offs instead of allowing every request to become another backlog item."
+    },
+    {
+      "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/?utm_source=tldrit",
+      "title": "Releasing AI-generated software",
+      "summary": "Moving toward fully AI-generated software without human code review is feasible if supported by extreme constraints and automated testing, similar to arguments made for self-driving cars. Existing legal frameworks and liability models, which often target human drivers or developers when things go wrong, are poorly equipped to handle automated systems where no one actually wrote the code."
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission?utm_source=tldrit",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "summary": "Anthropic has launched the Critical Infrastructure Defense Program to help protect operational technology environments in sectors like water systems, power grids, and transportation. The initiative partners Anthropic with security firms and manufacturers including CrowdShield, Dragos, Nozomi Networks, and Rockwell Automation to deploy its Claude AI models and threat research for vulnerability assessment and patching. Additionally, the company introduced the OSS Scanner service to provide automated vulnerability reports to open-source software maintainers."
+    },
+    {
+      "url": "https://www.theregister.com/os-platforms/2026/10/12/raspberry-pi-desktop-catches-up-with-debian-13-after-4-year-wait/5301693?utm_source=tldrit",
+      "title": "Raspberry Pi Desktop catches up with Debian 13 after 4-year wait",
+      "summary": "Raspberry Pi's lightweight desktop operating system for PCs and Intel Macs has returned with a Debian 13-based release. It includes a Wayland desktop and Raspberry Pi Connect remote access, but requires a fresh installation and supports only 64-bit x86 hardware, not Apple Silicon Macs."
+    },
+    {
+      "url": "https://blog.yoav.ws/posts/why_webmcp_matters/?utm_source=tldrit",
+      "title": "Why WebMCP matters",
+      "summary": "WebMCP is a crucial primitive for enabling AI agents to interact with the web through co-browsing models. By allowing sites to provide direct JavaScript tools with explicit schemas, WebMCP offers significantly faster and cheaper agentic interactions compared to traditional DOM or screenshot parsing. Furthermore, imperative WebMCP tools are necessary to complement declarative HTML semantics and effectively handle multi-step user tasks."
+    },
+    {
+      "url": "https://www.theregister.com/columnists/2026/10/12/celebrating-the-brilliant-pragmatism-of-tcp/ip-the-wiring-of-the-world/5302202?utm_source=tldrit",
+      "title": "Celebrating the brilliant pragmatism of TCP/IP, the wiring of the world",
+      "summary": "A look at why TCP/IP has survived decades of extraordinary growth while so many competing technologies disappeared. The argument centers on open standards, interoperability, and practical incremental improvements rather than requiring everyone to replace everything at once."
+    },
+    {
+      "url": "https://aminrj.com/posts/why-cve-programs-miss-most-ai-agent-vulnerabilities/?utm_source=tldrit",
+      "title": "Why Your CVE Program Misses Most AI Agent Vulnerabilities",
+      "summary": "An agent-security researcher explains why vulnerability tracking must extend beyond CVEs to include agent permissions, prompt injection, shared identities, and interactions between tools."
+    },
+    {
+      "url": "https://www.theregister.com/devops/2026/10/12/when-you-just-need-to-build-a-tiny-desktop-app-tinyjs/5302502?utm_source=tldrit",
+      "title": "When you just need to build a tiny desktop app: TinyJS",
+      "summary": "TinyJS uses native operating-system webviews to build small JavaScript desktop applications without bundling an entire browser engine into each app."
+    }
+  ]
+}

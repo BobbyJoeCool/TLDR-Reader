@@ -1,0 +1,73 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-13",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.testingcatalog.com/meta-launches-muse-wonder-and-wonder-full-for-ai-agents/?utm_source=tldrnewsletter",
+      "title": "Meta launches Muse Wonder and Wonder Full for AI agents",
+      "summary": "Muse Wonder is now available through the Meta Model API and Muse Code. Muse Wonder Full is available only to Muse Code subscribers. The new models combine Active Memory, which carries important personal context across conversations and retrieves relevant details when a task calls for them, with Active Focus, a feature designed to keep the model working through difficult goals by trying alternative approaches, handling blockers, adapting to new information, requesting clarification when needed, and checking before important actions. Meta says Muse Wonder is its most aligned model yet."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/microsoft-prepares-to-put-gigawatts-of-its-chips-in-data-centers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTg2Mjk1NCwiZXhwIjoxNzkyNDY3NzU0LCJhcnRpY2xlSWQiOiJUTU0xOFdLSkg2VjQwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.TDpyHi0LMKG2AayE0a0wvUKlFGlP_nqW4jg_q7ipfHQ&utm_source=tldrnewsletter",
+      "title": "Microsoft Prepares to Put Gigawatts of Its Chips in Data Centers",
+      "summary": "Microsoft's newest iteration of its Maia chips will start rolling out next year. The Maia 300 is designed to handle inference. Microsoft expects to stock multiple gigawatts of the chips at its server farms. The Maia 300 delivers 40% more tokens per megawatt than leading GPU-based systems. Microsoft isn't currently planning to rent the underlying computing power of Maia chips directly to its cloud customers."
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/?utm_source=tldrnewsletter",
+      "title": "Amazon has over 1 million robot workers. What's next for human employees?",
+      "summary": "Amazon already has more than a million robots working in its warehouses, and it is poised to significantly grow that robotic fleet in the coming years. Amazon is also the second largest corporate employer in the world. The company's executives say the growing robot fleet has eased the burden on its human workforce, but labor advocacy groups and independent researchers say the warehouse automation is not all upside for the humans working alongside robots. It can get complicated when humans are expected to keep pace with their robotic counterparts."
+    },
+    {
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/?utm_source=tldrnewsletter",
+      "title": "Is ‘Attention' the Essence of Intelligence?",
+      "summary": "Research suggests that human thought is not purely linguistic. More brain regions light up than just the areas associated with language when we are thinking. Language may be how we communicate about the world, but our thoughts seem to draw on many other areas outside of the brain's language networks. AI's ability to translate effectively means that it can understand, in some sense."
+    },
+    {
+      "url": "https://blog.yoav.ws/posts/why_webmcp_matters/?utm_source=tldrnewsletter",
+      "title": "Why WebMCP matters",
+      "summary": "Co-browsing needs to work really well for users for the web to succeed in the agentic age. It is the only model where the developer and the user maintain control over the experience, and where the web remains the web. WebMCP enables sites to provide agents with direct JavaScript tools they can call to accomplish tasks, which makes direct interaction significantly faster, better, and cheaper. It circumvents the slowness and awkwardness of AI agents trying to figure out how to interact with sites."
+    },
+    {
+      "url": "https://cheekypint.substack.com/p/muse-wonder-zuckerberg-and-wangs?utm_source=tldrnewsletter",
+      "title": "Muse Wonder: Zuckerberg and Wang's $100B AI",
+      "summary": "This post features a transcript of an interview with Mark Zuckerberg and Alexandr Wang where they discuss the launch of Muse Wonder and the future of personal AI agents. They also talk about the creation of Meta Superintelligence Labs, the decision to execute a complete talent reboot, and what it feels like to make an over $100 billion CapEx commitment before knowing if the model will work. The interview explores the architecture of Muse Wonder and lays out Meta's vision for agentic commerce, hardware form factors like smart glasses, and why superintelligence belongs in the hands of billions."
+    },
+    {
+      "url": "https://spyglass.org/x-gon-give-it-to-ya/?utm_source=tldrnewsletter",
+      "title": "Twitter is Back. Shhh… Magic Dance!",
+      "summary": "X is seeing a vibes-based resurgence. Several creators have returned to the platform after boycotting it not because they prefer to use it, but because the realities of their businesses dictate that they should, if not must. Several big names in tech, including Nvidia CEO Jensen Huang, Microsoft CEO Satya Nadella, and Meta CEO Mark Zuckerberg, are now regular posters. X has become the most effective way to get a message out everywhere, particularly in the AI community."
+    },
+    {
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/?utm_source=tldrnewsletter",
+      "title": "Epic Games reportedly pivoting to “AI first” game development model",
+      "summary": "Epic is shifting to an AI-first development strategy for its collaboration with the Walt Disney Company. Human developers will manage and guide code and art assets generated by AI models for an upcoming shooter. The company says it will aim to use AI to build more and better stuff rather than try to build the same stuff with fewer people. Epic laid off over 1,000 employees in March, citing a downturn in Fortnite engagement as the main reason."
+    },
+    {
+      "url": "https://www.argmin.net/p/faster-fourier-transforms?utm_source=tldrnewsletter",
+      "title": "Faster Fourier Transforms",
+      "summary": "OpenAI's algorithm for the Fast Fourier Transform is less of a breakthrough and more of a malicious exploit."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building?utm_source=tldrnewsletter",
+      "title": "38 things we've learned about building AI products",
+      "summary": "PostHog has built 10 different AI products used by nearly 100,000 people every month."
+    },
+    {
+      "url": "https://words.filippo.io/right-answers/?utm_source=tldrnewsletter",
+      "title": "(Post-Quantum) Cryptographic Right Answers",
+      "summary": "The post-quantum transition needs to be completed by 2029."
+    },
+    {
+      "url": "https://mpadge.eu/blog/coding-alone.html?utm_source=tldrnewsletter",
+      "title": "Coding Alone",
+      "summary": "The software industry needs to immediately do anything and everything to cultivate, nurture, and maintain communities."
+    },
+    {
+      "url": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/?utm_source=tldrnewsletter",
+      "title": "Software engineers don't get to be Luddites about AI",
+      "summary": "Software engineers have participated in the destruction or transformation of several kinds of jobs, so it's only fair that they also destroy or transform their own."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-10-13",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.aakashg.com/ai-product-manager-salary/?utm_source=tldrproduct",
+      "title": "AI Product Manager Salary in 2026",
+      "summary": "Compensation varies widely based on employer and seniority, with top employers like OpenAI paying median packages up to $750,000. Total compensation is heavily influenced by stock equity. A candidate's job level dictates their salary band rather than negotiation."
+    },
+    {
+      "url": "https://www.svpg.com/predictability-vs-outcomes?utm_source=tldrproduct",
+      "title": "Predictability vs outcomes",
+      "summary": "Product development fails to achieve meaningful outcomes because companies prioritize corporate predictability over innovation. Prioritizing predictability leads teams to adopt rigid project models that sacrifice discovery. To achieve better results, organizations must acknowledge uncertainty, embrace humility in product discovery, and reward outcomes over fixed plans."
+    },
+    {
+      "url": "https://x.com/davidmarcus/status/2109690025336242608?utm_source=tldrproduct",
+      "title": "The Death of the Interface",
+      "summary": "Autonomous AI agents will replace traditional user interfaces like apps, websites, and checkout buttons. Consequently, payment rails must evolve into \"headless money\" powered by stablecoins and fast settlement networks to support seamless agent-to-agent transactions."
+    },
+    {
+      "url": "https://longform.asmartbear.com/you-didnt-do-it-right/?utm_source=tldrproduct",
+      "title": "You didn't do it right",
+      "summary": "Frameworks like OKRs can fail because they don't fit a team's needs, even after careful implementation. Start with one team, learn what works, and adapt or replace the framework based on results."
+    },
+    {
+      "url": "https://www.anitakirkovska.com/blog/gtm-playbook-launching-ai-features?utm_source=tldrproduct",
+      "title": "Designing an agent collaborator",
+      "summary": "Ambient is a macOS companion that uses voice, screen sharing, and drawing to capture context. One week post-launch, Ambient conversations show deeper engagement than text sessions, though text remains dominant. The company is testing onboarding tours to boost discovery and adoption."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4232265/is-your-software-product-ready-for-the-cyber-resilience-act.html?utm_source=tldrproduct",
+      "title": "Is your software product ready for the Cyber Resilience Act?",
+      "summary": "The EU's Cyber Resilience Act enforces cybersecurity standards for software and hardware, with reporting starting in September 2026 and full enforcement in December 2027. It mandates 13 security guidelines, including a clean software bill of materials, though free open-source projects are exempt."
+    },
+    {
+      "url": "https://bakadesuyo.com/2026/10/agency/?utm_source=tldrproduct",
+      "title": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
+      "summary": "You build agency by taking small actions that show you can change your circumstances and testing beliefs that hold you back. Accept being a beginner, explore different approaches, and use commitments to turn intentions into action."
+    },
+    {
+      "url": "https://www.wired.me/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard?utm_source=tldrproduct",
+      "title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
+      "summary": "Apple added iOS support for indigenous languages. The process requires registering characters with Unicode, designing custom fonts, and collaborating with native communities. Community leaders note that digital accessibility is crucial for language preservation and data sovereignty."
+    },
+    {
+      "url": "https://thenextweb.com/news/tesla-robotaxi-school-zone-speed-eu?utm_source=tldrproduct",
+      "title": "Tesla's robotaxis face a US safety review over school zone speeding",
+      "summary": "US road safety regulators are reviewing claims that roughly 1,000 Tesla robotaxis exceeded speed limits in active school zones."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/crq5nzxv9q4yo?utm_source=tldrproduct",
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "summary": "A cyber attack on Danfoss refrigeration software affected roughly 500 French supermarkets, heating fridges and spoiling fresh and frozen food."
+    }
+  ]
+}

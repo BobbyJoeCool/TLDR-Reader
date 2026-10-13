@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-13",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce?utm_source=tldrdev",
+      "title": "How I Found a $90,000 Remote Code Execution Vulnerability in Google",
+      "summary": "Google's DevSite stored an OAuth secret inside a readable Flask session cookie and reused it as the cookie's signing key, allowing forged sessions to reach unsafe pickle deserialization. Timing-based tests confirmed unauthenticated code execution across the shared platform, earning a $90,000 bounty. The fix separates signing keys from OAuth credentials and removes sensitive serialized objects from client-controlled sessions."
+    },
+    {
+      "url": "https://jimmyhmiller.com/what-does-the-react-compiler-even-do?utm_source=tldrdev",
+      "title": "Can we Make React Faster using the React Compiler?",
+      "summary": "React Compiler uses cache slots and tracks values that change together to avoid unnecessary work. In a 2,000-row microbenchmark, inlining alone slowed rendering from 444 ms to 1,038 ms by removing per-row caches, while adding block DOM updates cut it to 164 ms. These prototypes illustrate optimization opportunities, with workload and memory tradeoffs still to evaluate."
+    },
+    {
+      "url": "https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents?utm_source=tldrdev",
+      "title": "Building Shared Workspaces for People and Agents",
+      "summary": "Perplexity Projects uses a lightweight Git forge backed by S3 storage so people and agents can build on durable files from isolated, temporary sandboxes. Submissions must match the latest accepted commit, with stale writers replaying their changes rather than overwriting concurrent work. In production, fewer than 2% of submissions are rejected as stale, with median submit latency below 1.7 seconds."
+    },
+    {
+      "url": "https://scienceisneato.substack.com/p/human-pr-review-is-next?utm_source=tldrdev",
+      "title": "Human PR Review Is Next",
+      "summary": "AI code review will increasingly replace reading every diff, shifting human work toward requirements, acceptance testing, and ownership of releases. Independent review models, predefined guardrails, and automated review-and-fix cycles form the proposed safety net. A trading-bot rounding bug illustrates the tradeoff: fast fixes do not erase losses or compensate for gaps in the specification."
+    },
+    {
+      "url": "https://blog.yoav.ws/posts/why_webmcp_matters/?utm_source=tldrdev",
+      "title": "Why WebMCP Matters",
+      "summary": "WebMCP lets websites expose JavaScript tools to agents, reducing the slow, brittle interaction of navigating through screenshots and DOM inspection while keeping users in a shared browser session. Shopify's checkout experiment reported 2.7 times faster execution, 58% lower cost, and 60 successful attempts out of 60 compared with 56 for browser automation. Permissions, human approval signals, and testing against complete agent systems remain open challenges."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building?utm_source=tldrdev",
+      "title": "38 Things We've Learned About Building AI Products",
+      "summary": "PostHog's lessons from ten AI products emphasize useful jobs, reliable execution, rich context, and interfaces that let agents do everything users can. Its MCP server has five times as many daily users as PostHog AI, while the install wizard compresses roughly two hours of setup into eight minutes. The advice favors shared infrastructure, observable tool calls, small targeted evals, and UI for reviewing and undoing agent actions."
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-wonder?utm_source=tldrdev",
+      "title": "Muse Wonder: A Frontier Model for Personal & Professional AI Agents",
+      "summary": "Meta introduces Muse Wonder and Muse Wonder Full for coding and other long-running tasks, combining Active Memory for retrieving relevant context with Active Focus for sustained execution. Meta reports stronger performance on unfamiliar tasks from larger base models and plans a fuller safety report."
+    },
+    {
+      "url": "https://github.com/CopilotKit/OpenIntelligentUI?utm_source=tldrdev",
+      "title": "Open Intelligent UI (GitHub Repo)",
+      "summary": "Open Intelligent UI is an open-source chat interface built with CopilotKit and AG-UI that turns questions into explanations, comparisons, and interactive tools. Its agent chooses text, native components, or custom HTML, CSS, and JavaScript rendered in an isolated iframe, with Jev routing tables to A2UI and richer visuals to Open Generative UI."
+    },
+    {
+      "url": "https://www.vals.ai/blogs/china-us-analysis?utm_source=tldrdev",
+      "title": "How Pro-China Are Chinese Models?",
+      "summary": "Vals AI tested politically sensitive questions across languages and contexts, finding that Chinese models sometimes criticize China's government while non-Chinese models sometimes echo official narratives. Responses generally leaned more pro-China in Simplified Chinese, while deployment prompts, response formats, and agent harnesses could substantially change the results."
+    },
+    {
+      "url": "https://www.anthropic.com/research/self-replicating-ai?utm_source=tldrdev",
+      "title": "AI Models May Be Capable of Self-Replicating Without Access to a Datacenter",
+      "summary": "Anthropic demonstrates a 26B model running across 15 inexpensive Android TV boxes and a 9B model setting up inference on eight of nine tested hardware types. GLM-5.2 completed replication in a contained fleet with deliberately trivial access controls, making the result an upper bound on real-world success. Smaller models still struggle to chain the steps together, while projected replication on low-powered devices would take days."
+    },
+    {
+      "url": "https://noteflakes.com/articles/2026-10-07-unrolled-code?utm_source=tldrdev",
+      "title": "Unrolled Code",
+      "summary": "Explicit, repetitive Ruby code can make algorithms easy to inspect and resemble the optimized output of ERB and Papercraft template compilers. A proposed quote/unquote mechanism would let Ruby generate code by composing immutable syntax trees instead of concatenating source strings, with examples covering memoization, templates, and routing."
+    },
+    {
+      "url": "https://www.vlt.io/blog/registry-metadata-70-percent-smaller?utm_source=tldrdev",
+      "title": "How we made registry metadata 70% smaller",
+      "summary": "vlt reduces registry metadata by keeping install-time fields that npm's abbreviated format omits and removing signature, checksum, and attestation data while retaining tarball integrity checks."
+    },
+    {
+      "url": "https://simonw.substack.com/p/i-built-a-new-feature-for-my-blog?utm_source=tldrdev",
+      "title": "I Built a New Feature for My Blog Using My Voice",
+      "summary": "A Django newsletter archive took shape through a half-hour voice conversation with Codex while dinner cooked, followed by another half-hour of typed review and refinements before deployment."
+    },
+    {
+      "url": "https://thewatershed.markpesce.com/this-years-model/?utm_source=tldrdev",
+      "title": "This Year's Model",
+      "summary": "Falling cost per task, increasingly capable open models, and on-device inference raise questions about frontier labs' pricing power and whether their infrastructure spending can support durable businesses."
+    },
+    {
+      "url": "https://nekuda.substack.com/p/the-next-steps-on-the-web-and-webmcp?utm_source=tldrdev",
+      "title": "The Next Steps on the Web and WebMCP",
+      "summary": "The browser already supplies much of an agent platform's identity, isolation, and user control, while WebMCP needs clearer agent permissions, operations that survive navigation, human handoffs, and coordination among assistants."
+    }
+  ]
+}
