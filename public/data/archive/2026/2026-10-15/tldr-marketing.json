@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-10-15",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://news.gallup.com/poll/715433/social-media-wellbeing-complicated.aspx?utm_source=tldrmarketing",
+      "title": "Social Media and Wellbeing: It's Complicated",
+      "summary": "Moderate social media use is associated with better well-being than either low or high use, though differences are generally small. 81% of adults used social media in the past week, rising to 95% among ages 15-29. High use of 2 or more hours daily is linked to more anger, loneliness, and sadness. 47% of young adults are high users compared with 12% of adults aged 50+. High use is also associated with lower life evaluations than moderate use in high-income countries, but not elsewhere."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/business-news/tiktok-second-microdrama-agreement-made-by-us-studios-1236729095/?utm_source=tldrmarketing",
+      "title": "TikTok Inks Second Major Microdrama Deal, Partners With Made By Us Studios",
+      "summary": "TikTok's first microdrama partnership, with Issa Rae's Hoorae Media, produced Screen Time, which has pulled nearly 580 million views since April. The new deal shifts the focus to creators, with the production arm of management company Made By All co-producing vertical series built around talent that already has an audience, for both TikTok and its PineDrama app."
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/your-ai-agents-sound-generic-because-context-mess-stefan-maritz--sdhre/?utm_source=tldrmarketing",
+      "title": "Your AI agents sound generic because their context is a mess",
+      "summary": "AI agents produce generic outputs when their context is poorly organized, not because they need better prompts or models. To improve results, separate context into 3 layers. Keep brand voice and audience profiles in a lean knowledge base. Store transcripts and playbooks in a searchable library that retrieves relevant passages on demand. Fetch changing metrics like traffic and pipeline directly from APIs. Map recurring questions to their data sources before building workflows, remove outdated content, and assign owners to maintain accuracy."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/darrenshawwhitespark_this-ai-mode-tip-from-claudia-tomina-is-awesome-share-7515787729448636416-5ms3/?utm_source=tldrmarketing",
+      "title": "Use Google AI Mode to Find Content Gaps",
+      "summary": "Use Google AI Mode to identify content gaps on local service pages. Search for a service with a city name and review the follow-up questions to understand what information Google considers relevant when matching customers with businesses. Interview the business owner about their services, pricing, and processes, then add those original insights to service pages to answer customer questions and give AI context competitors can't easily replicate."
+    },
+    {
+      "url": "https://thegood.com/insights/free-trial-pricing-page/?utm_source=tldrmarketing",
+      "title": "How to Turn Your SaaS Pricing Page Into a First 30 Days Conversion Tool",
+      "summary": "Trial users revisit a SaaS pricing page several times in their first 30 days, and each visit asks something different, from whether the product is a serious option to what an upgrade unlocks right now. Build the page for repeat scrutiny with a full plan-comparison table and trust signals. Keep one price framing synced across banners, emails, and checkout. Hold upgrade pitches until users have made something, then spread them out rather than stacking them in the trial's last 48 hours."
+    },
+    {
+      "url": "https://surferseo.com/events/brand-consistency-that-converts/?utm_source=tldrmarketing",
+      "title": "Brand Consistency That Converts (Webinar)",
+      "summary": "Learn how to audit your brand's representation in AI search and create consistent on-brand content at scale. The 60-minute webinar also covers turning email signatures into targeted campaigns using HubSpot audience segments. It will take place on October 20 at 9 AM ET."
+    },
+    {
+      "url": "https://longform.asmartbear.com/you-didnt-do-it-right/?utm_source=tldrmarketing",
+      "title": "“You didn't do it right”",
+      "summary": "Frameworks like OKRs can fail when they don't fit a company's culture, team dynamics, or existing processes, even when implemented correctly. After four failed attempts at OKRs, WP Engine found success with a metrics framework that let teams choose goals they personally valued and could directly control. Teams started with one metric for a quarter, then added one or two more based on what they learned. Rather than rolling out a framework company-wide, test it with one team, gather feedback, and adapt it or try another approach if it does not work."
+    },
+    {
+      "url": "https://oppalerts.com/we-now-know-the-1-ranking-factor-for-ai-and-llms-the-data?utm_source=tldrmarketing",
+      "title": "We Now Know the #1 Ranking Factor for AI and LLMs, The Data",
+      "summary": "Contextually relevant backlinks had the strongest correlation with AI rankings across 17 AI search channels. For GPT-6 Astra, the correlation averaged 0.57 across industries and was positive in all 100. Unlinked brand mentions also correlated with rankings at 0.41 compared with 0.55 for total backlinks. The findings suggest prioritizing links and coverage from relevant industry sources over simply increasing backlink volume."
+    },
+    {
+      "url": "https://becauseofmarketing.substack.com/p/saie-hello-to-beautys-favourite-brand?utm_source=tldrmarketing",
+      "title": "How Saie Beauty became the global powerhouse everyone's talking about",
+      "summary": "Saie builds products around specific needs it spots in public, then uses how the product came about as the marketing story. Its Bellini eyeshadow was developed in its Italian lab with a creator whose followers had watched her test over 50 shades in three years, while its City Set spray was named after the Knicks dancers and led to an official team partnership. The approach shows up in how consumers see the brand, with 53% saying Saie meets their needs against a 43% category average."
+    },
+    {
+      "url": "https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html?utm_source=tldrmarketing",
+      "title": "OpenAI Drops UTM Parameters From ChatGPT Results",
+      "summary": "Since GPT-6, ChatGPT opens links with no tag and no referrer, so analytics tools now file its clicks as direct traffic."
+    },
+    {
+      "url": "https://frightgeist.withgoogle.com?utm_source=tldrmarketing",
+      "title": "Check out this year's buzziest Halloween trends (Website)",
+      "summary": "This interactive site from Google contains the year's top trending Halloween searches, led by horror-character costumes, cauldron crock pots, and gothic and mascot horror movies."
+    },
+    {
+      "url": "https://forkast.news/us-agentic-commerce-adoption-crosses-50-milestone/?utm_source=tldrmarketing",
+      "title": "US Agentic Commerce Adoption Crosses 50% Milestone",
+      "summary": "AI is now involved in 11.4% of US path-to-purchase volume, a load that merchant and issuer systems weren't designed to handle."
+    }
+  ]
+}

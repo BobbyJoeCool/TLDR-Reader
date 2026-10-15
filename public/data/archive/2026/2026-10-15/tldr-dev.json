@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-15",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.langchain.com/blog/common-questions-about-agent-evals?utm_source=tldrdev",
+      "title": "The Most Common Questions About Agent Evals, Answered",
+      "summary": "Agent evals score runs against desired behaviors, but exact-output tests often fail because agent outputs and paths vary. The guide recommends starting with 10 to 20 examples drawn from traces, combining code evaluators with LLM judges and human review, and using offline and online evals at different stages."
+    },
+    {
+      "url": "https://calibreapp.com/blog/native-lazy-loading?utm_source=tldrdev",
+      "title": "Lazy Loading Images and Media: How Far Ahead Browsers Fetch",
+      "summary": "Browsers fetch lazy-loaded media at different distances, with Chrome adjusting its margin based on connection speed, Firefox using a fixed 600-pixel threshold, and Safari applying a viewport-based threshold to images. The article explains why the largest contentful paint image should load eagerly and why media dimensions should be reserved to prevent layout shifts. Its practical takeaway is to use native lazy loading selectively, based on how far ahead each browser fetches."
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/?utm_source=tldrdev",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "summary": "GitHub rebuilt its star-history API to return up to 30 weeks of daily counts in one request. Maintainers can track a project's momentum without exposing stargazer identities, which could be scraped for spam or phishing. To avoid simply shifting the cost to count queries, the endpoint filters stars by time before counting, reducing database work."
+    },
+    {
+      "url": "https://mattrothenberg.com/notes/pure-ui-agentic-era/?utm_source=tldrdev",
+      "title": "Pure UI in the Agentic Era",
+      "summary": "The article revisits the idea that UI should be a pure function of state and explains why it matters for agent-written interfaces. Passing roles, plans, billing status, and feature flags explicitly lets teams render and inspect each state combination before release."
+    },
+    {
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/?utm_source=tldrdev",
+      "title": "Passkeys Are Not a Trap",
+      "summary": "Synced consumer passkeys generally return no attestation, and WebAuthn attestation identifies an authenticator model rather than a user's operating system, browser, or firmware. The response argues that passkeys remain more phishing-resistant than TOTP and recommends continuing to use them."
+    },
+    {
+      "url": "https://x.ai/news/grok-voice-3?utm_source=tldrdev",
+      "title": "Introducing Grok Voice 3.0",
+      "summary": "Grok Voice 3.0 is a speech-to-speech model available through xAI's API at the prior model's price, with subsecond latency. xAI cites independent benchmark scores including 86.9 on Artificial Analysis's Speech-to-Speech Index and 74% on ServiceNow's EVA-Bench."
+    },
+    {
+      "url": "https://anoma.ly/notes/opencode-2-0/?utm_source=tldrdev",
+      "title": "OpenCode 2.0",
+      "summary": "OpenCode 2.0 recasts the coding agent around a shared local service, a redesigned API and SDK, and a JavaScript code mode that composes MCP and OpenAPI tools into scripts. It also adds background tasks and subagents, expands the plugin system, and includes breaking changes for 1.0 plugins and the server API."
+    },
+    {
+      "url": "https://typesafe.ai/blog/jev-1-14?utm_source=tldrdev",
+      "title": "Jev: For the builders AND dreamers",
+      "summary": "Jev 1.14 improves the production model and introduces experimental image input, a new type, and longer context behind API “danger zone” flags. TypeSafe describes those features as useful for exploration but too unreliable for production automation."
+    },
+    {
+      "url": "https://thenewstack.io/rogue-ai-agent-fleet-tencent/?utm_source=tldrdev",
+      "title": "Researchers left a hidden message for rogue AI agents. Then the agents wrote back.",
+      "summary": "Researchers studying AI agents probing Alibaba's Amap left a hidden message in a webhook inbox and received replies describing the agents' tasks, sandbox, and limits. The report traces thousands of requests to agents running on Tencent Cloud and notes that inviting them to spread the mailbox could have encouraged coordination."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
+      "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more."
+    },
+    {
+      "url": "https://cassidoo.co/post/accessibility-and-the-internet/?utm_source=tldrdev",
+      "title": "Accessibility and the new model of the internet",
+      "summary": "AI agents are giving teams a practical reason to improve accessibility because they can struggle with the same inaccessible interfaces as people. With automated bots accounting for more than half of observed internet traffic, the shift could also push sites toward simpler experiences and stronger open standards."
+    },
+    {
+      "url": "https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks/?utm_source=tldrdev",
+      "title": "A proposal for better informing the public about loss-of-control risks from frontier AI development",
+      "summary": "METR proposes independent assessments that would give the public evidence about whether frontier AI developers can detect and control harmful behavior in internal systems. Its framework focuses on alignment, containment, and whether AI research acceleration could outpace safeguards."
+    },
+    {
+      "url": "https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel?utm_source=tldrdev",
+      "title": "AI systems are improving rapidly at Slay the Spire and its sequel",
+      "summary": "Epoch's SpireClimb benchmark finds that frontier models went from rarely beating Slay the Spire to over 90% wins at base difficulty in six months."
+    },
+    {
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1&amp;utm_source=tldrdev",
+      "title": "Has AI tells",
+      "summary": "The Consensus adds a low-cost 0-to-100 estimate of AI-writing signals to indexed articles and warns that its checks can produce false positives."
+    },
+    {
+      "url": "https://www.screen-ruler.com/?utm_source=tldrdev",
+      "title": "Screen Ruler (Website)",
+      "summary": "Screen Ruler provides browser-based tools for measuring layouts, inspecting CSS, previewing responsive viewports, and editing pages live."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html?utm_source=tldrdev",
+      "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+      "summary": "Anthropic told investors that third-quarter revenue rose 45% to $16.8 billion and that it was profitable after adjustments, as the company prepares for a possible IPO."
+    }
+  ]
+}

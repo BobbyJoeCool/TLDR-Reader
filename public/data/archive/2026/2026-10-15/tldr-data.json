@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-10-15",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?utm_source=tldrdata",
+      "title": "CASTLE: training natural language search before the first real query",
+      "summary": "Cold-start natural-language search often lacks both real queries and relevance labels. Airbnb's CASTLE jointly generates synthetic queries and labels from de-identified booking sessions. Its queries matched real guest query patterns much better than baselines, and human reviewers agreed with its relevance labels >90% of the time. Carefully governed behavioral data can bootstrap search training before meaningful traffic exists."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/?utm_source=tldrdata",
+      "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+      "summary": "Meta uses idle computing capacity to improve ad recommendations by ranking more ads or routing requests to more powerful models. When that capacity disappears, the system quickly scales back this extra work while protecting normal service speed and reliability."
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/?utm_source=tldrdata",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "summary": "GitHub built a star history API that returns daily counts without exposing users' identities, cutting React's full history from about 2,500 requests to 24. It reduces database work by filtering stars by date before counting them, rather than repeatedly processing every star."
+    },
+    {
+      "url": "https://tapoueh.org/blog/2026/10/zero-downtime-postgres-upgrades-with-logical-replication?utm_source=tldrdata",
+      "title": "Zero-downtime Postgres upgrades with logical replication",
+      "summary": "Logical replication offers a practical path to near-zero-downtime PostgreSQL major upgrades, with live rollback enabled by reverse replication. A Docker-based demonstration ran old and new clusters in parallel, freezing writes and waiting for replication to catch up before cutover. It achieved 181 ms of write interruption during upgrade and 179 ms during rollback, without data loss."
+    },
+    {
+      "url": "https://thedatavist.substack.com/p/need-to-know-implementing-row-level?utm_source=tldrdata",
+      "title": "Need to Know: Implementing row-level security for Claude Dashboards via Model Context Protocol",
+      "summary": "This proof of concept shows how to add row-level security to Claude Dashboards using an MCP server to authenticate users and query DuckDB for only the data they can access. Access rules are enforced before data reaches Claude, allowing the same dashboard to show different results for each user."
+    },
+    {
+      "url": "https://blog.cloudflare.com/rewinding-the-exponential?utm_source=tldrdata",
+      "title": "Rewinding the exponential: How we keep hardware usage down",
+      "summary": "Cloudflare held back exponential hardware growth by shrinking data earlier and moving duplication later: split monolithic schemas, switch to zstd, send each event once then replicate after sampling, sample at the edge, and pre-aggregate known queries. Optimize bytes, not just compute: prune fields, compress measured workloads, push reductions upstream, and replicate compacted data."
+    },
+    {
+      "url": "https://explainmeasured.com/posts/arguments-that-came-out-even?utm_source=tldrdata",
+      "title": "Four PostgreSQL arguments that came out even",
+      "summary": "PostgreSQL micro-optimization alternatives often don't matter. For 1,000 IDs, IN, ANY, and VALUES joins perform similarly; prefer parameterized ANY for stable query text. Short text, enums, and smallints use near-identical storage; mostly-NULL columns are cheap. Don't blindly rewrite but EXPLAIN on your own data."
+    },
+    {
+      "url": "https://github.com/Arize-ai/phoenix?utm_source=tldrdata",
+      "title": "Phoenix (GitHub Repo)",
+      "summary": "Phoenix is a self-hosted, open-source AI observability platform for tracing, evaluating, and debugging LLM applications. It captures OpenTelemetry traces; offers retrieval and response evaluations, versioned datasets, and experiments; and supports prompt testing and replay. Framework- and provider-agnostic instrumentation makes it useful for teams that need to diagnose agent behavior and measure changes before production."
+    },
+    {
+      "url": "https://github.com/xerj-org/xerj?utm_source=tldrdata",
+      "title": "XERJ (GitHub Repo)",
+      "summary": "XERJ is an Apache-2.0, Elasticsearch-compatible local search engine that automatically indexes code, logs, PDFs, SQLite, and CSVs into typed datasets for agent retrieval, incident analysis, and RAG. Its autoindex workflow avoids schema setup and returns ranked passages with file and line locations. The project defaults to local operation, although optional reranking can send text to an external provider."
+    },
+    {
+      "url": "https://github.com/chio-labs/sqlbuild?utm_source=tldrdata",
+      "title": "SQLBuild: safe refactoring for warehouse SQL (GitHub Repo)",
+      "summary": "SQLBuild is an open-source SQL and Python transformation framework for safely changing warehouses. It checks contracts and lineage before execution, runs graph-level tests and production diffs, and lets teams rename incremental models or columns while preserving history and compatibility views. A local DuckDB playground makes it easy to evaluate. Snowflake, Postgres, BigQuery, and Databricks adapters are available."
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control?utm_source=tldrdata",
+      "title": "Redesigning source control at Anthropic",
+      "summary": "Anthropic replaced Git with Scion, an in-house version control system built in five months, after daily code merges grew from 2,500 to over 30,000. By moving operations to servers and fetching only the files needed, it reports roughly 100 times faster checkouts and 200 times lower CPU and memory requirements than its previous Git mirror infrastructure."
+    },
+    {
+      "url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/?utm_source=tldrdata",
+      "title": "Parsing JSON at tens of gigabytes per second… in Python",
+      "summary": "Daniel Lemire's benchmark processed 7.6 GB of JSON in about 0.12 seconds using fastsimdjson on free-threaded Python across 64 cores, reaching roughly 66 GB/s. The speed comes from running threads in parallel and creating Python objects only for the fields needed, with data already decompressed in memory."
+    },
+    {
+      "url": "https://sayora.ai/many-hands/jev-vs-embeddings/?utm_source=tldrdata",
+      "title": "Jev handed our LLM the wrong page a tenth as often as our embeddings",
+      "summary": "Jev picked the right page first 88% of the time (vs. 70% for embedding search) across 168 test questions, and cut irrelevant results to the AI receptionist from 33% to 3% by answering \"none\" when no page fit."
+    },
+    {
+      "url": "https://planetscale.com/blog/what-gets-toasted-in-postgres?utm_source=tldrdata",
+      "title": "What gets TOASTed in Postgres",
+      "summary": "Postgres's TOAST compresses large values or moves them to a separate table."
+    }
+  ]
+}

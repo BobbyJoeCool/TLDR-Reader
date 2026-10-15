@@ -1,0 +1,78 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-10-15",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://x.ai/news/grok-voice-3?utm_source=tldrai",
+      "title": "Grok Voice 3.0",
+      "summary": "xAI announced Grok Voice 3.0, a speech-to-speech model with sub-second latency and improved customer-support performance."
+    },
+    {
+      "url": "https://typesafe.ai/blog/jev-1-14?utm_source=tldrai",
+      "title": "Jev: For the builders AND dreamers",
+      "summary": "Jev 1.14.0 features image support, a new type, and longer context. Multimodal support has also been turned on for Jev 1.13.0. Both models perform worse on multimodality than on pure text. Breaking down questions into the simplest possible decompositions helps a lot. The new 'box' type returns a single bounding box. It is a preview of TypeSafe's explorations beyond simple decisions and into what else System One Models can support."
+    },
+    {
+      "url": "https://x.com/gavinsbaker/status/2110041532770160668?utm_source=tldrai",
+      "title": "A Hybrid, Multi-Model AI Future",
+      "summary": "Gavin Baker expects open-weight specialist models and frontier systems to coexist behind routers, reducing model margins while increasing compute demand. He argues existing infrastructure commitments remain financeable and warns that excessive concentration or overbuilding poses greater risks."
+    },
+    {
+      "url": "https://www.brokenrobot.xyz/blog/more-agents-same-mythical-month/?utm_source=tldrai",
+      "title": "More Agents, Same Mythical Month",
+      "summary": "AI has made producing code cheap. This moves the bottleneck of software delivery to deciding, verifying, and coordinating. AI amplifies whatever coordination an organization already had. Adding more agents will not fix weak coordination, just as adding more developers never did."
+    },
+    {
+      "url": "https://github.com/google-research/harness2?utm_source=tldrai",
+      "title": "Google Harness² for Recursive Self Improvement (GitHub Repo)",
+      "summary": "Google Research's Harness² lets agents iteratively improve their prompts, tools, memory, and orchestration without changing model weights. It refines the harness for each task and then carries evidence-backed lessons forward to improve future tasks."
+    },
+    {
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/?utm_source=tldrai",
+      "title": "Analyzing technical documents with Deep Review",
+      "summary": "Google's Deep Review is an agent AI system engineer designed to provide rigorous feedback and technical verification on complex documents. It was initially designed for computer science academic paper analysis, but its capabilities have since expanded to reviewing documents across many domains. Deep Review will initially support PDFs and plain text as input formats, but support for multi-file inputs will arrive soon. Google believes that tools like Deep Review will play a significant role across the peer review process in the coming years by empowering both authors and reviewers."
+    },
+    {
+      "url": "https://www.vals.ai/blogs/routers-new-ai-primitive?utm_source=tldrai",
+      "title": "Routers Are a New AI Primitive",
+      "summary": "Routers have emerged as a new primitive of the AI stack. They promise to handle the complexity of model management and help companies benefit from new models without revisiting model selection across every application themselves. Every router shares the same fundamental design, but they differ in how they decide. This post provides an independent comparison of current routers and looks at how today's routers compare with single models on quality and cost."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
+      "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more."
+    },
+    {
+      "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour?utm_source=tldrai",
+      "title": "It Ain't AGI Until H100s Go for $30 an Hour",
+      "summary": "Stratospheric GPU prices will be one of the easiest indicators of AGI to monitor and trade on. A 10x price jump in the price of AI compute will be the clearest sign that agents can finally outperform humans at most economically valuable work. The price would need to rise to an estimated $30 per H100-hour to reach this point. Supply will always be limited to the amount of available compute in the world, so something has to give."
+    },
+    {
+      "url": "https://allenai.org/blog/hiro-acev2?utm_source=tldrai",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "summary": "HiRO-ACEv2 simulates extreme weather at high accuracy and generates global 3 km climate data at 1/300th the cost of X-SHiELD."
+    },
+    {
+      "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform?utm_source=tldrai",
+      "title": "Claude Adds OpenTelemetry for Agent Observability",
+      "summary": "Anthropic added OpenTelemetry tracing across Claude Managed Agents, the Messages API, and Claude SDKs."
+    },
+    {
+      "url": "https://vllm.ai/blog/2026-10-14-nixl-push-connector?utm_source=tldrai",
+      "title": "Push-Based KV Transfer to Improve TTFT and TPOT for Disaggregated Inference in vLLM",
+      "summary": "This post introduces a push-based NIXL connector that moves post-prefill transfer coordination and setup off the critical path, resulting in improved application responsiveness, particularly at high request rates."
+    },
+    {
+      "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?utm_source=tldrai",
+      "title": "How Netflix Keeps Large GPU Jobs Running",
+      "summary": "Netflix described the infrastructure it uses to detect faulty GPUs and network hardware, automatically remediate unhealthy machines, and keep distributed training jobs alive through hardware failures."
+    },
+    {
+      "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash?utm_source=tldrai",
+      "title": "Ling-3.1-flash (Hugging Face Repo)",
+      "summary": "Ling-3.1-flash is a native hybrid reasoning model designed for complex, real-world tasks with 560 billion total parameters, 25 billion active parameters per token, and a one-million-token context window."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-10-15",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html?utm_source=tldrfintech",
+      "title": "JPMorgan blocks outside AI agents from directly accessing customer accounts",
+      "summary": "JPMorgan is blocking third-party AI agents such as Muse and Instinct from directly moving money or paying bills on behalf of retail customers, citing security, rogue-agent, and liability risks, while still allowing limited read-only access through open-banking connectors. At the same time, the bank is building its own agentic tools, including Smart Cash, which can forecast cash flow and move funds to improve yield, suggesting banks may prefer controlled in-house agents over unrestricted external access."
+    },
+    {
+      "url": "https://www.reuters.com/business/dating-app-bumble-advanced-talks-go-private-1-billion-valuation-source-says-2026-10-12/?utm_source=tldrfintech",
+      "title": "Bumble in advanced talks to go private at $1B valuation",
+      "summary": "Bumble is reportedly in advanced talks to be acquired by Ithaca Holdings in a deal valuing the dating-app company at roughly $1 billion, well above its $389 million market value before the report. The potential take-private comes as Bumble struggles with falling paying users, declining revenue, and weaker engagement among younger consumers, highlighting broader pressure across the online dating sector."
+    },
+    {
+      "url": "https://x.com/eglyman/status/2110007713396613568?utm_source=tldrfintech",
+      "title": "Ramp introduces Glass that makes company knowledge reusable across AI workflows",
+      "summary": "Ramp's Glass is an internal AI workspace designed to capture and reuse the best prompts, workflows, context, and operating knowledge created across the company instead of leaving them trapped in individual chat histories. Glass connects to systems like Slack, Notion, Linear, and Gong, supports shared sessions and reusable skills, routes work across models, and tracks cost by project. Ramp says the system cut its own AI bill by 30% while scaling workflows such as feature-request capture from roughly 300 to 20,000 per month."
+    },
+    {
+      "url": "https://lex.substack.com/p/fintech-monzo-seeks-exit-at-13b-to?utm_source=tldrfintech",
+      "title": "Why is Monzo so much cheaper than Revolut?",
+      "summary": "Monzo raised $500M at a $4.5B valuation in late 2021, near the peak of fintech VC funding. Its last employee share sale last year nudged that to $5.9B. That's a 31% gain in three years, while annual revenue grew from £154M to the current £1.7B. Over the same period, competitor Revolut went from $33B in 2021 to $115B in a secondary sale this July, a 3.5x increase. That prices Revolut at roughly 19x its 2025 revenues vs. Monzo's 3x revenues."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2109714250226905248.html?utm_source=tldrfintech",
+      "title": "Mark Zuckerberg and Alexandr Wang discuss Meta's Muse Wonder and the future of AI (134 minute podcast)",
+      "summary": "John Collison sat down with Mark Zuckerberg and Alexandr Wang to discuss Meta's new frontier model, Muse Wonder, and the broader race to build leading AI systems. The conversation spans model development, Meta's willingness to invest $100 billion, agentic commerce, OpenRouter, new computing interfaces beyond smartphones, and Zuckerberg's view that AI will support multiple major winners rather than a single dominant platform."
+    },
+    {
+      "url": "https://x.com/davidmarcus/status/2109690025336242608?utm_source=tldrfintech",
+      "title": "The Death of the Interface: What happens to money when apps, websites, and buttons go away",
+      "summary": "AI agents will replace much of today's app and website interface, which means payments must also become “headless” and usable directly by software agents. The opportunity is in combining stablecoins, real-time settlement, embedded wallets, fiat connectivity, and card networks behind APIs that let agents hold and move money globally while enforcing permissions, limits, and liability rules."
+    },
+    {
+      "url": "https://carta.com/blog/carta-psf-luxembourg/?utm_source=tldrfintech",
+      "title": "Carta receives CSSF authorization in Luxembourg",
+      "summary": "Carta received Specialised PSF authorization from Luxembourg's CSSF, allowing it to provide licensed fund administration and transfer agency services for structures including SCSp, RAIF, SIF, and SICAR. The move extends Carta's private-capital ERP into one of Europe's largest fund domiciles, with fund administration, KYC, investor workflows, and private credit loan operations running on the same platform across global fund structures."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111256/splitwise-launches-free-bill-splitting-tool?utm_source=tldrfintech",
+      "title": "Splitwise launches free bill-splitting tool",
+      "summary": "Splitwise, the platform that makes it easier to share expenses with friends and family, today announced Itemize, a new, collaborative way to split a bill from a photo. The free in-app feature allows one person to take a picture of a restaurant or bar receipt and quickly calculate each person's total, with proportional tax and tip included. Everyone at the table can claim their individual and shared items to keep the split fair, even if they don't have the Splitwise app installed."
+    },
+    {
+      "url": "https://www.bankingdive.com/news/jpmorgan-dimon-ai-agents-bank-customers-liability-transfer/832870/?utm_source=tldrfintech",
+      "title": "JPMorgan CEO Dimon warns customers of ‘liability transfer' with AI",
+      "summary": "Autonomous money management could weaken banks' grip on deposits as software moves funds in search of better returns. JPMorgan is restricting outside agents' access while piloting Smart Cash, its own tool for optimizing balances across internal accounts. The bank says productivity experiments are promising, but benefits from generative and agentic AI aren't yet visible in quarterly earnings."
+    },
+    {
+      "url": "https://www.airtable.com/newsroom/back-to-bases?utm_source=tldrfintech",
+      "title": "Airtable lays out post-acquisition roadmap after major team cuts",
+      "summary": "Following its acquisition by Bending Spoons, Airtable is moving to a leaner operating model while refocusing the product around three priorities: faster improvements to the core platform, deeper AI and agent workflows, and stronger enterprise controls. Near-term plans include monthly customer-requested improvements, better performance and scale, upgraded Omni, Airtable Canvas, a stronger MCP, bring-your-own agents, agent permissions, audit logs, and tighter governance so Airtable can serve as a shared system of record for both people and AI agents."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/33149/agent-payments-are-reinventing-a-problem-the-card-industry-already-solved?utm_source=tldrfintech",
+      "title": "Agent payments are reinventing a problem the card industry already solved",
+      "summary": "For as long as card payments have existed, a human has been at the keyboard or the terminal, tapping a card, typing a PIN, and clicking buy now. That assumption is ending. A new class of AI agents is being built to shop, negotiate, and pay on our behalf. Your assistant reorders groceries when the fridge runs low. A travel agent books the whole trip the moment prices dip. A procurement bot restocks a warehouse without anyone signing off on each order."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2109726112741818550.html?utm_source=tldrfintech",
+      "title": "Fintechs should stop separating checking and savings accounts",
+      "summary": "The traditional distinction between checking and savings accounts no longer makes sense in modern fintech, especially when idle cash in checking earns nothing while prevailing short-term rates remain much higher."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111254/ecommpay-adds-klarna-payments-option?utm_source=tldrfintech",
+      "title": "Ecommpay adds Klarna payments option",
+      "summary": "Ecommpay, the inclusive global payments platform, has added Klarna, the everyday finance network, to its payment choices, giving merchants a simple way to offer millions of shoppers greater choice, transparency, and control at checkout."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2109777292826452479.html?utm_source=tldrfintech",
+      "title": "Corporate card rewards should be transparent and standardized",
+      "summary": "Corporate card cashback should be simple and clearly disclosed instead of varying by spend levels and sales negotiation."
+    }
+  ]
+}
