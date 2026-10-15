@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-10-14",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358?utm_source=tldrcrypto",
+      "title": "CFTC's new crypto framework could face a 2028 election deadline",
+      "summary": "The CFTC's advance notice on leveraged and margined crypto trading likely will not produce a proposal until late Q1 or early Q2 2027, with finalization not until early 2028, raising the risk the rule never gets finalized before the 2028 election cycle. Fast-tracking would raise the risk of a judge blocking it on procedural grounds, and legal challenges could extend beyond 2028. The proposal would require proof-of-reserves audits and give the CFTC authority over state-licensed platforms."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389?utm_source=tldrcrypto",
+      "title": "Binance VIP head says hedge funds are exploring crypto arbitrage",
+      "summary": "Catherine Chen, Binance's head of VIP and institutional, said traditional hedge funds are more actively exploring crypto venues, drawn by arbitrage on TradFi instruments such as cash equities and perpetual futures, improved depth, and 24/7 weekend price discovery. She said Binance's cash-equity assets under management rose from about $800-900 million to $1.4 billion, and TradFi perp volume went from $20-30 billion a month at launch to about $400 billion every 30 days, though she called engagement early and said to watch the next 12 to 18 months."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349?utm_source=tldrcrypto",
+      "title": "Binance launches AI trading tool",
+      "summary": "Binance rolled out its AI-powered trading interface to all global English-language users on October 12, following a beta that drew 150,000 participants over five weeks beginning September 7. The free suite includes AI-generated portfolio summaries, top-mover analysis, voice alerts, on-demand market briefings in text or audio, and a generative UI that adapts displayed market data and tools to each user's stated interests and experience level. The launch extends Binance's super-app strategy, using AI as an onboarding and retention layer for traders who lack the background to interpret raw market data. Additional language support is currently rolling out."
+    },
+    {
+      "url": "https://ethresear.ch/t/informed-diffusion-making-home-builders-publish-fast/26151?utm_source=tldrcrypto",
+      "title": "Informed Diffusion: making home builders publish fast",
+      "summary": "Informed Diffusion is a four-tier gossip protocol that cuts home-builder payload delivery from 6.3 seconds to 0.63 seconds P99, matching and surpassing the 1.8-second benchmark datacenter builders achieve on mixed-bandwidth networks. Pipelining, push/pull chunk announcement, erasure coding, and neighbor-aware scheduling via per-payload HAVE bitmaps reduce bandwidth utilization from 4.4 to 1.7 payload copies and hold delivery under the 3-second budget against 50% withholding nodes, 10 Mbps throttled uplinks, and payloads ranging from 128 KiB to 2 MiB. The sole wire protocol addition is HAVE bitmaps carried in existing gossipsub control messages, with all other improvements left to local client implementation, allowing adoption without mesh topology changes or new topics."
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99?utm_source=tldrcrypto",
+      "title": "NFT marketplace Blur is shutting down after volumes collapse 99%",
+      "summary": "Blur will close its marketplace and lending arm Blend on November 12 after monthly Ethereum NFT trading volume fell 99.5% from its March 2023 peak of $1.43 billion, when the platform held over 70% of ETH NFT market share, to under $7 million. Token Terminal records zero protocol revenue across three years of operation, as Blur charged no transaction fees throughout its run, a model that built dominant volume but left no economic foundation. The shutdown follows Blast network's closure by ten days, with both projects built by Tieshun Roquerre (Pacman), and Blast's TVL having fallen from $2 billion to roughly $32 million before its team cited unsustainable operational costs. The BLUR token dropped over 20% on the announcement, trading around $0.015."
+    },
+    {
+      "url": "https://x.com/davidmarcus/status/2109690025336242608?utm_source=tldrcrypto",
+      "title": "The Death of the Interface",
+      "summary": "David Marcus, who led Meta's M assistant and Libra and now runs Lightspark, argues that AI models and stablecoin law have finally arrived together, so apps, websites, and buttons will give way to agents you simply talk to. Payments today assume a human in the loop (checkout pages, texted codes, fraud, and dispute flows), so money must stop moving through a UI. Stablecoins are no longer a standalone category. To be useful, they need fast settlement networks, embedded wallets, fiat connectivity, and card networks, which he calls “headless money,” a simple API that agents can use to move value anywhere, 24/7, with revocable spending limits and clear liability for mistakes. A few payment-stack companies will be worth hundreds of billions, but the companies running the winning agents will earn far more, since payment stacks earn only 1 to 300 basis points."
+    },
+    {
+      "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home?utm_source=tldrcrypto",
+      "title": "Crypto Trader 'Realist' Reports Knifepoint Robbery at UK Home",
+      "summary": "UK-based crypto trader 'Realist' reported a knifepoint home robbery valued at approximately $800,000, with on-chain records corroborating the claim via 719,000 USDC transferred through an identified Solana address. The incident extends a documented pattern of physical attacks targeting traders whose wallet balances and identities are linkable onchain. Attackers use blockchain transparency to identify high-value targets, then coerce asset transfers through physical force rather than technical exploits. This attack category, sometimes called a \"$5 wrench attack,\" bypasses cryptographic security and poses a growing physical threat to high-net-worth on-chain participants."
+    },
+    {
+      "url": "https://thedefiant.io/news/blockchains/robinhood-reports-15b-in-stock-token-trading-as-chain-passes-100-days?utm_source=tldrcrypto",
+      "title": "Robinhood Reports $15B in Stock Token Trading as Chain Passes 100 Days",
+      "summary": "Robinhood's blockchain crossed 100 days of operation with $15 billion in stock token trading volume and 200,000 token holders, placing the platform among the largest tokenized-equity deployments by a regulated broker. Morpho's deployment on the chain has drawn approximately $1.1 billion in deposits, demonstrating that DeFi lending primitives can attract meaningful TVL when layered on top of tokenized equity infrastructure. The combined metrics, trading volume plus onchain credit demand, suggest users are treating tokenized stocks as composable collateral rather than purely buy-and-hold instruments."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2109812614394150952.html?utm_source=tldrcrypto",
+      "title": "Aave App crosses $30M in deposits in under two months",
+      "summary": "The Aave App passed $30 million in deposits less than two months after launch, indicating that banks could eventually launch their own frontends on Aave."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2109933273480867877.html?utm_source=tldrcrypto",
+      "title": "US government's 17,733 BTC transfers were likely custody-related",
+      "summary": "US government-linked wallets moved about 17,733 BTC to Coinbase Prime in early October, including 12,267 BTC tied to the Bitfinex hack, with labeled government holdings falling from 324,527 to 306,795 BTC."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2109820222190575666.html?utm_source=tldrcrypto",
+      "title": "South Korea orders website blocks on 27 unregistered foreign exchanges",
+      "summary": "South Korea's FIU said regulators ordered domestic access blocks on 27 unregistered overseas crypto exchange sites, including KuCoin, MEXC, Phemex, Bitrue, Poloniex, BTCC, BingX, and BitMart, after reviews on October 6 and 7."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2109920210060755137.html?utm_source=tldrcrypto",
+      "title": "Takeaways from Token49",
+      "summary": "Token49 was the first edition where Web2 VCs and companies showed up to grow inside crypto, but few interesting startups launched, and many were Polymarket or Hyperliquid copies."
+    }
+  ]
+}

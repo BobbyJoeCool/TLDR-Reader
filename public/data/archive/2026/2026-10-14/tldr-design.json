@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-10-14",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://gizmodo.com/as-they-supposedly-battle-ai-slop-major-publishers-reportedly-cover-their-books-in-it-2000824603?utm_source=tldrdesign",
+      "title": "As They Supposedly Battle AI Slop, Major Publishers Reportedly Cover Their Books in It",
+      "summary": "Three of the big five publishers reportedly use AI for cover art and publicity copy without telling authors or the public. Wired's report, drawn from more than two dozen anonymous employees, names tools including ChatGPT, Claude, and image generators. Leadership subscribes to AI tools and runs brainstorming sessions asking staff to find uses, even as the big five sue Meta over copyright."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cr86z33pdy9vo?utm_source=tldrdesign",
+      "title": "Prize-Winning Image Which Sparked Backlash Was AI-Generated, Nikon Rules",
+      "summary": "Nikon has disqualified the winning video of its Small World in Motion microscopy contest, ruling that generative AI used in its composition broke the rules. Scientists, including former judges, had flagged the footage of cilia in a child's airway as fake. The camera-maker is now reviewing the procedures of the annual contest, which has run for 15 years."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/?utm_source=tldrdesign",
+      "title": "Facebook is giving users more control over their algorithm",
+      "summary": "Facebook's new “Your Algorithm” feature lets users describe in their own words what they want to see more or less of in Feed and Reels, with Meta saying recommendations update in real time. An updated three-dot menu provides access to the tool alongside “Interested” and “Not interested” options, and Facebook may ask follow-up questions to understand users' feedback. The launch brings controls already introduced on Instagram to Facebook, giving users a more direct way to shape their recommendations."
+    },
+    {
+      "url": "https://productpicnic.beehiiv.com/p/the-fake-double-diamond-is-dead-the-real-double-diamond-is-immortal?utm_source=tldrdesign",
+      "title": "The Fake Double Diamond is Dead. The Real Double Diamond is Immortal",
+      "summary": "Synthetic users and AI-generated insights offer the false certainty of up-front discovery without its substance, and they never remove the need to iterate. Shipping everything and letting analytics decide fails too, because real experiments need a hypothesis, an end point, and cleanup of failed bets. The fake double diamond trades real divergence for synthetic urgency. Useful software needs problem definition and iteration in one shared system."
+    },
+    {
+      "url": "https://uxdesign.cc/what-are-we-willing-to-sacrifice-for-ai-a57736f368a1?utm_source=tldrdesign",
+      "title": "What are we willing to sacrifice for AI?",
+      "summary": "If AI eventually allows companies to produce goods and services with far fewer workers, economies built around exchanging labor for income may face a fundamental contradiction. Three broad responses each demand a sacrifice: businesses could preserve jobs at the expense of potential profits, society could restrict AI and forgo some of its benefits, or economic systems could provide guaranteed income or broader ownership while accepting greater institutional dependence. The deeper question is whether existing ideas about liberty and economic independence can survive if meaningful opportunities to earn a living through work become scarce."
+    },
+    {
+      "url": "https://www.hano.so/?utm_source=tldrdesign",
+      "title": "3D Device Mockup & Animation Studio (Website)",
+      "summary": "Create 3D device mockups in your browser. Animate scenes, customize screens, and export polished product visuals."
+    },
+    {
+      "url": "https://text-effects.colorion.co/?utm_source=tldrdesign",
+      "title": "114 CSS Text Effects and Animations (Website)",
+      "summary": "A library of 114 animated text effects built with pure CSS — aurora gradients, glitches, split-flap boards, liquid fills, and other lesser-seen tricks. No JavaScript, and no dependencies."
+    },
+    {
+      "url": "https://rhapsodycolor.com/color/?utm_source=tldrdesign",
+      "title": "Every Color, by Family (Website)",
+      "summary": "Look up any color: the codes to paste, the text colors that stay readable on it, and how it behaves on press."
+    },
+    {
+      "url": "https://abduzeedo.com/typetype-unveils-tt-rationalist-typography?utm_source=tldrdesign",
+      "title": "TypeType Unveils TT Rationalist Typography",
+      "summary": "TypeType's updated TT Rationalist modernizes the slab serif with trapezoidal serifs, softer stroke contrast, humanist proportions, and curved details that make dense text feel less rigid and more comfortable to read. The family spans 22 styles, including ten upright weights, matching true italics, and two variable fonts, with 1,127 glyphs per style and 31 OpenType features. Support for more than 235 Latin- and Cyrillic-based languages makes the family flexible enough for everything from editorial layouts and cultural posters to apps, watch interfaces, and compact digital typography."
+    },
+    {
+      "url": "https://clearleft.com/thinking/fix-the-contrast-without-losing-your-brand?utm_source=tldrdesign",
+      "title": "Fix the Contrast without Losing Your Brand",
+      "summary": "Low-contrast text appears on 83.9% of the top million home pages, making it the web's most common accessibility failure. Clearleft's tool “This hue shall pass” maps every pairing in a palette against WCAG AA or AAA and fixes failures by nudging lightness. Hue stays fixed, so brand colors keep their character while passing contrast."
+    },
+    {
+      "url": "https://www.designweek.co.uk/pentagram-creates-dynamic-bilingual-identity-for-design-doha-biennial-2026/?utm_source=tldrdesign",
+      "title": "Pentagram creates dynamic bilingual identity for Design Doha Biennial 2026",
+      "summary": "Pentagram's identity for the 2026 Design Doha Biennial replaces a static logo with a flexible typographic system built around connectivity and equal treatment of Arabic and English. Extended strokes stretch between elements like mapping lines or network constellations, while regional travertine beige and deep maroon are combined with bright orange and the blue established by the inaugural edition. The same structural logic extends across sub-brands and exhibitions, allowing individual programs to develop distinct expressions while remaining part of a coherent bilingual system."
+    },
+    {
+      "url": "https://www.designboom.com/design/a-design-award-winners-graphic-design/?utm_source=tldrdesign",
+      "title": "A' Design Award Winners Achieve Real World Impact through Graphic Design",
+      "summary": "A curated selection of 2026 A' Design Award winners shows graphic design and packaging delivering real-world impact, including Gold winners Aisling Sans and Dotline Corporate Identity."
+    },
+    {
+      "url": "https://lea.verou.me/blog/2026/icons/?utm_source=tldrdesign",
+      "title": "The Best Way to Use Icons in Web UIs",
+      "summary": "Icons can be inserted and swapped from CSS alone by storing them as custom-property design tokens and rendering them through masked pseudo-elements."
+    }
+  ]
+}

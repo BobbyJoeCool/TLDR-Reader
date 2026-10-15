@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-10-14",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://hunterwalk.com/2026/10/12/why-there-will-be-more-pro-rata-conflicts/?utm_source=tldrfounders",
+      "title": "Why There Will Be More Pro Rata Conflicts",
+      "summary": "Early-stage funds increasingly exercise pro rata rights across multiple rounds as they grow, driven by outliers offering significant upside potential. The rise of secondary markets and financial vehicles like Fund of Funds and SPVs supports smaller funds in monetizing pro rata shares. Faster round pacing within a fund's investment period further contributes to potential pro rata conflicts."
+    },
+    {
+      "url": "https://stripe.com/blog/economics-of-ai-monetization?utm_source=tldrfounders",
+      "title": "The “alien” economics of AI monetization",
+      "summary": "Two-thirds of the companies on the Forbes AI 50 list use some form of usage-based pricing. AI's variable costs and unpredictable demand are causing today's leading companies to operate in ways that would seem alien to traditional SaaS businesses. These companies are iterating much faster on pricing, prioritizing market share over ARR, and pursuing multiple go-to-market strategies at once."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building?utm_source=tldrfounders",
+      "title": "38 things we've learned about building AI products",
+      "summary": "PostHog has built 10 different AI products over the last four years. These include PostHog AI, PostHog's install Wizard, Replay Vision, and Scouts. PostHog's AI products are used by nearly 100,000 people every month. This post details what the company has learned from building them."
+    },
+    {
+      "url": "https://www.onlycfo.io/p/arr-vs-gaap-revenue-spotting-arr?utm_source=tldrfounders",
+      "title": "ARR vs GAAP Revenue | Spotting “ARR” Lies",
+      "summary": "Businesses need to stay honest about what ARR actually is. If ARR doesn't ultimately lead to revenue and cash, then it's a fake metric. Most companies need to redefine or evolve their definitions of ARR for the AI era. ARR should turn into GAAP revenue, and it shouldn't take a really long time for that to happen."
+    },
+    {
+      "url": "https://x.com/ryangrowthh/status/2109644746465726929?utm_source=tldrfounders",
+      "title": "How to Grow a Massive Brand (Full 2026 Masterclass)",
+      "summary": "A founder's account and a company's account don't need to publish the same things. This guide assigns the founder the beliefs, lessons, and experience of building, while the company explains products and launches. It also distinguishes posts that attract new people from posts that build trust or encourage a purchase. That gives teams a clearer way to judge results: a post meant to introduce the company should not be assessed only by immediate sales. Interested followers can then move into email or a community for a longer relationship."
+    },
+    {
+      "url": "https://stripe.dev/blog/run-recurring-jobs-on-stripe-workflows?utm_source=tldrfounders",
+      "title": "Run recurring jobs on Stripe without a cron server",
+      "summary": "Stripe Workflows now supports recurring schedule triggers. Users choose when a workflow runs, and Stripe starts a run at each scheduled time. Scheduled workflows pair well with list actions and loops. The workflow lives in the Dashboard, so the team that owns the process can read it, change it, and see every run."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?utm_source=tldrfounders",
+      "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business' hardest problems",
+      "summary": "Gemini 4 Argon is now available on Google Cloud. Argon was trained to work with both depth and precision. It can maintain context across long, multi-step tasks and produce precise, verifiable results. Argon launches with an introductory rate of $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off through to November 30, after which the standard pricing of $4 per million input tokens and $20 per million output tokens will apply."
+    },
+    {
+      "url": "https://www.akashbajwa.co/p/capital-stacks-for-atoms?utm_source=tldrfounders",
+      "title": "Capital Stacks For Atoms",
+      "summary": "Capital allocation has shifted from bits-based businesses to atoms-based businesses over the last few years. Investors have been directing capital to overcome the physical-world bottlenecks of inference. There's an emerging cohort of atoms-based companies in the fields of energy, manufacturing, space, robotics, and beyond. These hard asset businesses are increasingly built and valued on bundles of cash flows rather than revenue multiples. This requires an entirely different approach to capital formation across the company lifecycle."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2109719352450924902.html?utm_source=tldrfounders",
+      "title": "OK, I might have been wrong about building with a lean team in the age of AI",
+      "summary": "Chatbase is now at 40 people, and it plans to double its number of employees in the next 6 months. Building is now much easier, and the opportunity cost of not building more is huge. Companies that want to build more, grow more, and achieve more still need to hire because humans are still needed in many parts of the building loop. While this might change, it doesn't make sense to act like it isn't true right now."
+    },
+    {
+      "url": "https://x.com/saranormous/status/2109659238809395333?utm_source=tldrfounders",
+      "title": "Friction",
+      "summary": "AI enables us to do the things we previously procrastinated over."
+    },
+    {
+      "url": "https://andyayim.substack.com/p/incentives-drive-behaviour?utm_source=tldrfounders",
+      "title": "Incentives drive behaviour",
+      "summary": "Angel investors prioritize founder stories and conviction over data, investing personal capital without external pressure."
+    },
+    {
+      "url": "https://blog.jasonsherman.org/2026/10/12/why-more-features-wont-save-your-startup/?utm_source=tldrfounders",
+      "title": "Why More Features Won't Save Your Startup",
+      "summary": "Adding more features isn't a guaranteed solution for struggling startups."
+    },
+    {
+      "url": "https://xiaofeidu.com/posts/premature-scale/?utm_source=tldrfounders",
+      "title": "We hired our way into going slower",
+      "summary": "A founder has to protect their focus, attention, and execution on purpose, even when it's uncomfortable."
+    },
+    {
+      "url": "https://www.kwharrison13.com/essays/the-death-of-venture-capitals-short?utm_source=tldrfounders",
+      "title": "The Death of Venture Capital's Short Kings",
+      "summary": "Small VC funds face pressure to grow so they can keep investing in their companies and retain influence in later rounds."
+    },
+    {
+      "url": "https://www.seangoedecke.com/dont-diagnose-your-opponents/?utm_source=tldrfounders",
+      "title": "Don't diagnose your opponents",
+      "summary": "Deciding that a colleague opposes your plan because they fear change does not tell you whether their objection is correct."
+    }
+  ]
+}

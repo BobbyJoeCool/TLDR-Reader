@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-10-14",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/?utm_source=tldrhardware",
+      "title": "Introducing AMD Helion, Agentic AI Compute at Rack Scale",
+      "summary": "AMD's Helion agentic AI rack is designed for flexible AI infrastructure that caters to hyperscale deployments and enterprise needs. It supports a range of configurations, including CPU-only and GPU-integrated systems, aligning with diverse AI workloads. Helion, part of an upcoming open blueprint by AMD for OCP, is set for release in November."
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments?utm_source=tldrhardware",
+      "title": "Microsoft takes Maia to multi-gigawatt scale, making it the default inference chip for its own products",
+      "summary": "Starting in 2027, Microsoft will deploy Maia at multi-gigawatt scale and make it the main inference system for its products. The next-generation Maia 300 uses compute chiplets on TSMC's N2P process and targets long-context, multi-step agent workloads. Digitimes reports that the supply chain is already preparing for a surge in server builds in 2027."
+    },
+    {
+      "url": "https://kernelspace.substack.com/p/building-a-gpu-compiler-from-scratch?utm_source=tldrhardware",
+      "title": "Building a GPU compiler from scratch, from PyTorch to CUDA",
+      "summary": "This deep dive uses the Emmy compiler framework to follow PyTorch operations down to CUDA one lowering stage at a time: Tensor IR, Loop IR, Tile IR, Kernel IR, and finally emitted code. It uses RMSNorm and matrix multiplication as worked examples. It also covers operator fusion, schedule selection, and online attention rewrites, so readers can see what Triton-style stacks do under the hood."
+    },
+    {
+      "url": "https://www.pi.website/blog/api-beta?utm_source=tldrhardware",
+      "title": "Physical Intelligence opens a beta API to fine-tune and host π robot models",
+      "summary": "Physical Intelligence opened a beta API for its π robotics foundation models: upload demonstrations, fine-tune on Pi-managed compute, and run the result on your own robot through a hosted inference gateway. Early partners spanned hardware from Actor's autonomous wheel loader, running a commercial deployment with no operator onboard, to Almond's dual-arm Axol, which learned to deburr its own spacers in four days. Since most ran cloud-hosted inference, network connectivity was a pain point for some."
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12970?utm_source=tldrhardware",
+      "title": "Apple's Minions pools idle Macs into a virtual GPU cloud",
+      "summary": "Apple Silicon Macs have powerful GPUs that sit mostly idle in normal use. Minions combines them across machines into a virtual GPU cloud for large ML inference jobs, with fault tolerance and flexible task scheduling. The pitch is that teams can use hardware they already own instead of waiting for expensive, centralized GPU capacity."
+    },
+    {
+      "url": "https://www.anthropic.com/research/self-replicating-ai?utm_source=tldrhardware",
+      "title": "Anthropic runs a 26B model across 15 $55 TV boxes to test IoT self-replication",
+      "summary": "Anthropic's Frontier Red Team ran Gemma4-26B-A4B across 15 off-brand Android TV boxes with 4GB of RAM each, using pipeline parallelism at 0.39 tokens per second, to test whether small models could replicate across cheap IoT hardware. A 9B model got inference running on 8 of 9 hardware types tested, and a Kimwolf-sized botnet would total only about 40 H100s of compute. By their trend line, small models reach the needed capability in simplified tests by year-end."
+    },
+    {
+      "url": "https://www.bloomberg.com/features/2026-ai-data-center-build-costs/?utm_source=tldrhardware",
+      "title": "What a 1GW AI data center costs: about $30B, and $17B of it is chips",
+      "summary": "An Abilene-scale build requires roughly $17B for chips and servers, $3B for power, and only $2.4B for construction. Transformers, generators, and cooling equipment face long lead times and rising prices."
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/?utm_source=tldrhardware",
+      "title": "Apple Home Collection brings LG and Schneider cameras, a lock, and thermostats to Apple Home",
+      "summary": "Apple's Home Collection, built with LG and Schneider Electric, covers cameras, thermostats, sensors, a doorbell, and a deadbolt. LG's lock uses Ultra Wideband to unlock as you approach and works locally over Matter and Aliro, while its indoor cam physically tilts away when someone's home. Every device supports Thread, and cameras keep recording to built-in storage if Wi-Fi drops. Prices run $199.95 to $399.95, with availability starting in December."
+    },
+    {
+      "url": "https://www.servethehome.com/intels-crescent-island-ai-server-gpu-gets-a-name-and-specs-meet-the-intel-gpu-d-series?utm_source=tldrhardware",
+      "title": "Intel names Crescent Island the GPU D-Series, with 1.3 PFLOPS of FP8 and up to 480GB of LPDDR5X",
+      "summary": "Crescent Island, Intel's data center inference GPU, will be sold as the GPU D-Series."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks?utm_source=tldrhardware",
+      "title": "How Meta builds AI networks: IcePack, Tahan and open-source MetaRoCE",
+      "summary": "At OCP, Meta showed IcePack, a 102.4T liquid-cooled network rack, along with its IceCube switch platform."
+    },
+    {
+      "url": "https://www.thelec.net/news/articleView.html?idxno=14536&amp;utm_source=tldrhardware",
+      "title": "SK Hynix's H-TPU spreads SSD controller work across more than 100 tiny in-house cores",
+      "summary": "Each core runs a 4-stage pipeline and replaces work done by general-purpose CPUs."
+    },
+    {
+      "url": "https://linuxiac.com/pebble-round-2-open-source-smartwatch-finally-starts-shipping?utm_source=tldrhardware",
+      "title": "Pebble Round 2 starts shipping",
+      "summary": "The $199 watch has a color e-paper display, runs open-source PebbleOS, and lasts about 8 days per charge."
+    },
+    {
+      "url": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?st=ps9bCm&reflink=desktopwebshare_permalink&utm_source=tldrhardware",
+      "title": "Walmart's warehouse robots are running into trouble",
+      "summary": "Walmart has spent a decade trying to automate about 200 US warehouses."
+    }
+  ]
+}

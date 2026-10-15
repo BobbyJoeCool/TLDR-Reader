@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-10-14",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/?utm_source=tldrdevops",
+      "title": "SRE book second edition",
+      "summary": "Google has released a completely rewritten second edition of its Site Reliability Engineering book with O'Reilly Media. The update reflects a decade of changes to the reliability field, including the rise of AI, microservices, and platform engineering. The new text includes guidance on modern challenges like running large language models and using AI to enhance operational reliability."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/?utm_source=tldrdevops",
+      "title": "Announcing AWS Lambda Web Functions",
+      "summary": "AWS Lambda Web Functions is a new form factor that runs standard HTTP web applications without rewriting code into an event handler. Developers can deploy existing Node.js servers built with frameworks like Express or Next.js, and the service automatically handles scaling and multi-region distribution. Each execution environment handles up to 128 concurrent requests, and billing is based on active CPU time rather than total duration. It is available today in five regions."
+    },
+    {
+      "url": "https://cloudnativenow.com/features/aks-is-growing-along-with-its-kubernetes-utilization-problem/?utm_source=tldrdevops",
+      "title": "AKS Is Growing – Along With Its Kubernetes Utilization Problem",
+      "summary": "Per the 2026 State of Kubernetes Optimization Report, AKS CPU utilization fell to 8% and memory to 20%, with CPU overprovisioning at 69%. GPU utilization averages 5% overall and 2% on AKS, driven by conservative resource requests that are rarely revisited."
+    },
+    {
+      "url": "https://blog.cloudflare.com/d1-control-plane/?utm_source=tldrdevops",
+      "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+      "summary": "Cloudflare scaled D1's control plane to manage millions of SQLite-backed databases while keeping centralized components out of the query hot path. Distributed routing metadata, pooled Postgres connections, precomputed aggregations, and idempotent background processes reduce bottlenecks as database counts grow."
+    },
+    {
+      "url": "https://newrelic.com/blog/news/blogheadless-observability-autonomous-operations?utm_source=tldrdevops",
+      "title": "Headless Observability: The Next Evolution of Autonomous Operations",
+      "summary": "New Relic argues observability must evolve for AI agents as well as humans, since agents need trusted operational intelligence rather than raw telemetry. Its Ground Truth layer combines telemetry, relationships, evidence, and context, separating intelligence from presentation so dashboards and APIs serve both audiences."
+    },
+    {
+      "url": "https://github.com/debpalash/VoiceStudio?utm_source=tldrdevops",
+      "title": "Voicestudio (GitHub Repo)",
+      "summary": "VoiceStudio is an open-source alternative to ElevenLabs that runs fully locally on user hardware. The software supports voice cloning, video dubbing, transcription, and audiobook creation in 646 languages."
+    },
+    {
+      "url": "https://github.com/xtool-org/xtool?utm_source=tldrdevops",
+      "title": "Xtool (GitHub Repo)",
+      "summary": "Xtool is a cross-platform tool that replicates Xcode functionality using open standards. It lets developers build and deploy iOS apps on Linux, Windows, and macOS. The tool can sign, install, and interact with Apple Developer Services programmatically."
+    },
+    {
+      "url": "https://planetscale.com/blog/what-gets-toasted-in-postgres?utm_source=tldrdevops",
+      "title": "What gets TOASTed in Postgres",
+      "summary": "Postgres TOAST compresses oversized variable-length values and moves them into separate storage when necessary. SQL examples show why LZ4's faster compression does not always produce smaller values or faster reads: pglz can outperform it for short previews, while uncompressed external storage can improve reads from the middle of large binary values."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/?utm_source=tldrdevops",
+      "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+      "summary": "Instagram Live now uses the open standard Media over QUIC (MoQ) protocol for live video ingest on iOS and Android. This switch moves development from Meta's in-house RUSH protocol to a shared IETF standard developed with Google, Akamai, and others. Meta says the MoQ path matched RUSH on streaming quality and reliability measures during testing."
+    },
+    {
+      "url": "https://blog.cloudflare.com/rewinding-the-exponential/?utm_source=tldrdevops",
+      "title": "Rewinding the exponential: How we keep hardware usage down",
+      "summary": "Cloudflare reduced data-pipeline traffic by moving replication downstream and applying sampling and aggregation earlier."
+    },
+    {
+      "url": "https://www.pagerduty.com/blog/chatops/stop-rewriting-the-same-update-with-ai-powered-incident-communications/?utm_source=tldrdevops",
+      "title": "Stop rewriting the same update with AI-Powered Incident Communications",
+      "summary": "PagerDuty's AI-powered Incident Communications, now in rolling general availability, uses Scribe Agent to capture bridge audio and chat across Zoom, Teams, and Meet."
+    },
+    {
+      "url": "https://cd.foundation/blog/2026/10/05/new-ai-sig/?utm_source=tldrdevops",
+      "title": "New AI Special Interest Group",
+      "summary": "The CD Foundation launched an AI Special Interest Group on defining how AI fits into CI/CD, with its first meeting on October 7 and biweekly sessions after."
+    }
+  ]
+}

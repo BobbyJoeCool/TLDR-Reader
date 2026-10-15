@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-14",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html?unlocked_article_code=1.IlE.cQEC.vtkkfVCSfSUv&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
+      "summary": "Apple's new HomeView device is a seven-inch tablet that starts at $299. It can recognize up to six members of a household and change its content based on who is using it. There is a countertop version and a version that can be mounted on a wall. The HomeView will be available for purchase starting on November 13."
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token?utm_source=tldrnewsletter",
+      "title": "Google makes Gemini 4 Argon broadly available with limited-time low API pricing of 2/10 per 1M token",
+      "summary": "Google's flagship Gemini 4 Argon multimodal language AI model is now broadly available. Developers and enterprises now have a powerful new option for software engineering, financial analysis, legal work, cybersecurity, and scientific research. API prices have been discounted substantially for a limited time. Argon is available through the paid Gemini API, Google AI Studio, Antigravity, eligible Gemini Enterprise subscriptions, and to Google AI Pro and Ultra subscribers through the Gemini app and AI Mode in Search."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-13/spacex-plan-to-launch-456-starships-a-year-in-texas-under-review?utm_source=tldrnewsletter",
+      "title": "SpaceX Plan to Launch 456 Starships a Year in Texas Under Review",
+      "summary": "SpaceX plans to perform as many as 456 launches and 912 landings at its Texas facility each year. The company's CEO, Elon Musk, has been open about the company's intent to launch Starship as rapidly as possible in the future. He has claimed that, in less than a decade, SpaceX will be able to launch Starship more than once every hour. SpaceX recently announced plans to invest as much as $100 billion to build a massive launch site in southern Louisiana to support rapid Starship launches."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/?utm_source=tldrnewsletter",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "summary": "Science Corporation's vision-restoring chip, PRIMA, is commercially available in Europe for patients who have lost their sight to an advanced form of age-related macular degeneration, but the company believes its approach can be applied to multiple diseases. It recently implanted the chip in a patient with Stargardt disease, an inherited eye disease that gradually destroys central vision. The company's work with PRIMA is part of a broader pursuit of a novel brain-computer interface. It envisions a future where BCIs expand into a wide range of medical technology applications rather than just being used to control computers."
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control?utm_source=tldrnewsletter",
+      "title": "Redesigning source control at Anthropic",
+      "summary": "Anthropic was being bottlenecked by developer infrastructure built for human scale, so it built an in-house version control system called Scion to support its next stage of growth, and fully migrated its monorepo from git in five months. It also built and shipped a code review surface, code search, a rich source control IAM system, novel ways of managing and landing large amounts of reviewed code, and more, all in that same time period. Anthropic averaged about 2,500 code changes merged per day in May. It now merges over 30,000 per day, and the rate of growth isn't expected to slow down anytime soon."
+    },
+    {
+      "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/?utm_source=tldrnewsletter",
+      "title": "How to be more ambitious: A tutorial for humans with models",
+      "summary": "There are four types of ambition. Speed gets the same work done in less time. Altitude involves going up in abstraction and considering the outcome rather than the individual task. Depth considers a task the way a field-leading expert would, going one level deeper and touching the underlying data, tools, and problems. Range draws on multiple fields rather than just the one the task might need at the surface using knowledge, tools, and techniques you normally wouldn't."
+    },
+    {
+      "url": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along?utm_source=tldrnewsletter",
+      "title": "Were we blue-collar workers all along?",
+      "summary": "Blue-collar workers typically do the hands-on labor of making or fixing stuff. Software developers have tried to separate themselves from this category, but they also make or fix stuff, just in bits rather than atoms. Just like electricians or carpenters, software developers must spend years practicing their craft in order to become skilled and sought-after. Just like anyone else in a skilled trade, software engineers can be outpaced by technology."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html?unlocked_article_code=1.IlE.2dS1.0tjJ0NPwfkW5&smid=url-share&utm_source=tldrnewsletter",
+      "title": "FBI Arrests OpenAI Employee Accused of Planting Bug in Office",
+      "summary": "OpenAI discovered a hidden recording device in one of its offices recently. It was traced to Abdulrahman Alfozan, a Saudi Arabian national who joined the company's product team in July 2025 as an engineer. He was arrested by the FBI. The device was built to evade detection and used advanced encryption. It could monitor audio and had a way to transfer data without being noticed."
+    },
+    {
+      "url": "https://crossingriver.substack.com/p/silicon-valley-seen-from-beijing?utm_source=tldrnewsletter",
+      "title": "Silicon Valley, Seen from Beijing",
+      "summary": "Researchers at frontier labs in the Bay Area say they can't beat the Chinese models."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/?utm_source=tldrnewsletter",
+      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+      "summary": "Ithaca Holdings will make Bumble private to rethink the online dating experience, away from the pressure of public markets."
+    },
+    {
+      "url": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html?utm_source=tldrnewsletter",
+      "title": "Are Harnesses Worth the Cost?",
+      "summary": "A behavioral harness is not an automatic win for every model on every task."
+    },
+    {
+      "url": "https://www.tanayj.com/p/the-rise-of-deploycos?utm_source=tldrnewsletter",
+      "title": "The Rise of DeployCos",
+      "summary": "Deployment companies are entities whose job it is to embed engineers inside enterprises to help them adopt AI agents and get them working in actual workflows."
+    },
+    {
+      "url": "https://www.experimental-history.com/p/claude-dont-touch-my-lump?utm_source=tldrnewsletter",
+      "title": "Claude, don't touch my lump",
+      "summary": "We only live half of our existence in the present - the other half we spend in tomorrow, or tomorrow's tomorrow."
+    },
+    {
+      "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/?utm_source=tldrnewsletter",
+      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+      "summary": "AI Studio users will soon be able to send apps to a personal library on the Play Store accessible from the app store clients on their devices."
+    }
+  ]
+}

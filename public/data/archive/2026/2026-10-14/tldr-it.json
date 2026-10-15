@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-14",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/?utm_source=tldrit",
+      "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "summary": "Microsoft has announced plans to expand its Azure Maia custom silicon system to multi-gigawatt deployments starting in 2027, making Maia the primary inference system for its products. Maia 200 is currently in production for workloads such as Microsoft Copilot, while the upcoming Maia 300 architecture is designed to deliver significant efficiency and throughput gains for long-context and multi-step agentic AI tasks."
+    },
+    {
+      "url": "https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622?utm_source=tldrit",
+      "title": "Intel optimizes IPv6 networking into nothingness, say users",
+      "summary": "Users are reporting IPv6 connectivity failures linked to Intel Connectivity Performance Suite, causing intermittent problems with services including OneDrive and OneNote. Removing or updating the problematic software has resolved reported issues, highlighting how vendor networking utilities can create difficult-to-diagnose enterprise connectivity problems."
+    },
+    {
+      "url": "https://scienceisneato.substack.com/p/human-pr-review-is-next?utm_source=tldrit",
+      "title": "Human PR Review is Next",
+      "summary": "AI-generated code is making traditional line-by-line human PR reviews less practical, shifting quality assurance toward automated checks, guardrails, and test-driven verification. Developers can maintain code quality without reading the implementation by using pre-code rules, multi-model review bots, and user acceptance testing."
+    },
+    {
+      "url": "https://jhellerstein.github.io/blog/no-room-for-bugs/?utm_source=tldrit",
+      "title": "No Room for Bugs",
+      "summary": "Software-correctness tools reduce the space for bugs through three approaches: raising the floor with correct-by-construction features like type systems and memory safety, pushing the walls inward with verification tools like SMT solvers, and detecting remaining bugs through model checking and fuzzing. Tools that rely on separate models risk implementation drift, where the model no longer matches the actual code. Hydro addresses this limitation by running correctness checks directly against deployed code."
+    },
+    {
+      "url": "https://www.cio.com/article/4232788/6-it-wins-to-deliver-before-the-year-ends.html?utm_source=tldrit",
+      "title": "6 IT wins to deliver before the year ends",
+      "summary": "IT leaders share the initiatives they are prioritizing in the final quarter, from delivering previously committed projects to demonstrating measurable business value. The recommendations emphasize finishing meaningful work, improving productivity, and establishing credibility for next year's investments."
+    },
+    {
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-introduces-vmware-hyperarmor-expanding-hypervisor?utm_source=tldrit",
+      "title": "Broadcom Introduces VMware HyperArmor, Expanding Hypervisor Security and Protections for VMware Cloud Foundation",
+      "summary": "Broadcom's VMware HyperArmor protects VMware Cloud Foundation hypervisors against AI-accelerated cyberattacks, stolen credentials, and unpatched vulnerabilities. It combines virtual patching, application allowlisting, and hypervisor-level MFA to block threats without requiring downtime, software upgrades, or guest VM agents."
+    },
+    {
+      "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx?utm_source=tldrit",
+      "title": "Workday to Acquire C1.ai, a Leading Agentic Identity Platform for People and Agents",
+      "summary": "Workday has announced an agreement to acquire C1.ai, expanding into identity governance for employees and AI agents. The proposed integration would connect employee lifecycle events directly to application provisioning, permission changes, and access removal across enterprise systems."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891?utm_source=tldrit",
+      "title": "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks",
+      "summary": "Apple researchers have developed Minions, a distributed system that pools unused GPU capacity across Apple Silicon Macs for AI workloads. The approach has reportedly reduced some internal inference job wait times from more than ten hours to minutes."
+    },
+    {
+      "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch?utm_source=tldrit",
+      "title": "Can we change an AI model's architecture without retraining it from scratch?",
+      "summary": "Amazon Web Services researchers have introduced priming, a method that reuses pretrained Transformer weights to reduce the pretraining cost of hybrid state space models by over 99%. The technique addresses the Transformer memory tax by replacing certain attention layers with state space layers like Gated KalmaNet, which researchers found can match source Transformer reasoning benchmarks while decoding up to twice as quickly. To foster further research, the team released a zoo of primed hybrid models, training code, and a vLLM serving plugin under the Apache 2.0 License."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html?utm_source=tldrit",
+      "title": "Find your routine next steps on the post-meeting screen in Google Meet",
+      "summary": "Google Meet is introducing Gemini-powered post-meeting routines that can automatically draft follow-up emails and export action items to Google Tasks when meeting notes are enabled."
+    },
+    {
+      "url": "https://betterthangood.xyz/blog/chaos-or-death/?utm_source=tldrit",
+      "title": "Chaos or death",
+      "summary": "Successful AI adoption requires sustained leadership, clear decision-making, and established routines to manage growing organizational complexity, as AI makes disorder easier to create without reducing the effort needed to maintain order."
+    }
+  ]
+}
