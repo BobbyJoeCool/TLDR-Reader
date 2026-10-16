@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-16",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?st=ersj6a&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Tesla's New Roadster Takes Flight After Nearly a Decade of Delays",
+      "summary": "Tesla unveiled its second-generation Roadster sports car on Thursday by having the vehicle launch itself up a curved ramp into a controlled landing. It later leapt over five other Tesla vehicles while twisting in the air. The car is scheduled to enter production in 2028. Tesla has yet to release a price tag. The Roadster can go from a stop to 60 miles an hour in about one second, and it has a top speed of over 230 miles an hour."
+    },
+    {
+      "url": "https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops?utm_source=tldrnewsletter",
+      "title": "Meta unveils Muse Spark Open, the new top US open weights model — and it runs on two paired Mac desktops",
+      "summary": "Muse Spark Open is an 816-billion-parameter open-weight model that can run on relatively affordable consumer hardware. Meta's benchmark tests used a pair of M5 Ultra Mac Studios with an unknown memory configuration. The model uses a mixture-of-experts design and activates 42 billion parameters for each token. It supports a context of up to 1 million tokens and accepts text, images, video, and audio, but only outputs text."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/?utm_source=tldrnewsletter",
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "summary": "Google Quantum AI has demonstrated that 'magic state cultivation' works in practice on its Willow processor. Magic states help researchers create the operations they need for going beyond classical computing. Creating high-quality, error-corrected magic states is incredibly resource-heavy. This post details how Google Quantum AI created a magic state cultivation protocol that achieved a 40-fold reduction in errors. The breakthrough is a crucial step towards scaling up quantum computing to practical use."
+    },
+    {
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot?utm_source=tldrnewsletter",
+      "title": "How to Train Your Robot",
+      "summary": "Training an AI model fundamentally requires lots and lots of examples of something being done correctly. Creating this data for training robots is expensive, and companies need a lot of data to train competent models. Large language models showed the benefits of scale when training models. Researchers are now working hard to gather enormous amounts of robot task training data in the hopes of seeing the same sort of trends with robotic capabilities."
+    },
+    {
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/?utm_source=tldrnewsletter",
+      "title": "Using Artificial Intelligence to reverse engineer hardware",
+      "summary": "Developers are using Claude to debug hardware issues. AIs can read thousands of lines of USB capture, notice sequence repeats with one byte changing, make suggestions on what that byte means, and write the tests to confirm its suggestions. A human is still required to decide what to build and check that the fix runs on real hardware, but AI takes away a lot of the slog. The post includes a link to a harness with a small set of tools that help with reverse engineering Linux drivers."
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/?utm_source=tldrnewsletter",
+      "title": "New trend of building “internal vibe-coding apps” at tech companies",
+      "summary": "Tech companies are building internal vibe-coding tools for non-engineers. It's not that complicated, it gets higher adoption than vendor products, and it helps build out more AI intra expertise in-house. Building an internal vibe-coding tool is a tiny investment that can result in better, more custom tools than with vendor products, and companies don't have to wait on vendors to build what's needed. It's also a lot safer to expose internal data sources to internal tools."
+    },
+    {
+      "url": "https://every.to/p/how-codex-happened?utm_source=tldrnewsletter",
+      "title": "How Codex Happened",
+      "summary": "Codex started as a scrappy effort to build an AI software engineer. The team building it had launched a version in the cloud, but it didn't find product-market fit. OpenAI took the project and made it the centerpiece of its comeback. This post tells the inside story of how Codex was created."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html?utm_source=tldrnewsletter",
+      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "summary": "CoreWeave has taken on more than $51 billion of debt and obligations to finance its AI infrastructure buildout. Stock and bond investors are now showing signs of being concerned about AI overspending and debt levels. Yields on CoreWeave debt continue to climb. The spread on its five-year credit default swaps has soared. No one is questioning whether demand for CoreWeave's services is real, but the cash flow needs to arrive to justify all of the capex spending."
+    },
+    {
+      "url": "https://lemire.me/blog/2026/10/15/redis-now-has-compressed-bitmaps-roaring/?utm_source=tldrnewsletter",
+      "title": "Redis now has compressed bitmaps (Roaring)",
+      "summary": "Compressed bitmaps store a set of integers in a form that takes little room when the set is sparse."
+    },
+    {
+      "url": "https://fintechtakes.com/articles/2026-10-15/moneys-public-cloud-moment/?utm_source=tldrnewsletter",
+      "title": "Money's Public Cloud Moment",
+      "summary": "Stablecoins are the public cloud moment for global money movement."
+    },
+    {
+      "url": "https://time.com/collection/best-inventions/2026/apple-iphone-duo/?utm_source=tldrnewsletter",
+      "title": "John Ternus Is Engineering a New Era for Apple",
+      "summary": "Ternus has so far played to his own strengths rather than trying to replicate his forerunners' styles of success."
+    },
+    {
+      "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/?utm_source=tldrnewsletter",
+      "title": "The Cost of Getting a Job Today",
+      "summary": "Every job expects employees to be able to use AI, but using AI costs money, which adds pressure when job seeking."
+    },
+    {
+      "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space?utm_source=tldrnewsletter",
+      "title": "Open-sourcing SPACE, the sandbox platform behind Computer",
+      "summary": "Perplexity's SPACE provides a foundation for building safer agent systems."
+    },
+    {
+      "url": "https://avdi.codes/lies-damn-lies-and-github-stars/?utm_source=tldrnewsletter",
+      "title": "Lies, Damn Lies, and GitHub Stars",
+      "summary": "Repositories used to only pile up GitHub stars if they were genuinely in widespread use over a long period of time, but influencers can make something look real when it isn't."
+    }
+  ]
+}

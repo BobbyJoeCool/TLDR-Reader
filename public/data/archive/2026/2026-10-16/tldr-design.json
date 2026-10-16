@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-10-16",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://ux-news.com/google-play-redesign-car-displays/?utm_source=tldrdesign",
+      "title": "Google Play Redesign Adapts to Car Displays",
+      "summary": "Google's redesigned Play Store for cars with Google built-in adapts to different display sizes and orientations, rolling out automatically over the coming weeks. Entertainment collections for parked use sit apart from driving-related options, and a left-side rail becomes a top bar in portrait. YouTube Premium subscribers get background audio when the car shifts into drive, and Firefox and STARZ join the lineup."
+    },
+    {
+      "url": "https://mashable.com/tech/adobe-creative-suite-clone-app-maker-takes-on-microsoft-office?utm_source=tldrdesign",
+      "title": "Adobe Software Dupe Maker Takes on Microsoft Office, Releasing Free Versions of Word, PowerPoint, and Excel",
+      "summary": "A developer who used AI to recreate Adobe's creative apps in Rust as free, open-source tools is now taking on Microsoft Office. WordCraft, DeckCraft, and GridCraft arrive as free stand-ins for Word, PowerPoint, and Excel under the ArtCraft brand. Some subreddits removed posts over cybersecurity and ethics concerns about AI-generated code. Supporters frame the apps as a protest against Adobe's subscription tactics."
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/15/opera-air-gets-a-minimalist-makeover-with-a-focus-on-distraction-free-browsing/?utm_source=tldrdesign",
+      "title": "Opera Air gets a minimalist makeover with a focus on distraction-free browsing",
+      "summary": "Opera Air has been redesigned around distraction-free browsing, using a cleaner interface that keeps additional tools hidden until they are needed. New wallpapers use open spaces, perspective, and natural textures that adapt to light and dark themes, while built-in Soundscapes combine ambient sounds and original music to encourage focus or relaxation. The browser also includes customizable break reminders, breathing exercises, neck stretches, an ad blocker, and a free VPN while allowing messaging and social apps to remain accessible through the sidebar."
+    },
+    {
+      "url": "https://marieclairedean.substack.com/p/the-car-is-fast-the-driver-is-not?utm_source=tldrdesign",
+      "title": "Critique in the AI Era",
+      "summary": "AI can produce twelve credible variations before the coffee cools, so the design crit should become a debrief, like an F1 team studying telemetry over finishing position. Teams ask about reasoning, friction with the model and verification, and also critique the setup: briefs, constraints, and rubrics. AI critics tend to agree with the designer, and great AI-first designers sense limits, give precise feedback, and know when to override the model."
+    },
+    {
+      "url": "https://microsoft.design/articles/scaling-the-design-process/?utm_source=tldrdesign",
+      "title": "Scaling the Design Process",
+      "summary": "Static personas capture real-world complexity poorly in intelligence-driven products, where outcomes are probabilistic and vary across people and contexts. AI lets teams build products that adapt to individual users at scale, which means designing for a spectrum of outcomes."
+    },
+    {
+      "url": "https://agentic.littleplains.com/?utm_source=tldrdesign",
+      "title": "Agentic Systems Are the Future of Brands",
+      "summary": "Traditional brand guidelines struggle when teams and AI agents must constantly make decisions that were never explicitly documented, causing otherwise competent work to gradually drift toward generic outcomes. Agentic brand systems can instead encode decisions about voice, color, typography, layout, components, and behavior into structured, machine-readable instructions that both humans and agents can apply directly. As AI dramatically increases the volume and speed of production, documenting not just what a brand looks like but why and how its decisions should be made becomes essential for maintaining coherence."
+    },
+    {
+      "url": "https://davedavies.dev/state-of-ecommerce-accessibility/?utm_source=tldrdesign",
+      "title": "State of Ecommerce Accessibility 2026 (Website)",
+      "summary": "A benchmark of automated accessibility findings from 59,400 product-page audits, one page per store."
+    },
+    {
+      "url": "https://www.aidesign.guide/design-systems?utm_source=tldrdesign",
+      "title": "Design Systems Directory (Website)",
+      "summary": "The Design Systems Directory catalogs more than 180 design systems, component libraries, and UI toolkits with filters for technology, industry, accessibility, Figma support, design tokens, AI guidance, MCP, skills, and llms.txt."
+    },
+    {
+      "url": "https://recent.design/?utm_source=tldrdesign",
+      "title": "A Daily Curation of Exceptional Design, Websites and Tools (Website)",
+      "summary": "Recent Design is a curated platform that focuses on the latest trends in web, interface, and interaction design."
+    },
+    {
+      "url": "https://www.designweek.co.uk/studio-herrstrom-draws-on-car-culture-and-carton-typography-for-milkshake-rebrand/?utm_source=tldrdesign",
+      "title": "STUDIO HERRSTRÖM rebrands Sony Music imprint Milkshake",
+      "summary": "Studio Herrström's identity for Sony Music imprint Milkshake combines references from car culture, flavored drinks, and pop music into a single energetic visual language. The original splash mark has been redrawn as a rounded emblem inspired by fluid, metal, and reflections, accompanied by neon pinks, high-vis yellows, asphalt blacks, soft lilacs, and the neo-grotesque Gates typeface. Information layouts borrow from car window permits and milk carton nutrition tables, creating structured containers for track titles, release dates, copyright information, and other details across digital and promotional materials."
+    },
+    {
+      "url": "https://ishadeed.com/article/fit-height-background-pattern-calc-size/?utm_source=tldrdesign",
+      "title": "Fit height to background pattern size with calc-size()",
+      "summary": "CSS background patterns can end awkwardly when a container's content produces a height that isn't an exact multiple of the background tile, while `background-repeat: round` fixes the edge by distorting the pattern itself. Combining `calc-size()` with `round()` instead lets the browser calculate the element's natural height and round it up to the nearest multiple of the tile height. The result behaves similarly to `min-height`, preserving both the content-driven size and the original pattern proportions, though browser support remains limited."
+    },
+    {
+      "url": "https://graphicdesignjunction.com/2026/10/turn-ai-generated-logo-into-professional-logo/?utm_source=tldrdesign",
+      "title": "How to Turn an AI-Generated Logo into a Professional Logo",
+      "summary": "AI-generated logos work as starting concepts, not finished brand assets, and need real editing before professional use."
+    },
+    {
+      "url": "https://thedesignersfieldguide.substack.com/p/how-any-designer-can-build-a-more?utm_source=tldrdesign",
+      "title": "How Any Designer Can Build a More Open Design Culture at Work",
+      "summary": "Designers at any level can build a more open design culture by creating psychological safety one conversation at a time."
+    }
+  ]
+}

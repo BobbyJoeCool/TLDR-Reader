@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-16",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/technology/google-warns-suspected-china-linked-hackers-could-exploit-beyondtrust-flaw-2026-10-15/?utm_source=tldrit",
+      "title": "Google warns suspected China-linked hackers could exploit BeyondTrust flaw",
+      "summary": "Google warned of potential widespread exploitation of a BeyondTrust Remote Support flaw already used in targeted attacks in August. BeyondTrust says its hosted services have been patched. Self-hosted customers should apply the relevant BT26-05 patches immediately, including the precautionary patch for Privileged Remote Access."
+    },
+    {
+      "url": "https://blogs.windows.com/windowsexperience/2026/10/15/whats-new-in-windows-11-everyday-experiences-reimagined/?utm_source=tldrit",
+      "title": "What's new in Windows 11: Everyday experiences, reimagined",
+      "summary": "Microsoft's latest Windows announcement emphasizes lower memory use, more reliable Bluetooth and sign-in, and fewer disruptive restarts. A redesigned Search experience also lets users change settings directly from search results, but that feature is currently limited to Windows Insiders, with broader rollout planned later this year."
+    },
+    {
+      "url": "https://www.normaltech.ai/p/steering-ai-beyond-automation?utm_source=tldrit",
+      "title": "Steering AI Beyond Automation",
+      "summary": "AI research focuses too heavily on replacing human work rather than helping people do it better. This post proposes systems that make their processes easier to inspect, respond quickly enough for real-time collaboration, and let people continuously guide the work instead of merely reviewing the final output."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot?utm_source=tldrit",
+      "title": "AI Safety Is Not A Corporate Plot",
+      "summary": "AI safety warnings cannot simply be dismissed as corporate marketing or attempts to block competition. Commercial incentives do not automatically invalidate genuine safety concerns."
+    },
+    {
+      "url": "https://www.cio.com/article/4234871/it-reinvention-requires-mastering-the-art-of-translation.html?utm_source=tldrit",
+      "title": "IT reinvention requires mastering the art of translation",
+      "summary": "Technical accomplishments gain business credibility only when their impact is clear. Fewer system incidents should be described not just as an operational improvement, but as reduced disruption, lower recovery costs, and protection for the company's earnings and customer experience."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html?utm_source=tldrit",
+      "title": "Gmail's AI Inbox is rolling out to paid Workspace users",
+      "summary": "Google is expanding AI Inbox to eligible paid Workspace users, surfacing suggested tasks and summaries of important email topics. Availability is initially US-English only: Rapid Release began October 12, Scheduled Release begins October 26, and Starter and Education editions will follow later. Google lists no feature-specific admin control."
+    },
+    {
+      "url": "https://x.ai/news/grok-voice-3?utm_source=tldrit",
+      "title": "Introducing Grok Voice 3.0",
+      "summary": "Grok Voice 3.0 is available through the Voice Agent API at $0.08 per minute, with the company reporting sub-second latency and improved voice-agent performance. Applications using grok-voice-latest have already been switched to the new model automatically, a detail worth checking for teams running production voice workflows."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4235901/apples-minions-tech-turns-idle-macs-into-an-ai-data-center.html?utm_source=tldrit",
+      "title": "Apple's ‘Minions' tech turns idle Macs into an AI data center",
+      "summary": "Apple's internal Minions system pools spare processing capacity across Macs to run AI inference jobs, returning interrupted tasks to a queue when a device becomes unavailable. It suggests another use for existing employee hardware, but this remains an internal Apple technology, not a publicly available product or an announced enterprise service."
+    },
+    {
+      "url": "https://www.theregister.com/software/2026/10/15/tinylittleoffice-where-the-link-is-the-document/5303328?utm_source=tldrit",
+      "title": "TinyLittleOffice, where the link is the document",
+      "summary": "TinyLittleOffice squeezes documents, spreadsheets, and presentations into the URL itself rather than storing a conventional file on a server. It is a clever lightweight approach to sharing, although links can become unwieldy, images and video cannot be uploaded, and there is no Google Docs-style live collaboration."
+    },
+    {
+      "url": "https://blog.cloudflare.com/programmable-gateway-dlp/?utm_source=tldrit",
+      "title": "A fully programmable secure web gateway",
+      "summary": "Cloudflare's new Forward action lets teams run custom code on web traffic to build access-justification pages, modify requests, or trigger Slack alerts without maintaining separate proxy servers. Forward is in public beta, while custom functions for gateway policy decisions are expected before year-end. Separate custom validation for data loss prevention is available now, including checks to determine whether a detected credential is actually active."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/?utm_source=tldrit",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "summary": "Figma rolled out a Markdown-based editor called Specs at its first Config event in India, handing teams one document that spells out design language for human designers and AI agents alike."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html?utm_source=tldrit",
+      "title": "Gmail Live is rolling out to paid Workspace users",
+      "summary": "Gmail Live brings conversational voice search to eligible US-English Workspace users on mobile."
+    }
+  ]
+}

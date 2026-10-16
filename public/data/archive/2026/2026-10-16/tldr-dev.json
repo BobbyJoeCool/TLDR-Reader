@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-16",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitalocean.com/blog/microvm-architecture?utm_source=tldrdev",
+      "title": "Building a computer that can pause and resume in milliseconds: Inside the MicroVM architecture behind Managed Agents",
+      "summary": "DigitalOcean's Firecracker platform separates agent sessions from their hosts using checkpointed disk, memory, and virtual-device state, with lazy loading to avoid downloading whole snapshots before resuming. Internal tests report under 200 milliseconds at p50 on the warm-template path, while external connections and API side effects remain outside the checkpoint."
+    },
+    {
+      "url": "https://www.nibzard.com/agent-computer?utm_source=tldrdev",
+      "title": "Build the agent. Don't build its computer",
+      "summary": "Agent teams should specify their execution environment, test recovery on real workloads, and start with managed infrastructure unless ownership offers a concrete advantage. The evaluation checklist covers persistent files, expired logins, interrupted external actions, access boundaries, and cost per accepted result."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/?utm_source=tldrdev",
+      "title": "How Meta Built Forum With AI-Native Engineering",
+      "summary": "Meta built Forum with agents participating in planning, implementation, testing, and verification while engineers retained architectural judgment and final sign-off. The team improved results through simpler code, tools that inspect live app state, repeatable UI stress tests, and a separate build that excludes prototype code from production."
+    },
+    {
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/?utm_source=tldrdev",
+      "title": "What I Self-Host",
+      "summary": "A home server runs 28 services, including Jellyfin, Immich, Home Assistant, and Vaultwarden, on a mini PC with 16 GB of RAM. The setup favors simple native services and systemd-managed Podman containers, keeps services behind a VPN, and rejects tools whose operational complexity outweighs their value."
+    },
+    {
+      "url": "https://efp.asia/blog/2026/10/15/code-is-a-commodity-now/?utm_source=tldrdev",
+      "title": "Code Is a Commodity Now",
+      "summary": "Cheaper code generation could push software agencies away from selling development hours and toward domain expertise, product judgment, and accountability for outcomes. The essay argues that smaller generalist teams and changing hiring signals follow from this shift, while acknowledging mixed productivity evidence and the cost of verifying changes in mature codebases."
+    },
+    {
+      "url": "https://cutler.sg/blog/2026-10-measure-agent-review-time?utm_source=tldrdev",
+      "title": "How to Measure the Human Cost of Agent Work",
+      "summary": "Measure agent workflows by the human effort and agent spend required to reach an accepted result, including time spent briefing, supervising, reviewing, correcting, and verifying the work. Keep failed attempts and manual rescues in the totals so successful tasks do not hide the cost of unsuccessful ones. Track quality and later defects alongside time, and compare similar tasks under the same acceptance criteria before claiming productivity gains."
+    },
+    {
+      "url": "https://blog.cloudflare.com/deploy-with-void?utm_source=tldrdev",
+      "title": "Deploy with Void",
+      "summary": "Void combines an open-source deployment platform, SDK, and CLI to bring full-stack development and Cloudflare deployment into a Vite workflow. It infers resource bindings and provisions infrastructure during deployment, while the shared platform lets administrators control team access, resource limits, and deployments."
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-spark-open?utm_source=tldrdev",
+      "title": "Muse Spark Open",
+      "summary": "Meta has released Muse Spark Open, a multimodal model with 816 billion total parameters, 42 billion active parameters, and a one-million-token context window. It supports coding and agentic workflows through hosted APIs or local inference, including on two M5 Ultra Mac Studios, with weights available under a license that includes limited commercial terms."
+    },
+    {
+      "url": "https://devin.ai/blog/introducing-devin-oncall?utm_source=tldrdev",
+      "title": "Introducing Devin Oncall",
+      "summary": "Devin Oncall is generally available for investigating and remediating production issues, using company-specific skills and memory alongside a coding agent. Responders group related alerts and skip known issues, while an asynchronous review agent challenges unsupported diagnoses and premature conclusions."
+    },
+    {
+      "url": "https://planetscale.com/blog/leaky-buckets-in-software-explained?utm_source=tldrdev",
+      "title": "What today's software owes to Bronze Age clocks",
+      "summary": "Leaky buckets provide cheap admission control by calculating available capacity from a stored level and timestamp whenever new work arrives. The article connects this approach to API rate limits and PlanetScale's Postgres Traffic Control, which uses resource budgets to admit or block queries before execution and recommends testing budgets in warning mode first."
+    },
+    {
+      "url": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design/?utm_source=tldrdev",
+      "title": "How Close Are We To Fully Autonomous Chip Design?",
+      "summary": "Synopsys describes using orchestrated task agents to turn specifications into verified RTL, while full autonomy through physical implementation and chip sign-off remains a goal. Human engineers still define architectures and approve manufacturing, with advanced packaging and physical AI adding demands for coordinated multiphysics analysis."
+    },
+    {
+      "url": "https://every.to/p/how-codex-happened?utm_source=tldrdev",
+      "title": "How Codex Happened",
+      "summary": "Codex emerged from parallel efforts in research automation and coding-product design, followed by a pivot after the initial cloud product struggled to find traction. The account traces the shift toward local workflows, a shared Rust agent core, and models trained for interactive work in messy codebases."
+    },
+    {
+      "url": "https://www.dainemawer.com/shared-typescript-nextjs-expo-monorepo?utm_source=tldrdev",
+      "title": "Sharing a TypeScript Domain Layer Between Next.js and Expo",
+      "summary": "A shared TypeScript domain layer gives Next.js and Expo common types, validation schemas, and an API client while keeping platform-specific behavior inside each app."
+    },
+    {
+      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026?utm_source=tldrdev",
+      "title": "Open weight takes 71.5% of tokens and 23% of spend",
+      "summary": "Vercel's October AI Gateway index reports that open-weight models handled 71.5% of September tokens and 23% of estimated spend, while average price per token fell 47% from December."
+    },
+    {
+      "url": "https://bra31k.dev/en/blog/same-bytes-17-percent-faster/?utm_source=tldrdev",
+      "title": "How we made a 9 MB WebAssembly module feel faster without removing a single byte",
+      "summary": "Earlier loading, preload hints, and shared initialization promises made a 9.2 MB Skia WebAssembly module render its first canvas roughly 17% to 18% faster in the reported A/B test without meaningfully shrinking the download."
+    },
+    {
+      "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/?utm_source=tldrdev",
+      "title": "Mo' turns, mo' problems",
+      "summary": "Long agentic reinforcement-learning rollouts make harness state, tool-call serialization, branching trajectories, and numerical differences between inference and training harder to keep consistent."
+    }
+  ]
+}

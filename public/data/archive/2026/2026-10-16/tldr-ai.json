@@ -1,0 +1,83 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-10-16",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://research.meta.ai/blog/muse-spark-open?utm_source=tldrai",
+      "title": "Muse Spark Open",
+      "summary": "Muse Spark Open is an 816B-parameter multimodal open-weight model with 42B active parameters and a 1M-token context window. It was designed for coding and long-horizon agentic tasks and can run locally across two Apple M5 Ultra Mac Studios using MLX."
+    },
+    {
+      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/?utm_source=tldrai",
+      "title": "Inside Microsoft's Frontier Pre-Training Stack",
+      "summary": "Microsoft detailed the training of MAI-Base-2, a 2.8T-parameter mixture-of-experts model with 80B active parameters that it said surpassed every open-weight model in its held-out pre-training evaluations. The deep dive covers its data strategy, compute efficiency, full-stack infrastructure, and Microsoft's plans to turn internally trained frontier models into enterprise offerings through Foundry."
+    },
+    {
+      "url": "https://www.liquid.ai/blog/d1-ultra?utm_source=tldrai",
+      "title": "d1-ultra: Introducing the World's Best Decision Model",
+      "summary": "Liquid AI's d1-ultra is a multimodal decision model designed for complex real-world tasks like detecting defects on circuit boards. The model processes text and images and provides better-calibrated answers and higher accuracy than previous models like Jev 1.14. Available on the Liquid API, d1-ultra is priced at $0.042 per million input tokens and will soon be accessible via Vercel and OpenRouter."
+    },
+    {
+      "url": "https://already-clean.goodfire.com/?utm_source=tldrai",
+      "title": "Neural Networks Are Already Clean",
+      "summary": "The cause of polysemanticity in early model organisms was thought to be superposition. This convinced much of the field that networks pack concepts arbitrarily, but what looked like arbitrary packing was mostly recursive generalization, which is less concerning. This means networks can be studied directly, instead of needing to be untangled first. The outlook for mechanistic interpretability may be far better than we thought."
+    },
+    {
+      "url": "https://richardli.xyz/post/gradient-is-covariance/?utm_source=tldrai",
+      "title": "The Gradient Is a Covariance",
+      "summary": "Reinforcement learning, on-policy distillation, and supervised fine-tuning on near-policy data change only a small fraction of parameters. Small and sparse are different claims. The expected gradient is a covariance, the Fisher is a variance, and the Fisher caps the gradient for any reward. At one position, the Fisher is the variance of logit sensitivities: whatever moves every candidate together counts for nothing. None of this needs on-policy sampling - it needs a score centered under the sampling distribution."
+    },
+    {
+      "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/?utm_source=tldrai",
+      "title": "Mo' turns, mo' problems",
+      "summary": "Doing reinforcement learning for agent use-cases is conceptually not at all that complicated. For each problem, you set up a VM with a harness and a fresh model context, send the prompt, let the model make tool calls, score the whole thing at the end, and update the weights. Agentic post-training means there's more than the model to consider. Even when the harness is consistent, you can still go off-policy with the trajectories themselves. Agents spawn subagents, make parallel tool calls, and compact large sessions, which adds complexity."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/?utm_source=tldrai",
+      "title": "Nvidia released Nemotron 3.5 Super VL",
+      "summary": "Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model that scored 26.5 on Artificial Analysis' Intelligence Index while using substantially fewer output tokens than its predecessor. The company also introduced the smaller Nemotron 3.5 Bolt 74B-A9B and near-lossless NVFP4 quantized weights."
+    },
+    {
+      "url": "https://www.krea.ai/krea-3?utm_source=tldrai",
+      "title": "Krea 3 (Website)",
+      "summary": "Krea 3 is an image editing model built for production. It can finish an edit in under eight seconds, costing only $0.06 per image. The model was built for production and is four times faster than Nano Banana Pro. It can combine up to eight references into one picture."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2110797830361436604.html?utm_source=tldrai",
+      "title": "GPT-Live-1.1",
+      "summary": "GPT-Live-1.1 features new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese. The voices have better accents, and there is less 'checking'. The model is available in ChatGPT, Codex, and dots. It is rolling out now to all users and coming soon to the API."
+    },
+    {
+      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026?utm_source=tldrai",
+      "title": "Open weight takes 71.5% of tokens and 23% of spend",
+      "summary": "Open-weight models now process more than seven in ten gateway tokens and account for nearly one in four dollars. Their share of spend has more than quadrupled since June. Almost one in three teams changed their most-used lab in September, an index record. Jev was the fastest-adopted model in AI Gateway history, but it only accounted for about 0.27% of gateway spend."
+    },
+    {
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators?utm_source=tldrai",
+      "title": "Anthropic Expanded Independent Access to Its AI Safety Work",
+      "summary": "Anthropic began giving METR employee-like access to models, training information, safeguards, and other internal material so it could independently assess frontier-model risks and publish its conclusions."
+    },
+    {
+      "url": "https://bfl.ai/blog/flux-3-image-klein?utm_source=tldrai",
+      "title": "FLUX 3 Image Klein",
+      "summary": "Black Forest Labs released FLUX 3 Image Klein, a 5.6B-parameter open-weight model that supports text-to-image generation, editing, native 4K output, and up to 10 reference images."
+    },
+    {
+      "url": "https://every.to/p/how-codex-happened?utm_source=tldrai",
+      "title": "How Codex Happened",
+      "summary": "OpenAI's Codex evolved from a failed cloud launch to becoming the cornerstone of OpenAI's products, gaining over 40 million weekly users."
+    },
+    {
+      "url": "https://x.com/_chenglou/status/2110557373651931267?utm_source=tldrai",
+      "title": "Introducing Handwired: JavaScript as Neural Networks",
+      "summary": "Handwired converts ordinary JavaScript code into neural networks that reproduce exact program outputs without training or GPUs."
+    },
+    {
+      "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space?utm_source=tldrai",
+      "title": "Perplexity Open-Sourced Its Agent Sandbox",
+      "summary": "Perplexity has open-sourced SPACE, the sandbox infrastructure behind its Computer agent."
+    }
+  ]
+}

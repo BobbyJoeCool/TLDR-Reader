@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-10-16",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.engadget.com/2287417/citizenlab-details-new-spyware-triggered-by-online-advertising/?utm_source=tldrmarketing",
+      "title": "CitizenLab details new spyware triggered by online advertising",
+      "summary": "Discover-Tech, an Israeli firm presenting itself as an ad vendor, displayed 442 million ads on more than 120,000 websites and apps, including the BBC, The New York Times, and Duolingo. Some of those ads carried zero-click spyware that infected phones and computers simply by appearing on screen, with targets ranging from Al Jazeera journalists to NATO and NVIDIA staff. It is the first confirmed case of government-backed zero-click spyware delivered through online ads. Google has since blocked Discover-Tech from its ad platforms."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/2026-state-of-b2b-gtm-report?utm_source=tldrmarketing",
+      "title": "What's working in B2B GTM in 2026",
+      "summary": "Founder-led sales remains a leading GTM motion until companies reach $10M ARR. Networking and introductions rank as the most effective channel, while intimate events come second. AI search is now a core channel for 39% of B2B companies, up 11 percentage points year over year, and 41% are experimenting with it. Track whether AI tools recommend the right products and pricing. Use buying signals such as content engagement and website visits to prioritize outreach."
+    },
+    {
+      "url": "https://www.buzzstream.com/blog/how-to-pitch-local-newsrooms/?utm_source=tldrmarketing",
+      "title": "How to Pitch Local Newsrooms in the US",
+      "summary": "Local news pitches are more effective when they target the right journalist, demonstrate a clear community impact, and provide everything needed to produce the story. Local newsrooms have declined by 81% since 2002, making relevant, ready-to-use pitches especially important. Start by reviewing journalists' recent coverage, then contact assignment editors at TV stations or editors at print and digital outlets when appropriate. Tailor pitches to the format: print needs a clear story and supporting data, TV needs visuals and local people to interview, and radio needs an available guest who can speak. Include a timely local angle, relevant data, quotes, visuals, and event details, and send the pitch before the newsroom's morning planning meeting."
+    },
+    {
+      "url": "https://business.pinterest.com/en-au/blog/design-the-exit/?_sp=7b571d78-3f73-49e3-ad3e-a4deb121e1f1.1792018446862&amp;utm_source=tldrmarketing",
+      "title": "Why brands need to fuel a life, not fill a feed",
+      "summary": "Pinterest reports that 40% of Gen Z wish social media had never been invented and 63% intentionally unplug. Design campaigns that drive real-world action rather than endless scrolling. Show how a product fits into the audience's desired lifestyle instead of making the product the hero. Turn inspiration into action with personalized recommendations and specific next steps such as shopping lists or linked outfits. Remove friction with tools that help people follow through."
+    },
+    {
+      "url": "https://fatemaraja.substack.com/p/the-art-of-brand-merch?utm_source=tldrmarketing",
+      "title": "The Art of Brand Merch",
+      "summary": "People wear merch to say something about themselves, not to promote a company. A logo on a T-shirt or water bottle asks customers to carry a message without giving them a reason, and only works when the logo already means something. Strong merch does one of three jobs. It signals belonging through a recognizable color or shape, sells more product by being designed around how that product gets used, or lets in people who can't yet afford the core product."
+    },
+    {
+      "url": "https://www.audiencebridge.io/p/your-newsletter-isn-t-the-unsubscribe-problem?utm_source=tldrmarketing",
+      "title": "Your newsletter isn't the unsubscribe problem",
+      "summary": "Google Postmaster Tools evaluates unsubscribe compliance across all email systems sending from the same domain. If someone unsubscribes from a newsletter but still receives CRM or sales emails, Google may flag the domain. Sync unsubscribe lists across platforms and use distinct From addresses and List-IDs for each mailing list. Verify that every system supports one-click unsubscribes and removes recipients within 48 hours. Compliance status can take 1-2 weeks to update."
+    },
+    {
+      "url": "https://virev.ai/blog/how-long-should-a-reel-be?utm_source=tldrmarketing",
+      "title": "How long should a reel be? Under 3 minutes on Instagram, longer on TikTok",
+      "summary": "Video length barely matters on Instagram until the 3-minute mark, where recommendations to new audiences stop. Reels from 10 seconds to 3 minutes all perform within 2% of each creator's median, while longer ones fall to 0.91x. TikTok rewards length instead, with 3-to-10-minute videos earning 1.22x and beating the same creator's 10-to-19-second clips for 68% of creators."
+    },
+    {
+      "url": "https://okaneland.com/study/can-an-ai-agent-buy-from-you/?utm_source=tldrmarketing",
+      "title": "AI agents buy through your own checkout, and disputes still land on you",
+      "summary": "In-chat AI checkouts are built for physical goods sold to US buyers through big platforms. Google, Microsoft, and ChatGPT all exclude subscriptions or say nothing about them. Independent sellers instead meet agents like Amazon's Buy for Me and Meta's Muse on their own checkout pages, where guest purchase and saved-wallet support decide whether an order completes. Visa bars merchants from requiring dispute waivers on agent purchases, so chargebacks still land on the seller."
+    },
+    {
+      "url": "https://karandhir.substack.com/p/a-standing-holdout-is-the-only-audit?utm_source=tldrmarketing",
+      "title": "A Standing Holdout Is the Only Audit an Algorithm Cannot Argue With",
+      "summary": "Standing holdouts are a measurement method that reserves a portion of markets or audiences from automated ad campaigns to measure whether advertising generates incremental sales. Uber cut $100 million of its $150 million annual rider acquisition budget without reducing app installs, while Airbnb recovered to 95% of its 2019 traffic levels before resuming marketing spend. A standing holdout reserves 5% to 10% of markets and rotates them on a fixed schedule to measure advertising performance over time. Each test defines its markets, measurement period, success thresholds, and budget decisions in advance. If holdout results conflict with the platform's reported returns beyond a predefined margin, the holdout results determine budget decisions."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html?utm_source=tldrmarketing",
+      "title": "Amazon launches new Bee ‘personal AI' devices that listen to conversations",
+      "summary": "Unlike Echo, which waits for a wake word, the new devices record continuously to build conversation summaries and recurring-theme goals."
+    },
+    {
+      "url": "https://jamiewatters.work/journey/deploying-ai-what-works?utm_source=tldrmarketing",
+      "title": "Your team says AI saves them time. Here's how to find out if it does",
+      "summary": "The best way to measure AI value is to measure it against a control group."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/elainezelby_aeo-ugcPost-7516008556752699392-dXp-/?utm_source=tldrmarketing",
+      "title": "How to automate an AEO-focused blog engine (5 minute video)",
+      "summary": "A walkthrough of how Tofu fully automated its blog with a Claude agent for $63/week."
+    }
+  ]
+}

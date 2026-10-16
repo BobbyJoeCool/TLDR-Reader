@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-10-16",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://marcabraham.com/2026/10/15/personal-agents-are-getting-their-own-computers/?utm_source=tldrproduct",
+      "title": "Personal agents are getting their own computers",
+      "summary": "Personal AI agents are shifting from answering questions to performing actions in the background, utilizing dedicated virtual machines and secure payment wallets. Product success will increasingly depend on designing clear permissions, approvals, and guardrails for these agents."
+    },
+    {
+      "url": "https://www.caseyaccidental.com/p/how-pm-work-is-changing-in-the-ai?utm_source=tldrproduct",
+      "title": "How PM Work Is Changing in the AI Era",
+      "summary": "AI has transformed workflows into personalized context layers while shifting bottlenecks to design and alignment. Organizations now operate by balancing downside risks, building quickly, or optimizing AI for measurable impact."
+    },
+    {
+      "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?utm_source=tldrproduct",
+      "title": "Human in the loop means making sure the human is not out of the loop",
+      "summary": "Human-in-the-loop systems often fail when oversight is reduced to automated confirm clicks or post-hoc approvals, turning human reviewers into moral crumple zones. Effective agency design requires clear mandates, permissions-based constraints, and keeping users involved at points where they can genuinely stop runs or reverse irreversible actions."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/prd-or-prototype-which-should-you?utm_source=tldrproduct",
+      "title": "Should you start with a PRD or a prototype?",
+      "summary": "This article examines whether product teams should start with a PRD or a prototype, arguing they should evolve together in a learning loop focused on the core unknown. Although AI tools can quickly generate both, teams must maintain intentionality, aggressively curate features, and provide careful human oversight to match actual product intent."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/combining-subscriptions-physical-products?utm_source=tldrproduct",
+      "title": "5 Models for combining subscription apps with physical products",
+      "summary": "Combining physical products with digital subscriptions can significantly extend customer lifetime value when done thoughtfully. This post outlines five distinct monetization models. Leaders must balance operational complexities against customer expectations of ownership."
+    },
+    {
+      "url": "https://roark.ai/blog/voice-model-swap-pm-playbook?utm_source=tldrproduct",
+      "title": "The voice model refresh is faster than your QA cycle",
+      "summary": "Recent rapid updates to speech-to-speech voice models and automatic alias updates can unexpectedly break production voice agents without code changes. This practical eight-step playbook helps product managers safely manage model swaps, including pinning production versions, building a custom telephony-based scenario suite, and using audio-native metric scoring and traffic canaries."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-445-the-feature-factory-a-10?utm_source=tldrproduct",
+      "title": "The Feature Factory: A 10-Year Retrospective",
+      "summary": "Product teams remain trapped in false binaries, as outcome metrics replace genuine cross-functional trust. Emerging AI tools risk amplifying bad habits, like generating spec slop, rather than fixing underlying organizational issues."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zUCeaaGCRuc&utm_source=tldrproduct",
+      "title": "Before You Switch the AI Model: The Hidden Cost of \"Updating\" Models (17 minute video)",
+      "summary": "While switching to a cheaper or higher-scoring AI model seems simple, hidden revalidation costs for existing workflows can ultimately increase total operating expenses. This video explains how to properly screen model updates using an AI Definition of Done, test evidence, and accountable ownership to control operational costs."
+    },
+    {
+      "url": "https://blog.staysaasy.com/p/management-in-the-age-of-ai-44f?utm_source=tldrproduct",
+      "title": "Management in the Age of AI",
+      "summary": "Management remains essential in the AI age to address operational shifts, requiring managers to set clear expectations and focus on business outcomes."
+    },
+    {
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/?utm_source=tldrproduct",
+      "title": "Someone behind the software",
+      "summary": "Great software preserves a distinct product character and strong human perspective rather than becoming a messy collection of automated features."
+    }
+  ]
+}
