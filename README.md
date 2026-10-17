@@ -6,6 +6,27 @@ Live at: [https://happy-bush-0f619981e.7.azurestaticapps.net](https://happy-bush
 
 ---
 
+## Screenshots
+
+*Real TLDR editions; the reading list and saved articles are sample data.*
+
+![This Week: day and edition navigation with flag and save actions on every article](docs/screenshots/this-week.png)
+
+| Reading List: flagged articles with read/remove actions | Archive: pick any past date from the calendar |
+|---|---|
+| ![Reading List](docs/screenshots/reading-list.png) | ![Archive](docs/screenshots/archive.png) |
+| **Saved Articles, grouped by edition** | **Landing hub with a quick usage guide** |
+| ![Saved Articles](docs/screenshots/saved.png) | ![Landing page](docs/screenshots/landing.png) |
+
+<p align="center">
+  <img src="docs/screenshots/mobile-this-week.png" alt="This Week on a phone" width="260">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/mobile-landing.png" alt="Landing page on a phone" width="260">
+</p>
+<p align="center"><em>The mobile layout, with day/edition chips and bottom navigation.</em></p>
+
+---
+
 ## Features
 
 | Feature | Description |
