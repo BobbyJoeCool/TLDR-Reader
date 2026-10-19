@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-10-19",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/?utm_source=tldrdevops",
+      "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+      "summary": "A research pilot between Cloudflare and OpenAI has enabled the discovery and indexing of hundreds of millions of new web pages. The program used signals from roughly 1% of Cloudflare's network to help ChatGPT find content that was previously unknown. These signals identify useful pages and filter out nonexistent or duplicated content, which reduces unnecessary crawling load for site owners. Cloudflare states the metadata is used for search discovery rather than training AI models."
+    },
+    {
+      "url": "https://newrelic.com/blog/news/anthropic-otel-ai-observability?utm_source=tldrdevops",
+      "title": "Claude Platform Tracing in New Relic",
+      "summary": "The Claude Platform now exports OpenTelemetry traces natively from Claude Managed Agents, the Messages API, and the Claude SDKs in public beta. New Relic AI Monitoring reads these traces to link model performance with application data in a single view. Users can add New Relic as a destination in the Claude Console to start receiving spans within about a minute without code changes."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/?utm_source=tldrdevops",
+      "title": "Introducing Scout 1.0: A new SRE model powering Bits AI with frontier performance at a fraction of the cost",
+      "summary": "Datadog's Scout 1.0 is an AI model specialized for investigating production issues that powers its Bits AI assistant. The model matches the performance of general-purpose frontier models like GPT-6.1 Sol and Claude Opus 5.5 at three to eight times lower estimated inference cost. Datadog trained Scout using reinforcement learning on simulations built from historical incidents."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/how-datadog-defines-service-criticality-at-scale/?utm_source=tldrdevops",
+      "title": "How Datadog Defines Service Criticality at Scale",
+      "summary": "An LLM analyzed several hundred SEV-1 and SEV-2 postmortems for about USD 32 to derive four criticality signals. Services get high, low, or unknown ratings with confidence, owner overrides, and the tiers inform deployment and auto-merge decisions."
+    },
+    {
+      "url": "https://www.enterprisedb.com/blog/finding-and-fixing-silent-throughput-ceiling-postgresql?utm_source=tldrdevops",
+      "title": "Finding (and Fixing) a Silent Throughput Ceiling in PostgreSQL",
+      "summary": "PostgreSQL throughput can stall under heavy concurrent inserts even when CPU and storage have spare capacity, as writers queue behind relation extension locks. In a HammerDB benchmark, distributing writes across hash partitions reduced contention and increased throughput 7.2× on the same hardware."
+    },
+    {
+      "url": "https://platformengineering.org/blog/agent-first-idp-how-big-tech-and-the-clouds-are-preparing-platforms-for-agents?utm_source=tldrdevops",
+      "title": "Agent-first IDP: how big tech and the clouds are preparing platforms for agents",
+      "summary": "This guide outlines how to evolve an internal developer platform into an Agentic Engineering Platform (AEP) suitable for AI agents. Real-world examples from Block, Uber, Spotify, and public clouds illustrate architectural decisions like managed entry points, agent identity, and trustworthy state. The playbook describes nine practices across four maturity levels, ranging from demand discovery and machine-readable contracts to policy enforcement and domain-specific agents."
+    },
+    {
+      "url": "https://github.com/HKUDS/CLI-Anything?utm_source=tldrdevops",
+      "title": "CLI-Anything (GitHub Repo)",
+      "summary": "CLI-Anything is a tool that converts software with a codebase into command-line interfaces for AI agents. The project currently supports 18 applications, including GIMP, Blender, and LibreOffice, with 2,461 passing tests. Users can install the CLI-Hub package manager to browse and deploy these community-built CLIs."
+    },
+    {
+      "url": "https://blog.cloudflare.com/deploy-with-void/?utm_source=tldrdevops",
+      "title": "Deploy with Void",
+      "summary": "VoidZero has open-sourced Void, a toolchain that extends Vite to handle full-stack application development and deployment. The package includes an SDK, a CLI, and a Platform for teams to self-host deployment environments within their own Cloudflare accounts. It automatically provisions resources like databases and queues during deployment."
+    },
+    {
+      "url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/?utm_source=tldrdevops",
+      "title": "Azure Maia 300 Architecture Deep Dive",
+      "summary": "Microsoft's third-generation AI accelerator uses TSMC N2P with 288 GB HBM4 at 18 TB/s. Racks hold 96 accelerators at 167 kW, scaling to 12,288-chip superpods, with up to 7x token throughput."
+    },
+    {
+      "url": "https://spacelift.io/blog/atlantis-at-scale?utm_source=tldrdevops",
+      "title": "Atlantis at Scale",
+      "summary": "Details running Atlantis v0.47.1 as a single-replica StatefulSet with Redis locking and S3 plan storage. Limits include an alpha drift API with no scheduler and no cross-project dependency graph. Spacelift positions itself as the alternative."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/?utm_source=tldrdevops",
+      "title": "Amazon ECS Adds LiveTaskCount Service Metric",
+      "summary": "A free metric counts tasks that are activating, running, or deactivating, without Container Insights."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/?utm_source=tldrdevops",
+      "title": "Powering European Scientific Discovery with Advanced AI Compute",
+      "summary": "Google DeepMind and Google Cloud will give up to 200 European researchers access to AlphaFold 3, WeatherNext, and other models, plus USD 3 million in compute credits."
+    }
+  ]
+}

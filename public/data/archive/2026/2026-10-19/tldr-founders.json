@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-10-19",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://whoisnnamdi.substack.com/p/valuations-need-a-correction?utm_source=tldrfounders",
+      "title": "Valuations Need a Correction",
+      "summary": "Startup valuation reports only include companies that managed to raise money. As fewer seed companies reach Series A, that group becomes increasingly selective. A model correcting for this bias estimates that new seed rounds value companies at four times the average existing seed startup. Higher round prices can therefore accompany a tougher fundraising market. Before using a recently funded competitor to price your own round, compare your growth and unit economics with theirs."
+    },
+    {
+      "url": "https://www.newcomer.co/p/investors-turn-on-data-center-builders?utm_source=tldrfounders",
+      "title": "Investors Turn on Data Center Builders as Rising Interest Rates Dampen the AI Trade",
+      "summary": "Rising interest rates and market skepticism challenge AI infrastructure firms like CoreWeave, which heavily rely on debt for growth. CoreWeave's bond trading reflects distress, and its founders selling $3.3 billion in stock since the IPO adds to investor unease. Meanwhile, AI token spending growth plateaus as new enterprise customer acquisition slows, amid efficiency improvements and cost reductions."
+    },
+    {
+      "url": "https://www.elenaverna.com/p/what-on-earth-is-going-on-with-ai?utm_source=tldrfounders",
+      "title": "What on earth is going on with AI pricing and packaging?",
+      "summary": "Lovable's growth lead says even her company's pricing is hard to understand. Its $25 monthly plan buys 100 credits, but customers have to start building to learn what those credits accomplish. General-purpose AI makes this harder because two requests for the same outcome can incur very different costs, especially when an agent retries its work. Credits help combine those costs into a subscription. The missing step is translating the allowance into work a buyer recognizes, as audio tools do with minutes and scraping tools do with pages."
+    },
+    {
+      "url": "https://www.saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal/?utm_source=tldrfounders",
+      "title": "G2's 2026 AI Agents Report: Only 9% of Buyers Think Seat Pricing Is Fair, 57% Want Usage-Based, and 74% Will Shop You at Renewal",
+      "summary": "G2's 2026 AI Agents Report reveals 91% of B2B buyers find per-seat pricing unfair, with 57% preferring usage-based models. Buyers expect stronger agent capabilities, with 74% open to switching vendors at renewal and 72% valuing a robust ecosystem. 46% find agent running costs higher than anticipated, demanding real-time dashboards and spend caps for better cost control."
+    },
+    {
+      "url": "https://x.com/mvernal/status/2111465279880593654?utm_source=tldrfounders",
+      "title": "Negotiation & Multi-Turn Games",
+      "summary": "Negotiation works best as a collaborative process rather than a zero-sum contest. Understanding each side's priorities and constraints creates stronger, lasting outcomes across hiring, venture investments, sales, and acquisitions."
+    },
+    {
+      "url": "https://okaneland.com/ledger/app-store-or-web-checkout/?utm_source=tldrfounders",
+      "title": "App Store or web checkout: the math at 15%",
+      "summary": "Moving a small app's checkout to the web saves less than the headline App Store fee suggests. At Apple's 15% rate, a $9.99 subscription leaves $8.49 in the app versus about $9.33 after Stripe card and billing fees. With equal prices and renewals, losing roughly 9% of buyers erases that gain before extra operating costs. One small-business app in Adapty's review rolled back its test after revenue per paywall viewer fell 9%. Judge a checkout experiment on revenue per viewer through at least one renewal, using your actual fees."
+    },
+    {
+      "url": "https://3am.si/?utm_source=tldrfounders",
+      "title": "3AM Super Intelligence (Tool)",
+      "summary": "Diagnose production incidents, validate fixes, and resolve issues directly through Slack."
+    },
+    {
+      "url": "https://claude.com/resources/articles/code-review-is-now-generally-available?utm_source=tldrfounders",
+      "title": "Code Review is now generally available (Tool)",
+      "summary": "Claude Team and Enterprise organizations can now use automatic reviews of new GitHub pull requests, with most reviews finishing in 6 to 10 minutes according to Anthropic."
+    },
+    {
+      "url": "https://stripe.com/blog/real-time-stripe-data-postgres?utm_source=tldrfounders",
+      "title": "Sync real-time Stripe data to Postgres with Stripe Data Pipeline (Tool)",
+      "summary": "Stripe Data Pipeline's public preview backfills selected Stripe tables into your Postgres database and keeps them updated within seconds without custom sync code, with free access to get started."
+    },
+    {
+      "url": "https://www.seriouseats.com/biscoff-history-12168161?utm_source=tldrfounders",
+      "title": "Delta's Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love",
+      "summary": "A peanut shortage gave an unfamiliar Belgian cookie access to Delta's passengers in 1986. The airline says the replacement was supposed to be temporary, but passengers began calling headquarters to ask where they could buy Biscoff. Lotus answered with mail order in the 1990s, then entered major US grocery stores through Kroger in 2006. Delta now serves 70 million packs a year. For a product customers need to try first, look for a business that already serves them and needs something inexpensive to hand out, then give those customers somewhere to reorder."
+    },
+    {
+      "url": "https://www.newsletter.lukesophinos.com/p/linear-1985-whats-still-there-if?utm_source=tldrfounders",
+      "title": "What's still there if everyone has your code?",
+      "summary": "A competitor can copy a workflow tool without getting the network that makes it valuable. SnapDocs began by helping offices manage mortgage signings, then gave notaries and attorneys their own profiles so they could work across customers on one platform. It also learned which notaries might hold up a closing. A founding-team member says the network and data let it charge five to ten times legacy competitors' prices. If a rival copied your software, would customers still pay more for the people or transaction history on your platform?"
+    },
+    {
+      "url": "https://platforms.substack.com/p/how-agents-unlock-new-markets?utm_source=tldrfounders",
+      "title": "How agents unlock new markets",
+      "summary": "Suppose a supplier turns down an order for 5,000 parts because it can only ship 2,000 immediately. The buyer can wait a month for the rest, but nobody asks. Agents representing both sides could work out a split delivery and save the order. Walmart already uses AI to negotiate individually with smaller suppliers. Those suppliers used to get standard terms because the savings were too small to justify negotiating each deal."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2111827351608725669.html?utm_source=tldrfounders",
+      "title": "To publish something on a paywalled site is to make it invisible",
+      "summary": "Putting your writing behind a paywall risks losing distribution through AI systems that cannot access it."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2110813987331768542.html?utm_source=tldrfounders",
+      "title": "Another one bites the dust in our War on Expensive Software",
+      "summary": "A Zapier customer reports cutting a $4,788 annual subscription after finding 63 of 123 automations inactive."
+    },
+    {
+      "url": "https://jamiewatters.work/journey/ai-fake-customer-interviews?utm_source=tldrfounders",
+      "title": "Telling AI to act as your customers makes its answer worse: 52% of shoppers would buy, it said. Real sales: 33%",
+      "summary": "A founder who never tested his AI customer panel against real customers reports a retail study in which AI personas predicted a 52% purchase rate over 28 days, compared with 33% in the retailer's actual records."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2110780361638891951.html?utm_source=tldrfounders",
+      "title": "Since we started offering employee profit sharing in 2020, we've paid out over $24,000,000 to employees",
+      "summary": "37signals says it has paid employees more than $24 million through profit sharing since 2020 and links to the cash-sharing policy it uses instead of stock options."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-10-19",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://theinference.org/article/intel-and-qualcomm-are-reported-in-talks-for-tenstorrent-worth-up-to-10-billion?utm_source=tldrhardware",
+      "title": "Intel and Qualcomm reportedly bid up to $10B for Tenstorrent on an unverified cost claim",
+      "summary": "Intel and Qualcomm are reportedly bidding up to $10 billion for Tenstorrent, whose roughly $1,000 Blackhole chips run the BlockFloat8 number format natively, where GPUs with native support list near $40,000. Smallest.ai says its text-to-speech model, with over 80% running in 8-bit, costs about a quarter as much to run as on Nvidia's L40S. The figures are vendor-published and unverified, and no deal has closed."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-s-cxmt-swings-to-profit-after-memory-chip-prices-surge?utm_source=tldrhardware",
+      "title": "CXMT swings to a nearly $20B nine-month profit as AI demand drives up DRAM prices",
+      "summary": "CXMT expects nine-month net profit of 131 to 132.5 billion yuan ($19.6 to $19.8 billion), versus a 5.3 billion yuan loss a year earlier, on revenue of 265 to 270 billion yuan, up from 32.1 billion. It credits AI-driven DRAM shortages, expanded capacity, and more output per wafer. Its claim of fifth-generation DRAM in mass production hasn't been independently verified, and memory booms typically fund new capacity that eventually pulls prices back down."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm?utm_source=tldrhardware",
+      "title": "NASA's Roman telescope beats its image-quality spec by nearly 30% after a hair-width mirror nudge",
+      "summary": "After moving Roman's secondary mirror by about one-sixteenth the width of a human hair, engineers measured 63 nanometers RMS of optical error in the Wide Field Instrument, nearly 30% better than the 90-nanometer requirement. The camera has 18 detectors, and the same adjustment fixed slight defocus in the Coronagraph Instrument, which still needs testing of its ability to block unwanted light. Roman launched August 30, and both instruments now match or beat predictions."
+    },
+    {
+      "url": "https://www.caranddriver.com/news/a74165059/tesla-roadster-thrusters-fan-system-explained/?utm_source=tldrhardware",
+      "title": "Tesla Roadster pairs underbody suction fans with cold-gas thrusters for grip beyond what tires allow",
+      "summary": "The Roadster's floor uses fans and perimeter seals to pull air out from under the car, creating up to 2 g of suction, enough to hold it upside down while stationary, and at speed, front and rear passages open for more flow. Cold-gas thrusters add a second system: ten nozzles fed by compressed air, with all-electric actuators for fast micro-adjustments, which Tesla says push with four to five times the force tires can deliver."
+    },
+    {
+      "url": "https://spectrum.ieee.org/variable-frequency-drives?utm_source=tldrhardware",
+      "title": "Variable frequency drives could free up grid power by cutting motor energy use 40 to 60 percent",
+      "summary": "Variable frequency drives adjust motor speed to match demand, cutting a motor's energy use by about 40 to 60 percent. Toyota saved over $700,000 a year after putting them on 200-plus HVAC motors at its Kentucky plant, in a $1.25 million pilot. Cheaper sensors, machine-learning control, and power chips borrowed from EVs and solar inverters have cut costs. ABB claims drives on every motor could cover up to five years of data center load growth."
+    },
+    {
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70437.php?utm_source=tldrhardware",
+      "title": "Spin waves coupled to a superconducting circuit create a one-way street for microwave signals",
+      "summary": "Argonne and UIUC researchers coupled spin waves in a thin yttrium iron garnet film to a superconducting resonator built directly on top, creating a hybrid mode that propagates one way and could keep return noise from leaking back into qubits. The key materials fix was swapping the usual rare-earth-containing substrate, which absorbs microwaves at low temperatures, for one without rare-earth metals. It's still a proof of concept."
+    },
+    {
+      "url": "https://www.kornia.org/slam/?utm_source=tldrhardware",
+      "title": "Kornia-SLAM: Visual-Inertial Odometry and SLAM in Rust",
+      "summary": "Kornia-SLAM is an open-source visual-inertial odometry and spatial mapping library implemented entirely in Rust. It supports monocular, stereo, and RGB-D cameras coupled with inertial measurement units, utilizing factor graph optimization to maintain real-time performance and strict memory safety. This framework gives embedded software teams a reliable, crash-resilient foundation for real-time spatial estimation on compute-limited physical devices."
+    },
+    {
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/?utm_source=tldrhardware",
+      "title": "Gemini 4 Argon: Multimodal Foundation Models for Embodied Intelligence",
+      "summary": "Google DeepMind has released Gemini 4 Argon, a multimodal foundation model engineered specifically for embodied physical systems. Featuring native spatio-temporal reasoning and low-latency action generation, it links high-level semantic understanding directly to robot execution through native bridges for ROS 2 and physics simulators like MuJoCo. The architecture allows creators of intelligent physical machines to translate natural language goals into dexterous, real-world manipulation and navigation."
+    },
+    {
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/rdna-fp16-gemm/README.html?utm_source=tldrhardware",
+      "title": "AMD shows how to hand-tune an FP16 GEMM kernel on RDNA 3 and RDNA 4 to match hipBLASLt",
+      "summary": "AMD walks through eight steps to build an FP16 GEMM kernel on RDNA 3 and RDNA 4, taking the RX 9070 XT from 150 ms to 8.71 ms on an 8192-cubed multiply, versus 8.05 ms for hipBLASLt."
+    },
+    {
+      "url": "https://github.com/nathanshankar/terminal_rviz?utm_source=tldrhardware",
+      "title": "Terminal RViz: Terminal-Based 3D Visualizer for ROS 2",
+      "summary": "Terminal RViz renders 3D ROS 2 sensor data, point clouds, and robot states directly inside a terminal window using Braille Unicode characters and a software-based renderer."
+    },
+    {
+      "url": "https://research.nvidia.com/labs/gear/aspire/?utm_source=tldrhardware",
+      "title": "ASPIRE: Agentic Skill Discovery and Policy Synthesis",
+      "summary": "ASPIRE is an autonomous framework from NVIDIA Research that enables robots to discover, practice, and catalog manipulation skills in simulation without human supervision."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html?utm_source=tldrhardware",
+      "title": "Apple and Meta tune an 816B-parameter open model to run on two M5 Ultra Mac Studios",
+      "summary": "Meta's 816-billion-parameter Muse Spark Open model, a mixture-of-experts design with 42 billion active per token, is tuned to run locally on clustered M5 Ultra Mac Studios using Apple's MLX framework."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning?utm_source=tldrhardware",
+      "title": "HUMXN pays for home repairs in three cities to record wearable-sensor data for robot training",
+      "summary": "HUMXN, a Minneapolis AI data company, will pay for qualifying plumbing, electrical, HVAC, air-duct, and carpet-cleaning jobs in Minneapolis, Chicago, and Miami in exchange for letting technicians work in homes wearing capture gear that records their jobs."
+    }
+  ]
+}
