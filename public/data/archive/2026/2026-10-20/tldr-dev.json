@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-20",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://wendelladriel.com/blog/when-retries-make-things-worse-protecting-your-system-from-overload?utm_source=tldrdev",
+      "title": "When Retries Make Things Worse: Protecting Your System From Overload",
+      "summary": "Retries can turn a slow dependency into a wider outage by multiplying attempts and exhausting connections or workers. A PHP example combines one retry owner, an operation deadline, admission limits, shared retry budgets, and jitter, then outlines a load test that measures both overload and recovery."
+    },
+    {
+      "url": "https://pournasserian.com/writing/ai-friendly-website-2026?utm_source=tldrdev",
+      "title": "Making a website AI friendly: what the bots actually fetched from mine",
+      "summary": "An analysis of 18 days of traffic to one personal site found that verified crawlers mostly fetched ordinary pages, robots.txt, and the sitemap. Markdown copies attracted verified crawlers within a day, while llms.txt saw no verified training or search crawler requests, suggesting that basic HTML and measured traffic matter more than adding every proposed discovery file."
+    },
+    {
+      "url": "https://www.jayfreestone.com/writing/the-generic-circular-dependency-problem/?utm_source=tldrdev",
+      "title": "The generic circular dependency problem",
+      "summary": "Generic services become coupled to their consumers when shared types or domain logic pull application knowledge back into analytics, email, or authorization modules. Domain wrappers, locally owned handlers, smaller contracts, and plugin registration can break those cycles, while extracting a shared type package may only hide the conceptual coupling."
+    },
+    {
+      "url": "https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/?utm_source=tldrdev",
+      "title": "Writing is no longer proof of work",
+      "summary": "Organizations often use reports and templates as evidence that someone put in effort, followed a process, or understood a topic. LLMs weaken that signal by producing plausible documents without the underlying work, leaving companies to find better evidence and reserve careful writing for actual communication."
+    },
+    {
+      "url": "https://swizec.com/blog/no-more-tech-debt?utm_source=tldrdev",
+      "title": "No more tech debt",
+      "summary": "A completed design system migration shows how coding agents can make broad cleanup practical once reusable components, written guidance, and linters are in place. The team migrated through 45 pull requests across eight stacks, using vertical slices and before-and-after screenshots, then removed the old patterns so agents would stop copying them."
+    },
+    {
+      "url": "https://emilkowal.ski/ui/developing-taste?utm_source=tldrdev",
+      "title": "Developing Taste",
+      "summary": "As working software becomes easier to produce, design, usability, and attention to detail become stronger differentiators. Taste develops through studying excellent work, explaining why specific choices succeed, and practicing with useful critique."
+    },
+    {
+      "url": "https://github.com/kksimp/Mac.apk?utm_source=tldrdev",
+      "title": "Mac.apk (GitHub Repo)",
+      "summary": "Mac.apk implements the Android application environment directly on Apple Silicon Macs so apps run as native macOS processes with their own windows and GPU rendering. It is alpha software, with compatibility ranging from fully working apps to partial support or apps that do not launch."
+    },
+    {
+      "url": "https://pele.run/?utm_source=tldrdev",
+      "title": "Pele (Website)",
+      "summary": "Pele renders Mermaid diagrams as SVG with zero dependencies and CSS variable theming that can change colors without rendering again. The site reports a 230 kB gzipped bundle and support for every diagram type built into Mermaid 12.1.0, with layouts that adapt to small screens."
+    },
+    {
+      "url": "https://www.minimax.io/blog/minimax-m31f?utm_source=tldrdev",
+      "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost",
+      "summary": "MiniMax M3.1 Flash targets coding, computer use, and other agent workflows, with published pricing of $0.15 per million input tokens and $0.60 per million output tokens. MiniMax reports 73.7% on DeepSWE v1.1 and 70% lower overall agent task costs than its predecessor, with API access available now and model weights planned for later."
+    },
+    {
+      "url": "https://kael.tech.blog/2026/10/17/my-experience-running-local-llms/?utm_source=tldrdev",
+      "title": "My experience running local LLMs",
+      "summary": "Tests on an AMD Ryzen AI Max+ 395 system show why model size, memory bandwidth, context length, and serving engine all affect local agent performance. A quantized MoE model generated about 42 tokens per second for one request versus about 11 for a dense model, but the experiments measured generation speed rather than completed coding tasks."
+    },
+    {
+      "url": "https://siddhantkhare.com/writing/agentic-inference-field-guide?utm_source=tldrdev",
+      "title": "Your coding agent loses its cache while it waits for you",
+      "summary": "A survey of agent inference research distinguishes cache misses caused by memory pressure from those caused by human pauses. One public trace reported about 97% cache reuse after tool calls but 18% after gaps longer than an hour, highlighting a retention problem that autonomous benchmark loops often miss."
+    },
+    {
+      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/?utm_source=tldrdev",
+      "title": "Agentic Monitoring",
+      "summary": "Agents with access to code and telemetry can create targeted monitoring plans and investigate unusual signals around releases or configuration changes. An early prototype produced cleaner signals and used fewer tokens when an agent wrote monitoring specifications for a deterministic runner, with another agent investigating triggers and escalating to humans."
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=50151036&amp;utm_source=tldrdev",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand? (Website)",
+      "summary": "This discussion explores how much generated code engineers need to understand before shipping."
+    },
+    {
+      "url": "https://itsnas.me/writing/use-overflow?utm_source=tldrdev",
+      "title": "useOverflow",
+      "summary": "A React hook that compares scroll and client dimensions and rechecks on resize to show expansion controls only when text is clipped."
+    },
+    {
+      "url": "https://www.albertodenia.com/writing/code-is-clay-now?utm_source=tldrdev",
+      "title": "Code is clay now",
+      "summary": "Cheaper code changes enable rapid exploratory iteration and automated production pipelines."
+    },
+    {
+      "url": "https://hacdias.com/2026/10/17/mcp/?utm_source=tldrdev",
+      "title": "Adding an MCP server to a personal website",
+      "summary": "A Go backend gains authenticated MCP tools for logging books, films, and performances from chat."
+    }
+  ]
+}

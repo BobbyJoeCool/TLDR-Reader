@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-10-20",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://ux-news.com/windows-11-photos-redesign-gallery-editor-viewer/?utm_source=tldrdesign",
+      "title": "Microsoft Redesigns Photos for Windows 11",
+      "summary": "Microsoft's redesigned Photos for Windows 11 adds a new Gallery, Editor, and Viewer, rolling out first to Windows Insiders, with wider availability planned later in 2026. Gallery merges local, OneDrive, and iCloud photos with natural-language search, while the Editor groups tools into Crop, Enhance, Repair, and Stylize."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/?utm_source=tldrdesign",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Replit's CEO initially said the AI coding platform had stopped working with Anthropic over cost, partnership, and performance, claiming ChatGPT now builds vibe-coded apps better. Insiders familiar with the partnership rejected that, with one saying it remains in place. Replit's site and posts show Anthropic models in use as recently as a few weeks ago. He later clarified that OpenAI is the default, while Claude remains available."
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/whatsapp-sound-stickers-android-chat-box/?utm_source=tldrdesign",
+      "title": "WhatsApp wants to make stickers louder and chats a little less cramped",
+      "summary": "WhatsApp is testing sound stickers on Android that let users attach up to 10 seconds of recorded or existing audio to custom stickers, while video-based stickers can retain five seconds of their original sound. Another option removes the outline around custom stickers for a cleaner appearance. A redesigned two-line compose box is also being tested, separating the typing field from additional controls to create more space and accommodate future shortcuts."
+    },
+    {
+      "url": "https://rongoldin.substack.com/p/product-designer-is-no-longer-a-job?utm_source=tldrdesign",
+      "title": "Product Designer is No Longer a Job Description",
+      "summary": "Product designer no longer describes a single job, so four attributes (Style, Strategy, Builder, and Operator) offer a shared vocabulary for candidates and hiring managers. Craft is the floor beneath all four. Most strong designers lead with one or two."
+    },
+    {
+      "url": "https://www.antonsten.com/articles/where-decisions-live/?utm_source=tldrdesign",
+      "title": "Where decisions live",
+      "summary": "Giving different kinds of project information distinct homes makes both teams and AI agents better at distinguishing current decisions from outdated discussions and unfinished thinking. A simple system can keep chronological observations and evolving ideas in running notes while maintaining a separate dated decision log that records what is currently true without deleting previous decisions. AI makes large amounts of context searchable, but chronology and structure remain essential because a searchable mess is still a mess."
+    },
+    {
+      "url": "https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?utm_source=tldrdesign",
+      "title": "UX designers are not designing interfaces, they design personalities",
+      "summary": "Digital products increasingly translate human behavior into metrics such as sleep scores, ratings, streaks, story points, and follower counts, which can gradually influence how people understand themselves and behave. These measurements expose only selected parts of reality, yet their apparent objectivity can give them greater authority than unmeasured experiences, relationships, and intuition. UX designers therefore shape more than interfaces and experiences: by deciding which metrics products emphasize, they influence how people perceive themselves and should deliberately leave room for realities that cannot be quantified."
+    },
+    {
+      "url": "https://rombo.co/tailwind/?utm_source=tldrdesign",
+      "title": "Animation Library for Tailwind CSS (Website)",
+      "summary": "A new simple syntax animation library. Batteries included. Infinitely configurable."
+    },
+    {
+      "url": "https://aframe.io/?utm_source=tldrdesign",
+      "title": "A Web Framework for Building 3D/AR/VR Experiences (Website)",
+      "summary": "Make 3D worlds with HTML and Entity-Component, on any headset, mobile, and desktop."
+    },
+    {
+      "url": "https://excaliclaw.com/?utm_source=tldrdesign",
+      "title": "The Collaborative Workspace for Hand-Drawn Diagrams (Website)",
+      "summary": "ExcaliClaw is a collaborative workspace for hand-drawn diagrams. Organize, search, share, and create diagrams with Claude, Cursor, and VS Code through MCP."
+    },
+    {
+      "url": "https://www.itsnicethat.com/articles/music-f37-foundry-fulham-football-club-refresh-graphic-design-project-191026?utm_source=tldrdesign",
+      "title": "Fulham F.C gets a brand refresh built on hand-rendered lettering found on the walls of its stadium",
+      "summary": "Fulham F.C's refreshed identity by Music and F37 Foundry is built around FFC Original, a bespoke typeface inspired by hand-rendered lettering discovered inside Craven Cottage, London's oldest football stadium. Rather than placing historical references alongside a contemporary identity, the system uses the club's physical heritage as the source of its modern visual language. The typography now extends across matchday graphics, campaigns, retail, moving image, and a 2026/27 away-kit campaign inspired by the visual language of the 1990s."
+    },
+    {
+      "url": "https://tetralogical.com/blog/2026/10/15/wcag3/?utm_source=tldrdesign",
+      "title": "WCAG 3: A Different Future for Accessibility",
+      "summary": "WCAG 3, still a draft, is the first ground-up rebuild of the standard since 1999, proposing to replace binary pass/fail with a graded model where meeting core requirements is a floor. Bronze, silver, and gold levels would let organizations be recognized for going further. Accessibility laws point to WCAG, so the change must keep regulators able to adopt it."
+    },
+    {
+      "url": "https://ixdf.org/literature/article/structure-first-the-inverted-pyramid-and-visual-organization?utm_source=tldrdesign",
+      "title": "Structure First: The Inverted Pyramid and Visual Organization",
+      "summary": "The inverted pyramid makes web content easier to consume by putting the essential message first and progressively adding supporting detail, ensuring readers understand the key point even if they stop early. Individual paragraphs should similarly lead with their main idea, while descriptive headings, short paragraphs, lists, and selective emphasis provide visual entry points for people scanning rather than reading linearly. A useful test is whether someone can understand something meaningful from a page within five seconds without reading its body copy. AI-generated writing is particularly worth checking for conclusions buried beneath unnecessary setup."
+    },
+    {
+      "url": "https://www.designboom.com/design/orgatec-2026-sihoo-office-chairs/?utm_source=tldrdesign",
+      "title": "At ORGATEC 2026 Sihoo Introduces Self Adjusting Chairs Built to Boost Creative Work",
+      "summary": "Sihoo's self-adjusting H300 Pro and Doro C300 Pro V2 chairs, which have lumbar support that adapts to posture shifts, will be shown at ORGATEC 2026 in Cologne."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=tldrdesign",
+      "title": "UX Maps: Glossary",
+      "summary": "NN/g's UX Maps glossary defines and distinguishes common mapping tools."
+    }
+  ]
+}

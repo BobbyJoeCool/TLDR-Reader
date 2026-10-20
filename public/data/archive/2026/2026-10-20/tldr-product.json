@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-10-20",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.mindtheproduct.com/what-is-a-forward-deployed-product-manager-anyway/?utm_source=tldrproduct",
+      "title": "What is a Forward Deployed Product Manager, anyway?",
+      "summary": "FDPMs are embedded directly within customer organizations to bridge the gap between vendors and users, especially for complex AI deployments. Working alongside Forward Deployed Engineers, they prototype tailored solutions on-site and feed successful iterations back into the core platform."
+    },
+    {
+      "url": "https://substack.com/app-link/post?publication_id=1435249&amp;post_id=220656521&amp;utm_source=tldrproduct",
+      "title": "What on earth is going on with AI pricing and packaging?",
+      "summary": "AI pricing is confusing because credits and tokens obscure value, while usage costs are unpredictable. To reach mainstream customers, companies need clear, predictable pricing that reflects customer value without sacrificing profitability."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/apps-with-heart?utm_source=tldrproduct",
+      "title": "Building apps with heart: what Noom, Numo, and Opal get right",
+      "summary": "B2C mobile apps have become generic due to funnel over-optimization. Building with \"heart\" means understanding specific users, tailoring onboarding, delivering early delight before paywalls, and balancing authentic user resonance with strong monetization engines."
+    },
+    {
+      "url": "https://apeatling.com/2026/10/19/your-product-is-not-the-center-of-the-universe/?utm_source=tldrproduct",
+      "title": "Your product is not the center of the universe",
+      "summary": "Established products relying on a product-centric model will face diminishing relevance as multi-tool AI agents become common. To adapt, products must adopt a person-centric view by integrating directly with users' preferred agents, exposing UI components, expertise, and data moats."
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-determine-how-much-project-management-work-a-product-manager-should-handle?utm_source=tldrproduct",
+      "title": "How to determine how much project management work a PM should handle",
+      "summary": "This post explores how project management work is handled on product teams. It provides a framework to audit initiatives, identify real deadlines, and assign explicit ownership to prevent product manager overload."
+    },
+    {
+      "url": "https://productmindset.substack.com/p/mental-models-in-the-agentic-era?utm_source=tldrproduct",
+      "title": "Mental Models in the Agentic Era",
+      "summary": "This piece adapts fifteen established product and economic mental models to the agentic era. While classic principles still apply, they yield drastically different outcomes in probabilistic environments. Changes in unit economics, compounding errors, the jagged frontier, and shifting bottlenecks require product managers to adopt new evaluation frameworks, autonomy dials, and editing skill sets."
+    },
+    {
+      "url": "https://julfedorin.substack.com/p/she-built-the-feature-every-customer-b33?utm_source=tldrproduct",
+      "title": "She Built the Feature Every Customer Said No To (54 minute podcast)",
+      "summary": "Jacqueline Cheong, co-founder and CEO of Artie, discusses building features despite negative feedback, working with her spouse, and practicing radical transparency. She explains how Artie created an SCD type-2 history table feature that reached a 40% adoption rate and describes using an AI coding agent named Hermes to scale engineering."
+    },
+    {
+      "url": "https://medium.muz.li/product-design-with-ai-building-it-was-never-the-hard-part-05159682106d?gi=cf83b1f0730d&amp;source=rss----5969bf7021a3---4&amp;utm_source=tldrproduct",
+      "title": "Product design with AI: Building It Was Never the Hard Part",
+      "summary": "While AI makes building applications remarkably easy, achieving basic usability and product quality remains a significant challenge. The final 20 to 30 percent of development requires meticulous attention to detail, rigorous quality assurance for other users, and strict restraint regarding unnecessary feature creep."
+    },
+    {
+      "url": "https://agent-skills.market/skills/product-management-skills-by-pawel-huryn-customer-journey-map?utm_source=tldrproduct",
+      "title": "Customer Journey Map",
+      "summary": "This customer journey map skill helps PMs map the full user experience, identify key milestones, and integrate the tool into coding agents."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2111960517161931257.html?utm_source=tldrproduct",
+      "title": "Build fast, validate faster",
+      "summary": "Get your product into users' hands quickly to learn from real usage and avoid building things nobody needs."
+    }
+  ]
+}

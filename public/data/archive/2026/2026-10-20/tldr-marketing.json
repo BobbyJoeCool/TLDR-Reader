@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-10-20",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.quad.com/wp-content/uploads/2026/10/Quad-and-THP-Return-of-Touch-The-Human-Advantage.pdf?utm_source=tldrmarketing",
+      "title": "How Consumer Desire for More Tactile, IRL Experiences Continues to Transform Marketing",
+      "summary": "Gen Z is seeking offline experiences as digital fatigue grows, with 82% saying social media breaks improve their mental health and 70% planning to take up hands-on hobbies. Across the US, 75% see a simpler relationship with technology as a lifestyle upgrade. 68% collect physical items and 84% of Gen Z go out of their way for in-person shopping."
+    },
+    {
+      "url": "https://www.thestateofbrand.com/news/marketing-ai-replacing-tasks-roi-measurement?utm_source=tldrmarketing",
+      "title": "Half of Marketing Teams Are Replacing People With AI. Almost Nobody Can Prove It's Working",
+      "summary": "Nearly 48% of marketing teams replaced human tasks with AI in the past year, but few can prove it works. A Basis survey found 65% of respondents either don't measure AI's return on investment or don't know if their organization does. Meanwhile, 51% expect substantial job losses across the industry within 3-5 years, even as AI's impact on marketing performance remains largely unproven."
+    },
+    {
+      "url": "https://www.growth-memo.com/p/does-ai-drive-more-direct-traffic?utm_source=tldrmarketing",
+      "title": "Does AI drive more direct traffic?",
+      "summary": "An analysis of 12 GA4 properties found no reliable evidence that AI-driven visits are hiding in Direct traffic. Total Direct sessions rose 141% from January to September, but engaged sessions stayed nearly flat due to bot traffic. Across 632 tests, AI visibility also showed no consistent link to subsequent branded search or Direct traffic. To measure AI's impact, track brand mentions across consistent prompts and platforms. Ask leads how they discovered you, then connect their responses to qualified leads, purchases, and revenue."
+    },
+    {
+      "url": "https://avisainewsletter.substack.com/p/you-can-see-everything-marketing-campaign?utm_source=tldrmarketing",
+      "title": "How A24 Made ‘You Can See Everything' a Must-See Film",
+      "summary": "A24 had just 40 days to market its Elizabeth Holmes documentary, despite audiences already knowing the Theranos story from TV dramas and years of trial coverage. The campaign used cryptic teasers and provocative posters to make this version feel fresh. It built intrigue without spoiling the film's biggest surprises or making Holmes look like she was staging a comeback."
+    },
+    {
+      "url": "https://www.searchable.com/events/are-you-tracking-the-right-prompts?utm_source=tldrmarketing",
+      "title": "Are you tracking the right prompts? (Webinar)",
+      "summary": "Searchable is hosting a 60-minute working session on AI visibility tracking. They'll walk through how to map what buyers ask AI about your category, check where competitors win, and build your list of what to track next. The free webinar will take place today at 11 AM ET."
+    },
+    {
+      "url": "https://journofinder.com/?utm_source=tldrmarketing",
+      "title": "Journofinder (Tool)",
+      "summary": "Journofinder builds targeted media lists and secure press coverage. Its AI agent finds journalists with verified contact details, while its article search and real-time news alerts help PR teams identify timely pitching opportunities. It integrates with ChatGPT and Claude to streamline PR workflows."
+    },
+    {
+      "url": "https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html?utm_source=tldrmarketing",
+      "title": "Google Ads Now In AI Mode With Personal Intelligence",
+      "summary": "Google is testing ads in AI Mode for users who enable Personal Intelligence by connecting apps like Gmail and Google Photos. While ads won't be based directly on inboxes or photo libraries, Google may use summaries and inferences from connected apps to personalize ad targeting. Advertisers won't have access to users' connected apps, and sensitive information won't be used to tailor ads."
+    },
+    {
+      "url": "https://www.jonoalderson.com/conjecture/audience-centric-thinking/?utm_source=tldrmarketing",
+      "title": "Customer-centric thinking is too narrow",
+      "summary": "Customer-centric marketing can overlook people who never buy but still influence how a market discovers and evaluates a brand. Journalists and practitioners shape public conversations and the information that search engines and AI systems use. Audience-centric marketing considers these groups when creating content and prioritizes resources that are easy to access, cite, and share. This can make ungated research and public documentation more valuable than lead-generation metrics suggest."
+    },
+    {
+      "url": "https://news.lavx.hu/article/chatgpt-claude-and-grok-chats-reach-trackers-study-finds?utm_source=tldrmarketing",
+      "title": "ChatGPT, Claude, and Grok chats reach trackers, study finds",
+      "summary": "A study of 17 AI assistant experiences found that 8 shared conversation links, titles, or text with advertising and analytics firms. ChatGPT, Claude, and Grok all leaked shared chat links, while Grok also sent screenshots and prompts to Google, Meta, and TikTok. Rejecting cookies left 80.8% of trackers active, and 6 of 9 web assistants still contacted Google Ads. The findings highlight privacy risks for users discussing sensitive topics, even when AI providers offer training opt-outs."
+    },
+    {
+      "url": "https://phys.org/news/2026-10-social-media-young-people-mental.html?utm_source=tldrmarketing",
+      "title": "Can social media bans protect young people's mental health?",
+      "summary": "In Australia, 61% of children ages 12-15 still access banned platforms using false IDs or VPNs."
+    },
+    {
+      "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots?utm_source=tldrmarketing",
+      "title": "‘No influencers': the hotels, restaurants and beauty spots restricting photoshoots",
+      "summary": "Hotels and restaurants are restricting photography as visitors use them as content backdrops rather than places to eat or stay."
+    },
+    {
+      "url": "https://www.netinfluencer.com/more-than-half-of-podcast-listeners-say-ad-load-is-too-high-favor-host-reads-free-membership-tiers-study-finds/?utm_source=tldrmarketing",
+      "title": "More Than Half of Podcast Listeners Say Ad Load Is Too High",
+      "summary": "55% of podcast listeners say there are too many ads, while host-read spots outperform prerecorded ads."
+    }
+  ]
+}

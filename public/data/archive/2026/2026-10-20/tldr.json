@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-20",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet?utm_source=tldrnewsletter",
+      "title": "Waymo plans to quintuple its fleet",
+      "summary": "Waymo plans to grow its fleet to 20,000 by the end of next year. It recently raised $5 billion from private credit lenders to achieve this goal. The company has already ordered thousands of cars from China to help expand its fleet. Waymo currently operates 4,000 vehicles in 15 cities in the US."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ2NTcwOCwiZXhwIjoxNzkzMDcwNTA4LCJhcnRpY2xlSWQiOiJUTjVXTFRLSUpIOE4wMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.9-rQbdYBHovzTZePj_kDnZSnkRnXix9kn06X9f70Kxs&utm_source=tldrnewsletter",
+      "title": "Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro",
+      "summary": "Apple will be holding a product launch event on October 28 to debut its first touch-screen MacBook. The company will also introduce a new low-end MacBook Pro with an M6 chip, a refreshed iMac, and a revamped iPad mini with a sharper screen. Apple retail stores are preparing to begin selling new products on November 6. The new touch MacBooks, which will run on M5 Pro and M5 Max chips, will have a Dynamic Island interface, as well as a sharper OLED display."
+    },
+    {
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/?utm_source=tldrnewsletter",
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "summary": "The quasi-Riemann hypothesis is a weaker version of the Riemann hypothesis, arguably the biggest open question in math. Resolving the Riemann hypothesis would enable mathematicians to better understand the nature of prime numbers. OpenAI's recently released proof for the quasi-Riemann hypothesis is the most significant AI-for-math achievement so far, by quite a margin. The vast majority of the consequences of resolving it already follow from solving the quasi-Riemann hypothesis."
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/?utm_source=tldrnewsletter",
+      "title": "Startup taps underwater volcano as energy source in “proof point” test",
+      "summary": "Endurance Energy, a Seattle-based startup, recently demonstrated the technical feasibility of using an active underwater volcano to generate electricity. The startup deployed a 3-ton prototype power plant at the Axial Seamount in the northeast Pacific Ocean in September and generated less than 10 seconds of net-positive electricity. The company's next trial run, planned for the winter of 2026 to 2027, will aim to sustain higher power generation. It is currently developing a 2-megawatt commercial generator for its first planned commercial deployment with the Kingdom of Tonga in 2027."
+    },
+    {
+      "url": "https://blog.cloudflare.com/clairic-extraction-model/?utm_source=tldrnewsletter",
+      "title": "Introducing Clairic, a new System One class of extraction models",
+      "summary": "Clairic is an extraction model. Extraction models are a new class of System One-style models that can extract, compute, estimate, and forecast values from unstructured inputs, all at significantly higher accuracy, faster latency, and lower cost than traditional LLMs. It answers with values directly extracted from the input, computed from it, or predicted beyond it. The model can't produce a mistyped answer or hallucinate in the same way an LLM can, but it can still make mistakes."
+    },
+    {
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization?utm_source=tldrnewsletter",
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "summary": "Cloudflare lowered its average review cost from $2.43 to $0.77. The biggest single saving came from checking what actually reached the provider on each session's first request, and finding a way to order those messages in a way that was as consistent as possible across commits, merge requests, and repositories. Check whether each session's first request actually reads from the cache and whether reviewers still find real problems at the effort level being paid for."
+    },
+    {
+      "url": "https://www.jasonwei.net/blog/ai-will-not-automate-radiologists-like-you-think?utm_source=tldrnewsletter",
+      "title": "AI will not automate radiologists like you think",
+      "summary": "Some worry about radiology being totally automated, but the more likely outcome is a future where there is more demand for services as predictive power increases. This is similar to how programming is thriving despite drastic change in the field. It may be possible one day to use radiology images to predict disease probabilities far into the future. Any domain where demand can be elastic and quality can scale with increased intelligence will similarly flourish with the development of AI."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html?unlocked_article_code=1.KFE.Mdoj.9aCl6JAb1idL&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+      "summary": "Former OpenAI engineer Abdulrahman Alfozan was recently arrested and charged after a hidden recording device in one of OpenAI's offices was traced back to him. The engineer was in frequent contact with a member of the Saudi royal family, who was trying to recruit him to work in Saudi Arabia, but Alfozan had refused, saying he wanted to collect the company stock he had been promised. The Saudi government has offered to pay his bail, and a member of the Saudi military paid for his wife and infant son to fly out of the US the day after his arrest."
+    },
+    {
+      "url": "https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=4VCGkt&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Netflix, America's Dominant Streaming Service, Has Hit a Wall",
+      "summary": "Netflix is overhauling its creative leadership as it struggles to get domestic audiences to watch more."
+    },
+    {
+      "url": "https://hugovk.dev/blog/2026/releasing-python-3-15-0/?utm_source=tldrnewsletter",
+      "title": "Releasing Python 3.15.0",
+      "summary": "Python 3.15.0 features lazy imports, built-in frozendict and sentinel, more color, faster JIT, package startup config files, and much more."
+    },
+    {
+      "url": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?st=4Qa1Yp&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Musk Vows to Give Each US Child a SpaceX Share",
+      "summary": "With approximately 73 million children under the age of 18 living in the US, that could mean giving away nearly $11 billion in stock."
+    },
+    {
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming?utm_source=tldrnewsletter",
+      "title": "It's still OK to enjoy programming",
+      "summary": "It's okay to enjoy things without any economic justification."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cjkgeq0k1wevo?utm_source=tldrnewsletter",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "summary": "The order is specific to civilian agencies - agencies within the Department of Defense are excluded."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/?utm_source=tldrnewsletter",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "summary": "They're getting rid of sponsored ads, speeding up app launchers, redesigning home screens, disabling tracking features, and more."
+    }
+  ]
+}
