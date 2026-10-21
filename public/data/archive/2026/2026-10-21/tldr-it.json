@@ -1,0 +1,73 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-21",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/?utm_source=tldrit",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can't be trusted'",
+      "summary": "Microsoft has introduced new security features, including Guardian Agents and agent detection in Microsoft Defender, to protect enterprises from AI agents acting as insider threats. Microsoft CEO Satya Nadella and security business chief Hayete Gallot warned that frontier models cannot be trusted because they are unpredictable and lack organizational norms. Consequently, enterprises must separate the supply of intelligence from the authority over it by using independent monitoring systems."
+    },
+    {
+      "url": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160?utm_source=tldrit",
+      "title": "Google Cloud power failure disrupts London workloads",
+      "summary": "A power failure in Google Cloud's London availability zone disrupted services including Cloud Run, Google Kubernetes Engine, and managed Kafka. The incident affected banking, delivery, and property services, highlighting how infrastructure failures can ripple across unrelated businesses."
+    },
+    {
+      "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/?utm_source=tldrit",
+      "title": "AWS brings native PyTorch support to Trainium",
+      "summary": "TorchNeuron has entered public beta. The open-source backend allows developers to run PyTorch workloads on AWS Trainium using familiar APIs, eager execution, and distributed training tools. It reduces migration work for teams evaluating alternatives to Nvidia GPUs."
+    },
+    {
+      "url": "https://www.silicon.co.uk/workspace/the-autonomous-enterprise-what-happens-when-work-runs-itself-631889?utm_source=tldrit",
+      "title": "The Autonomous Enterprise: What Happens When Work Runs Itself?",
+      "summary": "As businesses explore autonomous AI agents capable of acting across systems, leaders face management challenges regarding decision authority, bounded execution, and outcome measurement. Industry experts emphasize that the best candidates for automation share three traits: they are reversible, bounded, and observable. Furthermore, enterprises must maintain human oversight where decisions carry material consequences while establishing clear operational boundaries and metrics that measure true process outcomes."
+    },
+    {
+      "url": "https://www.ibm.com/think/perspectives/the-next-big-shift-in-ai-isn-t-about-agents-it-s-about-us?utm_source=tldrit",
+      "title": "AI agents are changing the role of IT expertise",
+      "summary": "Agent adoption will require enterprises to rethink how work crosses data, security, infrastructure, and application teams. Experienced practitioners will gain broader responsibilities as organizations redesign their operating models."
+    },
+    {
+      "url": "https://www.cio.com/article/4237910/cio-100-leadership-live-chicago-cios-reassess-ai-economics-governance-and-leadership.html?utm_source=tldrit",
+      "title": "CIOs rethink AI economics and governance",
+      "summary": "Enterprise technology leaders describe a growing tension between cheaper application development and more complicated governance of autonomous systems. Their discussion explores measuring business returns, funding AI within existing budgets, and establishing shared controls while allowing business units to experiment."
+    },
+    {
+      "url": "https://blog.cloudflare.com/clairic-extraction-model?utm_source=tldrit",
+      "title": "Introducing Clairic, a new System One class of extraction models",
+      "summary": "Cloudflare has announced a preview of Clairic, a new System One extraction model hosted on Workers AI designed to extract, compute, estimate, and forecast values from unstructured inputs. Unlike traditional large language models, Clairic operates in a single forward pass without generating tokens, offering faster latency and lower costs while returning strongly typed outputs with confidence scores. The company intends to release the model with open weights soon."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/?utm_source=tldrit",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "Amazon Web Services has released a new developer tool called TorchNeuron that allows AI startups to easily port their PyTorch-based applications onto Amazon's Trainium AI chips with a simple configuration change. Alongside the launch, Amazon announced plans to contribute code upstream to the PyTorch project to make the framework less automatically centered on Nvidia's CUDA infrastructure, aiming to reduce developer lock-in."
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384802/0/en/zoom-advances-its-ai-strategy-with-a-new-unified-context-layer-that-helps-turn-meeting-conversations-into-completed-work.html?utm_source=tldrit",
+      "title": "Zoom connects meeting history to AI agents and workflows",
+      "summary": "Zoom introduced a Unified Context Layer that connects conversations, documents, and activity across Zoom and third-party applications. New MCP servers and Search & Ask APIs are available now, while additional meeting, workflow, and administration capabilities will roll out over the coming months."
+    },
+    {
+      "url": "https://otter.ai/blog/general-catalyst-backs-otter-ais-voice-ai-ambitions-with-320m-growth-investment?utm_source=tldrit",
+      "title": "Otter secures $320 million for enterprise expansion",
+      "summary": "Otter secured $320 million in growth financing from General Catalyst's Customer Value Fund to expand its enterprise business, international presence, and product development. The company aims to turn meeting conversations into connected organizational knowledge and automated workflows, building on a reported base of more than 40 million users."
+    },
+    {
+      "url": "https://chipsandcheese.com/p/nvidia-veras-system-architecture?utm_source=tldrit",
+      "title": "Nvidia Vera's System Architecture: Pushing Bandwidth",
+      "summary": "Nvidia's Vera server chip features a high per-core performance architecture backed by a massive 1024-bit LPDDR5X memory interface and second-generation Scalable Coherency Fabric. The chip delivers high memory bandwidth and low latency under load, though its cross-socket and core-to-core latencies lag behind competitors like AMD and Amazon. SPEC CPU2026 benchmarks show Vera achieves strong single-socket throughput in memory-bandwidth-bound workloads while trading core count for per-core performance."
+    },
+    {
+      "url": "https://www.thelec.net/news/articleView.html?idxno=14721&amp;utm_source=tldrit",
+      "title": "Microsoft Completes Pretraining of 2.8 Trillion-Parameter MAI-Base-2",
+      "summary": "The development of MAI-Base-2 indicates a strategic move by Microsoft to reduce its reliance on OpenAI models."
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud?utm_source=tldrit",
+      "title": "Google expands AI inside air-gapped environments",
+      "summary": "Google Distributed Cloud adds generally available Gemini 3.5 Flash and Nvidia HGX B300 infrastructure alongside a preview of multimodal enterprise search for organizations running AI within disconnected environments."
+    }
+  ]
+}

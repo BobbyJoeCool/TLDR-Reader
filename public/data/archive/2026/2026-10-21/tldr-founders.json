@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-10-21",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://apeatling.com/2026/10/19/your-product-is-not-the-center-of-the-universe/?utm_source=tldrfounders",
+      "title": "Your product is not the center of the universe",
+      "summary": "Classical traits of product-centric thinking include expecting people to come to you to get work done, building integrations so other products plug directly into you, asking people for context and preferences they've already shared somewhere else, and trying to own AI access by building a custom agent inside a product. This product-centric view has an expiry date. Coding and personal agents can now work across several tools, and now visiting each product one at a time is starting to feel like friction. The products that will thrive will put the user, along with their agent of choice, at the center."
+    },
+    {
+      "url": "https://teendrama.substack.com/p/some-final-words-on-foursquare?utm_source=tldrfounders",
+      "title": "Some final words on Foursquare",
+      "summary": "Foursquare was acquired about a month ago, marking the end of a 17-year story. The acquisition was a $0 outcome for equity holders. This post captures the ending from a founder's point of view and details lessons learned from starting, scaling, and losing the company. In the end, the company was unable to survive a leadership change, leading to employee frustration and the zero-dollar outcome for equity holders."
+    },
+    {
+      "url": "https://tessl.io/blog/we-stopped-reviewing-code-and-started-verifying-intent?utm_source=tldrfounders",
+      "title": "We stopped reviewing code and started verifying intent",
+      "summary": "When AI writes most of the code, human review is best spent on what the change should do. Scaling diff review to match AI output doesn't work. Review intent before code is generated, and verify each criterion with evidence. Turn recurring review comments into invariants, and keep humans on the decisions and on ownership of the rules. This should result in code review no longer being the bottleneck."
+    },
+    {
+      "url": "https://newsletter.stackedgtm.ai/p/top-aeo-automations-you-or-your-team-should-be-running-right-now?utm_source=tldrfounders",
+      "title": "Top AEO automations you (or your team) should be running right now",
+      "summary": "The companies winning at AEO right now run it as a closed loop. They're building agents that find the questions buyers ask, test what assistants say back, chase the citations they're missing, and fix answers that are wrong, then test again. World-class AEO means building closed-loop agents for everything that can be automated. This post lays out in detail five of the best agents running in the market right now."
+    },
+    {
+      "url": "https://exa.ai/blog/exa-3?utm_source=tldrfounders",
+      "title": "Introducing Exa 3.0",
+      "summary": "Exa 3.0 leads on evaluations spanning coding, finance, deep research, and company intelligence. The release includes Exa Lite, a new search type priced at $4 per 1,000 requests. Exa runs a crawler and independent index that tracks over 2 trillion URLs, serves 100 billion pages, and grows around what its customers search for. The company is prioritizing expanding its index and data partnerships to serve usage from personal AI assistants."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html?utm_source=tldrfounders",
+      "title": "Publish interactive apps from the Gemini app to Google Sites",
+      "summary": "Interactive apps built in the Gemini app can now be exported directly to Google Sites. Apps are added to a new and private draft site. Users can add more content, publish the site, and share it just like any other Google Site. There is no new admin control for the feature - users can export to Google Sites if the feature is turned on for them and they are allowed to create and edit sites. The export feature is available to Google Workspace customers, Workspace Individual subscribers, and users with personal Google accounts who have access to the Gemini app."
+    },
+    {
+      "url": "https://buildtoscale.substack.com/p/pivot?utm_source=tldrfounders",
+      "title": "Pivot!",
+      "summary": "Many founders fear the word 'pivot', but if you're on a path that isn't leading to a great outcome, you must make bold moves. Admitting that the current strategies aren't working may be the only way forward. A pivot is a chance to redefine a company and refocus everyone on a winning strategy. The real risk is trying to make incremental change in a deteriorating business."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2111976599059071377.html?utm_source=tldrfounders",
+      "title": "Don't do \"drive-by recruitment\"",
+      "summary": "Low-effort cold emails from founders are a huge bear signal on the company. Founders who send them are deeply uncalibrated about what it takes to recruit good people. This is especially true if they go cold immediately after a rejection. Recruiting is sales - these things are a relationship game. Next time a founder says that it's impossible to hire good engineers, consider that they might just be terrible at it."
+    },
+    {
+      "url": "https://insights.euclid.vc/p/you-cant-vibe-code-a-network-coyne-lloyd?utm_source=tldrfounders",
+      "title": "You Can't Vibe-Code a Network",
+      "summary": "Vertical AI network effects are more important and powerful than ever."
+    },
+    {
+      "url": "https://marcrandolph.substack.com/p/is-your-empowerment-just-avoidance?utm_source=tldrfounders",
+      "title": "Is Your \"Empowerment\" Just Avoidance?",
+      "summary": "You can give leaders autonomy over how they solve problems, but you can't delegate where the company is going."
+    },
+    {
+      "url": "https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/?utm_source=tldrfounders",
+      "title": "The FDE Bubble: Silicon Valley's Most Expensive Game Of Pretend",
+      "summary": "Enterprise AI companies raise substantial funds, hiring engineers to manually implement solutions marketed as autonomous."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2112643505801543939.html?utm_source=tldrfounders",
+      "title": "Vanta is eating its token costs",
+      "summary": "Vanta is eating the token costs and taking a lower margin during the usage and deployment phase of the technology, and it will figure out commercialization after."
+    }
+  ]
+}

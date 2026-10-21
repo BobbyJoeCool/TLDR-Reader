@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-21",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?st=sDgpKx&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
+      "summary": "SpaceX and Tesla have formed special committees to discuss a potential merger. While Elon Musk thinks there's a lot of merit in combining the companies, the special committees have yet to reach an agreement, and there's no guarantee that they will. Musk is not on either committee. Shareholders will get to vote on the matter. A deal this large will attract regulatory scrutiny."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=D6WDhb&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "Anthropic S-1 Shows Red-Hot Growth, Risks, and Massive Computing Costs",
+      "summary": "Anthropic's draft initial public offering prospectus recorded a net loss of more than $80 billion in the first half of this year. It also lays out a long list of risk factors that include uncertainty over how the company plans to prevent its AI models from causing harm and protect itself from those liabilities. Anthropic is generating breakneck revenue growth, but it faces challenges such as uncertain access to compute. It has signaled that it could potentially spend $750 billion in the next few years on obtaining more compute capacity."
+    },
+    {
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design?utm_source=tldrnewsletter",
+      "title": "How Claude designed protein binders against scorpion neurotoxins",
+      "summary": "Anthropic asked an internal research model to design mini binders, small proteins that attach tightly to a target, against scorpion neurotoxins as part of its work in experimenting with how Claude can accelerate drug discovery. 17 of the 211 designs tested met Anthropic's criteria. Anthropic has not confirmed whether these binders neutralize scorpion venom in a cellular environment, so it is not claiming to have produced an antivenom. However, the study is a promising first step towards using AI to design credible binders against hard-to-target toxins in days, with lab confirmation within weeks. The challenge, as always, will be turning those binders into safe, affordable, and widely accessible drugs."
+    },
+    {
+      "url": "https://read.corematter.com/p/tau-robotics-humanoid-house-cleaning-review-san-francisco?utm_source=tldrnewsletter",
+      "title": "I Paid $60 for Two Humanoids to Clean My Home In San Francisco",
+      "summary": "You can now pay for human operator-controlled robots to clean your house in San Francisco. This post describes the experience of hiring Tau Robotics' robots to clean a home for an hour. It details what the experience is like, examines the economics for the user and for the company, and tries to predict what a future with humanoids and advanced robots doing productive work would look like."
+    },
+    {
+      "url": "https://www.vikramsingh.me/increase-your-slope?utm_source=tldrnewsletter",
+      "title": "Increase your slope",
+      "summary": "Become an expert at something small, take ownership of the problems around you, and get comfortable with having opinions. These things build on each other, and new employees can start doing all of them much sooner than they think. Practiced over time, workers will find themselves answering questions they used to ask, making decisions they used to need help with, and taking on problems they wouldn't have known how to approach."
+    },
+    {
+      "url": "https://hamel.dev/blog/posts/decision-model-evals/?utm_source=tldrnewsletter",
+      "title": "How To Use Decision Models for Evals",
+      "summary": "Decision models are an appealing alternative to LLM judges for automated evals. However, whether they're the right choice depends on the cost, performance, and latency requirements of the use case. Many people leave the default decision threshold at 0.50 without checking whether that's appropriate for the task, leaving a lot of performance on the table. This post shows how to tune thresholds to get the best results from decision models, compares cost and performance between models, and explores how to interpret model scores and how calibration can make them more useful."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
+      "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more."
+    },
+    {
+      "url": "https://teendrama.substack.com/p/some-final-words-on-foursquare?utm_source=tldrnewsletter",
+      "title": "Some final words on Foursquare",
+      "summary": "Foursquare was acquired about a month ago, marking the end of a 17-year story. The acquisition was a $0 outcome for equity holders. This post captures the ending from a founder's point of view and details lessons learned from starting, scaling, and losing the company. In the end, the company was unable to survive a leadership change, leading to employee frustration and the zero-dollar outcome for equity holders."
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts?utm_source=tldrnewsletter",
+      "title": "30 Months on the Exponential (in Charts)",
+      "summary": "AI's gains have been so large that how we work with it has to change. Before, the work was divided between AI and humans. Now, humans summon agents when needed, assign them work, and evaluate what comes back. While it is the most powerful way to use AI, it carries new risks as we lose control over what AI is doing to get those results."
+    },
+    {
+      "url": "https://docs.google.com/document/d/1xRiCqpy3LMAgEsHdX-IA23j6nUISdT5nAJmtKbk9wNA/edit?tab=t.0&amp;utm_source=tldrnewsletter",
+      "title": "Bits and bobs (631 page read)",
+      "summary": "This document contains a collection of proto-insights that mirror and accentuate one another over time."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/?utm_source=tldrnewsletter",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "summary": "The eight intermediate certificates, which belong to India-based certificate authority eMudhra Limited, were defective at a level thought not possible by engineers studying the incident."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/?utm_source=tldrnewsletter",
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "summary": "CVE-2026-109618 and CVE-2026-109619 are remote code execution flaws believed to affect PHP versions 5, 6, 7, and 8."
+    },
+    {
+      "url": "https://www.rameznaam.com/p/can-a-million-ai-agents-create-superintelligence?utm_source=tldrnewsletter",
+      "title": "Can a Million AI Agents Create Superintelligence",
+      "summary": "Today's feedback loop is probably too weak, as improving AI faces diminishing returns at every step."
+    },
+    {
+      "url": "https://stevekrouse.com/ends?utm_source=tldrnewsletter",
+      "title": "What Shall I Teach My Son?",
+      "summary": "The way we teach is often more important than the what."
+    },
+    {
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web?utm_source=tldrnewsletter",
+      "title": "Publish stats, get cited: The tactic that put my data all over the web",
+      "summary": "Research means fanout queries asking for statistics, and a number looks like evidence that can fill knowledge gaps."
+    }
+  ]
+}

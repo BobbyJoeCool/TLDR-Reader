@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-10-21",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin?utm_source=tldrdevops",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Stack Overflow built Stack Overflow for Agents in a few weeks with two engineers using Codex. A ChatGPT plugin reportedly tripled overnight registrations, and Codex cut enterprise connector build time from 3 to 6 weeks to 4 days."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/?utm_source=tldrdevops",
+      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
+      "summary": "Amazon ECS Gateway is a resource that simplifies ingress networking for containerized workloads by automatically provisioning load balancers and certificates. It allows up to 25 services to share a single Application Load Balancer to optimize infrastructure costs. Amazon ECS Gateway is available now in all commercial AWS Regions at no additional charge, though users pay for the underlying resources provisioned in their accounts."
+    },
+    {
+      "url": "https://blog.cloudflare.com/typescript-rust-port/?utm_source=tldrdevops",
+      "title": "Introducing tsrs: a Port of TypeScript to Rust",
+      "summary": "Cloudflare and VoidZero are collaborating on tsrs, a Rust port of the TypeScript compiler. Early benchmarks show tsrs is up to 8x faster and uses roughly 70% less memory than TypeScript 7.0. The team is working with the TypeScript team to ensure the port remains compatible with the official language design. Rust allows the compiler to run in WebAssembly, which enables development environments to run in browsers or on embedded devices."
+    },
+    {
+      "url": "https://thenewstack.io/ai-agents-kubernetes-control/?utm_source=tldrdevops",
+      "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+      "summary": "Kubernetes operators suit deterministic reconciliation, while AI agents suit goals with unclear paths, according to a CNCF-sponsored piece. Use an observe, diagnose, propose, approve, reconcile, and verify loop, with autonomy phased from read-only investigation to approved low-risk changes."
+    },
+    {
+      "url": "https://internals-for-interns.com/posts/go-simd/?utm_source=tldrdevops",
+      "title": "SIMD and Go",
+      "summary": "Go's experimental SIMD packages expose vector instructions that process multiple values in one operation without handwritten assembly. Examples cover vector registers, loads, arithmetic, and compiler behavior using Go 1.27's experimental SIMD support on amd64."
+    },
+    {
+      "url": "https://www.anthropic.com/research/redesigning-source-control?utm_source=tldrdevops",
+      "title": "Redesigning Source Control at Anthropic",
+      "summary": "Anthropic replaced Git for its monorepo with Scion, a centralized source control system designed for tens of millions of daily CI checkouts. Content-addressed storage, server-side repository operations, and tiered caches reduced its source-control CPU and memory footprint 200× compared with its previous Git mirroring infrastructure."
+    },
+    {
+      "url": "https://github.com/headroomlabs-ai/headroom?utm_source=tldrdevops",
+      "title": "Headroom (GitHub Repo)",
+      "summary": "Headroom compresses tool outputs, logs, files, and RAG chunks before they reach the LLM. Benchmarks show the compression results in 20% fewer tokens for coding agents and 60-95% fewer tokens for JSON. The tool runs locally to ensure no prompt or file content is sent externally."
+    },
+    {
+      "url": "https://github.com/vllm-project/vllm?utm_source=tldrdevops",
+      "title": "vLLM (GitHub Repo)",
+      "summary": "vLLM is a library for LLM inference and serving that originated in the Sky Computing Lab at UC Berkeley. The open-source project now has over 2,000 contributors and supports more than 200 model architectures on Hugging Face."
+    },
+    {
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/?utm_source=tldrdevops",
+      "title": "Cutting Our Inference Bill by 68% Through Optimization",
+      "summary": "Cloudflare reduced its AI code reviewer's average cost from $2.43 to $0.77 through shared prompt-cache prefixes, fewer redundant tool calls, and model and reasoning-effort changes. Median review time fell from 4 minutes 9 seconds to 1 minute 32 seconds, while quality checks exposed trade-offs where cheaper configurations missed important findings."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/?utm_source=tldrdevops",
+      "title": "Inside Prometheus: Meta's Journey to a Gigawatt-Scale Supercluster",
+      "summary": "Meta is building Prometheus, a gigawatt-scale supercluster in New Albany, Ohio, that will eventually comprise roughly 1 million GPUs. The first phase of the project has already trained the company's Muse foundational models. Meta achieved over 85% goodput for pre-training runs and reduced interruption rates by 99% from their peak. The cluster currently deploys NVIDIA GB200 and GB300 platforms, with plans to integrate the upcoming Vera Rubin NVL72 next."
+    },
+    {
+      "url": "https://openai.com/index/itau-generative-ai?utm_source=tldrdevops",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "Itaú is applying its AI-first strategy using OpenAI models, including the ia.i assistant that reached about 300,000 customers in its first phase."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/?utm_source=tldrdevops",
+      "title": "Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes",
+      "summary": "Google Cloud and Wiz released the Wiz Runtime Sensor add-on for GKE in preview."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-21",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.fratepietro.com/2026/how-to-build-a-decision-model-like-jev/?utm_source=tldrdev",
+      "title": "How to Build a Decision Model Like Jev",
+      "summary": "Decision models return probabilities over known outcomes in a single forward pass, avoiding the text generation and JSON parsing overhead of chat completions. This walkthrough starts with Hugging Face's /v1/systemone endpoint, then covers reserved option tokens, calibration, soft training targets, and tree batching for multiple questions over shared context."
+    },
+    {
+      "url": "https://builders.ramp.com/post/building-laminar?utm_source=tldrdev",
+      "title": "Building Laminar: Ramp's Managed Agents Platform",
+      "summary": "Ramp consolidated its agentic products onto an in-house, model-agnostic harness built on Postgres, Temporal, and S3. Session state lives independently of disposable sandboxes, while asynchronous steering, subagents, and shared tracing support everything from support chat to long-running knowledge work. The first version took six weeks to build, with experienced engineers steering and reviewing agent-generated code."
+    },
+    {
+      "url": "https://karlkoch.me/writing/on-alignment-that-looks-wrong/?utm_source=tldrdev",
+      "title": "On Alignment That Looks Wrong",
+      "summary": "Flexbox can center an SVG perfectly while the drawing inside still looks misplaced. Inspecting the viewport, correcting uneven viewBox space, and adjusting visual weight at the asset or component level produces better results than scattering pixel nudges across consumers. Play buttons, circle sizing, and hanging punctuation show why mathematical alignment and optical balance differ."
+    },
+    {
+      "url": "https://www.joshwcomeau.com/css/interop-2027/?utm_source=tldrdev",
+      "title": "The Future of CSS: My Top 10 Picks for Interop 2027",
+      "summary": "Ten proposed Interop priorities include CSS functions, shaped borders, anchored container queries, visual reading order, and transitions to auto dimensions. Interactive examples show what each feature enables and where progressive enhancement can make it useful today. The case for staying current is practical: developers need enough CSS knowledge to guide coding agents beyond older patterns in their training data."
+    },
+    {
+      "url": "https://jgunnink.substack.com/p/gemini-4-argon-early-access-review?utm_source=tldrdev",
+      "title": "Gemini 4: Argon, Early Access Review",
+      "summary": "Gemini 4 Argon handled an Android game, a UI redesign, and a distributed backend review well, with strong architectural planning and rapid changes across multiple files. Passing tests still hid cluttered layouts, accessibility regressions, and concurrency bugs, making browser checks, runtime logs, and adversarial self-review essential to getting reliable results."
+    },
+    {
+      "url": "https://github.com/google-pytorch/torch_tpu?utm_source=tldrdev",
+      "title": "TorchTPU (GitHub Repo)",
+      "summary": "TorchTPU provides a PyTorch backend for Google's TPUs, with custom ATen kernels, an XLA compilation cache, and torch.compile integration. The repository includes distributed training support, debugging utilities, and examples for models including Llama, Qwen, and ResNet."
+    },
+    {
+      "url": "https://mistral.ai/news/voxtral-3/?utm_source=tldrdev",
+      "title": "Voxtral 3",
+      "summary": "Mistral's Voxtral 3 combines transcription, expressive speech generation, and a voice agent SDK for streaming conversations with tool calls. Transcription supports more than 50 languages, while speech synthesis covers more than 35 languages and 50 dialects. The models are available through an EU-hosted API or self-deployment."
+    },
+    {
+      "url": "https://blog.cloudflare.com/typescript-rust-port/?utm_source=tldrdev",
+      "title": "Introducing tsrs: A Port of TypeScript to Rust",
+      "summary": "Cloudflare and VoidZero, in collaboration with the TypeScript team, are developing tsrs as a faithful Rust port of TypeScript within the Oxc toolchain. Early matched-configuration benchmarks report up to 8x faster checking and about 70% less memory than TypeScript 7.0. An experimental npm release is available, though compatibility differences remain before a stable release."
+    },
+    {
+      "url": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/?utm_source=tldrdev",
+      "title": "Do web components have a future if nobody is writing them?",
+      "summary": "Agentic coding challenges the case for web components as a way to make scarce, handwritten code reusable. Google's Modern Web Guidance offers little encouragement for new custom elements, and the argument extends to JavaScript frameworks as code generation becomes cheaper. Sandboxing and reuse remain possible defenses, but each has limitations."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
+      "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more."
+    },
+    {
+      "url": "https://kiro.dev/blog/how-kiro-fixes-itself/?utm_source=tldrdev",
+      "title": "How Kiro Fixes Itself, and How We Keep the Fixes Honest",
+      "summary": "Kiro mines its own execution traces to find wasted effort and propose prompt or tool changes, while deterministic gates test improvements against fresh controls and a permanent regression suite. Seven fixes merged in the first week, and a compaction change raised internal retention scores from 0.82 to 0.92. The reported gains come from internal experiments, and every accepted change still requires human code review."
+    },
+    {
+      "url": "https://magiroux.com/posts/from-use-case-to-graphql-operation?utm_source=tldrdev",
+      "title": "From Use Case to GraphQL Operation: A Layered Approach for Agents",
+      "summary": "A layered GraphQL approach lets agents start with local persisted operations, search an operation index, and reach for schema-driven query building or schema evolution only when needed. Persisting useful operations back into the index reduces repeated work, while fit evaluation determines when an existing query is sufficient and when the agent needs a more dynamic approach."
+    },
+    {
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/?utm_source=tldrdev",
+      "title": "Announcing TypeScript 7.1 Beta",
+      "summary": "TypeScript 7.1 Beta adds import attributes in ambient module declarations, source phase imports, an ES2026 target, and a new API for building developer tools."
+    },
+    {
+      "url": "https://rombo.co/tailwind/?utm_source=tldrdev",
+      "title": "Rombo for Tailwind CSS (Website)",
+      "summary": "Rombo's open-source Tailwind CSS animation library provides configurable motion presets and a visual editor for creating animations and copying their utility classes."
+    },
+    {
+      "url": "https://eze.page/?utm_source=tldrdev",
+      "title": "eze: Private Websites for Your Team (Website)",
+      "summary": "eze turns an HTML folder into a self-hosted company website with shared sign-in, a database, live updates, file uploads, and AI access."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers?utm_source=tldrdev",
+      "title": "What's the ROI of Software Engineers' Spending on AI?",
+      "summary": "Data from 27 companies shows widely varying AI spending and PR output, with higher spend often failing to translate into faster shipping."
+    }
+  ]
+}
