@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-22",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/building-chatgpt-ad-stack/?utm_source=tldrdev",
+      "title": "How ChatGPT's Ad Stack Works",
+      "summary": "ChatGPT's ad system uses a post-trained LLM to orchestrate retrieval, ranking, relevance checks, and auctions as user intent evolves across conversations. Stateful ad sessions preserve context, while separate models, services, and code keep ad selection outside ChatGPT's answer-generation path."
+    },
+    {
+      "url": "https://tldraw.dev/blog/computing-bounding-boxes?utm_source=tldrdev",
+      "title": "Computing Bounding Boxes",
+      "summary": "tldraw transforms shape vertices into page coordinates, then takes their minimum and maximum values to compute fast axis-aligned bounding boxes. The walkthrough covers nested transforms and rotated selection handles, with approximate bounds filtering candidates before more expensive geometry checks."
+    },
+    {
+      "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse?utm_source=tldrdev",
+      "title": "Front-end Observability at Scale with ClickHouse",
+      "summary": "OpenReplay's largest customers ingest billions of events and roughly 6 TB daily on a single ClickHouse instance, with sub-second queries. Moving behavioral analytics out of Postgres also replaced disruptive retention cleanups with TTL rules and simplified data pipelines through materialized views."
+    },
+    {
+      "url": "https://aboard.com/the-web-is-more-than-enough/?utm_source=tldrdev",
+      "title": "The Web Is More Than Enough",
+      "summary": "Modern browsers already offer cryptography, native-speed code, graphics, and audio, while AI makes those capabilities easier for individuals to use. Falling development and hosting costs could expand personal software creation and challenge app-store economics."
+    },
+    {
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html?utm_source=tldrdev",
+      "title": "Asking LLM for Confidence",
+      "summary": "An LLM's stated confidence is generated text, so a precise-looking number should not be treated as a calibrated measure of correctness. The proposed alternative derives scores from observable evidence and historical outcomes, then checks calibration regularly on the same kinds of tasks."
+    },
+    {
+      "url": "https://hrih.si/articles/who-holds-the-off-switch/?utm_source=tldrdev",
+      "title": "Who Holds the Off Switch?",
+      "summary": "Five imagined coffee purchases in 2035 illustrate different models of data control, from state surveillance and privacy regulation to commercial data markets, public infrastructure, and biometric identity. Privacy increasingly depends on who can stop collection. AI assistants and paid privacy tiers will make that question more pressing."
+    },
+    {
+      "url": "https://claude.com/product/claude-duet?utm_source=tldrdev",
+      "title": "Claude Duet (Website)",
+      "summary": "Claude Duet is a proactive agent that delivers morning briefs, handles tasks while you are away, and asks for approval when needed. The research preview uses Opus 5.5, carries over Claude memory, skills, and apps, and is offered through a waitlist for US Pro and Max users."
+    },
+    {
+      "url": "https://github.com/omnara-ai/omnara?utm_source=tldrdev",
+      "title": "Omnara (GitHub Repo)",
+      "summary": "Omnara is an open-source managed agent platform that can run with different model providers and execute tools on sandboxes or your own machines. A REST API, TypeScript SDK, CLI, and dashboard expose agent runs, while a Postgres event log lets workers resume them after crashes."
+    },
+    {
+      "url": "https://www.a16z.news/p/why-hardware-specialization-is-back?utm_source=tldrdev",
+      "title": "Why Hardware Specialization Is Back",
+      "summary": "Slower transistor scaling, memory bottlenecks, and power limits are renewing the case for specialized AI inference hardware. Matching different inference phases to different accelerators can improve performance per watt while adding deployment and software complexity and leaving room for GPUs to absorb successful ideas."
+    },
+    {
+      "url": "https://taekim.substack.com/p/an-interview-with-openais-richard?utm_source=tldrdev",
+      "title": "Inside OpenAI's Jalapeño AI Chip",
+      "summary": "OpenAI's Jalapeño inference chip links 64 dedicated cores to individual HBM memory banks to reduce data movement and improve utilization. This interview explains the tradeoff in memory-management complexity, the choice to keep prefill and decode on fungible hardware, and how AI-assisted optimization accelerated chip design and kernel development."
+    },
+    {
+      "url": "https://cameronrwolfe.substack.com/p/subjective-evals?utm_source=tldrdev",
+      "title": "Evaluating Agents on Highly Subjective Tasks",
+      "summary": "Reliable evaluation of open-ended agent tasks combines calibrated human judgments, automated judges or rubrics, and production monitoring. Power analysis, confidence intervals, and repeated runs help distinguish improvements from noise, while realistic, diverse tasks, and production feedback keep benchmarks useful."
+    },
+    {
+      "url": "https://openai.com/index/openai-models-google-cloud/?utm_source=tldrdev",
+      "title": "OpenAI Models Are Coming to Google Cloud",
+      "summary": "OpenAI frontier models and Codex workflows are coming to Google Cloud's Model Garden."
+    },
+    {
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st?utm_source=tldrdev",
+      "title": "Railway Security Disclosure",
+      "summary": "Railway reports possible unauthorized access to customer environment variables, including some decrypted contents, and recommends rotating stored secrets and private registry credentials while reviewing service logs."
+    },
+    {
+      "url": "https://google.github.io/styleguide/rustguide.html?utm_source=tldrdev",
+      "title": "Google Rust Style Guide (Website)",
+      "summary": "Google's Rust style guide covers code organization, formatting, ownership, API design, traits, errors, and concurrency."
+    },
+    {
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/?utm_source=tldrdev",
+      "title": "Chain of Thought for Humans",
+      "summary": "Narrating your reasoning aloud can aid problem-solving by exposing assumptions, organizing dependencies, making rules explicit, and clarifying choices for backtracking."
+    }
+  ]
+}

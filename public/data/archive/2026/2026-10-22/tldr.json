@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-22",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html?unlocked_article_code=1.KlE.QAgO.72jJWCZG7Z62&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Anthropic Joins the AI Agent Race With Claude Duet",
+      "summary": "Anthropic's Claude Duet joins a fast-growing field of AI assistants that take actions and perform tasks on their own. Unlike OpenAI's dots and Meta's Muse, Anthropic's agent was built for work and is less capable at personal errands. It can connect to more than 6,000 outside apps and make purchases through Link, Stripe's digital wallet, and Shopify's Shop Pay. The agent shows users exactly what it plans to do before performing actions, and some actions, like trading stocks or moving money between accounts, are blocked even with user approval. The wait list to use the agent is now open to Anthropic's Pro and Max plan subscribers."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2026-10-22/tesla-spacex-merger-why-musk-wants-a-deal-before-trump-leaves-office?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYzNTU2MywiZXhwIjoxNzkzMjQwMzYzLCJhcnRpY2xlSWQiOiJUTkE4SERLR1pBSkQwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.d68zeuF7ErOwhw0McTs2vQCc-w5gFsYLKhtweLq1Kmc&utm_source=tldrnewsletter",
+      "title": "Musk Tries to Lock In His Tesla-SpaceX Dream Before Trump's Exit",
+      "summary": "Elon Musk is fully behind a combination of SpaceX and Tesla, his two most valuable companies. He is pushing to announce a deal by the first half of 2027 so it closes during the Trump administration. The timing will depend on when Tesla's board gets comfortable with the details - SpaceX shareholder approval is less of an obstacle, as Musk controls more than 80% of the voting power. Combining the companies before the end of this administration would consolidate Musk's corporate power before a potentially less accommodating political and financial environment takes hold."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/?utm_source=tldrnewsletter",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "summary": "Tesla has started production of its Optimus humanoid robot at its factory in Fremont, California. While the company admits there is still more work to be done before the robot is fully safe and reliable, it says it has proven that the current manufacturing process for Optimus is suitable for a commercial product. Elon Musk says Tesla will be able to make 20,000 units per week by the end of 2027. Tesla's profits fell 43% in the third quarter due to heavy investments in its Optimus robots, AI, and autonomous driving."
+    },
+    {
+      "url": "https://phys.org/news/2026-10-physicists-particle-antimatter-months.html#google_vignette?utm_source=tldrnewsletter",
+      "title": "Physicists trap and tame single particle of antimatter for months",
+      "summary": "Physicists at Northwestern University have coaxed a single positron (the antimatter counterpart of an electron) into an exquisitely controlled quantum state for the first time. The scientists cooled the fast-moving particle to nearly absolute zero after capturing it from radioactive decay, and then suspended it in a near-perfect vacuum, resulting in a state where the positron behaved much like an artificial atom with quantum energy levels scientists can precisely control and observe. The technique could enable the most precise test yet of a fundamental symmetry between electrons and their antimatter counterparts."
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/?utm_source=tldrnewsletter",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "summary": "Git traffic grew exponentially over the past year. During that time, GitHub started moving almost all of its repositories to Azure. This post discusses how per-reference quorums will bring over the rest, and how object storage lets reads scale independently."
+    },
+    {
+      "url": "https://blog.exe.dev/topology?utm_source=tldrnewsletter",
+      "title": "The Topology of an LLM Agent Loop With Tool Use",
+      "summary": "An agent is three things: a model, an agentic loop, and a set of tools. Where these run has implications for cost, capability, effectiveness, and security. If you focus on topology, you can break down any agentic product and reason about what a product can and cannot do. There isn't one perfect loop - good UX for a general-purpose chatbot is not the same as good UX for a coding agent."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/?utm_source=tldrnewsletter",
+      "title": "The internet is having a very bad cybersecurity day",
+      "summary": "AI has discovered critical security vulnerabilities in PHP, prompting the US National Security Agency to advise organizations using PHP to either update immediately or take their systems offline until they can. Node.js has released an update that fixes four high-severity vulnerabilities. LiteLLM was compromised by an attacker who injected malicious code. eMudhra, an Indian certificate authority, had its private keys compromised, potentially allowing attackers to issue fraudulent certificates and impersonate legitimate websites. These unrelated issues highlight the challenges cybersecurity teams now face."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html?unlocked_article_code=1.KlE.nrh3.m2Uy2OLbBIlz&smid=url-share&utm_source=tldrnewsletter",
+      "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California's Proposed Wealth Tax",
+      "summary": "California's proposed tax on billionaires prompted Mark Zuckerberg to leverage the board at Meta to get the company to protect him from it. He issued an ultimatum to the board on September 9 that he would sell his home in Palo Alto, and the listing would be public, if a deal wasn't struck by September 13.  The board decided to issue a new class of stock to shareholders that Zuckerberg could sell to pay the potential wealth tax without cutting into his 60.6% voting power. California's proposal would assess a one-time 5% tax on all holdings of billionaires who lived in California as of January 1, 2026."
+    },
+    {
+      "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/?utm_source=tldrnewsletter",
+      "title": "The compiler was supposed to end programming too",
+      "summary": "IBM claimed FORTRAN would virtually eliminate coding and debugging back in 1954."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/?utm_source=tldrnewsletter",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary": "Over a quarter of Muse's engaged users were shopping via the AI agent, with an average purchase size of over $200."
+    },
+    {
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/?utm_source=tldrnewsletter",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "summary": "PHP's recent release fixes two critical vulnerabilities that allow unauthenticated attackers to execute code on servers running PHP."
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/?utm_source=tldrnewsletter",
+      "title": "Mathematics is a subject for the young",
+      "summary": "Mathematics is changing faster than at any point in its history, and today's graduate students and postdocs will shape its future."
+    },
+    {
+      "url": "https://www.agentready.org/?utm_source=tldrnewsletter",
+      "title": "The open standard for agent readiness",
+      "summary": "AgentReady is an open specification for what a product should implement to be usable by AI agents."
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153?utm_source=tldrnewsletter",
+      "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
+      "summary": "Demis Hassabis believes that AI can lead to an amazing future, but we have to intentionally build toward it."
+    }
+  ]
+}

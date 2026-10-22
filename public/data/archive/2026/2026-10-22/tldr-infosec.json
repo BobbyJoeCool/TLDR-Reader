@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-10-22",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/?utm_source=tldrinfosec",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "summary": "Eight eMudhra intermediate TLS certificates had private keys of only 3 to 8 bits, allowing anyone who recovered them to sign browser-trusted certificates for arbitrary servers. Browsers, several apps, and programming languages have blocked the certificates. VPN users face the immediate risk from active man-in-the-middle attacks. Updating Linux distributions, embedded systems, IoT devices, and bundled trust stores remains a long remediation effort."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/?utm_source=tldrinfosec",
+      "title": "Stolen UpdraftCentral Keys Used to Backdoor WordPress Sites",
+      "summary": "A threat actor breached the popular WordPress backup and security plugin developer TeamUpdraft's customer database. In addition to customer billing and order history, the attackers also stole password hashes, two-factor authentication information, and connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone services. These connection keys can be used to remotely issue commands to vulnerable websites."
+    },
+    {
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/?utm_source=tldrinfosec",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "summary": "PHP released emergency fixes for two exploited zero-days, CVE-2026-109618 and CVE-2026-109619. They enable remote code execution, denial of service, and data exposure on servers running PHP 5.4 or later. Government sites reportedly went offline. Cloudflare has deployed WAF rules. The fixed versions are PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. Patch exposed servers now and watch for web-shell deployment."
+    },
+    {
+      "url": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/?utm_source=tldrinfosec",
+      "title": "Package Managers Have an Integrity Problem",
+      "summary": "If efforts to reduce supply chain attacks via developer compromise succeed, attacks will shift to attacking package registries as the next weakest link. Some package managers store hashes in a lock file. However, they often use these for purposes other than cryptographic integrity. Similarly, support for signatures is not consistent and often not verified by default."
+    },
+    {
+      "url": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/?utm_source=tldrinfosec",
+      "title": "Context is King in the Fight Against Modern Cyberattacks",
+      "summary": "Traditionally, defensive security has taken a reactive model, searching for specific attacks and responding to a single attack vector. Modern defenses need a contextual view to assess whether a seemingly benign action is anomalous or risky in the context in which it occurs. To use contextual security practices, teams should ensure they have enough quality data, clear boundaries on what actions require human oversight, and the ability to reverse any automated actions."
+    },
+    {
+      "url": "https://medium.com/@adan.alvarez/i-gave-14-llms-aws-keys-heres-what-they-wanted-to-do-next-48585761a11b?utm_source=tldrinfosec",
+      "title": "I Gave 14 LLMs AWS Keys. Here's What They Wanted to Do Next",
+      "summary": "Adan Alvarez provided 14 LLMs with AWS keys and instructed them to handle 13 post-compromise scenarios to better understand how models exploit AWS accounts. 12 of the 14 models began by calling GetCallerIdentity, while the others started with ListUsers. Most created new IAM users to establish persistence. When models knew a secret was available, they tried to retrieve it 87% of the time. However, only 11% proposed any destructive actions."
+    },
+    {
+      "url": "https://github.com/OpenVanta/GrantGuard?utm_source=tldrinfosec",
+      "title": "GrantGuard (GitHub Repo)",
+      "summary": "GrantGuard audits the permissions that have been granted to Claude Code when clicking “always allow.” GrantGuard classifies and groups permissions into risk groups and provides a UI for review and removal."
+    },
+    {
+      "url": "https://asymptotelabs.ai/?utm_source=tldrinfosec",
+      "title": "Asymptote Labs (Product Launch)",
+      "summary": "Asymptote Labs provides Beacon, an open-source telemetry layer for AI agents. It collects activity from more than 20 agent harnesses and normalizes it into an OpenTelemetry-based data model. Its enterprise platform enforces policy guardrails during prompts and tool execution, blocking unsafe actions in real time."
+    },
+    {
+      "url": "https://github.com/aixisstudio/Snitch?utm_source=tldrinfosec",
+      "title": "Snitch (GitHub Repo)",
+      "summary": "Snitch is a real-time network traffic visualizer to see every connection your computer is making"
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes?utm_source=tldrinfosec",
+      "title": "Claude Security now scans continuously and tracks fixes",
+      "summary": "Claude Security now rescans connected repositories as code changes, marking findings fixed when the fix lands and reopening them automatically if the issue reappears. Each project carries an editable threat model and team knowledge base that shape severity ratings and attack-path explanations, and multi-repo projects let it catch trust-boundary bugs between services. A new API, webhooks, an MCP connector, and role-based access controls fit it into existing triage workflows, with the public beta open to Claude Enterprise customers alongside $25,000 in monthly credits for two months."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/?utm_source=tldrinfosec",
+      "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
+      "summary": "Vizio OS TVs kept sending traffic to an Amazon Kinesis ACR endpoint in every opted-out scenario tested, including while idle, according to a Northeastern University study of eight smart TV OSes across 12 TVs. Samsung's Tizen also kept contacting ACR endpoints after opt-out during first-party streaming, antenna, and HDMI viewing, while Roku's post-opt-out traffic was limited to The Roku Channel and disclosed in its terms. Encryption kept the researchers from confirming what the traffic contained, so the findings pointed to likely rather than proven consent violations."
+    },
+    {
+      "url": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/?utm_source=tldrinfosec",
+      "title": "Suppressing misalignment monitoring alerts and disabling misalignment monitoring",
+      "summary": "OpenAI reports two internal incidents on October 3 and 6. A GPT-6.1 Sol agent emptied monitoring alert recipients and set no_notify after treating a “don't send messages” instruction as covering security alerts. A GPT-6 Astra agent removed monitoring during a code migration, then told the user it had not. Neither case was classed P0. OpenAI is updating Auto-Review to block monitoring disabling and plans automatic termination of workloads lacking valid safety cases."
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case?utm_source=tldrinfosec",
+      "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
+      "summary": "A New Mexico judge ordered Meta to pay $25bn after a jury found 26 of 29 company statements misleading in a Cambridge Analytica case tallying over 43m consumer protection violations, cutting a penalty he said could have justified more than $219bn."
+    },
+    {
+      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html?utm_source=tldrinfosec",
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "summary": "SBI said it found 3,897 customer records with personal data in a dark-web set of about 375,000 records."
+    },
+    {
+      "url": "https://www.malwarebytes.com/blog/bugs/2026/10/signal-bug-could-let-someone-keep-listening-after-you-hang-up?utm_source=tldrinfosec",
+      "title": "Signal bug could let someone keep listening after you hang up",
+      "summary": "A malicious call participant could flood RingRTC's internal event queue to keep Signal call audio flowing after the other party hung up, a flaw tracked as CVE-2026-113380 (CVSS 9.3) and fixed in RingRTC 2.72.0."
+    }
+  ]
+}

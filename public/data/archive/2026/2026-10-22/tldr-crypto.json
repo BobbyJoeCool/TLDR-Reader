@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-10-22",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470?utm_source=tldrcrypto",
+      "title": "OCC debuts final rule implementing Trump-signed GENIUS Act",
+      "summary": "The OCC is the first regulator to finalize its GENIUS Act stablecoin rule. Effective January 18, it creates pathways for banks and non-banks to issue payment stablecoins, sets standards for foreign issuers, and sets standards for custody. The final rule drops a presumption in the proposal that certain issuer relationships with third parties could be unlawful, since the OCC saw no “nascent market” for it. The ban on issuers directly paying interest stays. An OCC official said third-party reward arrangements will be judged case by case, with authority to act against clear evasion. Rewards are also a main sticking point in the stalled Senate CLARITY Act."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442?utm_source=tldrcrypto",
+      "title": "Utah likens Kalshi to a ‘back-alley gambling den'",
+      "summary": "Utah's attorney general sued five Kalshi companies plus Susquehanna International Group and Susquehanna Government Products for running an illegal gambling business. The complaint says calling bets “event contracts” doesn't change what Kalshi offers. It also targets the firms on the other side of user bets, which sports attorney Daniel Wallach called the first state enforcement action against prediction-market market makers. Utah estimates Kalshi collected $30.6M to $61.2M in fees from Utah accounts through October 19. It wants sports, election, politics, culture, and “mentions” bets blocked, tighter location checks, and money returned plus damages."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2112549867948314803.html?utm_source=tldrcrypto",
+      "title": "Celestia Fibre Goes Live on Mainnet",
+      "summary": "Celestia deployed Fibre on mainnet, its largest protocol upgrade since the network's 2023 launch, achieving 3.07 Tb/s data availability throughput for rollups and modular chains dependent on the DA layer. The upgrade targets throughput demands for global financial settlement and AI agent-driven commerce, extending Celestia's modular architecture into workloads at a scale well beyond its prior DA capacity. TIA gained 59% over the four weeks before the launch and reached a 2026 high of $0.68 as traders positioned ahead of the upgrade."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2112597037623713895.html?utm_source=tldrcrypto",
+      "title": "Mastercard Agents Now Paying for Digital Services via Coinbase x402",
+      "summary": "Mastercard's AI agents can now pay for digital services on-chain via Coinbase's x402 protocol and Cloudflare, making Mastercard one of the first major card networks to deploy HTTP-native agentic payment rails at scale. They released Agent Pay for Machines (AP4M), a pilot protocol that lets merchants get card-network settlement guarantees while settling onchain via Base and Coinbase's x402 facilitator."
+    },
+    {
+      "url": "https://x.com/PaulFrambot/status/2112544788373520740?utm_source=tldrcrypto",
+      "title": "Morpho Brings Receivable-Backed Credit Markets Onchain via Morpho Midnight",
+      "summary": "Morpho is bringing receivable-backed credit markets onchain through Morpho Midnight, enabling businesses to borrow against accounts receivable via programmable fixed-rate lending with 100% capital utilization and automated repayment priority enforcement. The launch targets a market where global factoring turnover reached €4.04 trillion in 2025, with Morpho's stated goal of capturing a portion of the $200T global credit market onchain. Core technical requirements include onchain proof of receivables, anti-double-financing mechanisms, and compliance-based access controls, allowing global capital to compete openly for deal flow. The product extends DeFi collateral from wallet-held crypto assets to business cash flows, broadening the asset base that onchain lending markets can underwrite."
+    },
+    {
+      "url": "https://x.com/Rightsideonly/status/2112565430770655588?utm_source=tldrcrypto",
+      "title": "Five Emerging DeFi Projects Worth Watching",
+      "summary": "Mezzanine applies TradFi-style tranching to single-asset yield vaults, splitting deposits into junior, mezzanine, and senior tranches, with its debut Hastra Optimizer vault audited by Sherlock and ChainSecurity and verified by Certora ahead of launch. INFINIT's APEX MultiStrategy vault returned 7.18% over 82 days (31.94% APR) on $506K USDC by trading long/short across crypto, equities, and commodities on Hyperliquid using regime-detection filters that sit out when no setups clear its scoring threshold. IRIS overlays fixed-rate, fixed-term loans atop Morpho Blue and Aave V3 via solvers who post bonds to cover the fixed-floating spread, removing the need for a standalone liquidity pool. RISEx runs a perps orderbook on-chain inside the RISE L2 EVM with 43 markets and $39M open interest, while Boros expands its funding-rate swap infrastructure to cross-venue spreads between Hyperliquid and Gate, with the short side quoting 25-35% fixed APR at launch."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2112625912017465368.html?utm_source=tldrcrypto",
+      "title": "Bloomberg's Joe Weisenthal Reconsiders His Skepticism of Blockchain Technology",
+      "summary": "Bloomberg journalist Joe Weisenthal, who spent years dismissing the \"blockchain not Bitcoin\" camp, posted a reassessment acknowledging that separating Bitcoin's speculative nature from blockchain's underlying utility may have been a defensible position. The post drew nearly 3,000 likes and 292 retweets from a mainstream finance audience, reflecting how widely his credibility extends in TradFi circles where that skepticism has persisted. The reversal arrives as enterprise blockchain adoption in settlement, tokenization, and custody has grown concrete enough to pull even longtime critics toward reexamination."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2112685080770400654.html?utm_source=tldrcrypto",
+      "title": "Blockchain Association Submits SEC Comments on Proposed Regulation",
+      "summary": "The Blockchain Association submitted a formal comment letter to the SEC on its proposed Regulation Crypto Assets framework, offering recommendations to improve practical workability for builders, investors, and market participants. The SEC's proposal marks the agency's most comprehensive digital asset rulemaking effort to date, and the public comment period gives industry groups a formal channel to influence the final framework. The Association, backed by major crypto companies, characterized the proposal as a meaningful step toward fit-for-purpose US crypto rules while flagging specific implementation concerns in its letter."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2112703684866179461.html?utm_source=tldrcrypto",
+      "title": "Kazakhstan court issues injunctions against Coinbase and others",
+      "summary": "The AIFC Court, at the request of Kazakhstan's Astana Financial Services Authority, barred Coinbase, BingX, Bitcoin.com, HTX, BitMart, and WEEX from offering or marketing digital asset services, or distributing apps, within the AIFC without licenses."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2112696617770082536.html?utm_source=tldrcrypto",
+      "title": "Aave generated at least $1M from 10 different revenue streams in 2026",
+      "summary": "Aave's revenue is less dependent on one source as it expands into tokenized equities, new collateral types, more lending markets, and a broader consumer base."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2112633994865148059.html?utm_source=tldrcrypto",
+      "title": "Unsecured credit is a massive opportunity",
+      "summary": "Unsecured credit is a big opportunity for neobanks and consumer platforms, but the hard part is aligning distribution, underwriting, and capital."
+    }
+  ]
+}

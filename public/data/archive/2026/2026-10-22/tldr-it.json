@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-22",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio/?utm_source=tldrit",
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI has acquired Orchestra Bio, a platform designed to help biopharma teams coordinate the complex process of drug development. The acquisition brings Orchestra's team and technology together with Rosalind, OpenAI's existing life sciences research initiative. Together, the combined effort aims to build AI agents that assist researchers in connecting scientific discoveries with clinical studies and regulatory workflows."
+    },
+    {
+      "url": "https://apnews.com/article/a0af9576808a0963efca8df14d4b5183?utm_source=tldrit",
+      "title": "AI-discovered PHP vulnerabilities force websites offline",
+      "summary": "Critical vulnerabilities discovered with AI assistance in PHP, a programming language powering much of the web, have prompted websites to temporarily shut down for emergency updates. Security agencies warned that the flaws could enable remote code execution, while researchers and technology companies worked to deliver patches before attackers could exploit them."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/?utm_source=tldrit",
+      "title": "Blacksmith hits $1B valuation as AI-generated code drives CI demand",
+      "summary": "Blacksmith raised $66 million in a Sequoia-led Series C, reaching a $1 billion valuation just two months after its previous funding round. The continuous integration platform has grown annual recurring revenue 17-fold as AI coding agents generate increasing volumes of software that require automated building, testing, and validation."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html?utm_source=tldrit",
+      "title": "Salesforce announces $5.66 billion deal for Braze",
+      "summary": "Salesforce announced an agreement to acquire customer engagement platform Braze for approximately $5.66 billion, offering $47.50 in cash per share. The transaction is expected to close in fiscal 2028, pending shareholder and regulatory approvals. Following the news, Braze shares surged more than 51% to close at $45.57."
+    },
+    {
+      "url": "https://www.cio.com/article/4237913/the-cios-new-recovery-problem-knowing-what-good-looks-like.html?utm_source=tldrit",
+      "title": "The CIO's new recovery problem: Knowing what ‘good' looks like",
+      "summary": "Enterprise technology complexity sprawl makes disaster recovery increasingly difficult by obscuring what a trustworthy system normal state looks like. CIOs need to treat inventory, dependency mapping, and governance as active recovery capabilities rather than documentation exercises. Furthermore, organizations should establish decision rights and conduct comprehensive organizational testing before incidents occur to ensure they can evaluate changes and dependencies under pressure."
+    },
+    {
+      "url": "https://ines.io/blog/agent-ux-developer-tools?utm_source=tldrit",
+      "title": "Agent UX: Building developer tools for humans and their coding agents",
+      "summary": "Modern developer tools must provide shared interfaces that humans, coding assistants, and APIs can operate simultaneously to avoid turning users into reverse centaurs. To address this, the Explosion team built Ellf, an agentic NLP development platform that generates matching UIs and CLIs from Python functions and type hints. Coding assistants have made self-hosted cluster architectures practical for more teams by helping with setup and debugging."
+    },
+    {
+      "url": "https://www.databricks.com/blog/introducing-agent-memory-databricks?utm_source=tldrit",
+      "title": "Databricks launches Agent Memory to make AI agents smarter and cheaper",
+      "summary": "Databricks has introduced Agent Memory in beta on Agent Bricks, enabling AI agents to retain user preferences, organizational knowledge, and workflows across conversations. Built on Lakebase and its MemCurrent architecture, the system tripled agent task success rates while reducing token usage by 31% in internal benchmarks."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/?utm_source=tldrit",
+      "title": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
+      "summary": "Amazon ECS Gateway is a managed ingress solution that simplifies containerized application networking by dynamically provisioning and managing Application Load Balancers. The new service allows platform teams to define centralized networking standards for multiple clusters, while application teams can opt in without requiring networking expertise. ECS Gateway supports host-based routing, allows up to 25 services to share an ALB, and provides each service with a unique DNS hostname. It is available at no additional charge across all commercial AWS Regions."
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search?utm_source=tldrit",
+      "title": "Google brings Gemini-powered search to air-gapped environments",
+      "summary": "Google introduced enterprise search capabilities for its air-gapped Distributed Cloud, allowing organizations to search sensitive documents with Gemini while keeping data and models entirely within their own infrastructure."
+    },
+    {
+      "url": "https://www.wiz.io/blog/from-phishing-to-llmjacking?utm_source=tldrit",
+      "title": "From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage",
+      "summary": "Researchers report that threat actors are compromising privileged Google Cloud credentials via phishing campaigns to hijack cloud billing accounts for unauthorized mass AI execution, specifically targeting Gemini API resources. Attackers leverage excessive permissions, modify domain restriction policies, and link external, attacker-controlled projects to victim billing accounts to offload costs. Organizations face rapid financial surges reaching hundreds of thousands of dollars within days while prompt payloads remain hidden in foreign tenants."
+    },
+    {
+      "url": "https://qz.com/deepseek-open-source-deepinfer-inference-software-ai-102026?utm_source=tldrit",
+      "title": "DeepSeek open-sources DeepInfer",
+      "summary": "DeepSeek has released its high-performance inference framework as open source, giving developers access to infrastructure designed to reduce AI inference costs."
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference?utm_source=tldrit",
+      "title": "llm-d 1.0, an open source stack for distributed inference",
+      "summary": "An open, Kubernetes-native serving stack with cache-aware routing, multi-tenant traffic control, tiered KV cache, and high availability ready for production on Google Cloud."
+    }
+  ]
+}
