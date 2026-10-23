@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-23",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop?utm_source=tldrdev",
+      "title": "Building agents: When to fold subagents into your main agent loop",
+      "summary": "Folding routers, planners, and domain specialists into a single agent loop can reduce lossy handoffs, cost, and latency when skills and tool search load context on demand. Anthropic describes migration patterns and evaluations for deciding which boundaries to remove. Separate agents still help with independent parallel work, verification, permission boundaries, and measurable context overload."
+    },
+    {
+      "url": "https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/?utm_source=tldrdev",
+      "title": "Anthropic builds its own source control system",
+      "summary": "Anthropic replaced Git in its monorepo with Scion as daily merges grew from about 2,500 to more than 30,000 and CI reached 25 million checkouts a day. Its Rust client and server store changesets in Spanner and blobs in Google Cloud Storage, with a separate review system replacing GitHub's workflow."
+    },
+    {
+      "url": "https://getstream.io/blog/ai-agent-production-investigation/?utm_source=tldrdev",
+      "title": "We Built an AI Agent to Investigate Production Issues",
+      "summary": "Stream's incident agent gathers logs, metrics, database results, and code references, then has a fresh session challenge its conclusions before posting findings. Read-only tools, isolated credentials, restricted networking, and output filters enforce its limits outside the prompt. Engineers approve every fix, while 22 evaluation cases test real incidents and past mistakes."
+    },
+    {
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird?utm_source=tldrdev",
+      "title": "Docker is weird",
+      "summary": "Building a container runtime exposes Docker as a collection of Linux mechanisms, including namespaces, cgroups, and filesystem isolation around ordinary processes. This walkthrough explains why Go's multithreaded runtime complicates container setup and why rootless networking often requires extra work in userspace."
+    },
+    {
+      "url": "https://lethain.com/small-changes/?utm_source=tldrdev",
+      "title": "Speeding up code review with small-change",
+      "summary": "Imprint is testing a faster review path for narrowly scoped changes as rising PR volume pushes median review time from 33 to 77 minutes. Eligibility depends on a CI-controlled check covering change size, service experience, scope, and automated review findings, with shared libraries and sensitive paths excluded. Errors are treated as failures to improve in the verification system."
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/?utm_source=tldrdev",
+      "title": "Is Your Organization Messing Up AI Adoption?",
+      "summary": "AI adoption needs changes to incentives, working practices, and support alongside software licenses. Staff need role-specific training, time to experiment, and a reason to share in productivity gains without fearing punishment for mistakes. Shadow AI can reveal gaps in official tools that blanket restrictions only push out of sight."
+    },
+    {
+      "url": "https://tanstack.com/blog/tanstack-ai-1-0?utm_source=tldrdev",
+      "title": "TanStack AI 1.0: Still Your AI, Still Your Way",
+      "summary": "TanStack AI brings 76 packages to stable APIs for chat, tools, media, MCP, persistence, and sandboxes while preserving provider and framework choice. Upgrade all client and server packages together and replace APIs deprecated in 0.x. The newly introduced agent harness remains experimental."
+    },
+    {
+      "url": "https://github.com/NVIDIA/OpenShell?utm_source=tldrdev",
+      "title": "NVIDIA OpenShell (GitHub Repo)",
+      "summary": "OpenShell runs agents in policy-controlled sandboxes with kernel-enforced file and network limits, credential injection, and formal checks on proposed access changes."
+    },
+    {
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/?utm_source=tldrdev",
+      "title": "Jailbreaking the Switch 2",
+      "summary": "ns2jb is a software-only, tethered jailbreak demonstrated on Switch 2 firmware 23.0.1. It enables native code execution for homebrew and game modifications."
+    },
+    {
+      "url": "https://www.ai21.com/blog/gitlab-case-study/?utm_source=tldrdev",
+      "title": "How we cut GitLab Duo Code Review's cost by 98%",
+      "summary": "AI21 combined a switch to DeepSeek V4 Flash with context compaction to cut GitLab Duo Code Review's estimated token cost from $0.589 to $0.0135 per pull request on a public benchmark, with F1 rising from 46.4% to 47.2%. Compaction made oversized reviews fit the deployment's context window, removing expensive fallbacks to Sonnet."
+    },
+    {
+      "url": "https://ngrok.com/blog/public-suffix-list?utm_source=tldrdev",
+      "title": "What the heck is the Public Suffix List?",
+      "summary": "The Public Suffix List records the boundaries browsers and password managers need to distinguish independently controlled sites on shared domains. Its rules prevent cookies and saved credentials from crossing tenant boundaries, but growing demand leaves volunteers reviewing increasingly complex submissions. The article explains why DNS has not replaced the list and why using it for unrelated controls can create problems."
+    },
+    {
+      "url": "https://www.anthropic.com/research/formal-verification?utm_source=tldrdev",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "summary": "Claude produced machine-checked proofs for 239 fuzz-test entry points across 123 open-source libraries, turning existing tests into specifications over compiled RISC-V code. The guarantees cover inputs below 64 MB under a single-threaded Linux model with fixed memory limits, so they establish specific security properties rather than complete program correctness."
+    },
+    {
+      "url": "https://mattrothenberg.com/notes/pure-ui-agentic-era?utm_source=tldrdev",
+      "title": "Pure UI in the Agentic Era",
+      "summary": "Making a screen's relevant state explicit lets people and agents inspect combinations of roles, plans, billing states, and feature flags before merging a change."
+    },
+    {
+      "url": "https://1password.com/blog/1password-for-ai-agents?utm_source=tldrdev",
+      "title": "Introducing 1Password for Agents",
+      "summary": "1Password lets users approve sign-ins for supported agents and fills credentials into destination sites without exposing passwords to the model."
+    },
+    {
+      "url": "https://www.typeui.sh/micro-interactions?utm_source=tldrdev",
+      "title": "TypeUI Micro Interactions (Website)",
+      "summary": "TypeUI offers 113 interactive examples for buttons, forms, modals, navigation, and other UI patterns."
+    },
+    {
+      "url": "https://survey.devographics.com/survey/state-of-html/2026?utm_source=tldrdev",
+      "title": "State of HTML 2026 (Website)",
+      "summary": "The State of HTML survey tracks awareness and use of native browser features."
+    }
+  ]
+}

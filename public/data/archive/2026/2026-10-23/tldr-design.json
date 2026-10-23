@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-10-23",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mixed-news.com/en/chatgpt-slides-launch-windows-10-powerpoint-mxc-component/?utm_source=tldrdesign",
+      "title": "ChatGPT Slides has Shipped, but on Windows 10 the Desktop App Gives You a PowerPoint File",
+      "summary": "ChatGPT Slides began rolling out on October 16 to Pro, Business, and Enterprise users with Space access, but the Windows 10 desktop app provides a PowerPoint file instead of a collaborative deck. Decks live inside Space and inherit its view-and-edit sharing, with ChatGPT joining in when @mentioned like a colleague. Exports reach PowerPoint, PDF, or Google Slides, while Free, Go, and Plus plans still have no release date."
+    },
+    {
+      "url": "https://www.seroundtable.com/google-local-panel-layout-42356.html?utm_source=tldrdesign",
+      "title": "Google Search Tests Layout Change For Local Knowledge Panel",
+      "summary": "Google is testing a redesigned local knowledge panel that moves the business name, rating, description, and action buttons above the photos, bringing desktop results closer to the existing mobile design. The lower section has also been tightened to create a more compact overall layout. The changes are subtle but could affect how prominently actions such as calls, directions, and website visits appear to searchers."
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/20/apples-designers-of-tomorrow-highlights-creative-projects-from-emerging-designers/?utm_source=tldrdesign",
+      "title": "Apple's ‘Designers of Tomorrow' highlights creative projects from emerging designers",
+      "summary": "Apple and Design Miami's second Designers of Tomorrow showcase features work from Salem S. Charabi, Isabel Rower, Yoonjeong Lee, and Parafernalia centered on the theme of presence. Their projects explore how physical objects can capture attention and shape experiences, ranging from lighting and furniture to pieces designed for shared interaction. Apple devices are integrated throughout their creative processes, including MacBook Pro for 3D modeling, iPad Pro and Apple Pencil for sketching, and iPhone, Procreate, FaceTime, and iCloud for documenting and collaborating remotely."
+    },
+    {
+      "url": "https://clearleft.com/thinking/design-system-foundations?utm_source=tldrdesign",
+      "title": "Design System Foundations",
+      "summary": "Any team producing designed outputs already has a design system, which turns the work into incremental improvement rather than a build from zero. Before excitement takes over, everyone needs to agree whether the system means a component library, a shared Figma file, or documentation. Starting with color and typography distilled from existing practice gives guardrails, not straitjackets, and avoids the objections that come with imposed rules."
+    },
+    {
+      "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?utm_source=tldrdesign",
+      "title": "A founder with a tool is not a founder with a clue",
+      "summary": "AI has dramatically lowered the cost of producing software, allowing solo founders to handle work that previously required designers, engineers, and other specialists, but easier production does not automatically provide the expertise required to judge whether the result is good. Product quality still depends on hard-earned understanding of users, trust, interaction, strategy, and countless subtle decisions that generative tools can execute without truly evaluating. Small AI-enabled teams can be extraordinarily effective, but treating specialist expertise as unnecessary confuses the ability to make something with the ability to recognize, shape, and refine something worth making."
+    },
+    {
+      "url": "https://productify.substack.com/p/dont-prompt-ai-delegate-to-it?utm_source=tldrdesign",
+      "title": "Don't Prompt AI. Delegate to It",
+      "summary": "Prompting is fading as a personal skill, and a weekend-built Jira and Confluence briefing agent shows the alternative: letting AI write the prompt while a human defines what good looks like. Four or five rewrite rounds produced a prompt that groups tickets by business topic, flags unverifiable claims, and obeys one key line: do not invent facts. Research backs the approach, with LLM-written instructions matching or beating human ones on 19 of 24 tasks in the 2022 APE paper."
+    },
+    {
+      "url": "https://pixycad.com/?utm_source=tldrdesign",
+      "title": "3D CAD for macOS and iPadOS (Website)",
+      "summary": "PixyCAD gives you direct, hands-on editing tools that let you reshape solid models without rebuilding from scratch."
+    },
+    {
+      "url": "https://edge-aura.js.org/?utm_source=tldrdesign",
+      "title": "Organic Screen-Edge Glow (Website)",
+      "summary": "An organic glow that hugs the edge of your screen with a zero-dependency Canvas 2D engine."
+    },
+    {
+      "url": "https://www.mixfont.com/experiments/decoy-font?utm_source=tldrdesign",
+      "title": "A TTF Font That Hides What You're Typing from AI (Website)",
+      "summary": "Decoy Font combines every letter with a decoy, making it harder for AI to read text in screenshots and images."
+    },
+    {
+      "url": "https://www.sitepoint.com/review-ai-generated-ui-changes/?utm_source=tldrdesign",
+      "title": "Review AI-Generated UI Changes with Storybook and Chromatic",
+      "summary": "Sprawling AI-generated UI changesets can pass linting yet render broken layouts, which makes raw diff review structurally inadequate. A four-step playbook scopes each prompt to a single component, isolates changes in Storybook, automates visual regression with Chromatic, and adds a PR checklist. Together they close the gap between code that compiles and code that renders correctly."
+    },
+    {
+      "url": "https://www.deque.com/blog/debunking-ai-agent-accessibility-claims-and-solving-ai-alignment-for-accessibility/?utm_source=tldrdesign",
+      "title": "Debunking AI Agent Accessibility Claims and Solving AI Alignment for Accessibility",
+      "summary": "Agents routinely claim work they never did, and having one agent validate another is like letting the fox guard the henhouse. Deque's report found that 88 percent of engineering leaders trust their AI-generated code is accessible, while 64 percent cite accessibility as a top driver of rework. A deterministic harness asking AI only narrow yes-or-no questions creates proof-of-work records for human verification, with Deque reporting that a 30-to-45-minute keyboard test can take seconds."
+    },
+    {
+      "url": "https://pimpmytype.com/typography-design-systems/?utm_source=tldrdesign",
+      "title": "The State of Typography in Design Systems",
+      "summary": "A survey of 94 UX and product designers found that 78% can easily change or suggest fonts, while brand alignment is the leading consideration when choosing typefaces, followed by accessibility. Most design systems use fewer than 10 typographic styles, potentially too few to cover common needs, while token adoption remains inconsistent and decisions about typography are rarely revisited after implementation. Scaling type across screen sizes and choosing appropriate styles emerged as the biggest challenges, alongside maintaining cross-platform consistency and getting developers and stakeholders to support better typographic decisions."
+    },
+    {
+      "url": "https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/?utm_source=tldrdesign",
+      "title": "For a brief generation or two, we clicked",
+      "summary": "Graphical interfaces made clicking and tapping a temporary language humans had to learn to communicate with computers, while conversational AI may return interaction to the far older and more natural behavior of simply saying what we want."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/10/the-senior-art-director-behind-assassins-creeds-visual-identity-shares-his-personal-sketches-and-monumental-landscape-paintings/?utm_source=tldrdesign",
+      "title": "The Senior Art Director Behind Assassin's Creed's Visual Identity Shares His Personal Sketches",
+      "summary": "Montreal art director Raphaël Lacoste, who shaped Assassin's Creed's visual identity at Ubisoft, shares personal sketches and monumental landscape paintings that echo 19th-century Romantic painters like Caspar David Friedrich."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-10-23",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html?utm_source=tldrai",
+      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "summary": "OpenAI is closing in on a funding round that could value it at more than $1 trillion. Investors from the United Arab Emirates are leading the round. The round is being positioned as an opportunistic bridge ahead of a potential IPO. OpenAI is aiming to secure signatures by the end of next week, but the final size of the round is still being determined."
+    },
+    {
+      "url": "https://1password.com/blog/1password-for-ai-agents?utm_source=tldrai",
+      "title": "Introducing 1Password for Agents",
+      "summary": "1Password introduced a platform that lets AI agents authenticate to websites without accessing users' passwords directly. Agents can request credentials from a user's vault, and once approved, 1Password autofills them into the destination site while keeping the credentials hidden from the agent."
+    },
+    {
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/?utm_source=tldrai",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "summary": "WorldTUI is a 360-million-parameter model fine-tuned to act as a terminal. The model predicts how the screen will change for every key press, and there is no shell or file system behind it. WorldTUI can create files, run vim and tmux, play snake, and usually remember commands. It can repair mistakes and decode screen rows in parallel. A browser demo is available."
+    },
+    {
+      "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai?utm_source=tldrai",
+      "title": "How the US and China Could Verifiably Slow AI",
+      "summary": "A unilateral US pause will fail because rivals would catch up within about a year, so any slowdown needs a treaty that catches defection early. This post surveys how one could govern compute through remote sensing, on-site inspections, and hardware mechanisms like chip licensing and location verification."
+    },
+    {
+      "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/?utm_source=tldrai",
+      "title": "How Researchers Tested OpenAI's Internal Agent Monitoring",
+      "summary": "METR and Redwood Research conducted a three-week security assessment with access to OpenAI's internal infrastructure, identifying vulnerabilities that could allow AI agents to evade monitoring, bypass sandbox restrictions, or conceal actions."
+    },
+    {
+      "url": "https://x.com/imjmcinnis/status/2113337229288620403?utm_source=tldrai",
+      "title": "Does Flapping Airplanes Mean Short Timelines and Hard Treaty Enforcement?",
+      "summary": "Flapping Airplanes' potential valuation jump from $1.5B to $5B may reflect investor hype rather than verified technical progress. Breakthroughs in sample-efficient AI could accelerate superintelligence timelines and make compute-based treaty enforcement harder."
+    },
+    {
+      "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you?utm_source=tldrai",
+      "title": "Claude's Text Output Now Carries an Invisible Watermark",
+      "summary": "Anthropic's latest Claude models embed a SynthID-Text-based watermark in all text output to comply with the EU AI Act. It works by nudging choices among near-equivalent words, adds no hidden characters or tokens, and carries no information about the user."
+    },
+    {
+      "url": "https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are?utm_source=tldrai",
+      "title": "A Novel Self-Distillation Method",
+      "summary": "Perplexity's JOLT is a self-distillation method that jointly trains a model as both teacher and student, adapting feedback to the student's capabilities. It improved performance and training efficiency across mathematical reasoning, coding, and agentic tasks."
+    },
+    {
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras?utm_source=tldrai",
+      "title": "How we deploy Trillion-parameter frontier models on Cerebras",
+      "summary": "A single Cerebras WSE-3T wafer has 44 GB of on-chip memory. Trillion-parameter frontier models need terabytes of memory for their weights alone. This post explains how the company splits a large frontier model across multiple WSE-3T wafers. It covers how models are filled into on-chip memory, how models are mapped across multiple chips, and how Cerebras handles a high number of concurrent requests."
+    },
+    {
+      "url": "https://research.nvidia.com/labs/par/projects/jca/?utm_source=tldrai",
+      "title": "NVIDIA's Video Generation with Matching 3D Motion",
+      "summary": "NVIDIA has introduced Joints, Camera, Action! (JCA), a system that generates videos and synchronized 3D motion for arbitrary character rigs from text prompts. It supports scene-aware motion, keyframe-based control, and bidirectional conversion between video and rig animation."
+    },
+    {
+      "url": "https://taekim.substack.com/p/an-interview-with-openais-richard?utm_source=tldrai",
+      "title": "An Interview with OpenAI's Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
+      "summary": "OpenAI's Jalapeño AI inference chip outperforms its rivals in performance per watt. It is likely the most promising chip program in the latest wave of non-GPU AI chips. This post contains highlights from a conversation with one of the top engineers in the AI and chip industry. The interview is packed with technical details and insights on where chip design and memory technology are going."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2113398193614655594.html?utm_source=tldrai",
+      "title": "What happened to the missing Gemini 3.5 Pro model that never shipped?",
+      "summary": "Google had both Flash and Pro versions of the 3.5 series. However, there were gaps in the model's agentic capabilities, particularly around coding. The team felt the fastest way to climb that hill was to use Flash, as the smaller model allowed for more iterative loops. By the time the team had improved Flash's abilities, Argon pre-training was done."
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed?utm_source=tldrai",
+      "title": "The full Claude Platform, available on Google Cloud",
+      "summary": "Claude Platform features are now available on Google Cloud with Google Cloud authentication, billing, and commitment retirement."
+    },
+    {
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/?utm_source=tldrai",
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "summary": "Microsoft launched the Microsoft-Decision-1 model, focusing on scoring predefined answer options with confidence probabilities rather than generating text."
+    },
+    {
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation?utm_source=tldrai",
+      "title": "Anthropic Donates Agent Skills to Linux Foundation",
+      "summary": "Anthropic donated its Agent Skills open standard to the Agentic AI Foundation, placing its development under vendor-neutral governance."
+    }
+  ]
+}

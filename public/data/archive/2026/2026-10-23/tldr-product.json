@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-10-23",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://usecaddie.app/blog/agents?utm_source=tldrproduct",
+      "title": "Practical principles for building with agents",
+      "summary": "This article outlines workflow principles for building software with AI agents rather than traditional sprints. Key strategies include running multiple agents continuously, auditing apps with customer personas, and converting successful experiments into reusable skills."
+    },
+    {
+      "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?utm_source=tldrproduct",
+      "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+      "summary": "In enterprise product development, choosing between buying tools and building them internally has become a user experience decision driven by AI. While coding agents reduce initial build costs, ongoing maintenance, data silos, model retirement, and user context switches introduce hidden complexities that product teams must manage."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/product-quality?utm_source=tldrproduct",
+      "title": "Product Quality",
+      "summary": "Product quality involves setting and evaluating against a quality bar across a product's lifecycle. Often overlooked in favor of new features, poor quality risks sudden or gradual customer churn. Maintaining quality is even harder in AI products due to model drift and non-deterministic interfaces."
+    },
+    {
+      "url": "https://www.thoughtworks.com/en-us/insights/blog/generative-ai/dont-ask-ai-to-write-the-user-story-yet?utm_source=tldrproduct",
+      "title": "Don't ask AI to write the user story yet",
+      "summary": "AI can make vague requirements look complete by quietly inventing business rules. Instead, use it to identify assumptions and unanswered questions and resolve key decisions with stakeholders, and only then draft acceptance criteria."
+    },
+    {
+      "url": "https://media.deliveringvalue.co/p/if-you-hired-me-to-lead-growth-tomorrow?utm_source=tldrproduct",
+      "title": "If you hired me to lead growth tomorrow",
+      "summary": "This six-step growth playbook outlines tools used from analytics to product communication, including Mixpanel, FullStory, UserTesting, VWO, Pendo, and HubSpot."
+    },
+    {
+      "url": "https://kristenberman.substack.com/p/three-ways-to-increase-feature-adoption?utm_source=tldrproduct",
+      "title": "Three ways to increase feature adoption (11 minute podcast)",
+      "summary": "Product teams can boost feature adoption by applying behavioral science strategies: requiring features through paternalism, adding costs to declining, and reducing perceived setup friction. Timing feature requests to match user intent within a workflow significantly increases success."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/the-same-old-bullshit?utm_source=tldrproduct",
+      "title": "The Same Old BS",
+      "summary": "Product teams frequently trap themselves in featurism and outdated backlogs by focusing on speed rather than a clear direction. Teams should start with a clear destination, delete stale backlog items untouched for over 90 days, and prioritize what is necessary over what is easy."
+    },
+    {
+      "url": "https://brycewatson.com/research/inside-the-box/?utm_source=tldrproduct",
+      "title": "David Epstein on why constraints beat goals",
+      "summary": "Setting tight constraints is more effective than focusing on broad, outcome-based goals when the path forward is unclear. Constraints reduce overwhelming choices, prevent scope creep, block default thinking, and help teams solve complex problems."
+    },
+    {
+      "url": "https://jennywanger.com/articles/get-your-hair-wet/?utm_source=tldrproduct",
+      "title": "Get your hair wet",
+      "summary": "Leaders must visibly commit to the changes they ask of their teams."
+    },
+    {
+      "url": "https://avivbenyosef.com/shipping-the-roadmap-is-the-minimum/?utm_source=tldrproduct",
+      "title": "Shipping the Roadmap Is the Minimum",
+      "summary": "Measuring a tech organization's success solely by roadmap execution is insufficient."
+    }
+  ]
+}
