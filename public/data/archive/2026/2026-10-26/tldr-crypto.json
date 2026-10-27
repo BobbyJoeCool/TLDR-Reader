@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-10-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://x.com/cdixon/status/2113299399254176221?utm_source=tldrcrypto",
+      "title": "a16z Crypto Rebrands as a16z Frontier, Expanding to AI and Frontier",
+      "summary": "a16z Crypto is rebranding as a16z Frontier, expanding its mandate beyond crypto to cover AI-native applications, autonomous machines, and biomedical systems while continuing to invest in crypto and advocate for sensible regulation. The rationale is that broad blockchain adoption has blurred the line between crypto-native and conventional companies, making a vertical-specific fund label less precise than what portfolio companies actually build. New thematic pillars include AI enabling user experiences built on new primitives, next-generation computing form factors, and machine-to-machine networks where stablecoins and on-chain rails serve as the payment layer. The rebrand coincides with separate reports that a founding member is departing the firm."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606?utm_source=tldrcrypto",
+      "title": "Argentine judge clears Milei and 10 others in LIBRA case",
+      "summary": "A federal judge dismissed the criminal case against President Javier Milei, his sister Karina, and nine others, including Hayden Davis, in a 60-page ruling. He found that promoting a token or giving it visibility is not by itself a fraudulent scheme. The ruling followed the prosecutor's own request for dismissal, and none of the 11 were questioned as a suspect. Evidence the judge said was inconclusive included a note about $5M in payments and deleted chats. LIBRA's market cap topped $4.5B before falling about 95%, and eight team-linked wallets cashed out $107M."
+    },
+    {
+      "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652?utm_source=tldrcrypto",
+      "title": "Phantom rolls out Kalshi prediction markets to US users",
+      "summary": "Phantom began rolling out Kalshi event contracts to US users on October 23, with access expanding over the coming weeks. Users need to complete KYC on Kalshi and fund trades with Phantom's CASH stablecoin, with winnings returned to their Phantom Cash accounts. Funds move to Kalshi and are converted to fiat. Phantom charges a $0.02 per contract feed fee plus a small network fee. General Counsel Kevin Jacobs says the CFTC's jurisdiction is clear as long as Phantom stays within its no-action position, and he expects the Supreme Court to eventually decide. Phantom will block some categories by state: sports in Michigan, sports, elections, politics, and entertainment in Nevada, and a longer list in Washington."
+    },
+    {
+      "url": "https://ethresear.ch/t/a-hash-only-rollup-op-stack-l2-accounts-as-lamport-style-hash-chains-no-ecdsa-inside-the-l2/26172?utm_source=tldrcrypto",
+      "title": "A Hash-Only Rollup",
+      "summary": "The founder of bb84 payments has deployed an OP Stack L2 on Ethereum mainnet (chain ID 42069000, live since 2026-09-30) where L2 transactions carry no ECDSA signatures, replacing them with Lamport-style keccak-256 hash chains in which spending a transaction reveals the next preimage rather than a cryptographic signature. Each account derives from a secret seed generating a default 1,000-step hash chain, tracked by a NullifierTree predeploy, with two new EIP-2718 transaction types handling commit (0x7C) and reveal (0x7F) steps, and a \"first commit wins\" rule activated on October 21 to blunt front-running. The chain targets ~2^128 quantum work factor inside the L2 against Grover's algorithm, but ECDSA remains at the L1 boundary, fault proofs are absent, the sequencer is centralized, and stateful wallets mean losing chain position can lock users out."
+    },
+    {
+      "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=tldrcrypto",
+      "title": "Bitcoin 'Top Buyers' Halt BTC Price Upside With $87.7K Now Key: Glassnode",
+      "summary": "Glassnode identifies the $87,000–$87,700 zone as the primary resistance for Bitcoin, where 6-12 month holders sit near their cost basis (~$87,700) and sell into rallies, absorbing new buy-side demand before price can advance. Two additional levels reinforce this ceiling: the 2026 opening price at $87,490 and the 20-month simple moving average at $87,165, a band that preceded new all-time highs when reclaimed as support in prior cycles. Below spot, the $80,000–$81,500 range represents overlapping order-book and on-chain support, anchored by the cost basis of US spot Bitcoin ETF holders ($81,500) and concentrated bid liquidity at $80,000. A breach of that zone would expose a liquidation cluster just under $80,000, followed by the true market mean at $77,500 and short-term holder breakeven at $74,600 as the next structural floor."
+    },
+    {
+      "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608?utm_source=tldrcrypto",
+      "title": "Crypto Longs Lose $404 Million in Four Hours as Bitcoin Briefly Slips Below $80,000",
+      "summary": "Bitcoin briefly fell below $80,000 Saturday morning, triggering $404M in long liquidations over four hours, the largest such figure since October 14, as cascading stops swept $815M in total liquidations across 24 hours and affected 201,012 traders. Ether absorbed $136.72M in liquidations during that window, closing in on bitcoin's $158.45M despite ETH representing about 18% of BTC's market cap, with longs accounting for over 92% of forced exits on both assets. Spot bitcoin ETFs closed the week with $304.73M in net inflows despite Friday's $137.94M outflow led by BlackRock's IBIT, while spot ether ETFs posted $220.60M in weekly net outflows and have shed $1.175B across 14 of 17 October trading sessions. Arthur Hayes closed Maelstrom's directional book, exiting ETH, ENA, and UNI, citing deteriorating macro conditions and elevated geopolitical risk tied to Iranian threats against US embassy personnel in Jordan, Lebanon, Qatar, and the UAE."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2113269057965404398.html?utm_source=tldrcrypto",
+      "title": "Robinhood Stock Tokens Now Live as Collateral on Morpho",
+      "summary": "Morpho has launched credit markets for Robinhood Stock Tokens, allowing users to post tokenized equities as collateral to borrow stablecoins on-chain. Robinhood Chain provides the tokenization layer while Morpho operates as the credit network, with the split giving each protocol a distinct role in the stack. Any app can integrate stock-backed lending by plugging into this two-layer architecture, without building custom credit infrastructure."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2113745740204065146.html?utm_source=tldrcrypto",
+      "title": "SEC's Tokenization Exemption Sparks Questions Over Which Blockchains Qualify",
+      "summary": "The SEC's tokenization exemption has introduced definitional uncertainty around what qualifies as a \"public and permissionless\" blockchain, with Canton Network (a private permissioned chain used by Goldman Sachs and other institutions) and Ethereum L2s both sitting in ambiguous territory. Only chains meeting that threshold benefit from the exemption, putting pressure on the SEC to clarify whether institutional permissioned infrastructure or L2s with centralized sequencers can qualify. Companies are also objecting to having their equity tokenized without consent, a question the exemption's current framing leaves unresolved."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492?utm_source=tldrcrypto",
+      "title": "Singapore and Thailand central banks expand cross-border stablecoin",
+      "summary": "Bank Negara Malaysia and the Bank of Thailand joined MAS' BLOOM initiative as policymaker members."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2114380789064577437.html?utm_source=tldrcrypto",
+      "title": "Aave's Coinbase Stocks market is getting busy; but demand organic?",
+      "summary": "On Aave's new Coinbase tokenized stocks market, USDC supply sat near $5.2M for nearly two weeks while loans climbed toward $5M, pushing the borrow rate to about 3.9% by October 21."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2114376066353467826.html?utm_source=tldrcrypto",
+      "title": "Stablecoin cards now do more in a month than all of 2024",
+      "summary": "Stablecoin card spending hit $1.1B in a single month versus about $1.08B in all of 2024."
+    },
+    {
+      "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792?utm_source=tldrcrypto",
+      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+      "summary": "In an interview on Israel's Channel 10, Netanyahu said Israel should prepare an economy that can bypass possible banking sanctions and that he has “already asked for a plan” involving blockchain."
+    }
+  ]
+}

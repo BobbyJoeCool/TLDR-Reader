@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-10-26",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://inatoncheva.substack.com/p/your-marketing-team-will-be-on-github?utm_source=tldrfounders",
+      "title": "Your marketing team will be on GitHub within a year",
+      "summary": "Marketing teams need a different kind of shared folder now that AI is part of everyday marketing work. For many teams, this will mean using GitHub. AI systems need a history of every change and why it was made, a safe way to revert changes, and independence from any one AI vendor. GitHub solves these issues and can be used by people without any technical skills or support."
+    },
+    {
+      "url": "https://x.com/finlayekins/status/2113398480727425528?s=12&utm_source=tldrfounders",
+      "title": "Why Service Businesses Win the Next Decade",
+      "summary": "Services have always been expensive because they involve human labor. Scaling service businesses meant scaling headcount, which doesn't create the outsized leveraged return required for startups. AI unlocks a hybrid business model that looks like a service from the outside but runs mostly like a product. Customers just want something that works for them, and someone accountable when it doesn't."
+    },
+    {
+      "url": "https://thephysicsofstartups.substack.com/p/how-to-grow-the-fastest?utm_source=tldrfounders",
+      "title": "How to grow the fastest",
+      "summary": "There's no speed limit to how fast you can grow. Startups need to focus on how to grow as fast as possible, because time is always ticking. There are basically infinite things you could do, and it's not clear what will move the needle. This post discusses how to conceptualize your business so that it is focused on the one thing that makes it grow the fastest by default."
+    },
+    {
+      "url": "https://x.com/shanehegde/status/2113255156036915397?utm_source=tldrfounders",
+      "title": "Keep the SaaS advantage. Kill the SaaS playbook",
+      "summary": "Air had added AI features and more than 50 generative models, and its business had accelerated only a little. So the team changed how it sold the product and what customer success was asked to do. Every new contract and renewal included AI credits, with overage rates negotiated into the deal. Customer-success quotas shifted to adoption, giving the team a reason to help customers use what they'd bought. Usage figures arrived every morning. Air reports that AI action-credit usage rose 15-fold in five months."
+    },
+    {
+      "url": "https://stripe.com/newsroom/news/treasury-for-agents?utm_source=tldrfounders",
+      "title": "Introducing Stripe Treasury for agents",
+      "summary": "Stripe Treasury for agents gives startups a way to manage financial operations with agents. It allows business finances to be executed by agents from inside the tools businesses use to run the rest of their operations. Agents can check balances, pay invoices, transfer funds between accounts, and convert currencies. Startups using Stripe Treasury for agents can choose which accounts and data agents can access, whether they can read information or take action, and when money movement requires human approval."
+    },
+    {
+      "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1&amp;utm_source=tldrfounders",
+      "title": "Claude Cowork and chat come together for Enterprise",
+      "summary": "The unified Claude Chat and Cowork experience is now generally available for Claude Enterprise plans. Team members no longer have to choose between the two options when they start work with Claude: they are now one Claude on web, desktop, and mobile. Tasks started in chat can continue in the cloud, so users can close their laptops and pick up from where they left off. Chats, projects, connectors, skills, and plugins carry over to the new unified experience."
+    },
+    {
+      "url": "https://stevekrouse.com/10x?utm_source=tldrfounders",
+      "title": "AI gets about 10x cheaper every year",
+      "summary": "AI is getting too cheap to meter. This was predicted to be the case in May 2024 by Kai-Fu Lee. The rate of Lee's law makes Moore's Law look like a line."
+    },
+    {
+      "url": "https://mslotnick.me/ideas?utm_source=tldrfounders",
+      "title": "Potential futures and the kinds of companies that could either help us get there",
+      "summary": "This post looks at ideas for companies that could change the future. An AI app server on which agent apps are deployed as configurations would commoditize the app layer and let them compete on the runtime and underlying infrastructure. A community-driven ecosystem for open apps could be an open-source ecosystem around which an infrastructure and hosting platform could be created. There are opportunities in agent memory, an intelligence router, new methods to finance compute, and new types of infrastructure."
+    },
+    {
+      "url": "https://newsletter.pricingsaas.com/p/notion-s-confusing-credit-model?utm_source=tldrfounders",
+      "title": "Notion's Confusing Credit Model",
+      "summary": "Running out of AI credits gets harder to explain when your account still shows an unused balance."
+    },
+    {
+      "url": "https://x.com/heyblake/status/2114120255567966450?utm_source=tldrfounders",
+      "title": "Revisit lost deals when you fix the reason they passed",
+      "summary": "A prospect who passed over a missing feature has a reason to reconsider once you've shipped it."
+    },
+    {
+      "url": "https://kristenberman.substack.com/p/three-ways-to-increase-feature-adoption?utm_source=tldrfounders",
+      "title": "Three ways to increase feature adoption",
+      "summary": "Offer an optional feature when users already need it."
+    },
+    {
+      "url": "https://x.com/jspujji/status/2114172930741408196?utm_source=tldrfounders",
+      "title": "Compare founder proceeds before choosing how much to raise",
+      "summary": "Before taking a bigger round, work out what you'd actually receive if the company sold."
+    },
+    {
+      "url": "https://sundaylettersfromsam.substack.com/p/distribution-is-less-than-free?utm_source=tldrfounders",
+      "title": "Distribution is less than free",
+      "summary": "It can now be easier to make software than to install or otherwise acquire it."
+    }
+  ]
+}

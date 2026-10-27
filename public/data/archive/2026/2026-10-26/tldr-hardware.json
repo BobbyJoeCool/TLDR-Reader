@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-10-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html?utm_source=tldrhardware",
+      "title": "GTC Berlin: Vera Rubin in a shipping container, while neocloud financing worries dominate the floor",
+      "summary": "Nvidia's GTC Berlin centered on the DSX POD, a factory-built Vera Rubin NVL72 system in a shipping container that cuts delivery to deployment from months to days, plus OpenShell agent sandboxing and the Agile ONE SN humanoid on Jetson Thor. Nvidia said it has invested nearly $10 billion in Europe."
+    },
+    {
+      "url": "https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25/?utm_source=tldrhardware",
+      "title": "Musk says SpaceX closed $40B of GPU debt for chips arriving in Q1 and Q2",
+      "summary": "Elon Musk says SpaceX closed its $40 billion of callable debt for GPUs, with the chips arriving in Q1 and Q2 and \"not a major factor this quarter.\" He credits investment-grade status and Starlink and launch revenue for keeping credit open. SpaceX guided Q4 capex to $35 to $40 billion. It is bringing roughly 200,000 GB300s online monthly through year-end before shifting to Vera Rubin. The company reported 1.7 GW of installed GPU nameplate capacity at September 30."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/?utm_source=tldrhardware",
+      "title": "Warhound raises $200M at a $1.2B valuation to engineer military dogs and outfit them with Anduril sensor gear",
+      "summary": "Warhound is a startup founded by Colossal's Ben Lamm and Anduril's Palmer Luckey that plans to gene-edit Belgian Malinois and German Shepherd cell lines into working dogs with better health, speed, and smell. Anduril will supply the hardware: protective vests with data sensors that feed handlers, plus goggles. Viagen will clone the first batch, with births expected early next year and service within two years. The dogs don't exist yet, and sale prices are undecided."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue?utm_source=tldrhardware",
+      "title": "NASA reworks Artemis around Orion's limited propulsion, with Starship pushing it toward the Moon",
+      "summary": "NASA turned Artemis III into a roughly two-week Earth-orbit test in summer 2027, where Orion docks with test versions of Blue Moon and Starship. For the 2028 landing on Artemis IV, Starship would dock with Orion in high Earth orbit and perform the trans-lunar injection burn, while Blue Moon meets Orion in low lunar orbit, which cuts its propellant needs. NASA will pick the Artemis IV lander based on Artemis III results."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm?utm_source=tldrhardware",
+      "title": "MIT's light-steered swimming robot runs on a hair-thin layer of living muscle",
+      "summary": "MIT built a swimming robot from a gum-stick-sized gel frame with two fins, each coated in a muscle layer thinner than a hair and engineered to contract under light. Lighting one fin or both steers it through a maze at about four body lengths per minute. The key fixes were stiff GelMA gel about half a millimeter thick with square-bottomed grooves that align the cells, and light-pulse training to strengthen the muscle. It's the first thin 2D biohybrid swimmer."
+    },
+    {
+      "url": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al?utm_source=tldrhardware",
+      "title": "Pt-W alloy tested as a thinner low-n absorber for High-NA EUV photomasks",
+      "summary": "Researchers at the Chinese Academy of Sciences, Jilin University, and partner labs evaluated a platinum-tungsten alloy as a low-n absorber for EUV photomasks, studying its film properties and imaging performance. Thinner absorbers matter for High-NA EUV because mask 3D effects degrade imaging as features shrink. Thickness and contrast figures are in the iScience paper published in August."
+    },
+    {
+      "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown?utm_source=tldrhardware",
+      "title": "iFixit's iPhone Duo teardown gives the best foldable repair score so far, but the inner screen is the catch",
+      "summary": "iFixit gives the iPhone Duo a provisional 5/10, the best score for a foldable. Both batteries (19.1 Wh total) release with electrically debonded adhesive inside metal shells, the outer display comes off intact, and the logic board is a single layer. The weak spot is the inner screen: a $999 out-of-warranty replacement and a hinge that still crunches with dust."
+    },
+    {
+      "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/?utm_source=tldrhardware",
+      "title": "Tesla's $10B Texas solar factory could get 35 years of tax breaks",
+      "summary": "Fort Bend County approved four deals that could give Tesla's proposed $10 billion \"Project Crystal Sun\" solar plant up to 35 years of tax breaks, though Tesla hasn't committed to building in Texas. The plant would be vertically integrated, making silicon ingots through finished modules near Richmond, with $8.6 billion of the spend in equipment, which gets 10 years of full abatement and 20 years of 90% rebates. Commercial cell production is due by the end of 2030."
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/?utm_source=tldrhardware",
+      "title": "Amazon's TorchNeuron runs PyTorch on Trainium chips with a single config change",
+      "summary": "Amazon's TorchNeuron runs unmodified PyTorch code on its Trainium chips with a single configuration change, aiming at the CUDA lock-in Nvidia built over more than a decade."
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem?utm_source=tldrhardware",
+      "title": "Nvidia says Kazakhstan gets 45,000 Grace Blackwell GPUs, with Vera Rubin planned next year",
+      "summary": "Firebird secured a US export license for 45,000 Grace Blackwell GPUs for Kazakhstan."
+    },
+    {
+      "url": "https://defence-industry.eu/u-s-army-darpa-tests-autonomous-vehicles-at-fort-knox-with-human-controlled-strikes/?utm_source=tldrhardware",
+      "title": "DARPA's RACER-driven robot vehicles find a target at Fort Knox with a human approving the strike",
+      "summary": "DARPA ran four autonomous ground vehicles at Fort Knox on October 15, using its RACER off-road autonomy software on sensor-equipped, drive-by-wire platforms."
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform?utm_source=tldrhardware",
+      "title": "Nvidia floats a $2,000-per-GPU annual software fee for running agents",
+      "summary": "At GTC Berlin, Jensen Huang said Nvidia's software for running agents on AI factories would cost about $2,000 per GPU per year, less than half the $4,500 per GPU list price of AI Enterprise."
+    }
+  ]
+}

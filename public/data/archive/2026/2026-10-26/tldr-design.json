@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-10-26",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle?utm_source=tldrdesign",
+      "title": "The Ambitious EA Sports Rebrand Looks Great from Every Angle",
+      "summary": "DixonBaxi has rebranded EAFC27, turning the triangular cursor logo adopted after the 2023 split from FIFA into a free-form shape that changes with context. The studio behind the F1 and Roblox identities left TV sports conventions behind for a look closer to TikTok and Twitch. The system is built to move from campaign to culture, letting players of every playstyle, age, and background make the brand their own."
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/canva-craft-ai-image-generation-model-launch/?utm_source=tldrdesign",
+      "title": "Canva enters the AI image generation race with Craft, and it's thinking beyond pretty pictures",
+      "summary": "Canva Craft is the company's first in-house image generation model. Built specifically for design work such as posters, presentations, social graphics, and other layouts where accurate text and composition matter, its two-stage process first plans object placement, scale, hierarchy, and typography before generating images at up to 2K resolution across 30 aspect ratios, with Magic Layers able to convert results into editable designs. Trained on millions of human-created Canva templates, Craft is available through Dream Lab and Canva's API, with integrations for AI assistants and faster Craft variants also planned."
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/?utm_source=tldrdesign",
+      "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
+      "summary": "Some iPhone Duo owners are reporting inner displays cracking along the center hinge, typically accompanied by a horizontal block of pixels stuck glowing white. Around ten separate cases have surfaced so far, sometimes during initial setup, with a defective or misaligned hinge component emerging as one possible explanation. Most affected Apple Store customers appear to have received replacements, and the small number of reports means it remains unclear whether this represents a broader hardware problem."
+    },
+    {
+      "url": "https://apeatling.com/2026/10/19/your-product-is-not-the-center-of-the-universe/?utm_source=tldrdesign",
+      "title": "Your Product is Not the Center of the Universe",
+      "summary": "Established products still assume they sit at the center of users' workflows, a model nearing its end as personal agents work across many tools at once. In its place, products show up wherever the user's agent works, expose their capabilities to any agent, and rely on its memory. In-conversation UI, domain expertise, proprietary data, and fulfillment like hosting, shipping, and payments keep them from becoming commodities."
+    },
+    {
+      "url": "https://brennenputh.me/blog/printable-websites/?utm_source=tldrdesign",
+      "title": "Websites Should Be Printable",
+      "summary": "Websites containing substantial text can provide a much better printed experience with a relatively small set of dedicated CSS rules. Print styles can remove navigation, introduce print-only information, resize typography, adapt code blocks, and turn colored links black so pages work better on paper. Supporting printing may be a niche requirement, but it reflects a broader approach to good software in which small, thoughtful accommodations give users more ways to experience content."
+    },
+    {
+      "url": "https://learn.thedesignsystem.guide/p/half-my-design-system-metrics-dont?utm_source=tldrdesign",
+      "title": "Half my design system metrics don't work anymore",
+      "summary": "Traditional design system metrics such as total component counts, downloads, MCP calls, and self-reported agent success reveal little about whether a system actually produces better work. More useful measures include conformance, accessibility, design-code parity, hard-coded values, component friction, agent adherence, cost per shippable output, and how quickly humans and agents can successfully build with the system. As AI agents become design system users, teams also need repeatable evals that give models real tasks and score their output against intended design principles, implementation rules, and visual quality."
+    },
+    {
+      "url": "https://namethatui.com/?utm_source=tldrdesign",
+      "title": "The Visual Dictionary of UI (Website)",
+      "summary": "Describe the thing in your own sloppy words. You get the real name, the API symbol, and a paste-ready prompt for your coding agent."
+    },
+    {
+      "url": "https://framefields.dev/?utm_source=tldrdesign",
+      "title": "Video and Image Editing for Coding Agents (Website)",
+      "summary": "Framefields is a video and image engine built for coding agents: one npm package your agent drives with TypeScript to make motion graphics, edit photos and stills, composite type, charts, 3D and audio, check frames, and render MP4 or PNG on the GPU."
+    },
+    {
+      "url": "https://scribbling.party/?utm_source=tldrdesign",
+      "title": "A Whiteboard Studio for Teaching (Website)",
+      "summary": "Scribble Party is a local-first whiteboard teaching studio. Draw, record, and export lessons entirely in your browser."
+    },
+    {
+      "url": "https://www.gabrielvaldivia.com/notes/everybody-is-starting-over?utm_source=tldrdesign",
+      "title": "Everyone is Starting Over",
+      "summary": "Designers at every career stage are effectively starting over, as tools, expectations, and team structures shift fast enough to turn old strengths into liabilities. Reinvention is a habit that demands tolerance for embarrassment. Critical thinking is its counterweight - test each new idea so openness to change never means becoming easy to fool."
+    },
+    {
+      "url": "https://muz.li/blog/font-pairings-2026/?utm_source=tldrdesign",
+      "title": "Font pairings 2026: we checked the fonts on 2,190 websites designers loved. Most of them used just one",
+      "summary": "An analysis of 2,190 design-gallery websites found that 60% use the same typeface for headlines and body copy, relying on differences in scale, spacing, and weight rather than traditional font pairings. Among the 871 sites using two families, there were 811 different combinations, while Inter was the most common overall typeface, PP Neue Montreal led paid options, and monospace fonts frequently appeared as a third family for labels and small text. The data suggests contemporary web typography is increasingly defined by craft within a small number of families, with regular-weight, tightly tracked large headlines and carefully controlled spacing doing more visual work than elaborate pairings."
+    },
+    {
+      "url": "https://www.designweek.co.uk/east-surrey-council-reveals-in-house-brand-identity-ahead-of-2027-launch/?utm_source=tldrdesign",
+      "title": "East Surrey Council reveals in-house brand identity ahead of 2027 launch",
+      "summary": "East Surrey Council's new identity was developed entirely in-house by designers from six local authorities at no additional cost to taxpayers ahead of the authority's April 2027 launch. The selected mark uses layered leaf-like forms to reference the region's contours and countryside while hiding a lowercase “e,” with colors representing woodland, countryside, community, waterways, and heritage, and Lexend providing accessible primary typography. The identity will be introduced gradually as existing signage, vehicles, and other assets reach scheduled replacement points, minimizing waste and transition costs."
+    },
+    {
+      "url": "https://www.figma.com/blog/lufthansa-figma-make/?utm_source=tldrdesign",
+      "title": "How Lufthansa Systems Prototypes Realistic Maps for the Cockpit with Figma Make",
+      "summary": "Lufthansa Systems now prototypes the dynamic cockpit maps in its Lido Pilot Apps with Figma Make, after static screens failed to feel real to pilots."
+    },
+    {
+      "url": "https://intentapp.dev/design-system?utm_source=tldrdesign",
+      "title": "Intent design system",
+      "summary": "Intent's live design system documents its evolving visual language across logos, motion, colors, typography, iconography, and interactive components."
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/apple-music-is-hiding-a-playable-ipod-easter-egg-and-brick-game/?utm_source=tldrdesign",
+      "title": "Apple Music is hiding the original iPod as an easter egg, and there's a secret game too",
+      "summary": "Apple Music is celebrating the iPod's 25th anniversary by turning its website's 404 page into a functional original iPod complete with a click wheel, song previews, settings, and a hidden playable version of the classic Brick game."
+    }
+  ]
+}

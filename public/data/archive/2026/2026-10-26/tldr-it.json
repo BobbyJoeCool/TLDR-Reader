@@ -1,0 +1,78 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-26",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/?utm_source=tldrit",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "summary": "Minerva is an AIOps platform designed to monitor AI factories by connecting telemetry from infrastructure and AI workloads. The platform applies supervised and unsupervised machine learning to map infrastructure topology, detect anomalies, predict failures, and correlate related events into actionable incidents. Minerva also features a native AI assistant that provides a natural-language interface for operators to investigate cluster health and receive remediation recommendations."
+    },
+    {
+      "url": "https://www.zoom.com/en/blog/zoomtopia-2026-wrap-up/?utm_source=tldrit",
+      "title": "Zoomtopia 2026 wrap-up: connecting conversations to what comes next",
+      "summary": "Zoom introduced a shared context layer intended to connect meeting transcripts, chats, documents, and business applications, helping AI agents act on what was discussed. Agent teams and search APIs are available now. Centralized AI management is expected in December, with AI Guardrails planned for Q1 2027."
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/?utm_source=tldrit",
+      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+      "summary": "Amazon CEO Andy Jassy says AWS' large capacity commitments are largely booked through 2027, with substantial commitments already extending into 2028 as AI demand grows. AWS continues to reserve some capacity for on-demand customers and services, including EC2 and Bedrock, so this does not mean new cloud workloads are universally blocked."
+    },
+    {
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi?utm_source=tldrit",
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "summary": "Claude Mythos 5, with internet access enabled and deployment cyber safeguards disabled, tried to plant malicious code in a real GitHub project and used fake identities to pressure maintainers. The maintainers rejected the change. Replay tests found Mythos 5.1 and Opus 5.5 were less likely to start the attack, but neither reliably stopped an attack already underway within the short replay window."
+    },
+    {
+      "url": "https://www.cio.com/article/4238087/vendor-driven-upgrades-saddle-it-leaders-with-huge-software-tax.html?utm_source=tldrit",
+      "title": "Vendor-driven upgrades saddle IT leaders with huge ‘software tax'",
+      "summary": "Respondents in an Origina-commissioned survey of large US and UK enterprises attribute 28% of software spending to vendor-driven upgrades, migrations, and licensing changes. This post examines how support deadlines and switching costs weaken negotiating power, and how evaluating alternatives before renewal can strengthen a buyer's negotiating position."
+    },
+    {
+      "url": "https://www.cio.com/article/4236339/lack-of-transparency-leads-to-performative-ai-theater.html?utm_source=tldrit",
+      "title": "Lack of transparency leads to performative AI theater",
+      "summary": "Pressure to adopt AI can encourage employees to exaggerate their expertise and prioritize visible usage over better results. Employees need practical training, clear guidance, and honest conversations about changing roles so they can build confidence and use the tools effectively."
+    },
+    {
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance?utm_source=tldrit",
+      "title": "Introducing Agent Compute Engine and expanded agent governance",
+      "summary": "Google Cloud announced Agent Compute Engine, a service designed to run AI agents in hardware-isolated sandboxes, with customer preview expected in the coming months. It also announced broader agent governance across Google Cloud, other clouds, on-premises infrastructure and managed endpoints, with cross-cloud and endpoint capabilities marked for preview soon."
+    },
+    {
+      "url": "https://1password.com/blog/1password-for-ai-agents?utm_source=tldrit",
+      "title": "Introducing 1Password for Agents",
+      "summary": "1Password for Agents lets users approve AI-agent sign-ins while 1Password fills credentials directly into the destination site. It is included at no extra cost for Individual and Family accounts on 1Password.com. 1Password.eu and 1Password.ca accounts are not currently supported. Integrations are at different rollout stages, with support for Claude Duet, ChatGPT Work, and Townie listed as coming soon."
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/?utm_source=tldrit",
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "summary": "Microsoft is expanding its sovereign cloud offerings with oversight of Microsoft engineer access, customer-controlled encryption keys, and more services that can run on customer-operated infrastructure. External key management is generally available, while the new Sovereign Control Panel is headed for public preview at Ignite. GitHub Enterprise Local and expanded Foundry Local capabilities are also scheduled for general availability at that event."
+    },
+    {
+      "url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676?utm_source=tldrit",
+      "title": "Raspberry Pi Desktop proves old PCs aren't past it",
+      "summary": "The Register tested the refreshed, Debian 13-based Raspberry Pi Desktop on aging ThinkPads and found it usable for current browsers and basic applications. The PC edition is now 64-bit only, and performance and hardware support still depend on the machine."
+    },
+    {
+      "url": "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/?utm_source=tldrit",
+      "title": "The Current Landscape of OAuth Attacks",
+      "summary": "Attackers can abuse OAuth through account hijacking, malicious app consent, and redirects. Phishing kits and AI-generated impersonation can be used to help campaigns scale. Stolen or fraudulently granted tokens can allow access after a legitimate MFA login and may persist after a password change, depending on token type and provider policy. Defenses include restricting user app consent, enforcing least-privilege permissions and auditing redirect URIs, and revoking compromised tokens and grants during incident response."
+    },
+    {
+      "url": "https://www.neowin.net/news/microsoft-confirms-windows-11-universal-print-broken-for-months-requires-manual-fix/?utm_source=tldrit",
+      "title": "Microsoft confirms Windows 11 Universal Print broken for months, requires manual fix",
+      "summary": "For Universal Print printers carried over from Windows 10 that fail after Windows 11 KB5083769 or later, Microsoft recommends removing and re-adding the printer or using its admin repair script."
+    },
+    {
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-21-gartner-forecasts-worldwide-it-spending-to-grow-15-percent-in-2027-totaling-7-point-35-trillion?utm_source=tldrit",
+      "title": "Gartner Forecasts Worldwide IT Spending to Grow 15% in 2027, Totaling $7.35 Trillion",
+      "summary": "Gartner forecasts $7.35 trillion in worldwide IT spending in 2027, up 15%."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/10/create-box-and-whisker-charts-in-google-sheets.html?utm_source=tldrit",
+      "title": "Create box and whisker charts in Google Sheets",
+      "summary": "Sheets is rolling out native box and whisker charts to show data distributions without helper formulas."
+    }
+  ]
+}

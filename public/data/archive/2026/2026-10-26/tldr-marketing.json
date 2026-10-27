@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-10-26",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html?utm_source=tldrmarketing",
+      "title": "Google Search Ranking Volatility Gets Headed October 24th",
+      "summary": "Google Search rankings showed significant volatility on October 24, suggesting an unconfirmed update that began Friday and continued into Saturday. SEO tracking tools recorded movement while site owners reported traffic drops and unstable rankings. Some also described declining Google Discover traffic and outdated news results. This follows several bouts of volatility earlier in October and the September spam update, which ran from September 24 to October 8."
+    },
+    {
+      "url": "https://www.constellationr.com/research/blog/and-away-we-go-pennsylvania-signs-ai-deceptive-advertising-act-what-it-means-brands?utm_source=tldrmarketing",
+      "title": "Pennsylvania Signs AI Deceptive Advertising Act. What it Means for Brands",
+      "summary": "Pennsylvania's AI Deceptive Advertising Act requires brands to disclose AI-generated content when it creates a false impression about a product or service. Disclosures must appear at the first point of consumer exposure, and the law applies to businesses of all sizes. Since it remains unclear what qualifies as a false impression, brands can reduce legal risk by disclosing AI use more broadly. California and New York are also pursuing their own rules for synthetic advertising."
+    },
+    {
+      "url": "https://fatemaraja.substack.com/p/every-story-needs-a-villain-so-does?utm_source=tldrmarketing",
+      "title": "Every Story Needs a Villain. So Does Your Brand",
+      "summary": "Build your brand around one clear enemy that customers already recognize. Dollar Shave Club challenged overpriced razors, while Snickers built years of ads around hunger with its “You're not you when you're hungry” campaign. Patagonia fights throwaway culture through durable clothing and repair programs. Turn your brand's villain into a content strategy by showing how the problem affects customers and connecting it to the deeper belief your brand stands for."
+    },
+    {
+      "url": "https://communitycatalysts.substack.com/p/meet-the-new-measure-of-influence?utm_source=tldrmarketing",
+      "title": "400,000 followers or 40 regulars",
+      "summary": "IRL influencers build influence by bringing people together repeatedly, not just attracting online followers. LA Chess Club grew its free weekly chess nights to hundreds of attendees who returned for the connections. With 51% of Gen Z feeling lonely on weekends and 62% wishing online friendships led to more in-person plans, look beyond reach and impressions. Someone who brings 40 people back every week may have more meaningful influence than someone with 400K passive followers."
+    },
+    {
+      "url": "https://search.brave.com/submit-url?utm_source=tldrmarketing",
+      "title": "Submit a URL to Brave Search (Website)",
+      "summary": "You can submit website URLs to be re-fetched by Brave Search, which can help with GEO. Claude's web search is powered by the Brave Search API."
+    },
+    {
+      "url": "https://www.simoahava.com/analytics/optimized-tagging-experience-google-tag-manager/?utm_source=tldrmarketing",
+      "title": "Optimized Tagging Experience For Google Tag Manager",
+      "summary": "Google Tag Manager's new tagging experience combines Google Tag and GTM into one system, reducing page load overhead by loading destinations through a single container. It also centralizes settings and consent controls for Google Analytics 4, Google Ads, and Floodlight. Before migrating, audit existing settings and permissions to prevent data quality or compliance issues. Test changes in Preview mode and migrate destinations incrementally if settings conflict."
+    },
+    {
+      "url": "https://karandhir.substack.com/p/give-the-machine-a-mandate-before?utm_source=tldrmarketing",
+      "title": "Give the Machine a Mandate Before You Give It a Budget",
+      "summary": "Knight Capital lost $460M in 45 minutes, and Zillow lost $304M after automated systems made costly decisions without adequate controls. Ad platforms pose similar risks when algorithms control spending without clear limits. Before launching automated campaigns, define what the system can buy and which decisions require approval. Set spending caps for brand searches and existing customers. Use independent holdout tests to measure results and set clear criteria for pausing campaigns."
+    },
+    {
+      "url": "https://inatoncheva.substack.com/p/your-marketing-team-will-be-on-github?utm_source=tldrmarketing",
+      "title": "Your marketing team will be on GitHub within a year",
+      "summary": "Once a team shares more than a handful of AI skills and source files, Drive and Claude Projects stop working as their home. The files depend on each other, so teams need a change history to trace off-brand output, one-step rollback, and plain files any AI tool can read. A content team at a B2B SaaS company built that on GitHub without developer support, where every member's Claude reads the same positioning and voice files and a newly pushed skill reaches the whole team at once."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/?utm_source=tldrmarketing",
+      "title": "Startups don't need to go viral to win customers",
+      "summary": "Phone outreach and in-person events still reach a large offline client base that viral content misses."
+    },
+    {
+      "url": "https://www.appeconomyinsights.com/p/netflix-youtube-pulls-away?utm_source=tldrmarketing",
+      "title": "Netflix: YouTube Pulls Away",
+      "summary": "Americans now spend nearly twice as much time watching YouTube as Netflix on their TVs (not including YouTube TV)."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/?utm_source=tldrmarketing",
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "summary": "A recent privacy policy update lets Search use connected Gmail, Drive, and Photos content to personalize ads."
+    }
+  ]
+}

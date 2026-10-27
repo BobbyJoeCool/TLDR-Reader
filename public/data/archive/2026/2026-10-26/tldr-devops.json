@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-10-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud/?utm_source=tldrdevops",
+      "title": "Expanding Claude availability and deployment choice on Google Cloud",
+      "summary": "Google Cloud now offers an Anthropic-managed deployment option for Claude models alongside its Google-managed one. Both provide the same models on day zero at the same pricing. The Anthropic-managed option adds immediate access to Claude Platform features such as Managed Agents."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available?utm_source=tldrdevops",
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "summary": "AWS has made Continuum for code vulnerabilities generally available. It builds a context graph of an AWS environment, tests findings for exploitability in a sandbox, and opens pull requests with patches. Teams start in Learn mode and can move to Enforce mode."
+    },
+    {
+      "url": "https://www.wiz.io/blog/cve-2026-111497-brotli-rce-node-js?utm_source=tldrdevops",
+      "title": "Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder Vulnerability",
+      "summary": "CVE-2026-111497, also known as Broccoli2Shell, is a critical vulnerability in the Brotli decompression library that allows remote code execution. The flaw affects Node.js, Bun, and Envoy Proxy. Wiz data shows 91% of cloud environments have vulnerable resources. Organizations should apply security updates and rebuild affected workloads."
+    },
+    {
+      "url": "https://webflow.sysdig.com/blog/detecting-and-mitigating-zdi-can-33367-and-five-other-linux-flaws?utm_source=tldrdevops",
+      "title": "Detecting and mitigating ZDI-CAN-33367 and five other Linux flaws",
+      "summary": "A working root exploit for Linux kernel bug ZDI-CAN-33367 is public before a CVE or fix is available. TuxCare reproduced the proof of concept for local privilege escalation on Ubuntu, Debian, and AlmaLinux. A separate patch for the flaw is reviewed but not merged, and none of the six disclosed bugs has a CVE ID yet."
+    },
+    {
+      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location?utm_source=tldrdevops",
+      "title": "Shard design doesn't start from your tables",
+      "summary": "Neki \"shard groups\" let users co-locate related tables like customers and orders on the same physical cluster to keep joins and transactions local. Reference tables replicate lookup data to every shard, while global secondary indexes support queries that lack the shard key."
+    },
+    {
+      "url": "https://blog.cloudflare.com/origin-range-requests/?utm_source=tldrdevops",
+      "title": "Origin Range Requests: Serving Large Files Without Range-Request Tuning",
+      "summary": "Cloudflare rebuilt range-request caching in Pingora to coordinate partial downloads across cached data and in-flight origin fetches. The redesign roughly halved R2's p99 time to first byte and eliminated customer-managed range sizes, while a follow-up improvement reduced tiered-cache traffic for R2 and similar workloads by about 6%."
+    },
+    {
+      "url": "https://github.com/coollabsio/coolify?utm_source=tldrdevops",
+      "title": "Coolify (GitHub Repo)",
+      "summary": "Coolify is an open-source, self-hostable PaaS alternative to Vercel, Heroku, and Netlify. It allows users to deploy static sites, databases, and full-stack applications on their own servers. The tool offers more than 360 one-click services and automatic HTTPS certificates."
+    },
+    {
+      "url": "https://questdb.com/blog/questdb-10-1-release/?utm_source=tldrdevops",
+      "title": "QuestDB 10.1: Fresher Data, Less I/O, and More Analysis in SQL",
+      "summary": "QuestDB 10.1 adds optional merge-append partitions that reduce rewriting when late data arrives, with background compaction reclaiming obsolete rows. On QuestDB's public demo, enabling the feature reduced rows written per ingested row from about 440 to 8. The release also adds exact percentiles and SQL subsampling."
+    },
+    {
+      "url": "https://thenewstack.io/scaling-kubernetes-control-planes/?utm_source=tldrdevops",
+      "title": "Scale isn't one number: three ways a Kubernetes control plane runs out of room",
+      "summary": "Kubernetes control planes run out of room in three independent ways: node count, object churn, and resident state. Joe Betz of Google describes four seams, including storage routing and cache residency, and a recipe ladder built from stock upstream components. Some seams still have upstream gaps."
+    },
+    {
+      "url": "https://blog.railway.com/p/preliminary-report-october-security-incident?utm_source=tldrdevops",
+      "title": "Railway Preliminary Report: Oct 21st Security Incident",
+      "summary": "Railway disclosed a security incident where an attacker accessed internal systems from October 20 to 22 to target AI provider API keys. Environment variables for approximately 100,000 workspaces, or 1.85% of the total, were potentially compromised. Railway revoked credentials with partner vendors and accelerated a rollout of single-tenant builder infrastructure."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/10/grafana-slo-ai-agent/?utm_source=tldrdevops",
+      "title": "Grafana Applies SLOs and Error Budgets to AI Agent Behaviour",
+      "summary": "Grafana Labs proposes applying SLOs and error budgets to AI agent behavior, such as a 95% target for fulfilled conversations over 30 days."
+    },
+    {
+      "url": "https://www.digitalocean.com/blog/now-available-prompt-caching?utm_source=tldrdevops",
+      "title": "Prompt Caching is GA on DigitalOcean Serverless Inference: Up to 90% Off the Context Your Agents Resend",
+      "summary": "Prompt caching is now generally available on DigitalOcean Serverless Inference."
+    }
+  ]
+}

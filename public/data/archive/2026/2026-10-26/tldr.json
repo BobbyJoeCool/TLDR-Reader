@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-26",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html?unlocked_article_code=1.LlE.6tcx.7t5N9nZ5J6K3&smid=url-share&utm_source=tldrnewsletter",
+      "title": "Review of iPhone Duo: A New Chapter That Redefines a Smartphone's Purpose",
+      "summary": "Apple's iPhone Duo is a miniature tablet that can be folded up into a phone. Its main target audience is people who want to have a tablet everywhere they go. Commuters and business travelers who spend a lot of time on trains, buses, and planes will probably like the device. Everyone else may feel frustrated with what is otherwise an average smartphone."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mjg5ODcyMSwiZXhwIjoxNzkzNTAzNTIxLCJhcnRpY2xlSWQiOiJUTkJVQ0RLSUpIOTIwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.aZUQTESNPxDFkB9tAjev0zQuyASx2W5Ed0a-yabw_WY&utm_source=tldrnewsletter",
+      "title": "Jane Street and Rivals Are Now Fighting for AI Power as Well as Pace",
+      "summary": "High-frequency traders are now racing for compute. They are investing in the sector as it secures them access to greater processing capacity and faster chips. These firms primarily profit from tiny price differences as they move rapidly in and out of positions. As they increasingly rely on machine learning, their success is directly tied to their computing power. While the risks are significant, most high-speed traders see few options if they want to avoid becoming obsolete."
+    },
+    {
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/?utm_source=tldrnewsletter",
+      "title": "Neural chip decodes interactions between brain regions",
+      "summary": "Researchers have developed an implantable neural chip that tracks communication across brain regions. It can record brain activity and extract biomarkers that describe the strength of brain waves and synchrony between signals from different brain regions. These signals can be decoded using a machine-learning algorithm to distinguish between cognitive and emotional states. The capability to extract brain-network biomarkers to trigger precisely timed stimulation has many applications across next-generation neurotechnology."
+    },
+    {
+      "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data?utm_source=tldrnewsletter",
+      "title": "US military gives Elon Musk's SpaceX access to sensitive tracking data",
+      "summary": "SpaceX has been granted access to restricted space tracking data by the US military. The access raises new national security questions as well as questions about whether the Trump administration is attempting to hand over traffic control in Earth's orbit to a donor. Elon Musk's Doge program fired many of the federal government's space traffic control staff in 2025, and the administration has twice attempted to financially gut the Traffic Coordination System for Space department. The moves have been widely viewed in the industry as an attempt by Musk to privatize space traffic control."
+    },
+    {
+      "url": "https://danluu.com/ambitious/?utm_source=tldrnewsletter",
+      "title": "We should be more ambitious with the software we build",
+      "summary": "AI can now one-shot many projects, allowing almost anyone to create software. However, it still struggles with many harder tasks. People who say that everything just works or that software is solved aren't working on the hard problems. They need to be more ambitious about the software they're building as AI models become more capable."
+    },
+    {
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html?utm_source=tldrnewsletter",
+      "title": "The State of Context Engineering",
+      "summary": "Context engineering is hard in unique ways because AI models aren't people. It helps to understand how models are built, optimized, and trained. Their unique attributes and construction create a unique set of failure modes to be reckoned with. This means context engineering will forever be a challenge with AI, no matter how good it gets."
+    },
+    {
+      "url": "https://buildingslack.com/salesforce-part-two/?utm_source=tldrnewsletter",
+      "title": "Salesforce – Part Two",
+      "summary": "This post tells the story of what it was like at Salesforce after it acquired Slack. The cultural gaps between the two companies were evident. Slack had a tight-knit culture where humans would help each other, whereas Salesforce was a much larger company with systems and processes for things to get done. Slack's cognitive overhead was nothing compared to the overbearing weight of the Salesforce monolith."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LlE.WF_9.v3wv2LgB2VSi&smid=url-share&utm_source=tldrnewsletter",
+      "title": "The Factory in Phoenix That Could Save American Manufacturing",
+      "summary": "TSMC Arizona's first plant has been producing chips for two years. Its rate of output in Phoenix is comparable to that in Taiwan. TSMC sends engineers to Arizona on contracts of up to three years, with families moving from Taiwan to the site. Some of the families that moved in the first wave now want to build lives in the US, as they want to give their children a chance to integrate, for their kids' education, or because they prefer the American lifestyle, and there are legal pathways for doing so. This article looks at the impact the factory had on Phoenix, the employees who moved to America to work there, and the chip manufacturing industry in the US."
+    },
+    {
+      "url": "https://maggieappleton.com/planning-agents?utm_source=tldrnewsletter",
+      "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+      "summary": "We are trying really hard to make agents productive while we're not around, but that requires excellent planning."
+    },
+    {
+      "url": "https://cap.so/blog/rebuilding-cap-in-gpui?utm_source=tldrnewsletter",
+      "title": "A technical deep dive into Cap's migration to GPUI",
+      "summary": "Cap 0.6.1 is the first version that doesn't have a web browser inside it."
+    },
+    {
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism?utm_source=tldrnewsletter",
+      "title": "Cognitive Mercantilism",
+      "summary": "Most people will no longer need to be significant producers of intelligence in order to become significant consumers of it."
+    },
+    {
+      "url": "https://minimaxir.com/2026/10/cheap-llms/?utm_source=tldrnewsletter",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "summary": "It's strange that OpenAI and Anthropic cut their primary revenue sources at a time when they are losing billions and are planning to IPO soon."
+    },
+    {
+      "url": "https://longnow.org/ideas/attention-ai-pace-layers/?utm_source=tldrnewsletter",
+      "title": "Attention is All You Need",
+      "summary": "We have to direct our attention more consciously as the future hinges on the choices we make now."
+    },
+    {
+      "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm?utm_source=tldrnewsletter",
+      "title": "The rise and fall of Jev hype",
+      "summary": "The Jev hype cycle is a prime example of the manipulative marketing that we are all too familiar with at this point."
+    }
+  ]
+}

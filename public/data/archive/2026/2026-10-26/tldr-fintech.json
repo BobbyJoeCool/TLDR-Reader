@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-10-26",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/finance/barclays-q3-profit-rises-12-announces-670-million-buyback-2026-10-22/?utm_source=tldrfintech",
+      "title": "Barclays to slash 5,000 jobs in AI-powered cost-cutting drive",
+      "summary": "Barclays plans to eliminate roughly 5,000 positions, about 5% of its workforce, as automation and AI reduce support costs, with developers among the functions most affected. The bank has already cut around 1,000 roles and booked £201 million in third-quarter restructuring charges."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111417/sams-club-picks-affirm-for-bnpl?utm_source=tldrfintech",
+      "title": "Sam's Club picks Affirm for BNPL",
+      "summary": "Affirm today announced an exclusive, multi-year collaboration with Sam's Club that will give eligible shoppers a clear, predictable way to pay over time. Affirm will be available on SamsClub.com in the coming weeks, with Affirm planning to expand availability to Sam's Club locations in 2027."
+    },
+    {
+      "url": "https://www.theinformation.com/articles/ramp-investors-went-nuclear-airwallex-doomed-deal?utm_source=tldrfintech",
+      "title": "Ramp-Airwallex partnership reportedly collapsed as competition intensified",
+      "summary": "A proposed partnership between Ramp and Airwallex to strengthen Ramp's international payments capabilities reportedly fell apart in April 2025 after Airwallex investors pushed CEO Jack Zhang to compete with Ramp instead. Ramp co-founder Eric Glyman reportedly tried to salvage the deal and later warned that the relationship between the two fintechs could become less friendly as they moved toward more direct competition."
+    },
+    {
+      "url": "https://www.americanbanker.com/payments/news/amex-touts-ai-plans-5-downsizing?utm_source=tldrfintech",
+      "title": "American Express touts AI, plans 5% downsizing",
+      "summary": "CEO Steve Squeri framed the restructuring as a way to remove management layers and speed up decisions, without directly attributing the job cuts to automation. The company is also automating expense reports, preparing a payroll system for early 2027, and developing protections for purchases made by AI agents."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/amex-american-express-shrink-workforce-ai-squeri/833853/?utm_source=tldrfintech",
+      "title": "Amex to shrink workforce as it adjusts to AI and rising competition",
+      "summary": "American Express plans to cut about 3,500 jobs, roughly 4.5% of its workforce, as CEO Stephen Squeri pushes for faster decision-making, higher productivity, and a leaner operating model. Amex also plans to deploy more AI agents across its commercial and consumer products as competition intensifies from JPMorgan, Visa, Mastercard, Ramp, and Capital One-owned Brex."
+    },
+    {
+      "url": "https://www.newcomer.co/p/mercury-crosses-1-billion-annualized?utm_source=tldrfintech",
+      "title": "Mercury Crosses $1 Billion Annualized Revenue (53 minute podcast)",
+      "summary": "Mercury went from $500M in 2024 rev to a $650M run-rate in September 2025, and is now growing ~50% year over year. Customer growth keeps accelerating: +40% in 2024, +50% in 2025, then 300K to 450K+ in under 10 months. Although some of this is helped by the average customer size getting smaller/going more mass market."
+    },
+    {
+      "url": "https://www.meshpay.com/blog/mesh-x-visa-spend-crypto-stablecoins-at-175m-merchants?utm_source=tldrfintech",
+      "title": "Mesh and Visa Partner to Make Crypto and Stablecoin Balances Spendable at 175M+ Merchants",
+      "summary": "Mesh and Visa have partnered so people can spend crypto and stablecoin balances straight from their wallet apps at more than 175 million Visa merchant locations in 200+ countries and territories, in-store and online, without a separate card or preloading funds"
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin?utm_source=tldrfintech",
+      "title": "HSBC launches first stablecoin",
+      "summary": "The coin is available in Hong Kong through the bank's PayMe channel, a P2P network for Hong Kong consumers. The 3.3 million users of PayMe will be able to make payments to friends and merchants and, in the near future, will be able to invest in tokenised assets. RedCoin is licensed and regulated by the Hong Kong Monetary Authority and is HKD-denominated."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/?utm_source=tldrfintech",
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "summary": "MAVI is a marketplace that helps US companies hire global finance professionals who can integrate automation into workflows and catch errors in its output. It focuses on full-time, mid- and senior-level roles, handling cross-border contracts, compliance, and payroll. The startup has more than 3,000 accounting professionals on its platform."
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions-2026-10-25/?utm_source=tldrfintech",
+      "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
+      "summary": "On October 25, Israel's central bank rejected Prime Minister Benjamin Netanyahu's suggestion that cryptocurrency and blockchain could protect the economy if foreign sanctions reached its banking system. More than 100 economists warned the strategy would not preserve access to trading partners and could instead accelerate capital flight, unemployment, and financial isolation"
+    },
+    {
+      "url": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities?utm_source=tldrfintech",
+      "title": "SEC adds tokenization to 2027 examination priorities",
+      "summary": "The SEC's Division of Examinations added tokenization to its fiscal 2027 priorities, with clearing agencies and Regulation SCI entities facing greater scrutiny around tokenized securities and related market-infrastructure risks. The move does not create new rules, but signals that tokenization is becoming part of mainstream securities oversight as regulators examine how blockchain-based infrastructure affects clearing, recordkeeping, operations, and market integrity."
+    },
+    {
+      "url": "https://www.bankingdive.com/news/citi-takes-cautious-approach-ai-agent-access/833849/?utm_source=tldrfintech",
+      "title": "Citi takes cautious approach on AI agent access",
+      "summary": "Citi is blocking external AI agents from transacting inside customer accounts for now, allowing only limited read-only open-banking access while it develops “know your agent” controls around identity, authorization, entitlements and regulatory compliance. At the same time, Citi is expanding internal AI across onboarding, document processing, client chat, and embedded banking, showing a split strategy: move quickly with controlled in-house AI, but slowly with third-party agents that can take financial actions."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/shopping-is-muses-top-task-meta/833817/?utm_source=tldrfintech",
+      "title": "Shopping is Muse's top task, Meta says",
+      "summary": "Meta says shopping is the most common use case for its Muse personal AI agent."
+    },
+    {
+      "url": "https://www.reuters.com/business/instacart-talks-sale-information-reports-2026-10-23/?utm_source=tldrfintech",
+      "title": "Instacart explores potential sale after talks with Uber and DoorDash",
+      "summary": "Instacart is exploring a sale and has held preliminary discussions with potential buyers, including Uber and DoorDash."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48639/us-fintech-coast-secures-35m-for-physical-economy-payments-platform?utm_source=tldrfintech",
+      "title": "US fintech Coast secures $35m for physical economy payments platform",
+      "summary": "New York-based startup Coast has raised $35m for the launch of a payment platform designed to support companies working in the physical economy."
+    }
+  ]
+}
