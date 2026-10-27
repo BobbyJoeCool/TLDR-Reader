@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-27",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/legal/transactional/anthropic-opens-books-ais-explosive-growth-staggering-costs-2026-10-26/?utm_source=tldrit",
+      "title": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test",
+      "summary": "Anthropic published its US IPO filing as investors scrutinize the cost of the AI boom. Its first-half net loss was $80.7 billion, largely driven by a non-operating convertible-bond item, while its operating loss narrowed to $693 million. The prospectus also highlights growing computing costs and dependence on a small group of cloud and chip suppliers."
+    },
+    {
+      "url": "https://betanews.com/article/microsoft-finally-brings-a-unified-inbox-to-new-outlook-for-windows/?utm_source=tldrit",
+      "title": "Microsoft finally brings a unified inbox to new Outlook for Windows",
+      "summary": "New Outlook for Windows is rolling out an All Accounts view that brings email from multiple connected accounts into one place while keeping each mailbox separate. Microsoft expects rollout to finish by late October, with administrator controls planned separately."
+    },
+    {
+      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles?utm_source=tldrit",
+      "title": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
+      "summary": "A campaign tracked by Wiz uses stolen GitHub tokens to plant workflows that steal repository secrets and can expose cloud credentials. GitHub's approval controls blocked every malicious public-repository run the researchers checked, but Wiz observed successful runs and follow-on cloud activity involving private repositories and enterprise environments. The report includes indicators for investigating affected accounts and guidance on revoking tokens and rotating exposed secrets."
+    },
+    {
+      "url": "https://www.cio.com/article/4239738/the-metric-that-makes-your-it-org-look-healthier-than-it-is.html?utm_source=tldrit",
+      "title": "The metric that makes your IT org look healthier than it is",
+      "summary": "Strong uptime, ticket-resolution, and patch-compliance percentages can hide recurring problems and risks concentrated in a few critical systems. Executive reporting should emphasize business disruption, repeat incidents, and unresolved critical vulnerabilities, while retaining operational metrics for the teams that use them."
+    },
+    {
+      "url": "https://bloggeek.me/azure-communication-services-retirement/?utm_source=tldrit",
+      "title": "Azure Communication Services is retiring: now what",
+      "summary": "Microsoft has announced the retirement of most Azure Communication Services (ACS) features by September 30, 2028, limiting ongoing functionality exclusively to Microsoft Teams integrations. New customer onboarding was restricted starting in late 2026, and existing standalone services such as chat, SMS, and WhatsApp will be shut down entirely. This move suggests Microsoft's failure to capture a viable standalone market, leaving enterprise users facing a difficult migration."
+    },
+    {
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism?utm_source=tldrit",
+      "title": "Cognitive Mercantilism",
+      "summary": "Contemporary AI fears reflect a form of cognitive mercantilism, which treats intelligence as a scarce resource and underestimates ordinary people's ability to think independently. Much like the consumer revolution that preceded industrial capitalism, widespread access to AI could spark a cognitive industrious revolution. Abundant AI could expand demand for intelligence and empower ordinary people to access and apply it on an unprecedented scale."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/?utm_source=tldrit",
+      "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+      "summary": "AWS now provides managed one-to-one network address translation directly on AWS Transit Gateway and AWS Cloud WAN attachments through integration with Regional Private NAT Gateway. This capability enables customers to connect private networks sharing the same IP address ranges without renumbering networks, deploying NAT appliances, or writing return-traffic rules. The service automatically applies address translation in both directions across Amazon VPC, AWS Site-to-Site VPN, AWS Direct Connect, and connected SD-WAN appliances."
+    },
+    {
+      "url": "https://blogs.cisco.com/networking/wireless-is-the-next-security-frontier-and-cisco-is-leading-the-way?utm_source=tldrit",
+      "title": "Wireless is the next security frontier, and Cisco is leading the way",
+      "summary": "Cisco is launching the CW9176ISEC, described as the industry's first Wi-Fi 7 access point with quantum-resilient capabilities aligned to CNSA 2.0 standards. The company is also refreshing its Wireless 9800 Series controllers and introducing Auto MACsec to secure traffic between access points and switches. In partnership with Qualcomm, Microsoft, and Intel, Cisco is bringing post-quantum cryptography over the air to protect enterprise wireless infrastructure and client devices."
+    },
+    {
+      "url": "https://www.reco.ai/blog/we-found-consumer-agents-sitting-inside-enterprise-saas?utm_source=tldrit",
+      "title": "Consumer Agents Sitting Inside Enterprise SaaS",
+      "summary": "Threat research has flagged a surge of consumer personal agents connecting directly to core enterprise SaaS suites without corporate IT oversight. C-level executives are granting these unvetted third-party agents expansive OAuth privileges, creating unmonitored non-human identities with access to sensitive corporate data and files. Legacy security architectures are blind to these cloud-to-cloud connections, necessitating active, context-aware SaaS and non-human identity governance."
+    },
+    {
+      "url": "https://engineering.monday.com/how-we-gave-ai-agents-the-keys-to-production-and-still-sleep-at-night/?utm_source=tldrit",
+      "title": "How We Gave AI Agents the Keys to Production and Still Sleep at Night",
+      "summary": "monday.com's Production Engineering team built a shared platform that allows LLM agents to safely interact with production infrastructure through standardized guardrails. After one quarter in production, agents resolved about 50 percent of an average of 1,688 infrastructure tickets per month without human escalation."
+    },
+    {
+      "url": "https://www.army.mil/article/296302/us_army_launches_project_gatekeeper_to_accelerate_commercial_software_adoption_streamline_cybersecurity_accreditation?utm_source=tldrit",
+      "title": "US Army launches Project Gatekeeper to accelerate commercial software adoption, streamline cybersecurity accreditation",
+      "summary": "The Army's new software-testing sandbox produces evidence to support security authorization."
+    },
+    {
+      "url": "https://itwire.com/it-industry-news/deals/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting?utm_source=tldrit",
+      "title": "Dayforce to Acquire Ribbon AI Inc. to Advance Agentic Recruiting",
+      "summary": "The acquisition will bring Ribbon's conversational voice and video AI technology, sourcing, and talent rediscovery tools to Dayforce to help organizations automate early-stage screening and conduct interviews at scale."
+    }
+  ]
+}

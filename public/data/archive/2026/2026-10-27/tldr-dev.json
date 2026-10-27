@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-27",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mergify.com/blog/python-postgres-disagree-on-cet?utm_source=tldrdev",
+      "title": "Python and Postgres Don't Agree on What “CET” Means",
+      "summary": "A timezone accepted by Python broke Mergify's merge-freeze queries because Postgres rejected it, and the investigation uncovered four names that silently differ by an hour in summer. The fix uses one curated timezone list and integration tests that compare both systems, rather than validating against either runtime alone."
+    },
+    {
+      "url": "https://x.com/addyosmani/status/2114604912520921136?utm_source=tldrdev",
+      "title": "How the Claude Code Team Does Code Review",
+      "summary": "The Claude Code team reported more than twice as many merged PRs from June to September while the share requiring reverts fell by over 40%. Its process combines automated review before and after PR creation, security checks, human approval scaled by risk, and fast rollback. It also caps review cycles after one PR bounced between agents more than fifty times overnight."
+    },
+    {
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm?utm_source=tldrdev",
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "summary": "Ubicloud found that Kimi K2.6 served through vLLM produced schema-valid tool calls only 92% of the time. Constrained decoding raised schema accuracy to 100% for its supported Kimi and DeepSeek models by blocking invalid tokens during generation, though that guarantee does not establish whether a tool call is useful or correct."
+    },
+    {
+      "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default?utm_source=tldrdev",
+      "title": "Design Systems Should Be Fast by Default",
+      "summary": "Tests across ten design systems show that bundle size alone misses expensive interactions such as opening a 249-option selector or selecting 100 checkboxes. The investigation traces slow paths to repeated slot scans, layout thrashing, and animations, then supplies Playwright performance budgets that teams can run on each pull request."
+    },
+    {
+      "url": "https://ben.balter.com/2026/10/26/documentation-quality-is-ai-quality/?utm_source=tldrdev",
+      "title": "Your Documentation Quality Is Your AI Quality Now",
+      "summary": "AI tools need explicit document structure and a clear source of truth to retrieve useful context. Real headings, native lists, and one maintained copy help more than visual formatting, while conversion tools need care because Word comments and tracked changes can disappear during a Markdown round trip."
+    },
+    {
+      "url": "https://brennenputh.me/blog/printable-websites/?utm_source=tldrdev",
+      "title": "Websites Should Be Printable",
+      "summary": "Print styles let readers annotate and use text-heavy websites away from the screen. This small CSS walkthrough covers hiding navigation, adjusting type, and making links legible in grayscale, with an update acknowledging fixes prompted by reader feedback."
+    },
+    {
+      "url": "https://github.com/JetBrains/thinkrail?utm_source=tldrdev",
+      "title": "ThinkRail (GitHub Repo)",
+      "summary": "ThinkRail wraps the pi coding agent in an IDE with editors, terminals, and isolated Git worktrees for parallel tasks. Living SPEC.md files and reusable skills preserve project context across sessions, while built-in GitHub controls expose PR status, CI checks, and review decisions."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/?utm_source=tldrdev",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "GPT-6.1 Terra combines visual reasoning, computer use, and coding with standard API prices of $1 per million input tokens and $5 per million output tokens. OpenAI reports 50.3% on Terminal-Bench 4.0 at maximum reasoning effort, while recommending GPT-6.1 Sol or GPT-6 Astra for the most complex coding tasks."
+    },
+    {
+      "url": "https://github.com/nightly-labs/openbot?utm_source=tldrdev",
+      "title": "OpenBot (GitHub Repo)",
+      "summary": "OpenBot runs persistent AI teammates in a desktop workspace, giving each agent its own conversation, files, task queue, and access to an embedded browser. It supports Codex, Claude Code, and other agent runtimes. The development preview runs agents with broad access and no per-action approvals."
+    },
+    {
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/?utm_source=tldrdev",
+      "title": "SIMD-Accelerated Computer Vision on a $2 Microcontroller",
+      "summary": "An ESP32-S3 FAST feature detector uses 128-bit SIMD instructions to process sixteen pixels at a time, reaching about 6 milliseconds per 320-by-240 frame. The implementation works around unaligned loads and signed-only comparisons, including an XOR trick that makes unsigned pixel values comparable."
+    },
+    {
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/?utm_source=tldrdev",
+      "title": "Cross-Request KV Cache Exposure in Workers AI",
+      "summary": "Cloudflare reports that 155 GLM-5.3 responses exposed data from other customers after oversized prompts encountered a KV cache capacity mismatch and an SGLang error-handling bug. The model was restored in September after remediation, and the October disclosure explains how a rejected request could still decode against stale cache pages."
+    },
+    {
+      "url": "https://www.tempertemper.net/blog/fully-customise-your-select-elements?utm_source=tldrdev",
+      "title": "Fully Customise Your Select Elements",
+      "summary": "Native select controls can use appearance: base-select and picker pseudo-elements for custom styling while falling back to ordinary controls in unsupported browsers."
+    },
+    {
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/?utm_source=tldrdev",
+      "title": "Oldest GUI Application That Still Runs on Windows 11",
+      "summary": "A November 1992 CD player still launches on Windows 11 using the system C runtime, while running 1985 Reversi requires the separate otvdm compatibility layer."
+    },
+    {
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md?utm_source=tldrdev",
+      "title": "Type Server Protocol (Website)",
+      "summary": "Microsoft's JSON-RPC protocol exposes Python type queries, import resolution, and snapshot-based analysis state using LSP conventions."
+    },
+    {
+      "url": "https://tanstack.com/blog/introducing-tanstack-redact?utm_source=tldrdev",
+      "title": "Introducing TanStack Redact",
+      "summary": "Redact swaps React's browser runtime for a smaller compatible implementation, with synchronous rendering that trades away interruptible scheduling."
+    }
+  ]
+}

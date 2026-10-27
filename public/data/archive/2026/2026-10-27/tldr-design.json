@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-10-27",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://ux-news.com/figma-enterprise-ai-credit-controls-admin-apis/?utm_source=tldrdesign",
+      "title": "Figma Adds Enterprise AI Credit Controls and Admin APIs",
+      "summary": "Enterprise admins in Figma can now set default paid AI credit access per user, choosing a monthly limit, full access, or none across organizations or billing groups. The limits cover purchased credits only and reserve nothing, so shared pools can still run dry. New admin REST APIs for teams, folders, and files, plus a block on employees opening Starter or Professional plans with company emails, round out the update."
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/?utm_source=tldrdesign",
+      "title": "Apple unveils all-new iPad mini: OLED, thinner design, more",
+      "summary": "Apple's biggest iPad mini update yet introduces a slightly larger 8.5-inch OLED display with 24% thinner bezels, up to 1,200 nits of peak brightness, and an optional nano-texture finish. The 5.4mm-thick design adds IP67 water and dust resistance, an A20 Pro chip, a landscape 12MP Center Stage camera, Acoustic Display audio, faster connectivity, and fast charging. Pre-orders begin October 28 ahead of a November 6 release, with pricing starting at $699 for 128GB."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/?utm_source=tldrdesign",
+      "title": "These clever apps show off the iPhone Duo's potential",
+      "summary": "Developers are creating playful apps built around the iPhone Duo's folding design. Deck-Man turns albums into virtual cassettes, letting users load a tape with the phone open and close it to listen, complete with mechanical playback sounds. TypeDraw uses the fold as a notebook cover, with customizable paper, drawing tools, and fonts based on the user's handwriting."
+    },
+    {
+      "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?utm_source=tldrdesign",
+      "title": "Entering Atomic Design from the screen",
+      "summary": "Atomic Design does not have to begin with small reusable components and work upward, as product teams can instead start with complete screens and discover their underlying structure from user behavior. A scope-first approach identifies what users can do, determines which data or interface region each action affects, and assigns responsibility for that logic before defining components. This helps reveal relationships that a simple interface inventory misses, producing components and templates based on behavioral boundaries rather than visual proximity alone."
+    },
+    {
+      "url": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/?utm_source=tldrdesign",
+      "title": "How to Put Your Design System to Work with the Figma Agent",
+      "summary": "A connected design library gives the Figma agent approved components and tokens, while guidelines attached to it encode rules, exceptions, and which variant to pick. Examples on an Examples page or attached to a prompt show how pieces combine, and reusable skills like a /design-system-audit handle repeat processes. Recurring agent mistakes signal that guidelines, library, or examples need updating."
+    },
+    {
+      "url": "https://www.the-main-thread.com/p/prompting-models-web-ui-design-styles?utm_source=tldrdesign",
+      "title": "AI UI Design Prompts: Describe the Interface You Want",
+      "summary": "AI coding tools produce more distinctive interfaces when prompts describe not only a broad visual style but also typography, layout, hierarchy, density, colors, borders, and how specific interface regions should relate to each other. Applying Swiss-inspired, editorial, developer-workbench, and neo-brutalist directions to the same test-results viewer demonstrates how identical functionality can produce radically different compositions while preserving content and behavior. Effective iteration comes from evaluating the rendered interface against the task, then giving concrete feedback about problems such as oversized headings, misplaced controls, or wasted space rather than relying on vague aesthetic instructions."
+    },
+    {
+      "url": "https://useit.im/?utm_source=tldrdesign",
+      "title": "Turn an Idea into Something You Can Hold (Website)",
+      "summary": "UseIt Studio is an AI design co-pilot: describe what you want, change it with a sentence, and get it ready to print, cut, and fold."
+    },
+    {
+      "url": "https://lugh-xtudio.com/?utm_source=tldrdesign",
+      "title": "The Video Studio Where AI Agents Edit with You (Website)",
+      "summary": "Give each channel a workspace, teach your agent a style with skills, and put several agents to work at once — on maps, whiteboards, and 3D and motion graphics."
+    },
+    {
+      "url": "https://www.logo.dev/docs/mcp/introduction?utm_source=tldrdesign",
+      "title": "Logo.dev MCP Server (Website)",
+      "summary": "Connect Claude, Cursor, VS Code, Codex, or any MCP client to Logo.dev, and let your agent look up brands, logos, and brandmarks."
+    },
+    {
+      "url": "https://nuno-icons.com/2026/10/25/options-are-expensive-not-having-them-has-a-cost-too/?utm_source=tldrdesign",
+      "title": "Options are expensive. Not having them has a cost too",
+      "summary": "Oxygen is adding a setting that lets KDE users choose between symbolic and colorful action icons, but supporting that seemingly simple preference requires redrawing hundreds of icons individually at multiple sizes. Different pixel dimensions require distinct proportions and levels of detail rather than straightforward scaling, turning one interface option into thousands of assets that must be designed, tested, and maintained. User choice carries a substantial hidden cost, but removing choice also has consequences when people have different visual preferences, habits, and accessibility needs."
+    },
+    {
+      "url": "https://the-brandidentity.com/project/saint-urbains-masani-pizza-identity-celebrates-the-family-that-owns-it?utm_source=tldrdesign",
+      "title": "Masani Pizza's identity celebrates the family that owns it",
+      "summary": "Saint-Urbain built Masani Pizza's identity around the personality and family behind the restaurant, giving the brand a warm, characterful presence rather than relying on familiar Italian restaurant conventions. Expressive typography, illustrations, photography, and playful graphic details create a visual language that feels personal and rooted in the people running the business. The resulting system turns family character and hospitality into the restaurant's primary point of distinction across packaging, signage, merchandise, and other touchpoints."
+    },
+    {
+      "url": "https://www.designweek.co.uk/conran-design-group-rebrands-luxury-accommodation-provider-cheval/?utm_source=tldrdesign",
+      "title": "Conran Design Group rebrands luxury accommodation provider Cheval",
+      "summary": "Conran Design Group has repositioned luxury accommodation provider Cheval around “Generous by design,” shifting the brand from a product-led proposition toward experiences defined by space, time, and attention. A new elongated C containing two horses references Cheval's Knightsbridge origins, while Season typography, deep teal, bespoke property emblems, and flag-inspired signage replace more generic black, white, and gold luxury conventions. The flexible identity supports Cheval's expansion across serviced apartments and branded residences while giving individual properties room to express their distinct locations and character."
+    },
+    {
+      "url": "https://abduzeedo.com/teenage-engineering-masterclass-product-design?utm_source=tldrdesign",
+      "title": "Teenage Engineering is a Masterclass in Product Design",
+      "summary": "Teenage Engineering's music gear pairs aluminum bodies, clearly labeled controls, and purposeful color with a consistent visual language across hardware and software."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/10/talented-digital-illustrator-creates-breathtaking-solitary-worlds-that-will-make-you-want-to-pause-and-get-lost-in-quiet-reflection/?utm_source=tldrdesign",
+      "title": "Talented Digital Illustrator Creates Breathtaking, Solitary Worlds That Will Make You Want to Pause and Get Lost in Quiet Reflection",
+      "summary": "Nishanul Nishat paints lone figures in vast, dreamlike landscapes, using soft color palettes and rich lighting to build atmospheric, narrative-driven scenes of quiet solitude."
+    }
+  ]
+}
