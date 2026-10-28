@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-10-28",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.pewresearch.org/short-reads/2026/10/23/growing-share-of-americans-say-social-media-is-an-important-news-source-for-them/?utm_source=tldrmarketing",
+      "title": "Growing Share of Americans Say Social Media Is an Important News Source for Them",
+      "summary": "58% of US adults say social media is important for keeping up with the news, up from 43% in 2022. Among adults ages 18-29, that figure rises to 76%, including 22% who say social media is their most important news source. 41% of adults 65 and older feel the same."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/holiday-offers-subscription-apps?utm_source=tldrmarketing",
+      "title": "Do holiday offers bring subscription apps more than a sales spike?",
+      "summary": "Subscription apps running Black Friday promotions get 20% more new paying customers per day than their autumn baseline, while apps without offers get 16% fewer. Each discounted buyer is worth 8% less over six months, but the extra volume leaves sale-day revenue 12% higher. About half the lift comes from free users who installed the app more than three months earlier. Christmas-only offers show no advantage, while New Year promotions drive 14% more new paying customers, led by fitness and gaming apps."
+    },
+    {
+      "url": "https://exitfive.com/newsletter/how-to-turn-webinars-into-pipeline-before-you-ever-go-live/?utm_source=tldrmarketing",
+      "title": "How to Turn Webinars into Pipeline Before You Ever Go Live",
+      "summary": "After someone registers for a webinar, use the thank-you page to ask 5-6 questions about their role, challenges, and needs. This turns registration into a lead qualification flow before the event even happens. Use the answers to personalize follow-up offers and let high-intent prospects book demos immediately. About 90% of registrants complete the extra questions."
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518612505024299008/?utm_source=tldrmarketing",
+      "title": "Are you tracking LinkedIn traffic?",
+      "summary": "George Terry, co-founder of Winbox, tracked website visits from organic posts, his personal profile, the company page, and paid ads using separate UTMs. 80% of trackable LinkedIn form submissions came through his profile and the company page. Company page visitors spent longer on site and viewed more pages, while organic post clicks kept visitors engaged 12X longer than sponsored post clicks. He notes that paid activity may also drive people to profiles and company pages, and some visits go untracked as direct traffic."
+    },
+    {
+      "url": "https://www.understoryagency.com/b2b-linkedin-swipe-library?utm_source=tldrmarketing",
+      "title": "Understory: B2B LinkedIn Swipe Library (Website)",
+      "summary": "A swipe library of 42 B2B LinkedIn ads, selected from 13,483 unique creatives across 251 advertisers. It breaks down 14 proven ad formats with real examples and guidance on visuals, headlines, copy, and CTAs."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/?utm_source=tldrmarketing",
+      "title": "Watch out, YouTube - Instagram goes from short-form to 90-minute videos",
+      "summary": "Instagram is testing “Features”, allowing creators to upload videos up to 90 minutes long as it looks to compete with YouTube and keep audiences on its platform. It's also testing tools that turn long videos into Reels that link to the full version. This could create new ways for creators to earn money through ads and fan payments."
+    },
+    {
+      "url": "https://app.sciencesays.com/p/how-to-work-better-with-ai-on-your-team?utm_source=tldrmarketing",
+      "title": "How to work better with AI on your team",
+      "summary": "A study found that people working with AI and a colleague produced higher-quality solutions than people working alone. Participants performed 10.2% better when they worked with both AI and a colleague, compared with 9.6% better with AI alone and 6.3% better with a colleague alone. They were also roughly 3x more likely to rank among the top performers according to expert evaluations. The benefits disappeared when teammates had the same skills, suggesting that complementary expertise helps people and AI work together more effectively."
+    },
+    {
+      "url": "https://www.marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night?utm_source=tldrmarketing",
+      "title": "Why BelliWelli's co-founder and CEO is filming skits in Walmart at night",
+      "summary": "BelliWelli's CEO treats short-form production as core to her job because the skits drive so much of the brand's retail traffic. The improvised Walmart scenes, staged with about 65 rotating actors, show shoppers fighting over the fiber supplement so viewers wonder why it's in such demand. The videos run organically, not as ads, and the brand leans into cringe because it gets noticed. Filming in stores also gives Wilson regular conversations with shoppers about what they reach for in the category."
+    },
+    {
+      "url": "https://www.thestateofbrand.com/news/openai-b2b-field-marketing-events?utm_source=tldrmarketing",
+      "title": "OpenAI's Strongest Channel for Selling ChatGPT to Businesses Is In-Person Events",
+      "summary": "OpenAI has more product awareness than any company in its category, and yet it still relies on getting buyers into a room. In-person events are its strongest channel for selling ChatGPT to businesses because enterprise purchases require buy-in from multiple executives. Product awareness alone doesn't address concerns about data security, costs, employee training, and deployment across large organizations. OpenAI also uses a fixed marketing calendar that incorporates new product launches into recurring activities, including about two webinars per month, rather than building a separate campaign for each release."
+    },
+    {
+      "url": "https://aliveinsocialmedia.substack.com/p/social-roulette?utm_source=tldrmarketing",
+      "title": "Social Roulette",
+      "summary": "Social platforms are reintroducing randomness to help people meet new people and make unexpected connections."
+    },
+    {
+      "url": "https://sparktoro.com/blog/is-ai-visibility-a-marketing-boondoggle/?utm_source=tldrmarketing",
+      "title": "Is AI visibility a marketing boondoggle?",
+      "summary": "AI visibility may influence brand awareness, but its traffic and conversion impact remains tiny compared with Google."
+    },
+    {
+      "url": "https://www.digitaltrends.com/social-media/x-creepy-pointing-hand-wants-you-to-promote-your-posts/?utm_source=tldrmarketing",
+      "title": "X has a creepy new way to make you promote your posts, and nobody asked for it",
+      "summary": "X is testing a floating hand that points users toward the Promote button, nudging them to pay to boost their posts."
+    }
+  ]
+}

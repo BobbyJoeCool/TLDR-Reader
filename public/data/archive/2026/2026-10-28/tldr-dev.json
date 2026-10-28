@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-28",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/?utm_source=tldrdev",
+      "title": "How Meta Built Forum With AI-Native Engineering",
+      "summary": "Meta built Forum by having agents plan, implement, test, and correct changes while engineers set goals and approved results. A small team reached Facebook Groups feature parity in eight weeks."
+    },
+    {
+      "url": "https://dev.to/aiworkspacebuilder/claude-code-skills-for-teams-what-to-move-out-of-claudemd-4f6o?utm_source=tldrdev",
+      "title": "Claude Code skills for teams: what to move out of CLAUDE.md",
+      "summary": "Keep always-needed rules in CLAUDE.md and move task-specific procedures into skills that load on demand. Restrict deployment and other side-effecting skills to manual use, with reviewed tool permissions."
+    },
+    {
+      "url": "https://www.langchain.com/blog/components-building-company-harness?utm_source=tldrdev",
+      "title": "The five components of building a \"company harness\"",
+      "summary": "LangChain's internal agents share five components: Slack interfaces, scoped credentials, shared and personal memory, sandboxed execution, and scheduled runs. Memory remains the least solved piece."
+    },
+    {
+      "url": "https://oioannou.com/blog/ai-promised-less-work?utm_source=tldrdev",
+      "title": "AI Promised Less Work. I Have Never Worked More",
+      "summary": "Cheaper implementation makes more projects worth starting, but reviewing agent output and switching contexts still consume attention. A personal GitHub activity analysis traces cycles of increased output and burnout as that workload grows."
+    },
+    {
+      "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/?utm_source=tldrdev",
+      "title": "Hunger Beats Tenure: Advice for Junior Engineers",
+      "summary": "Junior engineers can gain influence by building one focused prototype tied to a business goal. Fresh eyes help challenge assumptions that experienced teammates have stopped questioning."
+    },
+    {
+      "url": "https://blog.logrocket.com/ux-design/intent-driven-ux-dynamic-user-flows/?utm_source=tldrdev",
+      "title": "Are fixed user flows becoming obsolete?",
+      "summary": "Intent-driven UX adapts flows to a user's goal, context, and behavior. Designers define the rules and boundaries, including confirmations, undo, and fallbacks when the system misreads intent."
+    },
+    {
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0?utm_source=tldrdev",
+      "title": "Ghostty 1.4 (Website)",
+      "summary": "Ghostty 1.4 adds complete Kitty graphics support, security fixes, and faster terminal I/O. Scrollback compression cuts physical memory use by 70% to 90% for typical text-heavy history."
+    },
+    {
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/?utm_source=tldrdev",
+      "title": "Apple Introduces the 14-inch MacBook Pro with M6",
+      "summary": "The new 14-inch MacBook Pro adds a 12-core CPU and GPU, Wi-Fi 7, and Bluetooth 6. Apple claims up to 30% faster Xcode builds than M5. The new laptop will be available starting on November 6."
+    },
+    {
+      "url": "https://expo.dev/blog/introducing-expo-agent-cli?utm_source=tldrdev",
+      "title": "Expo Agent CLI",
+      "summary": "Expo's experimental CLI helps agents choose the right build, launch an app, and smoke-test it. Structured output and runtime inspection help agents diagnose failures."
+    },
+    {
+      "url": "https://tabletopwhale.com/?utm_source=tldrdev",
+      "title": "Tabletop Whale (Website)",
+      "summary": "Tabletop Whale explains science, from ventilation to lunar geology, through animations, illustrations, and maps. Several projects have shared their source data or code."
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone?utm_source=tldrdev",
+      "title": "How Apple Fits an LLM on Your iPhone",
+      "summary": "Apple fits a 3-billion-parameter model on the iPhone using compressed weights, shared caches, and small task-specific adapters. More complex requests go to Private Cloud Compute."
+    },
+    {
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026?utm_source=tldrdev",
+      "title": "Upcoming Next.js November Security Release",
+      "summary": "Next.js plans fixes for seven medium-severity vulnerabilities on November 3."
+    },
+    {
+      "url": "https://tailscale.com/ssh-investigation-update?utm_source=tldrdev",
+      "title": "Tailscale SSH Investigation Update",
+      "summary": "Tailscale's SSH investigation covers privilege escalation, access-policy reviews, and disabling unneeded forwarding ahead of a patched client."
+    },
+    {
+      "url": "https://github.com/maharmstone/moxnox?utm_source=tldrdev",
+      "title": "Moxnox 1.0 (GitHub Repo)",
+      "summary": "Moxnox is a self-hosting, NT-inspired hobby OS with POSIX compatibility and Btrfs storage intended for disposable test filesystems."
+    },
+    {
+      "url": "https://debuff.jp/research/what-agents-need-from-cli-failures?utm_source=tldrdev",
+      "title": "What a Coding Agent Needs from a CLI Failure",
+      "summary": "A comparison of 12 JavaScript CLIs shows why agents need distinct error codes, structured failures, and clear retry guidance."
+    }
+  ]
+}

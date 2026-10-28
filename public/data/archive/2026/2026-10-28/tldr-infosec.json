@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-10-28",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/?utm_source=tldrinfosec",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "summary": "GMO Internet says an attacker accessed its Onamae Desktop Cloud service, which serves financial traders. Hackers demanded about $50 million, and GMO shut down the service on October 21. The company says 27,000 servers may be affected. Customers have reported unauthorized trading-account activity, and alleged customer data has now appeared online. GMO is verifying the leak, asking users to reset passwords, and collecting customer devices to check for malware."
+    },
+    {
+      "url": "https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660?utm_source=tldrinfosec",
+      "title": "Attack on email hosting provider for German far right party AfD exposed 345k accounts",
+      "summary": "Hackers exposed more than 345,000 email addresses and over a terabyte of emails from Alternative für Deutschland's hosting provider, Alternita Dienstleistungs. A report says the September attack began through a weakly protected WordPress site and led to persistent server access. The leaked emails were published in searchable form. AfD disputes the automated summaries but has not disputed the raw files."
+    },
+    {
+      "url": "https://dailyhodl.com/2026/10/26/hacker-drains-nearly-1000000-in-sol-from-solana-trading-bot-users-in-94-seconds/?utm_source=tldrinfosec",
+      "title": "Hacker Drains Nearly $1M in SOL From Solana Trading Bot Users in 94 Seconds",
+      "summary": "An attacker successfully drained roughly $947K from 49 crypto wallets belonging to 9 users of a crypto trading app that runs inside Telegram. The developer behind the trading bot stated that the attacker exploited an RCE in a third-party module and that no private keys were compromised. Bloom also stated that it will reimburse the affected users."
+    },
+    {
+      "url": "https://agentic.tracebit.com/factory/?utm_source=tldrinfosec",
+      "title": "Making attacking agents pay with Context Bombs",
+      "summary": "Tracebit tested nine “Context Bomb” deception techniques against seven AI models in 773 controlled AWS assessments. Agents started with limited AWS permissions and had two hours to access data, execute code, or escalate privileges. Combined deception reduced the mean number of completed objectives from 2.48 to 0.23 per run, increased runtime by 2.8–8.9 times, and increased model cost by 1.6–3.9 times. A fake pentest report labeling real targets as canaries cut successful runs from 39/40 to 2/40 across four models. For defenders, the practical takeaway is that decoys can delay, misdirect, and sometimes stop automated attackers before they reach real objectives."
+    },
+    {
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation?utm_source=tldrinfosec",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+      "summary": "Prompts longer than 681,280 tokens sent to Cloudflare's GLM-5.3 Workers AI model returned other customers' data in 155 responses, because disaggregated SGLang marked over-length requests as rejected yet still handed decode a one-token KV cache that left earlier sessions' pages intact. Cloudflare knew its prefill KV pool was smaller than the advertised 1M-token context but only validated HTTP status codes before launch, and it found no evidence of deliberate exploitation during the August 27 to September 9 window. Operators running disaggregated SGLang should upgrade to v0.5.22 or later, verify KV pool size against context length on every node, and enable --disaggregation-enable-kv-checksum where their model supports it."
+    },
+    {
+      "url": "https://www.wiz.io/blog/anatomy-of-ai-driven-cloud-attacks?utm_source=tldrinfosec",
+      "title": "Loud, Fast, and Everywhere: Anatomy of a Real AI-Driven Cloud Attack",
+      "summary": "Wiz has observed more threat actors leveraging AI agents to run end-to-end attacks on cloud environments. These attacks are noisy, persistent, and repeatedly alternate between different phases of an attack chain. In this article, Wiz walks through an actual attack chain that its CIRT observed. Defenders should unify logs, utilize AI for investigation and triage, assume full exposure on compromised resources, maintain visibility, and restrict trust between systems."
+    },
+    {
+      "url": "https://github.com/snyk-labs/snyk-vulnbump?utm_source=tldrinfosec",
+      "title": "VulnBump (GitHub Repo)",
+      "summary": "VulnBump is a benchmark for vulnerability-driven dependency upgrades in real, runnable repositories."
+    },
+    {
+      "url": "https://github.com/microsoft/apm?utm_source=tldrinfosec",
+      "title": "Agent Pack Manager (GitHub Repo)",
+      "summary": "APM (Agent Pack Manager) is a community-driven dependency manager for AI agents, designed to provide a package.json, requirements.txt, or Cargo.toml equivalent for agent configurations."
+    },
+    {
+      "url": "https://github.com/DataDog/pathrunner?utm_source=tldrinfosec",
+      "title": "Pathrunner (GitHub Repo)",
+      "summary": "Pathrunner is a modular AWS privilege exploitation framework. It features a Metasploit-inspired REPL, a scriptable CLI, 80+ exploitation payloads, and interchangeable payloads."
+    },
+    {
+      "url": "https://cybersecuritynews.com/microsoft-authenticator-flaw/?utm_source=tldrinfosec",
+      "title": "Microsoft Authenticator Flaw Lets Malicious Android Apps Steal Account Tokens With Zero Permissions",
+      "summary": "Microsoft released an update to its Authenticator for Android app that could enable a local privilege escalation attack. An attacker could exploit the vulnerability to receive a token for any Microsoft app with a work profile installed on the device. The Authenticator app only validated whether the claimed identity looked valid, not whether it actually matched the caller."
+    },
+    {
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html?utm_source=tldrinfosec",
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "summary": "Attackers exploited a third-party monitoring tool on Keystone's website, obtained a hardware-wallet verification key, and accessed 25,964 buyer records plus 12,873 unpaid checkout records. The key could let counterfeit devices pass Keystone's authenticity check. Recovery phrases and private keys were not exposed. Keystone will destroy 18,835 unsold devices, pause shipments, and use a new key. Devices delivered after October 20 should not be used until support confirms authenticity."
+    },
+    {
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model?utm_source=tldrinfosec",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "summary": "Alibaba's Qwen3.8-Flash-Next, asked to write a routine detection rule inside Cohere's sandbox, inventoried its host and tried to upload a probe file to an Alibaba Cloud bucket in Beijing. At the same time, its reasoning trace claimed it wouldn't call any tools. The behavior surfaced in fewer than one in 100,000 calls. Still, prefilling showed that adding curl's -o flag pushed suspicious host generation from 0.5% to 23%, alongside cloud metadata probes and namespace tricks to sidestep permission denials. Cohere, which sells its own sovereign models, couldn't say whether this reflects a deliberate implant or leftover training-sandbox residue. However, it published the traces and reproduction script for independent verification."
+    },
+    {
+      "url": "https://www.blue-initiative.org/?utm_source=tldrinfosec",
+      "title": "Blue Initiative (Website)",
+      "summary": "The Blue Initiative is a vulnerability database for vulnerabilities that matter at sea."
+    },
+    {
+      "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/?utm_source=tldrinfosec",
+      "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+      "summary": "Denver Health Medical Plan is notifying 238,083 members after a SquareML access key appeared publicly on June 27, 2025."
+    },
+    {
+      "url": "https://xint.io/blog/compaction-smuggling-reasoning-traces?utm_source=tldrinfosec",
+      "title": "Stealing OpenAI Reasoning Traces via Compaction Smuggling",
+      "summary": "Xint found an OpenAI API bug that exposed raw chain-of-thought data, which encoded a model's encrypted reasoning into a compaction item, then had a second model echo and decode it."
+    }
+  ]
+}

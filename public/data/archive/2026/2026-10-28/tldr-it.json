@@ -1,0 +1,58 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-28",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/?utm_source=tldrit",
+      "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World",
+      "summary": "SAP has unveiled its physical AI capabilities designed to connect enterprise business systems with physical operations such as robots and automated systems. At SAP TechEd, the company showcased implementations with partners like Foxconn, Arçelik-LG, Intel, and Holcim to demonstrate how business context can govern physical tasks while automatically feeding structured execution data back into enterprise workflows."
+    },
+    {
+      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html?utm_source=tldrit",
+      "title": "Microsoft Authenticator Flaw Exposes Work Accounts",
+      "summary": "A patched flaw in Microsoft Authenticator for Android let malicious apps impersonate trusted Microsoft apps and obtain work-account tokens, exposing email, files, and calendars in researchers' tests. Microsoft says exploitation requires a user to complete a sign-in flow and reports no known attacks. The fix is available in version 6.2606.4246 and later."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4240378/is-it-time-to-retire-vpns.html?utm_source=tldrit",
+      "title": "Is it time to retire VPNs?",
+      "summary": "As recurring vulnerabilities expose legacy VPN gateways to rapid exploitation, organizations will need to transition to zero-trust architecture. Traditional VPNs grant broad internal network access once breached, a risk amplified by AI-driven vulnerability discovery. Zero-trust models replace this perimeter approach by making internal systems invisible to the public internet and restricting users and agents to specific applications."
+    },
+    {
+      "url": "https://technologymatch.com/blog/extending-edr-to-linux-servers?utm_source=tldrit",
+      "title": "Closing Linux EDR Gaps",
+      "summary": "Linux servers can show green in an EDR dashboard while collecting little or no security telemetry because of kernel incompatibilities or degraded sensor modes. Verify sensor health on each host before expanding coverage or switching vendors, then pilot changes through kernel updates and roll them out in stages. Container visibility and after-hours alert response also need explicit coverage."
+    },
+    {
+      "url": "https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise?utm_source=tldrit",
+      "title": "IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise",
+      "summary": "IBM announced new capabilities at TechXchange 2026 to provide enterprise security and governance for AI agents, combining verified identities, access controls, and performance evaluations. The updates extend HashiCorp Vault to issue short-lived credentials for non-human identities, integrate with NVIDIA OpenShell, and use watsonx Orchestrate to discover, contain, and evaluate agents across third-party platforms."
+    },
+    {
+      "url": "https://www.oracle.com/sg/news/announcement/ai-world-oracle-advances-autonomous-ai-lakehouse-with-business-semantic-layer-and-expanded-support-for-iceberg-data-2026-10-26/?utm_source=tldrit",
+      "title": "Oracle Advances Autonomous AI Lakehouse with Business Semantic Layer and Expanded Support for Iceberg Data",
+      "summary": "Oracle is expanding its Autonomous AI Lakehouse with a Business Semantic Layer and a Business Simulation Engine designed to ground AI agents in enterprise data and improve analytical decision-making. The company also announced expanded Apache Iceberg support to simplify data management using SQL. The new capabilities are intended to help organizations scale agentic applications and improve data consistency."
+    },
+    {
+      "url": "https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/?utm_source=tldrit",
+      "title": "From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE",
+      "summary": "SAP announced plans to deploy its tabular AI foundation model, SAP-RPT, on the HPE Spaceborne Computer-2 aboard the International Space Station. The deployment aims to test real-time edge telemetry analysis, anomaly triage, and predictive maintenance in space before applying the same structured-data models to terrestrial supply chains and enterprise operations by early 2027."
+    },
+    {
+      "url": "https://blogs.cisco.com/security/cisco-rethinks-privileged-infrastructure-access?utm_source=tldrit",
+      "title": "Cisco Rethinks Privileged Infrastructure Access",
+      "summary": "Cisco has introduced Privileged Infrastructure Access, a new offering designed to provide network administrators and automated agents with secure, identity-bound connections to critical network devices. The system replaces long-lived credentials and static access paths with short-lived, task-specific privileges that expire once work is completed, reducing vulnerabilities that can be exploited by AI-powered adversaries."
+    },
+    {
+      "url": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/?utm_source=tldrit",
+      "title": "Tailscale Prepares SSH Security Fixes",
+      "summary": "Tailscale is preparing patches for SSH flaws that could let authorized users exceed their assigned privileges, advising customers to tighten access policies and disable unnecessary SSH forwarding in the meantime."
+    },
+    {
+      "url": "https://www.sdxcentral.com/news/cisco-palo-alto-networks-ntt-rally-after-php2shell-crisis/?utm_source=tldrit",
+      "title": "Cisco, Palo Alto Networks, NTT rally after PHP2Shell crisis",
+      "summary": "Researchers recently discovered critical vulnerabilities in the PHP programming language that exposed a vast range of enterprise products and websites to potential attacks."
+    }
+  ]
+}

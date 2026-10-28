@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-10-28",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles?utm_source=tldrdevops",
+      "title": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
+      "summary": "Gheist is an automated campaign that plants secret-dumping workflows in repositories using stolen GitHub tokens. It has targeted over 850 compromised accounts since September 15. GitHub's recent security controls blocked the attack in public repositories, but private and enterprise environments remain vulnerable."
+    },
+    {
+      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/?utm_source=tldrdevops",
+      "title": "What Took the Internet Offline in Q3 2026",
+      "summary": "Cloudflare Radar recorded 49 Internet disruptions during the third quarter, including 19 government-directed shutdowns and 14 power outages. The incidents illustrate dependencies beyond network redundancy."
+    },
+    {
+      "url": "https://spacelift.io/blog/golden-paths-in-platform-engineering?utm_source=tldrdevops",
+      "title": "How to Build Golden Paths in Platform Engineering",
+      "summary": "Spacelift defines a golden path as an opinionated, documented, self-service route for a common task. The guide lists five building blocks and four rollout phases, with a worked Postgres example on AWS built as an rds-postgres module using OpenTofu 1.10.3. Production gets Multi-AZ and deletion protection."
+    },
+    {
+      "url": "https://thenewstack.io/why-kubernetes-autoscalers-fight/?utm_source=tldrdevops",
+      "title": "Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous)",
+      "summary": "Nikhil Kurup argues that HPA, VPA, KEDA, and Karpenter mutate the same workload fields from independent loops, producing four failure modes, including a VPA and HPA death spiral and GitOps drift ping-pong. He calls for a unified, predictive autoscaler with explainable decisions."
+    },
+    {
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/?utm_source=tldrdevops",
+      "title": "The Bridge to Agent-Scale Git Infrastructure",
+      "summary": "GitHub is replacing repository-wide write serialization with per-reference quorums to overcome cross-region latency during its Azure migration. Internal tests showed 3–4x higher throughput for writes to different references, while an object-storage-backed design allows read capacity to scale independently."
+    },
+    {
+      "url": "https://github.com/Panniantong/Agent-Reach?utm_source=tldrdevops",
+      "title": "Agent-Reach (GitHub Repo)",
+      "summary": "Agent-Reach is an open source CLI tool that lets agents read and search platforms like Twitter, Reddit, YouTube, GitHub, and Bilibili without API fees. It handles login-gated sites, video content, and Chinese platforms to provide structured data for AI agents."
+    },
+    {
+      "url": "https://github.com/nightly-labs/openbot?utm_source=tldrdevops",
+      "title": "OpenBot (GitHub Repo)",
+      "summary": "OpenBot is a local-first desktop workspace for persistent AI teammates that runs Codex, Claude, Grok, and Gemini with dedicated workspaces and task queues. It provides a shared desktop channel, file transfers, and an embedded browser that agents can control. A development preview is available for macOS, Windows, and Linux."
+    },
+    {
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm?utm_source=tldrdevops",
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "summary": "vLLM 0.31 can achieve 100% tool-call schema accuracy for Kimi and DeepSeek models through constrained decoding, a technique that guarantees schema adherence during token generation. This fixes a reliability issue where vLLM 0.28 produced invalid tool calls 8% of the time, causing agentic workloads to build up nonsensical context."
+    },
+    {
+      "url": "https://thenewstack.io/optimize-kubernetes-gpu-pools/?utm_source=tldrdevops",
+      "title": "Before you expand your GPU pool, measure the outcome",
+      "summary": "Teams should define each workload's outcome and deadline before expanding a GPU pool. Teams can stagger flexible jobs, load test sustainable serving capacity, and track cost per verified outcome with OpenCost before adding GPUs."
+    },
+    {
+      "url": "https://supabase.com/blog/scope-your-personal-access-tokens?utm_source=tldrdevops",
+      "title": "Scope Your Personal Access Tokens",
+      "summary": "Supabase personal access tokens can be restricted to specific organizations, projects, permissions, and expiration dates for CI pipelines and other integrations."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_source=tldrdevops",
+      "title": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
+      "summary": "Google and Meta open-sourced TorchTPU, a native PyTorch backend for Google's TPUs, at PyTorch Conference North America 2026."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/containers/observability-patterns-for-ai-agents-on-amazon-eks/?utm_source=tldrdevops",
+      "title": "Observability patterns for AI agents on Amazon EKS",
+      "summary": "AWS engineers compare two observability patterns for AI agents on Amazon EKS."
+    }
+  ]
+}
