@@ -1,0 +1,83 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-10-30",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mistral.ai/news/mistral-large-4-oss/?utm_source=tldrai",
+      "title": "Mistral Releases Weights for Its Trillion-Parameter Model",
+      "summary": "Mistral has released the weights for Mistral Large 4, a trillion-parameter model designed for self-hosted deployment and cybersecurity applications. The company claims leading open-weight performance on agentic coding benchmarks and comparable cybersecurity capabilities to GLM-5.3."
+    },
+    {
+      "url": "https://openai.com/index/updated-model-spec/?utm_source=tldrai",
+      "title": "OpenAI Updates Its Model Spec Around Five Core Values",
+      "summary": "OpenAI updated its Model Spec to organize model behavior around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care."
+    },
+    {
+      "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/?utm_source=tldrai",
+      "title": "The surprising leadership dynamics in agent swarms",
+      "summary": "Agent swarms are groups of agents that work together to accomplish a task. Researchers created an experiment in which eight agents from four different models worked together to resolve simulated outages to understand how agents organize themselves in a swarm without a designated leader. They discovered two factors that could influence an agent's potential leadership: the agent's underlying models, and the order in which their name was listed in a prompt. This suggests that even seemingly minor details in how an agent swarm is configured can affect how agents coordinate."
+    },
+    {
+      "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec?utm_source=tldrai",
+      "title": "Leaking Muse's Charter, Meta's model spec",
+      "summary": "Muse Spark Open often mentions a 'Charter' in its chain of thought. This post reconstructs that document using the chain of thought. Everything is reconstructed from model outputs and not from a leaked document, so it might not be completely accurate."
+    },
+    {
+      "url": "https://epoch.ai/publications/open-weight-models-patch-gap?utm_source=tldrai",
+      "title": "AI can turn security fixes into working exploits before users receive an update",
+      "summary": "GLM 5.3 can identify and exploit vulnerabilities in recent versions of the Mozilla Firefox browser using security fixes that have been published but not yet shipped to users. Widely available open-weight models can now do much, or even all, of this work on their own. Open-source projects are particularly vulnerable to this kind of attack as their code is publicly available. This threat vector will likely worsen as open-weight cyber capabilities continue to improve."
+    },
+    {
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/?utm_source=tldrai",
+      "title": "How we're training a Figma-fluent editing model",
+      "summary": "Post-trained models can compete with frontier models on specialized tasks like Figma editing. Starting with a focused problem can turn progress into meaningful product updates. This post explains how Figma trained a Figma-fluent editing model."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/?utm_source=tldrai",
+      "title": "How Meta Catches Bugs Before Code Ships",
+      "summary": "Meta details how it scaled its LLM-powered Just-in-Time Testing system from a research prototype into production infrastructure. The article explores how AI-generated tests catch bugs before code changes land, how the system operates at scale, and what Meta learned about reducing false positives and testing overhead."
+    },
+    {
+      "url": "https://factory.com/news/frontier-harness?utm_source=tldrai",
+      "title": "Droid 1.0: Building a Frontier Harness",
+      "summary": "Droid is an agent harness that lets agents run hundreds of tool calls in a single model request. Building a harness optimized for many models makes the harness better. It's hard to separate real progress from adaptations to that model's quirks when you tune against a single model. Working across models ensures the strongest improvements generalize and hold up beyond the model that inspired them."
+    },
+    {
+      "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence/?utm_source=tldrai",
+      "title": "The Economics of Intelligence: How and when does AGI lead to economic transformation?",
+      "summary": "AI models are getting exponentially better in individual competence while lagging behind in coordination. Models already match or outperform experienced specialists on self-contained deliverables across dozens of professions. The labor market reflects the current capabilities of AI systems. Wages and job roles will be the earliest signals of change."
+    },
+    {
+      "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single?utm_source=tldrai",
+      "title": "Why Sam Altman is against a single superintelligence",
+      "summary": "Sam Altman would rather have a trillion AIs of slightly superhuman intelligence join society than one AI of 1 trillion IQ join society. Swarms of agents match a lot of the properties of a resilient society. They keep each other in check and collaborate to work towards goals. AI research shouldn't lead in a centralized direction because agents pushing against each other creates a dynamic equilibrium."
+    },
+    {
+      "url": "https://x.com/nicholasachow/status/2115839602749849840?utm_source=tldrai",
+      "title": "The Escape Room Economy",
+      "summary": "Reinforcement learning environments combine tools, tasks, and verifiers to train agents through repeated attempts."
+    },
+    {
+      "url": "https://pika.art/blog/pika-h3-flex?utm_source=tldrai",
+      "title": "Introducing Pika H3 Flex",
+      "summary": "Pika H3 Flex is a video generation model that works with up to 12 references, exports five separate audio stems, and finishes at up to 4K."
+    },
+    {
+      "url": "https://x.com/fishaudio/status/2115836725184667833?utm_source=tldrai",
+      "title": "Drama 3 just leveled up",
+      "summary": "Fish Audio Drama 3 is the #1 open-weight model on both Artificial Analysis Speech Arenas."
+    },
+    {
+      "url": "https://www.natural.com/blog/direct?utm_source=tldrai",
+      "title": "Introducing Natural Direct",
+      "summary": "Natural introduces Direct, enabling agents to choose among ACH, Wire, Realtime, and soon paper checks, for diverse financial transactions."
+    },
+    {
+      "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox?utm_source=tldrai",
+      "title": "The fx adapter now runs the harness on the host",
+      "summary": "The fx adapter now runs the harness on the host using libfx, separating host and sandbox operations."
+    }
+  ]
+}

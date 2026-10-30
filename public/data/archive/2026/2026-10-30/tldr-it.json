@@ -1,0 +1,78 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-30",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403?utm_source=tldrit",
+      "title": "Oracle wants to bill you for every AI task, not just every seat",
+      "summary": "Oracle plans to introduce usage-based AI charges alongside existing subscriptions for its Fusion enterprise applications. Customers will consume AI units as automated tasks are completed, allowing Oracle to grow revenue without adding user licenses. The approach reflects a broader shift in enterprise software pricing from per-seat subscriptions toward charging for automated work, introducing new considerations for software budgets and cost forecasting."
+    },
+    {
+      "url": "https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/?utm_source=tldrit",
+      "title": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation",
+      "summary": "Serval raised $150 million in a Sequoia-led round at a $3 billion valuation, tripling its valuation since December. The company builds AI agents for IT operations, including employee access management, troubleshooting, and software and hardware asset management. Serval positions its platform as an alternative to established IT service management products such as ServiceNow, with permissions and approvals controlled by IT and security teams."
+    },
+    {
+      "url": "https://www.itpro.com/technology/artificial-intelligence/the-hidden-cost-of-ai-is-now-governance?utm_source=tldrit",
+      "title": "The hidden cost of AI is now governance",
+      "summary": "As artificial intelligence projects transition from pilots to production, governance has emerged as a significant hidden cost spanning IT, security, legal, risk, and data teams. Retrofitting controls late in the process can add months of project delays and double expected costs, making risk-tiered governance and early automation essential for scalable enterprise AI adoption."
+    },
+    {
+      "url": "https://www.cio.com/article/4241948/when-your-ai-vendor-goes-belly-up.html?utm_source=tldrit",
+      "title": "When your AI vendor goes belly up",
+      "summary": "As enterprises adopt products from a growing number of AI startups, CIOs face the possibility that some vendors will shut down, be acquired, or change their business models. Unlike conventional software replacements, losing an AI provider can introduce complications involving proprietary models, workflow dependencies, and customer data. This article examines how organizations can prepare exit strategies, preserve data access, and reduce their dependence on individual providers."
+    },
+    {
+      "url": "https://www.techtarget.com/news/it-skills-shortage-often-a-complexity-problem-in-disguise/872977/?utm_source=tldrit",
+      "title": "IT skills shortage often a complexity problem in disguise",
+      "summary": "Some enterprise IT staffing challenges stem from unnecessarily complex systems rather than a lack of qualified candidates. Years of customizations, undocumented dependencies, and fragmented architectures create environments that require highly specialized knowledge. Simplify infrastructure, document dependencies, and reduce technical debt before assuming additional hiring or training will solve the problem."
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=tldrit",
+      "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+      "summary": "Microsoft is making the GitHub-developed Copilot harness available through Microsoft Foundry, providing developers and enterprise customers with a managed multi-model orchestration layer. The harness powers various Copilot experiences and supports over twenty frontier models, open standards, and tools while routing work intelligently based on tasks. Recently ported to Rust for improved performance, the system manages the agent loop, sandbox, governance, and optimization."
+    },
+    {
+      "url": "https://slack.com/blog/news/slackbot-proactive-ai-updates?utm_source=tldrit",
+      "title": "Slackbot gets more proactive, in more places",
+      "summary": "Slack introduced event-triggered Slackbot tasks that can respond to messages, reactions, list updates, and channel creation events. The update also includes Slackbot Mini, a desktop interface for accessing the assistant outside Slack, and expanded Skills capabilities for sharing reusable workflows across teams. Administrators and users can configure approval requirements for automated actions, extending Slackbot beyond conversational assistance into workflow execution."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry?utm_source=tldrit",
+      "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
+      "summary": "AWS Lambda has announced the Durable Execution Telemetry Exporter plugin, which captures step-by-step histories of durable executions and exports them to 13 built-in destinations like Amazon S3 and CloudWatch. Alongside the plugin, AWS released a companion Model Context Protocol server that allows AI agents to query the telemetry data using natural language. The exporter is available at no additional charge across regions supporting Lambda durable functions for TypeScript, Python, Java, and Go."
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/?utm_source=tldrit",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display and Touch for the first time on Mac",
+      "summary": "Apple introduced its first touchscreen MacBook Pro, featuring a tandem OLED display, M5 Pro and M5 Max chips, and up to 24 hours of battery life. Available in 14-inch and 16-inch models, the laptops also include Wi-Fi 7, Thunderbolt 5, and up to 16TB of storage. Prices start at $2,899, with availability beginning November 6. The launch adds another premium option for enterprise Mac fleets and specialized professional workloads."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/?utm_source=tldrit",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "summary": "AI meeting-notes app Granola introduced a free dictation feature that allows Mac users to speak and automatically convert their words into formatted text across applications. The company plans to bring the capability to Windows and iOS. The move follows Wispr's expansion into meeting transcription, illustrating how voice productivity tools are converging around similar capabilities."
+    },
+    {
+      "url": "https://aibusiness.com/generative-ai/chinese-ai-invasion-gives-enterprises-new-way-control-cost?utm_source=tldrit",
+      "title": "Chinese AI invasion gives enterprises a new way to control cost",
+      "summary": "Enterprises are increasingly adopting affordable Chinese open-weight AI models to reduce soaring token spending on US proprietary frontier models. While some companies face integration hurdles, infrastructure limitations, and geopolitical concerns that prompt hesitation, organizations like Red Hat are successfully utilizing these models to control costs by allocating workloads between proprietary and open-weight alternatives."
+    },
+    {
+      "url": "https://www.theregister.com/os-platforms/2026/10/29/systemd-adds-support-for-rust/5306264?utm_source=tldrit",
+      "title": "Systemd adds support for Rust",
+      "summary": "The Linux system and service manager systemd is adding support for components written in Rust."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863?utm_source=tldrit",
+      "title": "GitHub powering up four million extra cores to stop its service going down",
+      "summary": "GitHub reported 7.4 billion code commits in September, five times the volume from a year earlier, driven partly by AI coding agents."
+    },
+    {
+      "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud?utm_source=tldrit",
+      "title": "Cisco IT's Endpoint Observability Strategy",
+      "summary": "Cisco IT reduced its endpoint telemetry data volume by 75% while improving troubleshooting and digital resilience by implementing a right-sized telemetry model in Splunk Observability Cloud."
+    }
+  ]
+}

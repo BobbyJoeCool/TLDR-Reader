@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-10-30",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html?unlocked_article_code=1.MlE.xFQp.UMIf7vCNQ-Sh&amp;smid=url-share&amp;utm_source=tldrnewsletter",
+      "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
+      "summary": "DoorDash will acquire Instacart for $17 billion. Instacart shareholders will receive $65 per share, 26% over the company's price on October 22. Combining the companies' technology and infrastructure will result in faster deliveries and more affordable prices. The deal is expected to close late next year or in 2028."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/?utm_source=tldrnewsletter",
+      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "summary": "Reddit will start testing a logged-in-only experience in select non-US markets in Q4. The company's CEO says the login requirement will help Reddit retain new users. It will also provide more signals for ads targeting and help protect access to the site's data. The changes will make it significantly easier for Reddit to understand who uses Reddit and why, which will help the site manage things like AI scraping and evolving search habits."
+    },
+    {
+      "url": "https://teslanorth.com/2026/10/29/elon-blindsight-ready-2-years-after-fda-breakthrough/?utm_source=tldrnewsletter",
+      "title": "Elon Says Blindsight Is Ready 2 Years After FDA Breakthrough",
+      "summary": "Neuralink's Blindsight implant is now ready from an engineering standpoint. The device is designed to help blind people see. It is currently waiting on regulatory approval before it can be sold to customers. It has already received Breakthrough Device Designation from the US FDA, which will help speed review of the device."
+    },
+    {
+      "url": "https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming?utm_source=tldrnewsletter",
+      "title": "A golden age of science is coming",
+      "summary": "Progress has started to accelerate in science in the last two years. AI can send hordes of superhumanly fast, well-read, and mathematically gifted researchers to accelerate scientific research. It is possible AI will enable new types of discovery and ways of understanding the natural world that no network of humans would ever be able to discover. Unless humans have actually somehow discovered most of the actual exploitable regularities in the Universe, we're about to enter a new golden age of science."
+    },
+    {
+      "url": "https://martinalderson.com/posts/making-agents-fast/?utm_source=tldrnewsletter",
+      "title": "Making agents fast - what I've learnt over the last 12 months",
+      "summary": "Knowing what part of inference a project relies on for speed is important. Check thinking budgets, and read traces, as they often contain valuable insight into what an agent wants to do. Give agents the tools they want rather than what you think they need. Faster hardware still matters, sandboxing and microVMs add complexity, parallelization helps, and classic software performance optimization is still relevant."
+    },
+    {
+      "url": "https://cra.mr/a-little-determinism?utm_source=tldrnewsletter",
+      "title": "A Little Determinism",
+      "summary": "Adding constraints to AI agents usually makes them less capable. Sometimes the solution is to create a template or a complete multi-stage workflow. The challenge is in creating the deterministic behavior while retaining the agent's freedom to use the best tools for the job. This post discusses a solution that uses a man-in-the-middle egress proxy that forces behavior by denying actions and forces reactions via automated messages."
+    },
+    {
+      "url": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?st=DuF3aP&amp;reflink=desktopwebshare_permalink&amp;utm_source=tldrnewsletter",
+      "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
+      "summary": "Binance has suspended transactions after a hack that the exchange said totaled around $6.3 billion. Stablecoin providers Tether and Circle moved quickly to freeze some of the stolen assets. The heist appears to have been conducted by a North Korean hacking group. Binance's founder said in a post on social media that users' funds are safe."
+    },
+    {
+      "url": "https://borretti.me/article/we-wont-just-hang-out?utm_source=tldrnewsletter",
+      "title": "We Won't “Just Hang Out”",
+      "summary": "The standard answer for what humans will do after the Singularity is that people 'will just hang out'. However, AI will destroy the processes by which people come together and build relationships. With unlimited entertainment, people might not even want to socialize with other people. The people in the AI utopia will have no skills, education, or accomplishments, so they'll likely not be worth talking to, and you probably wouldn't want to hang out with them."
+    },
+    {
+      "url": "https://danielmiessler.com/blog/general-hill-climbing?utm_source=tldrnewsletter",
+      "title": "General Hill-Climbing: The One Main Loop in AI",
+      "summary": "The General Hill-climbing System, combined with AI, is a problem-solving framework that works on pretty much anything you throw at it."
+    },
+    {
+      "url": "https://x.com/nateliason/status/2115803497773904292?s=12&utm_source=tldrnewsletter",
+      "title": "How to Build an AI Writing System That Actually Sounds Like You",
+      "summary": "This post discusses how to build an AI writing pipeline that turns rambling recordings into drafts."
+    },
+    {
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html?utm_source=tldrnewsletter",
+      "title": "LLM Voice",
+      "summary": "If you want to communicate with humans, your humanity has to be visible in your prose."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MlE.9yIw.MnY2tnfkRyLr&amp;smid=url-share&amp;utm_source=tldrnewsletter",
+      "title": "Nvidia Chief Seen as Target of Chinese Spy Plot",
+      "summary": "American officials have concluded that Alice Huang, a top executive at a Singapore-based data center company suspected of steering Nvidia chips to China, was a Chinese intelligence asset feeding information directly to Beijing."
+    },
+    {
+      "url": "https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/?utm_source=tldrnewsletter",
+      "title": "You can just ask AI to do things",
+      "summary": "AI models are improving so quickly that many people don't realise that AI agents can now help automate particular tasks that it previously couldn't do."
+    },
+    {
+      "url": "https://commanding-heights.com/?utm_source=tldrnewsletter",
+      "title": "The Commanding Heights (Book)",
+      "summary": "The Commanding Heights are scarce, controllable positions of economic power whose holders durably capture the gains of increasingly capable and diffused intelligence."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-10-30",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://insights.euclid.vc/p/new-rules-of-vertical-ai-keith-rabois-khosla?utm_source=tldrfounders",
+      "title": "Keith Rabois' New Rules of Vertical AI",
+      "summary": "Frontier models will continue to improve. Vertical AI that does the job end-to-end gains from improving models. Use model routing to optimize workflows - long term, model mixes and open-weights can recapture margin. Let labs supply intelligence, but own the data loops, private data, corner cases, and last-mile liability. Earn data by having a primary product that customers pay for, and learn what labs can't by doing work previously done by humans."
+    },
+    {
+      "url": "https://www.thevccorner.com/p/the-new-b2b-pricing-models?utm_source=tldrfounders",
+      "title": "The Old B2B Pricing Model Is Dead. These Are the New Kings",
+      "summary": "AI will fundamentally alter software pricing. Seat-based pricing, the traditional B2B pricing model, is slowly fading away. New B2B pricing models charge for work done. This post looks at three emerging pricing models that look promising."
+    },
+    {
+      "url": "https://theskip.substack.com/p/inside-pm-at-anthropic?utm_source=tldrfounders",
+      "title": "Inside PM at Anthropic: Who Makes It, and Who Doesn't",
+      "summary": "A bigger title at a bigger company counts for less than it used to when Anthropic hires product managers. The head of product for Anthropic's research teams walks through how she hires and ramps PMs on the team that incubated Claude Code. Her favorite candidate is a startup's first PM who also did customer success and business development, since people who've worked without structure go find answers themselves. The team also dropped annual planning for one-month plans, because yearly OKRs went out of date within two weeks."
+    },
+    {
+      "url": "https://wildfirelabs.substack.com/p/nobody-learns-in-the-clean-half?utm_source=tldrfounders",
+      "title": "Nobody Learns in the Clean Half",
+      "summary": "AI is taking over the routine work that used to teach new hires their job, like reconciling ledgers or fixing small bugs. ATMs took over cash handling and left bank tellers with customer problems and loan conversations. The worry is who learns the messy half now, since a 500-person compliance team might shrink to 30 and the cuts land on people who learned on the easy tasks. One startup studio hired its AI engineer by asking them to fix a real SEO problem and demo the fix, so new hires hit judgment calls in their first months."
+    },
+    {
+      "url": "https://www.mintlify.com/blog/introducing-mintlify-base?utm_source=tldrfounders",
+      "title": "Introducing Mintlify Base",
+      "summary": "Mintlify Base is a workspace where people and agents work from the same specs, runbooks, and onboarding pages. It can help draft, develop, and refine pages. Teammates can contribute to the work or hand the work to an agent. Agents can follow style guides, review checklists, and page templates. Base has a built-in MCP server that other agents can read from."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/?utm_source=tldrfounders",
+      "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini",
+      "summary": "Gemini users can now generate, preview, and edit files right inside chat. PDF preview and edits are supported on both the web and mobile, while all other formats are supported on the web only. The capability is available to all users in all languages where the Gemini app is available."
+    },
+    {
+      "url": "https://vercel.com/blog/ai-gateway-virtual-models?utm_source=tldrfounders",
+      "title": "Introducing Virtual Models on AI Gateway",
+      "summary": "Vercel's AI Gateway now lets teams point an app at a virtual model ID such as vmc/coding-agent, after 125 new models from more than 10 labs landed on the gateway in 90 days. The company says the underlying model, fallbacks, and data-retention settings can be swapped without a redeploy."
+    },
+    {
+      "url": "https://paddo.dev/blog/persistence-is-a-numbers-game/?utm_source=tldrfounders",
+      "title": "Persistence Is a Numbers Game: 150 Startups, One Collapse, and the One That Worked",
+      "summary": "Startup studios look like a machine for making companies until the studio itself runs out of money. A former studio CTO who helped build more than 150 startups walks through why theirs collapsed. It carried 50 staff on a model where partners had to fund every accelerator round, so when the partners slowed down, the payroll didn't. The CTO lost their stake in the collapse, and their next company runs with a skeleton crew."
+    },
+    {
+      "url": "https://blog.leonbecker.de/what-one-person-can-actually-operate/?utm_source=tldrfounders",
+      "title": "What one person can actually operate",
+      "summary": "Stelae is a small hosting service run by one person. Most of the technical decisions made stem from the fact that there is no team, no on-call rotation, and nobody to escalate to. The system assumes nobody will be there when something breaks, and tries to be boring enough for that to be fine. This post discusses what that looks like in the code."
+    },
+    {
+      "url": "https://colossus.com/article/sane-asylum-turbopuffer/?utm_source=tldrfounders",
+      "title": "The Sane Asylum",
+      "summary": "There has never been a better time in history to build a highly profitable business with significant scale without raising or hiring a ton."
+    },
+    {
+      "url": "https://ipullrank.com/ai-search-user-behavior?utm_source=tldrfounders",
+      "title": "How the Same 16,000 Users Behave in AI Search vs. Google",
+      "summary": "Traditional Google search behavior is a poor predictor of AI Search behavior."
+    },
+    {
+      "url": "https://thefounderplaybook.hustlefund.vc/p/when-to-shut-down-a-startup?utm_source=tldrfounders",
+      "title": "We Told A Founder To Shut His Company Down And Take Our Money With It",
+      "summary": "Hustle Fund told a portfolio founder to shut his company down, and says his early, honest updates are why he'd get another check."
+    },
+    {
+      "url": "https://diginomica.com/good-fde-engagement-is-one-designed-to-end?utm_source=tldrfounders",
+      "title": "A good FDE engagement is one that's designed to end",
+      "summary": "Forward Deployed Engineers should aim to leave customers able to build their own agents."
+    }
+  ]
+}

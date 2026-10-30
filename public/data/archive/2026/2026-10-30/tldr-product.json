@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-10-30",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://kristenberman.substack.com/p/are-software-seats-going-away?utm_source=tldrproduct",
+      "title": "Are software seats going away? (9 minute video)",
+      "summary": "Seat-based pricing remains standard, though companies are experimenting with usage tiers and add-ons due to AI. Despite pricing complexity, businesses must still focus on core willingness-to-pay features like security and admin controls."
+    },
+    {
+      "url": "https://amycmitchell.substack.com/p/just-in-time-requirements?utm_source=tldrproduct",
+      "title": "Just-in-Time Requirements",
+      "summary": "When exploring solutions in parallel, teams should maintain a living outline to connect efforts and guide investment. When scoping becomes repetitive, AI can help consolidate learning into key requirements and delivery plans."
+    },
+    {
+      "url": "https://www.lesswrong.com/posts/KThSe2vPZw4zn7f8W/great-but-painful?utm_source=tldrproduct",
+      "title": "Great but painful",
+      "summary": "Successful consumer tech products succeed by reducing friction in existing, painful user behaviors rather than building what users ask for, as seen with Facebook, Uber, and Slack."
+    },
+    {
+      "url": "https://newsletter.techworld-with-milan.com/p/why-most-of-what-you-build-creates?utm_source=tldrproduct",
+      "title": "Why Most of What You Build Creates No Value",
+      "summary": "Most features fail because changing user behavior is hard. Frameworks like GIST and the Confidence Meter help validate ideas before shipping, remaining essential even as AI speeds up coding."
+    },
+    {
+      "url": "https://www.leadinginproduct.com/p/sabotage-manual-product-management?utm_source=tldrproduct",
+      "title": "The CIA Sabotage Manual for Product Organizations",
+      "summary": "Product team dysfunctions often mimic a 1944 CIA sabotage manual through excessive approvals and meeting slowness. Naming these behaviors helps teams recognize and address self-sabotaging friction."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/fluency-with-data?utm_source=tldrproduct",
+      "title": "Fluency with data",
+      "summary": "Data fluency turns data into actionable insights and business outcomes. This article introduces a causality ladder and notes how AI tools streamline data investigation when paired with rigorous testing."
+    },
+    {
+      "url": "https://theskip.substack.com/p/inside-pm-at-anthropic?utm_source=tldrproduct",
+      "title": "Inside PM at Anthropic: Who Makes It, and Who Doesn't (59 minute podcast)",
+      "summary": "This post details how Anthropic hires PMs. The company expects new hires to tackle demanding work, gracefully challenge assumptions, and balance short-term plans with long-term research."
+    },
+    {
+      "url": "https://shailesh-sharma.medium.com/the-8-ai-pm-skills-self-check-256ef2297692?utm_source=tldrproduct",
+      "title": "The 8 AI PM Skills Self-Check",
+      "summary": "AI PM candidates often lack hands-on evaluation skills. This article provides an eight-skill self-check framework that prioritizes practical execution in evals, agents, and cost calculations over theory."
+    },
+    {
+      "url": "https://www.constellationr.com/insights/news/outcome-based-pricing-pros-cons-and-nuances?utm_source=tldrproduct",
+      "title": "Outcome-based pricing",
+      "summary": "This post covers challenges in outcome-based pricing like attribution and metric gaming, suggesting hybrid models with base fees and shared risk as a practical solution."
+    },
+    {
+      "url": "https://www.forrester.com/blogs/journey-mapping-essentials-five-lessons-every-cx-leader-should-learn/?utm_source=tldrproduct",
+      "title": "Journey Mapping Essentials",
+      "summary": "Journey mapping should drive action rather than just document processes."
+    }
+  ]
+}
