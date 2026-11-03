@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-11-02",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/private-origins-public-to-private/?utm_source=tldrdevops",
+      "title": "Cloudflare Services for Private Origins Is Now Generally Available",
+      "summary": "Cloudflare can now route public requests to private origin IPs over existing Cloudflare One connectivity while applying WAF, caching, bot management, and Workers. Origins retain private addresses without inbound firewall exceptions. Setup requires account enablement, supported connectivity, and appropriate return routes."
+    },
+    {
+      "url": "https://spacelift.io/blog/full-stack-infrastructure-orchestration?utm_source=tldrdevops",
+      "title": "Spacelift Brought Scale to Your IaC Provisioning. Now We're Automating Everything That Happens After.",
+      "summary": "Spacelift is expanding from IaC provisioning into Day 2 operations with Spacelift Flows. It also renamed its IaC and GitOps offering to 'Spacelift Deploy' and bundles it with the Spacelift Intelligence assistant in one control plane."
+    },
+    {
+      "url": "https://grafana.com/blog/grafana-13-3-release-all-the-latest-features/?utm_source=tldrdevops",
+      "title": "Grafana 13.3 release: manage variables across dashboards, share findings with Notebooks, a UI refresh, and more",
+      "summary": "Grafana 13.3 adds cross-dashboard variables and Notebooks, both in public preview, plus the first phase of a visual refresh. It also brings Assistant dashboard plans and a generally available Undo turn option for reverting Assistant edits."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/using-vpc-flow-logs-to-troubleshoot-gke-workloads/?utm_source=tldrdevops",
+      "title": "How to troubleshoot GKE workloads faster with VPC Flow Logs",
+      "summary": "Google Cloud shows how GKE metadata in VPC Flow Logs gives workload-level attribution for network traffic without agents or sidecars. It walks through three Flow Analyzer examples on the Online Boutique demo."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/serverless-ai-agents/?utm_source=tldrdevops",
+      "title": "Default to serverless for AI agents, then let production data decide what moves",
+      "summary": "Datadog argues that serverless should be the first execution model teams evaluate for AI agents. It cites a study of over 35,000 coding agent sessions where LLM or tool calls filled only 20% of the median session."
+    },
+    {
+      "url": "https://github.com/vorssaint/vorssaint-utils?utm_source=tldrdevops",
+      "title": "Vorssaint (GitHub Repo)",
+      "summary": "Vorssaint is a free and open-source macOS menu bar toolkit that replaces dozens of paid utility apps. It offers per-app volume controls, window snapping, a clipboard history, and system monitors. The tool runs locally with no account, telemetry, or subscription required."
+    },
+    {
+      "url": "https://github.com/THU-MAIC/OpenMAIC?utm_source=tldrdevops",
+      "title": "OpenMAIC (GitHub Repo)",
+      "summary": "OpenMAIC is an open-source AI platform that transforms documents into interactive classroom experiences with AI teachers, slides, and simulations. It supports over 20 providers, including OpenAI, Anthropic, and local options like Ollama."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads/?utm_source=tldrdevops",
+      "title": "How GKE networking scales to support high densities of concurrent AI agents",
+      "summary": "Google Cloud explains how GKE Dataplane V2 avoids Cilium's 65,536 identity limit for high-density agent workloads by moving high-cardinality pod labels to annotations. The post reports 300 sandboxes per second at sub-second latency."
+    },
+    {
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai?utm_source=tldrdevops",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "summary": "Researchers found a vulnerability that allowed them to take over ChatGPT accounts just by sending a victim a link. The exploit chain combined a MathLive keyboard feature and the HTML Preview to bypass the sandbox, allowing malicious code to run as chatgpt.com and access private conversations. OpenAI fixed the issue on October 26 and classified the report as P1."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/agent-observability-voice-agent/?utm_source=tldrdevops",
+      "title": "Trace voice agents with Datadog Agent Observability",
+      "summary": "Datadog Agent Observability now captures audio, transcripts, token usage, and tool calls for voice agents built on the OpenAI Realtime API. It also adds tracing for Amazon Nova 2 Sonic, with ElevenLabs Realtime support planned for ddtrace 4.17.0."
+    },
+    {
+      "url": "https://opentelemetry.io/blog/2026/obi-v1-release/?utm_source=tldrdevops",
+      "title": "OpenTelemetry eBPF Instrumentation reaches v1.0.0",
+      "summary": "The release marks general availability for the project's kernel-level observability tool."
+    },
+    {
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf?utm_source=tldrdevops",
+      "title": "TCP Use-After-Free: CVE-2026-98432/CVSS 9.8",
+      "summary": "CVE-2026-98432 is a CVSS 9.8 remote use-after-free in Linux's IPv4 TCP handshake, fixed in upstream stable kernels on October 15."
+    }
+  ]
+}

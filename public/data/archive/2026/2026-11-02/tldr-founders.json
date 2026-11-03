@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-02",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://posthog.com/blog/what-people-are-prompting?utm_source=tldrfounders",
+      "title": "What people are prompting in PostHog AI",
+      "summary": "PostHog AI's usage trends show founders often prompt late hours, with a quarter of prompts after 6 PM, while marketers focus more on revenue queries. Tuesday sees the highest prompt volume, peaking at 11 AM. Users become more informal over time, with increased swearing and only a minority using polite language consistently. Prompts frequently relate to dashboards, session replay, and database queries, reflecting user roles' specific interests, such as engineering's focus on debugging and marketers' interest in web traffic analytics."
+    },
+    {
+      "url": "https://ashugarg.substack.com/p/the-return-of-the-full-stack-app?utm_source=tldrfounders",
+      "title": "The return of the full-stack app",
+      "summary": "Emerging AI app startups resemble infrastructure companies by training their own models and managing complex workflows, enhancing technical depth. Four key changes favor these startups: owning models, handling complex and costly agent operations, prioritizing security and governance, and building customer trust. Successful AI app companies focus on delivering outcomes, specialize in high-stakes verticals, integrate organization-wide workflows, and incorporate deep technical infrastructure."
+    },
+    {
+      "url": "https://www.monaco.com/blog/principles-of-effective-vertical-ai?utm_source=tldrfounders",
+      "title": "Principles for Building Effective Vertical AI Products",
+      "summary": "Vertical AI takes the workflows of the best practitioners and codifies them into agentic systems that deliver capability, quality, and efficiency a third-party frontier model can't match. The challenge is finding workflows and translating them into products, context layers, agentic harnesses, data systems, and feedback loops. Seamless transition requires an organization and culture that brings world-class GTM and engineering to the same table every day. The organization's people need to speak a common language and rapidly build based on that shared vernacular and best practices."
+    },
+    {
+      "url": "https://ramp.com/blog/how-to-give-ai-context?utm_source=tldrfounders",
+      "title": "How to give AI company context and build a company brain",
+      "summary": "Ramp recommends a one-to-two-page context document paired with live connectors to the tools where work happens, arguing AI gives confident but wrong answers because it cannot guess internal definitions, policies, and workflows. The guide compares five ways to supply context, from custom instructions to fine-tuning, and advises setting permissions first, testing with 10 to 20 known-answer questions, and assigning owners. Ramp says its most AI-forward staff kept personal setups few colleagues saw, which led to its Glass workspace."
+    },
+    {
+      "url": "https://www.deel.com/blog/introducing-deel-security/?utm_source=tldrfounders",
+      "title": "Introducing Deel Security: A New Way to Detect and Prevent Identity Fraud",
+      "summary": "Deel Security connects key identity signals and flags risks before bad actors can gain access to a business. It assesses identity and looks for signs of fraud, bringing the findings together in one place. Teams are able to see how risks develop across the hiring process and spot patterns that individual checks might miss. It can spot fake applications, detect deepfakes and proxy candidates in live interviews, and verify government ID."
+    },
+    {
+      "url": "https://blog.cloudflare.com/private-origins-public-to-private?utm_source=tldrfounders",
+      "title": "Cloudflare services for private origins is now generally available",
+      "summary": "Cloudflare services for private origins connects internal services to the Internet without exposing a public IP, opening a firewall port, or running cloudflared alongside the origin. It gives private applications the same protections and controls used for public applications. Argo Smart Routing and Dedicated CDN Egress IPs aren't supported, and origin health checks require Load Balancing."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/10/edit-entire-presentations-with-gemini-in-Google-Slides.html?utm_source=tldrfounders",
+      "title": "Edit entire presentations with Gemini in Google Slides",
+      "summary": "Gemini in Google Slides can now be used to edit multiple slides or an entire presentation with a single prompt. It can update content throughout a deck, refresh visual styles in bulk, or match the style of another presentation. The AI determines which slides need to change and applies edits directly. Users stay in full control and can make further adjustments. Gemini displays a summary of the changes in the side panel after it finishes editing."
+    },
+    {
+      "url": "https://www.saastr.com/our-core-vendor-was-down-for-24-hours-our-ai-agent-replaced-them-before-they-came-back-up/?utm_source=tldrfounders",
+      "title": "Our Core Vendor Was Down for 24 Hours. Our AI Agent Replaced Them Before They Came Back Up",
+      "summary": "AI has made outages even more risky for businesses as replacements are now easier to source. Humans may wait for a vendor to fix their services, but agents making less emotional and more calculating decisions may choose to switch vendors or build in-house solutions much sooner. Vendors that communicate poorly during incidents will lose the most customers. Their customers' agents will build or suggest replacements, and there will be nothing to save by the time renewal comes up."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-448-the-software-factory-as-identity?utm_source=tldrfounders",
+      "title": "The Software Factory as Identity Defense (and Reinvention)",
+      "summary": "Software factories are becoming more and more appealing to engineers trying to preserve their role as AI makes coding cheaper. The cloud put operations teams in a similar position in 2012 when Netflix described needing few of them and an Etsy employee called “NoOps” “the dumbest marketing term ever coined in my field.” Someone still had to build the platforms that let developers serve themselves. Engineers building agent factories are making a similar move, taking control of the quality standards and deployment systems that determine which code reaches customers."
+    },
+    {
+      "url": "https://x.com/gokulr/status/2116558258551103959?utm_source=tldrfounders",
+      "title": "Are you measuring outcomes or outputs?",
+      "summary": "Outputs are easy to count, but billing on outputs rewards volume, not value - outcomes are why anyone buys it."
+    },
+    {
+      "url": "https://x.com/patrickc/status/2116636967517798672?utm_source=tldrfounders",
+      "title": "Let users change your app through a text box",
+      "summary": "One user made 150 improvements in a few days through a personal app's text box connected to a coding agent."
+    },
+    {
+      "url": "https://ben3d.ca/blog/dont-fear-your-competitors?utm_source=tldrfounders",
+      "title": "Don't Fear Your Competitors",
+      "summary": "A week of vibe coding can make a new competitor look like it's already ahead of you."
+    },
+    {
+      "url": "https://x.com/addyosmani/status/2115688494865465370?utm_source=tldrfounders",
+      "title": "You're probably overprompting Claude",
+      "summary": "Claude Code removed over 80% of its system prompt for newer models without measurable degradation on coding evaluations."
+    },
+    {
+      "url": "https://www.onlycfo.io/p/a-300m-earnout-goes-poof-pepsi-vs?utm_source=tldrfounders",
+      "title": "A $300M Earnout Goes Poof | Pepsi vs Poppi",
+      "summary": "Poppi's $300 million earnout from its May 2025 acquisition by Pepsi has fallen to $12 million."
+    }
+  ]
+}

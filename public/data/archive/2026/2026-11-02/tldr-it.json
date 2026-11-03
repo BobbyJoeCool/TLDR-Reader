@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-02",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available?utm_source=tldrit",
+      "title": "Google Cloud lets teams cap project spending",
+      "summary": "Google Cloud has made spend caps generally available for eligible services. Teams can use the Cloud Billing Budgets API to give every new sandbox project a spending limit, then raise or remove it when a developer needs more room."
+    },
+    {
+      "url": "https://www.phoronix.com/news/PostgreSQL-19-Late?utm_source=tldrit",
+      "title": "AI is finding bugs faster than PostgreSQL maintainers can review fixes",
+      "summary": "A surge in AI-assisted bug reports and patches helped push PostgreSQL 19 past its usual fall release window. Maintainers still have to verify proposed fixes and apply them to older versions. The project is targeting November 19 for release."
+    },
+    {
+      "url": "https://www.phoronix.com/news/Linux-7.4-Merge-Window?utm_source=tldrit",
+      "title": "Linux 7.4 sets a record with nearly 20,000 commits",
+      "summary": "The Linux 7.4 merge window drew nearly 20,000 commits, the busiest in kernel history. For comparison, Linux 7.3 took its entire release cycle to reach 20,260 commits."
+    },
+    {
+      "url": "https://thenewstack.io/opensearch-foundation-aws-elasticsearch/?utm_source=tldrit",
+      "title": "Five years after the fork, who steers OpenSearch?",
+      "summary": "AWS created OpenSearch after Elastic changed the license for Elasticsearch. Elastic has since restored an open-source licensing option, but the projects have continued to diverge. This post examines where OpenSearch has taken its own technical direction and how much influence AWS still holds over its governance."
+    },
+    {
+      "url": "https://www.crn.com/news/ai/2026/amazon-q3-earnings-ceo-jassy-says-bedrock-could-become-as-big-as-ec2?utm_source=tldrit",
+      "title": "Andy Jassy thinks Bedrock could become as big as EC2",
+      "summary": "Amazon's CEO argues that companies will want to switch AI models as price and performance change. His bet is that giving customers one place to run models from several vendors could make Bedrock as large a business as EC2, AWS' core computing service."
+    },
+    {
+      "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-launches-Control-Tower-Alliance-to-help-enterprises-adopt-AI-safely-at-scale/default.aspx?utm_source=tldrit",
+      "title": "ServiceNow brings OpenAI, Anthropic, and Okta into its AI governance alliance",
+      "summary": "ServiceNow launched the Control Tower Alliance with 11 founding partners spanning AI models, cloud infrastructure, identity, and security. Members plan to deliver pretested integrations so customers can use ServiceNow's Control Tower to govern AI systems from multiple vendors."
+    },
+    {
+      "url": "https://www.computerweekly.com/news/366653072/Tencent-plugs-WorkBuddy-into-enterprise-systems?utm_source=tldrit",
+      "title": "Tencent connects WorkBuddy to ERP and CRM systems",
+      "summary": "Tencent's WorkBuddy office agent can now query business systems through the Model Context Protocol. An employee can ask for a report that draws on both customer and operations data, and the agent can break the request into steps, retrieve records from each system, and present the findings."
+    },
+    {
+      "url": "https://thenewstack.io/docusign-contract-ai-agents/?utm_source=tldrit",
+      "title": "How Docusign teaches agents to read amended contracts",
+      "summary": "Figuring out what a company owes a supplier can mean reconciling the signed contract with three amendments, a revised price schedule, and an internal purchasing policy. In this interview, CTO Sagnik Nandy explains how the company gives its Iris agents the context to answer that kind of question."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api/?utm_source=tldrit",
+      "title": "GitHub adds three IP ranges for webhook deliveries",
+      "summary": "Teams that maintain a static firewall allowlist for GitHub webhooks need to add three IP ranges to keep receiving deliveries. Teams that automatically sync their allowlists from GitHub's Meta API already pick up the additions."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/amp/?utm_source=tldrit",
+      "title": "Microsoft fixes Always On VPN failures in Windows 11",
+      "summary": "Microsoft resolved the connection failures introduced by September's security updates after incorrectly marking the issue as fixed in October's cumulative updates."
+    },
+    {
+      "url": "https://www.rtinsights.com/real-time-decisions/real-time-analytics-news-for-the-week-ending-october-31/?utm_source=tldrit",
+      "title": "Oracle Cloud will offer Google's AI chips",
+      "summary": "Oracle Cloud Infrastructure will become the first hyperscaler outside Google Cloud to offer Google's Tensor Processing Units."
+    }
+  ]
+}

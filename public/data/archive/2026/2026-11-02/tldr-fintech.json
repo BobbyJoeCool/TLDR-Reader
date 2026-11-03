@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-11-02",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158?utm_source=tldrfintech",
+      "title": "Polymarket resumes trading after $2.65M exploit tied to third-party provider",
+      "summary": "Polymarket temporarily halted new trades and relayer actions after an attacker moved roughly $2.65 million through swaps, then said it identified and fixed the issue. The platform attributed the exploit to a compromised third-party provider and referred the matter to law enforcement. It has resumed trading and said affected users would be fully reimbursed."
+    },
+    {
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/instinct-rolls-out-link-balance-for-ai-shopping-with-spending-limits?utm_source=tldrfintech",
+      "title": "Instinct rolls out Link balance for AI shopping with spending limits",
+      "summary": "Users can now let Instinct's assistant make purchases below a chosen threshold without approving every checkout using a prefunded wallet built with Stripe and Link. Funds are held in USDC, with no manual conversion needed before purchases. The threshold applies per purchase rather than to total spending. Users generally remain responsible for transactions, including items the agent buys by mistake."
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack?utm_source=tldrfintech",
+      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+      "summary": "Binance said October 30 that it has reserved corporate funds to restore customer balances after attackers exploited internal withdrawal systems, while partners separately froze roughly $3 billion in affected assets. Withdrawals remain paused during security checks, and the exchange has revised its initial explanation of a compromised laptop after discovering additional breach points, leaving the full failure under investigation."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2115473663990301170.html?utm_source=tldrfintech",
+      "title": "Ramp CEO says 70% of R&D is focused on unreleased products (49 minute video)",
+      "summary": "Simon Taylor's conversation with Ramp CEO Eric Glyman covers why Ramp sees itself as a productivity company more than a fintech, how AI is changing software economics, and why non-engineers are increasingly shipping code with tools like Inspect. Glyman also discusses Ramp's trust charter, stablecoins, AI as a major new category of business spend, and a future where autonomous agents may choose financial infrastructure on behalf of companies."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/ai-agents-wont-pay-same-ways-agentic-commerce-payments/873291/?utm_source=tldrfintech",
+      "title": "AI agents won't pay the way you do",
+      "summary": "AI agents could materially change the payment mix because they will optimize for user-defined goals such as rewards, discounts, cost, and efficiency rather than simply following familiar checkout habits. That could favor methods like pay-by-bank in some contexts and create a new competition among cards, bank payments, and other rails to become the payment option agents select on behalf of consumers."
+    },
+    {
+      "url": "https://fintechisfemme.beehiiv.com/p/the-end-of-the-billable-hour?utm_source=tldrfintech",
+      "title": "AI Is Coming for Billable Hours. Intuit Turns Accountants Into Growth Advisors",
+      "summary": "New tools will automate month-end close, flag financial anomalies, and let firms build custom agents, freeing up time for higher-value client work. According to the company, its Accountant Suite serves more than 260,000 firms, with users reporting savings of over nine hours per client each month and many spending 30% more time on advisory services. The platform will also match growing businesses with firms, helping them replace revenue from routine tasks with advice and new client relationships."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48676/apple-pay-and-google-pay-launch-in-uzbekistan?utm_source=tldrfintech",
+      "title": "Apple Pay and Google Pay launch in Uzbekistan",
+      "summary": "Uzbekistan has announced the arrival of Apple Pay and Google Pay into its banking system as the Central Asian nation looks to open up its financial services."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48681/pe-firm-cdr-targets-buyout-of-40bn-global-payments---ft?utm_source=tldrfintech",
+      "title": "CD&R targets $40B buyout of Global Payments",
+      "summary": "Private equity firm CD&R is reportedly working with Global Payments' largest shareholder, GTCR, on a potential take-private of the payments processor, which has an enterprise value of about $40 billion. The talks come after Global Payments' $22.7 billion Worldpay acquisition drew investor criticism and activist pressure, making a private-equity-led reset a possible next step if a deal materializes."
+    },
+    {
+      "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us?utm_source=tldrfintech",
+      "title": "ICE moves to bring Hyperliquid perpetual futures to the US",
+      "summary": "Intercontinental Exchange, owner of the NYSE, signed a deal with Trade[XYZ] to operate regulated US markets for perpetual futures built on Hyperliquid, with ICE also taking a strategic stake in the company. The planned offering would bring 24/7 leveraged perpetuals on assets such as stocks, commodities and currencies into a regulated US framework using KYC, futures brokers and ICE clearing infrastructure, marking a significant bridge between crypto-native market structure and traditional exchanges."
+    },
+    {
+      "url": "https://www.fintechfutures.com/m-a/hcz-buys-goalsetter-to-enhance-financial-education-offering?utm_source=tldrfintech",
+      "title": "Harlem Children's Zone buys Goalsetter to enhance financial education offering",
+      "summary": "The New York nonprofit plans to extend the platform's student-focused tools into a continuous learning journey from early childhood through adulthood. Its existing products include classroom modules for middle and high schools and MoneyLingo, an app teaching college students and young adults about saving, spending, investing, and credit. Founder Tanya Van Court will join HCZ as chief fintech officer. Financial terms were not disclosed."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2115898044830847448.html?utm_source=tldrfintech",
+      "title": "Brian Armstrong says crypto and AI can rebuild the financial system",
+      "summary": "Crypto will replace financial rails through stablecoins, tokenization, and 24/7 onchain markets, while AI will replace the interface by letting agents research, decide, transact, and pay for users."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111520/visa-signs-digital-payments-deal-with-senegal?utm_source=tldrfintech",
+      "title": "Visa signs digital payments deal with Senegal",
+      "summary": "Visa and Senegal's Ministry of Telecommunications and Digital Affairs have signed a Memorandum of Understanding (MoU) establishing a two-year framework for strategic collaboration to support Senegal's digital transformation ambitions."
+    }
+  ]
+}

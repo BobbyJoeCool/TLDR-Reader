@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-02",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://vercel.com/blog/simplifying-runtime-caching-on-vercel?utm_source=tldrdev",
+      "title": "Simplifying Runtime Caching on Vercel",
+      "summary": "Vercel is merging Data Cache into Runtime Cache without requiring changes to existing Next.js fetch caching or unstable_cache calls. The architecture uses regional Redis fleets and tag invalidation timestamps, letting one timestamp invalidate a million entries without deleting them individually."
+    },
+    {
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/?utm_source=tldrdev",
+      "title": "The AI Cost of JavaScript Frameworks",
+      "summary": "A benchmark asks a coding agent to build the same Pokémon app across JavaScript frameworks, measuring cost, time, conformance, performance, and accessibility. Median reported API costs range from $2.67 for Hono with htmx to $4.97 for Angular, but substantial run-to-run variation and the small workload limit broader conclusions."
+    },
+    {
+      "url": "https://blog.master.dev/two-circles-one-connection-and-border-shape/?utm_source=tldrdev",
+      "title": "Two Circles, One Connection, and border-shape",
+      "summary": "CSS anchor positioning, border-shape, and shape() can draw curved connectors that follow two moving elements. The tutorial works through alignment and overflow fixes, then adds conditional shapes and transitions, with demos that currently require Chrome or Edge for full support."
+    },
+    {
+      "url": "https://nextplayso.substack.com/p/what-you-should-know-before-selling?utm_source=tldrdev",
+      "title": "What You Should Know Before Selling Your Equity",
+      "summary": "Selling startup equity can reduce concentrated risk without abandoning confidence in the company. The essay offers nine ways to think through the decision, including mapping what the money would change, modeling outcomes in a spreadsheet, writing a short decision memo, and finding tax help with startup-equity experience."
+    },
+    {
+      "url": "https://ianmccrystal.com/posts/the-age-of-frivolous-software/?utm_source=tldrdev",
+      "title": "The Age of Frivolous Software",
+      "summary": "A personal World Cup dashboard grew to roughly 50,000 users after an initial version built in hours with coding agents and automated infrastructure setup. The experience argues that cheaper development makes short-lived, highly personal software worth building, though refining the interface still took sustained direction and hundreds of deployments."
+    },
+    {
+      "url": "https://github.com/ivankovic/omnidiff?utm_source=tldrdev",
+      "title": "OmniDiff (GitHub Repo)",
+      "summary": "OmniDiff uses content-specific algorithms to compare source code, images, fonts, archives, and PDFs. It provides an interactive terminal viewer, Git integration, and headless or JSON output for scripts and CI."
+    },
+    {
+      "url": "https://github.com/eneskirca/nodeterm?utm_source=tldrdev",
+      "title": "nodeterm (GitHub Repo)",
+      "summary": "nodeterm arranges persistent tmux terminals and coding agents as draggable nodes on an infinite canvas. It combines spatial workspaces with a kanban view of live sessions, agent status notifications, and remote SSH projects."
+    },
+    {
+      "url": "https://github.com/milind-soni/OpenMausBot?utm_source=tldrdev",
+      "title": "OpenMausBot (GitHub Repo)",
+      "summary": "OpenMausBot puts a team of AI agents in a chat interface, similar to Grok Bot, running through locally installed Claude, Codex, or Grok CLIs. Each bot can use connected apps and a cloud computer or local VM, with permission requests surfaced as approval cards in the conversation."
+    },
+    {
+      "url": "https://karpathy.bearblog.dev/hacker-tube/?utm_source=tldrdev",
+      "title": "HackerTube",
+      "summary": "HackerTube, created by Andrej Karpathy, turns Hacker News video recommendations into a YouTube-style browsing interface spanning 6,454 videos across 150 topics. The project filters recommendation comments, uses mid-video frames as thumbnails, and keeps personalization in local browser state without accounts."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
+      "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more."
+    },
+    {
+      "url": "https://tangled.org/blog/forge/?utm_source=tldrdev",
+      "title": "The Federated Code Forge",
+      "summary": "Tangled combines Git with AT Protocol so teams can self-host parts of their code forge while continuing to collaborate across instances. Its new architecture separates a Svelte frontend from globally deployed, in-memory Rust indexers, replacing a single Go service backed by SQLite in Sweden."
+    },
+    {
+      "url": "https://brunoj.com/nothing-installs-at-our-company-until-its-a-week-old/?utm_source=tldrdev",
+      "title": "Nothing Installs Until It's a Week Old",
+      "summary": "A company-wide registry proxy delays new npm and PyPI releases for seven days, buying time for malicious versions to be discovered while tracking downloads and supporting version blocklists."
+    },
+    {
+      "url": "https://github.com/raphlinus/nibnib?utm_source=tldrdev",
+      "title": "Nibnib (GitHub Repo)",
+      "summary": "Nibnib is an experimental 4-bit-per-pixel image format that decodes two pixels per byte using palette deltas."
+    },
+    {
+      "url": "https://metaredux.com/posts/2026/11/01/nrepl-right-in-your-browser.html?utm_source=tldrdev",
+      "title": "nREPL, Right in Your Browser",
+      "summary": "A browser-based nREPL server uses SCI and Web Workers to provide a roughly 230 KB gzipped playground."
+    },
+    {
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/?utm_source=tldrdev",
+      "title": "Mathematics Has Changed. Let's Act Like It",
+      "summary": "AI-assisted mathematics should reward understanding, worthwhile questions, and broader research programs."
+    }
+  ]
+}
