@@ -1,0 +1,73 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-10-29",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure?utm_source=tldrit",
+      "title": "Google and Oracle are partnering to bring Google TPUs to Oracle Cloud Infrastructure",
+      "summary": "Google Cloud and Oracle are partnering to bring Google Tensor Processing Units to Oracle Cloud Infrastructure, making OCI the first hyperscaler outside Google to offer TPUs. The companies plan to deploy TPU capacity on OCI starting in 2027 to help organizations scale AI workloads across data centers engineered for AI density."
+    },
+    {
+      "url": "https://www.reuters.com/business/openai-plans-buy-googles-ai-chips-information-reports-2026-10-28/?utm_source=tldrit",
+      "title": "OpenAI plans to buy Google's AI chips, The Information reports",
+      "summary": "OpenAI reportedly plans to purchase Google's Tensor Processing Units, expanding beyond its existing chip-rental arrangement. The potential deal would give OpenAI another source of AI computing capacity alongside Nvidia GPUs and its custom-chip development efforts with Broadcom, while strengthening Google's position in the AI infrastructure market."
+    },
+    {
+      "url": "https://www.channelnewsasia.com/business/microsoft-beats-quarterly-cloud-revenue-estimates-6501191?utm_source=tldrit",
+      "title": "Microsoft beats quarterly cloud revenue estimates",
+      "summary": "Microsoft's Azure cloud business reported $33.17 billion in quarterly revenue, growing 48% year over year and beating analyst expectations. Microsoft is now disclosing Azure revenue in dollars, providing greater visibility into its cloud performance as the company continues investing heavily in AI infrastructure."
+    },
+    {
+      "url": "https://www.itpro.com/software/business-apps/information-overload-is-harming-enterprise-productivity-heres-how-it-leaders-can-solve-that?utm_source=tldrit",
+      "title": "Information overload is harming enterprise productivity - here's how IT leaders can solve that",
+      "summary": "A Forrester study commissioned by Staffbase found that fragmented workplace communication is affecting employee productivity, with 48% of respondents reporting reduced efficiency and 44% citing more errors or missed deadlines. The findings suggest that consolidating information and connecting workplace applications could reduce unnecessary context switching."
+    },
+    {
+      "url": "https://www.itpro.com/business/what-enterprises-can-learn-from-anthropics-ipo-prospectus-about-vendor-dependency?utm_source=tldrit",
+      "title": "What enterprises can learn from Anthropic's IPO prospectus about vendor dependency",
+      "summary": "Anthropic's IPO prospectus reveals that nearly half of its sales are routed through cloud partners Amazon and Google, highlighting significant vendor dependency and concentration risk across the AI ecosystem. Industry experts advise enterprise CIOs to treat AI procurement as a resilience conversation by questioning supplier supply chains and ensuring data and workflow portability."
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure?utm_source=tldrit",
+      "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale",
+      "summary": "NVIDIA and Oracle have announced plans to expand Oracle Cloud Infrastructure Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale. The companies are also bringing NVIDIA Vera CPUs and Vera Rubin GPUs to OCI to support AI training, inference, and agentic workloads. OpenAI has also trained and served frontier models on OCI infrastructure powered by NVIDIA Blackwell GPUs."
+    },
+    {
+      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/?utm_source=tldrit",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "summary": "GitHub has introduced a new Copilot app, Copilot Fusion, for automatically routing coding tasks across multiple AI models and agent workflows spanning repositories and development tools. GitHub also announced that Enterprise customers can access Copilot features without purchasing a separate subscription, with usage billed through AI credits."
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/snowflake-oracle-partnership-ai-data-cloud-oci/?utm_source=tldrit",
+      "title": "Snowflake and Oracle: Bringing the AI Data Cloud to OCI",
+      "summary": "Snowflake and Oracle are expanding their partnership to bring Snowflake's AI Data Cloud natively to Oracle Cloud Infrastructure as a first-party offering. Planned as an integrated service purchased and billed directly through Oracle, Snowflake on OCI aims to connect enterprise data across Oracle applications and databases with other sources to support analytics and AI workflows."
+    },
+    {
+      "url": "https://www.sdxcentral.com/news/oracle-cloud-acceleron-adds-ai-assisting-networking-enhancements/?utm_source=tldrit",
+      "title": "Oracle Cloud Acceleron adds AI-assisting networking enhancements",
+      "summary": "Oracle expanded its Acceleron networking platform with new capabilities for AI and high-performance computing workloads. Updates include RDMA connectivity for front-end compute, expanded NVMe block-storage options, and communication libraries designed to maintain distributed AI workloads when network paths fail."
+    },
+    {
+      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude?utm_source=tldrit",
+      "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+      "summary": "Anthropic researchers used an internal research model to discover critical vulnerabilities and construct sophisticated multi-step exploit chains in widely used software, including browsers, mobile operating systems, and kernel networking stacks. The model identified issues such as remote code execution, sandbox escapes, and lock-screen bypasses, which were reported to affected vendors under coordinated vulnerability disclosure. Anthropic argues that AI-assisted vulnerability discovery could help defenders identify and patch security flaws before attackers exploit them."
+    },
+    {
+      "url": "https://www.itpro.com/software/open-source/tesco-eyes-open-source-vmware-alternative-amid-long-running-spat?utm_source=tldrit",
+      "title": "Tesco eyes open source VMware alternative amid long-running spat",
+      "summary": "A Tesco engineering job posting outlines plans to migrate the retailer's edge virtualization infrastructure from VMware to Proxmox, offering another example of an enterprise evaluating alternatives amid Broadcom's licensing changes."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud?utm_source=tldrit",
+      "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+      "summary": "The specialized AI model serves as a high-level brain for robots across various physical embodiments, combining spatio-temporal video understanding, long-horizon planning, and agentic tool orchestration for enterprise production environments."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/?utm_source=tldrit",
+      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "summary": "Microsoft is reminding Entra ID administrators to prepare for the February 2027 retirement of Microsoft-provided SMS and voice authentication."
+    }
+  ]
+}

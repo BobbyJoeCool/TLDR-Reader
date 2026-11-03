@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-10-29",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bankingdive.com/news/ripple-occ-charter-bny-robinhood-partnerships-garlinghouse-alderoty/872896/?utm_source=tldrfintech",
+      "title": "Ripple gets OCC's unconditional charter approval",
+      "summary": "Ripple has secured final OCC approval to launch a national trust bank, allowing it to provide digital asset custody and manage reserves backing its RLUSD stablecoin, but not accept deposits or make commercial loans. The company is also expanding its BNY partnership to support institutional custody and tokenized assets, explore tokenized trade finance, and eventually let clients mint and redeem RLUSD directly through the bank."
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26/?utm_source=tldrfintech",
+      "title": "S&P Dow Jones partners with Kalshi for index-based events contracts, use prediction data",
+      "summary": "Kalshi will offer event contracts settled against official S&P Dow Jones index values, while S&P plans to turn Kalshi's probability data into new benchmarks covering economics, politics, and sports. The agreement gives the prediction-market operator institutional credibility amid ongoing gambling-related criticism and moves event contracts closer to mainstream financial-market infrastructure."
+    },
+    {
+      "url": "https://lnkd.in/p/gDVV26Zz?utm_source=tldrfintech",
+      "title": "Personal AI assistant Instinct just gave AI agents their own spending money",
+      "summary": "Instinct lets users fund a wallet and set spending limits so AI agents can make purchases independently. Stablecoins are converted into dollars and spent through a Visa virtual card, letting merchants accept payment through existing infrastructure. The broader tension is over who controls agent payments: Stripe's virtual cards or Visa and Mastercard's competing systems tied to customers' existing cards."
+    },
+    {
+      "url": "https://www.mostlymetrics.com/p/anthropic-ipo-s1-breakdown?utm_source=tldrfintech",
+      "title": "Anthropic IPO: S-1 breakdown",
+      "summary": "Anthropic's S-1 shows extraordinary growth and operating leverage: $16.3 billion of first-half 2026 revenue, roughly 900% net revenue retention, more than $6.6 million of trailing revenue per employee, and a profitable Q2, with consumption-based “pay-for-intelligence” generating 80% of revenue. The biggest questions are durability and infrastructure economics, as Anthropic remains highly dependent on cloud partners, faces enormous forward compute commitments, and operates in a market with low switching costs, even as customer usage and compute efficiency are improving at exceptional rates."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/meet-the-ghost-card?utm_source=tldrfintech",
+      "title": "Meet the ghost card",
+      "summary": "Fintech is rapidly converging around agents, stablecoins, and programmable money: Meta's Muse is driving real consumer agentic commerce, Ramp is pushing deeper into treasury and digital-asset infrastructure, Mercury has crossed $1 billion of annualized revenue, and Visa plus Mesh are turning wallet balances into card-network spending through invisible “ghost cards.” The financial stack is shifting from apps and standalone products toward agent-controlled money movement, embedded credit, tokenized assets, and new trust layers around identity, permissions, and liability."
+    },
+    {
+      "url": "https://x.com/karimatiyeh/status/2115096837736612130?utm_source=tldrfintech",
+      "title": "Ramp launches Inspect, a collaborative coding agent for faster product development",
+      "summary": "Ramp is opening early access to Inspect, a cloud-based coding agent that turns requests from Slack, GitHub, Linear, or the web into visually validated, reviewed pull requests inside a company's development environment. Ramp says Inspect now accounts for 74% of merged PRs and has helped builders ship 3.4x more PRs per person than a year ago, as the bottleneck shifts from writing code toward deciding which ideas are worth shipping."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html?utm_source=tldrfintech",
+      "title": "Ripple strikes deal with Robinhood to expand RLUSD stablecoin usage",
+      "summary": "Ripple and Robinhood are expanding RLUSD across institutional trading, treasury management, and financing, with the stablecoin set to support settlement through Ripple Prime and Bitstamp while also being listed on Robinhood. The partnership shows stablecoins moving beyond crypto trading into 24/7 financial infrastructure, where issuers increasingly compete by bundling settlement, treasury, payments, and financing around their digital dollars."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/redotpay-said-to-prepare-confidential-ipo-filing-by-year-end?utm_source=tldrfintech",
+      "title": "RedotPay reportedly plans US IPO by year-end at up to $5B valuation",
+      "summary": "Hong Kong-based stablecoin payments company RedotPay is reportedly preparing a confidential US IPO filing that could value the business at about $5 billion, with JPMorgan and Goldman Sachs advising. The company says it serves more than 9 million customers and has surpassed $180 million in annualized revenue, although the offering would come while RedotPay remains in an ongoing $473 million legal dispute with Binance."
+    },
+    {
+      "url": "https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential?utm_source=tldrfintech",
+      "title": "Guidewire agrees to acquire hyperexponential for up to $2.1B",
+      "summary": "Guidewire agreed to acquire AI-native underwriting platform hyperexponential for $1.7 billion in cash plus up to $400 million of contingent consideration, bringing hx's pricing and risk-decision technology into Guidewire's P&C insurance platform. The deal is aimed at accelerating “agentic underwriting,” where AI agents work alongside underwriters and actuaries across submission triage, pricing, and portfolio decisions, and Guidewire says hx already supports decisions across more than $75 billion of annual commercial P&C premium."
+    },
+    {
+      "url": "https://finainews.com/payments/fintech-funding-hits-2-year-low-in-q3/?utm_source=tldrfintech",
+      "title": "Fintech funding hits 2-year low in Q3",
+      "summary": "Global fintech funding fell 29% year over year to $11 billion in Q3, its lowest level since Q3 2024, with just 650 deals recorded."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance?utm_source=tldrfintech",
+      "title": "Hyphenate raises new funding to expand self-learning finance agents",
+      "summary": "Hyphenate raised a new round led by Nexus Venture Partners, with participation from B Capital and existing investors, bringing total funding to $54 million."
+    }
+  ]
+}

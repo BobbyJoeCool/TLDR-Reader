@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-10-29",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes?utm_source=tldrdev",
+      "title": "How to make postMessage type-safe in under 350 bytes",
+      "summary": "typed-channel defines message names and payloads once so TypeScript can check both sides of a worker, iframe, or event-bus boundary. The core plus postMessage transport is 341 bytes with Brotli compression, while a separate request API adds typed replies and cancellation that propagates to the handler."
+    },
+    {
+      "url": "https://nextjs.org/blog/ship-less-javascript-with-ai?utm_source=tldrdev",
+      "title": "Ship less JavaScript in Next.js with your AI agent",
+      "summary": "Next.js 16.4 adds an agent skill that uses Turbopack's module graph to find unnecessary client JavaScript, including eager imports, duplicate dependencies, and missed tree shaking. Vercel reports removing or deferring nearly two megabytes of compressed JavaScript across pages in v0 and vercel.com, with snapshot comparisons to verify each change."
+    },
+    {
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks?utm_source=tldrdev",
+      "title": "The AI cost of JavaScript frameworks",
+      "summary": "A benchmark asks Opus 5.5 to build the same Pokémon app across JavaScript frameworks, then measures cost, time, spec compliance, performance, and accessibility over repeated runs. Hono with htmx, Astro, and Nuxt are among the cheapest in this experiment, but substantial run-to-run variance and a mostly content-focused app limit how broadly the ranking applies."
+    },
+    {
+      "url": "https://hologram.page/blog/local-first-means-three-different-things?utm_source=tldrdev",
+      "title": "Local-First Means Three Different Things",
+      "summary": "Local-first can mean offline capability, fast optimistic interfaces, or user ownership of data, and those promises lead to different architectures. Hologram prioritizes responsive local interfaces and offline support while retaining a server to enforce permissions and business rules."
+    },
+    {
+      "url": "https://dri.es/website-migration-costs-are-going-to-zero?utm_source=tldrdev",
+      "title": "Website migration costs are going to zero",
+      "summary": "AI agents could make technical website migrations nearly free by using the existing site as a baseline for differential tests of pages and publishing workflows. The prediction shifts the durable sources of lock-in toward contracts, procurement approvals, and agent memory, making portable requirements and decision logs more valuable."
+    },
+    {
+      "url": "https://nuxt.com/blog/devtools-v4?utm_source=tldrdev",
+      "title": "Nuxt DevTools v4",
+      "summary": "Nuxt DevTools v4 moves onto the framework-agnostic Devframe and Vite DevTools foundations, allowing it to reuse the Vite and Vue tooling ecosystem. A transition shim supports legacy modules while their integrations migrate to the new Devframe APIs."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=tldrdev",
+      "title": "Gemini 4 Carbon: our next frontier model",
+      "summary": "Google announced Gemini 4 Carbon for sustained coding workflows and cybersecurity, reporting 88.2% on SEC-bench Pro for vulnerability discovery and 71.0% on CWE-bench for patching. Access begins with selected cyber defenders and trusted Fairwind partners, with broader availability still to come. Announced introductory pricing is $2 per million input tokens and $10 per million output tokens."
+    },
+    {
+      "url": "https://vercel.com/blog/introducing-vercel-ci?utm_source=tldrdev",
+      "title": "Introducing Vercel CI",
+      "summary": "Vercel CI enters beta with Turborepo-based task selection and remote caching, running only work affected by a code change. Vercel reports two to six times faster push-to-passed-check times while reducing the need for separate CI workflow configuration."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/?utm_source=tldrdev",
+      "title": "The October inflection point for vibe game development",
+      "summary": "Opus 5.5 has improved at generating 3D models, music, and gameplay that is fun to play. Simple instructions can produce working games. More ambitious projects still need playtesting and iteration to fix gameplay problems."
+    },
+    {
+      "url": "https://nullpt.rs/fingerprinting-bioweapons?utm_source=tldrdev",
+      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "summary": "A browser fingerprinting script hides alarming prompts and variable names intended to trip LLM safety filters and frustrate automated analysis. Underneath the anti-LLM obfuscation, it collects conventional browser and WebGL signals and includes a gated Node.js routine for gathering system information."
+    },
+    {
+      "url": "https://armincat.com/articles/ai-agent-executed-same-query-254-times?utm_source=tldrdev",
+      "title": "Our AI Agent Executed the Same Successful SQL Query 254 Times",
+      "summary": "During a model comparison at Funnel, an internal data agent repeatedly executed a successful SQL query instead of finishing its task. The failure illustrates why model swaps need whole-system evaluation, explicit tool contracts, and bounds on repeated behavior."
+    },
+    {
+      "url": "https://nodejs.org/en/blog/release/v26.13.0?utm_source=tldrdev",
+      "title": "Node.js 26.13.0 enters LTS",
+      "summary": "Node.js 26 has entered Long Term Support as Lithium through April 2029."
+    },
+    {
+      "url": "https://yavashark.dev/blog/announcing-yavashark?utm_source=tldrdev",
+      "title": "Yavashark: a new embeddable JavaScript engine in Rust",
+      "summary": "Yavashark is an embeddable Rust JavaScript engine that passes 82% of test262 and supports Temporal, Intl, and TypeScript execution through its CLI."
+    },
+    {
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0?utm_source=tldrdev",
+      "title": "Ghostty 1.4 (Website)",
+      "summary": "Ghostty 1.4 adds complete Kitty graphics support, scrollback compression, faster terminal processing, improved SSH integration, and security fixes."
+    },
+    {
+      "url": "https://expressjs.com/en/blog/2026-10-28-cve-2026-111181?utm_source=tldrdev",
+      "title": "Denial of service in body-parser",
+      "summary": "A decompression error in affected body-parser versions can crash a server with one request."
+    }
+  ]
+}
