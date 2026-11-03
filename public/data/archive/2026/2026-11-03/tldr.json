@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-11-03",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/?utm_source=tldrnewsletter",
+      "title": "Coming in 2027: Apple's $1,000 home robot for FaceTime and switching on lights",
+      "summary": "Apple is reportedly working on an AI-driven home robot potentially named the HomeView Ultra. It plans to launch the robotic product with a possible price tag of $1,000 or more by 2027. The earliest prototypes of the home robot first came out in 2018. The robot, which will support FaceTime calls, will be able to autonomously roam around and switch lights on whenever a person enters the room."
+    },
+    {
+      "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/?utm_source=tldrnewsletter",
+      "title": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network",
+      "summary": "SpaceX has held talks with EchoStar to potentially acquire Boost Mobile outright or gain access to its cell network, which is leased from AT&T and T-Mobile. Starlink recently confirmed plans to become a major mobile carrier in the US. The deal will need approval from AT&T and T-Mobile, both of which have already turned down SpaceX for access to their cell towers. SpaceX last year acquired $2.6 billion worth of spectrum licenses from EchoStar to improve its Starlink network's 5G connections."
+    },
+    {
+      "url": "https://www.mackenziemorehead.com/what-is-quantum-advantage-actually-worth/?utm_source=tldrnewsletter",
+      "title": "What Is Quantum Advantage Actually Worth?",
+      "summary": "Nearly all roadmaps point to a utility-scale quantum computer being developed around 2030. Despite this, there is little confidence or clarity on how these machines will actually be useful. The consensus is now that they'll first be used for breaking cryptography. The second most concrete answer is to use them to generate simulation data for AI labs' science models. This post looks at how else quantum computing could be applied and where all the revenue will come from."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/?utm_source=tldrnewsletter",
+      "title": "China publicly discloses plan for a lunar landing within three years",
+      "summary": "Chinese space officials have confirmed the country's plans to land astronauts on the Moon within three years. The landings will involve a lunar-orbit rendezvous similar to what NASA did with the Apollo program. China and the US are racing to land astronauts on the lunar surface, as it would be a major geopolitical win. Both countries are also building capabilities to establish a long-term presence at the Moon's South Pole."
+    },
+    {
+      "url": "https://openai.com/index/scaling-git-at-openai/?utm_source=tldrnewsletter",
+      "title": "Scaling Git at OpenAI",
+      "summary": "OpenAI's monorepo's size and demands increased at a staggering pace over the last year, necessitating a revamp of the AI lab's source control system. Its technical staff built Pando, a new backend for Git repositories optimized for concurrent pushes to many branches and to maximize read throughput. The team implemented the backend without interrupting any engineering work or changing how the team uses Git. Pando cut median push latency in production by nearly 5x, and it now delivers nearly a petabyte of Git data per day."
+    },
+    {
+      "url": "https://www.philschmid.de/code-mode?utm_source=tldrnewsletter",
+      "title": "Why Agents Are Soon Only Going to Have 1 Tool",
+      "summary": "Agents are collapsing their entire tool catalog into one 'exec' tool. This allows models to write short scripts that chain, combine, and await actions inside isolated sandboxes. Models can now reliably combine and chain dependent actions in a single pass. In the previous standard tool-calling model, agents could only perform single actions, but the exec tool allows them to perform multiple actions."
+    },
+    {
+      "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/?utm_source=tldrnewsletter",
+      "title": "Our organizations are being DDoSed from the inside",
+      "summary": "Organizations are losing attention as everyone within is doing something they think is useful, but all that work draws on the same limited capacity to understand, review, and decide. Just because work exists doesn't mean it's the right thing to do. Output is not proof of value. A working implementation only means that something can be built, not that it should be - some changes have negative value."
+    },
+    {
+      "url": "https://haydenbleasel.com/writing/open-source?utm_source=tldrnewsletter",
+      "title": "The value of open source",
+      "summary": "People open source projects for various reasons. Some do it to build a company or product, others do it performatively, and some ship code just for the love of the game. Open source was never free to copy, and the code was never the moat. AI can remake a product, but it can't provide the rest of the value a company generates. The technology is helping maintainers ship and fix problems faster."
+    },
+    {
+      "url": "https://elliotmorris.net/prototypes-are-not-that-helpful-anymore?utm_source=tldrnewsletter",
+      "title": "Prototypes are not that helpful anymore",
+      "summary": "A prototype is no longer an indicator that the builder is competent."
+    },
+    {
+      "url": "https://knlb.dev/essays/surrender?utm_source=tldrnewsletter",
+      "title": "Resisting Cognitive Surrender",
+      "summary": "Cognitive surrender is when someone uncritically accepts whatever agents output without actually thinking, exploring, or considering alternatives."
+    },
+    {
+      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/?utm_source=tldrnewsletter",
+      "title": "LLMs are not superhuman at reading and writing neural network weights",
+      "summary": "GPT-6 Astra's ability to make direct weight updates is cool, but the best way to update the weights of a model is still to train them normally."
+    },
+    {
+      "url": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?st=Cbe3J3&amp;reflink=desktopwebshare_permalink&amp;utm_source=tldrnewsletter",
+      "title": "Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal",
+      "summary": "Marvell designs custom AI chips and other technology that connects processors and moves data around data centers, and Lumentum has technology that uses light to move data between chips and servers."
+    },
+    {
+      "url": "https://rogerpielkejr.substack.com/p/the-coming-replication-revolution?utm_source=tldrnewsletter",
+      "title": "The Coming Replication Revolution",
+      "summary": "Soon, almost all researchers will engage in AI-assisted replication of their own work before submitting to a journal, which will improve the quality of research going forward."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/?utm_source=tldrnewsletter",
+      "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+      "summary": "Anthropic recently updated its S-1 to say it may soon meet its own internal definition of recursive self-improvement."
+    }
+  ]
+}

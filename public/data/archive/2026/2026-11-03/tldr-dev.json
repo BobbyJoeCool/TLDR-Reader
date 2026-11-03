@@ -1,0 +1,93 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-03",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/?utm_source=tldrdev",
+      "title": "How we halved DNS build delay and cut memory use by 85%",
+      "summary": "Cloudflare replaced full DNS zone rebuilds with a planner that selects the smallest provably safe update and a scheduler that combines work for the same zone. The changes cut peak memory by 85% and halved the delay from a DNS change to its data being written to Quicksilver without rebuilding tens of millions of records for a settings change."
+    },
+    {
+      "url": "https://nextjs.org/blog/ship-less-javascript-with-ai?utm_source=tldrdev",
+      "title": "Ship less JavaScript in Next.js with your AI agent",
+      "summary": "Hidden import chains often load heavy code upfront that teams thought they had deferred, which slows page loads. Next.js 16.4 adds an agent skill that reads Turbopack's module graph, finds these problems, and can apply the fixes, plus new Bundle Analyzer views for route sizes, snapshot diffs, and the critical render path. At Vercel, it removed nearly 2 MB of compressed JavaScript across v0 and vercel.com, so Turbopack users can get similar savings with little manual work."
+    },
+    {
+      "url": "https://maple.dev/blog/react-to-foldkit/?utm_source=tldrdev",
+      "title": "Porting 287,000 lines of React in 3 days. The hard part was proving nothing changed.",
+      "summary": "Maple moved its observability app from React to Foldkit using about 40 Claude agents, with most human effort going into a harness that compared more than 2,600 screen variants across pixels, structure, network requests, and accessibility. The rewrite took three days, but code review still found about 180 defects the screenshots missed, and the startup bundle roughly doubled."
+    },
+    {
+      "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/?utm_source=tldrdev",
+      "title": "Hunger beats tenure: Advice for junior engineers",
+      "summary": "Coding interviews no longer predict success when AI can outperform candidates on the same tasks, according to this hiring perspective. Newer engineers can stand out by tying their work to business goals, choosing one bold idea, and proving it with a weekend prototype."
+    },
+    {
+      "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/?utm_source=tldrdev",
+      "title": "Our organizations are being DDoSed from the inside",
+      "summary": "AI makes it cheap to generate changes, but understanding, reviewing, and coordinating them still consumes the same limited human attention. Clearer intent about priorities and scope, plus a deliberate gate between experiments and the shared product, can help teams keep control of their direction."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-time-to-rethink-software?utm_source=tldrdev",
+      "title": "Time to rethink software security because of AI?",
+      "summary": "A single week brought a pile-up of major security failures: a certificate authority issued keys that were trivially guessable numbers, critical flaws hit PHP, GitLab, and Node.js, Railway leaked customer secrets, and PingCAP's TiDB control plane was breached for a month. AI now makes vulnerabilities faster to find and easier to exploit, even for nontechnical attackers. Teams will likely need automated patching, constant security monitoring, and AI-driven defense, and security will cost more."
+    },
+    {
+      "url": "https://github.com/beenuar/AiSOC?utm_source=tldrdev",
+      "title": "AiSOC (GitHub Repo)",
+      "summary": "AiSOC is a self-hostable security operations platform that combines alerts, uses LLM agents for triage, and supports investigations mapped to MITRE ATT&CK. A replayable decision ledger records agent steps, and an MCP server exposes the system to connected coding assistants."
+    },
+    {
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio?utm_source=tldrdev",
+      "title": "Disc Image Studio (GitHub Repo)",
+      "summary": "Disc Image Studio turns images into data patterns that become visible artwork on the recording surface of CDs, DVDs, and single-layer Blu-ray discs. Windows supports design and burning, while experimental Linux and macOS command-line builds generate disc images offline."
+    },
+    {
+      "url": "https://labs.leaningtech.com/blog/cheerpj-5.0?utm_source=tldrdev",
+      "title": "CheerpJ 5.0",
+      "summary": "CheerpJ brings Java 21 and preview support for Java 25 to the browser, with a full OpenJDK that can compile as well as run Java applications. Its new WasmGC engine is experimental and opt-in, with production readiness planned for CheerpJ 6.0."
+    },
+    {
+      "url": "https://github.com/kgoedecke/doop?utm_source=tldrdev",
+      "title": "Doop (GitHub Repo)",
+      "summary": "Doop is a multiplayer design canvas where people and AI agents edit together through a built-in MCP server. It supports live cursors, threaded comments, clickable prototypes, and self-hosting with embedded Postgres for local development."
+    },
+    {
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/?utm_source=tldrdev",
+      "title": "Warsaw in voxels (Website)",
+      "summary": "Explore central Warsaw as an interactive 3D voxel map built from GUGiK and OpenStreetMap data. Controls for date, time, and weather let you change the scene's lighting and atmosphere, and the source code is available to inspect."
+    },
+    {
+      "url": "https://allenai.org/blog/novelty-bench?utm_source=tldrdev",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "Ai2's benchmark, built from ICLR 2026 peer reviews, tests whether LLMs can judge research novelty and finds that small prompt changes can swing accuracy by more than 50 points on AI-generated ideas. Extra retrieval and reasoning did not reliably help, so teams using LLM judges should test their stability on the kinds of ideas they plan to score."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/?utm_source=tldrdev",
+      "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
+      "summary": "Smarsh turned the AWS Agentic AI Lens into a Claude skill that checks all 150 best practices against a GitHub repository and produces an evidence-cited workbook in hours. The review surfaced gaps such as missing prompt-injection screening and cost controls, making follow-up architecture discussions more focused."
+    },
+    {
+      "url": "https://github.com/vercel-labs/scriptc?utm_source=tldrdev",
+      "title": "scriptc (GitHub Repo)",
+      "summary": "This experimental compiler turns TypeScript and JavaScript into native executables or WebAssembly."
+    },
+    {
+      "url": "https://github.com/CNCKitchen/ScanRuler?utm_source=tldrdev",
+      "title": "ScanRuler (GitHub Repo)",
+      "summary": "ScanRuler measures 3D scans, compares them against CAD models, and maps wall thickness entirely in the browser."
+    },
+    {
+      "url": "https://expressjs.com/en/blog/2026-10-31-security-releases/?utm_source=tldrdev",
+      "title": "October 2026 Express security releases",
+      "summary": "The Express team patched denial-of-service flaws in body-parser and multer and recommends updating Node.js for the separate upstream Brotli decoder vulnerability."
+    },
+    {
+      "url": "https://github.com/Leaflet/Leaflet/releases/tag/v2.0.0-beta.1?utm_source=tldrdev",
+      "title": "Leaflet 2.0 beta (Website)",
+      "summary": "Leaflet's first 2.0 beta adds tree-shaking, bundled TypeScript types, and accessibility improvements, reducing a map with a tile layer from 38 kB to 25.6 kB gzipped while introducing breaking API changes."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-11-03",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards?utm_source=tldrinfosec",
+      "title": "Fashion retailer Resolve says hackers stole payment card information",
+      "summary": "Revolve told the SEC that attackers accessed multiple systems and used automated methods to obtain names, contact details, and card numbers and expiration dates from customers who stored payment data online. Texas regulators recorded 127,200 affected residents. Vermont reported 1,328. Revolve notified law enforcement, hired a cybersecurity firm, and said operations and finances were unaffected."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo?utm_source=tldrinfosec",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "summary": "A suspected cyber-attack switched refrigeration evaporators to defrost mode at supermarkets in Belgium, Luxembourg, Sweden, Ireland, the Netherlands, Estonia, and Finland. Freezer temperatures reportedly reached 50°C, forcing stores to discard spoiled food. A Delhaize branch reported €100,000 in losses. Sabcobel said affected units need physical changes. Remote internet-connected maintenance remains part of the operating model."
+    },
+    {
+      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html?utm_source=tldrinfosec",
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "summary": "IBM reported four Langflow vulnerabilities affecting versions 1.0.0 through 1.12.8. Two are critical and require no account: CVE-2026-93680 bypasses authentication, while CVE-2026-110186 permits arbitrary code execution through MCP tool enumeration. A public Metasploit module already enumerates Langflow MCP tools without credentials. Version 1.13.0 is the only fix. It disables automatic login by default. IBM has not published a workaround."
+    },
+    {
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/?utm_source=tldrinfosec",
+      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+      "summary": "Cloudflare mitigated 18.2 million network-layer DDoS attacks and 14.4 trillion HTTP requests in Q3 2026. Short attacks under 10 minutes and 1 Gbps rose 208% year over year, while attacks above 1 Tbps fell 69% from Q2. CLDAP floods dropped 99.5%. DNS amplification rose 215%, and UDP floods rose 122%. The United States was the most-attacked country, followed by China and Indonesia. Canada rose from 16th to 6th, and Israel to 10th. IoT botnets remain active, with Mirai-classified traffic peaking at 57.23 PB in August."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/?utm_source=tldrinfosec",
+      "title": "How We Took Over ChatGPT Accounts",
+      "summary": "Researchers at Parameter Labs discovered a complex attack chain that could let attackers create malicious pages using ChatGPT's HTML Previews (formerly Canvas). The exploit begins by using the MathLive JavaScript library to create a new iframe that could load scripts from YouTube despite OpenAI's CSP policy. That iframe could then use YouTube's oEmbed endpoint to access OpenAI API endpoints and steal private data from anyone who accesses the ChatGPT share URL."
+    },
+    {
+      "url": "https://www.atredis.com/blog/2026/10/28/turning-the-valve/?utm_source=tldrinfosec",
+      "title": "Turning the Valve - Exploiting RCE and LPE in the Steam Platform",
+      "summary": "Atredis researchers found four local privilege escalation flaws and two remote code execution bugs in Steam for Windows. The LPE paths abused Steam's SYSTEM service through install-script allowlists, module loading, secure-desktop input forwarding, and driver installation. The remote bugs affected Steam-to-Steam synchronization messages: stack overflows in download-schedule and app-status handlers, plus an uninitialized-memory leak of steamclient64 pointers. The researchers combined the leak with an overflow to build a zero-click RCE using a ROP chain. They reported the issues to Valve through HackerOne. The bugs are patched or past the disclosure timeline, and proof-of-concept code is public."
+    },
+    {
+      "url": "https://github.com/JarryShaw/PyPCAPKit?utm_source=tldrinfosec",
+      "title": "PyPCAPKit (GitHub Repo)",
+      "summary": "PyPCAPKit is an open-source Python library for parsing, constructing, and analyzing network packets and PCAP files, with DictDumper as its formatted output dumper."
+    },
+    {
+      "url": "https://github.com/blasty/wake-and-break?utm_source=tldrinfosec",
+      "title": "Wake and Break (GitHub Repo)",
+      "summary": "Wake and Break is a PSP (Platform Security Processor) exploit for AMD navi31 cards that will disable PSP's firmware signature check so that the card will load unsigned IP firmware."
+    },
+    {
+      "url": "https://github.com/Kowntaewook/MCPTrace?utm_source=tldrinfosec",
+      "title": "MCPTrace (GitHub Repo)",
+      "summary": "MCPTrace is a Volatility 3 plugin for extracting MCP/JSON-RPC message candidates from Windows and Linux memory dumps."
+    },
+    {
+      "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah?utm_source=tldrinfosec",
+      "title": "Securing Internet Critical Software: How We Could Have Backdoored Bash",
+      "summary": "Researchers at Hacktron discovered a command injection vulnerability in GNU Savannah that let them gain root and take over user accounts, including a Bash maintainer. The vulnerability stemmed from the GPG key validator inserting a user's email address directly into commands it executed without sanitizing the input. The attackers utilized this vulnerability to install a webshell, read the database password, set their account to a superuser, impersonate other users, and also escalate privileges by exploiting GemOver(lay)."
+    },
+    {
+      "url": "https://www.themoscowtimes.com/2026/11/01/cyberattack-hits-rosstat-as-hackers-claim-huge-data-theft-a94146?utm_source=tldrinfosec",
+      "title": "Cyberattack Hits Rosstat as Hackers Claim Huge Data Theft",
+      "summary": "The Belarusian Cyber Partisans and Silent Crow hacking groups claimed they stole 23TB of data from Russia's state statistics agency, Rosstat. The attackers claim to have stolen data on Russian wartime losses, demographic and economic statistics, and documents marked “for official use only.” Rosstat denied that any databases or legally protected information was leaked."
+    },
+    {
+      "url": "https://blog.google/security/our-latest-defenses-against-evolving-web-scams/?utm_source=tldrinfosec",
+      "title": "Our Latest Defenses Against Evolving Web Scams",
+      "summary": "The Google Chrome team released several new features to further harden the Enhanced Protection mode of Private Browsing. Chrome will now display warnings when a user browses to a suspicious or risky site (depending on confidence level) and provide LLM-based scam detection. Chrome also implemented LLM-based ClickFix attack detection."
+    },
+    {
+      "url": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/?utm_source=tldrinfosec",
+      "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+      "summary": "The Florida Department of Education disclosed a breach of its student financial aid website on October 19."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/?utm_source=tldrinfosec",
+      "title": "Germany says lawmakers' iPhones may have been hacked with spyware",
+      "summary": "Germany's BSI has warned that Bundestag members and other prominent figures received Apple's mercenary spyware threat notifications, part of a batch Apple sent to users in 99 countries, and says anyone who gets one should assume their device may have been compromised, although no one has yet been named as behind the attacks."
+    },
+    {
+      "url": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/?utm_source=tldrinfosec",
+      "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+      "summary": "Google's Cloud VRP now pays up to $250,000 for exploits that achieve roles/owner or full IAM control over arbitrary Google Cloud tenants, or code execution in its Borg production infrastructure, without existing access, stolen credentials, or user interaction."
+    }
+  ]
+}

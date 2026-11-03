@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-11-03",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/?utm_source=tldrdesign",
+      "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
+      "summary": "OpenAI is preparing to merge ChatGPT's Chat and Work tabs into one experience, letting users move from discussing ideas to completing tasks with files, plugins, and web tools without switching tabs. The change will first reach select users for feedback, while Codex remains a separate section of the desktop app. ChatGPT and Codex share a token allowance, which could mean more frequent waits for usage resets for some users."
+    },
+    {
+      "url": "https://thelettertwo.com/2026/10/29/canva-brush-ai-design-editing-model/?utm_source=tldrdesign",
+      "title": "Canva Unveils Brush, an AI Model Built to Edit Designs at Lower Cost",
+      "summary": "Brush, Canva's in-house vision-language model, edits designs up to 69% faster than the previous design agent at 46% lower cost per task. It reads both content and layout across full designs like multi-page decks, writes and runs small pieces of code, and inspects results before each next step. Brush is in beta for Canva Pro subscribers, with Brand Kit support and better image-heavy layout handling planned."
+    },
+    {
+      "url": "https://www.designweek.co.uk/amstel-updates-global-visual-identity-to-highlight-amsterdam-heritage/?utm_source=tldrdesign",
+      "title": "Amstel Updates Global Visual Identity to Highlight Amsterdam Heritage",
+      "summary": "Amstel has redesigned its packaging and logo around its 1870 Amsterdam origins, adding bespoke typography inspired by historic canal bridge signage and a refined golden circle. The red, white, black, and gold system also features a wave pattern, a horizontal split evoking the Amstel River, and three coins representing the founders, city, and waterway. Already a Red Dot winner, the identity is rolling out across 11 markets, with all remaining territories due to transition by the end of 2027."
+    },
+    {
+      "url": "https://www.tannerchristensen.com/blog/design-is-more-than-creation/?utm_source=tldrdesign",
+      "title": "Design is more than creation",
+      "summary": "Design is the deliberate process of deciding how something should work, respond, and be experienced, not simply the act of producing something that looks convincing. Conditions such as accessibility needs, localization, unpredictable content, failures, and different input methods should shape software from the beginning rather than being treated as edge cases to fix afterward. AI makes polished software dramatically faster to create, but that speed increases the importance of understanding which decisions were made, which assumptions they rely on, and whether they survive contact with reality."
+    },
+    {
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/?utm_source=tldrdesign",
+      "title": "How We're Training a Figma-Fluent Editing Model",
+      "summary": "Specialized post-training lets Figma's first-party editing model compete with frontier models on precise, iterative edits to existing designs. A Llama 3.3 70B model trained on 250,000+ examples first became competitive with top models, but imitation learning limited generalization, so Figma now invests in reinforcement learning. Since beta, typical tasks run about 20% faster, users rate results 33% higher, and they undo the agent's work 60% less often."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=tldrdesign",
+      "title": "Experience Design: Dropping the “User” from “User Experience”",
+      "summary": "AI agents complicate the traditional definition of UX because people may increasingly accomplish goals without directly interacting with the companies, applications, and interfaces involved. Experience design provides a broader framing that includes traditional UX while also considering digital systems used by agents acting on humans' behalf and journeys involving multiple human and nonhuman actors. People's goals remain central, but designers must now consider experiences in which the immediate user of a product may be an AI rather than a person."
+    },
+    {
+      "url": "https://www.parthjadhav.com/products/app-store-screenshots?utm_source=tldrdesign",
+      "title": "App Store Screenshots That Sell, Made by Your Agent (Website)",
+      "summary": "Describe your app once. Get a polished screenshot set in every size and language the stores ask for."
+    },
+    {
+      "url": "https://getdedica.com/?utm_source=tldrdesign",
+      "title": "Can AI Agents Use Your Product? (Website)",
+      "summary": "Dedica tests your site the way AI agents use it, then gives your team a fix for every place they fail."
+    },
+    {
+      "url": "https://developer.apple.com/accessories/dimensional-drawings/?utm_source=tldrdesign",
+      "title": "Apple Dimensional Drawings (Website)",
+      "summary": "Download dimensional drawings and technical specifications to help you design for Apple devices."
+    },
+    {
+      "url": "https://www.printmag.com/uncategorized/in-the-age-of-ai-curiosity-is-our-greatest-creative-tool/?utm_source=tldrdesign",
+      "title": "In the Age of AI, Curiosity is Our Greatest Creative Tool",
+      "summary": "AI makes generating images and concepts easy, so the harder work is deciding what is worth making, whose perspective is missing, and whether it communicates. At DesignThinkers, RGD's annual conference in Toronto, speakers covered information design, blending strategy with creativity, and designing a city. AI-accelerated trends risk polished sameness, so \"raw, messy curiosity is the most valuable thing we can bring to the table.\""
+    },
+    {
+      "url": "https://designworklife.com/how-to-write-better-copy-for-graphic-design-projects/?utm_source=tldrdesign",
+      "title": "How to Write Better Copy for Graphic Design Projects",
+      "summary": "Better graphic design copy starts with the project's purpose: a plain-language explanation, the audience, the most relevant benefit, objections, and the desired next step. Specific details persuade where vague praise does not, and a consistent brand voice should sound like the owner speaking face to face. Copy must fit its space, CTAs must match the reader's decision stage, and a final proofread should test every link and QR code."
+    },
+    {
+      "url": "https://the-brandidentity.com/project/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app?utm_source=tldrdesign",
+      "title": "Studio Kiln designs an identity for Reset that adapts like its app",
+      "summary": "Studio Kiln's identity for Reset reflects the weight-loss app's personalized approach to eating, building flexibility and responsiveness directly into its visual system. A dynamic identity uses typography, color, imagery, and graphic elements that can shift across different contexts while maintaining a recognizable core. The result gives Reset a distinctive presence without locking a product built around personalized meal guidance into a rigid visual language."
+    },
+    {
+      "url": "https://www.baselinedesign.com/posts/the-window-with-no-buttons?utm_source=tldrdesign",
+      "title": "The Window with No Buttons",
+      "summary": "Style Dictionary, Storybook, and AI coding agents all run from the terminal, a blank window that feels like a wall to designers used to canvases."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/10/french-concept-artist-uses-razor-sharp-shapes-and-neon-colors-to-create-the-most-dynamic-characters-you-will-see-today/?utm_source=tldrdesign",
+      "title": "French Concept Artist Uses Razor-Sharp Shapes and Neon Colors to Create the Most Dynamic Characters You Will See Today",
+      "summary": "François Bourdin, a French freelance concept artist, character designer, and illustrator in Nantes, creates dynamic characters from razor-sharp angular linework and vivid, saturated neon palettes."
+    }
+  ]
+}

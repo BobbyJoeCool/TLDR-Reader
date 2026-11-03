@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-11-03",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.socialmediatoday.com/news/google-says-ai-chatbots-are-hurting-its-bottom-line/873401/?utm_source=tldrmarketing",
+      "title": "Google says AI chatbots are hurting its bottom line",
+      "summary": "Google's AI search features are putting pressure on its core advertising business. Search volume growth slowed from 19% in Q1 to 12% in Q3 while search revenue remained flat. Google says AI Mode queries generate less ad revenue and plans to expand ads across AI Overviews and AI Mode to offset the impact. As more users turn to chatbots for answers, Google faces a challenge in maintaining ad revenue while investing in increasingly costly AI features."
+    },
+    {
+      "url": "https://ecommerceresearch.org/chatgpt-ads/?utm_source=tldrmarketing",
+      "title": "Can Advertising Fund Free AI? Evidence from ChatGPT's International Advertising Rollout",
+      "summary": "ChatGPT's current advertising model cannot yet fund free access because its ads deliver less value to advertisers than established search channels. Ads reduced organic referral traffic by 6% to 8%, but conversion rates remained unchanged at 2.21%. Paid ChatGPT visitors generated $0.89 in revenue per session compared with $2.45 for Google Search and converted at less than a third of the rate. ChatGPT would need to lower ad prices substantially to compete with Google and make its free tier financially sustainable."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/jacksonblackledge_low-hanging-fruit-any-brand-can-take-advantage-share-7522992020928352257-nFe3/?utm_source=tldrmarketing",
+      "title": "Low-hanging fruit for demand gen: Offer-focused image ads",
+      "summary": "Drive Q4 sales with offer-focused Google Demand Gen image ads promoting deals like free gifts or limited-time drops. Use a simple layout that puts the product front and center alongside its biggest benefit and a high-contrast offer badge. Highlight 3-6 features, then test benefit-driven and curiosity-driven headlines. Descriptions can expand on the benefits or reinforce the deal with social proof."
+    },
+    {
+      "url": "https://www.marketingideas.com/p/substack-is-a-0-cheat-code-for-your?utm_source=tldrmarketing",
+      "title": "Substack is a $0 cheat code for your brand",
+      "summary": "Substack can send a newsletter roughly 50X more subscribers than Google, since every signup surfaces a few newsletters the writer recommends. Companies are tapping that loop with behind-the-scenes posts from the people building the product. PostHog recommends 10 engineering newsletters that all recommend it back, while Ramp gets a recommendation from TBPN's Substack as part of its sponsorship. Substack's audience stats rank which newsletters already share a brand's readers, pointing to the best swap partners."
+    },
+    {
+      "url": "https://algos.wiki/?utm_source=tldrmarketing",
+      "title": "Algos Wiki (Website)",
+      "summary": "Algos.wiki is an unofficial, AI-powered encyclopedia of Instagram's algorithm that organizes information from platform announcements and leadership interviews into searchable topics. Use it to research how content is ranked and recommended, including how posting times and shares affect reach. It also tracks algorithm updates and links to supporting sources."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/company/app-growth-annual-2026-workshops?utm_source=tldrmarketing",
+      "title": "6 App Growth Annual workshops you can watch for free (+ presenter slides)",
+      "summary": "RevenueCat has made 6 App Growth Annual workshops free to watch, with presenter slides and handouts. Sessions cover mining customer feedback to write higher-converting copy and researching users to drive organic downloads. Others show how to use competitor ads to create AI-generated creatives and automate Meta ad research and optimization with AI."
+    },
+    {
+      "url": "https://www.agenticlandmark.com/brief/reach-is-not-proof/?utm_source=tldrmarketing",
+      "title": "Reach is not Proof",
+      "summary": "Retailer-owned shopping agents have the strongest evidence of sales impact, while ChatGPT and Google have massive reach but no published purchase results. Amazon reports nearly $12B in incremental annualized sales from its assistant, while Walmart says Sparky users spend 40% more per order. Brands should make product data complete and accessible so agents can accurately evaluate and recommend their products. AI-driven discovery is already happening, but sales impact remains unproven across most categories."
+    },
+    {
+      "url": "https://insight.kellogg.northwestern.edu/article/when-bundling-hurts-the-bottom-line?utm_source=tldrmarketing",
+      "title": "When Bundling Hurts the Bottom Line",
+      "summary": "When demand far outstrips inventory, selling items separately beats package deals and earns nearly as much as the best possible bundling mix. Bundling works with ample stock because it averages out how much each buyer values each item, widening the customer base. Under scarcity, that same averaging caps how high a bundle can be priced, while separate prices capture each item's top bidders. Selling separately can start to win once available inventory falls below about 30-60% of potential customers."
+    },
+    {
+      "url": "https://x.com/NamanyayG/status/2116954266640519242?utm_source=tldrmarketing",
+      "title": "How I get 1M views/week for my startup",
+      "summary": "A founder shares his Reddit growth strategy, from content creation to building trust without hard-selling."
+    },
+    {
+      "url": "https://www.marketingdive.com/news/what-reddits-q3-earnings-mean-for-marketers-amid-major-traffic-shift/873386/?utm_source=tldrmarketing",
+      "title": "What Reddit's Q3 earnings mean for marketers amid major traffic shift",
+      "summary": "Reddit's referral traffic is falling by over 1M visits per week as Google's AI Overviews reduce clicks to the platform."
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage?utm_source=tldrmarketing",
+      "title": "‘The content creator election': digital streamers and TV networks face off for midterms coverage",
+      "summary": "Former TV journalists are launching independent election-night livestreams on YouTube and Substack, challenging traditional networks as creator-led news gains traction."
+    }
+  ]
+}
