@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-09-23",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/?utm_source=tldrnewsletter",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "summary": "Anthropic and OpenAI both released new models within an hour of each other. OpenAI's GPT-6 Sol and Luna are half the price of the promotional pricing for GPT-5.6 equivalents. Opus 5.5 is cheaper per token than Opus 5.0 and has the intelligence of Fable 5.1. It is very token efficient and works across every effort level."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDEzNjYxNCwiZXhwIjoxNzkwNzQxNDE0LCJhcnRpY2xlSWQiOiJUTEg1UVhLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.AtCpENNe4dQed0J88CommJlysQU47Ou9UWvQ6jtGh7c&utm_source=tldrnewsletter",
+      "title": "Apple Developing New Fitness Tracker Aimed at Rivaling Whoop",
+      "summary": "Apple is developing a screenless health and fitness tracker as part of an effort to rethink its smartwatch lineup and add new wearable technologies. The project is still in a preliminary phase and likely won't debut before 2028. Apple is working on a major update to its smartwatch lineup for release as early as late 2027."
+    },
+    {
+      "url": "https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development/?utm_source=tldrnewsletter",
+      "title": "Intrinsic open sources key parts of its platform for easier development",
+      "summary": "Intrinsic Core is an open source set of Robot Operating System-compatible capabilities for building robotic applications. The capabilities act like the building blocks of robot behavior. The release allows users to quickly and easily combine capabilities to achieve adaptive AI systems. The capabilities are ROS-compatible."
+    },
+    {
+      "url": "https://www.sciencealert.com/alzheimers-is-no-longer-an-untreatable-disease-major-report-concludes-heres-why?utm_source=tldrnewsletter",
+      "title": "Alzheimer's Is No Longer an Untreatable Disease, Major Report Concludes. Here's Why",
+      "summary": "There are currently hundreds of clinical trials worldwide investigating possible medicines, new diagnostic options, and lifestyle interventions to identify, treat, or delay cognitive decline. The possibility of a cure is still far away, but it now seems more possible than ever before. Alzheimer's disease is being increasingly viewed as a condition for which earlier diagnosis, better understanding of disease biology, and a wider range of interventions may collectively improve outcomes. There is now a genuine case for optimism."
+    },
+    {
+      "url": "https://github.com/run-llama/liteparse?utm_source=tldrnewsletter",
+      "title": "LiteParse (GitHub Repo)",
+      "summary": "LiteParse is a standalone OSS PDF parsing tool. Focused exclusively on fast and light parsing, it provides high-quality spatial text parsing with bounding boxes, without proprietary LLM features or cloud dependencies. It runs everything locally. A cloud-based version of the tool is available."
+    },
+    {
+      "url": "https://danluu.com/bug-blind/?utm_source=tldrnewsletter",
+      "title": "Bug blindness",
+      "summary": "Some bugs give normal users such a bad experience that they tell their friends about it. Developers and advanced users can be blind to these bugs because they're used to performing the non-intuitive workarounds required to get around them. Humans have a high ability to ignore the negatives in things they like. Being open to criticism can help developers notice more flaws in their work."
+    },
+    {
+      "url": "https://epoch.ai/publications/the-plunging-price-of-thought?utm_source=tldrnewsletter",
+      "title": "The plunging price of thought",
+      "summary": "The cost of a given level of AI performance has fallen an average of around 47% per quarter over the past three years. AI spending can still remain high despite falling prices. Lower prices allow for more agents to be run. Also, AI's ability keeps rising, and the price of harder tasks is higher."
+    },
+    {
+      "url": "https://blog.staysaasy.com/p/defensive-driving-for-your-career?utm_source=tldrnewsletter",
+      "title": "Defensive Driving For Your Career",
+      "summary": "To have a positive career, you need to be appropriately recognized and rewarded for your work. Take public credit in a way that isn't obnoxious or wasteful. Don't let anyone lie about you, and beware of people who think you got lucky. Maintain leverage at all times - leverage mainly comes from your ability to walk a valuable asset (your labor) out the door."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/mysteries-of-ai-generalization?utm_source=tldrnewsletter",
+      "title": "Mysteries Of AI Generalization",
+      "summary": "We still don't understand what's going on with AI generalization."
+    },
+    {
+      "url": "https://blog.senko.net/analyzing-jev-a-new-ai-model?pk_campaign=rss-feed&amp;utm_source=tldrnewsletter",
+      "title": "Analyzing Jev, a new AI model",
+      "summary": "Jev is a close relative of LLMs, but it is actually more similar to the BERT series of models, which are used for classification, not generation."
+    },
+    {
+      "url": "https://probablydance.com/2026/09/22/the-mundanity-of-excellence-small-wins-and-why-you-should-fix-bugs-before-writing-new-features/?utm_source=tldrnewsletter",
+      "title": "The Mundanity of Excellence, Small Wins, and Why You Should Fix Bugs Before Writing New Features",
+      "summary": "If you don't fix your bugs, your code will be built on an unstable foundation."
+    },
+    {
+      "url": "https://policygradients.thefai.org/p/ai-will-worsen-our-estimates-of-gdp?utm_source=tldrnewsletter",
+      "title": "AI will worsen our estimates of GDP",
+      "summary": "AI will make GDP estimation difficult because it is hard to measure quality."
+    },
+    {
+      "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/?utm_source=tldrnewsletter",
+      "title": "Shuffling the deck chairs: Xbox continues its “reset” with dramatic restructuring",
+      "summary": "Xbox has announced a radical restructuring of its internal studios designed to reduce the independence of some of its teams."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/21/us/politics/amazon-drone-delivery-texas.html?unlocked_article_code=1.C1E.QIHL.7qTJRR5Uj6n4&smid=bs-share&utm_source=tldrnewsletter",
+      "title": "It's Raining Boxes: Amazon Drones Overwhelm a Texas Suburb",
+      "summary": "Those living closest to the Amazon flight paths are hearing constant noise from the drones."
+    }
+  ]
+}

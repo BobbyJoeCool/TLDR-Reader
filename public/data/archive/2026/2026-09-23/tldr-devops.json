@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-09-23",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://prometheus.io/blog/2026/09/21/otel-prometheus-interoperability-survey/?utm_source=tldrdevops",
+      "title": "Prometheus and OpenTelemetry interoperability in 2026 - Survey results",
+      "summary": "A survey of 81 active OpenTelemetry users found that the average rating for ease of use with Prometheus rose to 3.6 in 2026, up from 3.1 in 2024. No respondents this year described the interoperability as \"very difficult.\" Nearly half of participants use a hybrid approach for infrastructure metrics, mixing Prometheus and OpenTelemetry instrumentation styles."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/?utm_source=tldrdevops",
+      "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta, enabling it by default. The PVC protection controller adds an Unused condition to each PersistentVolumeClaim to indicate whether a running pod references it. This eliminates the need for custom tooling to identify orphaned storage. Administrators can use the condition's timestamp to find PVCs that have been idle for specific periods."
+    },
+    {
+      "url": "https://blog.cloudflare.com/python-workers-ga/?utm_source=tldrdevops",
+      "title": "Python Workers are now generally available",
+      "summary": "Python Workers are now generally available on the Cloudflare Developer Platform. The runtime natively supports Cloudflare bindings, so developers can connect to services like R2 and D1 without writing JavaScript code. Users can also run frameworks like FastAPI, Django, and Flask or integrate AI libraries like langchain and openai."
+    },
+    {
+      "url": "https://htmx.org/essays/markdown-in-src/?utm_source=tldrdevops",
+      "title": "Markdown in /src",
+      "summary": "Markdown can serve as the durable source of intent for agent-generated software, capturing architectural, data, API, and implementation decisions that would otherwise disappear in ephemeral prompt sessions. Keeping that Markdown alongside code in /src makes it diffable, reviewable, and available to both humans and agents, while tests can be derived from it to verify the resulting implementation."
+    },
+    {
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/?utm_source=tldrdevops",
+      "title": "What Sun got wrong",
+      "summary": "Sun Microsystems paired strong technology and strategy with weak operational execution, including basic failures in sales and customer responsiveness. A 2005 startup running OpenSolaris tried to buy Sun hardware but struggled to get a response, while Dell quickly handled pricing, financing, and delivery—an example of how neglecting the mechanics of running the business can erase technical advantages."
+    },
+    {
+      "url": "https://platformengineering.org/blog/cutting-ci-pipeline-time-by-64-what-actually-works-in-production?utm_source=tldrdevops",
+      "title": "Cutting CI pipeline time by 64%: What actually works in production",
+      "summary": "An engineering team reduced their Merge Train pipeline duration from one hour to 22 minutes, a 64% reduction. They achieved this while growing their test suite by 90% and improving CI health from 82% to above 90%. Infrastructure costs rose roughly 10%, but the team estimates they regained over 1,300 engineer hours previously lost to delays and retries. Key changes included upgrading to Intel hardware and separating service tests from browser-based tests."
+    },
+    {
+      "url": "https://github.com/superdesigndev/treg?utm_source=tldrdevops",
+      "title": "Treg (GitHub Repo)",
+      "summary": "Treg provides a unified API proxy for over 3,000 endpoints across 60+ providers, covering categories like SEO, social media, and company enrichment. The service allows agents to make calls starting at one cent using a shared pool of provider accounts. Users can avoid monthly subscriptions for tools like Semrush or Moz by paying per call, or they can connect their own keys for unmetered access."
+    },
+    {
+      "url": "https://github.com/google/ax?utm_source=tldrdevops",
+      "title": "Ax (GitHub Repo)",
+      "summary": "AX is a high-throughput, declarative orchestrator designed to run billions of autonomous agent workloads in a Kubernetes cluster. The tool provides primitives to isolate agents, fence their networks, and prevent runaway costs. It is currently under active development, with warnings that major breaking changes will likely occur before a stable release."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/?utm_source=tldrdevops",
+      "title": "Google Named a Leader in the External Threat Intelligence Service Forrester Wave",
+      "summary": "Forrester named Google a Leader in its External Threat Intelligence Service Providers Wave for Q3 2026, citing perfect scores across nine criteria and autonomous Gemini-powered agents for triage, detection engineering, and threat hunting that customers say surface 139 percent more threats."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/09/microsoft-taugrid-open-source/?utm_source=tldrdevops",
+      "title": "Microsoft Open-Sources TauGrid to Simplify AI Workload Management on Kubernetes",
+      "summary": "Microsoft has open-sourced TauGrid, a Kubernetes platform that unifies scheduling, queuing, and monitoring for GPU-based AI training and inference through a single Helm install, built on Kueue and KubeRay, with planned support for multi-tenant workspaces and DeepSpeed and LoRA workflows."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/09/tanstack-charts-alpha-introduced/?utm_source=tldrdevops",
+      "title": "TanStack Charts Introduced with a Framework Agnostic Grammar of Graphics for TypeScript",
+      "summary": "Tanner Linsley released TanStack Charts, a framework-agnostic, grammar-of-graphics charting library for TypeScript built largely with AI coding agents, working across React, Vue, Svelte, and other frameworks while remaining in Alpha with a smaller bundle size than Chart.js or Observable Plot."
+    },
+    {
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/?utm_source=tldrdevops",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "summary": "LLMs can generate working code without developing the long-term judgment needed to keep systems maintainable, because qualities like good architecture and evolvability often reveal themselves only months or years later."
+    }
+  ]
+}

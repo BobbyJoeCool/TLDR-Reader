@@ -1,0 +1,93 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-09-23",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/?utm_source=tldrai",
+      "title": "GPT-6 Sol and Luna",
+      "summary": "OpenAI introduced GPT-6 Sol and Luna as faster, more affordable counterparts to GPT-6 Astra, bringing advances in coding, factuality, computer use, and professional tasks to lower-cost models."
+    },
+    {
+      "url": "https://www.anthropic.com/claude-opus-5-5?utm_source=tldrai",
+      "title": "Claude Opus 5.5",
+      "summary": "Anthropic introduced Claude Opus 5.5, saying it matched Claude Fable 5.1 on most work while costing 40% less to run than Opus 5. The model also underwent external evaluations and achieved Anthropic's strongest result to date on its automated behavioral audit."
+    },
+    {
+      "url": "https://labs.scale.com/leaderboard/swe_bench_pro_public_v2?utm_source=tldrai",
+      "title": "SWE-Bench Pro V2",
+      "summary": "SWE-BENCH PRO V2 releases with 642 tasks from 11 repositories, correcting previous task errors and optimizing evaluation processes. Performance drops for AI models, with OpenAI GPT-5 and Claude Opus 4.1 only scoring around 23% on the public set, highlighting the benchmark's increased challenge and realism compared to SWE-Bench Verified. Notably, top models show consistent results across tasks and languages, while smaller models falter under complex, multi-file scenarios."
+    },
+    {
+      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5?utm_source=tldrai",
+      "title": "What a task costs on Opus 5.5",
+      "summary": "Opus 5.5 reduces token costs by offering cheaper input and output tokens, with additional savings from extensive use of cache reads. Transaction costs depend on the number of turns, cache utilization, and model selection, impacting tasks based on session length and complexity."
+    },
+    {
+      "url": "https://www.perplexity.ai/hub/blog/learning-from-real-world-experience?utm_source=tldrai",
+      "title": "Training AI From Real-World Tool Use",
+      "summary": "Perplexity combined rejection sampling fine-tuning with hint-guided self-distillation so its Computer model could learn from both successful sessions and user-corrected failures."
+    },
+    {
+      "url": "https://x.com/tbpn/status/2102177383306670393?utm_source=tldrai",
+      "title": "Vinod Khosla's Two Moats for Personal AI",
+      "summary": "Personal AI may ultimately compete on two moats: trust and task completion. Vinod Khosla says users will stay loyal to companies they trust with sensitive data and products that reliably finish work, while Meta faces a trust disadvantage."
+    },
+    {
+      "url": "https://regularized-rsi.com/?utm_source=tldrai",
+      "title": "Google Publishes RRSI for Self-Improving AI Agents",
+      "summary": "Google has introduced RRSI, a method that regularizes how AI agent harnesses recursively improve themselves to reduce benchmark overfitting and encourage changes that transfer to new tasks. Across eight benchmarks, it improved out-of-distribution performance while using fewer policy tokens."
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.14306?utm_source=tldrai",
+      "title": "Keeping Large MoE Training Within Fixed GPU Memory",
+      "summary": "A set of scheduling techniques bounds four major memory bottlenecks in large-scale MoE training, expert dispatch, vocabulary projection, checkpointing, and optimizer state, without approximating the computation."
+    },
+    {
+      "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/?utm_source=tldrai",
+      "title": "Hardware-Agnostic Models in vLLM",
+      "summary": "vLLM introduces hardware-agnostic layers to support models across diverse hardware while maintaining high performance. These layers achieve up to 96.6% efficiency of native implementations on NVIDIA H100 GPUs while remaining torch compilable and extensible. This ensures vLLM adapts to new GPU advancements without neglecting users of older and niche accelerators."
+    },
+    {
+      "url": "https://thenextweb.com/news/cxmt-dram-fifth-generation-mass-production-memory-shortage?utm_source=tldrai",
+      "title": "China's biggest memory maker says it has caught up with Samsung and Micron",
+      "summary": "ChangXin Memory Technologies, China's largest maker of DRAM, says that its process capabilities are now on par with the most advanced mass-produced nodes in the industry. The company's fifth-generation DRAM platform has entered mass production. The platform yields at least 50% more dies per wafer than the previous generation. There are already two products running on the platform, both 24-gigabit LPDDR5X and holding 50% more data than the equivalent chips CXMT made before."
+    },
+    {
+      "url": "https://thenextweb.com/news/biological-computing-co-aws-neuron-derived-ai-video-model?utm_source=tldrai",
+      "title": "The Biological Computing Co. partners with AWS to sell its neuron-derived AI video model",
+      "summary": "The Biological Computing Co. is a startup that grows living neurons to improve AI models. It has partnered with AWS to bring a neuron-derived AI video model to paying customers. The neurons themselves will stay in the lab. TBC uses them during discovery, then turns what they learn into a lightweight software layer. The design means that customers won't need to maintain any biological hardware or change how they work. The optimized model runs on standard GPUs and cloud accelerators at the same capacity a company would rent for any other generative model."
+    },
+    {
+      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html?utm_source=tldrai",
+      "title": "GPT-6 Astra Breaks an Old Enigma Message",
+      "summary": "GPT-6 Astra analyzed the still-unbroken Enigma messages and decided the most promising message was Nr. 172, MVUEH."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html?utm_source=tldrai",
+      "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
+      "summary": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei will address the UN Security Council on AI safety and regulation amid mounting concerns about AI risks."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/?utm_source=tldrai",
+      "title": "Meta admits Muse's likeness to OpenClaw isn't a coincidence",
+      "summary": "Meta admits Muse draws heavy inspiration from the open-source project OpenClaw, despite being built from scratch."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2102311135441547405.html?utm_source=tldrai",
+      "title": "People need to start paying attention to the issue of derived data in AI training",
+      "summary": "Derived data is creative content that is rewritten by AI before it is trained on."
+    },
+    {
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6/?utm_source=tldrai",
+      "title": "Better GPT-6 Prompt Caching",
+      "summary": "OpenAI improved prompt caching for GPT-6 with higher default cache hit rates, discounts for shared prefixes reused within 30 minutes, and new tools for monitoring and diagnosing cache performance."
+    },
+    {
+      "url": "https://earnedintuition.substack.com/p/involution-without-export-is-wasted?utm_source=tldrai",
+      "title": "Involution Without Export Is Wasted Effort",
+      "summary": "If you don't go overseas, all that grinding was for nothing."
+    }
+  ]
+}

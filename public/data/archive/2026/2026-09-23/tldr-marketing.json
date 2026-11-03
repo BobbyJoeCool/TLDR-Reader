@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-23",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://searchenginewatch.com/googles-own-notebooklm-becomes-a-target-for-parasite-seo/?utm_source=tldrmarketing",
+      "title": "Google's own NotebookLM becomes a target for parasite SEO",
+      "summary": "A public Google NotebookLM report was cited as an AI Overview source within 24 hours of being published. Public notebooks promoting e-bike and peptide coupon codes, crypto refunds, backlink tools, and Instagram-engagement services are now showing up indexed on Google's own domain, borrowing ranking trust that a standalone site wouldn't have. Blocking crawler access and adding noindex work differently, too, and applying either broadly would also remove the legitimate study guides and business manuals the feature was built for."
+    },
+    {
+      "url": "https://www.brainlabsdigital.com/reddit-ads-evolving-beyond-upper-funnel-marketing/?utm_source=tldrmarketing",
+      "title": "It's Time to Rethink Reddit's Role in the Media Plan",
+      "summary": "Reddit can now play a broader role in media plans because its users already show strong purchase intent across categories, not just gaming or IT. New bidding options, lead generation, and age targeting give advertisers more control, and early tests of the new bidding structures showed a 15% reduction in CPA. Brands can treat Reddit as a performance channel when they have a strong measurement framework, rather than limiting it to experimental or upper funnel spend. Reddit still needs to preserve the authenticity that creates its value, since making ads too intrusive could undermine the user behavior that generates purchase intent in the first place."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/carterwirig_this-is-the-craziest-seo-opportunity-ive-share-7507871339580583937-s8hd/?utm_source=tldrmarketing",
+      "title": "Add target keywords in the first lines of LinkedIn posts",
+      "summary": "Put target keywords in the first 1-2 lines of LinkedIn posts because LinkedIn uses the opening text in the post URL slug. This can create a public connection between your name and the terms you want to rank for, helping Google surface your LinkedIn content for relevant searches."
+    },
+    {
+      "url": "https://themarketinglabuk.substack.com/p/your-content-isnt-bad-but-nobody?utm_source=tldrmarketing",
+      "title": "Your Content Isn't Bad, But Nobody Knows Why They Should Care",
+      "summary": "The clearest diagnostic is whether someone could describe what a brand talks about in one sentence when recommending them to a friend, and a vague answer usually means the positioning, not the writing, is the problem. People don't follow accounts they vaguely find interesting - they follow accounts that feel predictable in a good way, recognizable rather than random. A content pillar, a specific territory like social strategy or industry trends rather than an occasional topic, gives someone a consistent answer to that test instead of a different subject every day."
+    },
+    {
+      "url": "https://audacyinc.com/state-of-audio/fall-2026/?utm_source=tldrmarketing",
+      "title": "The New Rules of Podcast Advertising",
+      "summary": "Podcast advertising is evolving as video and creator-led formats reshape how brands reach listeners. This guide looks at how video affects podcast performance, why audiences skip fewer ads than expected, and why smaller shows can outperform larger ones."
+    },
+    {
+      "url": "https://www.orbitmedia.com/blog/blogging-statistics/?utm_source=tldrmarketing",
+      "title": "Blogging Statistics 2026",
+      "summary": "Reported blog performance just hit an all-time low, with only 13.9% of respondents calling results strong, and the cause traces back to abandoned tactics rather than AI. Influencer collaboration, the single strongest predictor of success in the dataset at 2.6x the benchmark, has dropped from 25% of respondents in 2017 to 7% today, while original research, keyword research, and formal human editing have all declined too. AI use jumped from near zero to 92% in three years, yet users and non-users report strong results at the same rate, with only non-users skewing toward disappointing ones."
+    },
+    {
+      "url": "https://app.sciencesays.com/p/how-to-use-ai-to-be-more-creative?utm_source=tldrmarketing",
+      "title": "How to use AI to be more creative",
+      "summary": "Refining an idea with AI made it rated 30% more creative than not using AI at all, though the type of AI feedback needs to match the idea's maturity. Mature ideas refined through AI-written text came out 18% more creative than the same ideas refined through AI-generated images. Vague ideas benefited more from AI images instead. Images make an idea feel finished and discourage further refinement, while text leaves gaps that force more imaginative thinking."
+    },
+    {
+      "url": "https://lbbonline.com/news/the-best-brands-make-themselves-at-home?utm_source=tldrmarketing",
+      "title": "The Best Brands Make Themselves at Home",
+      "summary": "Brands are optimising for visibility when they should be building memory. As AI makes it easier to produce more content, physical brand objects can create lasting connections that digital ads often lack. The strongest objects are distinctive enough to identify without a logo, useful or emotionally meaningful enough to keep, and rooted in something the brand genuinely owns. Starting with what a brand can make rather than what content a channel needs can lead to fewer, more memorable ideas that generate organic digital content."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/08/opinion/gen-z-tiktok-ig-reels.html?campaign_id=190&emc=edit_ufn_20260913&utm_source=tldrmarketing",
+      "title": "The Truth About Brain Rot: It's a Cry for Help",
+      "summary": "“Brain rot” may look like evidence of declining attention spans, but Gen Z participants describe it as a response to an attention economy that constantly demands engagement. Absurd, meaningless content can feel like a break from polished, monetized media, even as endless scrolling leaves people drained and guilty. The deeper problem is the social media infrastructure that optimizes for attention rather than users' well-being."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/nmlakar_ive-spent-the-last-3-years-literally-studying-share-7505602919862403072-lI1v/?utm_source=tldrmarketing",
+      "title": "7 content resources to add to your watch list",
+      "summary": "A list of videos and podcasts on modern copywriting, personal brand building, and cultivating curiosity."
+    },
+    {
+      "url": "https://www.pocketgamer.biz/applovin-grows-60-yy-rounding-to-20bn-in-annual-platform-ad-spend/?utm_source=tldrmarketing",
+      "title": "AppLovin grows 60% Y/Y rounding to $20bn in annual platform ad spend",
+      "summary": "Over a billion people play mobile games daily, and relevant in-game ads are treated as a discovery mechanism for products that those players were not already seeking."
+    }
+  ]
+}

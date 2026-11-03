@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-09-23",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://adenlbarton.substack.com/p/ai-is-erasing-the-lines-between-jobs?utm_source=tldrfounders",
+      "title": "AI is erasing the lines between jobs",
+      "summary": "AI is making jobs become much more interdisciplinary and require higher-level thinking as a result. Commercial employees' work is becoming more technical, and R&D employees' work is becoming less technical. AI serves as an effective boundary-spanning mechanism that helps professionals reason across traditional domain boundaries and approach problems more holistically. It is making less and less sense to define oneself by a narrow task bag."
+    },
+    {
+      "url": "https://x.com/Alfred_Lin/status/2102394801790632127?utm_source=tldrfounders",
+      "title": "Excellence in Customer Service",
+      "summary": "Customer service may end up being the ultimate differentiator in a world where it's easier than ever to start and scale a new business. Start by developing a culture that obsesses over the customer and their entire experience from beginning to end. Every interaction is an opportunity to deliver a branded experience. Deliver a different, better experience, and focus on the right critical input metrics. Don't just run by the numbers - use the rich context about the customer experience that your customer service teams have."
+    },
+    {
+      "url": "https://ilyastrebulaev.substack.com/p/shareholder-voting-in-startups-counting?utm_source=tldrfounders",
+      "title": "Shareholder Voting in Startups: Counting the Votes That Count",
+      "summary": "The percentage on your cap table is not the number that decides anything. Supermajorities increase the veto power of investors. One transaction may have to clear two or three separate majorities. The drag-along can compel shareholders to approve a sale that pays them nothing."
+    },
+    {
+      "url": "https://www.elenaverna.com/p/pricing-constitution?utm_source=tldrfounders",
+      "title": "Your company needs a pricing constitution",
+      "summary": "A good pricing constitution is intentionally restrictive and chooses hard trade-offs. You can tell your constitution is working when it actually costs you something. This kind of constitution is critical infrastructure if a company is going to ship in a rapid, iterative way. Everyone needs to be on the same page for pricing and the philosophy behind it so teams can make decisions for themselves and stay moving in the same direction."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/not-enough-usage-churn?utm_source=tldrfounders",
+      "title": "‘Not enough usage': your biggest churn reason is a broken habit loop",
+      "summary": "A customer selects “too expensive” when cancelling. You offer a discount, but they still don't come back. The price may have been easier to explain than why they stopped using the product. RevenueCat's data puts insufficient usage slightly ahead of price among cancellation reasons, at 37% versus 35%. This guide shows how to investigate the behavior behind those answers. Look for an action that long-term subscribers repeat during their first billing cycle, then help new users reach it. A cheaper subscription doesn't give someone a reason to open the app."
+    },
+    {
+      "url": "https://docs.stripe.com/agentic-commerce/for-agents/webmcp?utm_source=tldrfounders",
+      "title": "Use WebMCP to complete Stripe payments in a browser",
+      "summary": "WebMCP lets browser agents interact with Stripe payment UIs through structured tools registered within the webpage. Agents can complete payment flows using WebMCP tool calls rather than relying on page scraping and simulating clicks. The available tools depend on the payment UI, session state, and which form is currently active. WebMCP is still experimental, so browser support, tool availability, and tool schemas can change."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/?utm_source=tldrfounders",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "summary": "Anthropic and OpenAI both released new models within an hour of each other. OpenAI's GPT-6 Sol and Luna are half the price of the promotional pricing for GPT-5.6 equivalents. Opus 5.5 is cheaper per token than Opus 5.0 and has the intelligence of Fable 5.1. It is very token efficient and works across every effort level."
+    },
+    {
+      "url": "https://www.digitalocean.com/blog/managed-agents-public-preview?utm_source=tldrfounders",
+      "title": "Introducing DigitalOcean Managed Agents: One AI-native stack to power your intelligence",
+      "summary": "DigitalOcean Managed Agents enable teams to deploy their preferred agent harness, connect agents to over 16,000 tools, and help agents do more work at scale without building or maintaining any infrastructure themselves. It brings inference tokens, agent execution, and tool use together so teams can scale intelligence all in one place. Teams only pay for the CPU that agents actually consume with per-second active CPU billing. DigitalOcean Managed Agents is now available in public preview."
+    },
+    {
+      "url": "https://www.blog4ems.com/p/slop-grenades?utm_source=tldrfounders",
+      "title": "Slop grenades",
+      "summary": "A 'slop grenade' is bad AI-generated code that someone created, didn't properly understand, and then handed over to a reviewer to deal with. The problem is that the person who submitted the code can't fully explain the decisions behind it. This means reviewers need to work out what parts of the PR can be trusted and potentially also teach the author what their own code does. The time saved generating the code becomes someone else's work."
+    },
+    {
+      "url": "https://dfdxlabs.com/research/2026/hans-kraemer/?utm_source=tldrfounders",
+      "title": "Our agent used 5B tokens to build a business empire in 3 weeks. It made $1.54",
+      "summary": "Give an agent a server, a wallet, and three weeks, and it can produce a lot of work. In this experiment, it wrote more than 100,000 lines of code, launched 17 paid products, and published 20 blog posts. Revenue came to $1.54 against roughly $1,000 in costs. The agent was selling into an agent economy with very few actual buyers. In a survey it commissioned, 90% of respondents said they lacked a wallet or spending authority. It could keep building products, but most of its intended customers couldn't pay for them."
+    },
+    {
+      "url": "https://x.com/jasonlk/status/2102340377302937791?utm_source=tldrfounders",
+      "title": "“Buy, don't build if you can”",
+      "summary": "After building more than a dozen agents, including an AI VP of Revenue, SaaStr now builds only what it can't buy because maintaining them takes so much work."
+    },
+    {
+      "url": "https://www.breakingpoint.tech/p/local-maximums?utm_source=tldrfounders",
+      "title": "Local Maximums",
+      "summary": "Many remain stuck in \"local maximums,\" where pursuing greater happiness necessitates temporary discomfort."
+    },
+    {
+      "url": "https://www.platformaeronaut.com/p/tech-dilution-is-creeping-up-again?utm_source=tldrfounders",
+      "title": "Tech Dilution is Creeping Up Again + The Per-Employee Lens",
+      "summary": "There have been four straight quarters of increasing dilution across the board."
+    }
+  ]
+}

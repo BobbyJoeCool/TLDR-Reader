@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-09-23",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/?utm_source=tldrhardware",
+      "title": "Googlebook launches five Android-based laptops October 4, starting at $899",
+      "summary": "Google has opened preorders for Googlebook, its new premium laptop category built on Android with ChromeOS-derived foundations under the official OS name Googlebook OS, five launch models from Acer, ASUS, Dell, HP, and Lenovo priced at $899-$1,299, hitting US shelves October 4. The lineup runs on Intel Core Ultra Series 3 or Snapdragon X Elite chips with 40+ TOPS NPUs (MediaTek-powered models to follow later), a 16GB RAM baseline with 32GB options, touchscreens up to 2.8K, and bodies built from aluminum, magnesium, or carbon fiber."
+    },
+    {
+      "url": "https://www.intrinsic.ai/blog/posts/introducing-intrinsic-core?utm_source=tldrhardware",
+      "title": "Alphabet's Intrinsic Open-Sources Core Robotics Stack, Ships a Machine-Tending Reference Design",
+      "summary": "At ROSCon 2026 in Toronto, Alphabet's Intrinsic released Intrinsic Core, an Apache 2.0-licensed, ROS-compatible set of robotics capabilities pulled directly from the same platform Intrinsic uses for real manufacturing deployments, aiming to lower the barrier for developers building industrial robotics applications. The package includes a hardware-agnostic real-time control framework that lets robots dynamically adapt mid-trajectory to sensor input, 6-DoF pose estimation built on NVIDIA FoundationPose for handling parts without rigid physical fixtures, automatic motion and grasp planning, Gazebo-powered simulation, camera calibration, and pre-tuned ROS drivers for supported robots, grippers, and 3D cameras."
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20/?utm_source=tldrhardware",
+      "title": "CXMT claims fifth-gen DRAM platform matches industry's most advanced nodes",
+      "summary": "CXMT said its fifth-generation DRAM platform has entered mass production, claiming process capability \"on par with the most advanced mass-produced nodes out there in the industry.\" The company reduced the spacing of key data-storage structures to 11.95 nanometers using \"quadruple patterning,\" a technique that repeats manufacturing steps to produce finer circuit patterns without needing EUV lithography, and says the new platform yields at least 50% more dies per wafer than its fourth generation on an 8-gigabit baseline."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/?utm_source=tldrhardware",
+      "title": "Meta announces Petal, the first petabit-capacity transoceanic subsea cable, using 2-core fiber",
+      "summary": "Meta's Petal cable will span roughly 7,000km between France and the US, carrying 1 petabit per second, double the capacity of any subsea cable at transatlantic distance, becoming the first system to deploy multi-core fiber at scale. Since the 2010s, coherent optical transmission pushed fiber capacity 10x before hitting the Shannon Limit, forcing the industry toward spatial division multiplexing, adding more fiber pairs to a cable, which Meta scaled from 8 pairs on Marea to 24 on Anjana. Rather than pushing to 48 fiber pairs or widening the optical band, Petal packs 2-core fiber into a 24-pair system, physically equivalent to 48 pairs but using ultra-pure synthetic silica and carefully controlled refractive-index differences between the cores to keep crosstalk nearly immeasurable."
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/?utm_source=tldrhardware",
+      "title": "NVIDIA Isaac ROS 5.0 brings AI agents into robotics development, spans Jetson Orin Nano to Jetson Thor",
+      "summary": "NVIDIA released Isaac ROS 5.0 at ROSCon in Toronto, adding support for ROS Lyrical and Ubuntu 24.04 and contributing a vendor-neutral accelerated memory transport interface to ROS Lyrical alongside the Open Source Robotics Alliance, giving the broader 1.3-million-user ROS community a standard way to move data efficiently across different compute hardware, including GPUs."
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.21157?utm_source=tldrhardware",
+      "title": "AI agents design chips 2.6x faster by working in high-level HLS before dropping to RTL",
+      "summary": "Most LLM chip-design agents work directly at RTL, the low-level hardware description that specifies exact circuit behavior, which forces the agent to grapple with fine-grained optimization details from the very start. This paper tests whether letting agents design at a higher abstraction level first, High-Level Synthesis (HLS), which compiles from something closer to software code down into RTL, produces better results, comparing four workflows including a combined approach called Agent-based HLS with RTL Refinement (AHRR): the agent designs in HLS, then a separate refinement pass drops down to RTL to recover optimizations the higher-level abstraction misses."
+    },
+    {
+      "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops?utm_source=tldrhardware",
+      "title": "MediaTek debuts Dimensity CX C10 Max, a 3nm SoC for AI-first \"Googlebook\" laptops",
+      "summary": "MediaTek has unveiled the Dimensity CX C10 Max, the first chip in its new Dimensity Compute Experiences family, built on TSMC's 3nm process with an all-big-core octa-core CPU, an 11-core GPU, and MediaTek's 8th-gen NPU. The company claims up to 15% faster multi-thread performance and up to 50% less single-thread power draw than alternative platforms, enough efficiency headroom to enable fanless, ultra-thin laptop designs with up to 19 hours of battery life."
+    },
+    {
+      "url": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/?utm_source=tldrhardware",
+      "title": "Saudi Arabia's Ceer unveils Exobot EVs, built with BMW and Foxconn backing",
+      "summary": "Ceer, Saudi Arabia's first homegrown EV brand, unveiled the Exobot sedan and SUV, the opening two of a planned seven-vehicle lineup, at its manufacturing complex in King Abdullah Economic City. The company is a joint venture between Saudi Arabia's Public Investment Fund and Foxconn, leveraging BMW licensing for the underlying platform along with partnerships spanning Hyundai Transys and Rimac, and both Tron-esque, gullwing-doored models were built with design input personally pushed by Crown Prince Mohammed bin Salman."
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/?utm_source=tldrhardware",
+      "title": "Nvidia launches DSX Ready, a qualification program for AI factory power and cooling hardware",
+      "summary": "DSX Ready is a program that qualifies partner power and cooling products against its DSX AI factory reference design requirements, starting with battery energy storage systems and cooling distribution units."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/?utm_source=tldrhardware",
+      "title": "Qualcomm's Snapdragon 8 Elite Extreme Gen 6 runs a 30B-parameter MoE model locally on phones",
+      "summary": "Qualcomm unveiled its Snapdragon 8 Elite Gen 6 and Elite Extreme Gen 6 at its annual Snapdragon Summit, both built with a new dedicated sensing hub capable of running small models up to 200 million parameters locally."
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/cognex-acquires-realsense-500m-expand-180232165.html?utm_source=tldrhardware",
+      "title": "Cognex Acquires RealSense for $500M to Expand Robotic Vision Platform",
+      "summary": "Cognex is buying RealSense, a depth-sensing camera and vision technology business Intel spun out in 2025, for $500 million cash."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/?utm_source=tldrhardware",
+      "title": "Apple seeks direct access to OpenAI's hardware R&D records in trade secrets case",
+      "summary": "In a joint court filing, Apple asked to let its own forensic experts directly examine the digital images OpenAI's experts used to analyze former Apple engineer Chang Liu's devices, arguing its expert already found \"critical flaws\" and incorrect conclusions drawn from zero-byte files and empty metadata fields."
+    },
+    {
+      "url": "https://pandaily.com/unitree-dex5-s-22-dof-dexterous-hand-39900-rmb?utm_source=tldrhardware",
+      "title": "Unitree Launches Dex5-S, a 22-DoF Human-Sized Dexterous Hand Starting at $6,500",
+      "summary": "Unitree's Dex5-S is a five-finger robotic hand scaled to match human hand size, with every one of its 22 degrees of freedom motor-driven and backdrivable via dual-encoder control."
+    }
+  ]
+}

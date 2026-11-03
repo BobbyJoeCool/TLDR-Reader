@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-23",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/?utm_source=tldrit",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary": "A vulnerability in Meta's new macOS AI assistant allowed local apps or commands to redirect traffic, steal the user's Muse token, and effectively inherit the agent's access to files, camera, messages, and connected services. Meta has issued a hotfix, but the bigger lesson is that desktop AI agents with broad permissions create a new privileged endpoint that needs the same scrutiny as remote management and admin tooling."
+    },
+    {
+      "url": "https://news.microsoft.com/source/asia/2026/09/21/ai-ambition-into-action-microsoft-brings-ai-ready-capabilities-across-its-india-cloud-infrastructure-establishes-india-south-central-region-as-a-strategic-hub-for-asia-and-global-south?utm_source=tldrit",
+      "title": "Microsoft brings AI-ready capabilities across its India cloud infrastructure",
+      "summary": "Microsoft announced the launch of its new India South Central datacenter region in Hyderabad, designating it as a strategic hub for Asia and the Global South. The facility features AI-ready infrastructure, a resilient three-zone architecture, and zero-water mechanical cooling, advancing the company's US$20.5 billion investment in the country's cloud and AI capabilities."
+    },
+    {
+      "url": "https://assets.theregister.com/2026/09/22/20261/?utm_source=tldrit",
+      "title": "Gartner predicts 55% of enterprise VMware users will be investigating an exit by 2029",
+      "summary": "Gartner expects 55% of enterprises to begin proofs of concept for alternatives to VMware-based distributed infrastructure by 2029, up from 25% in 2026. VMware remains rated strongly on technology, but pricing changes, licensing complexity, support concerns, and migration timelines are pushing infrastructure teams to at least evaluate alternatives rather than automatically renew."
+    },
+    {
+      "url": "https://1password.com/blog/post-quantum-tls-without-code-changes?utm_source=tldrit",
+      "title": "How we deployed post-quantum TLS without any code changes",
+      "summary": "1Password explains how it extended hybrid post-quantum TLS across its first-party clients and services using an AWS load-balancer policy and a cryptographic-provider dependency change rather than rewriting application code. The interesting takeaway is less about quantum computing today and more about cryptographic agility: teams that keep crypto implementation separated from application logic can upgrade foundational security much faster."
+    },
+    {
+      "url": "https://www.jamf.com/blog/ravenna-ai-service-desk-jamf-pro-slack/?utm_source=tldrit",
+      "title": "Jamf + Ravenna: Give employees a simpler way to get Mac support",
+      "summary": "Jamf and Ravenna are integrating Jamf Pro device data and IT runbooks directly into an AI service desk in Slack. Agents can inspect device state, troubleshoot issues, retrieve FileVault recovery keys, and trigger remote-lock workflows, with IT able to require confirmation or approvals before sensitive actions run."
+    },
+    {
+      "url": "https://www.reuters.com/technology/palo-alto-networks-unveils-ai-powered-cybersecurity-service-using-claude-gpt-2026-09-22/?utm_source=tldrit",
+      "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
+      "summary": "Palo Alto Networks launched Unit 42 Continuous Frontier AI Defense, using frontier and open-weight models to continuously assess web applications, APIs, and cloud environments for vulnerabilities and attack paths. The service can also recommend remediation such as code changes and virtual patches, showing how quickly AI-assisted offensive security is becoming a commercial enterprise product category."
+    },
+    {
+      "url": "https://siliconangle.com/2026/09/22/vast-data-launches-confidential-computing-service-for-sensitive-workloads/?utm_source=tldrit",
+      "title": "Vast Data launches confidential computing service for sensitive workloads",
+      "summary": "Vast Data Inc. has announced DataEnclave, a confidential computing environment designed to allow enterprises to run advanced artificial intelligence models against sensitive data without exposing intellectual property. The new capability integrates with Nvidia Corp.'s confidential computing technology and uses hardware-isolated environments to encrypt guest memory, GPU memory, and NVLink traffic."
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/?utm_source=tldrit",
+      "title": "The new Mac mini and Mac Studio are available today",
+      "summary": "Apple's new Mac mini with M6 or M5 Pro and Mac Studio with M5 Max or M5 Ultra are now shipping. Apple is increasingly pitching these systems not just as employee desktops but as local AI compute, which could become relevant for companies evaluating on-device models, private inference, development workloads, and alternatives to usage-based cloud AI."
+    },
+    {
+      "url": "https://aminrj.com/posts/lethal-trifecta-in-production/?utm_source=tldrit",
+      "title": "The Lethal Trifecta in Production: How Enterprise Copilots Quietly Became Exfiltration Tools",
+      "summary": "Enterprise AI copilots face systemic data-exfiltration risks due to a \"lethal trifecta,\" where a model accesses private data, processes untrusted content, and retains an outbound communication path. Documented vulnerabilities like EchoLeak in Microsoft 365 Copilot and ForcedLeak in Salesforce Agentforce demonstrate that attackers can exploit these flows via zero-click emails or public lead forms. Defenses must be structural, combining least-privilege scoping, deliberate rule-of-two limitations, and explicit outbound access controls rather than relying on classifiers or allowlists."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/?utm_source=tldrit",
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "summary": "SMS first-factor sign-in is being retired beginning in February, and Microsoft is pushing enterprises toward phishing-resistant methods such as passkeys and FIDO2 security keys."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/identity-security/strengthen-your-cicd-pipeline-with-new-secure-source-manager-capabilities?utm_source=tldrit",
+      "title": "Google Cloud adds new controls to secure CI/CD pipelines",
+      "summary": "Google Cloud added new generally available Secure Source Manager capabilities aimed at protecting source repositories and CI/CD workflows from unauthorized changes and software supply-chain attacks."
+    }
+  ]
+}
