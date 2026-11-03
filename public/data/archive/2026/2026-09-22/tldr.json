@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-09-22",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.testingcatalog.com/spacexai-releases-grok-4-7-for-coding-and-knowledge-work/?utm_source=tldrnewsletter",
+      "title": "SpaceXAI releases Grok 4.7 for coding and knowledge work",
+      "summary": "SpaceXAI has released Grok 4.7, a model for coding and knowledge work. Access is now open in Cursor, Grok Build, the Grok API, third-party coding harnesses, model routers, and cloud platforms. Pricing starts at $2 per million input tokens and $6 per million output tokens. There is a 'fast' variant that offers twice the output speed at twice the price."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/?utm_source=tldrnewsletter",
+      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+      "summary": "Google's new Android-powered Googlebooks laptops are intended to be 'real' computers with premium hardware, on-device apps, and powerful development tools. The first Googlebooks are now available from several OEMs. While Chromebooks were mostly budget machines, Googlebooks are priced much higher, with only one model under a grand. AI is a core part of the Googlebooks experience - Gemini models are going to be deeply integrated with the software."
+    },
+    {
+      "url": "https://www.wsj.com/business/a-rocket-supply-crunch-is-making-it-harder-to-hitch-a-ride-to-space-883f5e53?st=bHK6VH&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+      "title": "A Rocket Supply Crunch Is Making It Harder to Hitch a Ride to Space",
+      "summary": "Many rockets under development are behind schedule. Prices for many missions are rising. SpaceX is winding down the Falcon 9 to focus on its new Starship vehicle. The company has stopped selling missions where several companies share space on a Falcon 9. Launch demand is set to outstrip supply at least through the end of the decade."
+    },
+    {
+      "url": "https://www.tanayj.com/p/agility-robotics-inside-the-first?utm_source=tldrnewsletter",
+      "title": "Agility Robotics: Inside the First US Humanoid Company to Go Public",
+      "summary": "Agility Robotics is going public through a merger with Michael Klein's Churchill Capital XI at a $2.5 billion pre-money valuation. The company's robots are deployed in a few places today and can do tasks such as moving totes, feeding lines, and tending machines. Its Digit v5 robot will be out later this year. The new robot will be able to work alongside humans rather than in a cage/workcell. It will also support fast charging, a higher payload, and swappable end effectors."
+    },
+    {
+      "url": "https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/?utm_source=tldrnewsletter",
+      "title": "A summer of AI optimization",
+      "summary": "Several open source projects recently started running faster due to being optimized with the help of AI. The techniques used to optimize these projects were well known. However, it is likely developers never tried them because it would be too risky. AI has made it cheap to try new ideas."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/21/jev/?utm_source=tldrnewsletter",
+      "title": "Jev introduces a new shape of LLM—System One, aka Decision Models",
+      "summary": "Jev is a new category of model called 'System One models' that accepts text inputs, but only returns floating point numbers corresponding to categories, yes/no questions, ratings, and associated confidence scores. It is fast and really cheap - output is free, and input is $0.042 per million tokens. The model was released just under a week ago, but the amount of activity around it has been extremely impressive."
+    },
+    {
+      "url": "https://www.strangeloopcanon.com/p/the-business-of-building-god?utm_source=tldrnewsletter",
+      "title": "The Business of Building God",
+      "summary": "It is extremely likely that AI will change employment, society, culture, and the world. However, businesses built around it will remain subject to ordinary constraints. We will soon have new superintelligences that can solve impossible problems and help with new miracles. This will open up a lot of niches to fill."
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/?utm_source=tldrnewsletter",
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "summary": "The hacker group known as TeamPCP tainted hundreds of open-source programs with its malware, stole developer accounts to perpetuate that software supply-chain hacking, and released a Dune-themed worm to automate the process. They ultimately breached more than a thousand companies. During a key moment of the group's rampage, an undercover researcher from Google infiltrated the group. This allowed Google to monitor the hacking spree from the inside, warn targets, and help disrupt TeamPCP's attempts to exploit victims."
+    },
+    {
+      "url": "https://htmx.org/essays/markdown-in-src/?utm_source=tldrnewsletter",
+      "title": "Markdown in /src",
+      "summary": "Markdown has many nice properties that make it similar to traditional source code."
+    },
+    {
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/?utm_source=tldrnewsletter",
+      "title": "dlab Open Source Week: Frontier AI on Your Own Hardware",
+      "summary": "Models that were previously out of reach are starting to be able to run on hardware people already own."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/?utm_source=tldrnewsletter",
+      "title": "Meta's Muse is outpacing ChatGPT's early mobile launch",
+      "summary": "Meta's Muse app on mobile devices has been downloaded more times in the US and Canada in its first 12 days on the market than ChatGPT was in the 12 days after its debut."
+    },
+    {
+      "url": "https://spyglass.org/why-didnt-google-build-muse/?utm_source=tldrnewsletter",
+      "title": "Why Didn't Google Build Muse?",
+      "summary": "We are likely just a few months away from some kind of personal assistant AI within Google Search."
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/?utm_source=tldrnewsletter",
+      "title": "Meta's AI agent has been blocked from using Amazon.com",
+      "summary": "Amazon's Conditions of Use do not allow continued access by unauthorized AI agents."
+    },
+    {
+      "url": "https://stratechery.com/2026/frontier-overhangs/?utm_source=tldrnewsletter",
+      "title": "Frontier Overhangs",
+      "summary": "Pacing the frontier happens to address several distinct problems faced by the frontier lab."
+    }
+  ]
+}

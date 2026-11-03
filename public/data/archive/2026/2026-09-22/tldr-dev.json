@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-09-22",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://linear.app/now/ci-bottleneck-reworked?utm_source=tldrdev",
+      "title": "AI Coding Has Made CI a Bottleneck, So We Reworked Ours to Keep Up",
+      "summary": "Linear cut average pull request wait time from more than six minutes to just over five, even as its test suite nearly quadrupled, while halving runner time per test. The changes combined faster third-party runners, lighter gating jobs, less repeated setup, and more efficient test execution."
+    },
+    {
+      "url": "https://htmx.org/essays/markdown-in-src/?utm_source=tldrdev",
+      "title": "Markdown in /src",
+      "summary": "Agentic coding is turning Markdown from documentation into an executable source artifact that should live beside the code it generates. HTMX's proposed workflow derives code and tests from durable Markdown specifications instead of leaving intent trapped in disposable prompt sessions."
+    },
+    {
+      "url": "https://archerhume.com/posts/jevs-architecture-unmasked?utm_source=tldrdev",
+      "title": "Jev's Architecture Unmasked",
+      "summary": "Ten thousand API probes suggest Jev is a causal decision model that shares state across isolated questions and emits decision probabilities directly instead of generating text. The strongest evidence supports direct readouts, batched question branches, and option interaction, while the sparse mixture-of-experts backbone remains speculative."
+    },
+    {
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html?utm_source=tldrdev",
+      "title": "I Don't Like LLMs",
+      "summary": "LLMs can be useful and thorough while still feeling untrustworthy because they speak with artificial confidence, invent facts, and imitate a grating human voice. Their behavior reflects the values and incentives of the companies that build them, which makes the discomfort more than a matter of style."
+    },
+    {
+      "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/?utm_source=tldrdev",
+      "title": "Do Frameworks Matter Anymore?",
+      "summary": "Frameworks still matter in AI-assisted development because they provide reusable abstractions, recognizable structure, and constraints that keep generated code coherent. Without them, coding agents tend to improvise unmaintained frameworks of their own, so the better response is to build stronger frameworks for both humans and agents."
+    },
+    {
+      "url": "https://docs.google.com/document/d/1G61uUB0FifUnmmrPzFQojZ3KpczYKmXGpgEXDJ2l_Zg/edit?utm_source=tldrdev",
+      "title": "Why Yet Another Agent?",
+      "summary": "Current coding agents inherit costly constraints from KV-cache-centric designs, including awkward model routing, upfront tool schemas, compaction, weak subagent coordination, and state corruption. A TypeSafe-centric agent could treat context as dynamic, explicit state, enabling query-aware compression, cost-aware routing, better tool selection, security-aware model policies, and cheaper background parallelism."
+    },
+    {
+      "url": "https://x.ai/news/grok-4-7?utm_source=tldrdev",
+      "title": "Introducing Grok 4.7",
+      "summary": "Grok 4.7 uses a larger base model and longer reinforcement learning to improve coding, long-running work, self-verification, and professional document tasks."
+    },
+    {
+      "url": "https://github.com/jaredpalmer/kev/?utm_source=tldrdev",
+      "title": "Kev (GitHub Repo)",
+      "summary": "Kev is a family of small, open-source decision models built on Qwen3.5 that can run locally and expose a TypeSafe System One-compatible API. The repository includes 0.8B, 4B, and 9B checkpoints, training and evaluation code, and support for yes or no, multiple-choice, and rating questions with isolated question context."
+    },
+    {
+      "url": "https://github.com/zzet/gortex?utm_source=tldrdev",
+      "title": "Gortex (GitHub Repo)",
+      "summary": "Gortex indexes code into a local graph and exposes cross-repository search, references, call chains, and impact analysis through a CLI, MCP server, API, and web interface. It supports 257 languages and claims up to 50 times fewer tokens per response than naive file reads by returning only the relevant graph context."
+    },
+    {
+      "url": "https://robocurve.org/roboharm/?utm_source=tldrdev",
+      "title": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions? (Website)",
+      "summary": "RoboHarm ran 300 trials across three robot policies and five hazardous instructions, but recorded only 22 safety refusals. The benchmark separates refusal from failure to complete a task and warns that its narrow setup uses one wording per instruction, 20 trials per condition, and five tabletop scenes."
+    },
+    {
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/?utm_source=tldrdev",
+      "title": "dlab Open Source Week: Frontier AI on Your Own Hardware",
+      "summary": "AI agents have compressed individual research projects from years to weeks or days, making isolated papers a weaker unit of contribution than reusable ecosystems. dlab's open source week packages models, training code, and hardware-conscious tooling to show that university groups can compete by building shared research infrastructure instead of chasing the largest GPU clusters."
+    },
+    {
+      "url": "https://archestra.ai/blog/we-tested-jev-on-100-real-agent-calls?utm_source=tldrdev",
+      "title": "We Tested Jev on 100 Real Agent Calls. How Easy Is It to Beat a Constant?",
+      "summary": "Tests on 100 production agent tool calls found that 79% were benign, so a classifier had to beat a constant benign baseline before its accuracy was useful. Jev's errors, class imbalance, and benchmark design show why evaluations need deployment-aware baselines and why a strong-looking score can still lose to simple code."
+    },
+    {
+      "url": "https://devfra.me/posts/pluggable-extensible-playful-devtools?utm_source=tldrdev",
+      "title": "Pluggable, Extensible, and Playful DevTools",
+      "summary": "A proposed universal DevTools ecosystem decomposes debugging capabilities into reusable, framework-agnostic modules that hosts such as Nuxt, React, Svelte, and Astro can compose while retaining framework-specific tools."
+    },
+    {
+      "url": "https://github.com/confident-ai/deepteam?utm_source=tldrdev",
+      "title": "DeepTeam (GitHub Repo)",
+      "summary": "DeepTeam is a local, open-source red teaming framework that simulates prompt injection, jailbreaking, multi-turn exploitation, and more than 50 vulnerability classes across LLM applications, agents, RAG pipelines, and chatbots."
+    },
+    {
+      "url": "https://data.agentic-system.org/?utm_source=tldrdev",
+      "title": "Open Data: A Dataset Hub for LLM Serving Research (Website)",
+      "summary": "This hub publishes production-scale request traces, GPU telemetry, and agent-serving datasets for studying batching, scheduling, cache reuse, sessions, and infrastructure behavior."
+    },
+    {
+      "url": "https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/?utm_source=tldrdev",
+      "title": "A Summer of AI Optimization",
+      "summary": "Benchmarks across six widely used open-source libraries show recent AI-assisted optimization gains ranging from 17% faster Base64 decoding to 4.9 times faster bitmap cardinality calculations, largely because cheap experimentation made more ideas worth testing."
+    }
+  ]
+}

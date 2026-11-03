@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-22",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://vercel.com/blog/ai-gateway-jev-model-launch?utm_source=tldrit",
+      "title": "Jev becomes Vercel's fastest-adopted AI model",
+      "summary": "Jev, TypeSafe AI's new model for making structured software decisions instead of generating text, became the fastest-adopted model in Vercel AI Gateway history. Nearly 13% of paid teams used it within 24 hours, highlighting growing demand for specialized models that handle agent routing, verification, and workflow decisions."
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/dsx-ready/?utm_source=tldrit",
+      "title": "Nvidia launches certification program for AI data center power and cooling",
+      "summary": "Nvidia has launched DSX Ready, a program that qualifies power and cooling systems for large AI factories. The initiative aims to help data center operators deal with increasingly tight power, cooling, water, and grid constraints as AI infrastructure scales."
+    },
+    {
+      "url": "https://www.csoonline.com/article/4223975/revoking-the-token-didnt-kill-the-backdoor.html?utm_source=tldrit",
+      "title": "Revoking the token didn't kill the backdoor",
+      "summary": "Traditional incident response steps like revoking OAuth tokens fail when an implant can dynamically replace its entire credential set and OneDrive command-and-control identity via a single remote task. Investigators should treat application registrations as the durable object of compromise rather than relying solely on token revocation, and hunt on the identity plane using cloud telemetry."
+    },
+    {
+      "url": "https://fromdata2ai.substack.com/p/who-owns-the-data?utm_source=tldrit",
+      "title": "Who Owns the Data?",
+      "summary": "Data ownership is fundamentally about accountability for business meaning, rules, and quality rather than technical possession or storage. While different teams across an organization may store, move, or consume data, business stakeholders remain responsible for defining its rules and metrics. Roles such as data owners, data stewards, and data custodians are distinct in managing enterprise data."
+    },
+    {
+      "url": "https://investors.fastly.com/news-releases/news-release-details/fastly-launches-ai-firewall-and-ai-runtime-control-secure-and?utm_source=tldrit",
+      "title": "Fastly launches runtime controls for enterprise AI",
+      "summary": "Fastly launched AI Runtime Control and AI Firewall to manage model access, spending, routing, and agent interactions from its edge platform. The company says machine-generated traffic now accounts for more than half of traffic across its network."
+    },
+    {
+      "url": "https://www.theregister.com/virtualization/2026/09/21/vmware-has-quietly-walked-back-its-smartnic-ambitions/5297654?utm_source=tldrit",
+      "title": "VMware has quietly walked back its SmartNIC ambitions",
+      "summary": "VMware has quietly stopped selling its distributed firewalls for SmartNICs, walking back ambitions to bring hyperscale networking models to on-premise private clouds. The effort involved complex microcode integration with hardware from AMD and Nvidia, but struggled with Intel chips and ultimately failed to attract paying customers as conventional NICs improved. While standalone SmartNIC sales have ended, VMware's Distributed Services Engine remains supported within its Cloud Foundation suite."
+    },
+    {
+      "url": "https://www.presidio.com/who-we-are/newsroom-press/presidio-introduces-path-enterprise-ai-lab-for-public-customer-use/?utm_source=tldrit",
+      "title": "Presidio opens enterprise AI infrastructure lab",
+      "summary": "Presidio opened its PATH AI lab to customers, allowing companies to test workloads across private cloud, public cloud, and neocloud infrastructure before committing to production deployments. The lab includes Dell servers running Nvidia B300 and RTX PRO 6000 GPUs."
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/sumo-logic-enhances-data-pipelines-advancing-its-ai-first-platform-to-lower-observability-and-security-tco-302884209.html?utm_source=tldrit",
+      "title": "Sumo Logic adds more control over observability data costs",
+      "summary": "Sumo Logic upgraded its Data Pipelines product so enterprises can filter, transform, and route telemetry before it is ingested. Its goal was to reduce observability storage costs while preparing cleaner data for AI-driven operations."
+    },
+    {
+      "url": "https://www.atlassian.com/blog/how-we-build/how-atlassian-built-scalable-synthetic-data-engine?utm_source=tldrit",
+      "title": "How Atlassian built a scalable synthetic data engine",
+      "summary": "Atlassian's Data Brewery is a scalable synthetic data engine designed to generate high-volume, product-shaped, and relationally correct datasets. The system addresses the challenge of producing realistic customer data for products like Jira and Confluence in a maintainable and extensible way for engineers."
+    },
+    {
+      "url": "https://www.cnet.com/tech/services-and-software/rathat-malware-attacks-android-phones/?utm_source=tldrit",
+      "title": "Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem",
+      "summary": "Mobile security firm Zimperium has discovered a new AI-powered Android malware named RatHat that tricks users into downloading fake applications and granting accessibility permissions."
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/09/21/3365230/0/en/kaytus-upgrades-motusai-for-on-premises-agentic-ai-token-factories.html?utm_source=tldrit",
+      "title": "On-prem AI “token factories” promise lower inference costs",
+      "summary": "KAYTUS upgraded MotusAI to let enterprises run and govern agentic AI workloads on-premises while claiming token operating cost reductions of 30–50%."
+    },
+    {
+      "url": "https://hitesh.in/2026/best-people-worst-ai-judges/?utm_source=tldrit",
+      "title": "Your best people are the worst judges of your AI pilot",
+      "summary": "To accurately evaluate an AI tool, teams should test with competent non-experts, score against internal ground truth data, and strictly track whether the model or the human solved the task."
+    }
+  ]
+}

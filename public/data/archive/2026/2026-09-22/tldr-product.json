@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-09-22",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.exe.dev/caring-vs-knowing?utm_source=tldrproduct",
+      "title": "Caring vs. Knowing",
+      "summary": "While AI lowers software development costs, supporting a growing audience demands continuous learning and quality standards. Developers face challenges in managing user diversity and the risks of unchecked customization. Ultimately, maintaining quality requires an ongoing commitment."
+    },
+    {
+      "url": "https://convivastage.wpengine.com/resource/i-gave-two-talks-at-dreamforce-a-show-where-the-stakeholder-who-matters-most-never-came-up/?utm_source=tldrproduct",
+      "title": "The stakeholder who matters most",
+      "summary": "The industry overlooks the primary stakeholder: the user. Current evaluation metrics measure machine functionality rather than whether an agent actually reduces effort for humans. Consequently, companies fail to instrument the complete customer journey, leading to hidden inference costs and unmeasured user abandonment."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/not-enough-usage-churn?utm_source=tldrproduct",
+      "title": "‘Not enough usage': your biggest churn reason is a broken habit loop",
+      "summary": "\"Not enough usage\" is the primary driver of subscription app churn, often accounting for 26% to 40% of cancellations. This churn reason is frequently due to a broken habit loop rather than a pricing problem. Using discounts to fix usage churn is ineffective because lowering the price does not restore user value or engagement."
+    },
+    {
+      "url": "https://www.thevoiceofuser.com/not-every-question-deserves-a-study/?utm_source=tldrproduct",
+      "title": "Not every question deserves a study",
+      "summary": "Every research question should be assigned a specific price in minutes, days, or an owned risk before any investigation begins. By implementing a five-step routing discipline, product teams can determine whether an answer already exists in organizational memory, warrants a rapid study, or should be bypassed entirely with an accepted risk written down."
+    },
+    {
+      "url": "https://www.aakashg.com/how-zapiers-ceo-grades-pms-on-ai-fluency/?utm_source=tldrproduct",
+      "title": "How Zapier's CEO grades PMs on AI fluency (74 minute video)",
+      "summary": "Wade Chambers discusses the company's updated AI fluency rubric, outlining expectations for PMs across capable, adaptive, and transformative levels. Zapier expects PMs to operate primarily in the adaptive tier while running occasional experiments or building transformative systems, such as company-wide AI agent frameworks."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=tldrproduct",
+      "title": "Designing AI Products and Features: Study Guide",
+      "summary": "The guide highlights key strategies for defining value propositions, crafting prompt assistance, and optimizing feature design to deliver meaningful user experiences."
+    },
+    {
+      "url": "https://www.scrum.org/resources/blog/ai-top-dysfunctional-system-1-product-backlog?utm_source=tldrproduct",
+      "title": "AI on Top of a Dysfunctional System (1): The Product Backlog",
+      "summary": "Applying generative AI to a dysfunctional product backlog masks underlying flaws by polishing artifacts without resolving root causes like missing customer evidence or decision authority. AI-generated user stories obscure a lack of real product discovery. To remain effective, product teams must maintain clear direction, authentic authority, and feedback loops tied to real outcomes."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-440-the-problem-with-putting?utm_source=tldrproduct",
+      "title": "The Problem With Putting People in Boxes",
+      "summary": "Personality labels can hide how much behavior depends on context. Understanding what causes people to switch modes may tell you more than knowing their “type.”"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tldr.tech/897f4391-66ab-44ca-a8eb-65dd9809200d?utm_source=tldr",
+      "title": "Product Manager, Applied AI at TLDR ($200k base + $60k bonus, Fully Remote)",
+      "summary": "TLDR is hiring its first PM to help build the agent-first operating layer used across the company. We're looking for a builder who has shipped real products/systems with LLMs. Click here to learn more."
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-write-an-outcome-based-okr-when-your-user-is-an-ai-agent/?utm_source=tldrproduct",
+      "title": "How to write an outcome-based OKR when your user is an AI agent",
+      "summary": "Writing outcome-based OKRs for AI agent products requires measuring human behavior rather than agent activity."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2101627512757596578.html?utm_source=tldrproduct",
+      "title": "Extracting product design decisions and domain models using AI browser tools",
+      "summary": "Tools like Codex Browser Use and the Claude Chrome Extension excel at extracting design and product decisions from existing products."
+    }
+  ]
+}

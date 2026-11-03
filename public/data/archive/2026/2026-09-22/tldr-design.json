@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-22",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitaltrends.com/phones/apple-leak-claims-20th-anniversary-iphone-will-ape-a-design-formula-from-a-decade-ago/?utm_source=tldrdesign",
+      "title": "Apple leak claims 20th-anniversary iPhone will ape a design formula from a decade ago",
+      "summary": "Apple is reportedly testing a major display redesign for its rumored 20th-anniversary iPhone Pro models, featuring larger quad-curved, nearly borderless screens with a smaller display cutout. While the current iPhone 18 Pro focuses on internal upgrades, the 2027 models could deliver a more dramatic visual refresh—though the leak reflects early prototypes, and the design may still change."
+    },
+    {
+      "url": "https://claude.com/blog/projects-redesigned?utm_source=tldrdesign",
+      "title": "Projects Redesigned: From Folder to Conversation",
+      "summary": "Claude Code projects shift from folders to a coordinator that scopes a request, delegates it across parallel threads, reviews the outputs, and assembles the result. Each thread runs as a cloud session on its own branch, and a shared memory carries context between them. The beta opens to select Claude Pro and Max subscribers, expanding to more plans later."
+    },
+    {
+      "url": "https://patentlyze.com/patent/adobe-ai-prompts-generated-what-you-hover/?utm_source=tldrdesign",
+      "title": "Adobe Patents a System That Writes AI Prompts from Whatever Your Cursor Hovers Over",
+      "summary": "Adobe's patent application describes a system that reads the context around whatever a cursor hovers over and writes the AI prompt automatically, before any click happens. The system generates content preemptively, so results appear instantly when the user finally clicks. The trade-off is wasted work every time the system guesses wrong."
+    },
+    {
+      "url": "https://buzzusborne.com/work/designing-with-ai/?utm_source=tldrdesign",
+      "title": "Designing with AI",
+      "summary": "AI expanded what designers can make, but used carelessly, it only produces average work faster. Help Scout's answer was a design.md capturing 15 years of judgment, plus a design system rebuilt over two weeks to make 200-plus primitives legible to LLMs. Within three months, designers were coding components, running local environments, and shipping selected improvements to production themselves."
+    },
+    {
+      "url": "https://www.proofofconcept.pub/p/the-design-gm?utm_source=tldrdesign",
+      "title": "The Design GM",
+      "summary": "Designers can prepare for General Manager (GM) roles by expanding their focus beyond design to take ownership of business outcomes, operations, and talent. Adopting a GM mindset means being accountable for customer value, cross-functional decisions, budgets, and long-term results, allowing designers to evolve from executing work to shaping business strategy and driving organizational success."
+    },
+    {
+      "url": "https://www.radiancekit.de/?utm_source=tldrdesign",
+      "title": "3D Gaussian Splatting on Your Mac (Website)",
+      "summary": "Create photorealistic 3D scenes from photos and videos — powered entirely by Apple Metal GPU compute on your Mac."
+    },
+    {
+      "url": "https://aarontgrogg.github.io/NoLoJS/?utm_source=tldrdesign",
+      "title": "Reduce the JS Workload with No- or Lo-JS Options (Website)",
+      "summary": "An organic collection of common JS patterns that can be replaced with just HTML, CSS, and no, or very low, JS."
+    },
+    {
+      "url": "https://www.question.design/?utm_source=tldrdesign",
+      "title": "The Designer's Toolkit for the AI Age (Website)",
+      "summary": "A curated library of production-ready components, creative coding tutorials, design process frameworks, AI workflow guides, and a live theme generator."
+    },
+    {
+      "url": "https://www.itsnicethat.com/features/wikipedia-graphic-design-spotlight-150926?utm_source=tldrdesign",
+      "title": "The mascots, design and visual history of Wikipedia, the encyclopedia that puts functionality above aesthetics",
+      "summary": "Wikipedia's enduring design is built around simplicity, accessibility, and trust, evolving only subtly while remaining highly customizable and supported by a passionate global community of volunteers. Beyond the encyclopedia itself, its visual identity extends through iconic branding like the puzzle globe, community-created mascots, creative projects, and campaigns that celebrate Wikipedia as a collaborative, human-powered ecosystem rather than just a website."
+    },
+    {
+      "url": "https://the-brandidentity.com/project/new-standard-s-gives-climate-journalism-critic-brandmelder-an-identity?utm_source=tldrdesign",
+      "title": "NEW STANDARD.S gives climate journalism critic Brandmelder an identity",
+      "summary": "Brandmelder's new identity was designed to position the climate journalism watchdog as a credible, neutral media critic rather than an activist organization. Built around a customizable dot-grid system, restrained typography, and a subtle color palette inspired by climate stripes, the branding emphasizes consistency, objectivity, and ease of use while helping the project reach mainstream news audiences."
+    },
+    {
+      "url": "https://webdesignerdepot.com/ai-can-build-your-ui-now-figma-can-tell-it-when-it-screwed-up/?utm_source=tldrdesign",
+      "title": "AI Can Build Your UI. Now Figma Can Tell It When It Screwed Up",
+      "summary": "Applitools' integration lets a Figma frame URL serve as the visual baseline, matching the test viewport and flagging where an implementation drifts from the approved design. The same September 15 release expands its Eyes MCP Server so coding agents can inspect, review, and resolve visual tests from chat. Code that runs is not the same as code that matches the design, and Figma becomes the reference that settles it."
+    },
+    {
+      "url": "https://thedesignersfieldguide.substack.com/p/your-presentations-feel-lifeless?utm_source=tldrdesign",
+      "title": "Your Presentations Feel Lifeless Because They're Missing a Villain",
+      "summary": "The villain in a design story is never a person: it is the status quo, and it is already winning when the story opens."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/20/heres-why-apple-scrapped-its-shorter-apple-pencil-designed-for-iphone-duo-report/?utm_source=tldrdesign",
+      "title": "Here's why Apple scrapped its shorter Apple Pencil designed for iPhone Duo: report",
+      "summary": "Apple scrapped its planned iPhone Duo-specific Apple Pencil due to technical issues."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-22",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.vincentschmalbach.com/why-i-am-bullish-on-chatgpt-ads/?utm_source=tldrmarketing",
+      "title": "Why I Am Bullish on ChatGPT Ads",
+      "summary": "OpenAI can build an effective ad model if it keeps ads separate from answers and clearly labels them, similar to early Google AdWords. ChatGPT Ads reached $1B in annualized revenue in under 200 days, suggesting strong advertiser demand before the format has fully matured. Running shoes, travel, and price comparisons are especially promising because users now ask ChatGPT to research these commercial decisions instead of using Google."
+    },
+    {
+      "url": "https://www.storyboard18.com/influencer-marketing/60-70-of-influencer-briefs-now-favour-mid-tier-creators-as-brands-question-cost-of-mega-influencers-ws-o-111028.htm?utm_source=tldrmarketing",
+      "title": "60-70% of influencer briefs now favor mid-tier creators as brands question cost of mega influencers",
+      "summary": "Brands are favoring mid-tier creators as engagement and measurable performance matter more than follower count. Creators with 50K–500K followers can deliver lower CPVs, while historical views, watch time, and audience fit increasingly shape pricing decisions. Mega creators still command premiums when they offer mass reach or cultural relevance, but brands are pushing for fees that better reflect expected campaign performance."
+    },
+    {
+      "url": "https://www.marketingideas.com/p/10-unconventional-ways-to-brag-about?utm_source=tldrmarketing",
+      "title": "10 unconventional ways to brag about your customers",
+      "summary": "Customer proof lands harder as a story or a stunt than as a logo row. Deel lists Snoop Dogg as a customer, Hinge commissioned novels from real couples' stories, and Shopify lit up the Las Vegas Sphere with every merchant's first sale. Smaller versions work too, like turning a \"too advanced\" one-star review into an ad or showing \"customer since\" dates under logos."
+    },
+    {
+      "url": "https://quietmoats.substack.com/p/great-products-need-great-stories?utm_source=tldrmarketing",
+      "title": "Great products need great stories",
+      "summary": "Great products still need strong stories that help people imagine how they fit into everyday life. Lead with the customer experience rather than technical capabilities, and show the human outcome the product enables. VisiCalc gave people a clear reason to buy the Apple II, while Tesla could frame FSD around making long-distance travel less exhausting rather than simply highlighting autonomous driving. Turn complex technology into a relatable vision of what life could look like."
+    },
+    {
+      "url": "https://www.semrush.com/blog/ai-citation-outreach/?utm_source=tldrmarketing",
+      "title": "AI citation outreach: a Semrush & Claude workflow",
+      "summary": "This guide provides a step-by-step workflow for using Semrush and Claude Code to find and prioritize third-party pages that influence AI citations and brand visibility. It shows how to export citation data, configure Claude to analyze hundreds of pages for gaps or inaccuracies, validate its recommendations, and turn the findings into targeted outreach. It also covers tracking publisher responses and changes in AI citations over time to measure whether the outreach improves brand visibility."
+    },
+    {
+      "url": "https://webinar.openai.com/launch-your-first-chatgpt-ads-campaign/?utm_source=tldrmarketing",
+      "title": "Set up your ChatGPT Ads for success: five best practices for creating campaigns designed to perform (Webinar)",
+      "summary": "Join the ChatGPT Ads team to explore 5 best practices for creating campaigns. Through guidance and live demos, they'll show how these practices come to life in Ads Manager. The free webinar will take place on September 24 at 9:30 AM PT."
+    },
+    {
+      "url": "https://jon4growth.substack.com/p/5-spicy-ai-marketing-takes?utm_source=tldrmarketing",
+      "title": "5 spicy AI marketing takes",
+      "summary": "AI is changing marketing without necessarily reducing demand for marketers. Leaner teams may be offset by the growing number of businesses needing distribution. Chat ads could become a major ad format as LLM usage grows. Shared repositories can preserve institutional knowledge and give AI better context. Employee-generated content can extend brand reach through trusted voices. As AI handles more digital interactions, IRL events may become more valuable for creating human connection and closing deals."
+    },
+    {
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/?utm_source=tldrmarketing",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "summary": "OpenAI's ad pixel uses a one-year __obi cookie tied to ChatGPT accounts and sends data to OpenAI when an advertiser's tag loads. It also collects hashed emails and phone numbers, unencrypted city and postal codes, and page paths containing medical and debt topics. The pixel works for logged-out users but appears limited to Chrome on Android, as iOS browsers block it."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/not-enough-usage-churn?utm_source=tldrmarketing",
+      "title": "‘Not enough usage': your biggest churn reason is a broken habit loop",
+      "summary": "Usage churn drives 26-40% of subscription app cancellations, often because users fail to build a lasting habit rather than because of price. Instead of defaulting to discounts, analyze engagement before cancellation to find where the habit loop breaks. Weak triggers may call for timely re-engagement, while poor onboarding or unclear value requires helping users reach meaningful outcomes sooner. Retention improves when the fix addresses why usage dropped rather than treating “not enough usage” as the root cause."
+    },
+    {
+      "url": "https://www.growth-memo.com/p/managing-the-ai-mandate-upward?utm_source=tldrmarketing",
+      "title": "Managing the AI mandate upward",
+      "summary": "Growth marketers have an edge over executives through their proximity to the work and understanding of LLMs."
+    },
+    {
+      "url": "https://www.adweek.com/adweek-wire/marketers-twice-as-likely-to-trust-human-reports-over-ai-despite-higher-error-rates/?utm_source=tldrmarketing",
+      "title": "Marketers Twice as Likely to Trust Human Reports Over AI, Despite Higher Error Rates",
+      "summary": "Only 35% of marketers trust AI-generated reports without checks, versus 64% for human reports."
+    }
+  ]
+}
