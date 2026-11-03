@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-09-30",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.a16z.news/p/who-gets-paid-when-ai-does-the-shopping?utm_source=tldrmarketing",
+      "title": "Who Gets Paid When AI Does the Shopping?",
+      "summary": "AI shopping assistants could weaken marketplaces' advertising and commission economics by owning the customer relationship and sending orders directly to fulfillment providers. Amazon generated $69 billion in advertising revenue in 2025, so losing control of product discovery could threaten a major profit pool even if it keeps fulfilling orders. Platforms like Shopify and Toast have more reason to welcome agents because they can gain new sales while still earning software and payments revenue. The outcome depends on whether agents create new demand or simply reroute existing orders, since new purchases can offset lower profit per order."
+    },
+    {
+      "url": "https://www.futurecommerce.com/posts/insiders-240-walmarts-collectibles-play-is-showing-us-where-retail-is-heading?utm_source=tldrmarketing",
+      "title": "Walmart's Collectibles Play is Showing Us Where Retail is Heading",
+      "summary": "Walmart is using limited-time draws to sell scarce collectibles, including basketball cards, NeeDoh toys, and Pokémon boxes. Shoppers enter during a set window and are randomly selected instead of racing to checkout. The format creates anticipation and gives collectors a reason to discuss entry rules and results online. It shows how intentional friction can turn scarce products into experiences rather than simple transactions."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/money-back-guarantee?utm_source=tldrmarketing",
+      "title": "Money-back guarantee vs. free trial: which should your subscription app run?",
+      "summary": "Asking users to pay upfront with a refund safety net lets ad campaigns optimize for real purchases instead of trial starts, giving Meta and TikTok a cleaner signal of who will pay. Few customers claim refunds, so a lower conversion rate can be offset by higher-intent subscribers. Guarantees work best in web or app-to-web funnels, since the app stores control in-app refunds."
+    },
+    {
+      "url": "https://www.linkedin.com/business/marketing/blog/linkedin-ads/how-b2b-creator-marketing-builds-buyer-trust-on-linkedin?utm_source=tldrmarketing",
+      "title": "How B2B Creator Marketing Builds Buyer Trust on LinkedIn",
+      "summary": "B2B buyers increasingly use creators for both early research and later-stage validation. However, 80% of B2B marketers say finding credible creators is their biggest hurdle. LinkedIn recommends using Creator Marketplace to vet experts by industry, role, and audience, then amplifying their content with Thought Leader Ads or BrandLink. Thought Leader Ads deliver a 252% higher CTR than standard image ads, while BrandLink campaigns see 130% higher video completion rates than in-feed ads."
+    },
+    {
+      "url": "https://maggieblackburn.beehiiv.com/p/i-went-mini-viral-on-substack-after-9-months-of-crickets?utm_source=tldrmarketing",
+      "title": "I went mini viral on Substack (after 9 months of crickets)",
+      "summary": "The author grew her Substack from 90 to 770 subscribers in four days. She did it with a reintroduction post featuring a photo, recognizable past employers, and an honest story about leaving corporate work. She then shared subscriber numbers in real time to keep momentum going. To stay consistent, she built a Claude Skill to help create Substack notes on a set cadence, then had a VA schedule them. An email is required to read the full post."
+    },
+    {
+      "url": "https://41nlpt.share-na2.hsforms.com/2yjIu8NrJTRuNUFfySOEKUg?utm_source=tldrmarketing",
+      "title": "AI and the Agency of the Future (Webinar)",
+      "summary": "Blin Kazazi and Dan Hinckley will discuss where AI fits inside an agency today. They'll cover what's changing in search and client demand, what the agency of the future looks like, and what agency owners get wrong about AI. The free webinar will take place today at 11 AM CT."
+    },
+    {
+      "url": "https://newsletter.gtmengineering.ai/p/jev-engineering-for-gtm-and-why-it?utm_source=tldrmarketing",
+      "title": "Jev: Decision AI for GTM",
+      "summary": "Jev is a new decision model that returns labels, scores, and yes/no answers with calibrated confidence instead of generated text, making it a cheap fit for classification and routing in Clay. It connects through an HTTP API column in about 10 minutes. Keep the input state short, since extra context can lower accuracy. Add an \"unclear\" option and write criteria that don't overlap. Set stricter confidence thresholds for hard-to-undo actions, then gate paid enrichment and LLM writing on the result."
+    },
+    {
+      "url": "https://morningfyi.substack.com/p/linkedin-is-my-medium?utm_source=tldrmarketing",
+      "title": "LinkedIn Is My Medium",
+      "summary": "An artist created an AI-generated version of herself who is more polished and corporate than her real-world self. She uses AI to generate LinkedIn posts and images depicting promotions, luxury offices, leadership roles, and eventually a corporate scandal. The project satirizes LinkedIn's culture of self-promotion and professional visibility while questioning where performance ends and genuine professional identity begins. The irony is that the satire itself generates visibility and could make the artist more employable."
+    },
+    {
+      "url": "https://www.courageous-careers.com/land-your-next-pmm-job?utm_source=tldrmarketing",
+      "title": "Why strong PMMs are struggling to land jobs (and what to do about it)",
+      "summary": "Strong PMMs are struggling to land jobs because companies are hiring cautiously and looking for candidates who fit specific business needs. Job seekers experience three common roadblocks: broad positioning, forgettable interviews, and explaining experience instead of demonstrating how you would solve the company's problems. The author recommends targeting your positioning around a specific type of company and using a consultative interview approach that diagnoses the company's needs, then structures answers around Process, Situation, Action, and Result. You can also stand out by creating concrete proof of how you would solve a company's problems, such as one candidate who built an ROI calculator for a final interview and had it shared across the company."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/lily-ray-44755615_i-just-checked-a-dozen-unrelated-terms-in-ugcPost-7510425090937884672-lqV5/?utm_source=tldrmarketing",
+      "title": "Is Google Trends data inaccurate?",
+      "summary": "Unrelated Google Trends queries consistently rank Cheyenne, Wyoming first, raising questions about whether non-human traffic is skewing search data."
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7510322596199043074/?utm_source=tldrmarketing",
+      "title": "Samsung TV buying journey",
+      "summary": "A graphic showing a non-linear buying journey of a Samsung TV across channels and why open-web behavior matters."
+    },
+    {
+      "url": "https://app.sciencesays.com/p/make-product-names-very-specific?utm_source=tldrmarketing",
+      "title": "Make product names very specific",
+      "summary": "Use-specific descriptions help shoppers picture themselves using a product, which raises how useful it seems by 9.7% and purchase intent by up to 9.5%."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-09-30",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://writing.nikunjk.com/p/deployment-gap?utm_source=tldrfounders",
+      "title": "Deployment Gap",
+      "summary": "Robotics is finally having a moment. Models are getting better, costs are coming down, and robots are logging real hours in customer facilities. However, full deployment will still take some time - even companies that publicly claim they have deployed robots often do not have them working on actual production lines. Until the technology improves, the industry will need patient capital."
+    },
+    {
+      "url": "https://1984.substack.com/p/the-great-ai-capital-misallocation?utm_source=tldrfounders",
+      "title": "The Great AI Capital Misallocation",
+      "summary": "The flood of capital into AI infrastructure has left many promising startups underfunded, with investors chasing companies that can absorb huge sums quickly. AI's rapid growth benchmarks and the belief in a winner-take-all scenario drive this trend, yet hinder more traditional but solidly growing tech firms. As capital focuses on AI infrastructure, there's potential in identifying application companies ready to leverage cheaper AI tech for broader market success."
+    },
+    {
+      "url": "https://andjelicaaa.substack.com/p/market-to-the-middle?utm_source=tldrfounders",
+      "title": "Market to the Middle",
+      "summary": "Ever read a thread about your product and wondered if these people are even your customers? Tracksuit's CEO argues that online discussion overrepresents enthusiastic fans and angry critics, while ordinary buyers rarely post at all. AI recommendations can pick up those same opinions, making a vocal minority seem more representative than it is. Tracksuit compares consumer surveys with AI responses to see where perceptions differ. Before changing your positioning around a loud complaint, find out whether the customers who aren't posting share it."
+    },
+    {
+      "url": "https://www.nibzard.com/jev-launch?utm_source=tldrfounders",
+      "title": "What TypeSafe Got Right With the Jev Launch",
+      "summary": "TypeSafe's Jev launch achieved rapid adoption among Vercel's paid AI teams due to its clear value and easy integration into existing workflows. A compelling demo showcased Jev's speed in making bounded decisions, outperforming competitors and highlighting its utility. The product's early success stemmed from allowing users to quickly demonstrate and share tangible outcomes, supported by strategic distribution to influential tech figures."
+    },
+    {
+      "url": "https://www.testingcatalog.com/meta-launches-muse-for-small-business-with-new-connectors/?utm_source=tldrfounders",
+      "title": "Meta launches Muse for Small Business with new connectors",
+      "summary": "Muse for Small Business enhances Muse with skills and connectors designed to help people operate and grow their companies. Users can give Muse a goal, then connect the services holding the information needed to pursue it. Muse can draw on analytics from Meta's apps and a broad set of business tools. The agent will not publish content, send messages, or spend money unless authorized."
+    },
+    {
+      "url": "https://openai.com/devday/2026/?utm_source=tldrfounders",
+      "title": "OpenAI DevDay 2026 (Website)",
+      "summary": "OpenAI introduced on DevDay new models, tools, and agents to help developers build faster, take on more ambitious projects, and bring their products to more people. The company revealed new agents that can take on ongoing responsibilities and new ways for people and AI to work together. It also expanded its commitment to an open ecosystem by opening up ChatGPT as a shared surface where humans and agents can collaborate and where developers can directly launch new native experiences. There is now a new Pro 500 plan that offers 25 times the ChatGPT Plus allowance and includes access to Ultrafast."
+    },
+    {
+      "url": "https://www.jamesshore.com/v2/blog/2026/modeling-softwares-business-impact?utm_source=tldrfounders",
+      "title": "Modeling Software's Business Impact",
+      "summary": "There's no guaranteed relationship between software cost and value. While cost improvements are typically marginal and difficult, value improvements are game-changing. AI can produce a lot of work, but that doesn't mean that customers can absorb it. Businesses need to treat customer attention as the scarce resource it is and only ship the things that are truly valuable."
+    },
+    {
+      "url": "https://x.com/harris/status/2104563809977290917?utm_source=tldrfounders",
+      "title": "The Only Reason to Raise Venture Capital",
+      "summary": "Founders should raise venture capital only when money is the limiting factor on growth. Treating fundraising as success can distort incentives, encourage unnecessary spending, and leave companies trapped at valuations their businesses may never justify."
+    },
+    {
+      "url": "https://x.com/aleximm/status/2104979633846579324?utm_source=tldrfounders",
+      "title": "Who Gets Paid When AI Does the Shopping?",
+      "summary": "AI shopping agents could capture the customer relationship without owning fulfillment, shifting economics away from marketplaces' ads and commissions."
+    },
+    {
+      "url": "https://tomtunguz.com/how-gpu-prices-double-while-ai-gets-cheaper/?utm_source=tldrfounders",
+      "title": "How GPU Prices Can Double While AI Gets Cheaper",
+      "summary": "GPU prices have surged from $4.40 to $8.08 per GPU-hour due to rising data center construction costs."
+    },
+    {
+      "url": "https://x.com/Alfred_Lin/status/2104931119586279931?utm_source=tldrfounders",
+      "title": "Fire and Ice",
+      "summary": "Is your team better at getting excited about the next project or finishing the current one?"
+    }
+  ]
+}

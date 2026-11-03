@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-09-30",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/?utm_source=tldrdesign",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "summary": "OpenAI has launched Dots, always-on personal agents powered by GPT-6 Astra that pursue user-defined goals in the background rather than staying tied to a single interface. Available to ChatGPT Pro and Business Premium users in eligible markets, Dots can be launched from ChatGPT or Codex and contacted through platforms such as Slack and Teams, with text messaging planned. Their floating, cartoon-like avatars give autonomous software a more approachable identity, while OpenAI envisions specialist Dots working together with their own tools and permissions."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/we-went-for-a-marmite-icon-how-formula-es-new-logo-is-made-to-grow-on-you?utm_source=tldrdesign",
+      "title": "You'll either love or hate the Formula E logo – and that's the whole point",
+      "summary": "Formula E's new identity by MOX centers on a deliberately divisive logomark that combines an F and E at a 30-degree angle to convey speed and momentum. A bespoke type family based on AP Gavel expands the system with condensed italics for energy and a monospaced style for technical data, complemented by Inter for longer copy. Surge Purple, Signal Orange, and Electric Lime add a distinctive palette designed to give the championship a more expressive identity as it enters its GEN4 era."
+    },
+    {
+      "url": "https://waya.media/replit-acquires-atta-to-bring-ai-business-analysis-into-its-platform/?utm_source=tldrdesign",
+      "title": "Replit Acquires Atta to Bring AI Business Analysis into Its Platform",
+      "summary": "Replit has acquired Atta, an AI-powered business analysis workspace, bringing its data-analysis and charting technology directly into Replit's platform. Users can upload or connect a dataset and ask Replit Agent to investigate a question or generate a visualization without writing SQL. The move reflects a broader shift toward folding business analysis into the same environment used to build and operate software."
+    },
+    {
+      "url": "https://designlobster.substack.com/p/168-dont-forget-to-design?utm_source=tldrdesign",
+      "title": "Don't forget to design",
+      "summary": "Design isn't something that happens after fully understanding a problem. Making sketches and prototypes is itself a way to discover what the problem really is. Rough ideas expose gaps, tensions, and requirements that research, data, and discussion alone may never reveal. An excessive focus on outcomes can discourage designers from making anything, even though reaching a good outcome often requires producing and evaluating lots of imperfect work along the way."
+    },
+    {
+      "url": "https://www.doc.cc/articles/fastest-gun?utm_source=tldrdesign",
+      "title": "The Fastest Gun in UX: Why Your Team is Telling the Wrong Story",
+      "summary": "Designers are rushing through their process to prove value through speed, but the real contest is winning stakeholder alignment, where they are both vulnerable and well positioned. The \"Fastest Gun in the West\" hijacks planning by anchoring early on an idea, using vague agile language, and pressuring designers to produce polished mockups that lock in unexamined assumptions while research is dismissed as slow. Since designers can't outrun someone shooting from the hip, they should use low-fidelity tools like scenario storyboards and PRFAQs to engage stakeholders on mental models and outcomes."
+    },
+    {
+      "url": "https://www.lukew.com/ff/2163/skip-the-tools-make-the-outcomes?utm_source=tldrdesign",
+      "title": "Skip the Tools, Make the Outcomes",
+      "summary": "AI creates opportunities to skip traditional tools and deliver the outcomes those tools were originally designed to help people achieve. An AI-powered newsroom called Exposit discovered that users overwhelmingly preferred asking for a topic and receiving a personalized, up-to-date report instead of navigating headlines, categories, and search interfaces. This “outcome first, tool second” approach suggests a useful product design question: whether a new AI experience needs another interface at all, or can simply produce what people came for."
+    },
+    {
+      "url": "https://app.initium.sh/?utm_source=tldrdesign",
+      "title": "shadcn Marketing Blocks and Skills for AI Agents (Website)",
+      "summary": "Initium gives your AI agent the style, strategy, blocks, and skills to generate a site that looks designed, not generated."
+    },
+    {
+      "url": "https://designbattle.hubmonster.io/?utm_source=tldrdesign",
+      "title": "Design Battles (Website)",
+      "summary": "Free online design battles in real time, with the same brief and kit for every entrant."
+    },
+    {
+      "url": "https://productonboarding.com/?utm_source=tldrdesign",
+      "title": "Product Onboarding: 100+ Real Examples, Patterns, and Best Practices (Website)",
+      "summary": "A curated library of real product onboarding examples from Notion, Slack, Stripe, Cal, and more. Patterns, components, and the activation playbooks that move retention."
+    },
+    {
+      "url": "https://www.w3.org/blog/2026/crafting-wcag-3-for-more-accessible-user-experiences/?utm_source=tldrdesign",
+      "title": "Crafting WCAG 3 for More Accessible User Experiences",
+      "summary": "WCAG 3's September 2026 draft sets a single conformance level, called core requirements, built on WCAG 2.2's Level A and AA success criteria. Supplemental requirements, assertions, and recommended practices cover accessibility needs that can't be objectively measured or don't apply everywhere, encouraging organizations to go beyond the baseline. Tags let regulators tailor requirements to specific situations and let websites report progress toward and beyond conformance, with multiple reporting tiers built in."
+    },
+    {
+      "url": "https://journal.everypixel.com/best-ai-image-models-2026?utm_source=tldrdesign",
+      "title": "Best AI Image Models 2026: Tested by Human Evaluators",
+      "summary": "Everypixel's blind evaluation of 863 pairwise judgments across 48 commercial scenes found no universal winner among 2026's leading AI image models. GPT Image 2 showed the strongest evidence for high-precision commercial generation and controlled photorealism, though its direct comparison against real photography wasn't statistically conclusive. Qwen Image 2 suits controlled editing, Nano Banana 2 fast iteration, Nano Banana Pro consistency, Grok Imagine creative interpretation, and FLUX.2 an explore-then-finish workflow."
+    },
+    {
+      "url": "https://www.creativebloq.com/art/digital-art/this-digital-artist-takes-inspiration-from-old-masters-and-orientalist-paintings?utm_source=tldrdesign",
+      "title": "This Digital Artist Takes Inspiration from Old Masters and Orientalist Paintings",
+      "summary": "Hong Kong-based illustrator Brian Yuen paints in Photoshop with a style drawn from the Old Masters and artists like Jaime Jones and Craig Mullins."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/28/this-website-lets-you-explore-nearly-30-years-of-apple-product-colors/?utm_source=tldrdesign",
+      "title": "This website lets you explore nearly 30 years of Apple product colors",
+      "summary": "Apple in Colour is an interactive archive from sheets.works that brings together 341 Apple product colors spanning nearly three decades, from the Bondi Blue iMac to recent iPhones, complete with release years and official color names."
+    },
+    {
+      "url": "https://www.wallpaper.com/design-interiors/interior-accessories/westwing-advent-calendar-2026?utm_source=tldrdesign",
+      "title": "This Advent Calendar is Filled with Design-Led Gifts",
+      "summary": "Westwing's 2026 advent calendar comes in an oversized house-shaped box illustrated by Munich-based artist Kera Till, with 24 doors hiding home decor, tableware, and self-care pieces."
+    }
+  ]
+}

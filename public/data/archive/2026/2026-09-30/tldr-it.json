@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-09-30",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring?ncid=so-twit-994629&amp;utm_source=tldrit",
+      "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+      "summary": "NVIDIA's Open Agent Safety Platform pairs OpenShell, an Apache 2.0 sandboxed runtime that turns operator instructions into verifiable file, network, tool, and credential policies, with Sentry, a monitor that runs on BlueField-4 DPUs. In Vera Rubin PODs, the DPU sits on the node's only path to the model, so it can enforce policy at line speed outside the agent's reach. NVIDIA's argument is that agents can't be trusted to govern themselves, so safety controls have to sit below them in hardware."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/28/microsofts-copilot-super-app-comes-with-a-meter-attached/5299515?utm_source=tldrit",
+      "title": "Microsoft's Copilot super app comes with a meter attached",
+      "summary": "Microsoft is splitting Copilot pricing in two. A per-user subscription still covers \"Everyday AI\" in Office apps, while agentic features like Cowork, Code, Autopilot, and frontier models are billed by usage on top of the seat. Admins get spending caps and alerts, but budgets that were fixed per head now have to absorb costs from agents that run without a user prompting them."
+    },
+    {
+      "url": "https://vincenzoiozzo.com/blog/jev-identity-resolution?utm_source=tldrit",
+      "title": "Test-driving Jev on a security task: identity resolution",
+      "summary": "Vincenzo Iozzo tested Jev, a specialized classification model, on matching accounts across systems to the same person in five real organizations. Jev scored 0.948 F1 on large orgs at $0.62 per 1,000 accounts, beating Claude Haiku 4.5 (0.894 F1, 19x the cost) and Sonnet 5 (0.911 F1, 47x the cost) at roughly a tenth of their latency. His conclusion is that small calibrated models beat prompted frontier LLMs on bounded, high-volume security classification."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4227954/what-happens-when-the-cloud-blows-up.html?utm_source=tldrit",
+      "title": "What happens when the cloud blows up?",
+      "summary": "Missile and drone strikes during the March 2026 Iran conflict hit AWS facilities in the UAE and Bahrain. AWS says the damage exceeded what its multi-AZ design can withstand, and restoration isn't expected until early 2027. The piece argues that availability zones don't fail independently when a whole region is physically attacked, and that continuity plans should account for that."
+    },
+    {
+      "url": "https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers?utm_source=tldrit",
+      "title": "Microsoft Announces General Availability Of WSLC: Linux Containers On Windows",
+      "summary": "WSLC, Microsoft's native way to run Linux containers on Windows, is now generally available through a new wslc.exe command. Each session gets its own storage VHD, stronger isolation, and a new networking model compared with standard WSL. The code is open source in the microsoft/wsl GitHub repository."
+    },
+    {
+      "url": "https://blog.cloudflare.com/threat-signals/?utm_source=tldrit",
+      "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
+      "summary": "Cloudflare's Threat Signals uses agentic skills to read open-source threat reports from RSS feeds, summarize them, extract indicators of compromise, and tag threats. It then links those findings to WAF rules while keeping the context of the original source. Cloudflare also made its Threat Events Platform free for every account, with paid tiers for more feeds, proprietary data, and custom skills."
+    },
+    {
+      "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/?utm_source=tldrit",
+      "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+      "summary": "Cloudflare is becoming a certificate authority that issues Merkle Tree Certificates for free, and it is targeting Chrome's quantum-resistant root store in early 2027. Post-quantum signatures are about 40x larger than classical ones, so MTCs batch many certificates under a single CA signature and build transparency logging into issuance. In a Chrome experiment covering 50% of Beta users, the lightweight MTC format already made handshakes 9% faster."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/?utm_source=tldrit",
+      "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+      "summary": "A new Google support page for enterprise and education customers says ChromeOS support will continue through mid-2034, and newer Chromebooks will be migrated to the Android-based Googlebook OS. This is a problem for schools, because Googlebooks start at $899 and won't have comparable management tools for a year or more."
+    },
+    {
+      "url": "https://www.tigerdata.com/blog/agent-memory-search-problem-not-storage-problem?utm_source=tldrit",
+      "title": "Agent Memory Is a Search Problem, Not a Storage Problem",
+      "summary": "Tiger Data skipped fact extraction, knowledge graphs, and memory managers."
+    },
+    {
+      "url": "https://www.databricks.com/blog/how-roll-out-genie-one-step-step-enterprise-playbook?utm_source=tldrit",
+      "title": "How to roll out Genie One: A step-by-step enterprise playbook",
+      "summary": "Databricks published a four-phase rollout plan for Genie One, its AI coworker for business data questions."
+    },
+    {
+      "url": "https://www.oreilly.com/radar/a-data-center-is-a-dependency-graph-before-it-is-a-building/?utm_source=tldrit",
+      "title": "A Data Center Is a Dependency Graph Before It Is a Building",
+      "summary": "A finished hyperscale region can sit idle for 6 to 12 months because hundreds of interdependent services have to come up in the right order, and some depend on each other, such as DNS relying on inventory while inventory relies on DNS."
+    }
+  ]
+}
