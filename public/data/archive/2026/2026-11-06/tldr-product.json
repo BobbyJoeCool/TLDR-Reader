@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-11-06",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.elenaverna.com/p/the-end-of-feature-discovery-as-we?utm_source=tldrproduct",
+      "title": "The end of feature discovery as we know it",
+      "summary": "AI agents will eliminate traditional software feature discovery by operating products on users' behalf. Instead of navigating menus, users can invoke functionality directly using natural language, forcing product teams to focus on trust and minimal AI interfaces."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/voice-of-the-customer?utm_source=tldrproduct",
+      "title": "Voice of the Customer",
+      "summary": "Effective product building requires mastering the Voice of the Customer to understand underlying needs rather than surface-level metrics. AI accelerates this process, turning research loops into quick conversations and creating accessible organizational knowledge bases."
+    },
+    {
+      "url": "https://www.scrum.org/resources/blog/bottleneck-has-moved?utm_source=tldrproduct",
+      "title": "The Bottleneck Has Moved",
+      "summary": "With AI agents coding rapidly, the main constraint in software development has shifted away from writing code. Enterprises must reorganize around end-to-end value delivery, measuring time-to-learn rather than raw velocity."
+    },
+    {
+      "url": "https://www.thoughtworks.com/en-us/insights/blog/generative-ai/harness-is-a-product?utm_source=tldrproduct",
+      "title": "The harness is a product",
+      "summary": "As agentic AI systems evolve, the underlying harness (instructions, tools, and sandboxes) must be managed as a discrete product. Product teams must apply rigorous testing and proper rollback paths to ensure reliability and prevent configuration debt."
+    },
+    {
+      "url": "https://www.upstartsmedia.com/p/podcast-ramp-eric-glyman?utm_source=tldrproduct",
+      "title": "How Ramp Built A $60B AI Product Factory Off A Corporate Card (49 minute video)",
+      "summary": "Ramp co-CEO Eric Glyman shares insights on product strategy, hiring based on proof of work, and building tools internally first. The startup maintains small, autonomous teams to stay nimble as it scales."
+    },
+    {
+      "url": "https://www.retention.blog/p/activation-metric-or-motivation-detector?utm_source=tldrproduct",
+      "title": "Activation metric or motivation detector?",
+      "summary": "This article outlines a method for validating activation metrics, ensuring they drive downstream retention rather than just detecting pre-existing motivation. Teams must separate genuine aha moments from survivorship bias to fix drop-off root causes."
+    },
+    {
+      "url": "https://medium.productcoalition.com/theres-a-60-chance-of-rain-02cff811027c?utm_source=tldrproduct",
+      "title": "There's a 60% Chance of Rain",
+      "summary": "Teams can use Monte Carlo simulations on historical throughput data to generate probabilistic delivery forecasts. Teams can better navigate uncertainty and risk by analyzing past weekly output instead of single fixed dates."
+    },
+    {
+      "url": "https://uxforai.com/p/dr-productlove-or-how-i-learned-to-stop-worrying-and-love-the-ai?utm_source=tldrproduct",
+      "title": "How I Learned to Stop Worrying and Love the AI",
+      "summary": "In an era of cheap AI generation, product managers must move past preventing low-quality software. Instead, they should focus on directing product strategy, standardizing patterns, and practicing detached engagement with outcomes."
+    },
+    {
+      "url": "https://jennywanger.com/articles/your-fancy-ai-demo-might-be-backfiring?utm_source=tldrproduct",
+      "title": "Your fancy AI demo might be backfiring",
+      "summary": "Successful teams balance advanced showcases with easy, replicable wins."
+    },
+    {
+      "url": "https://cdevroe.com/2026/11/05/if-x-then-y/?utm_source=tldrproduct",
+      "title": "If X, then Y",
+      "summary": "AI agents are shifting software development incentives toward rich behind-the-scenes capabilities rather than simple manual navigation."
+    }
+  ]
+}

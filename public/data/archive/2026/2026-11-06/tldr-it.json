@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-06",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.itpro.com/technology/artificial-intelligence/apple-set-to-cap-employee-ai-use-amid-rising-costs?utm_source=tldrit",
+      "title": "Apple reportedly cuts employee AI budgets",
+      "summary": "Apple is reportedly reducing employee allowances for third-party AI tools, with proposed daily caps of $100 for engineers and $25 for other staff. Some teams are also being encouraged to use cheaper or locally hosted models, although Apple hasn't confirmed the changes."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814?utm_source=tldrit",
+      "title": "Microsoft expands unpublished Copilot Chat limits",
+      "summary": "Microsoft is expanding usage caps for commercial Copilot Chat users without a paid Microsoft 365 Copilot license, but won't disclose the limits or let administrators adjust them. The rollout began November 2 for smaller organizations and reaches those with more than 2,000 seats November 9."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud?utm_source=tldrit",
+      "title": "What's new across Google's Agentic Data Cloud",
+      "summary": "Google Cloud has announced major updates to its Agentic Data Cloud, introducing features like a borderless Lakehouse powered by Apache Iceberg, enhanced Knowledge Catalog context curation, and specialized infrastructure for scaling AI agents. These capabilities aim to give agents secure, real-time access to distributed enterprise data while lowering token costs and improving query performance. The announcements also include new development kits and integrated Gemini tools designed to assist both data practitioners and business users."
+    },
+    {
+      "url": "https://hitesh.in/2026/ai-raised-the-interest-on-technical-debt/?utm_source=tldrit",
+      "title": "AI just raised the interest rate on your technical debt",
+      "summary": "AI-assisted vulnerability discovery effectively raises the interest rate on technical debt by making exploits much cheaper and faster to develop. While finding bugs has become vastly accelerated, repairing them still moves at human speed, creating a dangerous asymmetry for organizations. Leadership teams should look into auditing deferred security tickets, sunsetting unused internet-facing systems, and reviewing accepted-risk registers on a regular schedule."
+    },
+    {
+      "url": "https://techtrenches.dev/p/who-checks-the-boring-layer?utm_source=tldrit",
+      "title": "Who Checks the Boring Layer",
+      "summary": "While high-profile security incidents often involve complex exploits, the underlying entry points frequently rely on basic vulnerabilities like missing access controls, unpatched firmware, and exposed credentials. Coding tools and internal agents can exacerbate risks if the surrounding access layer and operational security are not strictly managed and reviewed."
+    },
+    {
+      "url": "https://www.confluent.io/press-release/confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context/?utm_source=tldrit",
+      "title": "Confluent brings live SQL queries to streaming data",
+      "summary": "Confluent made Lightning Tables generally available on AWS, letting applications query continuously updated Kafka data through SQL and APIs without maintaining a separate serving database. The launch supports its Streamhouse architecture, which combines streaming, processing, governance, and querying to give applications and AI agents current business context."
+    },
+    {
+      "url": "https://mariadb.com/resources/blog/introducing-mariadb-enterprise-platform-2027-one-foundation-for-the-agentic-enterprise?utm_source=tldrit",
+      "title": "Introducing MariaDB Enterprise Platform 2027: one foundation for the agentic enterprise",
+      "summary": "MariaDB has introduced its Enterprise Platform 2027, a unified data foundation designed for AI agents and enterprise workloads. The platform combines transactions, real-time analytics, vector search, and AI tooling such as Agent Memory and Semantic Cache to reduce latency and token costs. Additionally, it delivers a 56 percent increase in peak throughput compared to version 11.8 and introduces multi-region active-active scalability via MariaDB Raft Cluster."
+    },
+    {
+      "url": "https://coding-is-like-cooking.info/2026/11/how-to-use-test-driven-development-with-ai-agents-without-lowering-code-quality/?utm_source=tldrit",
+      "title": "How to Use Test-Driven Development with AI Agents (Without Lowering Code Quality)",
+      "summary": "A new empirical workflow called EXACT combines Test-Driven Development with agentic AI tools while maintaining code quality. The approach utilizes example mapping for collaborative human modeling, natural language test lists, and predictive TDD. Experiments show that this method significantly improves correctness and code quality compared to unguided vibe coding or plain TDD prompts."
+    },
+    {
+      "url": "https://assets.theregister.com/2026/11/05/20265/?utm_source=tldrit",
+      "title": "Google explains why its London backup generators failed",
+      "summary": "Google's newly detailed postmortem attributes its October London outage to a voltage-sensing flaw and controller misconfiguration that prevented backup generators from starting. One power feed was already undergoing repairs when the other failed, leaving battery backups to run out before power could be restored."
+    },
+    {
+      "url": "https://diginomica.com/why-next-generation-erp-all-about-outcomes?utm_source=tldrit",
+      "title": "Why the next generation of ERP is all about outcomes",
+      "summary": "The next generation of enterprise resource planning (ERP) software will shift from improving productivity to executing business outcomes through agentic applications."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/databases/introducing-alloydb-express-for-rapid-testing-and-prototyping?utm_source=tldrit",
+      "title": "Introducing AlloyDB Express for rapid testing and prototyping",
+      "summary": "The database is capable of provisioning in under two seconds, features automatic scale-to-zero during inactivity, and embeds enterprise AI capabilities such as vector search and direct access to Gemini models."
+    }
+  ]
+}

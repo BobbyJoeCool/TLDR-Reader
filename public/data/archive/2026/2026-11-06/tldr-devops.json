@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-11-06",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/?utm_source=tldrdevops",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "summary": "A vulnerability in Alpine Linux's openssh-server package allows attackers to bypass password authentication and log in without knowing any password. The flaw affects releases 3.16 through 3.24 and allows remote access if the system has an account with no password set. Users should update openssh and restart sshd or disable password logins immediately."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf/?utm_source=tldrdevops",
+      "title": "Powering open infrastructure for autonomous agents",
+      "summary": "Google donated Agent Substrate, gVisor, and OpenRL to the CNCF Sandbox and announced the general availability of Agent Substrate on GKE. Agent Substrate decouples stateful agent sessions from compute to restore idle sessions in under 500 milliseconds. The project achieves 10x standard container density and performs over 500 suspend and resume activations per second."
+    },
+    {
+      "url": "https://cloudnativenow.com/contributed-content/running-production-with-zero-stored-logs/?utm_source=tldrdevops",
+      "title": "Running Production With Zero Stored Logs",
+      "summary": "This post describes how to run a K3s platform of more than 15 microservices with no centralized log collection, relying on filtered Prometheus metrics and temporary verbose logging. It notes trade-offs, including the need to anticipate questions and unsuitability for audits requiring immutable trails."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery?utm_source=tldrdevops",
+      "title": "When the Kubernetes API went silent: A three-layer networking mystery",
+      "summary": "Google traced intermittent GKE API timeouts to three interacting failures: Private Service Connect reordered packets, Envoy kept half-closed sockets open, and a Linux TCP bug prevented those sockets from closing. Simultaneous packet captures at multiple points exposed the reordering, and a Linux kernel patch fixed the underlying TCP bug."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/11/docker-ai-agent-security/?utm_source=tldrdevops",
+      "title": "Docker Urges Isolation and Governance for AI Agent Security",
+      "summary": "Docker identifies five risks of autonomous AI agents, including prompt injection, credential exposure, and data exfiltration. It recommends isolation and governance through Docker Sandboxes and AI Governance rather than model improvements alone."
+    },
+    {
+      "url": "https://github.com/vercel-labs/agent-browser?utm_source=tldrdevops",
+      "title": "agent-browser (GitHub Repo)",
+      "summary": "agent-browser is a native Rust CLI that gives AI agents a browser they can drive one shell command at a time. It reads pages as a compact accessibility tree and allows agents to interact with elements through refs. The tool supports Chrome for Testing, Mobile Safari, and various cloud browser providers."
+    },
+    {
+      "url": "https://github.com/NVIDIA/auto-ontology?utm_source=tldrdevops",
+      "title": "Auto Ontology (GitHub Repo)",
+      "summary": "NVIDIA Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over enterprise data. The open source library builds context layers from metadata to enable deterministic query generation and more explainable AI for LLM workflows. It exposes this context to agents via MCP, CLI, and API access."
+    },
+    {
+      "url": "https://spacelift.io/blog/opentofu-mcp-server?utm_source=tldrdevops",
+      "title": "What Is the OpenTofu MCP Server and How to Use It",
+      "summary": "Spacelift explains the official OpenTofu MCP server, which offers seven read-only tools for searching registry documentation for providers, modules, resources, and data sources. It runs from a hosted endpoint or locally with npx and never runs tofu commands or reads state."
+    },
+    {
+      "url": "https://grafana.com/blog/trace-linkage-connect-the-dots-between-your-app-traces-and-database-queries/?utm_source=tldrdevops",
+      "title": "Trace linkage: connect the dots between your app traces and database queries",
+      "summary": "Grafana Cloud made trace linkage generally available in Database Observability. It connects OpenTelemetry application traces to database query data collected by Alloy, matching by query."
+    },
+    {
+      "url": "https://www.pagerduty.com/blog/announcements/reliability-in-the-ai-era-ai-that-works-the-incident-with-you/?utm_source=tldrdevops",
+      "title": "Reliability in the AI Era: AI That Works the Incident With You",
+      "summary": "PagerDuty announced the PD Reliability Platform and PD Labs alongside its Paige SRE agent."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/fireworks-ai-integration/?utm_source=tldrdevops",
+      "title": "Evaluate your AI agents with Fireworks AI models in Datadog Agent Observability",
+      "summary": "Datadog Agent Observability now supports Fireworks AI as a model provider."
+    },
+    {
+      "url": "https://opentelemetry.io/blog/2026/otel-js-sdk-3-0/?utm_source=tldrdevops",
+      "title": "Announcing the OpenTelemetry JavaScript SDK 3.0",
+      "summary": "OpenTelemetry JavaScript SDK 3.0 introduces ESM-only support and removes compatibility with older Node.js versions."
+    }
+  ]
+}

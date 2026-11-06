@@ -1,0 +1,78 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-11-06",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-cyber/?utm_source=tldrai",
+      "title": "GPT-6 Cyber",
+      "summary": "OpenAI introduced GPT-6 Cyber, a cybersecurity model designed to identify and validate exploitable vulnerabilities while staying within researcher-defined boundaries."
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/?utm_source=tldrai",
+      "title": "Introducing Inkling 2 Small",
+      "summary": "Inkling 2 Small is a Mixture-of-Experts model with 594B total parameters, 17B active, that supports image inputs and variable effort. The model's vision and agentic capabilities enable it to incorporate visual feedback to iteratively build and refine websites, games, and 3D designs with interactive elements. It will be initially available through Tinker with closed weights. Full weights will be available under an Apache 2.0 license next week after the completion of external safety testing and red-teaming."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/?utm_source=tldrai",
+      "title": "Gemini Omni 1.2 Flash",
+      "summary": "Google introduces Gemini Omni 1.2 Flash, enhancing speed, cost-efficiency, and extended clip lengths for AI models. This update aims to improve developer tools and effectiveness in AI applications."
+    },
+    {
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/?utm_source=tldrai",
+      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "summary": "Anthropic's AI R&D capabilities accelerated significantly, improving model performance on well-defined tasks at roughly twice the rate compared to 2024-2025. This acceleration primarily results from AI's increasing role in R&D, though multiple factors contributed in late 2025."
+    },
+    {
+      "url": "https://blog.cloudflare.com/trusted-agent-delegation?utm_source=tldrai",
+      "title": "Cloudflare's Trust Framework for AI Agents",
+      "summary": "Cloudflare has outlined the challenges websites face as AI agents increasingly act on behalf of users, making it harder to verify identities, assess trustworthiness, and assign accountability."
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/clocktower?utm_source=tldrai",
+      "title": "The benchmark where AIs have to lie to win",
+      "summary": "Blood on the Clocktower is a social deception game. Watching AI play the game unveils a lot about how AI is progressing on a set of AI capabilities that no other benchmark gives clear visibility into. The game requires AI to execute schemes with creativity, on-the-spot bluffing, and collective reasoning. This post looks at what happens when you pit AI models against each other in the game."
+    },
+    {
+      "url": "https://research.nvidia.com/labs/lpr/vflash/?utm_source=tldrai",
+      "title": "NVIDIA Introduced VFlash",
+      "summary": "NVIDIA VFlash is a vision model that generates geometric predictions like robot trajectories and 3D motion in parallel rather than token by token."
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation?utm_source=tldrai",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "NVIDIA's Cosmos 3 platform now offers four open-weight models for interactive world simulation and driving scenes, each with 16 billion trainable parameters. These models enable multi-sensor data generation, synchronized observations, and photorealistic video from simulator controls, supporting advanced research in robotics and autonomous driving."
+    },
+    {
+      "url": "https://x.com/OrnnExchange/status/2118372699093295482?utm_source=tldrai",
+      "title": "How Primary Compute Markets Work",
+      "summary": "GPU providers sell capacity through reservations, on-demand rentals, and interruptible spot contracts. Reservations help secure financing through predictable revenue, on-demand offers flexibility at higher rates, and spot monetizes idle capacity. Ornn's compute price indices track executed on-demand transactions, excluding reservations and spot rentals."
+    },
+    {
+      "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude?utm_source=tldrai",
+      "title": "Personal Finance in Claude",
+      "summary": "Anthropic Personal Finance in Claude allows users to securely connect bank and credit card accounts to ask questions about balances, transactions, and spending."
+    },
+    {
+      "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/?utm_source=tldrai",
+      "title": "Muse Voice",
+      "summary": "Meta announced voice conversations and expressive avatars for its Muse app, allowing users to brainstorm, plan trips, and complete tasks through spoken interactions."
+    },
+    {
+      "url": "https://x.com/cursor_ai/status/2118458629091426304?utm_source=tldrai",
+      "title": "You can now build live apps in Cursor and share them with a link",
+      "summary": "Users just have to describe the tool they want, and Cursor will build it, set up a database, run deterministic and agentic security checks, and deploy."
+    },
+    {
+      "url": "https://huggingface.co/spaces/huggingface/moe-blogpost?utm_source=tldrai",
+      "title": "The Ultimate MoE Training Handbook",
+      "summary": "Hugging Face released \"The Ultimate MoE Training Handbook,\" a comprehensive guide on training mixture-of-experts models."
+    },
+    {
+      "url": "https://devin.ai/blog/devin-review-2?utm_source=tldrai",
+      "title": "Devin Review 2.0",
+      "summary": "The cost of a Devin Review per PR has dropped by 82% since August."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-11-06",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.netinfluencer.com/more-than-half-of-marketers-have-no-clear-read-on-ugc-creator-roi-survey-finds/?utm_source=tldrmarketing",
+      "title": "More Than Half of Marketers Have No Clear Read on UGC Creator ROI",
+      "summary": "57% of marketers have no clear understanding of whether UGC creator spending delivers positive returns, with 38% not measuring creator costs against acquisition economics. Nearly half of teams allocate less than 5% of ad spend to UGC. Instagram and TikTok are the top creator sourcing channels at 74%. Authenticity is the top creator selection criterion, with 96% prioritizing creators who are authentic on camera."
+    },
+    {
+      "url": "https://mikeshields.substack.com/p/is-something-up-with-youtubes-ad?utm_source=tldrmarketing",
+      "title": "Is Something Up With YouTube's Ad Business?",
+      "summary": "YouTube's ad revenue growth is slowing despite its growing share of TV viewing, raising questions about whether it can convert its CTV audience into more advertising dollars. Its ad revenue grew 9% to $11.2 billion in Q3, even as it captured 15.8% of total TV viewing. Several factors may explain the gap: YouTube missed out on political ad spending, some brands still view FAST platforms as more traditional TV environments, and advertisers are diversifying their CTV budgets instead of concentrating spend on YouTube. Growing competition from Meta and YouTube's expanding ad-free subscription options may also limit its advertising growth."
+    },
+    {
+      "url": "https://phys.org/news/2026-11-ai-human-friend.html?utm_source=tldrmarketing",
+      "title": "Why AI influencers work better with a human friend",
+      "summary": "Seeing an AI influencer relate to a real person makes it seem more human, which raises trust and lifts engagement. Posts showing them sharing a genuine moment with a real person, like eating together or posing arm in arm, drew about 21% more engagement in a sample of 10,000 IG posts. A bystander in the frame or a second AI character has no effect, and the lift is biggest for the most artificial-looking avatars."
+    },
+    {
+      "url": "https://conversion-rate-experts.com/diamondback-covers-infographic-win-report/?utm_source=tldrmarketing",
+      "title": "Win Report: How an infographic increased conversions by 15%",
+      "summary": "DiamondBack Covers increased product page conversions by 15% by replacing an early product gallery image with an infographic that paired key product features with their customer benefits. Research found that 43% of buyers cited security as their main purchase reason, yet fewer than 13% of visitors scrolled far enough to see important selling messages about protection and durability. The infographic highlighted four selling points: durable aluminum construction, gas spring-assisted openings, weatherproof seals, and secure locking mechanisms. Pairing each feature with a specific benefit gave shoppers both a reason to care and proof to support the claim."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/find-site-errors-with-ai-before-ads-run?utm_source=tldrmarketing",
+      "title": "Find Site Errors with AI Before Ads Run",
+      "summary": "Use AI to audit campaign landing pages before ads go live and catch problems that could prevent shoppers from converting. Tools like ChatGPT and Claude can review screenshots, page content, and crawl reports to identify broken links, conflicting offers, inaccurate product availability, missing information, and mobile layout issues. Pair AI analysis with technical tools like Google Lighthouse and Screaming Frog, then manually test the shopping journey on desktop and mobile, including checkout and ad conversion tracking. Prioritize issues by their potential impact on customers, and repeat the audit before every campaign."
+    },
+    {
+      "url": "https://view-su2.highspot.com/viewer/097f2e2f0d2e72f6946474128a1a7ef1?utm_source=tldrmarketing",
+      "title": "Reddit 2027 Moments Annual Guide",
+      "summary": "This Reddit guide maps cultural events, sports, and life milestones that brands can use to plan campaigns around community conversations. 3 in 4 Reddit users are open to considering a new brand after seeing a community recommendation, even if it costs more. Half of shoppers use Reddit to verify AI recommendations, while 56% of holiday shoppers look for deals and promotions before buying."
+    },
+    {
+      "url": "https://www.audiencebridge.io/p/we-pushed-acquisition-too-hard-complaints-followed?utm_source=tldrmarketing",
+      "title": "We pushed acquisition too hard. Complaints followed",
+      "summary": "After increasing co-registration subscribers for its Trivia Nut newsletter, a publisher saw Gmail's spam complaint rate exceed 0.30% for 4 days and peak at 0.49%. It cut incoming subscriber volume by 50%, bringing the next reported rate down to 0.06%. The publisher recommends monitoring Gmail's spam rate separately through Postmaster Tools and checking acquisition sources when complaints rise."
+    },
+    {
+      "url": "https://www.standingongiants.com/blog/eddit-logged-in-only-discord-search/?utm_source=tldrmarketing",
+      "title": "Reddit just stopped giving itself away",
+      "summary": "Reddit is testing a logged-in-only experience to reduce unmonetized traffic and protect its content from AI scraping. The move follows a 53% revenue increase but slower user growth in the US. Meanwhile, Discord is making public communities searchable on Google to attract new members. Both platforms are adapting to AI-driven search by balancing public content discovery with member access."
+    },
+    {
+      "url": "https://www.graphika.com/blogs/narrative-intelligence-vs-social-listening?utm_source=tldrmarketing",
+      "title": "Narrative Intelligence vs. Social Listening: What's the Difference?",
+      "summary": "Social listening measures what people discuss online through metrics like mentions, reach, and sentiment. Narrative Intelligence adds context by revealing how topics are interpreted through different narratives. It identifies who is shaping conversations and which communities are driving or encountering them. The two approaches work together to help teams understand why conversations matter. For example, overall sentiment may appear neutral while a specific narrative contains concentrated negative sentiment."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/noahg_something-is-up-with-linkedin-this-month-share-7523791233509380097--RkX/?utm_source=tldrmarketing",
+      "title": "2 types of posts that drive 100+ followers",
+      "summary": "2 LinkedIn formats are currently driving follower growth: niche job roundups with salaries and practical how-to posts."
+    },
+    {
+      "url": "https://www.bcg.com/press/4november2026-consumer-trust-black-friday-discounts-promotion-fatigue?utm_source=tldrmarketing",
+      "title": "Only 54% of Consumers Trust That Black Friday Discounts Are Lower Than Normal",
+      "summary": "Retailer reputation and money-back guarantees build the most trust in a deal, while influencer recommendations rank last."
+    },
+    {
+      "url": "https://www.opensourceceo.com/p/ai-cute-mascots?utm_source=tldrmarketing",
+      "title": "How companies are pivoting their brands to be mascot-led",
+      "summary": "Character-led campaigns are more likely to report big market share gains, 41% versus 30%, yet brands largely dropped mascots until AI companies revived them."
+    }
+  ]
+}
