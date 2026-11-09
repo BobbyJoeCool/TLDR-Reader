@@ -1,0 +1,93 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-09",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html?utm_source=tldrit",
+      "title": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users",
+      "summary": "Microsoft is expanding usage limits on Copilot Chat for Microsoft 365 customers without separate Copilot licenses. The company hasn't disclosed the thresholds, and IT admins cannot view or override them. The rollout began November 2 for organizations with up to 2,000 seats and expands to larger enterprises November 9."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/?utm_source=tldrit",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly secured $11 billion toward a funding round that could reach $20 billion, valuing the company at $1.25 trillion. The round remains open and is smaller than earlier fundraising ambitions, reflecting growing investor scrutiny of AI infrastructure spending and future profitability."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-cyber/?utm_source=tldrit",
+      "title": "GPT-6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "OpenAI has introduced GPT-6 Cyber, a specialized AI model designed for authorized cybersecurity tasks such as vulnerability discovery and patch validation. The model features specialized post-training and safety guardrails designed to ensure it adheres strictly to authorized scopes and rules of engagement. It is currently restricted to approved customers participating in OpenAI's Daybreak Red program."
+    },
+    {
+      "url": "https://a16z.com/defense-in-depth-rebuilt-for-machine-speed/?utm_source=tldrit",
+      "title": "Defense in Depth, Rebuilt for Machine Speed",
+      "summary": "AI tools make exploitation significantly cheaper and faster. Traditional reliance on slow human patching is no longer viable for protecting systems. Instead, the security industry should adopt machine-speed defenses such as removing exposure from the open internet, network segmentation, virtual patching, and moving toward memory-safe code, alongside robust and verified backups."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/?utm_source=tldrit",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "Ramp's transaction data shows that AI token spending grew just 1.5% across August and September, despite continued increases in usage. Lower model prices, enterprise discounts, and more efficient deployments are allowing companies to consume more AI without proportionately increasing budgets. Spending growth accelerated again in October, but pricing pressure remains."
+    },
+    {
+      "url": "https://www.cio.com/article/4245173/in-the-era-of-ai-we-are-all-buying-technology-wrong.html?utm_source=tldrit",
+      "title": "In the era of AI, we are all buying technology wrong",
+      "summary": "Traditional enterprise procurement often focuses on product specifications and discounts rather than business outcomes. Rigid RFPs and multiyear AI commitments can increase costs and limit flexibility. Use smaller proof-of-value exercises, outcome-based evaluation, and contracts aligned with how quickly technology evolves."
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-enterprise-security-updates?utm_source=tldrit",
+      "title": "More visibility and control over Claude Enterprise for security teams",
+      "summary": "Anthropic has announced new enterprise security updates for Claude, including a security center for configuration reviews, inference hooks for data loss prevention integration, centralized management through a parent admin console, and access controls like remote member sign-out and EDR sensor support. These features are designed to give security teams greater visibility and control over how organization data and devices interact with Claude. Many of these updates are currently available in beta or general release."
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/snowflake-coco-microsoft-excel-google-sheets/?utm_source=tldrit",
+      "title": "Snowflake CoCo for Excel and Google Sheets: Governed AI",
+      "summary": "Snowflake has announced the public preview of Snowflake CoCo for Microsoft Excel and Google Sheets, a coding agent designed to let business users interact with data using natural language. The tool orchestrates direct-to-sheet data transfers while maintaining enterprise governance, utilizing Snowflake's access controls, semantic views, and scalable virtual warehouses to build native formulas, pivot tables, and visualizations."
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/?utm_source=tldrit",
+      "title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+      "summary": "Google has announced a $17 billion investment in its first Wyoming data center, taking over a campus previously developed by Crusoe. The project will use natural-gas-powered fuel cells, carbon capture technology, and air cooling. The development highlights the growing importance of power availability in hyperscale infrastructure expansion."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4245719/openai-buys-tiny-software-developer-to-improve-codex.html?utm_source=tldrit",
+      "title": "OpenAI buys tiny software developer to improve Codex",
+      "summary": "OpenAI is acquiring Pierre Computer Company to integrate its Code.Storage Git infrastructure into Codex. Pierre's technology and open-source libraries already support Codex, and the acquisition aims to improve how human developers and AI coding agents work simultaneously across software repositories."
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/?utm_source=tldrit",
+      "title": "NTT Data signs 900MW fuel cell supply deal with Bloom Energy",
+      "summary": "NTT Data has signed an agreement to deploy up to 900MW of Bloom Energy fuel cell capacity across data centers worldwide, with initial deliveries expected in 2027. The agreement reflects an increasing reliance on on-site power generation as utilities struggle to meet the electricity demands of expanding data center infrastructure."
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/playmobil-owner-to-enter-data-center-market-with-new-facility-in-dietenhofen-germany/?utm_source=tldrit",
+      "title": "Playmobil owner to enter data center market with new facility in Dietenhofen, Germany",
+      "summary": "The company behind Playmobil toys plans to transform a former German manufacturing facility into a data center campus with up to 100MW of initial power demand. The proposed project, operating under a new Playmobil digital division, would serve hyperscalers, startups, and other customers, marking an unexpected move from toy manufacturing into digital infrastructure."
+    },
+    {
+      "url": "https://wifinowglobal.com/news-blog/interview-wi%e2%80%91fi-8-isnt-about-speed-but-thats-exactly-the-point-says-cisco-wireless-cto-matt-macpherson/?utm_source=tldrit",
+      "title": "Wi-Fi 8 isn't about speed - but that's exactly the point",
+      "summary": "According to Cisco Wireless CTO, the upcoming Wi-Fi 8 standard focuses on improving network predictability, reliability, and roaming performance under dense conditions rather than increasing maximum speed. The standard introduces features like Multi-AP Coordination and a Seamless Mobility Domain to better support demanding traffic patterns driven by agentic AI and connected devices. However, industry leaders note that creating standardized enterprise certification profiles will be essential to ensure consistent interoperability."
+    },
+    {
+      "url": "https://www.atlassian.com/blog/company-news/shareholder-letter-q1fy27?utm_source=tldrit",
+      "title": "Atlassian: Our Q1 FY27 letter to shareholders",
+      "summary": "Reporting strong Q1 FY2027 financial results, Atlassian emphasized momentum in its System of Work, driven by expanding adoption of its Teamwork Graph, Rovo agents, and Agentic Multiplayer Protocol."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4245298/python-is-de-jitted-but-still-de-lovely.html?utm_source=tldrit",
+      "title": "Python is de-jitted but still de-lovely",
+      "summary": "Python is dropping its experimental native just-in-time compiler for now over maintainability concerns, while continuing to advance its developer ecosystem and language capabilities."
+    },
+    {
+      "url": "https://www.cio.com/article/4245419/the-cios-trust-paradox-your-team-may-be-more-honest-with-ai-than-with-you.html?utm_source=tldrit",
+      "title": "The CIO's trust paradox: Your team may be more honest with AI than with you",
+      "summary": "Emerging research suggests employees may be more comfortable challenging AI than human managers in certain situations, raising new questions about leadership, psychological safety, and how organizations surface employee concerns."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4245776/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-3.html?utm_source=tldrit",
+      "title": "Enterprises must take blame for their AI agents' mistakes, say regulators",
+      "summary": "Four UK regulators have warned that organizations remain accountable for autonomous AI agents they deploy."
+    }
+  ]
+}

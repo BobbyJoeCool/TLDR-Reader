@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-11-09",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.revolut.com/news/revolut_completes_fundraising_process_establishing_115_billion_valuation/?utm_source=tldrfintech",
+      "title": "Revolut completes fundraising process establishing $115 billion valuation",
+      "summary": "Revolut's November 4 transaction brings investors including Coatue, T. Rowe Price, and Baillie Gifford into a deal that also gives employees another opportunity to sell shares. The amount raised was not disclosed. The valuation accompanies international bank launches and conditional US charter approval, but deeper customer relationships remain a challenge. Reuters reports that lending represented just 6% of deposits at year-end 2025, leaving substantial room for expansion alongside additional credit risk."
+    },
+    {
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22936.html?utm_source=tldrfintech",
+      "title": "Visa Releases First-of-Its-Kind Industry Benchmark for AI Shopping; Almost Half of Test Runs Fail",
+      "summary": "Visa tested 22 AI models on 15 shopping scenarios requiring them to uncover customer requirements and correctly decide whether to recommend a purchase. Its November 5 results show a 57.2% overall pass rate, with 54% of failed attempts still producing a purchase recommendation despite unmet or undiscovered requirements. The benchmark exposes reliability problems before payment execution. Visa plans to extend testing to checkout and order placement"
+    },
+    {
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-launches-claude-personal-finance-ahead-of-nasdaq-listing/?utm_source=tldrfintech",
+      "title": "Anthropic launches Claude Personal Finance ahead of Nasdaq listing",
+      "summary": "Paid US subscribers can connect bank accounts through Plaid to track spending, review subscriptions, and ask questions about their money. The read-only tool cannot move funds or make investments, carries no ads or sponsored recommendations, and excludes conversations inside its finance hub from model training. Nearly two-thirds of US consumers connecting accounts to AI assistants through Plaid had never used a Plaid-powered personal finance app, suggesting these assistants are reaching people traditional budgeting tools missed."
+    },
+    {
+      "url": "https://lex.substack.com/p/short-takes-applied-ai-agent-lessons?utm_source=tldrfintech",
+      "title": "Applied AI agent lessons from Plaid, Nubank, Visa, and Mercury",
+      "summary": "This article covers 4 agent-related launches from some of the biggest fintech companies. Mercury now lets AI agents work inside business bank accounts, under limits. Plaid connects consumer bank data to Claude. Visa tested whether AI models can shop for people, and about four runs in ten failed. Nubank published how it tests its support agents before customers use them."
+    },
+    {
+      "url": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/?utm_source=tldrfintech",
+      "title": "Enterprise AI spend hits $177B as agents become the dominant source of usage",
+      "summary": "Enterprise AI deployment spending is estimated to reach $177 billion in 2026, up 5.4x year over year, with agents now generating 80% of OpenRouter token usage and driving spending far beyond enterprise budgets. Anthropic and OpenAI together capture 86% of enterprise LLM API spend, while AI-native companies dominate categories where agents can act with strong context and verifiable outcomes, especially coding. AI is expanding the software market rather than simply replacing SaaS, with 55% of incremental AI spend coming from new budgets."
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/remote-launches-expense-cards-built-into-eor-bringing-spend-into-the-same-system-as-pay-302930036.html?utm_source=tldrfintech",
+      "title": "Remote launches Expense Cards built into EOR, bringing spend into the same system as pay",
+      "summary": "Launched November 5, Remote's virtual expense cards let eligible employees pay for work purchases without advancing personal funds and waiting for reimbursement. Spending controls and transaction records connect to employment data already held in its employer-of-record platform, reducing separate reconciliation work. Availability is limited to eligible EOR customers in supported countries, with no platform or per-card charge"
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/google-thinks-bigger-about-the-wallet-digital-agentic-retail/873585/?utm_source=tldrfintech",
+      "title": "Google makes big plans for wallet",
+      "summary": "Google's wallet plans extend beyond in-store payments to receipts, order tracking, refunds, and merchant offers. Google is also building constrained credentials that let third-party agents pay without exposing private data, and the company says the infrastructure already exists with Gemini and Google Pay, so product experience is now the focus. The move sets Google against Stripe's Link and agentic commerce protocols from OpenAI, Visa, and Mastercard, though the article gives no adoption figures."
+    },
+    {
+      "url": "https://thenewstack.io/ai-coding-agents-security/?utm_source=tldrfintech",
+      "title": "Goldman Sachs restricted Claude Code for bankers — but made one surprising exception",
+      "summary": "Goldman Sachs has pulled Anthropic's Claude Code and Microsoft's GitHub coding tools from bankers and traders for engineering work, while exempting its quantitative strats. The bank weighs productivity gains against potential risks when deciding who keeps AI tools."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/cards-draw-customers-marqeta-ceo-says/873864/?utm_source=tldrfintech",
+      "title": "Marqeta CEO says cards remain one of the strongest tools for customer engagement",
+      "summary": "Marqeta CEO Mike Milotich says large companies are increasingly using card products and embedded finance to increase customer engagement and drive usage of their core platforms. Marqeta is positioning itself as the infrastructure layer for these programs, bundling card issuing, payments, and newer capabilities such as stablecoin-backed cards, while Q3 processing volume rose 29% to $126.5 billion and revenue increased 8% to $176.2 million."
+    },
+    {
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bmo-turns-to-agentic-ai-to-resolve-card-issues/?utm_source=tldrfintech",
+      "title": "BMO Turns to Agentic AI to Resolve Card Issues",
+      "summary": "BMO's November 6 launch gives Canadian contact-centre employees AI tools that match transactions, retrieve policies, and prepare cases, reducing the work of switching between systems. The bank targets 20%–30% shorter handling times for eligible calls and automatic processing of roughly 40% of eligible credit refund requests, potentially delivering same-day credits."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111604/b2b-payments-firm-pliant-raises-80?utm_source=tldrfintech",
+      "title": "B2B payments firm Pliant raises $80m",
+      "summary": "Pliant, a global fintech specializing in highly modular B2B payment solutions, today announced an $80 million Series C funding round led by Seaya Nova and Speedinvest."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/fiserv-talks-to-potential-asset-buyers/873604/?utm_source=tldrfintech",
+      "title": "Fiserv doubles savings target to $1B and explores asset sales",
+      "summary": "Fiserv has doubled its cost-savings target to $1 billion, already cutting about 3,000 employees and contractors."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111606/kcb-tanzania-integrates-paypal-into-mobile-banking?utm_source=tldrfintech",
+      "title": "KCB Tanzania integrates PayPal into mobile banking",
+      "summary": "KCB Bank Tanzania has partnered with PayPal to integrate PayPal services into the KCB Mobile App, giving customers a simple, secure, and convenient way to connect to global payments directly through their banking app."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-09",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://99d.substack.com/p/the-economy-is-the-corpus?utm_source=tldrfounders",
+      "title": "Data to deployment",
+      "summary": "Today's data market is immature. Value is moving up the chain by transforming data and getting closer to customer value. As data gets priced, it will enter the capital structure. Data allocation will become a core CEO decision."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html?utm_source=tldrfounders",
+      "title": "AI Helps Solo Founders Build Without Employees",
+      "summary": "AI tools are helping solo entrepreneurs handle bookkeeping, marketing, design, and customer service without hiring. CNBC profiles one owner expecting $2.5 million to $3 million across 12 brands, while preliminary research finds rising business applications without hiring indicators in AI-exposed industries."
+    },
+    {
+      "url": "https://knowledge.gtmstrategist.com/p/offsite-aeo-playbook?utm_source=tldrfounders",
+      "title": "85% of AEO Is Won Offsite",
+      "summary": "Most AEO is won offsite. Companies are wasting AEO budgets on content that sits on their own websites. This post presents a step-by-step playbook on offsite AEO. The secret weapon is creators, an underpriced asset in AEO. The post also discusses how to measure AEO beyond vanity metrics."
+    },
+    {
+      "url": "https://rnikhil.com/2026/11/07/unglamorous?utm_source=tldrfounders",
+      "title": "Unglamorous",
+      "summary": "This post contains a list of 21 founders and the unglamorous work they did to bring their visions to life. The Pebble founders worked on their own factory line, Wakefit's founders acted as their own delivery men, and Stripe's founders did their IT support in person. The founders on this list spent time doing something that looked small: they shilled their own products, sent DMs nobody answered, and pretended to be their own users."
+    },
+    {
+      "url": "https://www.onlycfo.io/p/7-ways-to-handle-your-ai-gross-margin?utm_source=tldrfounders",
+      "title": "7 Ways to Handle Your AI Gross Margin Problem",
+      "summary": "Charge AI customers by the token, and they'll ask whether you're four times as good as the model you're marking up. An investor in more than 700 companies walks through how AI startups should price and who pays the token bill. The advice is to charge for a unit your product controls, like a personalized email from an AI SDR. Keep measuring the token cost behind each one, since two support resolutions can bring in the same revenue and cost wildly different amounts. Vanta's CEO hears that markup question, so Vanta absorbs its token costs and takes lower margins to get more people using its agent (GitHub just started billing for the tokens it uses)."
+    },
+    {
+      "url": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent?utm_source=tldrfounders",
+      "title": "Analyze your Stripe data directly with your agent (Tool)",
+      "summary": "Any Stripe customer can now connect an agent like Claude or Cursor to its Stripe data and ask why monthly recurring revenue changed. Stripe shows the SQL behind every answer, so a founder can check the math before it goes into an investor update. The Reports API stays free, and the Queries API is free until January 31."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available/?utm_source=tldrfounders",
+      "title": "@GitHub in Slack and Teams is generally available and more (Tool)",
+      "summary": "GitHub Copilot can now investigate a bug and open a pull request from the Slack or Teams conversation where it came up. The integration is available on paid Copilot plans. Anyone in a Slack thread can add context, but only teammates with write access to the selected repositories can tell the agent to change code."
+    },
+    {
+      "url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/?utm_source=tldrfounders",
+      "title": "Introducing the New Auto and Auto Code Routers",
+      "summary": "OpenRouter has launched the next generation of Auto Router, which outperforms the old router by up to 4x. The launch includes Auto Code, a new router specialized for coding work. The new Auto Router and Auto Code choose models by weighing eleven factors about each request and combining them with live pricing, provider health, and cache status. Users can apply any governance policies, and Auto Router makes efficient choices from the models available."
+    },
+    {
+      "url": "https://blossomstreetventures.medium.com/saas-s-m-does-not-get-more-efficient-with-scale-697d56eb2695?utm_source=tldrfounders",
+      "title": "SaaS S&M Does Not Get More Efficient With Scale",
+      "summary": "Most founders expect each sales and marketing dollar to buy more revenue once the company gets bigger. A VC firm checked 158 SaaS IPOs and found the median fell from $0.71 of new annual revenue per sales and marketing dollar the year before listing to $0.66 in the listing year. The 20 most recent IPOs had nearly twice the revenue at listing and still landed at $0.66, so the firm treats $0.50 to $0.70 as a normal range for a company that goes public. Some of the strongest companies listed well below it (Palantir came in at $0.33 and Snowflake at $0.57)."
+    },
+    {
+      "url": "https://konvoy.beehiiv.com/p/why-wouldn-t-the-labs-do-it?utm_source=tldrfounders",
+      "title": "Why Wouldn't the Labs Do It?",
+      "summary": "Startups once feared Google entering their market, but today AI labs pose broader threats as their models cover most knowledge work. The labs' extensive capabilities can displace AI companies either through direct competition or by developing superior models. Successful tech ventures should aim to operate outside these labs' immediate focus areas, like in physical operations, proprietary data, or regulated workflows."
+    },
+    {
+      "url": "https://x.com/eric_seufert/status/2119570371536126299?utm_source=tldrfounders",
+      "title": "AI transformation projects often take shape in three stages",
+      "summary": "They integrate an LLM or some sort of generative tool into every workflow, implement efficiency benchmarks, and then start going on token diets."
+    },
+    {
+      "url": "https://saastr.com/why-your-revenues-only-sort-of-matter-when-you-get-acquired-by-a-strategic-even-though-they-are-usually-how-a-deal-is-priced?utm_source=tldrfounders",
+      "title": "Why Revenue Only Partly Determines Strategic Acquisition Value",
+      "summary": "Revenue multiples anchor acquisition negotiations, but strategic buyers pay for what a startup can become through their distribution, infrastructure, and customers."
+    },
+    {
+      "url": "https://davidcummings.org/2026/11/07/how-grayscale-made-channel-sales-work/?utm_source=tldrfounders",
+      "title": "How Grayscale Made Channel Sales Work",
+      "summary": "Grayscale used public data to find high-volume hirers among its partners' customers, then worked directly with the partner rep who owned each account."
+    },
+    {
+      "url": "https://www.choosingvictory.com/p/the-rise-of-the-one-person-institution?utm_source=tldrfounders",
+      "title": "The Rise of the One-Person Institution",
+      "summary": "AI allows writers and analysts to become founders and engineers of autonomous institutions."
+    }
+  ]
+}

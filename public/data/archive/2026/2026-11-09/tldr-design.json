@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-11-09",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitaltrends.com/computing/instagram-brings-its-edits-app-to-mac-with-free-4k-exports-and-multi-layer-edits/?utm_source=tldrdesign",
+      "title": "Instagram Brings Its Edits App to Mac with Free 4K Exports and Multi-Layer Edits",
+      "summary": "Instagram's Edits video editor, until now mobile-only, arrives on Mac as a free app that exports 4K video without watermarks, though Intel Macs are unsupported. The desktop version adds a multi-track timeline with keyframes, audio waveforms, color wheels, and curves, plus custom LUTs, fonts, and a royalty-free music library. Finished videos publish straight to Instagram in multiple aspect ratios, and Edits remains available on Android and iOS."
+    },
+    {
+      "url": "https://ux-news.com/youtube-playables-accessibility-tags/?utm_source=tldrdesign",
+      "title": "YouTube Playables Adds Accessibility Tags to Game Info",
+      "summary": "YouTube Playables now shows 24 accessibility tags in each game's info panel on mobile and web, describing controls, audio, visuals, and gameplay options before anyone plays. Tags for button remapping, narrated menus, large text, and saving at any time follow the Accessible Games Initiative's definitions, and developers add them in the Playables portal. The tags describe what each game supports, so not every title will offer all 24 options."
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/mac-users-will-soon-get-the-dynamic-island-experience-without-buying-a-new-macbook-pro/?utm_source=tldrdesign",
+      "title": "Mac users will soon get the Dynamic Island experience without buying a new MacBook Pro",
+      "summary": "Apple is bringing Live Activities to the menu bar of Macs without Dynamic Island in the macOS 27.3 developer beta, allowing users to monitor ongoing tasks without switching windows. The compact interface appears on the right side of the menu bar and initially supports Apple Music, Clock, Voice Memos, and screen recording. Third-party developers can also implement Live Activities, extending a feature introduced with the new touchscreen MacBook Pro to existing Macs."
+    },
+    {
+      "url": "https://boagworld.com/emails/ai-prototypes/?utm_source=tldrdesign",
+      "title": "Why Designers Should Welcome AI Prototypes",
+      "summary": "AI-generated prototypes created by clients and stakeholders can help designers understand expectations earlier by turning vague ideas into something concrete and interactive. These prototypes are best treated as functional specifications rather than finished designs, since accessibility, usability, technical integration, and underlying assumptions still need professional evaluation. Designers can improve the process by providing design systems, component guidance, and AI skills while focusing their own expertise on research, refinement, and decisions that determine whether a product actually works."
+    },
+    {
+      "url": "https://uxdesign.cc/state-of-a-system-5c8473db1e9?utm_source=tldrdesign",
+      "title": "State of a System",
+      "summary": "A rigid design kit acts as a cache of design decisions that goes stale as requirements evolve, and governing an LLM skill may prove a better foundation. Consolidating several business units' Figma kits into one in 2022 produced about 40 components and 1,786 variants, including 260 for the button alone. Typography variables arriving after the project could have cut that to as little as a fifth, and LLMs now challenge code as the single source of truth."
+    },
+    {
+      "url": "https://jakobnielsenphd.substack.com/p/user-expectations?utm_source=tldrdesign",
+      "title": "Mental Models, Conventions, and Expectations in UX Design: The Expectation Economy",
+      "summary": "Users arrive pre-trained by thousands of other products, judging every new design against those mental templates, so interfaces should look and behave like what they resemble. Seven principles, from mental models and least astonishment to signifiers, mere exposure, and MAYA, show when honoring conventions pays and when an improvement justifies the relearning. Conversational AI raises the stakes, since swapping a model can feel like a redesign, and 37 closing guidelines turn the principles into a release checklist."
+    },
+    {
+      "url": "https://floot.com/en?utm_source=tldrdesign",
+      "title": "Build Real Apps in Claude and ChatGPT (Website)",
+      "summary": "Floot builds it all for you - backend, database, and hosting included. No git, no terminal, and no build credits."
+    },
+    {
+      "url": "https://wanaka.app/?utm_source=tldrdesign",
+      "title": "Turn an Idea into a World You Can Play (Website)",
+      "summary": "Wanaka helps you build, remix, publish, and play real 3D worlds in the browser."
+    },
+    {
+      "url": "https://blossom-carousel.com/?utm_source=tldrdesign",
+      "title": "Blossom Carousel (Website)",
+      "summary": "Blossom Carousel is a lightweight, open-source carousel library that enhances native browser scrolling with physical dragging, customizable navigation, CSS scroll snapping, and framework integrations while preserving native accessibility and loading no JavaScript on touch devices."
+    },
+    {
+      "url": "https://rosenfeldmedia.com/from-designing-to-building-the-rise-of-product-design-engineering-with-david-siren-eisner/?utm_source=tldrdesign",
+      "title": "From designing to building: The rise of product design engineering with David Siren Eisner",
+      "summary": "AI is making it easier for designers to participate directly in building and shipping software, reducing the separation between design and engineering. Traditional handoffs often lose valuable context. Designers can take greater ownership of features by treating code as another creative material. Learning engineering fundamentals, experimenting with small coding projects, and establishing shared quality standards can help teams maintain design intent as implementation accelerates."
+    },
+    {
+      "url": "https://designwanted.com/electroglide-rethinking-wheelchair-mobility/?utm_source=tldrdesign",
+      "title": "ElectroGlide: Making Wheelchair Mobility More Accessible",
+      "summary": "Chicago studio Ono Ideas designed ElectroGlide, a motorized attachment that fits commercially available wheelchairs and adds power only when the user pushes. Interviews with wheelchair users shaped four priorities: remote-free, lightweight, universal, and compact. An app sets the balance between personal effort and assistance. Winner of iF and Red Dot awards in 2025, the Y-frame design remains a concept, with no commercial launch announced."
+    },
+    {
+      "url": "https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?utm_source=tldrdesign",
+      "title": "In a world of panic, calm and certainty win",
+      "summary": "Anxiety about AI replacing creative professionals is growing faster than many of the changes people have actually experienced, making it important to distinguish legitimate concerns from panic-driven decisions. Previous technological disruptions, including desktop publishing, followed similar cycles of democratization, declining quality, and eventual adaptation as new professional standards emerged. Developing firsthand familiarity with AI, understanding personal strengths, and cultivating informed judgment can replace vague fears with concrete decisions about how to adapt."
+    },
+    {
+      "url": "https://www.creativebloq.com/inspiration/youve-been-picturing-these-logos-wrong-your-whole-life?utm_source=tldrdesign",
+      "title": "You've been picturing these iconic logos wrong your whole life",
+      "summary": "Research into the visual Mandela effect found that people frequently misremember familiar logos, including Monopoly, Volkswagen, and Fruit of the Loom, with only 20–30% correctly identifying some of them despite their widespread recognition."
+    },
+    {
+      "url": "https://design-milk.com/2027-colors-of-the-year/?utm_source=tldrdesign",
+      "title": "2027 Colors of the Year: The Shades Defining Design",
+      "summary": "Greens, earthy browns, and muted blues dominate the 2027 Colors of the Year, reflecting interest in nature, comfort, and spaces that feel personal."
+    }
+  ]
+}

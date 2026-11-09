@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-11-09",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.docker.com/blog/docker-activestate-trusted-content?utm_source=tldrdevops",
+      "title": "Docker and ActiveState Extending Secure Defaults to the Packages Developers Install",
+      "summary": "Docker partnered with ActiveState to extend its trusted content standard from base images to packages installed through pip, npm, and Maven. ActiveState rebuilds components from source and promises fixes within 5 business days for critical CVEs."
+    },
+    {
+      "url": "https://octopus.com/blog/feature-flags-whats-next?utm_source=tldrdevops",
+      "title": "What's next for Octopus Feature Flags",
+      "summary": "Octopus Feature Flags leave public preview for Octopus Cloud and arrive in self-hosted Octopus 2027.0, with rules-based targeting and phased automated rollouts. Existing flags require updated client SDKs before upgrading."
+    },
+    {
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/?utm_source=tldrdevops",
+      "title": "How we halved DNS build delay and cut memory use by 85%",
+      "summary": "Cloudflare stopped rebuilding entire DNS zones for settings changes by identifying which records could be affected and grouping pending work for the same zone. Peak memory fell from 79 GiB to 12 GiB, and shorter waits between pipeline stages brought median build completion time down from 7.7 to 3.3 seconds."
+    },
+    {
+      "url": "https://fly.io/blog/well-that-wasnt-fun/?utm_source=tldrdevops",
+      "title": "Well, That Wasn't Fun: October 16 '26",
+      "summary": "Fly.io patched and rebooted its entire fleet over 10 hours in response to CVE-2026-99999, a Linux kernel bug that allowed guest VMs to read host memory. The vulnerability allowed an attacker to control two bytes of an IPv4 header, leading to firewall bypasses and out-of-bounds reads. Fly.io advises customers who sent unencrypted traffic between October 15 and 17 to rotate their credentials."
+    },
+    {
+      "url": "https://spacelift.io/blog/opentofu-import?utm_source=tldrdevops",
+      "title": "How to Import Existing Resources to OpenTofu [Tutorial]",
+      "summary": "Spacelift compares the OpenTofu import CLI command with import blocks and recommends blocks because they appear in plan and apply. The tutorial covers for_each imports, the identity argument, and experimental config generation."
+    },
+    {
+      "url": "https://github.com/synchopate/llama-modchip?utm_source=tldrdevops",
+      "title": "Llama-modchip (GitHub Repo)",
+      "summary": "Llama-modchip runs the 284-billion-parameter DeepSeek-V4-Flash on a pure 64GB CPU with no GPU. It achieves up to 14.7 tokens per second using SwiGLU-H2 compression and cache optimizations. The tool also supports other models, including NVIDIA-Nemotron-3.5-30B-A3B at up to 111 tokens per second."
+    },
+    {
+      "url": "https://github.com/anthropics/claude-quickstarts?utm_source=tldrdevops",
+      "title": "Claude-quickstarts (GitHub Repo)",
+      "summary": "Claude-quickstarts is a collection of projects designed to help developers build deployable applications using the Claude API. The repository includes examples for use cases like a customer support agent, a financial data analyst, and various computer use demos."
+    },
+    {
+      "url": "https://www.harness.io/blog/introducing-a-new-platform-experience?utm_source=tldrdevops",
+      "title": "Harness for Agents: Introducing a New Platform Experience",
+      "summary": "Harness introduced a new platform experience built around a lightweight Go-based Delegate that runs every CD step in its own container. Worker Agents run as pipeline steps under existing approvals and audit logs, and the rollout is opt in through early access."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/online-experiments-agent-observability?utm_source=tldrdevops",
+      "title": "Compare AI agent changes with Online Experiments in Agent Observability",
+      "summary": "Datadog Online Experiments compares AI agent variants on live traffic using evaluation scores alongside latency, cost, and error metrics. In an internal test, GPT-6 Luna cut estimated cost by 44.3 percent versus GPT-5.6 Luna with nearly identical quality scores."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/11/05/kpt-v1-0-0-is-released?utm_source=tldrdevops",
+      "title": "kpt v1.0.0 is released",
+      "summary": "The kpt community released v1.0.0 after several years in pre-release."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/manage-kubernetes-observability-with-datadoginstrumentation?utm_source=tldrdevops",
+      "title": "Manage Kubernetes observability with DatadogInstrumentation",
+      "summary": "Datadog introduced the DatadogInstrumentation custom resource, which holds a workload's checks, log collection, and APM settings in one Kubernetes resource."
+    },
+    {
+      "url": "https://grafana.com/blog/whats-new-with-grafana-variables-less-clutter-easier-reuse-across-dashboards-and-more/?utm_source=tldrdevops",
+      "title": "What's new with Grafana variables: less clutter, easier reuse across dashboards, and more",
+      "summary": "Grafana added section-level variables to rows and tabs generally available, letting users place controls near the panels they affect."
+    }
+  ]
+}

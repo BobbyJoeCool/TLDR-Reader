@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-09",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/?utm_source=tldrdev",
+      "title": "Modern CSS Might Make Your Front-End More Complex",
+      "summary": "Replacing JavaScript with container queries or :has() can simplify a component while creating hidden dependencies across the application. The migration checklist covers ownership, scope, cascade, cleanup, measured performance, and maintainability so that fewer lines do not become harder behavior to debug."
+    },
+    {
+      "url": "https://x.com/UberEng/status/2118769501332463762?utm_source=tldrdev",
+      "title": "Securing AI Agents: Lessons From Real-World Deployment",
+      "summary": "Uber secures agents with provisioning checks, runtime enforcement, and continuous testing, adding behavioral controls to traditional authorization. Scoped intents, session context, and prompt provenance help determine whether an authorized action matches the user's request, while small specialized models and parallel checks keep latency manageable."
+    },
+    {
+      "url": "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch?utm_source=tldrdev",
+      "title": "Rebuilding the Global Town Square from Scratch",
+      "summary": "X rebuilt its web app around one server for people, search crawlers, and link previews, replacing three separate servers. On a slow connection, the first post on a profile appears in 2.7 seconds instead of more than 22 seconds, while signed-in traffic is moving over gradually by country."
+    },
+    {
+      "url": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html?utm_source=tldrdev",
+      "title": "Writing as a Thinking Tool",
+      "summary": "Writing externalizes thought, exposes gaps in understanding, and creates room for connections that can be missed while reading or talking to an LLM. Separate unrestricted drafting from ruthless editing, use plain language, write for yourself, and keep a regular schedule."
+    },
+    {
+      "url": "https://worldnote.substack.com/p/we-already-know-how-to-work-with?utm_source=tldrdev",
+      "title": "We Already Know How to Work with Agents",
+      "summary": "Companies offer a starting point for organizing agents through specialization, delegation, management layers, and escalation. Existing communication and project tools can support agent organizations, but identity, authorization, durable state, and human accountability still need to be solved."
+    },
+    {
+      "url": "https://x.com/addyosmani/status/2119332146485891501?utm_source=tldrdev",
+      "title": "Your Coding Agents Made You a Manager",
+      "summary": "Working effectively with coding agents depends on clear context, self-verification, early course correction, and explicit boundaries. The advice is to turn repeated corrections into shared instructions, enforce only non-negotiable requirements, and keep humans responsible for product decisions, security boundaries, and what ships."
+    },
+    {
+      "url": "https://siliconjungle.github.io/ink-spec-site/?utm_source=tldrdev",
+      "title": "Ink: State Is a Program (Website)",
+      "summary": "Ink is a typed language that compiles state, derived results, and atomic updates together, keeping declared relationships consistent without hand-written cache invalidation. The MIT-licensed working prototype targets JavaScript, native Rust, Rust/Wasm, and eligible WebGPU computation, with proof-checked transformations and explicitly constrained learning."
+    },
+    {
+      "url": "https://github.com/vastsa/PI-Desktop?utm_source=tldrdev",
+      "title": "PI-Desktop (GitHub Repo)",
+      "summary": "PI-Desktop brings projects, coding agents, models, and workflows into a persistent desktop workspace built with Electron and a Rust host core. Plugins can add tools, panels, MCP servers, and background services, while the application supports switching between cloud and local models."
+    },
+    {
+      "url": "https://github.com/github/spec-kit?utm_source=tldrdev",
+      "title": "Spec Kit (GitHub Repo)",
+      "summary": "Spec Kit gives coding agents structured processes, reusable templates, and documented outcomes for building features, fixing bugs, and assessing ideas. Its extensions, presets, and workflows let teams adapt those processes to their tools and standards."
+    },
+    {
+      "url": "https://alfy.blog/2026/11/08/webmcp-explained-with-a-to-do-app.html?utm_source=tldrdev",
+      "title": "WebMCP, Explained with a To-Do App",
+      "summary": "A TodoMVC example exposes seven browser tools through HTML forms and JavaScript, showing how agents can operate a page without guessing which controls to click. It covers input validation, clear tool responses, untrusted content, and confirmation hints, while explaining why tool calls do not replace UI tests."
+    },
+    {
+      "url": "https://linebender.org/blog/jit-bitmap-text/?utm_source=tldrdev",
+      "title": "JIT Bitmap Text Rendering for Microcontrollers",
+      "summary": "A microcontroller text renderer generates machine code for each string and draws through a compact one-bit intermediate buffer before expanding to RGB565. Packed glyphs, overlapping font data, and instruction scheduling reduce memory pressure and rendering cost, including shrinking one font bitmap from 1,140 to 960 bytes."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/?utm_source=tldrdev",
+      "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+      "summary": "NeMo Compass mines agent traces for recurring failures, and NeMo Eval Author turns them into domain-specific tests that can validate harness changes. In a Dassault Systèmes engineering example, the loop reduced malformed tool calls from 142 to zero and improved the evaluation score by 28% with 35% fewer tool calls per run."
+    },
+    {
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry?utm_source=tldrdev",
+      "title": "How I'm Fighting the AI Brain Fry",
+      "summary": "A git-backed ticket queue and a single inbox for human decisions reduce context switching by letting each task leave working memory when it returns to the queue."
+    },
+    {
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough?utm_source=tldrdev",
+      "title": "The Web Is More Than Enough",
+      "summary": "Modern browser APIs and AI-assisted development make rich applications easier for individuals to build and distribute."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/?utm_source=tldrdev",
+      "title": "GitHub's New Pull Request Overview",
+      "summary": "An opt-in preview brings merge readiness and next actions to the top of pull requests, with conversation filters and newest-first comments."
+    },
+    {
+      "url": "https://github.com/arcsin1/oh-my-ppt?utm_source=tldrdev",
+      "title": "Oh My PPT (GitHub Repo)",
+      "summary": "A local-first tool uses AI to turn presentation, lesson, or story descriptions into HTML slides."
+    }
+  ]
+}

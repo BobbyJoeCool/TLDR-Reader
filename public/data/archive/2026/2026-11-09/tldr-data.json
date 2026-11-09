@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-11-09",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?utm_source=tldrdata",
+      "title": "Safe and Efficient Multi-Epoch Embedding Training",
+      "summary": "Pinterest found that training its large ID embeddings for multiple epochs degraded Homefeed ranking quality by nearly 6%. Decoupling embedding optimization from the rest of the model, freezing embeddings during the first epoch, and adapting them later reversed the problem, improving online saves by 1.09%. Semi-synchronous prefetching and communication optimizations also reduced GPU idle time during distributed training."
+    },
+    {
+      "url": "https://duckdb.org/2026/11/05/jetbrains-datagrip.html?utm_source=tldrdata",
+      "title": "How JetBrains Built Cross-Database Queries into DataGrip with DuckDB",
+      "summary": "JetBrains users had long asked to join data across database connections in one query. Rather than build its own engine, the DataGrip team chose DuckDB over Apache Calcite because it was the simplest to integrate. Custom table functions plug DuckDB into DataGrip's existing query execution, so PostgreSQL, MySQL, and MongoDB data can meet in one query."
+    },
+    {
+      "url": "https://klaviyo.tech/how-klaviyo-scaled-analytics-by-getting-out-of-the-way-01836b9164f3?utm_source=tldrdata",
+      "title": "How Klaviyo Scaled Analytics by Getting Out of the Way",
+      "summary": "Klaviyo expanded its AI analytics platform from a four-person experiment to hundreds of monthly users by centralizing business context, governed metrics, and warehouse access. Its KBI system combines over 100 dbt semantic metrics, a curated 90-table environment, and trusted SQL checks behind a common agent interface. Most warehouse queries now originate from agents, reducing dependence on manual analyst requests while keeping data definitions consistent."
+    },
+    {
+      "url": "https://www.anthropic.com/research/components-of-agent-memory?utm_source=tldrdata",
+      "title": "The components of agent memory",
+      "summary": "Anthropic's Lance Martin describes dreaming, where Claude reflects on past session logs to fix mistakes in its memory notes and build new ones. As dreaming scaled from two to 128 sessions over about 350,000 Stainless files, scores on 25 questions rose from 13% to 48%. On merger questions, a wiki beat search alone 87% to 73%."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4244721/your-llm-writes-good-sql-thats-not-the-same-as-safe-sql.html?utm_source=tldrdata",
+      "title": "Your LLM Writes Good SQL. That's Not the Same as Safe SQL",
+      "summary": "Accurate text-to-SQL can still expose unauthorized data when generated queries ignore business context and access policies. In a synthetic benchmark of 900 queries, policy-aware validation applied row filters, column masking, and scope restrictions before execution, eliminating observed data leaks while adding approximately 6.5 ms per query. Permissions must be enforced in code rather than entrusted to model prompts."
+    },
+    {
+      "url": "https://moderndata101.substack.com/p/the-human-side-of-the-semantic-layer?utm_source=tldrdata",
+      "title": "The Human Side of the Semantic Layer: Translating Data Meaning Across Teams",
+      "summary": "Semantic layers need shared human understanding, because teams can interpret the same metric differently even when its calculation is consistent. Governance should pair formal definitions with plain-language explanations, realistic examples, and clear decision rights, then test whether teams apply them consistently."
+    },
+    {
+      "url": "https://martinfowler.com/articles/data-product-platform-nav.html?utm_source=tldrdata",
+      "title": "The Data Product Platform Navigator",
+      "summary": "Data mesh adoption often stalls because teams must assemble data products from disconnected infrastructure, catalogs, and deployment tools. Tom De Wolf proposes a four-level maturity model for self-service data platforms, from fragmented scripts and tickets to integrated developer ecosystems. He argues that Level 3, where complete data products can be provisioned through a platform-as-a-product experience, is the minimum required for scalable decentralized ownership."
+    },
+    {
+      "url": "https://spark.apache.org/releases/spark-release-4-3-0.html?utm_source=tldrdata",
+      "title": "Apache Spark 4.3.0 Release",
+      "summary": "Apache Spark 4.3.0 brings stateful processing to Structured Streaming's Real-Time Mode, supporting aggregations, deduplication, and custom stateful operations with approximately 100 ms end-to-end latency. Declarative Pipelines adds SCD Type 2 Auto CDC, while the SQL engine gains ASOF joins, JSON_TABLE, and optimizations for smaller workloads."
+    },
+    {
+      "url": "https://github.com/siglake/siglake?utm_source=tldrdata",
+      "title": "Siglake: An Open-Source Observability Lakehouse Built on Iceberg and DataFusion (GitHub Repo)",
+      "summary": "Siglake is a Rust-based observability engine that ingests OpenTelemetry logs and traces into Apache Parquet and Iceberg tables on object storage. Its architecture uses an Arrow write-ahead log for streaming ingestion and DataFusion for distributed SQL queries, eliminating the need for Kafka or proprietary storage formats. The project reports ingesting over 400,000 rows per second in distributed tests."
+    },
+    {
+      "url": "https://hop.apache.org/blog/2026/11/hop-2.20.0/?utm_source=tldrdata",
+      "title": "Apache Hop 2.20 Adds Native Iceberg Pipelines and AI Processing",
+      "summary": "Apache Hop 2.20 introduces native Apache Iceberg reads and writes without Spark, partitioned Parquet output, and new data-quality transformations. The open-source ETL platform also adds text embedding pipelines, pgvector integration, OpenLineage support, and an optional AI assistant with human-reviewed changes."
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.08106?utm_source=tldrdata",
+      "title": "Cleaning or Recalling? Knowledge Dependence in LLM-based Data Cleaning",
+      "summary": "Across eight LLMs, researchers found that data-cleaning performance often depends on familiar names and facts, with one model's year-repair accuracy falling from 91% to 18% when films were renamed. Models also overwrote valid table values with remembered facts, while flawed benchmark answers sometimes rewarded incorrect repairs."
+    },
+    {
+      "url": "https://towardsdatascience.com/how-we-built-nasas-zero-shot-detector-for-gas-leaks-from-space/?utm_source=tldrdata",
+      "title": "How We Built NASA's Zero-Shot Detector for Gas Leaks from Space",
+      "summary": "NASA JPL's Daily Methane Digest scans every scene from the EMIT instrument on the space station and cuts alert times from months to about 24 hours. Its U-Net, trained only on methane, also maps carbon monoxide, ammonia, and nitrogen dioxide plumes without retraining. On two years of archived scenes, it found 157 methane plumes that human review missed."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/ryguyrg_dataoutpost-semanticlayer-ai-share-7524187892517085185-w7NG?utm_source=tldrdata",
+      "title": "On automating the creation of a semantic layer",
+      "summary": "Canva's data agent records query intent and business jargon in SQL comments, which the team mines to build a semantic layer, reconcile terminology across departments, and test for unsafe answers."
+    },
+    {
+      "url": "https://querythemurder.com/?utm_source=tldrdata",
+      "title": "Query the Murder: Learn SQL by Solving Murder Mysteries (Website)",
+      "summary": "A free SQL game with 18 Agatha Christie cases that moves from SELECT and WHERE to joins, subqueries, and window functions."
+    }
+  ]
+}
