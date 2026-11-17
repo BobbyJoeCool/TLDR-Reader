@@ -11,9 +11,10 @@ name: Daily TLDR ingest
 
 on:
   schedule:
-    # 20:00 UTC Mon–Fri = 2:00 PM Central Standard Time (3:00 PM during CDT).
-    # GitHub's scheduler often starts runs 5–30 minutes late.
-    - cron: "0 20 * * 1-5"
+    # 9:30 AM Central, Mon–Fri, DST-aware via the IANA timezone field.
+    # GitHub's scheduler can start runs several minutes late under load.
+    - cron: "30 9 * * 1-5"
+      timezone: "America/Chicago"
   workflow_dispatch:
     inputs:
       date:

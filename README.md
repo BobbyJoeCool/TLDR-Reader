@@ -149,7 +149,7 @@ scripts/
 
 ### Automation
 
-The pipeline runs on weekdays via GitHub Actions ([`.github/workflows/ingest.yml`](.github/workflows/ingest.yml)) at 20:00 UTC (2:00 PM CST / 3:00 PM CDT). The ingest commit is pushed with `GITHUB_TOKEN`, which doesn't trigger `push` workflows, so the Azure SWA workflow also runs on `workflow_run` and deploys when the ingest succeeds. GitHub emails the repo owner when a run fails.
+The pipeline runs on weekdays via GitHub Actions ([`.github/workflows/ingest.yml`](.github/workflows/ingest.yml)) at 9:30 AM Central (`America/Chicago`, adjusts for daylight saving). The ingest commit is pushed with `GITHUB_TOKEN`, which doesn't trigger `push` workflows, so the Azure SWA workflow also runs on `workflow_run` and deploys when the ingest succeeds. GitHub emails the repo owner when a run fails.
 
 To backfill or rerun a day: **Actions → Daily TLDR ingest → Run workflow**, and enter the date (blank = today, UTC). Rerunning an already-archived date is a no-op.
 
