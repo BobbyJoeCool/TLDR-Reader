@@ -1,0 +1,83 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-11-11",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/?utm_source=tldrinfosec",
+      "title": "Google Patches Eighth Chrome Zero-Day Exploited in Attacks This Year",
+      "summary": "Google has released an emergency security update to patch a new Chrome vulnerability that attackers are actively exploiting. The vulnerability stems from a use-after-free bug in the browser's XML parser and can be exploited by attackers to execute arbitrary code."
+    },
+    {
+      "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html?utm_source=tldrinfosec",
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "summary": "N-able took hosted N-central environments offline and told on-premises customers to shut down servers after Sean Bales disclosed 33 zero-days, called Able2Shell, with proof-of-concept exploits. The flaws include credential theft, file writes, XXE, XSS, and root-level remote code execution. N-able says it found no active exploitation, but watchTowr observed exploitation attempts against honeypots."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/?utm_source=tldrinfosec",
+      "title": "Hackers Now Exploit Critical Barracuda ESG Flaws to Gain Root Access",
+      "summary": "Barracuda Networks reported that two vulnerabilities in its Email Security Gateway (ESG) appliance, patched last week, are being actively exploited. The first vulnerability stems from an authentication weakness that could be exploited to modify an appliance's global config, and the second lets unauthenticated attackers inject OS commands that are run as root. Barracuda said the vulnerabilities require access to the administrative console to exploit and urges organizations not to expose it to the public internet."
+    },
+    {
+      "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security?utm_source=tldrinfosec",
+      "title": "PwC's CISO on AI, Robots & What's Next for Security",
+      "summary": "PwC global CISO and CIO James Shira says AI expands attack surfaces and accelerates change in patching, vulnerability management, and client requests. He expects organizations to reduce their digital footprint and use AI to replace some application front doors, potentially reducing exposure, although he also expects token costs to affect security budgets. Shira advises cybersecurity entrants to pursue certifications and hands-on experience. He recommends a four-year degree for executive roles and says boards respond to delivered results, clear explanations, and stories rather than technical jargon."
+    },
+    {
+      "url": "https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild?utm_source=tldrinfosec",
+      "title": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+      "summary": "A threat actor used IAM credentials from Qubole's AWS account between October 14 and October 26. It assumed customer-created integration roles, enumerated AWS resources, read Lambda environment variables, Secrets Manager values, and SSM parameters, and then used TruffleHog to validate AWS, Entra ID, and Okta credentials. It downloaded S3 objects from buckets accessible through the assumed roles. Wiz also identified a separate actor using customer-owned AWS keys tied to Qubole integrations."
+    },
+    {
+      "url": "https://www.welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids/?utm_source=tldrinfosec",
+      "title": "Exchange for breakfast: Turla's Cereal tricks are not for kids",
+      "summary": "Turla's newly discovered Cereal toolset turns a victim's Exchange server into its command-and-control system. A passive backdoor waits for encrypted commands sent through ordinary-looking OWA, Autodiscover, and ActiveSync paths. Meanwhile, a module injected into EdgeTransport.exe hooks existing transport agents to quietly copy emails and attachments involving NATO and EU addresses. ESET found the toolset at government agencies in Kazakhstan and Romania and attributed it to Turla with high confidence, noting that it never observed attacker-controlled infrastructure. Exchange admins should check for DLLs disguised as Windows components in System32\\wbem, unexpected Microsoft.Exchange.*.ni.dll files in the .NET native image cache, and EdgeTransport.exe loading assemblies that aren't registered as transport agents."
+    },
+    {
+      "url": "https://github.com/nerfblasters/m365-xdr-cli?utm_source=tldrinfosec",
+      "title": "xdr-cli (GitHub Repo)",
+      "summary": "xdr-cli is a CLI tool that allows a SOC analyst, or their agent, to triage incidents, run advanced hunting, and take response actions in Microsoft Defender XDR from a terminal."
+    },
+    {
+      "url": "https://github.com/yamixst/installctl?utm_source=tldrinfosec",
+      "title": "installctl (GitHub Repo)",
+      "summary": "installctl runs a curl | sh installer inside unprivileged namespaces on top of a FUSE copy-on-write overlay, then lists every file the installer created, changed, or deleted so you can apply all of it, some of it, or none. It pauses on package installs, new user accounts, systemctl calls, and crontab edits and asks whether to skip them, run them, or abort. Afterward, it writes an uninstall script that reverts only the installer's own edits to files like ~/.bashrc."
+    },
+    {
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2?utm_source=tldrinfosec",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "summary": "Anthropic's Claude Fable 5.2 and Claude Mythos 5.2 share one underlying model. Mythos targets cybersecurity work: it found 10.2% more vulnerabilities than Opus 5.5 and 14.4% more than Mythos 5.1 in Anthropic's 1,829-CVE Rediscovery test. Fable blocks high-risk cyber tasks, including penetration testing and exploit generation, while reducing false-positive blocks by about 60%."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/?utm_source=tldrinfosec",
+      "title": "Ransomware Recovery Is Now a Client Retention Metric",
+      "summary": "During a ransomware or other security incident, an MSP's clients may experience disruptions that lead to an erosion of trust and ultimately hurt client retention. Disorganized tools and handoffs can complicate recovery, while poor client communication and accounting can hurt trust. MSPs should track time to first client contact, time to recovery, and time to invoice as metrics in a successful recovery process."
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/?utm_source=tldrinfosec",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "summary": "Nvidia CEO Jensen Huang admitted having an affair with Megaspeed executive Alice Huang. US intelligence reportedly believes the Chinese Ministry of State Security recruited her. Nvidia's board has opened an independent investigation into whether Huang was targeted and whether national security or company secrets were compromised. The inquiry comes as the US investigates Megaspeed for allegedly smuggling Nvidia chips into China and lawmakers seek Huang's testimony on Chinese access to sensitive technology."
+    },
+    {
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/?utm_source=tldrinfosec",
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "summary": "Researchers from Google DeepMind utilized a new agentic tool, AlphaProof Code, to formally verify several of the Signal protocol's cryptographic guarantees. The test ran over the course of four weeks and was built upon prior work by the Signal Foundation. No additional bugs were found, but the researchers were able to reproduce findings from previous versions of the protocol."
+    },
+    {
+      "url": "https://connect.queenslibrary.org/?utm_source=tldrinfosec",
+      "title": "Queens Public Library Network Outage Updates",
+      "summary": "A ransomware attack has knocked out Queens Public Library's website, mobile app, digital media services, and public computers at most branches."
+    },
+    {
+      "url": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/?utm_source=tldrinfosec",
+      "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
+      "summary": "Amplifon Americas says attackers entered its internal systems in January and copied files between January 18 and February 8."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/?utm_source=tldrinfosec",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "summary": "France formally attributed October and November cyberattacks to Iran's Islamic Revolutionary Guard Corps."
+    }
+  ]
+}

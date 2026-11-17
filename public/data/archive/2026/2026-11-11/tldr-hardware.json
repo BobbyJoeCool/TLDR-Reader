@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-11-11",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://pr.tsmc.com/english/news/3352?utm_source=tldrhardware",
+      "title": "TSMC's board approves about $40.9B in capital appropriations for advanced-node, packaging, and fab buildout",
+      "summary": "The appropriations fund advanced-technology and advanced-packaging capacity, fab construction, and 2027 R&D, alongside Q3 revenue of NT$1,494.24B and net income of NT$763.06B. The board also set a NT$9.0 per share dividend, approved a strategic-investment vehicle of up to $500M, and approved stakes of up to $500M each in Anthropic (at its IPO price) and OpenAI (preferred stock)."
+    },
+    {
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13?utm_source=tldrhardware",
+      "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
+      "summary": "SpaceX plans to attempt a first-ever double-catch launch on November 13 with its Starship Flight 15, aiming to recover both the Starship vehicle and its Super Heavy booster. During this mission, Starship will deploy 26 next-gen Starlink V3 satellites and orbit the Earth for over 22 hours. Success would mark a significant milestone for reusable space technology."
+    },
+    {
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast?utm_source=tldrhardware",
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "summary": "AMD's Zen 6 CPUs enhance performance with a faster branch predictor, a dual decode cluster for single threads, and optimized out-of-order structures to reduce memory stalls compared to Zen 5. The main distinction between Zen 6 and Zen 6c lies in their architectural tuning: Zen 6 focuses on high-frequency performance while Zen 6c increases latency absorption with larger cache sizes and core counts."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available?utm_source=tldrhardware",
+      "title": "Google's $29.99 Pixel Tag uses UWB for precision finding, with no NFC, and Lost mode shows owner contact info instead",
+      "summary": "The tag finds nearby items over Bluetooth and ultra-wideband, falls back to Google's Find Hub network of over a billion Android devices when out of range, and pairs via Fast Pair on Android 9 or newer. It has a roughly 80 dB speaker, an IP67 stainless steel body, 0.2 inches thickness and 0.4 oz weight, and a replaceable CR2032 rated for up to a year. Without NFC, Lost mode shares the owner's contact details with finders, and a double press rings your phone."
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/?utm_source=tldrhardware",
+      "title": "Gemini Robotics 2.5: Accelerating Physical Intelligence",
+      "summary": "Gemini Robotics 2.5 enhances robot dexterity, reliability, and safety for real-world tasks. It supports diverse robots like Apptronik's Apollo 2 in Mercedes-Benz factories, achieving 96% success in tasks like automotive kitting. Advanced safety features, boosted by Gemini 4 Argon, increase obstacle and human interaction safety by 33% and 43%, respectively."
+    },
+    {
+      "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/?utm_source=tldrhardware",
+      "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+      "summary": "Boston Dynamics added wheels to its Atlas humanoid for experiments in whole-body control, merging classical motor controls with whole-body reinforcement learning. The experiment, not a product, aimed to test adaptability in unstructured environments and showcased Atlas switching smoothly between rolling and legged motion. This research contributes to the ongoing debate on wheels versus legs in robotics, with implications for agility and real-world functionality."
+    },
+    {
+      "url": "https://developers.meta.com/vr/blog/what-to-expect-meta-vr-ecosystem-holiday-season-2027/?utm_source=tldrhardware",
+      "title": "Meta's VR Revenue Holds Steady Ahead of 2027 Glasses Launch",
+      "summary": "Meta says Quest developer revenue held steady through September, with in-app purchases overtaking premium app sales. Ahead of VR Glasses launching in Spring 2027, it advises developers to target specific audiences and design seated, hand-tracked experiences for customers primarily interested in entertainment."
+    },
+    {
+      "url": "https://semiengineering.com/memory-in-physical-ai/?utm_source=tldrhardware",
+      "title": "Memory In Physical AI",
+      "summary": "LPDDR6 memory is crucial for enhancing performance in autonomous and mobile edge systems like humanoid robots and drones. Effective data hierarchies, improved read/write speeds, and optimized data movement between processors and memory are essential for extending operational time."
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work?utm_source=tldrhardware",
+      "title": "Axiom Space sues Vast, alleging Vast passed off its mission-planning document as original in a NASA astronaut mission deliverable",
+      "summary": "Axiom's unsealed False Claims Act suit says Vast's NASA plan for a private ISS astronaut mission left Axiom's name in some sections and swapped in \"PAM provider\" in others, while Vast calls it competitive rivalry after DOJ declined to intervene."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m?utm_source=tldrhardware",
+      "title": "Oura acquires AI primary-care startup Counsel Health for $625M after shelving its IPO, as quarterly revenue jumps 153% to $533M",
+      "summary": "Oura is buying Counsel Health, whose medical AI with licensed physicians in the loop has been inside the Oura app since June, so ring biometrics can feed directly into care."
+    },
+    {
+      "url": "https://www.therobotreport.com/intel-altera-expand-collaboration-simplify-sensor-integration-physical-ai/?utm_source=tldrhardware",
+      "title": "Intel and Altera expand collaboration to simplify sensor integration for physical AI",
+      "summary": "Intel and Altera are collaborating to develop sensor-bridge reference systems for robotics and physical AI, aiming to simplify sensor integration and real-time processing."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html?utm_source=tldrhardware",
+      "title": "SoftBank swings to a $7B quarterly loss after writing down advance payments for power equipment at its US AI datacenters",
+      "summary": "SoftBank lost 1.12 trillion yen ($7 billion) last quarter, mostly from writing down non-refundable deposits it paid to lock in power-generation equipment for its 8-gigawatt Ohio project and other US data centers, plus Intel's share decline."
+    }
+  ]
+}

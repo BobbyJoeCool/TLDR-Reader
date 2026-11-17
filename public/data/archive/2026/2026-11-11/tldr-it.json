@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-11",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/?utm_source=tldrit",
+      "title": "Microsoft presses Trump to scuttle ban on Chinese data center tech",
+      "summary": "Microsoft and industry groups are lobbying against a proposed US ban on new Chinese optical transceivers used in data centers. They warn that alternative suppliers lack capacity to replace Chinese vendors, potentially delaying construction and leaving purchased AI chips idle. The restrictions are still under consideration."
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/?utm_source=tldrit",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "OpenAI has made ChatGPT Enterprise available through the AWS Marketplace, allowing organizations to purchase and manage the AI product using their existing AWS accounts and billing relationships. Customers gain access to the same models and features available directly from OpenAI while being able to apply eligible spend toward AWS commitments. Additionally, eligible customers can access specialized offerings such as ChatGPT for Healthcare and ChatGPT for Financial Services."
+    },
+    {
+      "url": "https://www.cio.com/article/4244939/it-leaders-seek-alternatives-for-sap-vmware-and-java.html?utm_source=tldrit",
+      "title": "IT leaders seek alternatives for SAP, VMware, and Java",
+      "summary": "Licensing increases and support deadlines are prompting IT leaders to explore replacements for SAP, VMware, and Oracle Java. Executives warn that integrations, training, disruption, and parallel operations can outweigh license savings. They recommend pricing a realistic exit before negotiations and distinguishing dissatisfaction from a workable migration plan."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4246540/panic-over-cloud-capacity-is-out-of-hand.html?utm_source=tldrit",
+      "title": "Panic over cloud capacity is out of hand",
+      "summary": "Claims that AWS and other cloud providers have sold out of AI capacity through 2027 exaggerate infrastructure shortages and create unnecessary concern for enterprises. While GPU, power, and infrastructure constraints affect large-scale AI training, standard inference and fine-tuning workloads remain feasible. Enterprises should distinguish between workload types, verify capacity directly with cloud providers, and build flexible architectures rather than react to market hype."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html?utm_source=tldrit",
+      "title": "Expanding Gemini in Gmail to more Google Workspace users",
+      "summary": "Google is expanding email-thread summaries and non-personalized Help me write to all Workspace users aged 18 or older with Gmail smart features enabled. These features are on by default, with user and admin controls to disable them. Rollout began on November 10 and could take up to 15 days."
+    },
+    {
+      "url": "https://newsroom.ibm.com/2026-11-09-apptio-expands-portfolio-to-help-enterprises-connect-ai-spending-to-business-value?utm_source=tldrit",
+      "title": "Apptio Expands Portfolio to Help Enterprises Connect AI Spending to Business Value",
+      "summary": "IBM expanded Apptio's AI spending tools and Kubecost's Kubernetes network-cost reporting. Available capabilities include AI usage connectors, financial planning for AI services, and more detailed AWS NAT Gateway, cross-zone, and cross-region cost visibility. The announcement also covers planned MCP servers and scenario-planning features, so availability varies across the portfolio."
+    },
+    {
+      "url": "https://blogs.cisco.com/ai/cisco-ai-defense-to-add-anthropics-claude-mythos-for-ai-red-teaming?utm_source=tldrit",
+      "title": "Cisco AI Defense to Add Anthropic's Claude Mythos for AI Red Teaming",
+      "summary": "Cisco is integrating Anthropic's Claude Mythos model into its AI Defense platform to enhance adaptive red teaming for enterprise AI agents. The integration is designed to help enterprises identify security vulnerabilities and behavioral risks in agentic AI applications through controlled, authorized testing."
+    },
+    {
+      "url": "https://containersecurity.dev/blog/docker-sandboxes-development-environment?utm_source=tldrit",
+      "title": "Use Docker Sandboxes as Your Development Environment",
+      "summary": "Docker Sandboxes provide isolated microVM-based development environments for building software projects, such as books using Pandoc and XeLaTeX, without cluttering the host system. Developers can use the sbx CLI to create sandboxes, configure network policies, and install necessary toolchains and dependencies. They can also preserve and reproduce these environments through snapshots or declarative Dockerfiles."
+    },
+    {
+      "url": "https://www.hpe.com/us/en/newsroom/press-release/2026/11/royal-australasian-college-of-surgeons-targets-au21-million-in-savings-with-hpe-private-cloud.html?utm_source=tldrit",
+      "title": "Royal Australasian College of Surgeons targets AU$2.1 million in savings with HPE Private Cloud",
+      "summary": "HPE says RACS lowered its virtualization licensing bill by as much as 70% and reduced its fleet from eight servers to four. The migration followed a renewal quote that was roughly 300% higher. RACS projects a total AU$2.1 million benefit over five years, including planned infrastructure and disaster recovery improvements."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/?utm_source=tldrit",
+      "title": "Amazon CloudWatch Logs announces account-level retention policies",
+      "summary": "CloudWatch now supports account-wide or prefix-based retention policies for log groups."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-profiles-multiple-per-vpc/?utm_source=tldrit",
+      "title": "Amazon Route 53 Profiles now supports multiple Profiles per VPC",
+      "summary": "Multiple Route 53 Profiles can now attach to one VPC, letting teams manage separate DNS configurations with explicit priorities."
+    },
+    {
+      "url": "https://www.infoworld.com/article/4246055/anthropic-and-openai-are-coming-for-the-development-workflow.html?utm_source=tldrit",
+      "title": "Anthropic and OpenAI are coming for the development workflow",
+      "summary": "Frontier AI labs like Anthropic and OpenAI are increasingly expanding their functionality to control more of the end-to-end software development workflow in order to maximize profitability and extend the commercial value of their models."
+    }
+  ]
+}

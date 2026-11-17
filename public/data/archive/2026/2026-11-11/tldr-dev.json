@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-11",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://read.engineerscodex.com/p/the-codebase-rewrite-is-back?utm_source=tldrdev",
+      "title": "The Codebase Rewrite Is Back",
+      "summary": "AI is changing rewrite economics because existing applications give agents a specification to reproduce, making previously expensive migrations and backlog work worth reconsidering. Examples from GitHub, Shopify, and Bun show faster rewrites, but hidden behavior and regressions make end-to-end tests, benchmarks, and reversible rollouts essential."
+    },
+    {
+      "url": "https://x.com/zeeg/status/2120224571689484639?utm_source=tldrdev",
+      "title": "MCP or CLI? Yes",
+      "summary": "Sentry is combining its CLI and MCP server so agents can share CLI authentication while retaining native tool discovery. The CLI handles filesystem-heavy work such as searching session replay logs, while MCP exposes discoverable tools, though inconsistent client support still limits richer integrations."
+    },
+    {
+      "url": "https://carta.com/blog/microapp-architecture-tradeoffs/?utm_source=tldrdev",
+      "title": "Building a Microapp Inside a Plugin: Architecture and Tradeoffs",
+      "summary": "Carta's microapps fetch data through MCP once at launch, then run a local React application against a snapshot with deterministic, auditable business logic. A no-build shell lets users customize the code while updates preserve their data, but the architecture trades real-time refreshes and live collaboration for local ownership and responsive analysis."
+    },
+    {
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/?utm_source=tldrdev",
+      "title": "AI Usage Generates a Fragile Codebase",
+      "summary": "Heavy reliance on AI coding can produce shallow tests, unnecessary abstractions, weaker human understanding, and pull requests that arrive faster than reviewers can inspect them. These habits lead to more incidents, slower recovery, and user-facing failures that coverage metrics miss."
+    },
+    {
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html?utm_source=tldrdev",
+      "title": "Life on Claude Nine",
+      "summary": "This speculative short story follows an engineer whose Claude-powered automations grow from handling email into systems he can no longer understand or control. It explores how productivity gains, compulsive building, and increasingly automatic approvals can turn human oversight into a formality."
+    },
+    {
+      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1?utm_source=tldrdev",
+      "title": "Modern Web Guidance 1.0",
+      "summary": "Modern Web Guidance packages browser expertise and compatibility data as skills for coding agents, with expert-reviewed guidance on accessibility, performance, security, and modern platform features. Version 1.0 adds a static-analysis modernization workflow, public evaluations, and contributions from Firefox and Edge alongside Chrome."
+    },
+    {
+      "url": "https://github.com/ranxianglei/billion-context?utm_source=tldrdev",
+      "title": "billion-context (GitHub Repo)",
+      "summary": "billion-context sits between coding agents and model APIs to compress conversation history into layered summaries while preserving the ability to restore details. It exposes compression, decompression, search, and context-status tools, aiming to keep long sessions within smaller context windows without repeatedly discarding history."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=tldrdev",
+      "title": "Gemini 4 Carbon Is Now Available",
+      "summary": "Gemini 4 Carbon targets complex coding, knowledge work, cybersecurity, and scientific reasoning with longer reasoning and verification loops than Argon. It is available to paying API users at an introductory price of $2 per million input tokens and $10 per million output tokens, alongside a rollout to Google AI Ultra subscribers."
+    },
+    {
+      "url": "https://github.com/paulirish/chrome-capture?utm_source=tldrdev",
+      "title": "chrome-capture (GitHub Repo)",
+      "summary": "Chrome's new screen recording protocol command replaces a decade-old pipeline of JPEG frames piped to ffmpeg with AV1 MP4s encoded directly from the compositor at 60 to 120fps and up to 2160p, with optional tab audio. In benchmarks against Playwright's recordVideo, stopping a recording took 17 ms instead of 3.8 s, and the overall test finished about 10 seconds sooner, with far less WebSocket traffic. It works with Playwright, Puppeteer, or raw CDP and includes a test fixture, making it relevant to anyone recording browser tests or demos."
+    },
+    {
+      "url": "https://www.generalintelligencecompany.com/writing/the-era-of-fully-autonomous-companies?utm_source=tldrdev",
+      "title": "The Era of Fully Autonomous Companies",
+      "summary": "Agent-managed companies need persistent shared state, coordination, code, payment access, and concrete goals that can be checked against real business results. Rapid growth is predicted in autonomous businesses, but demand generation, bot defenses, identity requirements, and human sales cycles remain obstacles."
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/?utm_source=tldrdev",
+      "title": "Introducing AlphaProof Code",
+      "summary": "AlphaProof Code combines human-reviewed specifications with AI agents that generate Lean proofs for key security properties of Signal's compiled cryptographic code. DeepMind reports completing the verification in four weeks with over six million lines of Lean. The system also proved two deliberately reintroduced historical bugs insecure."
+    },
+    {
+      "url": "https://www.alexandretrotel.org/articles/understanding-react-internals?utm_source=tldrdev",
+      "title": "Understanding React Internals (Website)",
+      "summary": "An introduction to React's scheduler that explains why hooks work and previews a series on lanes, hydration, server serialization, and the render and commit phases."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2120209025099043286.html?utm_source=tldrdev",
+      "title": "Swarm Riders and Swarm-Native Companies",
+      "summary": "Managing productive agent swarms is framed as a distinct skill centered on reward functions, evaluations, and turning ambiguous work into verifiable tasks."
+    },
+    {
+      "url": "https://claude.com/docs/connectors/building/mcp-apps/getting-started?utm_source=tldrdev",
+      "title": "Get Started with MCP Apps (Website)",
+      "summary": "Build interactive interfaces inside Claude with the MCP Apps SDK."
+    },
+    {
+      "url": "https://docs.modelplane.ai/guides/inference-guide?utm_source=tldrdev",
+      "title": "An Open Field Guide to Inference Engineering (Website)",
+      "summary": "This practical guide maps platform engineering skills onto production inference, covering GPU memory, KV caches, serving engines, observability, costs, and operational lessons from real deployments."
+    },
+    {
+      "url": "https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple?utm_source=tldrdev",
+      "title": "The Secret of the MacBook's Glowing Apple",
+      "summary": "A teardown found a separate four-LED strip behind the glowing logo."
+    }
+  ]
+}

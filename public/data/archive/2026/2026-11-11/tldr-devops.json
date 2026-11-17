@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-11-11",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/?utm_source=tldrdevops",
+      "title": "Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs",
+      "summary": "Google Kubernetes Engine dynamic slicing is now generally available for TPUs. It separates slice formation from nodepool provisioning, cutting AI workload startup times by up to 5x and recovery times by 4.5x."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/containers/aws-nitro-sandboxes-hardware-enforced-workload-isolation-on-amazon-eks/?utm_source=tldrdevops",
+      "title": "AWS Nitro Sandboxes: Hardware-enforced workload isolation on Amazon EKS",
+      "summary": "AWS Nitro Sandboxes provides hardware-enforced workload isolation for Amazon EKS pods by running each one inside its own lightweight virtual machine. The feature allows users to enable strong security boundaries with a single line in the pod spec without changing container images or deployment pipelines. It offers isolated mode for standard protection and confidential mode for cryptographic attestation."
+    },
+    {
+      "url": "https://octopus.com/blog/argocd-cost-intelligence?utm_source=tldrdevops",
+      "title": "See what your Argo CD applications cost",
+      "summary": "Cost Intelligence for Argo CD is an open-source extension that shows each application's cost in a UI tab, using the previous 24 hours of OpenCost data after each sync. It requires Argo CD 3.4 to 3.6 and OpenCost 1.121.1 or newer."
+    },
+    {
+      "url": "https://cloudnativenow.com/contributed-content/kubernetes-gave-ai-agents-a-place-to-run-but-not-a-way-to-recover/?utm_source=tldrdevops",
+      "title": "Kubernetes Gave AI Agents a Place to Run, But Not a Way to Recover",
+      "summary": "Kubernetes can restore an AI agent's environment but cannot record which steps finished, so restarted agents may repeat actions such as payments. The author argues for durable execution that logs each step, citing Dapr's workflow engine as an option."
+    },
+    {
+      "url": "https://www.wix.engineering/post/7-production-habits-we-learned-at-wix-the-hard-way?utm_source=tldrdevops",
+      "title": "7 Production Habits We Learned at Wix. The Hard Way",
+      "summary": "A Wix engineering lead details seven habits for reliable production systems, learned from eight years of operating the editor server team. The list includes using the Five Whys method to find root causes, running post-mortems without blame, and conducting team-wide on-call handovers. He emphasizes leaving the system better than you found it by fixing one small thing per shift."
+    },
+    {
+      "url": "https://github.com/homeassistant-ai/ha-mcp?utm_source=tldrdevops",
+      "title": "HA-MCP (GitHub Repo)",
+      "summary": "HA-MCP lets users configure and automate Home Assistant with AI assistants like Claude and ChatGPT. The recommended integration installs directly through HACS or the built-in Marketplace on Home Assistant 2026.11+, runs in-process, and works across all installation types."
+    },
+    {
+      "url": "https://github.com/meta/astryx?utm_source=tldrdevops",
+      "title": "Astryx (GitHub Repo)",
+      "summary": "Astryx is an open-source design system with over 150 accessible components. It grew inside Meta over eight years to power more than 13,000 apps. The system is built on React 19 and StyleX, with a CLI designed for both human developers and AI assistants."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/11/10/cloudnativepg-becomes-a-cncf-incubating-project/?utm_source=tldrdevops",
+      "title": "CloudNativePG becomes a CNCF Incubating Project",
+      "summary": "CloudNativePG has moved from CNCF Sandbox to Incubation. The operator runs highly available PostgreSQL on Kubernetes and manages pods directly rather than through StatefulSets, handling failover, rolling updates, backups, and point-in-time recovery."
+    },
+    {
+      "url": "https://www.solo.io/blog/security-holes-in-mcp-servers-and-how-to-plug-them?utm_source=tldrdevops",
+      "title": "MCP Server Security Holes & How to Plug Them",
+      "summary": "Model Context Protocol servers lack built-in authentication, rate limiting, and tool controls, creating security gaps for organizations. This guide explains how to deploy an AI Gateway to add token-based authentication and restrict which specific tools are available to users and agents."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_source=tldrdevops",
+      "title": "Entire's Git Forge Rethinks Git Collaboration for Coding Agents",
+      "summary": "Entire, a Git forge led by former GitHub CEO Thomas Dohmke, is built for collaboration between developers and AI coding agents."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/authenticate-external-grpc-clients-with-amazon-vpc-lattice/?utm_source=tldrdevops",
+      "title": "Authenticate external gRPC clients with Amazon VPC Lattice",
+      "summary": "An Application Load Balancer validates external clients' JWTs, then an ECS proxy signs requests to private gRPC services with AWS SigV4."
+    },
+    {
+      "url": "https://cloudnativenow.com/contributed-content/running-kubernetes-at-its-extremes/?utm_source=tldrdevops",
+      "title": "Running Kubernetes at Its Extremes",
+      "summary": "Kubernetes documents limits of 5,000 nodes and 110 pods per node, and its default etcd storage limit is 2 GB."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-11",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.generalintelligencecompany.com/writing/the-era-of-fully-autonomous-companies?utm_source=tldrfounders",
+      "title": "The era of fully autonomous companies",
+      "summary": "We are now entering the era of autonomous companies. An autonomous company is a company managed entirely by agents. All management decisions are made by AI - there may be humans involved on occasion, but only at the very bottom of the hierarchy for specific tasks. By this time next year, there will be millions of autonomous companies, and many of them will be profitable."
+    },
+    {
+      "url": "https://www.focusedchaos.co/p/inside-the-ai-native-services-business?utm_source=tldrfounders",
+      "title": "Inside the AI-Native Services Business Model",
+      "summary": "AI-native services companies promise the same quality as services businesses but with faster turnaround and typically at a lower cost. The market is big - arguably bigger than the software market. The challenge is in delivering more work without needing proportionally more people while maintaining quality and keeping enough of the efficiency gains. AI-native services may be reasonably easy to get off the ground, but scaling them is another story."
+    },
+    {
+      "url": "https://x.com/itsalexvacca/status/2120138561991405642?utm_source=tldrfounders",
+      "title": "The Forward Deployed Engineer Your GTM Team Needs",
+      "summary": "Forward-deployed engineers embed with sales teams to identify manual handoffs, build CRM automations, train reps, and transfer ownership. This guide recommends prioritizing workflows by hours lost, retaining human approval for outreach, and measuring adoption, production workflows, time saved, and operation without external help."
+    },
+    {
+      "url": "https://searchengineland.com/chatgpt-visual-ads-are-rolling-out-501253?utm_source=tldrfounders",
+      "title": "ChatGPT visual ads are rolling out",
+      "summary": "OpenAI is rolling out visual ads in ChatGPT. Some users will now see ads when ChatGPT generates images. The ads disappear after the images are generated. A video that shows what an ad looks like is available in the article."
+    },
+    {
+      "url": "https://cursor.com/blog/projects-multiplayer?utm_source=tldrfounders",
+      "title": "Cursor Projects is now multiplayer (Tool)",
+      "summary": "Cursor Projects lets teammates work alongside AI agents in a shared workspace with common documents, decisions, and a task board. Agents can coordinate overlapping work and carry context across handovers instead of each teammate rebuilding it. The feature is rolling out in beta to all Cursor users starting November 10."
+    },
+    {
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/?utm_source=tldrfounders",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Businesses in ChatGPT gives businesses a new way to connect with ChatGPT users. Businesses can claim their businesses through Business Hub and see insights on how people engage with them on ChatGPT. OpenAI's Business Agents allow eligible e-commerce and online service businesses in the US to interact with users and help them explore products and services using the most accurate and up-to-date details. Users' conversations and Business Agent chats are not shared with businesses."
+    },
+    {
+      "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors?utm_source=tldrfounders",
+      "title": "Claude Sheets, Whiteboards, and Interactive Connectors (Tool)",
+      "summary": "Claude lets teams build spreadsheets together, organize data, edit formulas across multiple tabs, and map out ideas on shared whiteboards. Teams can turn a whiteboard discussion into a spreadsheet or dashboard without repeating the context, making it useful for account trackers, project updates, and planning. Interactive connectors bring apps such as Adobe and Atlassian directly into Claude, so teams can work with connected apps without switching tabs."
+    },
+    {
+      "url": "https://lspace.beehiiv.com/p/resend?utm_source=tldrfounders",
+      "title": "Designing for Agents — Zeno Rocha, Resend",
+      "summary": "Resend's pricing page uses an interactive slider for people, while adding .md to its URL gives coding agents the same prices as a Markdown table in one request. That lets an agent move from comparing providers to writing the integration. Check whether the version of your pricing page an agent reads returns a price for a specific volume."
+    },
+    {
+      "url": "https://www.saastr.com/ai-startups-may-have-fewer-sales-reps-but-not-as-a-percent-of-the-team-has-the-playbook-really-changed-all-that-much/?utm_source=tldrfounders",
+      "title": "AI Startups May Have Fewer Sales Reps. But Not as a Percent of the Team. Has The Playbook Really Changed All That Much?",
+      "summary": "AI startups maintain a similar sales percentage, with 18.4% of their workforce in sales compared to 20.7% in traditional tech, despite smaller overall teams. Customer support shrinks drastically to 1.8% as AI handles repetitive tasks, while engineering expands to 47% due to the need for constant model updates and customer-specific configurations. These startups show higher output per sales rep and rely heavily on AI in sales development roles, but still require human sales teams for large deals."
+    },
+    {
+      "url": "https://x.com/cjc/status/2120201894794805623?utm_source=tldrfounders",
+      "title": "Great Products Make Great Sales Teams More Valuable",
+      "summary": "Enterprise sales requires navigating procurement, securing finance approval, and winning over stakeholders who can block a purchase."
+    },
+    {
+      "url": "https://tomtunguz.com/we-are-all-junior-talent-now/?utm_source=tldrfounders",
+      "title": "We Are All Junior Talent Now",
+      "summary": "KC, Chief People Officer at OpenAI, highlights transformative organizational changes driven by AI advancements, emphasizing that traditional roles of 'junior' and 'senior' lack relevance today."
+    },
+    {
+      "url": "https://cheekypint.substack.com/p/nik-storonsky-the-most-uncompromising?utm_source=tldrfounders",
+      "title": "Nik Storonsky: The most uncompromising banking CEO",
+      "summary": "Nik Storonsky, CEO of Revolut, explains their growth strategy, emphasizing product development over quick scaling and traditional marketing."
+    },
+    {
+      "url": "https://a16zfrontier.com/posts/article/building-networks-for-agents/?utm_source=tldrfounders",
+      "title": "Building networks for agents",
+      "summary": "Agents can facilitate complex transactions by creating networks similar to Uber, allowing users to express nuanced preferences and suppliers to compete for fulfillment."
+    }
+  ]
+}
