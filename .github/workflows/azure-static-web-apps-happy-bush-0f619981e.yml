@@ -8,6 +8,12 @@ on:
     types: [opened, synchronize, reopened, closed]
     branches:
       - main
+  # The daily ingest pushes with GITHUB_TOKEN, which doesn't fire `push`.
+  # Deploy when that workflow finishes successfully instead.
+  workflow_run:
+    workflows: ["Daily TLDR ingest"]
+    types: [completed]
+    branches: [main]
 
 # Back-to-back pushes make Azure cancel the older in-flight deploy, which shows up as a
 # failed run. Cancel the superseded run on the GitHub side instead.
@@ -17,12 +23,17 @@ concurrency:
 
 jobs:
   build_and_deploy_job:
-    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    if: >-
+      github.event_name == 'push' ||
+      (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') ||
+      (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
       - uses: actions/checkout@v7
         with:
+          # workflow_run: build latest main (includes the ingest commit). Blank = default ref.
+          ref: ${{ github.event_name == 'workflow_run' && 'main' || '' }}
           submodules: true
           lfs: false
       - name: Build And Deploy

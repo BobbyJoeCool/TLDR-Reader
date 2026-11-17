@@ -149,7 +149,9 @@ scripts/
 
 ### Automation
 
-The pipeline runs daily at 2:00 PM via a scheduled Claude Cowork agent. On completion it sends a push notification — success with edition count, or the specific failure reason if something went wrong.
+The pipeline runs on weekdays via GitHub Actions ([`.github/workflows/ingest.yml`](.github/workflows/ingest.yml)) at 20:00 UTC (2:00 PM CST / 3:00 PM CDT). The ingest commit is pushed with `GITHUB_TOKEN`, which doesn't trigger `push` workflows, so the Azure SWA workflow also runs on `workflow_run` and deploys when the ingest succeeds. GitHub emails the repo owner when a run fails.
+
+To backfill or rerun a day: **Actions → Daily TLDR ingest → Run workflow**, and enter the date (blank = today, UTC). Rerunning an already-archived date is a no-op.
 
 Exit codes from `ingestToday.ts`:
 

@@ -1,0 +1,71 @@
+name: Daily TLDR ingest
+
+# Scrapes tldr.tech and commits the day's archive to main.
+# Replaces the scheduled Claude Cowork agent.
+#
+# Deploy: commits pushed with GITHUB_TOKEN do not trigger `push` workflows,
+# so the Azure SWA workflow listens for this workflow's completion
+# (workflow_run) and deploys when it succeeds.
+#
+# Failure notifications: GitHub emails the repo owner when a scheduled run fails.
+
+on:
+  schedule:
+    # 20:00 UTC Mon–Fri = 2:00 PM Central Standard Time (3:00 PM during CDT).
+    # GitHub's scheduler often starts runs 5–30 minutes late.
+    - cron: "0 20 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date to scrape (YYYY-MM-DD). Blank = today (UTC)."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tldr-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Configure git author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Scrape and push
+        env:
+          INGEST_DATE: ${{ inputs.date }}
+        run: |
+          set +e
+          npx tsx scripts/jobs/ingestToday.ts $INGEST_DATE 2>&1 | tee ingest.log
+          code=${PIPESTATUS[0]}
+          set -e
+
+          # Exit 1 + "No editions published" is a genuine quiet day (holiday):
+          # don't mark the run as failed for that. Every other non-zero exit
+          # (2 = couldn't reach tldr.tech, 1 = git push failed) fails the run.
+          if [ "$code" -eq 1 ] && grep -q "No editions published" ingest.log; then
+            echo "::notice::No TLDR editions published for this date (holiday?)."
+            exit 0
+          fi
+          if [ "$code" -eq 2 ]; then
+            echo "::error::Could not fetch tldr.tech from the runner — see log for HTTP status."
+          fi
+          exit "$code"

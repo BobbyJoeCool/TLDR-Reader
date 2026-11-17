@@ -144,6 +144,17 @@ async function main() {
     // working-tree changes that might be present during development.
     execSync("git add public/data/archive", { cwd: repoRoot, stdio: "inherit" });
 
+    // Re-running an already-archived date rewrites identical files, leaving
+    // nothing staged. `git commit` would fail on that, so treat it as success.
+    // `git diff --cached --quiet` exits 0 when the index matches HEAD.
+    try {
+      execSync("git diff --cached --quiet -- public/data/archive", { cwd: repoRoot });
+      console.log("\n✓ Archive already up to date — nothing to commit");
+      return;
+    } catch {
+      // Non-zero exit: there are staged changes — fall through and commit them.
+    }
+
     execSync(`git commit -m "chore: update TLDR archive for ${date}"`, {
       cwd: repoRoot,
       stdio: "inherit",
