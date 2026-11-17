@@ -1,0 +1,78 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-05",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/?utm_source=tldrit",
+      "title": "CrowdStrike introduces a kill switch for AI agents",
+      "summary": "CrowdStrike's new AI Kill Switch lets security teams block agents' access to AI models through connected gateways. Broader controls, including terminating endpoint processes and revoking agent permissions, remain in development."
+    },
+    {
+      "url": "https://www.theregister.com/virtualization/2026/11/04/vmware-returns-to-low-end-server-virtualization-with-vsphere-express/5307466?utm_source=tldrit",
+      "title": "VMware returns to smaller deployments with vSphere Express",
+      "summary": "Broadcom introduced vSphere Express for deployments of up to 128 processor cores, giving smaller customers an alternative to its larger VMware bundles. It includes live VM migration, automated recovery, and distributed switching, although individual installations cannot be managed centrally."
+    },
+    {
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/?utm_source=tldrit",
+      "title": "Accelerating engineering for the physical world",
+      "summary": "OpenAI is sharing advances in how its models help engineers design, simulate, and build physical products across mechanical and electrical engineering. In an internal test, the company used GPT-6 Astra to define requirements and design the enclosure, printed circuit board, and software integrations for a device without direct human edits. Additionally, OpenAI is working with industry collaborators such as Chip Ganassi Racing and Mazda to test these capabilities on real-world engineering and prototyping problems."
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/trace3-says-disconnected-ai-investments-are-creating-hidden-costs-for-enterprises-302928832.html?utm_source=tldrit",
+      "title": "Disconnected AI projects are multiplying enterprise costs",
+      "summary": "Separate departmental AI projects create hidden costs through duplicate platform purchases, repeated data preparation, and unmonitored model usage. Maintain a shared inventory of tools and pilots, then compare each project's operating costs against its measurable benefits."
+    },
+    {
+      "url": "https://www.itpro.com/security/what-does-disaster-recovery-look-like-in-an-ai-centric-world?utm_source=tldrit",
+      "title": "What does disaster recovery look like in an AI-centric world?",
+      "summary": "As businesses increasingly rely on AI as operational infrastructure, outages and dependencies outside direct control highlight the need to update disaster recovery strategies. Experts suggest defining a minimum viable company that includes AI models, RAG data, and identity dependencies, while accounting for non-deterministic model outputs and fast-acting autonomous AI agents."
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/business-ontology-context/?utm_source=tldrit",
+      "title": "Business Ontology: Governed Context for AI",
+      "summary": "Snowflake has announced the upcoming public preview of Business Ontology, a new business modeling and governance layer within Snowflake Horizon Context designed to provide AI agents with governed business context. The feature allows organizations to define concepts, metrics, and relationships, linking them to underlying semantic views to ensure AI models rely on approved enterprise definitions. Snowflake also helped found Apache Ossie, an open-source standard for semantic models to enable interoperability across tools."
+    },
+    {
+      "url": "https://blog.mozilla.ai/otari-by-mozilla-ai-your-operating-system-for-ai-governance/?utm_source=tldrit",
+      "title": "Otari by Mozilla AI: your operating system for AI governance",
+      "summary": "Mozilla AI has launched Otari, an open-source operating system and gateway designed for AI governance and multi-provider choice. The platform allows organizations to enforce tool restrictions, manage user budgets, and trace AI sessions in one place, while enabling seamless switching between model providers through a single API config change."
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/product-release-announcements/bring-live-atlas-data-into-microsoft-365-copilot?utm_source=tldrit",
+      "title": "MongoDB brings live Atlas data into Microsoft 365 Copilot",
+      "summary": "MongoDB's generally available Atlas connector lets Microsoft 365 Copilot answer questions using live operational data. The integration uses a managed MCP server to query Atlas directly, allowing users to investigate orders, incidents, and business metrics without relying on a static data copy."
+    },
+    {
+      "url": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms?utm_source=tldrit",
+      "title": "Adobe brings customer experience agents into major AI platforms",
+      "summary": "Adobe's CX Enterprise Coworker is now available within ChatGPT, Claude, Databricks Genie, Gemini for business, and Microsoft Copilot. The integrations let marketers retrieve data and coordinate customer experience tasks across connected systems, with AWS, IBM, and Snowflake support planned."
+    },
+    {
+      "url": "https://neo4j.com/blog/knowledge-graph/graph-intelligence-for-your-snowflake-data-estate/?utm_source=tldrit",
+      "title": "Seamless graph intelligence for your Snowflake data estate: The Neo4j and Snowflake partnership",
+      "summary": "Neo4j and Snowflake have partnered to integrate Neo4j's graph intelligence capabilities into the Snowflake AI Data Cloud, aiming to improve AI reasoning and enterprise data insights without time-consuming ETL processes. The partnership introduces three core deployment options: Virtual Graph for zero-data-movement querying, Graph Analytics for Snowflake for on-demand SQL-based graph algorithms, and AuraDB integration for real-time mission-critical workloads."
+    },
+    {
+      "url": "https://techcommunity.microsoft.com/blog/windows-itpro-blog/windows-news-you-can-use-october-2026/4552396?utm_source=tldrit",
+      "title": "Microsoft rounds up Windows management changes and upcoming deadlines",
+      "summary": "Microsoft's latest IT roundup covers Windows recovery improvements and Intune controls that let standard users change approved network settings without broader admin access. It also flags Windows Update certificate expirations in 2027 and the January 15 end of CNAME-based discovery for Windows MDM-only enrollment."
+    },
+    {
+      "url": "https://www.ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm?utm_source=tldrit",
+      "title": "IBM launches managed HashiCorp Vault on dedicated infrastructure",
+      "summary": "IBM Cloud Secrets Manager Vault Dedicated offers single-tenant Vault Enterprise deployments with IBM handling infrastructure and operations, alongside dynamic credentials, automated rotation, and policy-based access."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-11-google-unveils-billion-center-investment.html?utm_source=tldrit",
+      "title": "Google unveils $15 billion data center investment in Malaysia",
+      "summary": "Google announced a $15 billion investment in Malaysia over the next two years to build data centers and other infrastructure to support surging demand for artificial intelligence services."
+    },
+    {
+      "url": "https://newsroom.ibm.com/2026-11-04-confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context?utm_source=tldrit",
+      "title": "Confluent introduces Streamhouse for real-time business context",
+      "summary": "Confluent's Streamhouse architecture combines streaming, processing, governance, and querying to give applications and AI agents a continuously updated view of business operations."
+    }
+  ]
+}

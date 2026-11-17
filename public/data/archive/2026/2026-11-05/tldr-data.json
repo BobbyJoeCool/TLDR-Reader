@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-11-05",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/?utm_source=tldrdata",
+      "title": "Frontier quality at 1% of the cost: a production benchmark of LLM classifiers",
+      "summary": "Airbnb fine-tuned a model with 2 billion effective parameters to screen content for pricing-policy violations. Its F1 score rose from 0.563 to 0.902, matching the best frontier APIs, with a median latency of 35ms against their roughly 900ms. At thousands of requests a minute, the frontier models cost two orders of magnitude more than one self-hosted GPU."
+    },
+    {
+      "url": "https://posthog.com/blog/moving-off-duckdb?utm_source=tldrdata",
+      "title": "Why we're moving our warehouse product off DuckDB",
+      "summary": "Five months after rebuilding its warehouse product on DuckDB, PostHog is moving off it. Each instance had to be sized before the query arrived, and its DuckLake, holding about 1 trillion rows, could take over three minutes for a single-table write. PostHog is now rebuilding on Trino with its own table format, HogLake."
+    },
+    {
+      "url": "https://blogs.halodoc.io/upgrading-redshift-from-ra3-to-rg-and-achieving-faster-queries-at-32-lower-cost/?utm_source=tldrdata",
+      "title": "Upgrading Redshift from RA3 to RG and Achieving Faster Queries at 32% Lower Cost",
+      "summary": "Halodoc migrated its Redshift warehouse from RA3 to Graviton-based RG instances after validating ingestion, ETL, dashboards, and governance compatibility. COPY operations ran roughly 6x faster, heavy reporting queries ran 2.1x to 5.2x faster, and queue times fell by around 70%. Overall Redshift costs dropped 32%, demonstrating the potential benefits of the new architecture for production analytics workloads."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/?utm_source=tldrdata",
+      "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+      "summary": "Meta rebuilt its ads ML feature infrastructure to deploy features independently without losing the efficiency of shared computation. F3 Lightning uses stable computation IDs, a unified execution plan, and shared memory to avoid redundant processing across more than 20,000 features. Comparable features now reach production 3.6x faster without increasing infrastructure compute costs."
+    },
+    {
+      "url": "https://joereis.substack.com/p/the-great-data-interregnum-morbid?utm_source=tldrdata",
+      "title": "The Great Data Interregnum - Morbid Symptoms of an Industry Between Eras",
+      "summary": "The data industry is caught between vendor consolidation, AI-driven automation, and unresolved operational problems. Generating SQL, pipelines, and documentation is becoming cheaper, but broken data, inconsistent business definitions, and unclear accountability remain. The lasting value of data teams lies in semantics, governance, and understanding rather than producing more technical artifacts."
+    },
+    {
+      "url": "https://www.ssp.sh/blog/humans-write-less-code/?utm_source=tldrdata",
+      "title": "As Humans Write Less Code: Workloads Shift from Human to Agent Verification with Iterative Test Suites",
+      "summary": "As AI agents generate more SQL, transformations, and dashboards, verifying their output becomes more important than writing the code itself. What dev teams really need are compiler-style validation, layered test suites, and unified lineage across data models and BI assets. Moving assertions earlier in development could make agent-generated analytics easier to audit and less prone to semantic drift."
+    },
+    {
+      "url": "https://www.counting-stuff.com/exploratory-data-analysis-cant-be-automated-away/?utm_source=tldrdata",
+      "title": "Exploratory Data Analysis Can't Be Automated Away",
+      "summary": "Exploratory data analysis still needs human eyes on the data. What looks weird depends on what you intend to do, which no model can know in a vacuum. LLMs rarely make the work faster."
+    },
+    {
+      "url": "https://github.com/HelixDB/helix-foundry?utm_source=tldrdata",
+      "title": "Helix Foundry: Turning Enterprise Data into an AI-Generated Knowledge Graph (GitHub Repo)",
+      "summary": "Helix Foundry connects databases, SaaS applications, and files, then uses an AI agent to propose an ontology and load the resulting entities and relationships into HelixDB. The open-source project supports local deployment and is adding consistent PostgreSQL snapshots and graph computation capabilities."
+    },
+    {
+      "url": "https://surrealdb.com/4?utm_source=tldrdata",
+      "title": "SurrealDB 4",
+      "summary": "SurrealDB 4 rebuilds the query engine with 240+ fixes. It reports 42% faster CRUD operations and projects 22x faster indexed queries, while adding PostgreSQL, MySQL, and MongoDB compatibility. The same engine powers Earth's serverless databases on Cloudflare and SurrealDS' distributed clusters, which confirm writes only after storing them across two zones."
+    },
+    {
+      "url": "https://hudi.apache.org/blog/2026/11/03/apache-hudi-rs-0-6-0-release-announcement?utm_source=tldrdata",
+      "title": "Apache Hudi-rs 0.6.0: Native Writes from Rust and Python",
+      "summary": "Apache Hudi-rs 0.6.0 introduces native write support for Rust and Python, allowing applications to create, append, update, upsert, and delete records without Spark or a JVM. Its record-level index enables sub-second small-batch updates on tables containing millions of rows. The release also improves Python read performance by up to 6x while maintaining compatibility with existing Hudi query engines."
+    },
+    {
+      "url": "https://medium.com/pinterest-engineering/scaling-model-evaluation-at-pinterest-with-ray-part-4-4a96cd12cc11?utm_source=tldrdata",
+      "title": "Scaling Model Evaluation at Pinterest with Ray (Part 4)",
+      "summary": "Pinterest used to run inference with Ray, write predictions to S3, then start a Spark job to read them back and compute metrics. Its new evaluation platform computes partial metrics batch by batch inside the Ray inference job and combines them at the end. That cut end-to-end evaluation time by up to 32% for feature-importance runs."
+    },
+    {
+      "url": "https://github.com/rocketride-org/rocketride-server?utm_source=tldrdata",
+      "title": "RocketRide: A C++ Pipeline Engine for AI Workflows (GitHub Repo)",
+      "summary": "RocketRide is an open-source AI pipeline engine built around a multithreaded C++ runtime with more than 50 Python-extensible processing nodes. It supports multiple LLM providers, vector databases, and agent frameworks, with debugging and deployment tools integrated into VS Code."
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.04318?utm_source=tldrdata",
+      "title": "Text-to-SQL Models Make Choices Without Saying So",
+      "summary": "SpecBridge shows that text-to-SQL models often silently choose one interpretation of ambiguous questions, while answering each interpretation separately improves coverage by 29-63 percentage points without reducing precision on clear requests."
+    },
+    {
+      "url": "https://estuary.dev/blog/multi-tenant-cdc?utm_source=tldrdata",
+      "title": "Multi-Tenant CDC: Database-per-Tenant SaaS Architecture Guide",
+      "summary": "A practical guide to replicating tenant-isolated PostgreSQL databases into shared analytics tables while preserving primary keys, schema compatibility, and failure isolation."
+    }
+  ]
+}

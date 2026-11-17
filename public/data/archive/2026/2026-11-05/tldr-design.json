@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-11-05",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitaltrends.com/phones/adobe-premiere-mobile-app-is-getting-licensed-music-from-universal-and-warner-music/?utm_source=tldrdesign",
+      "title": "Adobe Premiere Mobile App is Getting Licensed Music from Universal and Warner Music",
+      "summary": "Adobe is bringing licensed tracks from Universal Music Group and Warner Music Group into its Premiere mobile app, searchable by genre and duration. Videos using them can be shared on social media without copyright strikes, though only for personal use. Each video can include no more than 60 seconds of a song."
+    },
+    {
+      "url": "https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html?utm_source=tldrdesign",
+      "title": "Canva to Cut More Than 1000 Jobs in ‘Hardest Moment' of Its History",
+      "summary": "Canva is restructuring 1,271 roles, affecting 22 percent of its workforce, after its growth slowed this year for the first time in a decade. Chief executive Melanie Perkins called it the hardest moment in Canva's thirteen-year history, announcing a merged product organization with fewer management layers. Departing staff receive at least six months' salary, and the cuts follow Canva slashing its own valuation to US$31 billion."
+    },
+    {
+      "url": "https://9to5mac.com/2026/11/03/ios-27-3-and-macos-27-3-add-vertical-tabs-adaptive-dark-mode-and-more-to-safari/?utm_source=tldrdesign",
+      "title": "iOS 27.3 and macOS 27.3 add Vertical Tabs, Adaptive Dark Mode, and more to Safari",
+      "summary": "Apple is introducing vertical tabs in Safari's developer betas across iPhone, iPad, and Mac, with tabs displayed as compact icons in a left sidebar that can expand to show website titles. A new Adaptive Dark Mode can automatically generate dark versions of websites that lack native support, either on demand or through a persistent preference. Siri AI can also organize, sort, move, and close tabs, with broader awareness of webpage content planned for a future update."
+    },
+    {
+      "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981?utm_source=tldrdesign",
+      "title": "Agents struggle with the same bad UX we do",
+      "summary": "Computer-use AI agents frequently fail at the same confusing interfaces that frustrate humans, including ambiguous buttons, hidden menus, unexplained disabled states, and disruptive overlays. People often compensate for these problems by guessing, backtracking, or relying on experience, while agents expose the underlying design debt through repeatable failures that are easier to observe. Making interfaces clearer for agents through explicit labels, visible states, predictable interactions, and semantic structure can also improve accessibility and usability for people."
+    },
+    {
+      "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?utm_source=tldrdesign",
+      "title": "Everyone is building AI agents. Who's designing the stop button?",
+      "summary": "AI agents introduce unpredictable behavior into products traditionally designed around explicit rules and known transitions, making it essential to distinguish where autonomy is useful from where reliability is mandatory. Products can let AI interpret intentions and construct workflows while using deterministic execution, visible uncertainty, confirmation steps, and clear recovery mechanisms to protect consequential actions. Designing effective agent experiences increasingly means defining boundaries around what AI may decide, when humans must intervene, and how users can understand, correct, or stop an autonomous process."
+    },
+    {
+      "url": "https://thedesignersfieldguide.substack.com/p/why-10000-experiments-work-better?utm_source=tldrdesign",
+      "title": "Why 10,000 experiments work better than 10,000 hours for designers",
+      "summary": "Repeatedly practicing the same design skills can make someone better at their current job without developing the problem-framing, influence, and decision-making abilities required for more senior roles. Instead of relying on experience alone, designers can break career goals into microskills and run small experiments, such as opening every design review with a specific decision or presenting research findings themselves. A weekly reflection can help turn these experiments into deliberate professional growth without requiring organizational approval or major changes to existing workflows."
+    },
+    {
+      "url": "https://benji.org/drawesome?utm_source=tldrdesign",
+      "title": "A Drawing Toolbar for React (Website)",
+      "summary": "Drawesome is a drawing toolbar for React. Seven pens, an eraser, SVG and PNG export, and no dependencies beyond React."
+    },
+    {
+      "url": "https://createui.co/?utm_source=tldrdesign",
+      "title": "A Figma Design System and React Library That Stay in Sync (Website)",
+      "summary": "A unified Figma design system and React component library: 80+ components, 73 ready-made blocks, 18,500+ components and variants, and 950+ variables and styles."
+    },
+    {
+      "url": "https://libraries.dev/orbs?utm_source=tldrdesign",
+      "title": "Thought-Orb Loading Indicators for AI Interfaces (Website)",
+      "summary": "Thinking Orbs are animated AI thinking and loading indicators for React."
+    },
+    {
+      "url": "https://clearleft.com/thinking/bad-ai-doesnt-smell?utm_source=tldrdesign",
+      "title": "Bad AI Doesn't Smell",
+      "summary": "Like a bad survey, bad AI output gives no sign that it's wrong, but authority bias, truth bias, and algorithm appreciation make people trust it anyway. In user research, mistranscriptions, missed body language, misread sarcasm, and hallucinations can turn into confident, wrong insights. Someone who ran the research has to check any AI analysis, ideally used only as a sense-check after doing their own."
+    },
+    {
+      "url": "https://the-brandidentity.com/project/how-afternow-put-kinetiks-identity-and-four-products-into-one-system?utm_source=tldrdesign",
+      "title": "How Afternow put Kinetik's identity and four products into one system",
+      "summary": "Afternow redesigned healthcare transportation platform Kinetik around painterly city landscapes inspired by the view from a car window, replacing conventional clinical imagery with a warmer visual language built from purple, deep greens, gold, salmon, and lavender. GT Alpina provides expressive editorial typography, DM Sans supports accessible product interfaces, and AI-generated landscapes are carefully art-directed with documented prompts to maintain consistency. The identity extends across four products through a shared design system containing more than 300 components and 2,000 screens, using tokens to adapt spacing, density, and accessibility for administrators, transportation providers, and elderly patients."
+    },
+    {
+      "url": "https://george.mand.is/2026/11/the-tokenizer-font/?utm_source=tldrdesign",
+      "title": "Tokenizer Mono",
+      "summary": "Tokenizer Mono is an experimental typeface based on IBM Plex Mono that visualizes how language models split text into tokens, using OpenType features to highlight boundaries directly as someone types without running a tokenizer in JavaScript. Its 28 styles represent different tokenizers from OpenAI, Meta, Google, DeepSeek, and others, combining contextual glyph substitutions with built-in color palettes to approximate token boundaries. Most styles achieve roughly 98% agreement with real tokenizers in testing, demonstrating how advanced font technology can perform surprisingly complex text processing while revealing its limitations around line breaks, uncommon words, and tokenization algorithms."
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/chromes-new-menu-search-makes-settings-and-bookmarks-easier-to-find/?utm_source=tldrdesign",
+      "title": "Chrome's new menu search makes settings and bookmarks easier to find",
+      "summary": "Google is testing a searchable three-dot menu in Chrome that lets users find browser commands, bookmarks, and recently visited websites without navigating through nested menus."
+    },
+    {
+      "url": "https://designyoutrust.com/2026/10/dutch-digital-artist-creates-the-most-warm-ethereal-artworks-you-will-ever-lay-eyes-on/?utm_source=tldrdesign",
+      "title": "Dutch Digital Artist Creates the Most Warm, Ethereal Artworks You Will Ever Lay Eyes On",
+      "summary": "Utrecht-based digital artist and animator Lois van Baarle, known as Loish, paints expressive female figures in soft, glowing light, rich color, and flowing hair and clothing."
+    },
+    {
+      "url": "https://designworklife.com/designing-product-demos-people-can-actually-follow/?utm_source=tldrdesign",
+      "title": "Designing Product Demos People Can Actually Follow",
+      "summary": "A product demo is a sequence of state changes, so clarity depends on how attention moves between steps rather than on polished screens."
+    }
+  ]
+}

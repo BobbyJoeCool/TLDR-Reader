@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-11-05",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.finextra.com/pressarticle/111563/stripe-treasury-launches-in-the-uk?utm_source=tldrfintech",
+      "title": "Stripe Treasury launches in the UK",
+      "summary": "Stripe, the programmable financial services company, today launched Stripe Treasury in the UK, enabling founders to manage money from the same Dashboard where they already accept payments, without navigating across separate providers."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/?utm_source=tldrfintech",
+      "title": "Sequoia rewinds 20 years of expansion to refocus on concentrated venture investing",
+      "summary": "Sequoia is simplifying its organization after two decades of expansion, shutting its London office, ending the Arc accelerator and Scouts program, merging early-stage and growth investing, flattening the partnership, and eliminating its Monday partner meeting. The firm says it has raised about $10 billion of new capital and is returning to a more concentrated model built around fewer bets, a smaller team, and deeper support for founders from its Bay Area base."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/?utm_source=tldrfintech",
+      "title": "Revolut's valuation jumps 53% to $115B ahead of planned US bank launch",
+      "summary": "Revolut completed a secondary share sale at a $115 billion valuation, up 53% from a year earlier, as it prepares to launch a US national bank in the first half of 2027 pending final approval. The company now serves more than 80 million retail customers, while Revolut Business generates about $1.28 billion of annualized revenue and processes roughly $48.6 billion of transactions each month, giving the company another major growth engine as it considers a potential IPO no earlier than 2028."
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/end-erp-we-know-evan-goldberg-cyrgc/?utm_source=tldrfintech",
+      "title": "NetSuite founder says “ERP as we know it is over”",
+      "summary": "AI will change ERP more profoundly than cloud computing by shifting software from a system people operate into one that understands business context and increasingly performs work on their behalf. NetSuite is pushing this through NetSuite Next, MCP-based AI connectors and SuiteSkills, industry-specific agents, faster AI-assisted implementations, and an “Autonomous Suite” where agents handle tasks such as reconciliations, approvals, and close exceptions while staying within existing permissions and controls."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/payments-new-ads?utm_source=tldrfintech",
+      "title": "Payments are the new ads",
+      "summary": "The one-time virtual cards behind most agent purchases today are a fragile bridge, breaking rewards, purchase protection, and checkout flows, while banks hold off on issuing agent network tokens until liability is settled. Meanwhile, agent platforms are routing around banks with prefunded stablecoin balances, where the bank sees one top-up and the platform earns roughly 4x more per $100 than on a virtual card. As agents erode ad revenue, platforms like Meta (charging fees on Muse-completed sales) will turn to payments to monetize, and banks risk losing the customer unless they step in to own agent liability."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/sweat-the-details?utm_source=tldrfintech",
+      "title": "Sweat the Details: Why good payments get declined and how to optimize fraud, cost, and acceptance",
+      "summary": "Payment optimization is a three-way trade-off between fraud, cost, and acceptance, with small differences in issuer behavior, routing, authentication, and payment data often determining whether a legitimate transaction succeeds profitably. Optimize for net business outcome rather than one metric in isolation, using detailed payment data and issuer-specific knowledge to reduce fraud, lower fees, and recover good transactions without creating new losses."
+    },
+    {
+      "url": "https://finovate.com/revolut-secures-new-zealand-banking-license-expanding-its-global-footprint/?utm_source=tldrfintech",
+      "title": "Revolut secures New Zealand banking license, expanding its global footprint",
+      "summary": "Revolut now holds seven bank licenses, five secured this year, and operates as a licensed bank in 34 geographies."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111557/onepay-introduces-stablecoin-deposits-powered-by-stripe?utm_source=tldrfintech",
+      "title": "OnePay introduces stablecoin deposits powered by Stripe",
+      "summary": "Starting today, select customers in the US can use stablecoins to fund their OnePay Checking and receive the value as US dollars. Send stablecoins from an external wallet to a deposit address, and they are converted to US dollars and credited to your Checking balance within moments, with no conversion fees at launch."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/mastercard-scales-in-india/873405/?utm_source=tldrfintech",
+      "title": "Mastercard expands HDFC partnership to scale in India",
+      "summary": "Mastercard expanded its partnership with HDFC Bank, India's largest private bank, with a new small-business agreement that could support roughly 3 million additional cards and more services sold through HDFC's 100 million-customer base. The strategy is to grow alongside India's UPI system, betting that greater digital-payment adoption will eventually push more consumers and businesses toward debit, credit, and other Mastercard products."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111567/pine-lab-brings-unified-commerce-to-singapore-with-stripe?utm_source=tldrfintech",
+      "title": "Pine Lab brings unified commerce to Singapore with Stripe",
+      "summary": "Leading merchant commerce platform Pine Labs and global programmable financial infrastructure provider Stripe today announced a unified commerce solution that enables eligible retailers in Singapore to manage online and in-store payments through a single platform, simplifying operations while helping retailers engage customers more effectively across online and in-store channels."
+    },
+    {
+      "url": "https://www.reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27/?utm_source=tldrfintech",
+      "title": "AI financing drives private credit growth as refinancing risks rise",
+      "summary": "AI infrastructure is expanding private credit beyond traditional corporate lending into land, power, semiconductors, and compute, with hyperscalers and CoreWeave expected to spend nearly $1 trillion in 2027 using cash flow, debt, joint ventures, and SPVs. The risk is a large refinancing wall from 2027 to 2029, especially for weaker borrowers using PIK interest, while increasingly circular financing between chipmakers, AI developers, and infrastructure providers could create correlated losses in a downturn."
+    },
+    {
+      "url": "https://www.finextra.com/blogposting/33157/api-driven-commerce-how-programmable-money-is-automated-for-modern-b2b-marketplaces?utm_source=tldrfintech",
+      "title": "API-Driven Commerce: How Programmable Money is Automated for Modern B2B Marketplaces",
+      "summary": "B2B marketplaces routinely process transactions involving three suppliers, four tax jurisdictions, net-60 terms, and a platform take-rate. Handling these payment flows via batch processing or manual finance ops creates immediate bottlenecks. Moving money across complex seller networks requires treating currency as software logic rather than static banking entries."
+    },
+    {
+      "url": "https://a16z.com/is-private-equity-cooked?utm_source=tldrfintech",
+      "title": "Is Private Equity Cooked?",
+      "summary": "PE-backed tech exit value is down 77% from a year ago, and roughly $140 billion of risky PE-backed loans mature in 2028 and $160 billion in 2029, about a third of it software."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html?utm_source=tldrfintech",
+      "title": "Anthropic reports $17B of Q3 revenue as compute commitments approach $900B",
+      "summary": "Anthropic reported about $17 billion in Q3 revenue, bringing nine-month revenue to $33.24 billion, up roughly 1,200% year over year, though sequential growth slowed to 47% from much faster rates earlier in the year."
+    },
+    {
+      "url": "https://thefinanser.com/2026/11/does-taxing-the-rich-work?utm_source=tldrfintech",
+      "title": "Does taxing the rich work?",
+      "summary": "Tax policy should encourage productive investment, with economic outcomes depending on how both governments and businesses use capital."
+    }
+  ]
+}

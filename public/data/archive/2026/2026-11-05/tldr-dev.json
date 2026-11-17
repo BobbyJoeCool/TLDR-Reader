@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-05",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/?utm_source=tldrdev",
+      "title": "A thousand fewer paths to root",
+      "summary": "OpenAI's autonomous security pipeline reproduced 1,724 Linux kernel vulnerabilities and generated exploits for 948 distinct local privilege escalation flaws at an API cost of $1.2 million. Agents handled discovery, runtime validation, exploit development, and candidate patches before human review and maintainer reporting. The research highlights why validation must check how an exploit succeeds, after some agents gained root through a different vulnerability than the one assigned."
+    },
+    {
+      "url": "https://clarity.microsoft.com/blog/how-we-made-clarity-js-smaller/?utm_source=tldrdev",
+      "title": "How We Made clarity.js 4.5% Smaller Without Sacrificing Compatibility",
+      "summary": "Microsoft reduced clarity.js by 1,257 gzip bytes through more than 50 automated change, build, measure, and test experiments. Named imports and minifier settings delivered savings, while extracting small helpers sometimes increased compressed size. A larger saving from modern JavaScript output could not ship because native async functions would break Angular sites that depend on Zone.js."
+    },
+    {
+      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/?utm_source=tldrdev",
+      "title": "You'll need nerves of steel to work with AI agents",
+      "summary": "Fast, cheap coding agents can create substantial review work by deleting unrelated code, missing requirements, and making tests pass without exercising the intended behavior. More than 100 hours with Cursor's Composer 2.5 exposed failures ranging from unsolicited edits to disabled schema validation and tests that bypassed API routes. Explicit rules and reference implementations did not reliably prevent repeated mistakes."
+    },
+    {
+      "url": "https://www.kai-waehner.de/blog/2026/11/03/agentic-technical-debt-and-where-orchestration-belongs-in-ai-agent-architecture/?utm_source=tldrdev",
+      "title": "Agentic Technical Debt and Where Orchestration Belongs in AI Agent Architecture",
+      "summary": "Agent systems accumulate debt when prompts and agent loops take responsibility for approvals, side-effect retries, and audit trails. A supplier invoice dispute illustrates how to divide ownership among the model, harness, durable execution, and an orchestration control plane. A single agent inside one application may need only its harness, while processes crossing systems need explicit ownership of recovery and approval."
+    },
+    {
+      "url": "https://gonzoml.substack.com/p/nobody-here-writes-code-by-hand-any?utm_source=tldrdev",
+      "title": "Nobody here writes code by hand anymore",
+      "summary": "An account of adopting coding agents at Intento traces the shift from small experiments to a team that delegates code generation and reviews the output. The key change was making documentation, architectural decisions, tasks, and production logs accessible to models. Earlier failures on an established codebase were attributed to missing context that lived in people's heads, rather than the age of the code itself."
+    },
+    {
+      "url": "https://github.com/Graphify-Labs/graphify?utm_source=tldrdev",
+      "title": "Graphify (GitHub Repo)",
+      "summary": "Graphify turns code and supporting material into a queryable knowledge graph with paths between concepts and an interactive browser view. Code parsing uses local tree-sitter analysis without an LLM or vector store, while document and media interpretation can use a model. Edges distinguish explicit source relationships from inferred connections, making the graph's evidence easier to inspect."
+    },
+    {
+      "url": "https://github.com/zeke/faster-chrome-devtools-skill?utm_source=tldrdev",
+      "title": "faster-chrome-devtools-skill (GitHub Repo)",
+      "summary": "This agent skill and dependency-free Node CLI control Chrome directly through the Chrome DevTools Protocol. It supports accessibility snapshots, tab management, screenshots, and raw protocol calls without requiring a separate browser MCP server. Screenshots are written to files so agents can choose when to load them into context."
+    },
+    {
+      "url": "https://go.dev/blog/jsonv2?utm_source=tldrdev",
+      "title": "A new Go API for JSON",
+      "summary": "Go 1.27 makes encoding/json/v2 and encoding/json/jsontext generally available, addressing behavior and performance constraints that could not be fixed within the old API. The new defaults reject invalid UTF-8 and duplicate object names, while the packages separate Go value conversion from lower-level JSON syntax processing."
+    },
+    {
+      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/?utm_source=tldrdev",
+      "title": "DOOM's DNA (Website)",
+      "summary": "This interactive study compares the original DOOM source with 43 descendants to explore what survives copying, porting, and translation. Structural fingerprints and call relationships can reveal ancestry even when names or source text change. In a blind test, a Go translation's functions were assigned to the correct game subsystem 60% of the time, compared with 20% for shuffled labels."
+    },
+    {
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability?utm_source=tldrdev",
+      "title": "The PHP2Shell Vulnerability Heralds Cybersecurity Hell",
+      "summary": "AI-assisted researchers turned a PHP crash bug reported in 2024 into a critical vulnerability capable of running arbitrary code on a server. Finding the exploit took two weeks, while four engineers spent two months developing a patch, illustrating the growing gap between discovering flaws and safely fixing them. Better funding for open-source maintainers, defensive AI tools, and formal verification could help close that gap."
+    },
+    {
+      "url": "https://openai.com/index/introducing-images-2-6/?utm_source=tldrdev",
+      "title": "Introducing Images 2.6",
+      "summary": "OpenAI's Images 2.6 brings 50% faster image generation, GIF creation, and better consistency across edits."
+    },
+    {
+      "url": "https://www.ricursive.com/ripple?utm_source=tldrdev",
+      "title": "Introducing Ripple-65B Preview",
+      "summary": "Ricursive released Ripple-65B Preview, a dense open-weight model with up to 1M tokens of context that reports an 80.52 score on TerminalBench 2.1 and a total development and training cost of $32 million."
+    },
+    {
+      "url": "https://v3.parceljs.org/blog/v3-alpha?utm_source=tldrdev",
+      "title": "Announcing Parcel 3 alpha",
+      "summary": "Parcel 3 rewrites the bundler in Rust and reports cold builds up to 100 times faster than v2."
+    },
+    {
+      "url": "https://claude.com/resources/articles/message-threads?utm_source=tldrdev",
+      "title": "Make long-running agents faster with message threads",
+      "summary": "Anthropic's public-beta message threads let active agents send only new messages each turn, reducing median time to first token by about 35% for requests with 500k to 1M tokens while leaving token usage unchanged."
+    }
+  ]
+}

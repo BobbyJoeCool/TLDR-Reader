@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-11-05",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607?utm_source=tldrcrypto",
+      "title": "French bank Crédit Mutuel Arkéa likely exploited for over $133 million",
+      "summary": "Crédit Mutuel Arkéa reportedly lost over $133M from centralized exchange accounts, withdrawn as USDC and USDT. The attacker (unknown) is swapping USDC to ETH, using instant exchanges, converting to XMR and bridging. Possible OTC activity could push losses higher. The bank hasn't confirmed or denied the exploit, so the claims are unverified."
+    },
+    {
+      "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633?utm_source=tldrcrypto",
+      "title": "Morgan Stanley tokenizes US equities and Treasurys with DTCC",
+      "summary": "Morgan Stanley tokenized US equities and Treasurys using DTCC's new service, which opened last week with 20 participants, including JPMorgan, Citi, Bank of America, Barclays, BNP Paribas, Fidelity, State Street, and UBS. DTC holds $114T in custody, and the service was built with input from 150+ firms, initially supporting Canton and a private Besu network. Morgan Stanley now expects tokenized equities on its ATS in Q1 2027, later than its prior H2 2026 target. NYSE/ICE are also building a tokenized trading platform, with Broadridge, Computershare, Equiniti, and Superstate signed as transfer agents."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2117326277363597751.html?utm_source=tldrcrypto",
+      "title": "Solar: Paradigm's 100x Faster Solidity Compiler",
+      "summary": "Paradigm's Solar is a new Solidity compiler that compiles contracts over 100x faster than Solc, the current standard. Beyond compilation speed, Solar produces more EVM-efficient bytecode than Solady without requiring inline assembly, reducing on-chain execution costs for deployed contracts. The compiler also resolves the Stack Too Deep error, a long-standing constraint that forced Solidity developers to restructure code or rely on workarounds. Solar is available now via Foundry: run foundryup, then forge --use solar."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2117234254010613774.html?utm_source=tldrcrypto",
+      "title": "Mastercard and OpenAI Build the Payment Rails for AI Agents",
+      "summary": "Mastercard formalized a strategic partnership with OpenAI anchored by a four-product agentic commerce stack addressing payment trust, agent trust, ecosystem trust, and merchant discoverability. The four products are Agent Pay (tokenized payments for AI agents), Verifiable Intent (buyer authorization capture), Agentic Trust Intelligence (bank and merchant risk scoring for AI-initiated transactions), and Agent Connect (merchant discovery by AI agents). Shopify's Shop Pay is among the first live deployments. Mastercard is betting on network tokens over one-time virtual card numbers as the core primitive. Visa, Stripe, and PayPal are building parallel infrastructure. Holiday shopping is expected to be the first high-volume stress test for agentic payment rails at scale."
+    },
+    {
+      "url": "https://x.com/CLR_Fomo/status/2117260547351548359?utm_source=tldrcrypto",
+      "title": "Crypto Protocols Are Winning the AI Inference Price War",
+      "summary": "Centralized inference providers face structural pricing floors tied to manual approval gates, regional electricity costs, and capital-market margin requirements, creating an opening for permissionless crypto routing layers. Surplus lets holders of excess API credits from OpenAI, Anthropic, and DeepSeek sell at a discount for USDC with no KYC, posting 57x token growth (10B to 570B tokens/day) and 78x request growth (143k to 11.2M/day) over the past 90 days. Engy runs a global miner competition on hardware and electricity efficiency, growing from 2.7B to 153B tokens/day while buyback-directed revenue climbed from $363 to $8,000/day in the same window. With the inference market at $160B/year and projected to reach $350B, autonomous AI agents consuming 5x more tokens than humans will concentrate purchasing power in the cheapest available providers, positioning these protocols to capture a growing share of AI compute spend as agent usage scales."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2117322178853240919.html?utm_source=tldrcrypto",
+      "title": "SEC Token Taxonomy FAQ Clarifies Decentralization Standards for Builders",
+      "summary": "The SEC released a new FAQ expanding its token taxonomy framework, drawing on three clarifications flagged by a16z crypto General Counsel Miles Jennings. Q 1.4 confirms that projects can maintain decentralized governance while using legal entities like DUNAs (Decentralized Unincorporated Nonprofit Associations), resolving a structural question teams have faced when adding off-chain legal wrappers to on-chain protocols. Q 1.5 draws a formal line between permissioned and permissionless systems, and Q 1.6 separates \"functional\" tokens from tokens that qualify as investment contracts under securities law. Builders now have clearer criteria from the SEC to determine whether their protocol architecture and token design fall outside the agency's jurisdiction."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2117784346430197880.html?utm_source=tldrcrypto",
+      "title": "Agentic commerce overhyped today; underhyped for the next 3-6 months",
+      "summary": "Agentic commerce is overhyped on current usage but will be underhyped on volume within 3-6 months, and products not optimized for agents will be left behind. Agents still fail often (browser use is slow and buggy, and credentials and payments carry friction), so 99% of consumers churn at the first issue. Most consumers outside SF don't use agents at all, and current products mainly serve high-income, tech-forward users. Growth will likely come from ChatGPT (1.2B weekly users) as it adds a wallet and in-chat purchases, with early data showing AI-driven traffic converts better than non-AI traffic."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2117463559877873720.html?utm_source=tldrcrypto",
+      "title": "Kamino's No-Equity Model Tests If Value Accrual Is DeFi's Last Moat",
+      "summary": "Kamino Finance has structured $KMNO to eliminate the equity/token split that has drained value from most DeFi protocols: the Kamino Foundation holds all IP and captures 100% of revenue, including institutional deals, with $KMNO as the sole ownership layer and no separate equity class for founders, investors, or the team. CEO WeiszM committed $20M over two years to expand Kamino into banks, brokerages, and wallets, with his personal allocation vesting only if $KMNO hits and holds a series of valuation milestones rather than on a standard time schedule. This is a direct answer to the bank tokenization challenge posed by products like StanChart's tokenized deposits in Hong Kong: banks can earn spread from on-chain infrastructure but cannot structurally route that upside to depositors, while a foundation-owned revenue model can. User-owned value accrual, not openness or permissionlessness, is DeFi's defensible moat as traditional finance moves on-chain."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2117875771830374811.html?utm_source=tldrcrypto",
+      "title": "Agentic commerce is built only for buyers, and sellers have no agent",
+      "summary": "Commerce has two parties, but agentic tools serve only the buyer."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2117906047960564105.html?utm_source=tldrcrypto",
+      "title": "Agentic commerce fails today because of hacky payment models",
+      "summary": "Most people find agentic commerce doesn't work because agents pay through virtual cards or raw 16-digit card numbers."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2117328200410051041.html?utm_source=tldrcrypto",
+      "title": "Hyperliquid Policy Center Opens Summer 2027 Law Internships",
+      "summary": "Hyperliquid's DC-based policy advocacy arm is recruiting rising 2L and 3L law students for Summer 2027 internships focused on the legal and regulatory questions around onchain markets access."
+    },
+    {
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458?utm_source=tldrcrypto",
+      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate",
+      "summary": "CZ said AI is speeding up attacks and firms should invest in AI defenses."
+    }
+  ]
+}
