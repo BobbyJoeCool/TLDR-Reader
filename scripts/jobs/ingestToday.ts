@@ -17,8 +17,13 @@
  *   5. git add / commit / push the new archive files.
  *
  * Exit codes:
- *   0 — all editions scraped and pushed successfully
- *   1 — no editions produced articles, OR the git push failed
+ *   0 — at least one edition scraped and pushed (any per-edition fetch
+ *       failures are listed in a "⚠" warning line before exit)
+ *   1 — no editions produced articles and no fetches failed (a genuine quiet
+ *       day: weekend/holiday), OR the git push failed
+ *   2 — no editions written AND one or more fetches failed. This means the
+ *       environment couldn't reach tldr.tech (blocked, rate-limited, offline),
+ *       NOT that nothing was published.
  */
 
 import { execSync } from "child_process";
@@ -66,18 +71,27 @@ async function main() {
   // Only these editions will appear in the daily manifest.
   const written: { name: string; file: string }[] = [];
 
+  // Editions whose page couldn't be retrieved at all (network error, 403, 429…).
+  // Kept separate from "not published" so a blocked run isn't mistaken for a holiday.
+  const failed: { name: string; reason: string }[] = [];
+
   for (const edition of EDITIONS) {
     // padEnd(20) right-pads the edition name to 20 characters so the status
     // columns (✓, —) line up neatly across all 14 editions in the console output.
     process.stdout.write(`  ${edition.name.padEnd(20)}`);
 
-    // Step 1: fetch raw HTML. Returns null if the edition wasn't published today.
-    const html = await fetchIssue(edition.slug, date);
-    if (!html) { console.log("— not published"); continue; }
+    // Step 1: fetch raw HTML.
+    const result = await fetchIssue(edition.slug, date);
+    if (result.kind === "not-published") { console.log("— not published"); continue; }
+    if (result.kind === "error") {
+      console.log(`✗  fetch failed (${result.reason})`);
+      failed.push({ name: edition.name, reason: result.reason });
+      continue;
+    }
 
     // Step 2: extract articles from the HTML. Returns null if zero real articles
     // survived filtering (empty page or all items were sponsored).
-    const articles = parseIssue(html);
+    const articles = parseIssue(result.html);
     if (!articles) { console.log("— no articles"); continue; }
 
     // Step 3: persist the edition JSON to disk.
@@ -92,11 +106,25 @@ async function main() {
     await new Promise((resolve) => setTimeout(resolve, 1000));
   }
 
-  // If nothing was written, something is wrong (weekend, holiday, network issue).
-  // Exit non-zero so the calling process (CI, cron, cowork agent) can detect failure.
+  // If nothing was written, decide whether it was a quiet day or a broken run.
+  // Exit non-zero either way so the calling process (CI, cron, agent) can detect it.
   if (written.length === 0) {
-    console.log("\nNo editions found — nothing written.");
+    if (failed.length > 0) {
+      console.log(
+        `\nFETCH FAILED — ${failed.length} of ${EDITIONS.length} editions could not be retrieved ` +
+        `(first error: ${failed[0].reason}). This is a connectivity/blocking problem, ` +
+        `not a day without newsletters. Nothing written.`
+      );
+      process.exit(2);
+    }
+    console.log("\nNo editions published — nothing written.");
     process.exit(1);
+  }
+
+  // Partial failure: still archive what we got, but make the gap visible.
+  if (failed.length > 0) {
+    console.log(`\n⚠ ${failed.length} edition(s) failed to fetch: ` +
+      failed.map((f) => `${f.name} (${f.reason})`).join(", "));
   }
 
   // Step 4: write the day manifest listing every edition that produced articles.

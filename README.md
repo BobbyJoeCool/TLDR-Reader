@@ -151,6 +151,14 @@ scripts/
 
 The pipeline runs daily at 2:00 PM via a scheduled Claude Cowork agent. On completion it sends a push notification — success with edition count, or the specific failure reason if something went wrong.
 
+Exit codes from `ingestToday.ts`:
+
+| Code | Meaning |
+|---|---|
+| 0 | At least one edition archived and pushed. Any editions that failed to fetch are listed in a `⚠` line. |
+| 1 | Nothing published that day (weekend/holiday), or the git push failed. |
+| 2 | Nothing written because pages couldn't be fetched (network error, HTTP 403/429, etc.). The runner can't reach tldr.tech; it does **not** mean no newsletters were published. |
+
 ---
 
 ## Local Development
