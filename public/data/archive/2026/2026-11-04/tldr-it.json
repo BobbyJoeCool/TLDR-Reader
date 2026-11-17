@@ -1,0 +1,53 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-04",
+  "articleCount": 9,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.snowflake.com/en/news/press-releases/expedition-2026-coco-cowork/?utm_source=tldrit",
+      "title": "Snowflake previews AI agents that work after you log off",
+      "summary": "Snowflake announced CoCo and CoWork Bots, agents in development that will handle ongoing tasks in the background and request human input when needed. Separate updates add recurring automations and planned integrations with Slack, spreadsheets, and mobile devices."
+    },
+    {
+      "url": "https://www.itpro.com/security/cyber-attacks/a-freezer-should-never-accept-an-instruction-to-heat-to-50-c-no-matter-who-sends-it-more-european-supermarkets-hit-by-suspected-cyber-attack?utm_source=tldrit",
+      "title": "Suspected cyberattacks spoil food at European supermarkets",
+      "summary": "More than 40 supermarkets across seven countries were affected by suspected attacks that remotely raised refrigeration temperatures, destroying food. The incidents highlight the exposure of connected operational equipment that can remain in service long after its software support ends."
+    },
+    {
+      "url": "https://www.cio.com/article/4243615/does-ai-actually-save-employees-time-data-is-contradictory.html?utm_source=tldrit",
+      "title": "Is AI saving time or making work longer?",
+      "summary": "ActivTrak's latest research associates heavy AI use with longer workdays, shorter focus sessions, and more app switching, contradicting some of its earlier findings. Different samples and measurement limitations make the results difficult to compare, underscoring why usage metrics alone cannot establish productivity gains."
+    },
+    {
+      "url": "https://www.itpro.com/infrastructure/bull-and-schwarz-digits-are-teaming-up-to-create-a-franco-german-foundation-for-sovereign-ai?utm_source=tldrit",
+      "title": "Bull and Schwarz Digits plan a European sovereign AI stack",
+      "summary": "Bull and Schwarz Digits signed an agreement to develop AI infrastructure for European organizations in regulated and strategic sectors. The planned architecture combines STACKIT's European cloud with Bull's computing hardware, liquid cooling, and AI software."
+    },
+    {
+      "url": "https://www.snowflake.com/en/news/press-releases/expedition-2026-business-ontology-ai-gateway/?utm_source=tldrit",
+      "title": "Snowflake adds centralized controls for enterprise AI agents",
+      "summary": "Snowflake's generally available Cortex AI Gateway centralizes policies for agent connections, model access, and spending. Its upcoming Business Ontology preview will give agents approved definitions of business concepts, while sandbox execution and agent-abuse detection remain in private preview."
+    },
+    {
+      "url": "https://www.itpro.com/infrastructure/data-centres/national-grid-plans-massive-new-substation-to-support-teesside-data-center-plans?utm_source=tldrit",
+      "title": "National Grid plans major substation for data center expansion",
+      "summary": "National Grid plans a major substation at Teesside to support a proposed data center, battery storage, and other power-intensive industries. Its initial 1,440 MVA capacity is scheduled to come online by the end of 2029, illustrating the long infrastructure timelines behind AI expansion."
+    },
+    {
+      "url": "https://www.accenture.com/en/insights/ai-data/cio-pulse-survey?utm_source=tldrit",
+      "title": "CIO survey exposes the gap between AI rollout and readiness",
+      "summary": "Accenture's survey of 300 technology leaders finds 64% are scaling enterprise AI deployment, but only 7% are optimizing it at scale. User adoption and training are the most frequently cited execution barrier, while nearly half still require manual approvals for agents in IT operations."
+    },
+    {
+      "url": "https://www.itpro.com/infrastructure/networking/time-is-running-out-to-switch-to-digital-phone-lines-uk-businesses-warned?utm_source=tldrit",
+      "title": "UK businesses face looming digital phone migration deadline",
+      "summary": "Openreach warns that roughly 300,000 business copper lines remain active ahead of the January deadline, including connections supporting payment terminals, alarms, and building systems."
+    },
+    {
+      "url": "https://www.itpro.com/security/identity-and-access-management-investment-is-skyrocketing-heres-why?utm_source=tldrit",
+      "title": "AI agents fuel projected 55% growth in identity spending",
+      "summary": "Juniper Research forecasts global identity and access management spending will rise from $26.2 billion in 2026 to $40.5 billion by 2031 as businesses manage expanding populations of AI agents and other nonhuman identities."
+    }
+  ]
+}

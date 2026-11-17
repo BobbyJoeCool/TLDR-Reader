@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-04",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://insights.euclid.vc/p/who-wins-the-ai-app-layer-verticalist-summit-2026?utm_source=tldrfounders",
+      "title": "Who Wins the AI App Layer?",
+      "summary": "AI labs are now shipping products aimed right at vertical AI customers, like OpenAI's tool for lawyers that launched a week after Harvey raised at $15.5B. Most of the value still lands with the apps, as long as they own data the labs can't simulate or buy. Coding took off because the labs can grade it automatically, so the moat is outcome data that only exists when someone does the job, like whether a loan defaulted or a claim got approved. A quick test is to list every outcome your product touches and capture the job byproducts as structured data from day one."
+    },
+    {
+      "url": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/?utm_source=tldrfounders",
+      "title": "2026: The State of Enterprise AI",
+      "summary": "The labs selling you model access are also competing for your customers' software budgets. Menlo's yearly enterprise AI report estimates the frontier labs now capture 69% of enterprise AI deployment spending. Agents are growing the pie, though, since new budgets funded 55% of the extra AI spend in Menlo's survey, and the firm reads that as companies paying for work software couldn't do before. Startups still take 61% of application spending once the labs' own apps are left out."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/analytics-changed?utm_source=tldrfounders",
+      "title": "Analytics has changed. Here's what to do about it",
+      "summary": "Software stopped having near-zero marginal costs once AI features started showing up on the bill. Analytics has to change now that agents both run the analysis and use the product. Agents now create about half of PostHog's dashboards and feature flags, so the team tags every event with whether a human or an agent did it. The same tagging shows a third of orgs query PostHog through agents, and 1 in 5 new orgs signs up through one."
+    },
+    {
+      "url": "https://postround.substack.com/p/how-to-raise-venture-capital-building?utm_source=tldrfounders",
+      "title": "How to make friends before fundraising",
+      "summary": "Most founders start meeting investors the week they start raising, so every coffee turns into a pitch. A former YC partner explains how to build those relationships months ahead so the eventual raise is fast and competitive. The list is bigger than founders think, since more than 4,700 Series A rounds since 2023 were led by about 2,400 different funds. One tactic is to script every intro (\"we're not raising, and I want to meet you because of the company you backed\") so the meeting doesn't accidentally start a process."
+    },
+    {
+      "url": "https://www.onlycfo.io/p/presenting-an-annual-plan-ai-era?utm_source=tldrfounders",
+      "title": "Presenting an Annual Plan (AI-Era Edition)",
+      "summary": "AI can make an annual plan look leaner before any of the savings show up. The fix is to put AI spend right beside the headcount plan and show when avoided hires or extra output will hit the numbers. Revenue needs the same split, because usage-based AI products can carry very different margins from the subscriptions next to them. Give the AI cost of free trials and proofs of concept its own line too."
+    },
+    {
+      "url": "https://support.claude.com/en/articles/15537633-auto-connect-your-organization-s-apps-to-claude?utm_source=tldrfounders",
+      "title": "Auto-connect your organization's apps to Claude",
+      "summary": "Claude Enterprise-managed auth is an authorization and authentication model for connectors in Claude. It allows administrators to provision connector access centrally instead of having every person authenticate each connector individually. Administrators can control which connectors are enabled, which groups or roles get them, and at what access level. Teams get connectors automatically the first time they log in once they are enabled for an organization."
+    },
+    {
+      "url": "https://blog.superhuman.com/introducing-email-assistant/?utm_source=tldrfounders",
+      "title": "Introducing: Email Assistant by Superhuman Mail",
+      "summary": "Superhuman Mail Email Assistant brings the best of Superhuman Mail directly into Gmail and Outlook. It separates what needs a reply from what is just an FYI, resurfaces important conversations, and archives low-priority emails. Email Assistant can draft replies in users' voice and tone using context from other emails and information from online research. Users remain in control of how Email Assistant writes, schedules, and triages."
+    },
+    {
+      "url": "https://mackgrenfell.com/writing/saas-growth-2026?utm_source=tldrfounders",
+      "title": "The SaaS apocalypse started in October",
+      "summary": "AI-built competitors are the easy explanation for any SaaS slowdown this fall. Stripe benchmarks covering about 181,000 subscription businesses show 29 of 48 groups above $100,000 ARR shrinking in October, up from four in September. Customer churn went down over the same stretch, leading the writer to suspect weaker new sales. Only companies above $5 million ARR were still growing in October."
+    },
+    {
+      "url": "https://www.emcap.com/thoughts/who-owns-the-intelligence-economy?utm_source=tldrfounders",
+      "title": "Who Owns the Intelligence Economy?",
+      "summary": "An AI that learns from your best salesperson can keep using their methods after they leave. Companies need to decide who owns that expertise before model providers end up controlling it. Keep workflows portable between providers so switching models doesn't wipe out what the company's AI has learned."
+    },
+    {
+      "url": "https://ckarchive.com/b/92uzhnhxkd6nli3roomrdfzzdzrngfwh2pxox?utm_source=tldrfounders",
+      "title": "The Psychology of SMS",
+      "summary": "A text from a brand lands in the same inbox as messages from family, so it either feels personal or gets an instant STOP."
+    },
+    {
+      "url": "https://x.com/hnshah/status/2117644051126395114?utm_source=tldrfounders",
+      "title": "The cost of changing your mind is collapsing",
+      "summary": "Agents can finish the code before you have even decided whether the product is right."
+    },
+    {
+      "url": "https://stillunbuilt.shiptiffin.app/?utm_source=tldrfounders",
+      "title": "Still Unbuilt: the 100 tools Hacker News keeps asking for",
+      "summary": "81 of the 100 most persistent software requests on Hacker News already have Show HN launches, 1,423 in total, yet people keep asking."
+    },
+    {
+      "url": "https://x.com/itsalexvacca/status/2117615741629546606?utm_source=tldrfounders",
+      "title": "How to Build a GTM Engine in 2027 That Turns Signals Into Pipeline (all 4 levels)",
+      "summary": "Most marketing teams have an AI tool in every tab and still move each campaign between them by hand."
+    }
+  ]
+}

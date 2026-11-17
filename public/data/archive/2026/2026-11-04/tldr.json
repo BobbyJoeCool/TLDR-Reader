@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-11-04",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20?utm_source=tldrnewsletter",
+      "title": "OpenAI: ChatGPT Search Is About 20% of Google's, 250 Million People Speak With ChatGPT, and Chat Is Merging With Work",
+      "summary": "OpenAI added 200 million users over just the past two months. Its growth is accelerating. ChatGPT's search volume is approximately 20% of Google's, and its users create 1.5 billion images with it per week. This post contains an edited transcript of an interview with ChatGPT consumer product lead Adam Fry, where he discusses OpenAI's plans to merge ChatGPT's Chat and Work modes, image generation, interactive interfaces, advertising, education, and public unease about AI."
+    },
+    {
+      "url": "https://developer.apple.com/news/?id=gdk2umrf&amp;utm_source=tldrnewsletter",
+      "title": "Siri AI is now open to all developers",
+      "summary": "Developers can now enable their apps to bring content and actions directly into Siri AI by using App Intents. Skills are available for more complex requests that require Siri to combine several actions into a single experience. Siri AI can now surface any entity in the Spotlight semantic index. Submissions to the App Store for apps with the new capabilities will open up in the spring."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzc2NjIyOSwiZXhwIjoxNzk0MzcxMDI5LCJhcnRpY2xlSWQiOiJUTldWU0JLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9._EOYJORteRaZpC1kV0zdY39mi4h074JYQDhJGzPJJ38&amp;utm_source=tldrnewsletter",
+      "title": "Neuralink's China Rival Targets Obesity With ‘Electronic' GLP-1",
+      "summary": "BrainCo, a Chinese neurotech company, is developing a wearable device that suppresses appetite by stimulating the brain. It aims to bring the device to market within the next two to three years. The device will launch first in China before potentially expanding to the US. BrainCo currently markets brain-computer interface-enabled headsets to address neurological disorders such as autism, ADHD, and insomnia. Its devices can collect, decode, and stimulate neural signals."
+    },
+    {
+      "url": "https://www.a16z.news/p/the-state-of-longevity?utm_source=tldrnewsletter",
+      "title": "The State of Longevity",
+      "summary": "The fringe movement of biohackers and people taking a more hands-on approach to longevity has moved into the mainstream thanks to the COVID-19 pandemic and AI chatbots. More and more people are now taking their health into their own hands and spending time, money, and energy on health and longevity. This post looks at how people view health and explores how the people at the cutting edge of health and technology approach their own health. Some of the biggest opportunities in longevity will go to the companies that help people take action and manage their health over time."
+    },
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing?utm_source=tldrnewsletter",
+      "title": "How software engineering is changing: a tale of two eras",
+      "summary": "AI-native startups can ship even faster than fast-moving pre-AI startups because they risk nothing by moving too fast. The old constraints of software engineering have disappeared, allowing startups to move faster, but also break things. The new constraints are too much context switching, losing shared context, tougher pacing, less focus on design, and AI plan limits. Many existing technologies and processes will crack under the change."
+    },
+    {
+      "url": "https://benjamincongdon.me/blog/2026/11/02/Interpolative-Software/?utm_source=tldrnewsletter",
+      "title": "Interpolative Software",
+      "summary": "Interpolative software is code that is solidly within the training distribution of models. It can often be specified with just a few sentences of prompting. Novel software is something that has fundamentally not existed before. Writing novel software with agents is challenging, as they are not trained on the task. Not a lot of software is novel, which is fine, as there is still a ton of value in the interpolative stuff."
+    },
+    {
+      "url": "https://zachholman.com/posts/angel-investor-death?utm_source=tldrnewsletter",
+      "title": "The Death of the Angel Investor",
+      "summary": "The economics of angel investing have shifted. Many investors have realized it's potentially more profitable to raise a fund instead of using their own money. Technology startups now move much faster, and running around grabbing small checks from angels is less palatable than grabbing a pre-seed fund to fund a whole initial round. Also, when angels try to fund a round, they are often pushed out by the valuation game."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html?unlocked_article_code=1.N1E.ptjc.6fOSKNFJlLLf&amp;smid=url-share&amp;utm_source=tldrnewsletter",
+      "title": "Google Will Turn Off Search for Schools That Reject AI",
+      "summary": "Google will turn off AI tools in its software for K-12 students unless school administrators explicitly choose to make them available. However, schools that choose to restrict AI entirely will also lose access to Google search. Google had earlier turned on AI features as the default option and is claiming that the reversal is in response to feedback from educators and parents. The company's decision to use this strategy shows how much power it has over the US education system."
+    },
+    {
+      "url": "https://namespace.so/blog/mac-at-any-scale?utm_source=tldrnewsletter",
+      "title": "Mac at any scale",
+      "summary": "This post looks at how Namespace builds custom Mac racks, how it starts macOS instances from scratch in seconds, and how to deliver new Xcode versions mere hours after Apple releases them."
+    },
+    {
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/?utm_source=tldrnewsletter",
+      "title": "A Family Tree of Software Job Titles",
+      "summary": "A look at how jobs in software have evolved from the 1940s to now."
+    },
+    {
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/?utm_source=tldrnewsletter",
+      "title": "Introducing Adaptive Dark Mode",
+      "summary": "Adaptive Dark Mode in Safari adapts light websites and presents them as dark."
+    },
+    {
+      "url": "https://mackgrenfell.com/writing/saas-growth-2026?utm_source=tldrnewsletter",
+      "title": "The SaaS apocalypse started in October",
+      "summary": "Revenue at the median SaaS company grew 0.20% in September, then shrank 0.41% the month after."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345?utm_source=tldrnewsletter",
+      "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+      "summary": "Revolut runs GLM-5.3 on 56 Nvidia B200 GPUs."
+    },
+    {
+      "url": "https://substack.hadley.nz/p/how-much-do-tokens-really-cost?utm_source=tldrnewsletter",
+      "title": "How much do tokens really cost?",
+      "summary": "It appears that the cost of running servers is significantly cheaper than what providers are charging, assuming high capacity."
+    }
+  ]
+}
