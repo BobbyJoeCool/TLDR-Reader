@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-16",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/?utm_source=tldrdev",
+      "title": "How to Speed Up CI in the Age of AI-Written Code",
+      "summary": "AI coding agents produce code faster than CI pipelines can check it, turning long pipelines into queues for developers and agents. Five fixes target the bottleneck: measure slow steps, cache dependencies, use faster runners, parallelize jobs and tests, and skip redundant work with path filters and cancellation. Change one thing at a time and check vendor speed claims against your own pipeline."
+    },
+    {
+      "url": "https://beyondloom.com/blog/postscript.html?utm_source=tldrdev",
+      "title": "Let's Write a PostScript Interpreter",
+      "summary": "Build a small PostScript interpreter in JavaScript, starting with tokenization, operand and dictionary stacks, and representations for names, arrays, and procedures. This tutorial adds execution and an interactive REPL, then explores recursion, iteration, and dynamic scope. It deliberately omits graphics, strings, most error handling, and other parts of the full language."
+    },
+    {
+      "url": "https://www.langchain.com/blog/goal-engineering?utm_source=tldrdev",
+      "title": "Goal Engineering: How to Design Goals",
+      "summary": "Agent feedback becomes a bottleneck when expert knowledge and subjective preferences live only in people's heads. Scope goals around what humans can review efficiently, rather than simply giving each agent more context. In the Actively AI case study, agents organized by job type across accounts let salespeople review similar tasks together and share lessons across their work."
+    },
+    {
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/?utm_source=tldrdev",
+      "title": "All AI-generated code should be Open Source",
+      "summary": "This essay argues that AI-generated code should be released under open-source licenses or dedicated to the public domain because models depend on collectively produced code. It also raises copyright questions while acknowledging that jurisdictions differ and that human involvement varies. The proposal is an argument about how developers should share generated work."
+    },
+    {
+      "url": "https://blog.logrocket.com/teach-ai-assistants-design-system/?utm_source=tldrdev",
+      "title": "Teach AI coding assistants your design system with Markdown",
+      "summary": "Document tokens, component APIs, and composition patterns in Markdown beside the code, then use AGENTS.md to tell coding assistants what to read. A React and Tailwind demo illustrates how automated checks can flag hardcoded colors, unsupported variants, and spacing drift. The examples are constructed rather than a controlled AI experiment, and Markdown guidance still needs maintenance and accessibility review."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrdev",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://ui-sdk.dev/docs/core/changelog/introducing-ui-sdk?utm_source=tldrdev",
+      "title": "Introducing UI SDK",
+      "summary": "UI SDK provides more than 50 TypeScript behaviors for keyboard navigation, focus, selection, popups, drag and drop, and the associated ARIA attributes. Developers and agents can compose them into custom components or use ready-made libraries for React, Vue, Svelte, Solid, and Web Components. Agent interaction can be limited through developer-defined permissions, and the library remains in beta."
+    },
+    {
+      "url": "https://textjs.org/?utm_source=tldrdev",
+      "title": "The Console Framework (Website)",
+      "summary": "Text.js lets developers build React applications that render inside the browser's DevTools console. One app can run in the browser console, in a terminal, or through MCP for coding agents."
+    },
+    {
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax?utm_source=tldrdev",
+      "title": "DeepSeek V3 in pure JAX (GitHub Repo)",
+      "summary": "A 190-line JAX implementation recreates DeepSeek V3 architecture features, including latent attention, routed experts, auxiliary-loss-free balancing, and multi-token prediction. The reported MacBook Air run trained a 36.2-million-parameter model on detective fiction in about 2.6 hours. It is an educational architecture demo rather than a production language model."
+    },
+    {
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/?utm_source=tldrdev",
+      "title": "A Family Tree of Software Job Titles",
+      "summary": "An interactive family tree traces 104 software job titles from human computers to AI agent and context engineers across seven role families. It highlights how responsibilities split, recombine, and reappear under new names, including the overlap among DevOps, SRE, and platform engineering. Dates indicate roughly when titles became common and are estimates rather than a sourced chronology."
+    },
+    {
+      "url": "https://declarative-dragging.github.io/?utm_source=tldrdev",
+      "title": "Declarative Dragging (Website)",
+      "summary": "Declarative dragging lets developers specify which future application states an element should reach, then renders those states to synthesize drop zones and animated interactions. Dragology implements the approach for SVG interfaces on the web, with composable behaviors and modifiers for snapping and transitions. The project received a UIST 2026 Best Paper award."
+    },
+    {
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/?utm_source=tldrdev",
+      "title": "PyPI's redesigned project pages with clearer security signals",
+      "summary": "PyPI's redesigned pages add a security tab for release-file attestations and warnings about missing, inconsistent, changed, or lost provenance, while making clear that absent provenance alone does not mean a package is malicious."
+    },
+    {
+      "url": "https://github.com/eclipse-mosquitto/mosquitto?utm_source=tldrdev",
+      "title": "Eclipse Mosquitto (GitHub Repo)",
+      "summary": "Mosquitto implements MQTT 5.0, 3.1.1, and 3.1, with C and C++ client libraries plus command-line tools for publishing, subscribing, and broker administration."
+    },
+    {
+      "url": "https://bruceroettgers.eu/blog/protomaps/?utm_source=tldrdev",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "summary": "This post walks through how to deploy a single PMTiles archive to object storage and serve map tiles through HTTP Range requests."
+    }
+  ]
+}

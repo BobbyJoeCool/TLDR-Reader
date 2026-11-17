@@ -1,0 +1,53 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-11-16",
+  "articleCount": 9,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang?utm_source=tldrhardware",
+      "title": "A petition backed by Musk, Replit's Masad, and Epic's Sweeney asks Nvidia to reinstate Jensen Huang during the investigation",
+      "summary": "The petition says it has over 115,000 signatures, including 5,965 current Nvidia employees and 63,063 shareholders, and argues Huang was removed without due process, asking the board to restore him while an independent investigation establishes the facts. Huang resigned Thursday after admitting a relationship with an executive US intelligence suspects of spying for China. CFO Colette Kress is interim CEO. Nvidia fell 2% on Friday."
+    },
+    {
+      "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt?utm_source=tldrhardware",
+      "title": "SpaceX catches Ship 42 on Flight 15, but Booster 22 aborts its catch on a low-fuel-mass alarm during boostback",
+      "summary": "After 14 orbits, Ship 42 made a 10-second single-engine deorbit burn and was caught by the tower's chopsticks 22.5 hours after launch, the first upper-stage catch. It deployed 26 Starlink V3 satellites and had its heat shield checked using satellite cameras. The V3 booster's boostback ended early on a low-fuel-mass alarm, so guidance detected it was off-position and diverted to a Gulf splashdown, with the root cause still under investigation."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee?utm_source=tldrhardware",
+      "title": "Tesla opens Cybercab pre-orders to select customers at $29,990 plus $299 per month, geofenced to Robotaxi's areas",
+      "summary": "Tesla says the Cybercab will run unsupervised only inside the same geofences as its Robotaxi service, with delivery limited to a handful of Texas cities and an estimated date of December. Musk called the $299 monthly fee too high, saying it should match the roughly $115 per month for FSD and connectivity, and that nationwide availability depends on regulatory approval."
+    },
+    {
+      "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites?utm_source=tldrhardware",
+      "title": "ULA's Vulcan loses 40 Amazon Leo satellites about 10 minutes in, with Centaur's burn the suspect",
+      "summary": "This was ULA's first total failure since 2006 and the first Vulcan flight in nine months after its solid booster nozzle fixes. The BE-4s had been retrofitted for the oxygen valve issue behind New Glenn's May pad explosion."
+    },
+    {
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots?utm_source=tldrhardware",
+      "title": "OpenAI restructures its standalone robotics team after general models like GPT-6 Astra start running robots directly",
+      "summary": "OpenAI moved its robotics researchers into its main research org and its applied robotics and hardware teams into Applied, betting general models can control robots without specialized “robot brains.” OpenAI still plans its own humanoid, with a demo targeted for 2027, while robotics startups argue real-world deployment data remains their edge."
+    },
+    {
+      "url": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again?utm_source=tldrhardware",
+      "title": "Applied Materials' systems revenue jumps 64% to $7.99B as chipmakers expand fabs, with a $5B EPIC Center for shared R&D",
+      "summary": "Total revenue rose 53% to $10.41 billion, with the semiconductor systems unit up from $4.88 billion to $7.99 billion."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide?utm_source=tldrhardware",
+      "title": "A copper-to-fiber upgrade at a remote site caused a router to overload FAA's network, grounding US flights",
+      "summary": "Officials say an L3Harris upgrade of copper wire to fiber optic cable left a router overloading a critical communication system, grounding thousands of US flights."
+    },
+    {
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-hits-100-electron-launches-fastest-commercial-rocket?utm_source=tldrhardware",
+      "title": "Rocket Lab's 100th Electron launch deploys iQPS's YAMATSUMI-II radar satellite to a 575 km orbit",
+      "summary": "Electron, the carbon-composite rocket with 3D-printed engines, flew its 100th mission from New Zealand, which Rocket Lab says is the fastest any commercially developed rocket has reached that count since its first launch in 2017."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge?utm_source=tldrhardware",
+      "title": "Judge keeps DRAM price-fixing suit alive, calling the chipmakers' alleged behavior “hawks flying in formation”",
+      "summary": "A federal judge denied Samsung, SK hynix, and Micron's motion to dismiss in full, finding a plausible claim that they restricted conventional DRAM supply and drove prices up 697% over 18 months."
+    }
+  ]
+}

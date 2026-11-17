@@ -1,0 +1,78 @@
+{
+  "name": "TLDR",
+  "date": "2026-11-16",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html?utm_source=tldrnewsletter",
+      "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+      "summary": "An online petition calling for Jensen Huang's reinstatement as CEO of Nvidia has received more than 160,000 signatures. It has reportedly attracted support from Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney, and Y Combinator CEO Garry Tan. Huang is currently under investigation into how his actions may have damaged America's AI dominance, the national security implications, and his close relationship with President Trump and his Cabinet. Huang has discussed the possibility of returning, but the investigations surrounding him will likely prevent that from happening."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzUxNSwiZXhwIjoxNzk1NDA4MzE1LCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.F4kCAMHwyEjSSET-07buU5rxHigBfIXPCp6e111N86A&amp;utm_source=tldrnewsletter",
+      "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
+      "summary": "Apple rolled out its new Siri AI earlier as it needs software makers to begin preparing for its smart glasses, which it plans to ship in 2027. The company is counting on integration with apps people already use on their iPhones as a key differentiator for the glasses. Its large developer ecosystem could give it an advantage over Meta and Google's offerings as it potentially provides countless third-party integrations on launch. The hardware for the glasses won't be dramatically different from rival offerings, which makes it more crucial for Apple to nail the developer ecosystem."
+    },
+    {
+      "url": "https://konvoy.beehiiv.com/p/one-proton-away?utm_source=tldrnewsletter",
+      "title": "One Proton Away",
+      "summary": "Marathon Fusion, a San Francisco-based fusion startup, claims it has created gold from mercury. The startup has not published how much gold it made, and the process requires a fusion plant that does not exist yet. Many fields currently rely on isotopes from aging reactors. Marathon Fusion's process could unlock a world of abundant isotopes, opening up many markets and possibilities."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzU2NSwiZXhwIjoxNzk1NDA4MzY1LCJhcnRpY2xlSWQiOiJUT0dJOEpLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.NrVZWmopPeBEKMN8K4AWG1ZaJ2iOF45JpdpkRSGMnEw&amp;utm_source=tldrnewsletter",
+      "title": "SpaceX Catches Starship in Midair at Texas Site After Space Trip",
+      "summary": "SpaceX successfully caught Starship using the vehicle's launch tower's mechanical arms on Saturday afternoon. The midair capture serves as a major proof of concept for Starship. SpaceX has now captured both sections of the launch system during different missions. It aborted an attempt to catch Super Heavy during the recent flight due to a slight underperformance of the engines."
+    },
+    {
+      "url": "https://alfonsocampodonico.com/posts/making-a-programming-language?utm_source=tldrnewsletter",
+      "title": "Making a programming language",
+      "summary": "A compiler is a line of small programs. Each turns one shape into the next. The programs transform text into tokens and tokens into a tree, then the tree gets checked, and either an interpreter runs it or it becomes a native binary. No single stage is hard - the work is in making errors useful and keeping two backends in agreement."
+    },
+    {
+      "url": "https://claude.com/resources/articles/building-always-on-agents?utm_source=tldrnewsletter",
+      "title": "Building always-on agents",
+      "summary": "Always-on agents run indefinitely, managing context across sessions and taking action without direct supervision. They have surged in popularity lately, largely due to recent model advancements that have made them more practical to run. Models now have better judgment and are more reliable, and intelligence is becoming cheaper. This post breaks down the primitives behind always-on agents and walks through how they fit together."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrnewsletter",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate?utm_source=tldrnewsletter",
+      "title": "AI, work from home, and the young-graduate job market",
+      "summary": "New college graduates are employed less than a few years ago. While AI may be a factor, there's growing evidence that work from home is an important factor moving the needle on young-graduate employment. AI exposure and teleworkability are highly correlated with each other, making it hard to distinguish definitively between the two factors. The full extent of AI's effects on the labor market might not manifest until the next recession."
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/rsi?utm_source=tldrnewsletter",
+      "title": "The avalanche that hit math is coming for AI development",
+      "summary": "AI's capabilities in mathematics exploded quickly. Current AIs can now complete well-scoped problems in mathematics easily. This ability to solve well-scoped problems is going to be an even bigger deal for machine learning research than for mathematics. AI labs mainly care about how any new algorithmic recipe empirically makes training more efficient or elicits smarter models - they don't care about theory for its own sake."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-fires-researchers-after-child-dies-in-gene-editing-trial?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDgwMzU5NiwiZXhwIjoxNzk1NDA4Mzk2LCJhcnRpY2xlSWQiOiJUS084T1hUOTZPU04wMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.VlJCulFYSNjqQ3Hk4C1CjN_Noo6U6JW9Dx2lUMGecZ8&amp;utm_source=tldrnewsletter",
+      "title": "China Fires Researchers After Child Dies in Gene-Editing Trial",
+      "summary": "The researchers failed to flag warning signals from a non-human-primate study and didn't disclose the child's death in the published research paper."
+    },
+    {
+      "url": "https://www.cnet.com/health/apple-launches-ai-health-app-study/?utm_source=tldrnewsletter",
+      "title": "Apple Launches New App to Study How People Use AI for Health",
+      "summary": "The Apple Health AI study will examine comprehension, response quality, the drivers of user trust, and everyday health actions to inform the responsible design of health AI experiences and to explore how health AI might help people prepare for doctor's visits."
+    },
+    {
+      "url": "https://blog.cosmos-institute.org/p/recursive-self-improvement?utm_source=tldrnewsletter",
+      "title": "Recursive, Self, Improvement",
+      "summary": "This post disentangles the three components involved in recursive self-improvement and shows how the deep learning paradigm forces researchers to consider what counts as the 'self' undergoing improvement."
+    },
+    {
+      "url": "https://benjamintodd.substack.com/p/ai-trend-extrapolation?utm_source=tldrnewsletter",
+      "title": "Trend extrapolation gets us to AGI in 1-4 years",
+      "summary": "If recursive self-improvement has started, a broadly beyond-human AGI may arrive in just six to 18 months."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/?utm_source=tldrnewsletter",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,' with geo restrictions and a $299 monthly fee",
+      "summary": "Select customers can now pre-order the golden Cybercab for $29,990, with an estimated delivery in December."
+    }
+  ]
+}

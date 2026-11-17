@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-16",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theregister.com/saas/2026/11/13/microsoft-services-restored-to-all-customers-company-says-its-deeply-sorry/5309609?utm_source=tldrit",
+      "title": "Microsoft restores services after prolonged global outage",
+      "summary": "Microsoft says it restored service to all customers after an outage disrupted Exchange Online, Teams, Copilot, and other connected services from Thursday into Saturday. Servers failing automated health checks contributed to the disruption, and initial recovery attempts failed to provide the expected relief."
+    },
+    {
+      "url": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993?utm_source=tldrit",
+      "title": "Microsoft raises cloud prices in India and New Zealand",
+      "summary": "Microsoft will increase commercial cloud prices by 15.7% in India and 10% in New Zealand starting January 1, 2027, citing currency adjustments. Prices will fall in China, Australia, and Norway, while some on-premises products in India face increases of up to 20%."
+    },
+    {
+      "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805?utm_source=tldrit",
+      "title": "Microsoft's outage exposes the cost of vendor dependence",
+      "summary": "Microsoft's outage highlights how consolidating email, collaboration, and productivity tools under one provider can amplify disruption. This article examines concerns that this concentration leaves organizations unable to switch providers or keep critical work running when services fail."
+    },
+    {
+      "url": "https://futurumgroup.com/insights/commvault-bets-that-recovery-is-what-lets-enterprises-say-yes-to-ai/?utm_source=tldrit",
+      "title": "AI recovery needs more than an undo button",
+      "summary": "Restoring an AI agent, reversing its changes to internal systems, and undoing its business consequences are three different problems. Commvault's recovery tools address parts of the first two, but actions such as sending customer emails or supplier orders still require controls before execution."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/?utm_source=tldrit",
+      "title": "AWS Secrets Manager now supports cross-account replication",
+      "summary": "AWS Secrets Manager now supports cross-account replication, allowing teams to maintain synchronized copies of primary secrets across AWS accounts for backup, disaster recovery, and cross-account access. The feature extends multi-Region replication across account boundaries, enabling centralized ownership and rotation without shared KMS keys or cross-account policies."
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-meetings?utm_source=tldrit",
+      "title": "Claude joins meetings with Granola and Otter integrations planned",
+      "summary": "Anthropic is rolling out Claude Meetings in beta for Team and Enterprise customers, letting Claude join Google Meet calls to answer questions, draft documents, and capture action items. Upcoming integrations with Granola, Gong, Attention, Fireflies.ai, Otter, and Plaud will let teams send meeting transcripts to their existing tools."
+    },
+    {
+      "url": "https://www.hpcwire.com/aiwire/2026/11/13/lmsys-org-forms-sglang-consortium-with-nvidia-amd-google-and-meta/?utm_source=tldrit",
+      "title": "Nvidia, AMD, Google, and Meta join open inference consortium",
+      "summary": "LMSYS launched the SGLang Consortium to coordinate engineering work on its open-source AI inference engine, with founding members including Nvidia, AMD, Intel, Google, and Meta. Members will contribute deployment feedback, testing resources, and development work, while SGLang's maintainers retain control over technical decisions."
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20261113885252/en/Marvell-Scales-Connectivity-to-Address-AI-Infrastructures-Next-Bottleneck-at-Supercomputing-2026?utm_source=tldrit",
+      "title": "Marvell targets AI's memory and networking bottlenecks",
+      "summary": "Marvell is showcasing optical interconnects, CXL memory expansion, and networking technology at Supercomputing 2026. The demonstrations focus on scaling memory and compute across racks to address bandwidth constraints and infrastructure underutilization."
+    },
+    {
+      "url": "https://claude.com/resources/articles/building-always-on-agents?utm_source=tldrit",
+      "title": "Building always-on agents",
+      "summary": "The architecture for always-on agents relies on five primary primitives: an event inbox, durable timers, persistent memory, a permission system, and an outbound communication outbox. The framework is designed to enable AI agents to operate autonomously in the background while maintaining stateful and proactive behaviour."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app/?utm_source=tldrit",
+      "title": "GitHub Copilot app adds Enterprise Server support",
+      "summary": "GitHub Enterprise Server support is now generally available in Copilot app version 1.2.0 and later."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_source=tldrit",
+      "title": "Cloudflare Introduces Private Origins for Application Services",
+      "summary": "Cloudflare's Private Origins connects public internet traffic to private applications without exposing their IP addresses or opening inbound firewall ports."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december/?utm_source=tldrit",
+      "title": "GitHub schedules Copilot model retirements for December",
+      "summary": "GitHub will retire six selected Copilot models on December 14."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-11-16",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.cloudflare.com/spend-management/?utm_source=tldrdevops",
+      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+      "summary": "Cloudflare's new Spend Management feature lets pay-as-you-go customers set spending thresholds and pause activity when limits are reached to avoid unexpected bills. The beta supports Workers and Durable Objects and provides near real-time cost monitoring in the dashboard, CLI, and API."
+    },
+    {
+      "url": "https://www.solo.io/blog/announcing-kagent-1-0-ga?utm_source=tldrdevops",
+      "title": "Announcing kagent 1.0 GA",
+      "summary": "kagent 1.0 is an enterprise-ready distribution of Agent Substrate for running AI agents on Kubernetes. The system addresses pod-per-agent limitations by scheduling agent workloads as \"actors\" on warm worker pools, automatically suspending idle actors to free up compute and restoring them when new requests arrive. Agent Substrate is now a CNCF project."
+    },
+    {
+      "url": "https://fly.io/blog/throwing-out-the-phonebook/?utm_source=tldrdevops",
+      "title": "Throwing Out The Phonebook",
+      "summary": "Fly.io redesigned its 6PN private network, replacing a synchronized \"phonebook\" of hundreds of thousands of routing entries on every host with a lazy lookup system. The new design stores only 100 to 200 records per host, learning routes on demand when machines initiate connections. This approach uses VXLAN and standard kernel components instead of complex eBPF logic, which simplifies debugging and improves reliability."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/?utm_source=tldrdevops",
+      "title": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
+      "summary": "Distributed AI training workloads require pods to land on hardware with the right inter-GPU bandwidth and to be scheduled simultaneously. Kubernetes' built-in scheduler cannot meet these requirements as it schedules pods individually. Topology-aware scheduling and gang scheduling, implemented by Kueue and the Coscheduling plugin, solve these placement and coordination problems."
+    },
+    {
+      "url": "https://github.com/martin-olivier/airgorah?utm_source=tldrdevops",
+      "title": "Airgorah (GitHub Repo)",
+      "summary": "Airgorah is a WiFi security auditing tool that captures traffic, performs deauthentication attacks, and cracks access point passwords. It is written in Rust with a GTK4 interface and runs on Linux. The tool requires a wireless network card that supports monitor mode and packet injection."
+    },
+    {
+      "url": "https://github.com/louislam/uptime-kuma?utm_source=tldrdevops",
+      "title": "Uptime Kuma (GitHub Repo)",
+      "summary": "Uptime Kuma is a self-hosted monitoring tool that tracks uptime for HTTP(s), TCP, DNS records, and Docker containers. It features a reactive UI, supports over 90 notification services including Telegram and Slack, and lets users create multiple status pages."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_source=tldrdevops",
+      "title": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
+      "summary": "Google Cloud open sourced TPU Sync, a C++ library that moves KV cache blocks and model weights between TPU memory, host memory, and storage. It cut median KV transfer latency for Qwen3 235B from several seconds to about 230 ms."
+    },
+    {
+      "url": "https://webflow.sysdig.com/blog/httpd-cve-2026-119618-detecting-heap-corruption-and-rce-in-apache-http-server-mod-http2?utm_source=tldrdevops",
+      "title": "HTTPd (CVE-2026-119618): Detecting heap corruption and RCE in Apache HTTP Server mod_http2",
+      "summary": "Apache fixed CVE-2026-119618, a critical heap corruption flaw in mod_http2 that can lead to remote code execution, with the release of HTTP Server 2.4.71 on November 11. The vulnerability affects versions 2.4.55 through 2.4.70, requires no authentication to exploit, and received a 9.8 severity score from Red Hat. A public proof-of-concept demonstrates heap corruption, but no remote code execution exploit has been released."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/identity-security/ai-powered-cloud-governance-whats-new-in-organization-policy/?utm_source=tldrdevops",
+      "title": "Powering agentic cloud governance: What's new in Organization Policy",
+      "summary": "Google Cloud made its Organization Policy MCP server generally available and added Gemini-powered natural language authoring of custom constraints."
+    },
+    {
+      "url": "https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/?utm_source=tldrdevops",
+      "title": "Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes",
+      "summary": "Meta's Cloud Foundation team won the CNCF End User Case Study Contest for a GitOps platform built on Argo CD and Kargo across about 100 clusters."
+    },
+    {
+      "url": "https://incident.io/blog/degrade-gracefully-designing-ai-features-that-keep-working-when-the-model-doesnt?utm_source=tldrdevops",
+      "title": "Degrade gracefully: designing AI features that keep working when the model doesn't",
+      "summary": "Skyscanner and incident.io both chose graceful degradation as their top AI resilience investment."
+    }
+  ]
+}

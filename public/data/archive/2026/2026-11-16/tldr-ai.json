@@ -1,0 +1,88 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-11-16",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://devin.ai/blog/devin-apps?utm_source=tldrai",
+      "title": "Devin Apps",
+      "summary": "Devin Apps are private web apps that Devin builds and hosts from a description, such as dashboards and approval queues. Apps can use a team's existing integrations and codebase, and viewers must sign in to Devin."
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-wallet/?utm_source=tldrai",
+      "title": "ChatGPT Wallet",
+      "summary": "OpenAI introduced ChatGPT Wallet, allowing AI agents to make purchases without accessing users' actual card details while requiring a security check for every transaction."
+    },
+    {
+      "url": "https://empero.org/writing/quark?utm_source=tldrai",
+      "title": "Quark: our whole training stack, end to end, for $4,200",
+      "summary": "Quark is a language model with about 165 million parameters trained for about $4,200 of compute (about 1,300 H-100-hours). It has the best benchmark average among open models of its size trained on similar token budgets. The model was created to explore every part of the training stack the team was using before spending serious money on a large model. This post looks at the model's data, architecture, pretraining at scale, context extension, reinforcement learning, evaluation, and release."
+    },
+    {
+      "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law?utm_source=tldrai",
+      "title": "On the Brutality of Amdahl's Law",
+      "summary": "The world is far too slow to see the high double-digit or more economic growth and seismic transformations in the economy that AI is predicted to bring. Intelligence isn't the only technology curve to go quasi-infinite in the last century and a half. Electricity, communication, computers, transportation, and agriculture have all experienced extreme growth and transformation. Despite this, we've only seen 2% GDP per capita growth for nearly 150 years."
+    },
+    {
+      "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/?utm_source=tldrai",
+      "title": "End-to-End 4-Bit AI Training",
+      "summary": "Thinking Machines explored the technical challenges of training language models using 4-bit precision, including quantization errors and their effects on model accuracy. The deep dive examines BF16, MXFP8, and NVFP4 formats."
+    },
+    {
+      "url": "https://research.nvidia.com/labs/sil/projects/birddreams/?utm_source=tldrai",
+      "title": "BirdDreams: A Driving World Model",
+      "summary": "BirdDreams is an Nvidia driving world model that turns a single camera image into driving video and a bird's-eye view of the scene."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://sevren.ai/blog/embla-1?utm_source=tldrai",
+      "title": "Embla 1",
+      "summary": "Embla 1 is a reasoning model built for phones. It is designed to be fast and to use few tokens per answer. The model can run on a phone, privately, offline, for free. At 4 bits, Embla 1 averages 57.4 on BFCL, IFBench, AA-Omniscience, GPQA, and MATH-500 and answers in 1.77 seconds end-to-end on an iPhone 18 Pro."
+    },
+    {
+      "url": "https://qwen.ai/blog?id=qwen4-max&amp;utm_source=tldrai",
+      "title": "Qwen4-Max: Your New Teammate Has Arrived",
+      "summary": "Qwen4-Max can take on a wide range of creative and professional work in the fields of 3D modeling, game development, precision manufacturing, finance, law, healthcare, and frontier scientific discovery. It demonstrates strong 3D creation capabilities and can use Blender to carry out geometry modeling, scene assembly, material setup, lighting, and rendering. The model works fluently with leading game engines and can handle scene construction, gameplay logic, integration of external assets, material setup, HUD design, and visual effects, and deliver a playable game. Smaller models in the family are coming to open source."
+    },
+    {
+      "url": "https://unbundling.github.io/?utm_source=tldrai",
+      "title": "Meta's Vision Encoders in Multimodal Models",
+      "summary": "Meta researchers explored which components of vision encoders are essential for multimodal models, finding that dedicated visual processing capacity matters more than pretraining."
+    },
+    {
+      "url": "https://sierra.ai/blog/releasing-poppy?utm_source=tldrai",
+      "title": "Releasing Personal Agent Protocol 1.0",
+      "summary": "The Personal Agent Protocol enables personal agents to interact with companies through business agents, websites, and APIs. v.0 of the protocol is now available. The protocol defines how personal agents connect with companies that implement it. Customers control what personal agents can and can't do, and can manage their access over time."
+    },
+    {
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model/?utm_source=tldrai",
+      "title": "GPT-6 Astra Tackles a Fundamental Physics Problem",
+      "summary": "Physicist Nathaniel Craig worked with GPT-6 Astra to develop a candidate lattice formulation of the Standard Model, addressing a longstanding challenge in defining the theory without relying on perturbative approximations. Astra helped construct the mathematical framework and develop a detailed proof supporting the proposed approach."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2121375309287301360.html?utm_source=tldrai",
+      "title": "We've made some big updates to Projects in Claude Code!",
+      "summary": "The coordinator is now more proactive and can answer questions in the project chat while providing updates on the status of ongoing threads."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/?utm_source=tldrai",
+      "title": "Petition Calls for Nvidia to Reinstate Jensen Huang",
+      "summary": "Elon Musk and other technology executives signed a petition calling for Nvidia to reinstate former CEO Jensen Huang following his resignation amid allegations involving a suspected Chinese spy."
+    },
+    {
+      "url": "https://claude.com/resources/articles/building-always-on-agents?utm_source=tldrai",
+      "title": "Building always-on agents",
+      "summary": "Always-on agents, revived by recent advancements, now manage context and act without direct supervision, running on a core loop enhanced with event inboxes, timers, memory, permissions, and outboxes."
+    },
+    {
+      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations?utm_source=tldrai",
+      "title": "Building strong safety evaluations",
+      "summary": "Anthropic emphasizes the importance of robust safety evaluations for AI models, which inform deployment and training decisions."
+    }
+  ]
+}

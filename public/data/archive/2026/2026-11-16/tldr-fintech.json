@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-11-16",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/finance/kalshi-talks-raise-money-65-billion-valuation-bloomberg-news-reports-2026-11-12/?utm_source=tldrfintech",
+      "title": "Kalshi in talks to raise funds at $65 billion valuation for compute futures platform, source says",
+      "summary": "Reuters reported on November 12 that Kalshi is discussing fresh funding for a platform where companies could hedge against changes in the cost of renting GPU or cloud computing capacity. This would move Kalshi beyond event contracts and into a market that CME is also pursuing."
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-wallet/?utm_source=tldrfintech",
+      "title": "OpenAI launches ChatGPT Wallet for secure agentic payments",
+      "summary": "OpenAI is launching ChatGPT Wallet, initially for US ChatGPT Pro users through Dots, letting agents complete purchases without seeing users' actual card details while requiring biometric approval for each transaction. Built with American Express, Mastercard, and Visa, the wallet uses payment tokens that preserve existing card rewards and dispute protections. OpenAI is working with payment processors and fraud providers to help merchants recognize legitimate agent-driven transactions."
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/article/anthropic-launches-meetings-whiteboards-sheets-data-ahead-of-ipo-190548601.html?utm_source=tldrfintech",
+      "title": "Anthropic launches Meetings, Whiteboards, Sheets, Data ahead of IPO",
+      "summary": "Claude can now join video calls, answer questions in the meeting chat using information from connected apps, and turn planning discussions into timelines with assigned responsibilities. It can also build spreadsheets from a colleague's work and pull information from multiple platforms into dashboards, written summaries, or videos. Interactive connectors bring Claude into full versions of third-party apps, giving teams access to the assistant inside the software they already use."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/?utm_source=tldrfintech",
+      "title": "Stripe bets Tempo can become the payments-first blockchain for stablecoins",
+      "summary": "Stripe-backed Tempo is positioning itself as blockchain infrastructure built specifically for payments, reserving most block space for simple money movement so low-margin transactions are not crowded out by higher-value trading activity. The network is targeting cross-border payments, payroll, marketplace payouts, and emerging agentic commerce, with Stripe's Bridge and Privy acquisitions providing stablecoin and wallet infrastructure around the chain."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/stock-tokens?utm_source=tldrfintech",
+      "title": "Stock tokens are where stablecoins were in 2023",
+      "summary": "Tokenized stocks and ETFs total about $3.2 billion in distributed tokens, roughly 0.004% of the market, against about $431.6 billion in real-world assets onchain per RWA.xyz. Fintech Brainfood author Simon Taylor argues the field splits into four models, from wrapped tokens with no shareholder rights to natively issued stock, and notes 56 of 62 companies opted out of the OKX and ICE pooled offering."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-NARhJ7jAj4&utm_source=tldrfintech",
+      "title": "Nik Storonsky: The most uncompromising banking CEO (52 minute video)",
+      "summary": "Revolut's founder explains how the company plans to challenge Amex and Chase in the US. He breaks down how Revolut built a profitable business around subscriptions and transactions and uses retention and gross profit benchmarks from past launches to decide which new products to scale. He also explains how the company is using AI to shorten compliance reviews that have taken 210 days."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/?utm_source=tldrfintech",
+      "title": "Google connects Wallet to Gemini for personalized finance insights",
+      "summary": "Google is rolling out Google Wallet integration to Gemini users in the US, letting the assistant analyze spending, find recurring subscriptions, and help build personalized budgets using transaction data. Users can also link bank and credit card accounts through Plaid for deeper insights, while Gemini remains read-only and cannot move, manage, or invest money."
+    },
+    {
+      "url": "https://www.bankingdive.com/news/8-questions-for-the-wells-fargo-wealth-units-ai-chief/874275/?utm_source=tldrfintech",
+      "title": "8 questions for the Wells Fargo wealth unit's AI chief",
+      "summary": "Wells Fargo's AI Teammate assistant has logged hundreds of thousands of interactions since launching last quarter, according to wealth and investment management AI head Andre Mansour, who joined from Google six months ago. Mansour reports the tool runs as an agent over Advisor Gateway's 200-plus adviser tools, cuts meeting prep from hours to a couple of prompts, and expects advisers to become an approval layer for clients' own AI agents."
+    },
+    {
+      "url": "https://fortune.com/2026/11/12/jane-street-doubled-nvidia-stake-last-quarter-filings-reveal/?utm_source=tldrfintech",
+      "title": "Jane Street more than doubled its Nvidia stake in Q3 filings",
+      "summary": "Jane Street disclosed 23.8 million Nvidia shares worth about $5.4 billion as of September 30, more than double its 11.8 million-share position in Q2, making Nvidia its second-largest reported holding. The filing does not show Jane Street's current exposure or short positions, and its large options book makes the 13F an incomplete picture of whether the firm was making a directional bet on Nvidia."
+    },
+    {
+      "url": "https://thefinanser.com/2026/11/everything-is-fake/?utm_source=tldrfintech",
+      "title": "Everything is fake",
+      "summary": "An FBI-uncovered North Korean operation called FaceStealer stole more than $400 million in crypto over about 18 months using AI-generated impersonations of colleagues on video calls. The same playbook could hit banks, from urgent client transfers to account recovery with a matching face and voice, so biometrics and video confirmation can no longer stand alone. The FBI figures arrive secondhand, via press reports, and the bank scenarios are Skinner's sketch rather than documented cases."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/why-paypal-wants-to-have-a-bank/874615/?utm_source=tldrfintech",
+      "title": "PayPal wants a bank to expand merchant lending and diversify funding",
+      "summary": "PayPal says an industrial bank charter would support more lending to its merchant base while giving the company a cheaper and more diversified source of capital, including potential deposits. The move fits PayPal's broader push into financial services across BNPL, Venmo, and merchant credit, while management still intends to keep the overall business relatively balance-sheet light by selectively holding or selling loan assets."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/?utm_source=tldrfintech",
+      "title": "Western Union, Intermex clash",
+      "summary": "Western Union has terminated its $500 million deal for Intermex, saying conditions set by California's DFPI were unacceptable."
+    },
+    {
+      "url": "https://sg.finance.yahoo.com/news/barclays-cut-200-investment-banking-180754132.html?utm_source=tldrfintech",
+      "title": "Barclays plans to cut about 200 investment banking jobs in New York and London",
+      "summary": "Barclays is reportedly preparing to eliminate about 200 investment banking roles across seniority levels in New York and London as part of its annual performance and efficiency review."
+    }
+  ]
+}

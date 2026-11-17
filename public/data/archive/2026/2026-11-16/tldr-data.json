@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Data",
+  "date": "2026-11-16",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://medium.com/pinterest-engineering/how-pinterest-improved-analytics-agent-compliance-with-loop-engineering-d3c52d0abaa2?utm_source=tldrdata",
+      "title": "How Pinterest Improved Analytics Agent Compliance with Loop Engineering",
+      "summary": "Pinterest's Analytics Agent can skip required steps, such as inspecting table metadata before writing SQL. Manual instruction edits left one rule at 64% compliance, so the team built loop engineering: propose a change, test it on paired test suites, and keep what works. The first large run reached 89.3% compliance, though 10.3% of cases changed verdict between runs."
+    },
+    {
+      "url": "https://klaviyo.tech/the-future-of-data-science-and-analytics-engineering-at-klaviyo-fa2c3af63e1b?utm_source=tldrdata",
+      "title": "The Future of Data Science and Analytics Engineering at Klaviyo",
+      "summary": "AI can produce code and analysis faster than people can review it at Klaviyo, making human attention and clear ownership the main bottlenecks. Data science and analytics engineering are merging into a broader role focused on guiding AI, checking its work, and turning useful findings into action."
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.22237?utm_source=tldrdata",
+      "title": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
+      "summary": "SparseRead is a training-free control layer that decides how much of a file, webpage, or repository enters an agent's context. Its read gate, bounded evidence packs, and explicit raw fallback target the common read-everything pattern. The authors report lower token use and latency without changing the model across six models and five workloads."
+    },
+    {
+      "url": "https://blog.dataengineerthings.org/data-governance-that-actually-runs-103e4e916dd1?utm_source=tldrdata",
+      "title": "Data governance that actually runs",
+      "summary": "Governance-as-code turns policy into checks across a local, open-source stack: MinIO for S3-like intake; Postgres for operations and warehousing; Airflow 3 and dbt for pipelines; DataHub, Apache Ossie, and Superset for catalog, semantic definitions, and dashboards; and MCP-connected AI assistants. CI enforces contracts, ownership, masking, lineage, consumer-impact approval, and least-privilege access before production."
+    },
+    {
+      "url": "https://joereis.substack.com/p/do-data-roles-have-a-future?utm_source=tldrdata",
+      "title": "Do Data Roles Have a Future?",
+      "summary": "This post splits data work into production, interpretation, and accountability, and argues AI makes production dramatically cheaper while the other two stay human. In the 2026 Practical Data Community Survey, 80% of respondents used AI daily. Only about 10% had built it into organisational workflows, and nearly 89% still wrestled with basic data modelling."
+    },
+    {
+      "url": "https://www.dataengineeringweekly.com/p/how-open-is-open-iceberg-catalogs?utm_source=tldrdata",
+      "title": "How Open Is Open? Iceberg, Catalogs, and User Choice",
+      "summary": "Open table formats do not by themselves make a lakehouse portable: an Iceberg catalog's support for commits, metadata loading, planning, concurrent writers, and credentials can still create hard-to-see dependencies. The proposal is a deployable community baseline built around the REST catalog protocol, Apache Polaris, compatibility testing, performance benchmarks, and tested migration procedures, so teams can verify what they can run, swap, and take with them."
+    },
+    {
+      "url": "https://github.com/NVIDIA/auto-ontology?utm_source=tldrdata",
+      "title": "Auto Ontology: Grounding Agents in Enterprise Data (GitHub Repo)",
+      "summary": "NVIDIA's Apache-licensed Auto Ontology turns database metadata into a semantic graph that humans can review and certify, and agents can access over MCP, API, or CLI. It maps business terms, certified SQL attributes, and relationships to underlying data so it can generate queries and disclose their provenance. The aim is to make natural-language analytics more consistent and auditable than direct text-to-SQL."
+    },
+    {
+      "url": "https://github.com/db-branch/db-branch?utm_source=tldrdata",
+      "title": "db-branch (GitHub Repo)",
+      "summary": "db-branch is a self-hosted, open-source tool that creates isolated MySQL and PostgreSQL database copies in seconds, sharing existing storage until changes are made. It lets developers and AI agents test queries, migrations, and upgrades without changing production data, with options to reset, restore, or automatically delete each copy."
+    },
+    {
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/?utm_source=tldrdata",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "summary": "PyPI has redesigned its package pages with a security tab showing where release files came from and warnings when that information is missing, inconsistent, or unexpectedly changed. Updated file lists and release histories make packages easier to assess, though verified origins do not guarantee safe code."
+    },
+    {
+      "url": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442?utm_source=tldrdata",
+      "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released!",
+      "summary": "PostgreSQL shipped patch releases for all supported branches, fixing 52 security vulnerabilities and more than 140 bugs. PostgreSQL 14 is now end-of-life, so production teams should upgrade to a supported version. The updates are cumulative and usually straightforward, though some deployments may also need index rebuilds or a fresh full backup."
+    },
+    {
+      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/?utm_source=tldrdata",
+      "title": "What thousands of conversations look like inside a language model",
+      "summary": "An experiment mapped Qwen's internal representations of thousands of question-and-answer examples, finding overlapping regions shaped partly by language, with Chinese more visibly separated from English, German, Croatian, and Python code. The 3D maps captured only 17.6% of the full variation, showing how visualizations can reveal patterns while hiding much of the underlying complexity."
+    },
+    {
+      "url": "https://engineering.uipath.com/real-time-alert-in-spark-64da2bd8dbed?utm_source=tldrdata",
+      "title": "Real-time Alert in Spark",
+      "summary": "UiPath built a Spark Structured Streaming alerting system that evaluates 20,000 alert definitions per minute, including windowed conditions and SLA checks, without repeatedly rescanning source data. The key design was joining streams to static definitions once and managing state carefully, which cut memory from 12 GB to 4 GB and reduced downstream network calls."
+    },
+    {
+      "url": "https://milanjovanovic.tech/blog/outbox-pattern-postgres-workers-vs-wal?utm_source=tldrdata",
+      "title": "Outbox Pattern in Postgres: Concurrent Workers vs Reading the WAL",
+      "summary": "For Postgres outbox delivery, polling is simplest, but WAL-based logical replication delivered the best throughput and lowest latency, while trigger-time NOTIFY caused severe contention under load."
+    },
+    {
+      "url": "https://hackernoon.com/postgres-not-using-your-index-its-counting-pages-not-rows?utm_source=tldrdata",
+      "title": "Postgres not using your index? It's counting pages, not rows",
+      "summary": "Postgres often ignores an index because it estimates page reads, not row counts, and low-selectivity filters can still touch most heap pages."
+    }
+  ]
+}

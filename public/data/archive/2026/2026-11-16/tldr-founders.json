@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-16",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://mackgrenfell.com/writing/software-businesses-2026?utm_source=tldrfounders",
+      "title": "Does more software mean more businesses?",
+      "summary": "Subscription companies are adding less new revenue than they did a year ago. The surge in filings to start software companies hasn't produced more employers. The drop is steepest at the cheap end, for products under $50 a month. Sellers of bigger contracts should check where their buyers' budgets went, because OpenAI and Anthropic have more than tripled their revenue this year."
+    },
+    {
+      "url": "https://tomtunguz.com/no-shirt-no-shoes-no-service-for-bots/?utm_source=tldrfounders",
+      "title": "No Shirt, No Shoes, No Service for Bots",
+      "summary": "Amazon and United make most of their profit on extras like sponsored listings and seat upgrades, which is why both now block AI shopping agents that skip past the extras. Shopify takes the same cut no matter who clicks buy, so it opened checkout to agents in September. Stores that live on upsells can respond by raising base prices or charging agents a fee at checkout."
+    },
+    {
+      "url": "https://www.onlycfo.io/p/dont-neglect-the-m-and-a-path?utm_source=tldrfounders",
+      "title": "Don't Neglect the M&A Path",
+      "summary": "Most leaders are too focused on the IPO path and neglect the M&A option until it's too late. Almost all companies that have the privilege of an exit will do so via an acquisition. It's important to start early to improve your chances that M&A remains an option. This post is the first of a three-part series that covers preparing for M&A, the M&A process, and diligence and closing."
+    },
+    {
+      "url": "https://www.clay.com/blog/code-reviews-agents?utm_source=tldrfounders",
+      "title": "Less time on code, more time on architecture",
+      "summary": "Clay relies on AI review agents to catch routine bugs in most pull requests, freeing engineers to focus on decisions that are risky or hard to reverse, such as changing a data schema or deciding which service owns a piece of logic. For complex changes, engineers discuss the design before reviewing the code in detail. If a large pull request arrives without that context, reviewers ask for a short design write-up and pause the review until the team has discussed it."
+    },
+    {
+      "url": "https://www.proofofconcept.pub/p/building-story-factory?utm_source=tldrfounders",
+      "title": "Building Story Factory",
+      "summary": "Story Factory is a way for marketing and design to transform content production in the AI era. The agentic creation studio turns real front-end code and design tokens into production-grade marketing films, 3D motion, stage visuals, decks, and social assets, in minutes, in any language, without screen recordings. It is still in pilot. This post explains the engineering decisions behind the tool."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrfounders",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://devin.ai/blog/devin-apps?utm_source=tldrfounders",
+      "title": "Introducing Devin Apps",
+      "summary": "Devin Apps are live, private web applications hosted directly on Devin's cloud computer. Users describe the tool their team needs, Devin builds it, and the team opens it from a link. Devin Apps run directly on Devin's machine, so they have access to existing MCPs, integrations, and codebases. Users can build apps with their own internal tech stack and components, or start from a built-app template."
+    },
+    {
+      "url": "https://blog.cloudflare.com/spend-management?utm_source=tldrfounders",
+      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+      "summary": "Cloudflare users can now set spending thresholds for Workers and Durable Objects. Activity will automatically pause when spending limits are reached. Spend Management is still in beta and is available for all pay-as-you-go customers. Users can access spend management controls using the dashboard, cf CLI, or REST API."
+    },
+    {
+      "url": "https://x.com/noahkagan/status/2121379356207464887?utm_source=tldrfounders",
+      "title": "Ask Claude which of your shipped work moved a number",
+      "summary": "Building with AI feels productive because something ships every day. AppSumo's founder asked Claude to check the work and learned that only 4 of 67 shipped changes had moved a number. Tests with clear winners had also sat waiting on the founder's decision. You can run the same audit with the prompt in the post, which asks Claude what number each change was meant to move and whether it did."
+    },
+    {
+      "url": "https://adlrocha.substack.com/p/adlrocha-most-of-ai-moats-are-just?utm_source=tldrfounders",
+      "title": "Most of AI moats are just fuel",
+      "summary": "In the age of AI, context and know-how are losing their status as moats, becoming more like fuel for initial growth. Moats are defined by their ability to provide lasting protection without ongoing resource inputs, unlike fuel, which only provides a competitive edge when continuously added. Reinforcing loops, such as network and data effects, can evolve into moats by reducing dependency on fuel, making businesses harder to challenge."
+    },
+    {
+      "url": "https://x.com/joshelman/status/2122027573739987356?utm_source=tldrfounders",
+      "title": "What Actually Compounds in Consumer AI? (3 questions to ask)",
+      "summary": "Companies with strong networks have an especially interesting opportunity, as they will get better every time someone new joins."
+    },
+    {
+      "url": "https://supercompanies.substack.com/p/dumb-ways-to-manage-inference-spend?utm_source=tldrfounders",
+      "title": "Dumb ways to manage inference spend",
+      "summary": "Section spends about $1,000 a month on AI for each nontechnical employee."
+    },
+    {
+      "url": "https://hsdigital.substack.com/p/zendesk-tests-outcome-pricing-as?utm_source=tldrfounders",
+      "title": "Zendesk tests outcome pricing as 58% stay on seats",
+      "summary": "A survey of 126 vertical software founders and operators finds 58% still tie AI pricing to the seat, while only 15% charge on outcomes and 28% see no ACV lift."
+    },
+    {
+      "url": "https://x.com/ivanburazin/status/2120986492843577816?utm_source=tldrfounders",
+      "title": "Build when customer requests cluster",
+      "summary": "Daytona passed $100 million in run rate without a roadmap."
+    },
+    {
+      "url": "https://saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026?utm_source=tldrfounders",
+      "title": "HubSpot Is Refounding as the “Customer Harness Company.” Here's What That Means for Us, Right Now, in November 2026",
+      "summary": "HubSpot refounds as the \"Customer Harness Company,\" focusing on headless systems where AI agents, not humans, manage CRM and marketing automation tasks."
+    }
+  ]
+}
