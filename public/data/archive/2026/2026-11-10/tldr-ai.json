@@ -1,0 +1,88 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-11-10",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/?utm_source=tldrai",
+      "title": "Google's New TPU Lineup",
+      "summary": "Google introduced TPU 8i Max for massive context windows and higher compute density, alongside TPU 8tx for secure and confidential inference."
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-ember?utm_source=tldrai",
+      "title": "Introducing Meta Ember",
+      "summary": "Meta introduced Muse Ember, a small reasoning model optimized for agent tasks such as tool calling, coding, and document parsing. Meta claims it matches Claude Haiku 5.5's highest reasoning score at roughly one-third the cost and outperforms GPT-6 Luna across reasoning settings."
+    },
+    {
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2?utm_source=tldrai",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "summary": "Anthropic released Claude Fable 5.2 and Mythos 5.2, featuring improvements in coding, reasoning, and vision, with up to 30% faster output generation and lower pricing. The models share the same underlying architecture."
+    },
+    {
+      "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens?utm_source=tldrai",
+      "title": "When Does the US Become a Net Importer of Tokens?",
+      "summary": "The US could become a net importer of AI tokens between 2028 and 2030. Domestic capacity can accommodate roughly 2.5x annual token growth, with faster demand growth or canceled data center projects pushing computation overseas."
+    },
+    {
+      "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards?utm_source=tldrai",
+      "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+      "summary": "AI is accelerating AI R&D at Anthropic. The company is now estimated to be several months ahead of the AI 2027 timeline. We may be less than a year away from full RSI, and there are no clear bottlenecks in the way. We now need to prepare for scenarios where critical events happen in 2027 or 2028."
+    },
+    {
+      "url": "https://x.com/OrnnExchange/status/2119839768355778637?utm_source=tldrai",
+      "title": "Will Anthropic Grow Into Its Compute Bill?",
+      "summary": "Anthropic needs an estimated roughly $200 billion in annual revenue to support its average compute commitments through 2030 at current spending ratios. Its $895 billion commitment total exposes it to demand shortfalls, margin compression, delivery delays, and expensive short-term capacity when demand exceeds forecasts."
+    },
+    {
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/?utm_source=tldrai",
+      "title": "What objective is reasoning solving?",
+      "summary": "Reasoning is pathfinding in token space. There are many paths from the problem to a correct answer, and the model traverses each of them with each sample. A path is not guaranteed to converge to the correct answer - it's only in aggregate, over the distribution of paths, do we get a high probability of success. RL training directly raises the success probability. The gains credited to 'thinking longer' come from the search paid for during training rather than at inference."
+    },
+    {
+      "url": "https://www.forethought.org/research/two-kinds-of-test-time-scaling?utm_source=tldrai",
+      "title": "Two Kinds of Test-Time Scaling",
+      "summary": "Test-time scaling trades compute for performance at test time. There are two types of test-time scaling: one allows researchers to trade more compute for more performance per task, but only up to the maximum quantity of per-task compute used during training; and the other lets researchers trade more compute for more performance per task, and lets them do so up to quantities of compute and performance that never occurred during training. Scaling methods that permit the latter change will have a larger impact than test-time scaling considered simply. This essay describes how this may impact the world."
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.08290?utm_source=tldrai",
+      "title": "NVIDIA Introduces Hardware-Aware LLM Compression",
+      "summary": "NVIDIA's AutoCompress framework optimizes LLM pruning for hardware-specific latency, throughput, and memory constraints rather than parameter counts alone. It compressed Nemotron 3.5 Super from 120B to 74B parameters while retaining its performance."
+    },
+    {
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro?utm_source=tldrai",
+      "title": "Apple Introduces $50 AI Usage Packs in Logic Pro",
+      "summary": "Apple now sells $49.99 Intelligence Usage Packs in Logic Pro to extend access to cloud-based AI features after users reach their limits. Unused capacity rolls over monthly but expires after 12 months, and purchases cannot be shared through Family Sharing."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/?utm_source=tldrai",
+      "title": "Anthropic Buys $3.4 Billion in Gas Generators",
+      "summary": "Anthropic reportedly secured 1.7 gigawatts of Caterpillar gas generators for $3.4 billion, taking over equipment orders from supplier OnePWR. The purchase moves the AI lab deeper into physical infrastructure as power shortages and lengthy grid connection queues constrain data center expansion."
+    },
+    {
+      "url": "https://openai.com/index/control-room/?utm_source=tldrai",
+      "title": "OpenAI's Control Room Can Halt Research Model Output",
+      "summary": "OpenAI's Control Room centrally authorizes research inference requests and can stop a workload's model output within 35 seconds of intervention."
+    },
+    {
+      "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update?utm_source=tldrai",
+      "title": "Update on October 2026 security incident",
+      "summary": "The security incident involving unauthorized use of internal Fireworks credentials on October 6 has been traced to a financially motivated cybercriminal threat actor group that sells unauthorized access to large language models to illicit routing gateways."
+    },
+    {
+      "url": "https://research.nvidia.com/labs/gear/gr00t-2/?utm_source=tldrai",
+      "title": "GR00T 2",
+      "summary": "GR00T 2 is a new generation of foundation world-action models that can predict future video and robot actions together."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2119192075505893695.html?utm_source=tldrai",
+      "title": "Is Opus 5.5 nerfed?",
+      "summary": "Testing shows that the way Opus 5.5 does reasoning may have changed."
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/?utm_source=tldrai",
+      "title": "ChatGPT Enterprise on AWS Marketplace",
+      "summary": "OpenAI made ChatGPT Enterprise available through AWS Marketplace, allowing organizations to purchase and manage subscriptions through existing AWS billing relationships and apply eligible spending toward AWS commitments."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-10",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.rippling.com/blog/rising-health-insurance-premiums-squeeze-paychecks-2026?utm_source=tldrfounders",
+      "title": "Rising Health Insurance Premiums Squeeze Paychecks in 2026",
+      "summary": "Employers are paying more for health coverage while employees are feeling the squeeze. Total family premiums rose 9.8% from 2025 to 2026, while gross pay for the same employees grew 6.4%. Employers still pay most of the premium. More employees are on high-deductible plans, with the share of family enrollees on HSA-eligible plans rising from 20.9% in 2021 to 33.9% in 2026."
+    },
+    {
+      "url": "https://craft.faire.com/accelerating-product-development-in-the-ai-age-how-faire-developed-product-builders-fe70044854b5?utm_source=tldrfounders",
+      "title": "How Faire developed product builders",
+      "summary": "Faire accelerated product development by transforming engineers into \"product builders,\" combining coding with product and design thinking. This shift allowed engineers to manage features end-to-end, reducing dependencies on PMs and designers, freeing them to focus on complex customer problems. Early results showed significant improvement in engineers' contributions to customer outcomes, with a notable increase in product and design thinking capabilities."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/inside-clay-s-gtm-machine?utm_source=tldrfounders",
+      "title": "Inside Clay's GTM machine",
+      "summary": "Build your account scoring around what your highest-paying customers have in common. Clay's head of GTM engineering found that its top customers by ARR had at least 10% of their employees in sales or go-to-market roles. That pattern became one input in its fit score for other accounts. The fit score feeds a weekly ranking that gives each rep five accounts from their own book to focus on."
+    },
+    {
+      "url": "https://x.com/kylejeong/status/2119925224334586085",
+      "title": "The secret behind viral product launches",
+      "summary": "Startups have the unique opportunity to capture millions of eyeballs and attention worth millions of dollars on X. This post looks at how to actually win the timeline for a day. It provides clear steps to follow to grab attention, even against AI, which has industrialized content production and saturated the space. It also covers the different things a company must do to coordinate a launch with over a million views."
+    },
+    {
+      "url": "https://www.fletchpmm.com/newsletter/should-you-incorporate-ai-in-your-positioning?utm_source=tldrfounders",
+      "title": "Should you incorporate AI in your positioning?",
+      "summary": "A homepage that sounds like your closest competitor's feels like a positioning failure. A positioning consultant argues that this can be the right call for AI CRMs such as Lightfield and Day AI, which have both used \"AI-native CRM.\" A buyer using Salesforce or HubSpot first needs a reason to consider switching to an AI CRM. The differences between the startups can wait for a sales conversation once that buyer is ready to try one."
+    },
+    {
+      "url": "https://automattic.com/2026/11/09/meet-spacefast/?utm_source=tldrfounders",
+      "title": "Meet Spacefast, Everything Your Agents Need to Bring Your Ideas to Life (Tool)",
+      "summary": "Automattic's Spacefast lets your existing AI agent publish an app with hosting and a database. Projects are private by default and can be shared by password or invite. The agent needs approval before changing domain settings or rolling back a version."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/?utm_source=tldrfounders",
+      "title": "AWS Introduces Nitro Sandboxes for Isolated Workloads",
+      "summary": "AWS Nitro Sandboxes give EKS pods, ECS tasks, and virtual machines hardware-enforced isolation while sharing an EC2 instance."
+    },
+    {
+      "url": "https://elevenlabs.io/blog/elevenagents-campaign-manager?utm_source=tldrfounders",
+      "title": "ElevenAgents Campaign Manager (Tool)",
+      "summary": "Run outbound campaigns with contextual follow-ups, calling controls, and outcome tracking."
+    },
+    {
+      "url": "https://posthog.com/blog/self-driving-ga?utm_source=tldrfounders",
+      "title": "Self-Driving is out of beta (we finally fixed the pricing, too) (Tool)",
+      "summary": "PostHog Self-Driving investigates your product analytics and errors, then recommends fixes or opens pull requests for them. Automatic pull requests are off by default, and spending limits cap the per-run charges."
+    },
+    {
+      "url": "https://blog.shanemac.com/the-thing-i-talk-to-most/?utm_source=tldrfounders",
+      "title": "The Thing I Talk To Most",
+      "summary": "Picnic's founder had an agent read customer replies and come back with a feature he hadn't thought to build. One person wanted to stop approving each inbox search, and another needed to keep a client's Social Security numbers out of the results. The agent proposed a permission that stays on until revoked and lets the customer block specific terms. It suggested showing the idea first to the person with the privacy request and drafted a reply."
+    },
+    {
+      "url": "https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=tldrfounders",
+      "title": "The great software IP writedown",
+      "summary": "Software companies count on years of engineering work continuing to pay off after the product ships. Faster copying is turning that investment into a recurring expense. Agents can already start reproducing apps from screenshots. Switching is now easier too because an agent can pull customer records out of the old web app even when the vendor offers no clean export."
+    },
+    {
+      "url": "https://www.samkuehnle.com/p/the-2027-funnel-audit-for-annual-planning?utm_source=tldrfounders",
+      "title": "The 2027 funnel audit for annual planning",
+      "summary": "The audit's example puts $30 demos at $10,000 per qualified opportunity when only three out of a thousand demos qualify."
+    },
+    {
+      "url": "https://www.ryanhoover.me/post/how-product-hunt-almost-died?utm_source=tldrfounders",
+      "title": "How Product Hunt almost died",
+      "summary": "Product Hunt's Series B drew 50-plus rejections, and its founder wishes he'd spent at least 10% of team effort testing monetization after Series A."
+    },
+    {
+      "url": "https://www.saastr.com/the-new-normal-in-revenue-per-employee-237k-is-the-median-655k-is-the-top-tier-and-six-b2b-leaders-now-clear-1-5m/?utm_source=tldrfounders",
+      "title": "The Widening Gap in Revenue Per Employee",
+      "summary": "ICONIQ benchmarks put median B2B ARR per employee at $237,000, versus $655,000 among leading growth companies."
+    },
+    {
+      "url": "https://x.com/dvdhsu/status/2119873785080017244?utm_source=tldrfounders",
+      "title": "Own your means of production",
+      "summary": "Service business models will make the most money from LLMs - they already have customers, so rebuild their software so they can do the work with fewer people and replace tools they used to buy, and keep more of what customers pay."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/decision-models?utm_source=tldrfounders",
+      "title": "Not everything needs an LLM",
+      "summary": "Decision models can take any job when an LLM is overkill - LLMs should still be used for open-ended jobs."
+    }
+  ]
+}

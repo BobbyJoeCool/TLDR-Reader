@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-11-10",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://youtube.com/watch?v=qGf2Yvan4Wg&amp;feature=youtu.be&amp;utm_source=tldrproduct",
+      "title": "Why PMs are suddenly valuable again (58 minute video)",
+      "summary": "Gemini Head of Product Tulsee Doshi explains that model development is unpredictable, comparing it to potion-making where PMs guide models by understanding their \"vibes.\" She also outlines Google's AI strategy: winning frontier conversations with models like Gemini 4 Argon while serving diverse cost and quality needs across a Pareto curve."
+    },
+    {
+      "url": "https://research.oguzbilgic.com/theses/maximum-viable-product?utm_source=tldrproduct",
+      "title": "The MVP Was a Hack Around a Constraint That No Longer Exists",
+      "summary": "The traditional Minimum Viable Product approach is obsolete because modern engineering tools have drastically lowered software development costs. Teams should instead ship a maximum viable product that solves a customer's complete problem, shifting the primary growth bottleneck from engineering capacity to customer understanding and adoption."
+    },
+    {
+      "url": "https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles?utm_source=tldrproduct",
+      "title": "AI Product Management at Spotify: A View From Three Angles",
+      "summary": "Spotify engineering leaders examine how AI product management varies across technical research, foundational models, and user-facing experiences. They highlight how evaluation metrics, feedback loops, and customer definitions shift depending on the problem space."
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/?utm_source=tldrproduct",
+      "title": "Prioritize Product Feedback by Revenue at Risk",
+      "summary": "Bellwether is a revenue-weighted feedback engine for B2B SaaS that combines support, sales, and NPS signals with CRM account revenue. Weighting themes by ARR and renewal proximity rather than raw count inverts roadmaps to protect major enterprise accounts."
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/how-to-turn-1000-pull-requests-a-day-into-the-few-your-customers-need?utm_source=tldrproduct",
+      "title": "How to turn 1000 pull requests a day into the few your customers need",
+      "summary": "AI-driven development tools have dramatically accelerated feature production, overwhelming teams with pull requests that may lack customer value. To manage this volume, leaders should democratize strategic clarity, set evidence-based deployment gates, mandate clear hypotheses, and measure outcomes over raw output."
+    },
+    {
+      "url": "https://www.aakashg.com/how-to-talk-to-every-one-of-your-customers-with-ai/?utm_source=tldrproduct",
+      "title": "How to talk to every one of your customers with AI",
+      "summary": "Product managers can use AI tools like Claude Code for proactive, automated email customer research at scale. Integrating customer data with automated outreach allows teams to run thousands of continuous conversations, capturing insights and boosting conversion rates."
+    },
+    {
+      "url": "https://craft.faire.com/accelerating-product-development-in-the-ai-age-how-faire-developed-product-builders-fe70044854b5?gi=77c51f5ece11&amp;source=rss----4af981bb79f---4&amp;utm_source=tldrproduct",
+      "title": "Accelerating product development in the AI age: How Faire developed product builders",
+      "summary": "To resolve bottlenecks from increased AI coding output, software company Faire created a product builder program to transition engineers into end-to-end product owners. Expanding engineers' product and design skills reduced handoffs, leading to faster feature delivery and improved customer outcomes."
+    },
+    {
+      "url": "https://www.davesresearch.com/enter-the-game/?utm_source=tldrproduct",
+      "title": "Enter the game",
+      "summary": "This article presents a framework for product strategy based on three structures (the field, gameplay, and players) and their binding relationships: operations, orientation, and traction. Maintaining balance across these interlocking elements prevents common strategic breakdowns like stagnation."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2119842075298656316.html?utm_source=tldrproduct",
+      "title": "Freedom within structure",
+      "summary": "Effective software relies on clear underlying structure over endless customization."
+    },
+    {
+      "url": "https://huntersoftwareconsulting.com/posts/2026-11-08-product-works-did-you-ship/?utm_source=tldrproduct",
+      "title": "The product works, did you ship?",
+      "summary": "A working product fails if customers misunderstand its value."
+    }
+  ]
+}

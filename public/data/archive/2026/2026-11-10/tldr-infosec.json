@@ -1,0 +1,78 @@
+{
+  "name": "TLDR InfoSec",
+  "date": "2026-11-10",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/?utm_source=tldrinfosec",
+      "title": "QNAP Says Hackers are Breaching NAS Devices in Plex2Shell Attacks",
+      "summary": "QNAP is urging users who use Plex on a NAS device to update their Plex servers to fix a series of four vulnerabilities, known as Plex2Shell, that are being actively exploited. QNAP states that users should treat their NAS devices and all personal content as compromised if they're running a vulnerable Plex server that is exposed to the public Internet. Users who suspect compromise can upload their logs to the technical support portal for help determining if they have been compromised."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/?utm_source=tldrinfosec",
+      "title": "SonicWall Warns of New SSL-VPN MFA Bypass Flaw Exploited in Attacks",
+      "summary": "SonicWall is warning customers of a new vulnerability in SonicOS SSL-VPN devices that an attacker with credentials for an alternate authentication method can exploit to bypass SAML authentication controls, potentially including MFA. CISA added the vulnerability to the KEV list, and the SonicWall PSIRT reported it as potentially exploited. SonicWall also fixed six other vulnerabilities, including two management interface flaws, pre-authentication buffer overflows that could lead to DoS, and weak password hashing vulnerabilities."
+    },
+    {
+      "url": "https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild?utm_source=tldrinfosec",
+      "title": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+      "summary": "From October 14 to 26, an attacker used IAM credentials from Qubole's AWS account (805246085872) to assume the cross-account roles customers had set up to trust the vendor. It then harvested Secrets Manager, SSM, and Lambda secrets, checked them against AWS, Entra ID, and Okta using TruffleHog, and downloaded entire S3 buckets. Most of the roles it assumed had no legitimate Qubole activity that month, and every request included a valid External ID. Customers should search CloudTrail for AssumeRole calls from that account originating from non-AWS IPs or with quiam-* session names, delete unused vendor roles, and pin trust policies to the vendor's principal using an aws:SourceIp condition, which alone would have blocked every attempt."
+    },
+    {
+      "url": "https://www.sudorem.dev/blog/detecting-and-responding-to-ai/?utm_source=tldrinfosec",
+      "title": "Detecting and Responding to AI-Aided and Agentic Attacks",
+      "summary": "Distinguishing between human behavior, humans assisted by LLMs, and autonomous agents is critical to identifying the type of adversary behind an attack. LLMs can adapt to new information and carry out operations quickly, but they may make mistakes when generating synthetic headers or exhibit coding antipatterns, such as switching frameworks or using input and output handling that is more machine-friendly than human-friendly. Agents may also use a map-reduce-like pattern: they fan out information-gathering tasks, then synthesize the results all at once."
+    },
+    {
+      "url": "https://research.jfrog.com/post/accurasofthire-fake-interview/?utm_source=tldrinfosec",
+      "title": "Contagious Interview: One Interview Away From Infection",
+      "summary": "JFrog followed a single malicious npm package to AccuraSoftHire (accurasofthire[.]com), a fake company with job ads on Indeed and LinkedIn, ID-verified recruiter profiles, and a React take-home test. The test's Tailwind config loads one look-alike forms plugin carrying a loader that runs when the CSS builds, not at npm install, so install-script scanners never see it. Whenever npm removed that plugin, the operator republished it under a new name, and the careers site's \"video verification\" step was rigged to fail so it could push a curl one-liner that downloads a fake \"camera driver.\""
+    },
+    {
+      "url": "https://djad04.github.io/php2shell-deep-dive/?utm_source=tldrinfosec",
+      "title": "PHP2Shell — Deep Dive",
+      "summary": "PHP2Shell is a use-after-free chain that can lead to remote code execution. A crafted multipart request triggers an out-of-memory condition during session.upload_progress processing. PHP's bailout path skips cleanup, leaving stale global pointers in a long-lived worker process. A later request reclaims the freed memory and forges a zend_string length field, causing PHP to return 256 bytes of nearby heap data in a Set-Cookie header. The attacker extracts heap and code pointers, defeats ASLR, forges a HashTable, hijacks pDestructor, and executes a command. The article demonstrates an exploit that targets PHP 8.4.26 Alpine CLI and depends on precise heap grooming."
+    },
+    {
+      "url": "https://github.com/heterodoxin/AbliteratedOutTheBox?utm_source=tldrinfosec",
+      "title": "AbliteratedOutTheBox (GitHub Repo)",
+      "summary": "AbliteratedOutTheBox is a fork of llama.cpp that gets any supported model to answer flagged harmful prompts, delivering the requested content instead of a refusal, at inference time and with the original weights left on disk unchanged."
+    },
+    {
+      "url": "https://github.com/mrwadams/attackgen?utm_source=tldrinfosec",
+      "title": "Attackgen (GitHub Repo)",
+      "summary": "AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and your organization's details."
+    },
+    {
+      "url": "https://github.com/0sec-labs/0?utm_source=tldrinfosec",
+      "title": "0 (GitHub Repo)",
+      "summary": "0 is an open-source AI security harness from YC-backed 0.security that runs vulnerability investigations, finding verification, and fix workflows in a local browser console, using whatever model provider you bring. It also does Ghidra-backed binary analysis through its 0verse MCP server, and it keeps source-linked memory of past findings so later runs can build on them. Its workflows are exposed over CLI and MCP, so Claude Code or another coding agent can drive the same runs, and a GitHub Action fits it into CI."
+    },
+    {
+      "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/?utm_source=tldrinfosec",
+      "title": "Google DeepMind's AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+      "summary": "Google DeepMind and researchers from UC San Diego and Inria found two ways to reduce the cost of attacking RSA-1024. AI agents cut a signature-forgery attack's CPU time from 1,380 to 391 core-years. They also proposed a batch-factoring method that could make each additional 1024-bit key about 30 times cheaper to factor, though it remains unimplemented. The signature attack needs roughly 4 billion signing queries and does not recover private keys. Modern systems using 2048-bit or larger RSA keys are unaffected."
+    },
+    {
+      "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html?utm_source=tldrinfosec",
+      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+      "summary": "Researchers accessed ForgeRock/Ping Identity admin consoles at two automakers through an exposed Apache Felix console using the default admin:admin password. They bypassed edge filtering with encoded path characters, gained server access, changed customer credentials, obtained app tokens, and remotely unlocked and started test vehicles."
+    },
+    {
+      "url": "https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428?utm_source=tldrinfosec",
+      "title": "Outlook.com bounces legit emails as Microsoft's authentication crackdown goes sideways",
+      "summary": "Outlook.com has been bouncing mail on and off since late last week whenever the sending domain's SPF fails or its DMARC record is missing, apparently because Microsoft extended its bulk-sender authentication rules without notice."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345?utm_source=tldrinfosec",
+      "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+      "summary": "Linus Torvalds says Linux eBPF fixes are arriving faster than new bug reports, a possible sign that the surge of flaw reports is slowing, but most Linux kernel areas have not reached the peak point yet."
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/11/09/copeland-xweb-refrigeration-controllers-spam-botnet/?utm_source=tldrinfosec",
+      "title": "Hackers abuse refrigeration controllers to send spam and route proxy traffic",
+      "summary": "Internet-exposed Copeland XWEB PRO controllers, the ones that run supermarket freezer racks, are being hijacked, most likely through the CVE-2026-25085 authentication bypass, to send coordinated spam and serve as proxy exits."
+    }
+  ]
+}

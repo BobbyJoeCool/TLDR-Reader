@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-10",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/?utm_source=tldrdev",
+      "title": "Safely scaling multi-agent teams with Claude Fable 5.2",
+      "summary": "A team of 1,000 agents reproduced a formal proof of Fermat's Last Theorem in 28.7 hours using separate sandboxes, shared Git, and a SQL database for coordination. The experiment combined command screening and offline monitoring with restricted network access, and used one-third the output tokens of the earlier formalization."
+    },
+    {
+      "url": "https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience?utm_source=tldrdev",
+      "title": "How AI-assisted development helped us build the new Dropbox experience",
+      "summary": "Dropbox used AI to trace platform dependencies, prototype integrations, and build shared React components for its web and desktop apps. Scoped agent tasks also delivered 22 accessibility improvements and completed a backlog of 53 test cleanup tasks in a week, with engineers reviewing the results."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/decision-models?utm_source=tldrdev",
+      "title": "Not everything needs an LLM",
+      "summary": "PostHog uses decision models to answer narrow questions with typed outputs and probability scores before calling larger models. Its personal-data filter skips 98.7% of LLM calls, while thresholds are chosen according to the cost of false positives and false negatives."
+    },
+    {
+      "url": "https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=tldrdev",
+      "title": "The great software IP writedown",
+      "summary": "AI agents are eroding the scarcity of engineering talent that supported software's high margins, while making products easier to copy and customers easier to migrate. Cheaper development could favor smaller, specialized products and shift acquisition value toward customers and distribution, as sales remain a bottleneck and code becomes less durable as an asset."
+    },
+    {
+      "url": "https://claude.dev/blog/which-claude-model-should-you-build-with/?utm_source=tldrdev",
+      "title": "Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku",
+      "summary": "Anthropic recommends starting most coding and knowledge work on Opus 5.5 at medium effort, using smaller models for simpler tasks and Fable 5.2 for the hardest technical work. This guide explains how effort settings, prompt caching, and compatibility between models' thinking blocks affect the cost and reliability of switching models."
+    },
+    {
+      "url": "https://x.com/ZKiihne/status/2119952199564599683?utm_source=tldrdev",
+      "title": "The new bottleneck is intent",
+      "summary": "As AI makes finding and fixing bugs cheaper, deciding what software should do becomes the bottleneck. Real user feedback, simulated users, and deterministic testing each leave gaps in defining expected behavior. This article recommends smoke tests and realistic user journeys, established conventions for minor decisions, and human ownership of product choices."
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-ember?utm_source=tldrdev",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "summary": "Muse Ember is Meta's small multimodal model for repeated agent tasks such as tool calls, routing, extraction, and coding subtasks. Meta reports strong cost efficiency against Haiku 5.5 and GPT-6 Luna, although Haiku leads it on the FrontierCode 2.0 evaluation."
+    },
+    {
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2?utm_source=tldrdev",
+      "title": "Claude Fable 5.2 and Mythos 5.2 (Website)",
+      "summary": "Claude Fable 5.2 and Mythos 5.2 share an underlying model with improvements in coding, reasoning, and vision, with output generation up to 30% faster than their predecessors. Standard pricing is $8 per million input tokens and $40 per million output tokens. Mythos access requires verification for cybersecurity or biomedical research."
+    },
+    {
+      "url": "https://github.com/expo/exact?utm_source=tldrdev",
+      "title": "Exact (GitHub Repo)",
+      "summary": "Exact is an experimental cross-platform runtime that compiles interfaces written in Contract for the web and native hosts, with application logic in TypeScript or Rust. A common set of agent operations supports inspection and testing across platforms, but the project is pre-1.0 and offers no API stability or backward compatibility."
+    },
+    {
+      "url": "https://zonderlabs.com/slop?utm_source=tldrdev",
+      "title": "Why is AI Slop so Frustrating to Read?",
+      "summary": "AI writing burdens readers when it hides who is acting, uses vague wording, or buries the point in empty statements and misplaced emphasis. This post compares articles and coding discussions using a clarity taxonomy, arguing that these faults matter more than familiar AI signatures such as stock phrases or punctuation."
+    },
+    {
+      "url": "https://www.anthropic.com/research/claude-electronics-design?utm_source=tldrdev",
+      "title": "Testing Claude on real-world electronics design",
+      "summary": "Claude Fable 5.2 designed a speakerphone, a voice-assistant hub, and a virtual pet, covering circuit boards, enclosures, firmware, and assembly instructions. Human engineers built working prototypes without circuit fixes, but the devices have not undergone electrical validation, antenna tuning, thermal testing, or certification."
+    },
+    {
+      "url": "https://spectrum.ieee.org/find-my-ai-chip?utm_source=tldrdev",
+      "title": "The Race to Build a “Find My” for AI Chips",
+      "summary": "Location verification could help detect advanced AI chips diverted to restricted destinations despite export controls. This article examines efforts to establish where chips are operating as US legislators push for verification requirements."
+    },
+    {
+      "url": "https://github.com/lochie/skullet?utm_source=tldrdev",
+      "title": "Skullet (GitHub Repo)",
+      "summary": "Skullet generates loading skeletons from real components rendered with sample data, so placeholders match the space the content will occupy."
+    },
+    {
+      "url": "https://github.com/reticlehq/reticle?utm_source=tldrdev",
+      "title": "Reticle (GitHub Repo)",
+      "summary": "Reticle gives coding agents runtime visibility into an app through a development SDK and MCP tools for interactions, network traffic, state, and console activity."
+    },
+    {
+      "url": "https://x.com/shaharglazner/status/2119796029256032278?utm_source=tldrdev",
+      "title": "On Being an Engineer in 2026: Are We Still Needed?",
+      "summary": "Engineers retain value through problem framing, judgment, and tacit knowledge shaped by lived experience, even as agents take over more coding, debugging, and architectural work."
+    },
+    {
+      "url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/?utm_source=tldrdev",
+      "title": "Don't Make a Human Do What AI Is Amazing At",
+      "summary": "Nunebot is a reusable prompt that works through repositories and opens one small maintenance PR per repository after simplification, QA, adversarial review, and CI."
+    }
+  ]
+}
