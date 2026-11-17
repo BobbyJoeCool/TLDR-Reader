@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-11-17",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.getstark.co/blog/stark-in-codex/?utm_source=tldrdesign",
+      "title": "Stark's Accessibility Power Arrives in Codex and ChatGPT as a Plugin and Skills",
+      "summary": "Stark now ships as a plugin with skills in OpenAI's Codex and ChatGPT, scanning Figma files, code, Storybook, mobile apps, and live URLs from a connected workspace. Codex can pull violations with full context and code-level fixes, flag the projects carrying the most open issues, and summarize compliance status. Five bundled skills tailor each fix to the role asking, from contrast ratios and tokens for designers to ARIA and focus order for front-end developers."
+    },
+    {
+      "url": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/?utm_source=tldrdesign",
+      "title": "Apple engineers ‘actively working' on Face ID for iPhone Duo 2's outer display",
+      "summary": "Apple is reportedly developing Face ID for the outer display of its second-generation foldable iPhone Duo, potentially replacing the Touch ID button used on the original model. Engineers have already built prototypes with facial recognition, although the technology may not be ready for the device's expected fall 2027 launch. Other priorities include integrating Action Button functionality into Camera Control, adding a telephoto camera in future generations, and making the foldable thinner and lighter."
+    },
+    {
+      "url": "https://www.thevoiceofuser.com/who-is-getting-hired-in-ux-research-in-2026-and-what-theyre-getting-paid/?utm_source=tldrdesign",
+      "title": "Who is getting hired in UX research in 2026, and what they're getting paid",
+      "summary": "The US UX research job market has contracted sharply, with approximately 1,800 researchers hired over the past year, 66% fewer than in 2022. An analysis of 1,593 job postings found that only 10% targeted early-career researchers, while 43% sought senior candidates and employers increasingly prioritized quantitative skills, AI product experience, and strategic influence. The strongest compensation opportunities are concentrated among experienced researchers at major technology companies, raising concerns about how the profession will develop its next generation of talent."
+    },
+    {
+      "url": "https://automattic.design/2026/11/16/design-writing-working-with-ai-agents/?utm_source=tldrdesign",
+      "title": "Design Writing: Working with AI Agents",
+      "summary": "AI-generated interface copy often contains recognizable vocabulary, unnecessarily complex language, and generic phrasing that can undermine readability, trust, and brand consistency. Automattic's design writing team developed two installable agent skills, one for interface copy and another for voiceover scripts, combining explicit writing guidance with automated linting and human review. The skills encourage AI agents to ask clarifying questions instead of making assumptions, helping teams produce clearer, more consistent language without surrendering editorial judgment."
+    },
+    {
+      "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?utm_source=tldrdesign",
+      "title": "Native is a Floor, Not a Ceiling",
+      "summary": "AI mockups now hand everyone a polished look, but they copy the picture of iOS rather than its behavior, often still drawing the pre-iOS 26 design. Native components bring what an image can't: back gestures, scalable text, built-in accessibility, and automatic updates like Liquid Glass when apps recompile. Native sets the floor for navigation, sheets, and controls, while the ceiling — typography, illustration, and tone — belongs to the brand."
+    },
+    {
+      "url": "https://blog.galratner.com/p/web-design-is-turning-into-webmcp?utm_source=tldrdesign",
+      "title": "Web Design Is Turning Into WebMCP",
+      "summary": "WebMCP allows websites to expose structured tools that AI agents can call directly instead of navigating visual interfaces, fundamentally changing how digital experiences are designed. In Shopify's tests, agents completed all 60 checkout attempts through WebMCP in an average of 10.3 seconds, compared with 56 successful attempts averaging 27.4 seconds through conventional browser interaction. As browsers and platforms adopt the emerging standard, designers will increasingly need to consider tool descriptions, permissions, error handling, and machine-readable workflows alongside interfaces intended for humans."
+    },
+    {
+      "url": "https://www.videco.io/?utm_source=tldrdesign",
+      "title": "Turn Every Video into a Content Campaign (Website)",
+      "summary": "Videco helps you find the best product moments, turn them into branded short-form videos, share personalized landing pages, capture leads, and host everything in one workspace."
+    },
+    {
+      "url": "https://benji.org/stageshow?utm_source=tldrdesign",
+      "title": "Create Better Faux UI with Agents (Website)",
+      "summary": "Stageshow is a skill that helps your agent make better faux UI. Most good models can do this now without a dedicated skill, but the results often look sloppy and heavy-handed."
+    },
+    {
+      "url": "https://knocket.trtc.io/?utm_source=tldrdesign",
+      "title": "The Free Contact Layer for Your Product (Website)",
+      "summary": "Connect with users across web, mobile, Telegram, and AI from one inbox."
+    },
+    {
+      "url": "https://agustinbarrientos.com/writing/senior-eye/interfaces-that-understand-what-we-want?utm_source=tldrdesign",
+      "title": "Building Interfaces that Understand What We Want to Do",
+      "summary": "Chrome is building a Decisions API that runs a decision model on the user's own computer, free and private, picking only from options a site defines. It lets an interface act on what people mean, turning a typed hotel request into Beachfront, Quiet location, and Pet-friendly filters. Still an experiment behind a Chrome flag, the API can be paired with a cloud fallback like Gemini."
+    },
+    {
+      "url": "https://www.designweek.co.uk/landor-reveals-snowflake-inspired-visual-identity-for-crystal-ski/?utm_source=tldrdesign",
+      "title": "Landor reveals snowflake-inspired visual identity for Crystal Ski",
+      "summary": "Landor has rebranded TUI-owned Crystal Ski around the positioning \"Escape to higher ground,\" shifting its focus from practical ski holidays toward the emotional appeal of mountain experiences. The identity introduces the Crystal Lens, a graphic device inspired by the sixfold symmetry of snowflakes and constructed from the Y in the wordmark, which refracts photography to reveal different aspects of alpine holidays. Crystalline letterforms, Season typography from Display Foundry, and a mountain-inspired color palette create a flexible visual system designed to attract a broader generation of travelers."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=tldrdesign",
+      "title": "Journey Mapping 101",
+      "summary": "A journey map visualizes the process someone follows to accomplish a goal, combining their actions, thoughts, and emotions into a timeline that reveals the overall experience. Effective maps typically identify a specific persona and scenario, organize the experience into phases, and highlight opportunities for improvement, while variations such as experience maps, service blueprints, and user-story maps serve related but distinct purposes. Journey mapping helps teams develop a shared understanding of customer needs, identify gaps between touchpoints, and prioritize improvements based on the complete experience rather than isolated interactions."
+    },
+    {
+      "url": "https://linebender.org/wiki/curves/squircle/?utm_source=tldrdesign",
+      "title": "Squircles",
+      "summary": "Squircles are shapes that sit between squares and circles."
+    },
+    {
+      "url": "https://designworklife.com/designing-for-accessibility-how-graphic-designers-can-create-more-inclusive-visual-experiences-for-aging-audiences/?utm_source=tldrdesign",
+      "title": "Designing for Accessibility: How Graphic Designers Can Create More Inclusive Visual Experiences for Aging Audiences",
+      "summary": "Designing for aging audiences means clear, kind design rather than boring or childish work, and it ends up helping everyone."
+    },
+    {
+      "url": "https://www.creativeboom.com/inspiration/donna-fredin-switched-from-design-to-illustration-now-shes-drawing-fun-awkward-characters-that-capture-lifes-strange-moments/?utm_source=tldrdesign",
+      "title": "Donna Fredin switched from design to illustration. Now she's drawing fun, awkward characters that capture life's strange moments",
+      "summary": "Swedish illustrator Donna Fredin transitioned from graphic design to creating bold, colorful characters that capture awkward everyday moments and human emotions, drawing on her design background to develop expressive compositions and visual storytelling."
+    }
+  ]
+}

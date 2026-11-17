@@ -1,0 +1,83 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-11-17",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/?utm_source=tldrai",
+      "title": "NVIDIA's Rubin HPC",
+      "summary": "Rubin HPC is a new Nvidia GPU designed to speed up the simulations AI agents use in science, engineering, and analytics. It has more than 50,000 cores, a record for a single GPU. It is expected to be available in 2028."
+    },
+    {
+      "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/?utm_source=tldrai",
+      "title": "Tencent Launches Hy4 flash",
+      "summary": "Tencent has released Hy4 flash, a fast, low-cost AI model for everyday workflows. In a blind test with Tencent's internal users, its satisfaction scores came close to Claude Haiku 5.5."
+    },
+    {
+      "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/?utm_source=tldrai",
+      "title": "Claude was trained on protein sequences at scale",
+      "summary": "Tests show that the latest Claude models were trained on protein sequences at scale. The models can predict the next amino acid if given the start of little-studied bacterial proteins. No other model tested can do this, and the models fail to predict the sequence if the protein is shuffled. Fable 5.2 beats every open protein language model tested."
+    },
+    {
+      "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai",
+      "title": "Measuring alignment eval tells",
+      "summary": "Investigator agents can increasingly distinguish alignment evals from capabilities evals, identifying them as artificial or \"honeypot\" environments designed to test bad behavior. Opus 5.5 and Astra agents differentiate these by noticing unrealistic scenarios and specific task-level cues. The study's findings suggest that while current models can identify common alignment evaluations, making them less detectable can refine their efficacy."
+    },
+    {
+      "url": "https://world-2030.pages.dev/?utm_source=tldrai",
+      "title": "World 2030",
+      "summary": "Predicting how AI will affect the economy requires looking at all of the different components of that economy and figuring out how they might affect each other. World 2030 is a study that sets up nine groups (AI labs, big employers, banks and insurers, utilities, startups, universities, workers, governments, and the Fed) and runs the US economy forward in six-month turns to 2030. It aimed to identify both the invariants and the boundaries of what can change as these powerful forces interact with each other. The study predicts that AI will break per-seat software pricing and cut US junior desk hiring."
+    },
+    {
+      "url": "https://www.liquid.ai/blog/d1-2?utm_source=tldrai",
+      "title": "d1.2: State-of-the-Art Omnimodal Decision Models",
+      "summary": "d1.2 and d1.2-ultra are decision models that support audio input. They can also read a value from the input, find every passage of a kind in a text, locate things in a picture, estimate a number, and pick every option that applies. d1.2-ultra ranks first among decision models on the Artificial Analysis Decision Index v2.1. Both models are available on the Liquid API at $0.02 per million input tokens for d1.2 and $0.042 per million input tokens for d1.2-ultra."
+    },
+    {
+      "url": "https://huggingface.co/blog/openrouter?utm_source=tldrai",
+      "title": "Hugging Face and OpenRouter Join Forces",
+      "summary": "Hugging Face now routes language-model requests from its Inference Providers service through OpenRouter, which picks the best provider for each call. A single Hugging Face access token works for any open-weight model a provider serves."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch?utm_source=tldrai",
+      "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
+      "summary": "Google's ZERO-TIM implementation, verified across 64 TPU v5p chips, achieves bitwise-identical logprobs for sampler and trainer, ensuring true on-policy stability in RL training by eliminating numerical discrepancies. This solution addresses floating-point addition errors in separate serving and training paths, using consistent arithmetic operations and standardized reduction orders across TPU meshes."
+    },
+    {
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/?utm_source=tldrai",
+      "title": "OpenAI's first phase of embedded assessments",
+      "summary": "Embedded assessments give independent experts deep access to a lab's internal models and systems so they can assess model alignment and the effectiveness of safeguards over an extended period. The access gives assessors the evidence and context to pursue independent evaluations and uncover unanticipated failures. Public reporting from independent assessments can give the public a clearer view of how labs are evaluating and managing risks. OpenAI has signed agreements with four independent assessors for its first phase of embedded assessments."
+    },
+    {
+      "url": "https://research.perplexity.ai/?utm_source=tldrai",
+      "title": "The frontier is still open",
+      "summary": "Perplexity Frontier Research is a new initiative at Perplexity that aims to build new algorithms, models, and evaluations in the open, with the mission of building an automated scientist. Applications are now open until December 5. The research effort will be supported by 10,000 GPUs. Results from the initiative will ship as papers, blog posts, model weights, and open repositories."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/?utm_source=tldrai",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "summary": "The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing."
+    },
+    {
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/?utm_source=tldrai",
+      "title": "How the Claude Code team thinks about verification",
+      "summary": "Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/?utm_source=tldrai",
+      "title": "Gemini Notebook Turns Sources Into Interactive Sites",
+      "summary": "Gemini Notebook can now turn uploaded sources into shareable interactive sites."
+    },
+    {
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams?utm_source=tldrai",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "OpenAI's computer-use agents streamline healthcare workflows by automating repetitive tasks like MRI authorizations and administrative processes."
+    }
+  ]
+}

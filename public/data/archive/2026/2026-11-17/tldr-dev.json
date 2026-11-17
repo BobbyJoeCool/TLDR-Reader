@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-17",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/?utm_source=tldrdev",
+      "title": "Staggering Scroll-Driven Animations with animation-range-start",
+      "summary": "Staggered scroll animations can use animation-range-start and sibling-index() instead of a custom progress formula. This post contains a worked example that replaces the complicated stagger calculation with one CSS declaration while retaining the browser's built-in easing behavior."
+    },
+    {
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/?utm_source=tldrdev",
+      "title": "From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient",
+      "summary": "Valkey 9.2 replaces large sorted sets' skiplist index with a B+ tree that packs entries together and uses SIMD-assisted searches. In a five-million-member test, per-member index overhead fell by 36% to 43%, while command behavior stayed the same. The release is still in candidate testing."
+    },
+    {
+      "url": "https://linebender.org/wiki/curves/squircle/?utm_source=tldrdev",
+      "title": "Squircles",
+      "summary": "Squircles that look similar can have very different curvature, and Figma's approximation contains discontinuities where its curves join. This article contains an interactive comparison that explains the tradeoffs between Apple, Figma, clothoid, and superellipse shapes, along with the CSS for approximating Apple's corners using corner-shape."
+    },
+    {
+      "url": "https://brooker.co.za/blog/2026/11/16/understanding.html?utm_source=tldrdev",
+      "title": "What Does It Mean to Understand What We Built?",
+      "summary": "Understanding individual lines of code does not necessarily explain a system's behavior, especially emergent failures. AI could help engineers focus on system properties and develop better tools for understanding what they actually built."
+    },
+    {
+      "url": "https://www.langchain.com/blog/from-tasks-to-goals?utm_source=tldrdev",
+      "title": "From Tasks to Goals",
+      "summary": "Giving an agent an ongoing goal means delegating decisions about which tasks to do and when to act. That requires tool boundaries, feedback, persistent memory, and ways to ask questions, plus stopping rules that let the agent do nothing when no action is useful."
+    },
+    {
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/?utm_source=tldrdev",
+      "title": "How Rust Changed Me as a Developer",
+      "summary": "Rust's enums make variants explicit and let the compiler enforce that every case is handled. This essay explores how sum types and static dispatch change abstraction choices, including when a straightforward enum is more useful than designing an interface."
+    },
+    {
+      "url": "https://browserpod.io/blog/browserpod-40?utm_source=tldrdev",
+      "title": "BrowserPod 4.0",
+      "summary": "BrowserPod runs a Linux-like WebAssembly microVM on the user's device, with tools including Node.js, git, bash, and Rust programs. Version 4.0 makes the CDN-loaded runtime free for commercial and production use without an account, while unrestricted networking is a separate service and self-hosting the runtime requires an enterprise license."
+    },
+    {
+      "url": "https://dusk.bot/?utm_source=tldrdev",
+      "title": "dusk bot (Website)",
+      "summary": "dusk bot runs a crew of AI helpers, each with its own chat, computer, and memory, using models or subscriptions you already have. Bots can work in parallel, hand off tasks in group chats, and run scheduled routines locally, on your own server, or through dusk's hosted cloud."
+    },
+    {
+      "url": "https://jolt-lang.net/?utm_source=tldrdev",
+      "title": "Jolt (Website)",
+      "summary": "Jolt is a self-hosted Clojure implementation that compiles through Scheme and can produce a standalone native binary with statically linked C dependencies. It supports persistent collections, native C interop, and OS-thread concurrency, but does not provide general JVM interop."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME",
+      "title": "Become a founding member of TLDR’s AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://artemlegotin.com/golden-board/?utm_source=tldrdev",
+      "title": "Golden Board: Teaching Chess Without a Shared Language",
+      "summary": "Golden Board packs a visual introduction to chess into a 512 KiB binary message, starting with a bootstrap that teaches the recipient how to decode it. The message includes lessons, exercises, and complete games, while its LLM trials explore ambiguities rather than proving an unknown intelligence would understand it."
+    },
+    {
+      "url": "https://www.amazon.science/blog/benchproofer-formally-verified-coding-benchmarks-on-demand?utm_source=tldrdev",
+      "title": "BenchProofer: Formally Verified Coding Benchmarks, on Demand",
+      "summary": "BenchProofer adds formal specifications, verified reference implementations, and audits to coding benchmarks, with SWE-Proof covering all 500 SWE-Bench Verified tasks. Its audit flagged behavioral differences in 134 test-passing Opus 4.8 patches, but human review found actual bugs in only 21 of 41 sampled flags. The distinction matters because a different implementation can still be a valid fix."
+    },
+    {
+      "url": "https://xyflow.com/blog/react-flow-13-major-release?utm_source=tldrdev",
+      "title": "React Flow 13",
+      "summary": "React Flow 13 splits its internal store into specialized subscriptions to reduce unnecessary renders in large node-based interfaces."
+    },
+    {
+      "url": "https://pub.cba.mit.edu/863.26/site/?utm_source=tldrdev",
+      "title": "How to Make (Almost) Anything (Website)",
+      "summary": "MIT's 2026 fabrication course links lessons and recitations on CAD, electronics, embedded programming, machining, networking, and system integration."
+    },
+    {
+      "url": "https://turso.tech/blog/turso-sync-local-first-sqlite-with-push-and-pull?utm_source=tldrdev",
+      "title": "Turso Sync: Local-First SQLite with Push and Pull",
+      "summary": "Turso Sync keeps writes local and replicates logical row changes through separate push and pull calls."
+    },
+    {
+      "url": "https://ngrok.com/blog/mcp?utm_source=tldrdev",
+      "title": "Coding Agent, Meet ngrok: The ngrok MCP Server Is Live",
+      "summary": "ngrok's MCP server lets coding agents inspect traffic, configure connectivity, and validate Traffic Policy rules before applying them."
+    }
+  ]
+}

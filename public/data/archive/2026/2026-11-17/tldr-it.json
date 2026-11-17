@@ -1,0 +1,73 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-17",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://sierra.ai/blog/releasing-poppy?utm_source=tldrit",
+      "title": "Releasing Personal Agent Protocol 1.0",
+      "summary": "Sierra has released version 1.0 of the Personal Agent Protocol, known as Poppy, a standard that enables personal agents to interact securely with businesses. Shopify has enabled the protocol for its merchants, and design partners including Mercury, Synchrony, and Turkish Airlines are going live with implementations. The v1.0 release incorporates feedback from testing, integrates with existing standards like OAuth and OpenAPI, and features a commerce extension co-authored by Shopify."
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280?utm_source=tldrit",
+      "title": "Infoblox breach exposes customer and employee data",
+      "summary": "Infoblox is investigating a compromised migration vendor whose access was reportedly used to steal SharePoint data, including customer network configurations and sensitive employee information. The company says it has found no indication that its products, cloud services, or software releases were involved."
+    },
+    {
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-11-16-gartner-weak-artificial-intelligence-governance-will-lead-to-business-critical-service-disruptions-for-40-percent-of-infrastructure-and-operations-organizations-by-2028?utm_source=tldrit",
+      "title": "Gartner warns weak AI controls could disrupt critical services",
+      "summary": "Gartner predicts weak governance will cause business-critical disruptions at 40% of infrastructure and operations organizations scaling AI by 2028. Its survey found that only 15% of respondents have automatic circuit breakers to stop runaway agents, despite 95% reporting an agent-related incident in the past year."
+    },
+    {
+      "url": "https://x.com/apruden08/status/2122171459413946664?utm_source=tldrit",
+      "title": "Cybersecurity at Machine Speed",
+      "summary": "Artificial intelligence is creating a revolutionary acceleration in cybersecurity, allowing attackers to operate at machine speed by compressing the OODA loop while defenders remain constrained by complex institutional governance. Because attackers need only one successful exploit among many while defenders must maintain safety, availability, and continuity across complex systems, organizations must adopt automated, policy-enforced boundaries and zero-trust architectures to bridge the asymmetry."
+    },
+    {
+      "url": "https://www.networkworld.com/article/4249100/cloud-overspend-is-an-accountability-problem-not-a-tooling-gap.html?utm_source=tldrit",
+      "title": "Cloud overspending starts with unclear ownership",
+      "summary": "Cloud adoption has outpaced changes to how companies run IT, leaving teams responsible for costs and reliability without matching control. Clearer ownership and redesigned operations will address these problems more effectively than adding tools or training alone."
+    },
+    {
+      "url": "https://blog.cloudflare.com/kitesurf-open-source?utm_source=tldrit",
+      "title": "Kitesurf is now open source",
+      "summary": "Cloudflare has open-sourced Kitesurf, its stateless browser for AI agents that runs entirely on Cloudflare Workers. Available under the Apache 2.0 license on GitHub, the tool allows developers to run their own browser engine locally or deploy it to their Cloudflare accounts to support automated workloads using the Chrome DevTools Protocol."
+    },
+    {
+      "url": "https://www.dell.com/en-us/blog/dell-ai-data-platform-makes-data-agent-ready-at-sc26/?utm_source=tldrit",
+      "title": "Dell expands its data platform for AI agents",
+      "summary": "Dell announced an Agentic Data Gateway and hybrid pipelines that connect agents to approved enterprise data, models, and tools on customer-controlled infrastructure. Integrations with LangChain, OpenAI Codex, and Unstructured add agent development and document-processing capabilities."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9/?utm_source=tldrit",
+      "title": "GitHub Copilot adds Enterprise Server support",
+      "summary": "The Copilot app now supports GitHub Enterprise Server repositories, issues, and pull requests, although cloud sessions remain unavailable for those repositories. Other updates add more precise automation schedules, in-conversation MCP reauthentication, and mobile handoffs for cloud and Codespace sessions."
+    },
+    {
+      "url": "https://docspring.com/blog/posts/unit-tests-ai-agents/?utm_source=tldrit",
+      "title": "Are unit tests still important when AI agents write the code?",
+      "summary": "As AI agents increasingly write application code, some developers are experimenting with removing unit tests or entire test suites from continuous integration to save time and token usage. While redundant snapshot tests often provide no value, test suites that enforce explicit rules and run real engines successfully catch critical bugs introduced by agents."
+    },
+    {
+      "url": "https://quaspar.com/resources/agents-need-an-undo-button?utm_source=tldrit",
+      "title": "Agents Need an Undo Button, Not More Approval Prompts",
+      "summary": "AI agents need reliable undo mechanisms rather than frequent, fatigue-inducing approval prompts for high-impact actions. Borrowing from database and distributed systems design like the Sagas pattern, tools can be categorized into four types based on reversibility: reversible, compensable, delayable, and irreversible. Tracking and executing undos should live in the underlying system rather than within the agent itself to maintain robust safety oversight."
+    },
+    {
+      "url": "https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000?utm_source=tldrit",
+      "title": "Amazon loses 40 broadband satellites in failed launch",
+      "summary": "A United Launch Alliance rocket failed to deliver 40 Amazon broadband satellites to orbit after an anomaly during Sunday's flight. The mission was the first to use a Vulcan configuration tailored for Amazon's constellation, and the impact on subsequent launches remains unclear."
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/security/zero-trust/sfi/defend-indirect-prompt-injection?utm_source=tldrit",
+      "title": "Microsoft Defense Guide Makes Layered Prompt Injection Controls an Enterprise Baseline",
+      "summary": "The guidance recommends a defense-in-depth strategy combining probabilistic and deterministic mitigations such as prompt shields, spotlighting, plan drift detection, and information flow control to protect against indirect prompt injection attacks."
+    },
+    {
+      "url": "https://github.com/NVIDIA/SkillEvaluator?utm_source=tldrit",
+      "title": "SkillEvaluator: Framework for evaluating AI agent skills (GitHub Repo)",
+      "summary": "NVIDIA has released SkillEvaluator, a multi-tier framework for evaluating AI agent skills through quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent testing."
+    }
+  ]
+}

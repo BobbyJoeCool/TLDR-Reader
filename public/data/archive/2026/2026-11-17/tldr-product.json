@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-11-17",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://medium.productcoalition.com/why-the-art-of-product-is-going-to-look-very-different-in-5-years-3524e598adcf?source=rss----384859bd8e6d---4&amp;utm_source=tldrproduct",
+      "title": "Why the Art of Product Is Going to Look Very Different in Five Years",
+      "summary": "AI coding tools and rapid prototyping are shifting product management over the next five years. As software creation accelerates, PMs must focus on strategic judgment, deep customer intimacy, taste, and managing AI agents alongside cross-functional teams."
+    },
+    {
+      "url": "https://www.marcusoft.net/2026/11/what-if-the-team-was-two-people.html?utm_source=tldrproduct",
+      "title": "What if the team consisted of two people?",
+      "summary": "As AI tools enable two-person pods to build features rapidly, traditional multi-person practices like daily standups break down. To harness this speed, organizations must replace command-and-control structures with intention-based leadership, allowing small teams to make autonomous decisions based on outcome-driven KPIs."
+    },
+    {
+      "url": "https://www.davesresearch.com/strategic-building-blocks/?utm_source=tldrproduct",
+      "title": "Strategic Building Blocks",
+      "summary": "Product strategy involves building blocks across three scales: fast moves, middle moves, and slow moves. Leaders must execute and sequence moves deliberately at their scale, navigating visibility barriers that obscure wider executive plans from fine-grained teams."
+    },
+    {
+      "url": "https://betterthanrandom.substack.com/p/the-two-layers-of-prioritization?utm_source=tldrproduct",
+      "title": "The two layers of prioritization",
+      "summary": "Prioritizing via headcount allocation sets fixed strategic capacity for durable teams, avoiding subjective frameworks like RICE. By assigning headcount based on strategic importance rather than comparing all projects in one backlog, leadership enforces clear strategy while reducing prioritization fatigue."
+    },
+    {
+      "url": "https://shailesh-sharma.medium.com/conversion-went-up-revenue-went-down-heres-what-great-pms-do-621e00a9fd54?utm_source=tldrproduct",
+      "title": "Conversion Went Up. Revenue Went Down. Here's What Great PMs Do",
+      "summary": "This guide details how product managers should conduct A/B tests, focusing on hypothesis writing, sample sizes, and handling conflicting metrics. It also outlines how testing shifts for AI features, highlighting the need for offline evaluations, cost tracking, and long-term holdouts."
+    },
+    {
+      "url": "https://www.news.aakashg.com/p/ai-customer-research?utm_source=tldrproduct",
+      "title": "How to Build an AI Customer Research Agent in Claude Code (58 minute video)",
+      "summary": "Product managers can use AI tools like Claude Code to automate proactive customer research at scale. By combining drop-off data with email integrations, teams trigger personalized outreach to churned users, using LLM judges for groundedness evals to refine responses asynchronously before human review."
+    },
+    {
+      "url": "https://www.productmarketingalliance.com/driving-product-adoption/?utm_source=tldrproduct",
+      "title": "Driving product adoption when the buyer isn't necessarily the user",
+      "summary": "Enterprise B2B adoption often stalls due to misaligned incentives between buyers, admins, and end users. Product marketers should diagnose friction via targeted user interviews - offering clear admin checklists, prescriptive first steps, and tracking actual usage rather than relying on vanity metrics."
+    },
+    {
+      "url": "https://karolwojciszko.substack.com/p/case-study-my-250k-lesson-in-managing?utm_source=tldrproduct",
+      "title": "Deliver products with unclear scope",
+      "summary": "A software engineering manager outlines a framework for delivering fixed-price projects with unclear scope to non-technical stakeholders. By pairing a fixed architectural core with flexible modules and combining waterfall milestones with agile feedback, complex systems can be delivered reliably on time."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2122015126752543216.html?utm_source=tldrproduct",
+      "title": "Most product teams spend weeks testing prototypes. In that time, they could ship the real thing",
+      "summary": "Product teams often waste weeks testing prototypes instead of shipping real products."
+    },
+    {
+      "url": "https://jeffgothelf.com/blog/the-decision-log-how-to-measure-a-team-that-can-build-anything/?utm_source=tldrproduct",
+      "title": "The decision log: how to measure a team that can build anything",
+      "summary": "As AI makes software creation low-cost, teams must be measured on decisions rather than code output."
+    }
+  ]
+}
