@@ -1,0 +1,78 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-12",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.computerworld.com/article/4247466/anthropic-targets-workplace-collaboration-with-claude-meetings.html?utm_source=tldrit",
+      "title": "Anthropic targets workplace collaboration with Claude Meetings",
+      "summary": "Anthropic has introduced Claude Meetings, Whiteboards, and Sheets, expanding its AI assistant into workplace collaboration and productivity. Claude Meetings can participate in Google Meet calls, take notes, retrieve information, and create action plans during discussions. The meeting feature is in beta for Team and Enterprise customers, bringing Anthropic into closer competition with Microsoft and Google."
+    },
+    {
+      "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors?utm_source=tldrit",
+      "title": "Working with Claude Sheets, Whiteboards, and Interactive Connectors",
+      "summary": "Anthropic announced new workplace features, including Claude Meetings, which brings Claude into video calls to begin working on tasks while participants are still talking. New interactive connectors allow users to open and work within third-party applications like Adobe, Notion, Atlassian, Salesforce, and HubSpot directly inside the Claude interface."
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/yandex-restores-97-of-customer-data-after-drone-attacks/?utm_source=tldrit",
+      "title": "Yandex restores 97% of customer data after drone attacks, the rest is permanently lost",
+      "summary": "Russian cloud provider Yandex recovered approximately 97% of affected customer data following drone strikes on three data centers in October. The remaining 2.84% is permanently lost due to hardware damage and the absence of customer backups. Yandex says it will enable backups by default and expand its infrastructure across additional independent locations."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/11/11/platform-engineering-needs-to-become-more-humanand-less/?utm_source=tldrit",
+      "title": "Platform engineering needs to become more human…and less",
+      "summary": "The rise of AI agents and non-technical builders requires platform engineering to evolve from serving predictable engineers to supporting a chaotic mix of human improvisers and precise automated agents. To manage this shift safely, platforms must automate unwritten guardrails into machine-readable policies, enforce scoped identities, and adopt control loops inspired by Kubernetes."
+    },
+    {
+      "url": "https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660?utm_source=tldrit",
+      "title": "Cisco to link all future products to its SaaS-y Cloud Control management tool",
+      "summary": "Cisco announced that all new products starting in 2027 will integrate with its Cloud Control management platform, providing a unified interface for networking, security, and observability. The service will expand internationally beginning in February, with additional countries following in May. Cisco also plans to simplify ThousandEyes licensing and expand its Live Protect capabilities across more networking products."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4247247/adobe-opens-creative-cloud-apps-to-third-party-ai-assistants.html?utm_source=tldrit",
+      "title": "Adobe opens Creative Cloud apps to third-party AI assistants",
+      "summary": "Adobe plans to let AI assistants such as ChatGPT and Claude directly edit content within Photoshop, Illustrator, Premiere, and After Effects through Model Context Protocol integrations. The capability is scheduled for private beta in early 2027 and aims to preserve manual editing control while automating repetitive creative tasks. Analysts see the move as part of a broader shift toward AI assistants becoming the primary interface for enterprise applications."
+    },
+    {
+      "url": "https://www.theregister.com/systems/2026/11/11/us-bit-barn-boom-sees-energy-needs-grow-10x-as-fast-as-grid-capacity/5309191?utm_source=tldrit",
+      "title": "US bit barn boom sees energy needs grow 10x as fast as grid capacity",
+      "summary": "US data center electricity demand has grown approximately 19% annually since 2000, compared with roughly 2% annual growth in grid capacity, according to an analysis by insurance broker Howden. The firm estimates data centers could need to source as much as 58% of their electricity outside the grid by 2030 to maintain their current share of grid capacity. Power availability, lengthy connection delays, and on-site generation costs are becoming major constraints on AI infrastructure expansion."
+    },
+    {
+      "url": "https://www.ibm.com/consulting/imagine-enterprise?utm_source=tldrit",
+      "title": "IBM and Microsoft's Imagine Enterprise Puts Agentic Governance Claims to the Test",
+      "summary": "IBM Consulting and Microsoft have jointly launched Imagine Enterprise, an agentic AI platform targeting regulated industries including financial services, insurance, and retail. The platform combines IBM Consulting's library of over 6,000 prebuilt AI agents with Microsoft's Azure cloud, Entra identity management, Purview data governance, and Defender and Sentinel security tooling. Enterprises using the platform remain responsible for satisfying their own regulatory obligations, even where the platform supplies governance tooling."
+    },
+    {
+      "url": "https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/?utm_source=tldrit",
+      "title": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI",
+      "summary": "The ABAP platform is an enterprise-grade execution backbone for agentic AI within the Autonomous Enterprise vision. The role of agents acts as an abstraction layer for outcome-driven interactions and upcoming developments include governance, reliability, scaling, and the ABAP Model Context Protocol server."
+    },
+    {
+      "url": "https://blog.galratner.com/p/graphrag-is-the-new-way-to-hold-knowledge?utm_source=tldrit",
+      "title": "GraphRAG Is the New Way to Hold Knowledge",
+      "summary": "GraphRAG significantly outperforms traditional RAG for business AI applications by storing knowledge as interconnected entities and relationships rather than disconnected text fragments. While GraphRAG offers superior performance on multi-step reasoning and broad summaries, it involves substantially higher indexing and processing costs, though newer lightweight implementations are reducing that overhead."
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/?utm_source=tldrit",
+      "title": "10-year data center moratorium approved in Ottawa, Kansas",
+      "summary": "Nearly 72% of voters supported the restriction."
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/?utm_source=tldrit",
+      "title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+      "summary": "Anthropic has expanded its Microsoft cloud computing agreements by up to $4.3 billion as it secures additional infrastructure capacity ahead of its planned IPO."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/?utm_source=tldrit",
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears."
+    },
+    {
+      "url": "https://www.theregister.com/software/2026/11/10/mozilla-thunderbird-email-service-edges-closer-to-launch-with-early-access/5308826?utm_source=tldrit",
+      "title": "Mozilla Thunderbird email service edges closer to launch with early access",
+      "summary": "Mozilla-backed Thunderbird has begun offering early access to Thundermail, its paid email hosting service featuring custom domains, 30GB of storage, and integration with Thunderbird's desktop and mobile apps."
+    }
+  ]
+}

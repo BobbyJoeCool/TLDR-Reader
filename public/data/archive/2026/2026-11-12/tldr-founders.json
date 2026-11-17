@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-12",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.a16z.news/p/welcome-to-the-b2a-economy?utm_source=tldrfounders",
+      "title": "Welcome to the B2A Economy",
+      "summary": "A team at a16z asked ChatGPT to make a video ad, and the agent pulled in Krea, Descript, and ElevenLabs on its own, then talked the team into a paid Descript plan to finish the job. The firm sees agents as the next big way products reach customers, after the web and the phone. Retailers once blocked bots, but now compete for their business: Shopify says orders from AI searches grew nearly thirteenfold in a year."
+    },
+    {
+      "url": "https://tomtunguz.com/who-captures-the-most-margin-in-ai/?utm_source=tldrfounders",
+      "title": "Who Captures the Most Margin in AI?",
+      "summary": "AI applications and neocloud operators capture 68% of the gross margin in the AI value chain. Rising compute costs test pricing power, while the profitability of AI applications varies based on their ROI impact. Companies are consolidating across layers, aiming for vertical integration to absorb price fluctuations and increase margins."
+    },
+    {
+      "url": "https://www.cledara.com/blog/saas-renewal-price-increases-cancellation-terms?utm_source=tldrfounders",
+      "title": "SaaS Renewal Price Increases by Vendor, 2026",
+      "summary": "SaaS renewal prices rise 8-12% annually, with aggressive vendors increasing prices by 15-25%. Vendors like Canva and Microsoft have led with notable price hikes. Canva increased by 317% for its Teams plan. Companies negotiating renewals 90 days in advance save on average 49%, highlighting the importance of early negotiation."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/5-gtm-plays-working-right-now?utm_source=tldrfounders",
+      "title": "5 GTM plays working right now",
+      "summary": "Marketers at incident.io can launch the ads and landing page for one target account in three minutes, a job that took their agency two or three days. The Claude workflow behind it already knows the approved messaging and which accounts show buying signals. Clay pointed a similar agent at attribution and found a $200,000 deal credited to a Google ad actually started two months earlier with a free trial."
+    },
+    {
+      "url": "https://speedrun.substack.com/p/the-growth-meta-how-to-build-a-sales-pipeline?utm_source=tldrfounders",
+      "title": "The Growth Meta: How to Build a Sales Pipeline",
+      "summary": "The playbook for great sales is always evolving. This article looks at how founders are building strong sales pipelines using the latest technology. Founders are now turning sales calls into brainstorming sessions, leading with proof rather than a pitch, and starting enterprise GTM on day one. Founders need to learn to find customers, earn their trust, and get them to pay before they hire a sales team."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/?utm_source=tldrfounders",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "The Gemini Decisions API can evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass. It can accept text, images, audio, video, and PDF input. Powered by Google's new Gemini Decision 1 model, the model is available through the Gemini API in Google AI Studio. It costs $0.10 per 2 million tokens - outputs are free."
+    },
+    {
+      "url": "https://flaviocopes.com/grok-bot-1-0/?utm_source=tldrfounders",
+      "title": "What's new in Grok Bot 1.0",
+      "summary": "Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole team can talk to in the app, in Slack, in Microsoft Teams, and in video calls. This post covers how to create a Team Bot and publish it, how to bring the bot into Microsoft Teams, how to add a bot to a meeting, and more. It also looks at the new admin controls and what's possible without a team."
+    },
+    {
+      "url": "https://www.amplifypartners.com/blog-posts/why-should-managers-exist?utm_source=tldrfounders",
+      "title": "Why Should Managers Exist?",
+      "summary": "AI advancements challenge the necessity of traditional firms by reducing transaction costs for coordination tasks traditionally handled by managers. While AI enables easy execution of tasks like negotiating refunds or coding, its integration into firms introduces coordination complexities. Effective integration depends on the formalization of interfaces and authority concentration, dictating whether AI can support autonomy or if managerial oversight is still required."
+    },
+    {
+      "url": "https://dolv.work/blog/how-to-run-go-to-market-with-a-2-person-team-the-ai-agent-stack-we-use-to-publis?utm_source=tldrfounders",
+      "title": "How to Run Go-to-Market With a 2-Person Team: The AI Agent Stack We Use to Publish, Prospect, and Close",
+      "summary": "A two-person team can effectively execute a go-to-market strategy using an AI agent stack to handle repetitive tasks, while humans focus on judgment and approvals. This setup allows publishing, prospecting, and closing work to flow efficiently by automating research, enrichment, scoring, and drafting processes. With costs totaling $1,412 monthly, the team achieves a significant return, booking meetings and closing deals that normally require a larger team."
+    },
+    {
+      "url": "https://jon4growth.substack.com/p/ai-makes-startup-branding-crucial?utm_source=tldrfounders",
+      "title": "AI makes startup branding crucial",
+      "summary": "Startups face intense competition due to easy LLC formation and AI advancements, making strong branding crucial from day one. Building a brand system, establishing a founder voice, and leveraging creator trust effectively differentiate a startup in this crowded space. Investing in branding early can significantly impact growth and pipeline generation."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/mike-charniatsou-flo-sub-club-podcast-2026?utm_source=tldrfounders",
+      "title": "Flo gets 40% of its subscriptions more than six months after install, and wants to keep it that way",
+      "summary": "Flo keeps cycle tracking free and gets 40% of its subscriptions more than six months after install, offering paid features as users' needs change."
+    },
+    {
+      "url": "https://x.com/ZReitano/article/2120502035455811893?utm_source=tldrfounders",
+      "title": "Refounding Ro to $3B+ Run Rate",
+      "summary": "Ro cut more than $50 million in direct-to-consumer revenue in its 2022 reset because the unit economics were upside down."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2120578134177464356.html?utm_source=tldrfounders",
+      "title": "There are basically two kinds of companies to build right now",
+      "summary": "Companies that get AI diffused very close to where the work is being done, and companies that use AI to accelerate scientific progress, then build products from that progress."
+    },
+    {
+      "url": "https://x.com/hosseeb/status/2120531493613400210?utm_source=tldrfounders",
+      "title": "Company.md: A Fundraising Brief for Investor Agents",
+      "summary": "Founders are adding company.md files to fundraising materials, consolidating business information into Markdown for investors' AI agents."
+    },
+    {
+      "url": "https://scifivc.substack.com/p/scifi-vc-investment-themes?utm_source=tldrfounders",
+      "title": "SciFi Investment Theme: Fintech 3.0",
+      "summary": "The combination of dramatically lower adoption costs and a step-change in agent-powered software will create an opening for a new generation of B2B Fintech companies to reinvent areas like AP/AR, treasury management, and the broader financial back office."
+    }
+  ]
+}

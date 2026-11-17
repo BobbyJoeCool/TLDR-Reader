@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-11-12",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://lbbonline.com/news/deinfluencing-christmas-shopping-brands-need-to-mean-more?utm_source=tldrmarketing",
+      "title": "As ‘Deinfluencing' Trend Shapes Christmas Shopping, “Brands Need to Mean More”",
+      "summary": "Deinfluencing encourages consumers to avoid overhyped products and buy less amid cost-of-living pressures. Searches for “deinfluence me” surged 5,000% year over year in 2026. Consumers are becoming more selective about what they buy and expect brands to prove their value."
+    },
+    {
+      "url": "https://www.fastcompany.com/91631790/the-next-big-creators-will-be-experts-technology-creators-creator-economy?utm_source=tldrmarketing",
+      "title": "The next big creators will be experts",
+      "summary": "Audiences are growing tired of polished, interchangeable creators and increasingly value experts who offer firsthand knowledge, credible stories, and informed perspectives. Brands should look beyond follower counts when choosing creators and prioritize people with deep subject expertise, a proven track record, and the ability to support their claims with evidence. Four qualities matter when evaluating expert voices: a genuine obsession with their subject, the ability to hold attention beyond short clips, transparency about sources and uncertainty, and the willingness to challenge a brand's assumptions. Pairing experienced experts with younger creators who understand modern formats can also help turn specialized knowledge into content that travels widely."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/oleksiisidorov_embarrassingly-simple-seo-hack-go-to-google-share-7525872829980893184-E4Et/?utm_source=tldrmarketing",
+      "title": "Simple SEO hack",
+      "summary": "Use a regex filter in GSC to find search queries with 8 or more words. These specific searches reveal the questions people ask before finding your site and can also inform ChatGPT-focused content. Prioritize queries with high impressions but low clicks, then answer them near the top of the pages already ranking."
+    },
+    {
+      "url": "https://www.buzzstream.com/blog/jodi-gralnick-podcast/?utm_source=tldrmarketing",
+      "title": "How to Pitch TV News with Jodi Gralnick (Former CNBC Producer)",
+      "summary": "Effective TV pitching starts with matching your story to the right outlet, show, producer, and audience. TV needs strong visuals, graphics, and a relevant human guest, while digital can support deeper research, more data, and written quotes. Research each outlet and journalist before pitching, and write subject lines as headlines the outlet would actually publish. Get ahead of predictable news events by offering expert sources and unique perspectives before journalists start building their coverage. Pitches also need a timely news angle, objective audience relevance, and exclusive information, since 99% of pitches are irrelevant to the person receiving them."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/5-gtm-plays-working-right-now?utm_source=tldrmarketing",
+      "title": "5 GTM plays working right now",
+      "summary": "The strongest GTM plays right now take a channel that already converts and automate the manual work around it rather than adding new channels. An AI skill replaced incident.io's ads agency, cutting ABM campaign launches from 2-3 days to 3 minutes. Granola pays 200+ product users with LinkedIn followings to post about it, and those posts average 10x the engagement of its other LinkedIn ads once boosted. Vercel went from 1-2 to 3-6 field events a month without new headcount after building an internal app that automates invites, seating, and follow-up."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/?utm_source=tldrmarketing",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "summary": "Adobe's new local MCP lets ChatGPT, Claude, and Gemini use features from its Creative Cloud apps, with more endpoints to follow based on usage. Firefly also adds Builder, a Figma-style prototyping tool in private beta, and a video tool that assembles clips with images and sound effects."
+    },
+    {
+      "url": "https://redditinc.com/news/introducing-reddit-reviews?utm_source=tldrmarketing",
+      "title": "Introducing Reddit Reviews",
+      "summary": "Reddit is testing Reddit Reviews, an AI-powered feature that organizes product discussions into dedicated review pages. Each page summarizes what users like and dislike, shows positive, mixed, and negative sentiment, and links to original conversations. Shoppers can filter discussions by topic and browse products by category. The initial rollout covers roughly 10,000 products across 4 categories for US users."
+    },
+    {
+      "url": "https://strategybreakdowns.com/p/smartlead-billboard-strategy?utm_source=tldrmarketing",
+      "title": "Smartlead's billboards were never for the streets",
+      "summary": "An outbound sales platform bought billboards in 5 cities to be photographed and shared on LinkedIn, not to reach people walking past. Customers appeared as the models, giving each one a reason to post their own board. Copy changed city by city around local in-jokes, and a bench of customer creators kept the photos circulating. With no QR codes or tracked links on any board, branded search still rose 43% and direct traffic 30%."
+    },
+    {
+      "url": "https://www.salmonlabs.co/articles/what-is-comms-strategy?utm_source=tldrmarketing",
+      "title": "What is comms strategy? A practical definition, with three real examples",
+      "summary": "Comms strategy turns a brand idea into a plan for what to say and how to reach audiences. This guide breaks down 8 elements, from audience insights and barriers to messaging and channel roles. It uses 3 award-winning cases from the IPA and APG archives to show how this works in practice. AJ Bell built brand awareness through a distinctive audio identity. Uber used local creative to grow in Northern England. TfL encouraged cycling by making it a social activity rather than focusing on safety concerns."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/maggieblackburn_as-a-solopreneur-i-somehow-use-20-tools-share-7525783219590545409-zZjW/?utm_source=tldrmarketing",
+      "title": "A solopreneur's tech stack",
+      "summary": "A solopreneur's 2027 tech stack and plans to consolidate tools."
+    },
+    {
+      "url": "https://themarketinglabuk.substack.com/p/commenting-is-the-most-underrated?utm_source=tldrmarketing",
+      "title": "Commenting Is the Most Underrated Way to Grow on LinkedIn",
+      "summary": "Leave 3-5 comments a day that add an example, a real question, or a counterpoint on posts from 5-10 people whose audience matters."
+    },
+    {
+      "url": "https://ruben.substack.com/p/claude-101?utm_source=tldrmarketing",
+      "title": "Claude 101",
+      "summary": "16 power user hacks for Claude."
+    }
+  ]
+}

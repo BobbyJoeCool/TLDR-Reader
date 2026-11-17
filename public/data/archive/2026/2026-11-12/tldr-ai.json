@@ -1,0 +1,108 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-11-12",
+  "articleCount": 20,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/?utm_source=tldrai",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Google's Gemini Decisions API enables fast, calibrated multimodal decision-making by analyzing inputs like images and text. It assesses scenarios and provides actionable insights, such as determining spill severity and recommending cleanup actions."
+    },
+    {
+      "url": "https://flaviocopes.com/grok-bot-1-0/?utm_source=tldrai",
+      "title": "What's new in Grok Bot 1.0",
+      "summary": "Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole team can talk to in the app, in Slack, in Microsoft Teams, and in video calls. This post covers how to create a Team Bot and publish it, how to bring the bot into Microsoft Teams, how to add a bot to a meeting, and more. It also looks at the new admin controls and what's possible without a team."
+    },
+    {
+      "url": "https://runway.com/news/company-news/praxis-1-is-now-available?utm_source=tldrai",
+      "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model",
+      "summary": "Runway's Praxis-1, a 27B-parameter open-weight robotics model, is now available under Apache 2.0. The model excels in predicting video and actions, topping NVIDIA's RoboLab-120 leaderboard with a 46.2% success rate across 1,200 episodes. It's accessible on GitHub and Hugging Face, with support for full and LoRA fine-tuning, compatible with NVIDIA hardware, and adaptable for various robotic embodiments."
+    },
+    {
+      "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii?utm_source=tldrai",
+      "title": "Escaping SPACE: Part II",
+      "summary": "Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were fixed. The experiments also found that capture-the-flag prompts distracted agents from the security boundary being tested."
+    },
+    {
+      "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/?utm_source=tldrai",
+      "title": "MCP vs CLI vs Skills: What Each Costs in Context",
+      "summary": "MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default tools against CLI's 1,421 and skill's 3,315, highlighting the high cost of tool-heavy MCP setups. Implementing Tool Search can cut token costs by deferring tool definitions, reducing upfront toolset costs to under 600 tokens for optimal efficiency."
+    },
+    {
+      "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2?utm_source=tldrai",
+      "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT",
+      "summary": "By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only baseline on three of seven tasks. They also mapped theoretical layer-depth limits and showed empirical walls, with some tasks learned out to 60 steps and others failing after one to three. The work is meant to separate filler-token reasoning from steganographic hidden reasoning when interpreting chain-of-thought."
+    },
+    {
+      "url": "https://muni.works/research/tang?utm_source=tldrai",
+      "title": "Don't Write Kernels, Derive Them",
+      "summary": "Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through constructs such as views and comprehensions, eliminating the need for pre-defined kernels."
+    },
+    {
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/?utm_source=tldrai",
+      "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease",
+      "summary": "AlphaGenome 2 improves prediction of DNA variant effects on specific cell types, aiding in disease understanding and research. It doubles variant identification compared to its predecessor and adapts to analyze new cell states without retraining. Available for non-commercial use, the tool bridges genetics and cell biology, pinpointing disease-relevant genetic mutations in primary human cells."
+    },
+    {
+      "url": "https://github.com/openai/mcp-extensions?utm_source=tldrai",
+      "title": "OpenAI open-sources MCP Extensions for ChatGPT-native plugins",
+      "summary": "The TypeScript and Python packages add ChatGPT-specific features to MCP servers and apps, including sidebar entry points, custom file viewers, composer resource search, and thumbnail part pickers. The SDKs ship with a Bits & Bolts demo plugin and a written spec."
+    },
+    {
+      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/?utm_source=tldrai",
+      "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+      "summary": "A2UI is an open protocol for generative UI that lets agents answer with interactive screens. Open-source renderer SDKs are now available for the web, Android, iOS, and agent SDKs for Python, TypeScript, and Dart. A2UI enables apps to draw UIs with native components, securely. Users get the same low latency, high trust, and complete native fidelity whether they reach a company's agent in its own app or in a third-party AI assistant that hosts MCP apps."
+    },
+    {
+      "url": "https://shopify.engineering/generative-discovery?utm_source=tldrai",
+      "title": "Shopify's generative discovery model",
+      "summary": "Shopify deployed a shared generative discovery model for search and recommendation, leveraging semantic-ID tokens to enhance product personalization and relevance. The model improved online and offline metrics, such as a 9.85% lift in conversion rate and significant gains in search relevance."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2120556423474028576.html?utm_source=tldrai",
+      "title": "Browser use has been rolling out in Antigravity",
+      "summary": "Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the browser to run multiple tasks at once. A video demo is available in the post."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html?utm_source=tldrai",
+      "title": "United moves to block AI agents",
+      "summary": "United Airlines is moving to restrict AI-agent access across its platforms and agency channels, citing credential security and liability risks around tasks such as check-in. The restrictions contrast with travel companies including Expedia and Booking that are partnering with agents."
+    },
+    {
+      "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know?utm_source=tldrai",
+      "title": "Why Connections Matter More in AI",
+      "summary": "Professional relationships are becoming increasingly important in AI as coding agents commoditize technical execution, frontier research demands more compute resources, and closed-source development makes individual contributions harder to evaluate."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop?utm_source=tldrai",
+      "title": "Google Tabletop Creates Shared Interactive Planning Spaces",
+      "summary": "Google Labs' Tabletop turns links, files, and prompts into interactive itineraries, polls, expense splitters, and tournament brackets."
+    },
+    {
+      "url": "https://elevenlabs.io/elevenai?utm_source=tldrai",
+      "title": "ElevenAI (Website)",
+      "summary": "ElevenAI is a desktop app that helps amplify work using agents."
+    },
+    {
+      "url": "https://joost.blog/agents-sharing-user-signals/?utm_source=tldrai",
+      "title": "OpenAI wants agents to tell websites where you are",
+      "summary": "Two OpenAI engineers recently shared a proposal that suggests a change that will let agents pass user information along to websites to make them look like normal visitors rather than bots."
+    },
+    {
+      "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/?utm_source=tldrai",
+      "title": "Nvidia board reportedly preparing to oust Huang",
+      "summary": "Nvidia's board is preparing to oust CEO Jensen Huang following his admission of an affair with a woman US intelligence agencies believe was recruited by Chinese intelligence."
+    },
+    {
+      "url": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307?utm_source=tldrai",
+      "title": "Airbnb's AI assistant cut support cost per booking 17%",
+      "summary": "Airbnb's AI assistant cut support cost per booking by more than 17%, resolving about 40% of Q3 issues with no human agent."
+    },
+    {
+      "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work?utm_source=tldrai",
+      "title": "Databricks Genie Agents",
+      "summary": "Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls."
+    }
+  ]
+}

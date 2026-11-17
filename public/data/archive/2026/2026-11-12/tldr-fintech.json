@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-11-12",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.finextra.com/pressarticle/111640/wise-expands-us-product-suite?utm_source=tldrfintech",
+      "title": "Wise expands US product suite",
+      "summary": "Wise has announced an expansion of its US product offering that will give people and businesses two new ways to earn a return on the money they hold with Wise."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches?utm_source=tldrfintech",
+      "title": "Canada's real-time payments system launches",
+      "summary": "Following years of delays, Canada's Real-Time Rail (RTR) payments system has finally launched. Part of a multi-year, multi-system payments modernisation initiative, the RTR will enable participating members, including financial institutions, credit unions, and payment service providers, to exchange, clear, and settle payments securely in real time for their customers, 24 hours a day, every day of the year."
+    },
+    {
+      "url": "https://www.bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136/?utm_source=tldrfintech",
+      "title": "Morgan Stanley acquires Vinyl Equity to strengthen its private-to-public infrastructure",
+      "summary": "Morgan Stanley agreed to acquire Vinyl Equity, giving the bank an in-house digital transfer agent for cap table management, equity administration, and share transfers as private companies move toward IPOs. The deal expands Morgan Stanley's private-markets infrastructure after its EquityZen acquisition and reflects a broader push to keep more ownership, settlement, and tokenization workflows inside its wealth-management platform."
+    },
+    {
+      "url": "https://cheekypint.substack.com/p/nik-storonsky-the-most-uncompromising?utm_source=tldrfintech",
+      "title": "Nik Storonsky: The most uncompromising banking CEO (52 minute podcast)",
+      "summary": "Revolut CEO Nik Storonsky explains the company's highly quantitative product system: launch small teams, measure new products against historical gross-profit curves, scale the top performers, and stop investing in weak ones. He also argues that subscriptions produce higher-quality earnings than lending, says AI could shrink product teams to just a few people and automate much of compliance, and outlines Revolut's plan to challenge Amex and Chase in the US with a credit-card-led offering while targeting a possible 2028 IPO."
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/articles/us-credit-card-debt-hits-184738675.html?utm_source=tldrfintech",
+      "title": "US credit card debt hits record $1.29T as delinquencies rise",
+      "summary": "US credit card balances increased by $22 billion in Q3 to a record $1.29 trillion, while total household debt reached $19.1 trillion. The New York Fed said distress is rising most among lower-income and lower-credit-score borrowers, as roughly 24% credit card rates, persistent inflation, and higher borrowing costs put more pressure on household finances."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48735/venmo-launches-receipt-scanning-feature-for-bill-splitting?utm_source=tldrfintech",
+      "title": "Venmo launches receipt scanning feature for bill splitting",
+      "summary": "To split a bill, users take a photo of their receipt, and Venmo automatically itemizes it. The user then assigns each item to the person who ordered it, and the app adds everyone's share of tax and tip and sends out payment requests. PayPal-owned Venmo says the feature tackles a real issue for Gen Z: a survey from the firm found that four in 10 adults aged 18-22 say they're usually the person who pays first and collects everyone's share later."
+    },
+    {
+      "url": "https://finainews.com/allposts/chime-excited-about-prospect-of-ai-agents-accessing-bank-accounts/?utm_source=tldrfintech",
+      "title": "Chime excited about prospect of AI agents accessing bank accounts",
+      "summary": "Chime CEO Chris Britt believes automated comparisons of fees and features could make customers more willing to switch providers, benefiting lower-cost alternatives. The company is building secure connections for members' preferred assistants, with users controlling account access and permitted actions, while expanding its own personal finance agent, Jade. Britt argues that specialist agents will have an advantage in tasks such as moving money and paying bills, where financial expertise, safeguards, and accountability matter."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/paypal-says-its-ai-assistant-went-from-43-to-95-accuracy-without-changing-the-model?utm_source=tldrfintech",
+      "title": "PayPal boosts AI assistant accuracy from 43% to 95% by improving context, not the model",
+      "summary": "PayPal improved its internal AI assistant from 43% to 95% accuracy without changing the underlying LLM by adding a separate knowledge layer with business definitions, “golden queries,” analytical playbooks, and trusted procedures. The company's broader strategy is to keep enterprise knowledge portable across models, force agents to consult authoritative memory at critical workflow steps, and use human approvals plus production testing to manage risk as agents take on more complex work."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48733/stripe-and-hsbc-drive-contactless-payments-for-uk-small-businesses?utm_source=tldrfintech",
+      "title": "Stripe and HSBC drive contactless payments for UK small businesses",
+      "summary": "According to HSBC UK research conducted by Censuswide among 594 small business owners with turnover below £2 million who are involved in processing customer or client payments or transactions, 33% have lost a sale because they could not accept a customer's preferred payment method."
+    },
+    {
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html?utm_source=tldrfintech",
+      "title": "OCC Issues Supervisory Framework on Bank Use of Super Intelligence",
+      "summary": "The OCC issued a supervisory framework, released alongside Bulletin 2026-54, that gives examiners a way to assess how banks use super intelligence and agentic AI in routine business activities. According to the agency, examiners should not treat AI as a separate risk category, and banks need not set a separate AI risk appetite, which it calls a technology-neutral approach."
+    },
+    {
+      "url": "https://www.paymentsdive.com/news/bnpl-for-rent-seeks-a-market/874061/?utm_source=tldrfintech",
+      "title": "BNPL for rent seeks a market as housing affordability pressures rise",
+      "summary": "Fintechs, including Flex, Livble, Esusu, and Zip, are expanding pay-later products from discretionary retail purchases into rent and recurring bills, targeting a US rent and bill market estimated at $2 trillion versus about $160 billion for traditional retail BNPL. The pitch is income smoothing for consumers whose paychecks and monthly bills do not align, but consumer advocates warn that these products can add fees and stack debt around essential expenses, while regulation remains fragmented across states."
+    },
+    {
+      "url": "https://www.consumerfinancialserviceslawmonitor.com/2026/11/cfpb-sends-final-mortgage-servicing-rule-to-the-white-house-what-servicers-should-expect/?utm_source=tldrfintech",
+      "title": "CFPB sends final mortgage servicing rule to the White House: what servicers should expect",
+      "summary": "Homeowners behind on payments could get a simpler process for seeking assistance, but fewer protections than regulators proposed in 2024. The authors expect a narrower approach that could allow relief options to be reviewed one at a time, require borrowers to explicitly request help before foreclosure protections begin, and drop proposed restrictions on fees and multilingual communication requirements."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/?utm_source=tldrfintech",
+      "title": "Anthropic targets up to $1.4T valuation in planned IPO",
+      "summary": "Anthropic set an IPO price range of $70 to $78 per share, which could value the company at about $1.4 trillion and raise up to $64.35 billion."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg?utm_source=tldrfintech",
+      "title": "Banking giants commit $270m to stablecoin venture",
+      "summary": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro."
+    }
+  ]
+}
