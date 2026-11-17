@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-13",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://saastr.com/a-great-b2b-agent-doubles-your-acv-most-ai-features-dont-move-it-at-all?utm_source=tldrfounders",
+      "title": "A Great B2B Agent Doubles Your ACV. Most AI Features Don't Move It at All",
+      "summary": "A well-designed B2B AI agent can double ACV by performing tasks previously done by humans, tapping into labor budgets rather than limited software budgets. In contrast, most AI features manage only to improve existing workflows without significantly increasing ACV, leading vendors to charge more by adding per-action fees. Companies like Podium exemplify successful agents by automating substantial tasks, offering clear value, and supporting higher pricing."
+    },
+    {
+      "url": "https://staysaasy.com/tactical-team-changes-from-ai/?utm_source=tldrfounders",
+      "title": "Tactical Team Changes From AI",
+      "summary": "Small teams can now run orders of magnitude further thanks to AI. Many teams need fewer designers than before, but that doesn't mean designers aren't needed. People who are good at building products can now build way more. Companies are being more nimble with resourcing. AI has catalyzed the presence of A+ teams: small teams where there are no weak links and everyone is a 100xer."
+    },
+    {
+      "url": "https://docspring.com/blog/posts/operating-a-saas-when-ai-agents-write-all-the-code/?utm_source=tldrfounders",
+      "title": "What it takes to operate a SaaS when AI agents write all the code",
+      "summary": "DocSpring's founder runs 49 Claude Code sessions, each assigned to one task or one part of the product, and spends most days reading their updates and answering their questions. One session does nothing but chase the errors Sentry reports, another works through batches of small bugs, and a third hunts slow pages. Agents also found a vendor that will issue a trusted PDF-signing certificate for a few thousand dollars a year, a job whose contracts once started at $50,000. The constant switching between sessions left the founder exhausted at the end of every day at first."
+    },
+    {
+      "url": "https://x.com/Alfred_Lin/status/2120528546988949916?utm_source=tldrfounders",
+      "title": "Setting the Pace",
+      "summary": "The single most significant predictor of the success of an early-stage company is how quickly they sprint out of the gate, as this demonstrates its ability to execute at scale with speed. Fast-moving companies can adapt to changing market conditions, deliver innovative products or services, and make efficient decisions. Founders need to create a vision, set lofty goals, and inspire others to join them. After that, it's about setting an uncomfortably fast pace."
+    },
+    {
+      "url": "https://needle.app/blog/how-we-booked-321-calls-linkedin-outreach?utm_source=tldrfounders",
+      "title": "LinkedIn outreach: how we booked 321 calls in 2 months",
+      "summary": "Needle booked 321 LinkedIn calls in two months by writing to people who had just commented on posts about the problem it solves. Those commenters replied 34.2% of the time in a two-week test across 2,253 new prospects, against 9.9% for people who followed Needle's own company page. AI finds the comments and drafts each note, and a person approves every message. The team tried to remove that person with hundreds of prompts and eval loops and kept the approval step."
+    },
+    {
+      "url": "https://replit.com/blog/replit-agent-ads-commerce?utm_source=tldrfounders",
+      "title": "Replit Agent can now buy for your business and help you reach customers (Tool)",
+      "summary": "Replit Agent can create Google Ads with copy, images, budgets, and conversion tracking for Pro users worldwide. US Core and Pro users can also buy one-time business supplies, with the owner approving the final total before payment."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrfounders",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/?utm_source=tldrfounders",
+      "title": "Gemini 4 Hydrogen (Tool)",
+      "summary": "Google's Gemini 4 Hydrogen supports coding and agentic workflows, with configurable reasoning for building and debugging applications. Pricing is $1.50 per million input tokens and $7.50 per million output tokens."
+    },
+    {
+      "url": "https://helply.com/zero-to-10m/why-i-stopped-selling-a-profitable-5m-saas?utm_source=tldrfounders",
+      "title": "Why I Stopped Selling a Profitable $5M SaaS",
+      "summary": "This founder stopped selling Groove, a $5M profitable SaaS, due to stagnation and AI-driven revenue declines, and shifted focus to Helply. Groove faced an \"NRR zombie\" phase with stagnant customer growth and revenue loss from AI shrinking support teams, leading to more seat downgrades than cancellations. Despite attempts to integrate AI into Groove, they reallocated resources to Helply, closing Groove signups, funded by its cash flow, to innovate with a new product-driven strategy."
+    },
+    {
+      "url": "https://posthog.com/blog/rebundling-the-data-stack?utm_source=tldrfounders",
+      "title": "Rebundling your data stack is inevitable. Pick your bundle carefully.",
+      "summary": "Fivetran and dbt Labs have merged, creating a $600M revenue powerhouse, signifying a shift from unbundling to rebundling data stacks. This strategic move by key players like Fivetran and Snowflake offers fewer integrations but risks higher customer lock-in and surprise billing. To navigate this, tech professionals should maintain open formats, anticipate pricing changes, and ensure an easy exit strategy to retain flexibility and control over their data infrastructure."
+    },
+    {
+      "url": "https://readonpaper.substack.com/p/would-you-rather-1-whale-or-6-smaller?utm_source=tldrfounders",
+      "title": "Would You Rather: 1 whale or 6 smaller customers?",
+      "summary": "A $3 million customer that wants 40% off and custom work earns less gross profit than six $333,000 customers paying full price."
+    },
+    {
+      "url": "https://insights.euclid.vc/p/monetizing-payments-in-vertical-ai-jo-phillips-william-corbera-payabli?utm_source=tldrfounders",
+      "title": "Monetizing Payments in Vertical AI",
+      "summary": "Payments already out-earn subscriptions in the right verticals, and with agents doing more of the paying, there may be more opportunity than you think."
+    },
+    {
+      "url": "https://flaviocopes.com/defensible-small-builders/?utm_source=tldrfounders",
+      "title": "What's defensible for small builders now that AI labs ship apps",
+      "summary": "Small builders can still defend niche data, workflows, trust, and distribution."
+    },
+    {
+      "url": "https://blog.galratner.com/p/yes-you-still-need-a-technical-co?utm_source=tldrfounders",
+      "title": "Yes, You Still Need a Technical Co-Founder",
+      "summary": "A vibe-coded prototype is the most convincing way to avoid getting paying customers."
+    },
+    {
+      "url": "https://alan.is/insights/prevent-runaway-ai-bills/?utm_source=tldrfounders",
+      "title": "How to Prevent Runaway AI Bills",
+      "summary": "Use virtual card limits and prepaid credits to cap AI API spend."
+    },
+    {
+      "url": "https://www.iab.com/news/iab-releases-ai-era-attribution-blueprint/?utm_source=tldrfounders",
+      "title": "IAB Releases AI-Era Attribution Blueprint, Giving the Industry a Shared Way to Account for AI's Role in Purchases",
+      "summary": "IAB's new framework separates human-owned, AI-assisted, and AI-executed purchases to help founders check whether marketing platforms credit the right sales channel."
+    }
+  ]
+}

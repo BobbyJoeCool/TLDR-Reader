@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-11-13",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://craft.faire.com/accelerating-product-development-in-the-ai-age-how-faire-developed-product-builders-fe70044854b5?utm_source=tldrproduct",
+      "title": "Accelerating product development in the AI age: How Faire developed product builders",
+      "summary": "Faire created a product builder program to upskill engineers in product and design thinking to address bottlenecks from AI coding tools. Within four months, 65% of product engineers reached high competency, speeding up feature delivery and improving customer outcomes."
+    },
+    {
+      "url": "https://amycmitchell.substack.com/p/product-manager-business-case?utm_source=tldrproduct",
+      "title": "Why Do the Business Case If Nobody Asks You To?",
+      "summary": "Product managers can apply everyday business thinking and customer discovery during delivery planning even without a formal business case. By examining customer needs, projects, and operational costs, teams align delivery with real business opportunities and resolve open decisions through lightweight insights."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/the-data-driven-illusion?utm_source=tldrproduct",
+      "title": "The Data Driven Illusion",
+      "summary": "Most organizations operate under a data-driven illusion, using data to confirm existing opinions rather than discover real insights. True data-driven cultures prioritize uncovering raw insights before setting goals, which requires structural shifts toward insight-first pitching."
+    },
+    {
+      "url": "https://robotgirlgang.com/2026/11/11/good-product-development-teams-have-messy-boundaries/?utm_source=tldrproduct",
+      "title": "Good Product Development Teams Have Messy Boundaries",
+      "summary": "High-performing product teams thrive on flexible boundaries rather than rigid sequential handoffs. By aligning on shared milestones and maintaining cross-functional trust, teams navigate different timeline requirements across hardware and software to build complex products more effectively."
+    },
+    {
+      "url": "https://www.aha.io/blog/best-ai-prototyping-tools-product-managers-2027?utm_source=tldrproduct",
+      "title": "Best AI prototyping tools for product managers in 2027",
+      "summary": "This guide compares eight top tools for creating prototypes and validating them with customers."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/?utm_source=tldrproduct",
+      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+      "summary": "This four-question audit framework helps product teams evaluate whether AI features truly add value to enterprise software. By assessing effort, workflow impact, error handling, and human judgment, teams can properly scope capabilities while preserving user performance."
+    },
+    {
+      "url": "https://blog.ravi-mehta.com/p/user-experience-design?utm_source=tldrproduct",
+      "title": "User Experience Design",
+      "summary": "User experience design is a core product competency, where subtle interface adjustments significantly influence user conversion. Analyzing UX in the AI era, this piece shows how tools like Descript reduce friction by matching user intent, outlining four key types of friction to watch for."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/mike-charniatsou-flo-sub-club-podcast-2026?utm_source=tldrproduct",
+      "title": "Flo gets 40% of its subscriptions 6 months after install, and wants to keep it that way",
+      "summary": "40% of subscriptions for the Flo app occur over six months after install. Rather than focusing solely on day-one conversions, Flo prioritizes long-term engagement, tailored onboarding across user life stages, and evidence-based A/B testing."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2119999748086362466.html?utm_source=tldrproduct",
+      "title": "Using AI to Deepen the Product Manager Lifecycle",
+      "summary": "Rather than replacing roles, AI helps product managers deepen user understanding, accelerate prototyping, and refine go-to-market strategies."
+    },
+    {
+      "url": "https://www.forrester.com/blogs/cheaper-ai-wont-save-a-product-built-on-the-wrong-problem/?utm_source=tldrproduct",
+      "title": "Cheaper AI Won't Save A Product Built On The Wrong Problem",
+      "summary": "Falling AI costs make solving the right problem even more critical, as teams risk building features without validating root causes."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-11-13",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cloudnativenow.com/kubecon-cloudnativecon-north-america-2026/solo-io-makes-enterprise-agent-substrate-and-kagent-generally-available/?utm_source=tldrdevops",
+      "title": "Solo.io Makes Enterprise Agent Substrate and kagent Generally Available",
+      "summary": "Solo.io released enterprise editions of Agent Substrate and kagent, which suspend idle agent sessions and resume them on demand. Agentgateway enforces identity and policy on traffic, and OutSystems and Swissquote run the stack in production."
+    },
+    {
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability?utm_source=tldrdevops",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know",
+      "summary": "A critical RCE vulnerability in Apache HTTP Server's HTTP/2 module stems from a race condition in the assign_headers() function. Wiz data shows 64% of cloud environments have vulnerable resources. Organizations should upgrade to version 2.4.71 or later, or disable HTTP/2 support, to address the flaw."
+    },
+    {
+      "url": "https://eng.lyft.com/beyond-test-cards-a-fake-payment-provider-for-testing-at-scale-c69dddadb115?source=rss----25cd379abb8---4&amp;utm_source=tldrdevops",
+      "title": "Beyond Test Cards: A Fake Payment Provider for Testing at Scale",
+      "summary": "Lyft built a Fake Payment Provider that supports complex failure scenarios like partial authorization, latent captures, and refunds, which standard test cards cannot model. It embeds scenario logic directly into the payment token, allowing simulated users to test specific retry and fallback paths safely in both staging and production environments."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests/?utm_source=tldrdevops",
+      "title": "Don't just flag it, fix it: How to run CodeMender in your pull requests",
+      "summary": "Google Cloud architects describe a reference architecture that connects the CodeMender security agent to Git pull requests on Cloud Run. Slash commands verify and fix findings, and short-lived OIDC tokens avoid stored keys."
+    },
+    {
+      "url": "https://planetscale.com/blog/migrate-from-heroku-to-planetscale?utm_source=tldrdevops",
+      "title": "How we migrate TBs from Heroku without logical replication",
+      "summary": "PlanetScale built an open-source Heroku Migrator to move databases up to multiple terabytes without logical replication. It uses Bucardo for trigger-based replication to keep data in sync during the migration. The tool splits the process into data transfer and index rebuild phases to increase copy speeds by roughly five times."
+    },
+    {
+      "url": "https://github.com/CopilotKit/OpenBot?utm_source=tldrdevops",
+      "title": "OpenBot (GitHub Repo)",
+      "summary": "OpenBot is a self-hostable workspace for AI coworkers that provides each agent with its own browser, files, and tools. It supports AG-UI agents from platforms like Amazon Bedrock, Claude, and LangChain, and allows teams to deploy the system on their own Kubernetes infrastructure. The MIT-licensed template integrates with OpenAI, Claude, and Gemini models."
+    },
+    {
+      "url": "https://github.com/ashhart/TensorFold?utm_source=tldrdevops",
+      "title": "Tensorfold (GitHub Repo)",
+      "summary": "TensorFold is an LLM inference engine that serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests, and runs Metal or CUDA kernels directly, requiring no Python or MLX installation."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/11/10/open-cluster-management-ocm-becomes-a-cncf-incubating-project/?utm_source=tldrdevops",
+      "title": "Open Cluster Management (OCM) becomes a CNCF Incubating Project",
+      "summary": "The CNCF Technical Oversight Committee accepted Open Cluster Management as an incubating project. OCM manages Kubernetes clusters across cloud, on-premises, and edge, and eBay uses it with Argo CD across more than 190 clusters."
+    },
+    {
+      "url": "https://linkerd.io/2026/11/10/what-an-independent-threat-model-found-in-linkerd-and-what-you-should-do-next/?utm_source=tldrdevops",
+      "title": "What an Independent Threat Model Found in Linkerd, and What You Should Do Next",
+      "summary": "An independent threat model of open-source Linkerd identified 30 threats, 28 of which were categorized as medium or high. Only one finding is a software bug, which maintainers fixed in February 2025. The rest stem from default settings and configuration choices. This guide maps every threat to MITRE ATT&CK and NIST 800-53 frameworks."
+    },
+    {
+      "url": "https://istio.io/latest/news/releases/1.32.x/announcing-1.32/?utm_source=tldrdevops",
+      "title": "Announcing Istio 1.32.0",
+      "summary": "Istio 1.32.0 supports Kubernetes 1.33 to 1.37 and adds experimental Gateway API authorization targeting for HTTPRoute."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs/?utm_source=tldrdevops",
+      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+      "summary": "GitHub now scans completed Actions workflow logs for supported credential patterns and raises repository alerts that persist even if the logs are deleted."
+    },
+    {
+      "url": "https://octopus.com/blog/ai-assistant-deprecated?utm_source=tldrdevops",
+      "title": "AI Assistant Deprecated",
+      "summary": "Octopus Deploy deprecated its AI Assistant, and the Chrome extension is no longer available to new users."
+    }
+  ]
+}

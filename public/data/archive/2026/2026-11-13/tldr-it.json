@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-13",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531?utm_source=tldrit",
+      "title": "Microsoft 365 outage disrupts email, Teams, and Intune",
+      "summary": "A Microsoft 365 outage on November 12 disrupted email access, Teams features, and administrative tools, including Intune. Microsoft reported failing server health checks and an overwhelmed server process, with recovery efforts including traffic rerouting and server restarts."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4247895/ai-related-job-creation-to-outpace-losses-by-2030-says-gartner.html?utm_source=tldrit",
+      "title": "AI-related job creation to outpace losses by 2030, says Gartner",
+      "summary": "Gartner forecasts that AI will create 10.6 million jobs and eliminate 8.9 million by 2030, excluding China and India. Separately, it expects 5 million jobs to be deferred as employers hold back hiring while assessing AI's impact, with entry-level candidates particularly exposed."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/?utm_source=tldrit",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "The Gemini Decisions API, powered by the new Gemini Decision 1 model, is designed for fast, closed-set decisions such as tool selection, policy checks, and model routing. The model processes multimodal inputs and up to 1,000 independent questions in a single forward pass, returning probabilities and confidence scores with an end-to-end latency of 150 to 250 milliseconds."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4247680/claris-harbor-could-turn-mac-fleets-into-on-prem-ai-servers.html?utm_source=tldrit",
+      "title": "Claris Harbor could turn Mac fleets into on-prem AI servers",
+      "summary": "Apple subsidiary Claris is previewing Harbor, which aims to turn Apple silicon Macs into private AI servers. The article explores its potential for businesses seeking local control over AI workloads, while noting that product details remain limited."
+    },
+    {
+      "url": "https://www.a16z.news/p/welcome-to-the-b2a-economy?utm_source=tldrit",
+      "title": "Welcome to the B2A Economy",
+      "summary": "AI agents are initiating a fundamental platform shift by transitioning from answering questions to executing complex tasks on behalf of users, creating a new \"B2A\" (Business-to-Agent) economy. As agents increasingly drive web traffic, generate code, and make purchasing decisions, businesses that treat AI agents as primary customers will unlock new growth while others face strategic risks. Early data indicates that AI-referred traffic yields higher engagement and better conversion rates across retail, developer tools, and software platforms."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/?utm_source=tldrit",
+      "title": "Talk it through with Gemini, now on Apple CarPlay",
+      "summary": "Google is rolling out its Gemini app to Apple CarPlay globally, enabling iOS users to have hands-free, conversational interactions with Gemini Live from their car displays. The integration allows drivers to prep for meetings, review daily briefs and emails from Google Workspace, explore local landmarks, and use Gemini as a brainstorming or rehearsal companion. Conversations sync automatically with the Gemini app on the user's iPhone."
+    },
+    {
+      "url": "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work?utm_source=tldrit",
+      "title": "The new Genie: autonomous AI for complex enterprise work",
+      "summary": "Databricks introduced a new Genie as an autonomous AI coworker that proactively manages long-running enterprise tasks, coordinates across business applications, and operates within organizational guardrails. Genie Ontology builds and maintains shared business context from enterprise data and interactions, while Genie Search combines indexed content, live MCP retrieval, and SQL to deliver accurate, context-aware answers. Genie Agents provide specialized expertise across teams, and Unity Gateway governs tool access, permissions, approvals, and spending to enable secure, scalable enterprise AI automation."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4248152/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots.html?utm_source=tldrit",
+      "title": "United Airlines becomes the latest enterprise to shut its door to customer bots",
+      "summary": "United is restricting unauthorized personal AI agents, citing unintended purchases, exposed account information, and regulatory requirements. Analysts say inconsistent standards and difficulty distinguishing bots from customers complicate enterprise support for automated transactions."
+    },
+    {
+      "url": "https://opensource.googleblog.com/2026/11/scaling-ai-agents-open-standards-mcp-aaif.html?utm_source=tldrit",
+      "title": "Scaling AI agents with open standards",
+      "summary": "Anthropic's donation of the Model Context Protocol (MCP) and Agent Skills to the Linux Foundation's Agentic AI Foundation establishes complementary open standards that help prevent fragmentation across AI agent ecosystems. MCP standardizes live connections to tools and data through a stateless transport model, while Agent Skills use progressive disclosure to load procedural domain knowledge only when needed. Together, they enable developers to build more reliable, scalable, and interoperable production AI agents across platforms."
+    },
+    {
+      "url": "https://tech.criteo.com/blog/cognitive-science-software-developers-ai/?utm_source=tldrit",
+      "title": "The Developer's Brain in the Age of AI: Cognitive science for better code",
+      "summary": "While AI assistants accelerate code generation, developers can continue to rely on cognitive science principles like the default mode network, spacing and retrieval practice, working memory limits, and scientific debugging to maintain understanding and verify outcomes effectively."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cloud-wan-flow-logs/?utm_source=tldrit",
+      "title": "AWS Cloud WAN now supports Flow Logs",
+      "summary": "The new feature captures detailed information such as IP addresses, ports, protocols, and traffic volume without requiring users to stitch together logs from multiple VPCs, accounts, and Regions."
+    }
+  ]
+}
