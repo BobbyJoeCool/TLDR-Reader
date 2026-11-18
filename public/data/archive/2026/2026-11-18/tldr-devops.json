@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-11-18",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/?utm_source=tldrdevops",
+      "title": "Scheduling the removal of the kube-proxy IPVS backend",
+      "summary": "Kubernetes plans to remove the kube-proxy IPVS backend in 2026, ending support for that load balancing mode. The removal simplifies the codebase and reduces maintenance overhead for the SIG Network team."
+    },
+    {
+      "url": "https://blog.cloudflare.com/kitesurf-open-source/?utm_source=tldrdevops",
+      "title": "Kitesurf is now open source",
+      "summary": "Cloudflare released Kitesurf, its experimental browser engine for AI agents, under Apache 2.0. It parses HTML, applies CSS, executes JavaScript, and renders screenshots on Workers without a browser container, with Chrome DevTools Protocol support for clients such as Puppeteer."
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/?utm_source=tldrdevops",
+      "title": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
+      "summary": "Telemetry collection consumes resources too: excessive attributes, unbounded queues, and expensive processing can turn observability into a bottleneck. This guide explains memory-limiter placement, sampling trade-offs, and why tail sampling needs trace-aware routing when Collectors scale horizontally."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/11/tech-debt-learning-doing/?utm_source=tldrdevops",
+      "title": "Technical Debt is Social; it is the Price of Learning by Doing",
+      "summary": "Technical debt is largely social, a price of learning by doing. AI can generate software faster than teams can build shared understanding of it, making repayment a sociotechnical task."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/containers/how-salesforce-efficiently-right-sizes-kubernetes-workloads-at-scale-on-amazon-eks/?utm_source=tldrdevops",
+      "title": "How Salesforce efficiently right-sizes Kubernetes workloads at scale on Amazon EKS",
+      "summary": "Salesforce combined vertical and horizontal autoscaling across its EKS fleet, reporting more than $5 million in cumulative infrastructure savings. For Istio, VPA adjusts CPU and memory while HPA scales replicas by proxy connection count, keeping the two controllers from reacting to the same signal."
+    },
+    {
+      "url": "https://github.com/elementalsouls/Claude-BugHunter?utm_source=tldrdevops",
+      "title": "Claude-BugHunter (GitHub Repo)",
+      "summary": "Claude-BugHunter is a skill bundle for bug hunting and external red-team work that integrates with the Claude Code skills system. It contains 83 skills and 681 disclosed report patterns across 24 vulnerability classes. The tool automatically loads relevant skills based on the topic described by the user."
+    },
+    {
+      "url": "https://github.com/google-research/paper-orchestra?utm_source=tldrdevops",
+      "title": "PaperOrchestra (GitHub Repo)",
+      "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing. It transforms raw research materials into submission-ready LaTeX manuscripts with literature synthesis and generated visuals."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_source=tldrdevops",
+      "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
+      "summary": "Uber built a lifecycle framework that judges whether an AI agent's proposed action fits the user's request, purpose, permissions, and context. It combines pre-deployment registration, runtime behavioral authorization, and post-deployment replay. Per-agent intents worked better than generic thresholds."
+    },
+    {
+      "url": "https://octopus.com/blog/platform-challenge-is-the-way?utm_source=tldrdevops",
+      "title": "For platform teams, the challenge is the way",
+      "summary": "Octopus Deploy's Steve Fenton uses Future of Platform Engineering survey data to separate obstacles from challenges. A lack of clear strategy is the top obstacle, while tooling sprawl is the top challenge for high-performing teams."
+    },
+    {
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/?utm_source=tldrdevops",
+      "title": "GitHub availability report: October 2026",
+      "summary": "A partial network failure caused GitHub's runner-assignment service to wait on database calls until it exhausted memory and restarted."
+    },
+    {
+      "url": "https://planetscale.com/changelog/postgres-restore-storage-iops-throughput?utm_source=tldrdevops",
+      "title": "Set storage IOPS and throughput when restoring Postgres backups",
+      "summary": "PlanetScale now lets users configure storage IOPS and throughput when restoring a Postgres backup into a new branch."
+    },
+    {
+      "url": "https://www.omgubuntu.co.uk/2026/11/ubuntu-pro-ai-security-archive?utm_source=tldrdevops",
+      "title": "Ubuntu Pro users can get early access to AI-written security fixes",
+      "summary": "Canonical is giving Ubuntu Pro users early access to AI-generated patches for known security flaws through a new opt-in archive called Edge."
+    }
+  ]
+}

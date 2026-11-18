@@ -1,0 +1,93 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-18",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://playfulprogramming.com/posts/writable-derived-state?utm_source=tldrdev",
+      "title": "Writable Derived State: Stop Synchronizing State",
+      "summary": "Copying server data into React state with an effect can overwrite unsaved edits whenever a refetch completes. Keep user edits in separate nullable state and fall back to server data only when no edit exists, a pattern that also works with TanStack Query."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite?utm_source=tldrdev",
+      "title": "Running Datasette in the Browser with Service Workers and Pyodide",
+      "summary": "A rewrite of Datasette Lite uses service workers to serve the Python application's HTML, JavaScript, and CSS entirely in the browser. URL parameters select databases, plugins, Datasette revisions, and SQLite versions, making it possible to share bug reproductions and feature demos without hosting a server."
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/?utm_source=tldrdev",
+      "title": "Should You Actually Add AI to That?",
+      "summary": "An AI feature should return more value through reduced effort, fewer errors, or greater consistency than users spend adapting to and verifying it. A four-question audit checks total effort, performance against the existing method, whether users can catch errors, and whether they retain that judgment after prolonged use."
+    },
+    {
+      "url": "https://x.com/addyosmani/status/2122590683055993308?a=S5WdDueZTW6NMfT57qc&s=46&utm_source=tldrdev",
+      "title": "How the Claude Code Team Thinks About Verification",
+      "summary": "The Claude Code team treats verification as running the changed system and collecting evidence, with end-to-end, property, and differential tests providing complementary checks. Its workflow keeps review rules outside the change being judged, runs cheap checks before shared CI, and turns recurring failures into rules evaluated against past incidents and stable changes."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/decision-models?utm_source=tldrdev",
+      "title": "Not Everything Needs an LLM",
+      "summary": "PostHog uses decision models to gate expensive LLM calls, route requests, and rerank search results with explicit probability scores. Its personal-information checks let 98.7% of session summaries skip a rewriting call, but thresholds need calibration for each task and model because false positives and false negatives carry different costs."
+    },
+    {
+      "url": "https://naildrivin5.com/blog/2026/11/11/how-can-you-be-responsible-for-code-you-don-t-understand.html?utm_source=tldrdev",
+      "title": "How Can You Be Responsible for Code You Don't Understand?",
+      "summary": "Teams delegating all coding and review to AI gradually lose the familiarity and skills needed to maintain that code themselves. Treat accountability as responsibility for measurable system outcomes. Reversing an AI mandate will not instantly restore those skills."
+    },
+    {
+      "url": "https://itsmeduncan.com/2026/11/17/only-the-human-merges?utm_source=tldrdev",
+      "title": "Only the Human Merges",
+      "summary": "Written instructions failed to stop agents from adding comments or merging changes, while server-enforced permissions stopped unauthorized merges. The workflow reserves prioritization, acceptance, and final decisions for a person, with agent reviews providing evidence rather than approval."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrdev",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://vercel.com/blog/eve-is-now-generally-available?utm_source=tldrdev",
+      "title": "Introducing eve 1.0",
+      "summary": "eve is an open-source framework for durable agents with configurable models, tools, approvals, and memory. Its 1.0 release adds multiplayer sessions, broader framework integrations, and OpenTelemetry traces, with Workflow-based checkpointing allowing interrupted work to resume."
+    },
+    {
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/?utm_source=tldrdev",
+      "title": "Solid 2.0: The Long Hold",
+      "summary": "Solid 2.0 brings promises and async iterators into its reactive graph, with server functions supporting request-response calls and persistent streams. Development diagnostics report reactive mistakes with stable codes, source locations, and repair guidance, helping people and coding agents detect problems that otherwise look like working applications."
+    },
+    {
+      "url": "https://alloyhtml.com/?utm_source=tldrdev",
+      "title": "Alloy CSS (Website)",
+      "summary": "Alloy provides a stylesheet for server-rendered HTML, including dialogs, menus, drawers, tabs, and toasts that work with JavaScript disabled. It uses native browser features, needs no build step, and includes a checker that flags classes outside its defined vocabulary."
+    },
+    {
+      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1?utm_source=tldrdev",
+      "title": "Modern Web Guidance 1.0",
+      "summary": "Modern Web Guidance supplies coding agents with expert-reviewed web practices and browser compatibility data, covering gaps in accessibility, performance, security, and user experience. Version 1.0 adds a codebase modernization workflow and public evaluations, with Firefox and Edge joining Chrome in supporting the project."
+    },
+    {
+      "url": "https://pietromiotti.com/latest/maya-site/?utm_source=tldrdev",
+      "title": "My AI Agents (Re)discovered a Maya Site in 72 Hours",
+      "summary": "A group of 48 agents inspected images derived from public NASA lidar data and flagged a Maya site missing from Mexico's official register. A later literature check showed archaeologists had already mapped it in 2025, making this a rediscovery and exposing a gap in the agents' research."
+    },
+    {
+      "url": "https://browser.engineering/?utm_source=tldrdev",
+      "title": "Web Browser Engineering (Website)",
+      "summary": "This free online book builds a browser in a few thousand lines of Python, progressing from HTTP and layout to JavaScript, compositing, accessibility, and security."
+    },
+    {
+      "url": "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch?utm_source=tldrdev",
+      "title": "jQuery 4.1.0 and 3.8.0 Released",
+      "summary": "jQuery 4.1.0 adds form-associated custom element serialization and linear-time duplicate removal, while 3.8.0 is the final planned feature release before the 3.x branch moves to critical fixes only."
+    },
+    {
+      "url": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs?utm_source=tldrdev",
+      "title": "Faster Type-Aware Linting with tsrs",
+      "summary": "Oxlint's new tsrs backend shares TypeScript analysis between typechecking and type-aware linting."
+    },
+    {
+      "url": "https://x.com/GergelyOrosz/status/2122428797647769970?utm_source=tldrdev",
+      "title": "Inside Microsoft's Outage: A Latent Bug, Not AI-Written Code",
+      "summary": "An account based on a Microsoft incident-team conversation attributes the outage to a months-old, human-written Windows change that saturated machines."
+    }
+  ]
+}
