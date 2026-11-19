@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-19",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://cassidoo.co/post/dying-indies/?utm_source=tldrfounders",
+      "title": "Why are all the indie-friendly products dying at the same time?",
+      "summary": "More venture-backed startups have shut down this year than in any year on record. Many of these companies were founded or fundraised when raising capital was easy, and couldn't fundraise again this year. The companies that are surviving tend to be bootstrapped, profitable tools that don't need venture capital, local-first software where people can self-host or 'bring your own cloud', and API-first platforms that can be used as a primitive for custom things."
+    },
+    {
+      "url": "https://carta.com/data/state-of-pre-seed-q3-2026/?utm_source=tldrfounders",
+      "title": "State of Pre-Seed: Q3 2026",
+      "summary": "A SAFE puts off pricing a startup, but its valuation cap can already decide what the investor pays. Carta's latest US data shows most SAFEs converted at their cap among companies that went on to raise a seed round. Seed valuations usually land above the cap, so negotiate the cap as the likely price. Median caps rose across every round size while total pre-seed dollars grew and the number of deals fell."
+    },
+    {
+      "url": "https://www.saastr.com/how-fast-do-you-really-have-to-be-growing-to-raise-venture-capital-today-1m-to-100m-arr-in-5-years/?utm_source=tldrfounders",
+      "title": "How Fast Do You Really Have to Be Growing to Raise Venture Capital Today? $1M to $100M ARR in 5 Years, Max. But VCs Are Hoping for 2-3 Years",
+      "summary": "A software company can beat median growth and still struggle to raise venture money. SaaStr's proposed benchmark is reaching $100 million in annual recurring revenue within five years of hitting $1 million. Lower public-market revenue multiples mean a company needs more revenue to reach the same exit value, so investors push that requirement back to earlier rounds. Strong retention and large infrastructure contracts can earn a company more time under the framework. Private equity and growth equity remain options for slower growers."
+    },
+    {
+      "url": "https://alexandre.substack.com/p/a-primer-on-ai-enabled-roll-ups?utm_source=tldrfounders",
+      "title": "A Primer on AI-Enabled Roll-Ups",
+      "summary": "Selling software to service firms leaves most of the money in those industries out of reach. US spending on accounting services is about 34 times spending on accounting software. AI-enabled roll-ups go after that bigger budget by buying existing firms and running them on their own AI tools. The primer recommends using the gains to serve more clients with the same staff. Its industry screen favors fragmented markets with cheap acquisition prices and more demand than firms can staff."
+    },
+    {
+      "url": "https://www.growthunhinged.com/p/the-b2b-buyer-journey-with-ai?utm_source=tldrfounders",
+      "title": "The B2B buyer journey with AI",
+      "summary": "Buyers increasingly ask ChatGPT or Claude which software to buy before they visit a vendor's site. Growth Unhinged studied about 27,000 buying prompts to see what those buyers wanted to know. Most prompts compared specific products, while only 15% involved early research. Pricing was the biggest single topic, including early questions about coding agents and website builders. Check what AI tools say about your prices and features, since a wrong answer can drop you from the shortlist."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-credit-splitting-transfers/?utm_source=tldrfounders",
+      "title": "AWS launches credit splitting and transfers (Tool)",
+      "summary": "AWS now lets customers divide a credit and transfer portions to linked accounts under the same payer account, so startup credits can go to the team that earned them. Splits are permanent and keep the original expiration date at no extra cost."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team/?utm_source=tldrfounders",
+      "title": "Security risk assessments run automatically on GitHub Team (Tool)",
+      "summary": "GitHub now runs free security risk assessments automatically for organizations on the GitHub Team plan. Admins can review exposed credentials and code vulnerabilities in one place to decide what to fix first."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrfounders",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://vercel.com/blog/vercel-x?utm_source=tldrfounders",
+      "title": "Introducing Vercel X",
+      "summary": "Vercel X is a six-week accelerator for AI founders in the idea and pre-seed stages. The cohort of 40 teams will build alongside Vercel's product leaders, designers, and engineers. The program will take no equity for participation, and there is a program-wide pool of more than $9 million in credits from Vercel, AWS, Anthropic, OpenAI, and other partners. Applications are open until November 29, and the program will run from January 19 to March 2."
+    },
+    {
+      "url": "https://www.buzzstream.com/blog/michelle-garrett-podcast/?utm_source=tldrfounders",
+      "title": "B2B PR That Gets Results with Michelle Garrett",
+      "summary": "Michelle Garrett discusses effective B2B PR strategies, emphasizing the importance of targeted media lists and ongoing engagement over sporadic press releases. She highlights how building relationships with trade editors and focusing on specific industry publications can yield better results than a broad \"spray and pray\" approach. Garrett also advises incorporating visuals in PR content and tailoring case studies to address multiple stakeholders within B2B decision-making processes."
+    },
+    {
+      "url": "https://x.com/yrechtman/status/2123053089683062893?utm_source=tldrfounders",
+      "title": "There is only one company to build",
+      "summary": "There's a single shape/direction emerging across all of the players in enterprise AI. Every company across the training data supply chain is becoming an AI transformation business. The only thing enterprise actually wants to buy is a change in their business. Founders can charge a lot more and have an easier time selling this if they just say they will sell the change enterprises want to make."
+    },
+    {
+      "url": "https://pawelbrodzinski.substack.com/p/an-ai-agent-is-not-your-next-customer?utm_source=tldrfounders",
+      "title": "An AI Agent Is Not Your Next Customer",
+      "summary": "Almost nobody is using agents for transactions, and it's not a technical issue."
+    },
+    {
+      "url": "https://cutlefish.substack.com/p/tbm-452-contexting-vs-context?utm_source=tldrfounders",
+      "title": "Contexting vs. Context",
+      "summary": "One product leader blamed their team for vague questions, then caught themselves doing the same to their own boss."
+    },
+    {
+      "url": "https://www.audiencebridge.io/p/their-highest-revenue-email-looked-like-a-personal-note?utm_source=tldrfounders",
+      "title": "Their Highest-Revenue Email Looked Like a Personal Note",
+      "summary": "An email resembling a personal note generated the highest revenue for an ecommerce company, suggesting presentation trumps the offer itself."
+    },
+    {
+      "url": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/?utm_source=tldrfounders",
+      "title": "Google Ads AI Max Is Making More Decisions For You – Here's What To Audit Now",
+      "summary": "Google Ads is giving automation a larger role in how ads are matched, written, and delivered."
+    }
+  ]
+}

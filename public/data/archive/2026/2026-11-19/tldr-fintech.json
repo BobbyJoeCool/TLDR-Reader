@@ -1,0 +1,73 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-11-19",
+  "articleCount": 13,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.finextra.com/newsarticle/48754/klarna-taps-robinhood-vp-chris-koegel-as-cfo?utm_source=tldrfintech",
+      "title": "Klarna taps Robinhood VP Chris Koegel as CFO",
+      "summary": "Klarna has appointed Chris Koegel as its new chief financial officer starting in January. Koegel served as vice president, head of corporate finance, and investor relations at cryptocurrency platform Robinhood. He joined the company in 2022 and saw its valuation grow from under $10 billion to over $100 billion."
+    },
+    {
+      "url": "https://www.finextra.com/pressarticle/111667/paypal-partners-with-workday-to-enhance-employee-financial-wellbeing?utm_source=tldrfintech",
+      "title": "PayPal partners with Workday to enhance employee financial wellbeing",
+      "summary": "PayPal announced a partnership with Workday that lets employees of Workday customers set up PayPal Direct Deposit through Workday's Enhanced Direct Deposit (EDD) program, giving eligible employees in the US a way to receive their pay up to two days early."
+    },
+    {
+      "url": "https://fintechtakes.com/p/the-last-mile-problem-for-stablecoins?utm_source=tldrfintech",
+      "title": "The last mile problem for stablecoins",
+      "summary": "Stablecoins let small banks transact directly across borders, but the final leg into local currency still carries FX, compliance, and funding costs. Mastercard's BVNK-powered Global Money Platform is the center that absorbs them."
+    },
+    {
+      "url": "https://www.mostlymetrics.com/p/should-tesla-and-spacex-merge?utm_source=tldrfintech",
+      "title": "Should Tesla and SpaceX merge?",
+      "summary": "Mostly Metrics weighs the industrial logic of combining Tesla and SpaceX against the risk of creating a sprawling conglomerate that investors may value less clearly. A merger could simplify shared projects such as Terafab, improve capital and talent allocation, and vertically integrate chips, energy, satellites, AI, and robotics, but the companies have very different growth rates, margins, and capital needs, and many of the operational benefits could potentially be achieved through partnerships instead."
+    },
+    {
+      "url": "https://fintechtakes.com/p/can-revolut-dominate-the-u-s-without-taking-risk?utm_source=tldrfintech",
+      "title": "Can Revolut dominate the US without taking risk?",
+      "summary": "Revolut's US bank will be credit-card led. It will match Amex and Chase perks while keeping lending under 10% of the balance sheet and securitizing the rest. Chase earned about $23.8 billion in card net interest income in 2025 versus $2.2 billion in net non-interest card revenue. Perks are acquisition costs and the loan is the product, so Revolut must choose between dominating and taking little risk."
+    },
+    {
+      "url": "https://dwaynegefferie.substack.com/p/blocks-turnaround-strategy?utm_source=tldrfintech",
+      "title": "Block's turnaround strategy: two ecosystems, one bank",
+      "summary": "Block's turnaround came from narrowing its focus, cutting more than 40% of staff, consolidating around Square and Cash App, and then using its bank charter to scale consumer lending. Cash App now drives most of Block's growth, with $19 billion of quarterly consumer lending originations and rising gross profit per user, while Square is re-accelerating through stronger distribution, but the strategy also concentrates more risk in credit losses and regulatory controls."
+    },
+    {
+      "url": "https://www.fintechbrainfood.com/p/life-after-the-swipe?utm_source=tldrfintech",
+      "title": "Life after the Swipe",
+      "summary": "This post walks through what happens after a card swipe and how card programs are built. Stablecoin-linked cards let issuers launch in 10 to 30+ markets from one dollar-denominated sponsor like Rain instead of a bank partner per country. Visa and Mastercard now accept stablecoin settlement seven days a week, so a multi-market program can collapse separate prefunded pots into one balance. Issuers also get new features: yield on dollar balances, loyalty rewards at any merchant terminal, and global co-brand cards for fan bases. Large domestic banks gain little from “T-shaped” programs (wide across markets and deep in products) like this."
+    },
+    {
+      "url": "https://plaid.com/blog/agent-detection-agentic-finance/?utm_source=tldrfintech",
+      "title": "Plaid launches Agent Detection to identify AI-driven financial activity",
+      "summary": "Plaid launched Agent Detection to help banks and fintechs distinguish human activity from AI agents across login, onboarding, account linking, and money movement, including identifying which AI provider is behind a session. Plaid says the system detected 2.3x more agent sessions than competitors in live testing, and views it as the first layer of broader infrastructure for trusted agentic finance, where institutions can recognize agents, assess risk, and eventually let consumers authorize specific actions safely."
+    },
+    {
+      "url": "https://www.finextra.com/newsarticle/48751/mastercard-opens-singapore-innovation-centre-of-excellence?utm_source=tldrfintech",
+      "title": "Mastercard opens Singapore innovation centre of excellence",
+      "summary": "Mastercard has opened an innovation centre of excellence in Singapore that will eventually house 250 specialists working in areas such as AI, digital commerce, and cybersecurity."
+    },
+    {
+      "url": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?st=Re59Up&amp;reflink=desktopwebshare_permalink?utm_source=tldrfintech",
+      "title": "Anthropic IPO could deliver huge gains for early investors",
+      "summary": "Anthropic's expected IPO at a valuation of at least $1.33 trillion could generate major gains for a broad investor base spanning venture firms, large technology companies, private equity, and sovereign wealth funds. The company most recently raised private capital at a $965 billion valuation, meaning the IPO could mark another substantial step-up for existing shareholders."
+    },
+    {
+      "url": "https://fintech.global/2026/11/16/blue-j-lands-176m-to-put-ai-agents-on-tax-desks/?utm_source=tldrfintech",
+      "title": "Blue J lands $176m to put AI agents on tax desks",
+      "summary": "Blue J raised a $176 million Series E led by JMI Equity at a valuation above $700 million to expand Workflows, an agentic product that checks returns before filing, drafts replies to IRS notices, and reviews partnership agreements. The company says ARR grew 165% in the 15 months after its Series D, and that more than 6,500 organizations use its research engine."
+    },
+    {
+      "url": "https://www.bankingdive.com/spons/building-trust-in-an-ai-driven-banking-landscape/874633/?utm_source=tldrfintech",
+      "title": "Banks risk losing the customer relationship as AI becomes the financial interface",
+      "summary": "Banks and credit unions risk becoming passive data providers if consumers increasingly turn to AI assistants for financial guidance."
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16/?utm_source=tldrfintech",
+      "title": "Italian court places Revolut unit under supervision over anti-money laundering failures",
+      "summary": "An Italian court placed Revolut Bank UAB's Italian operations under one year of judicial administration after finding serious anti-money laundering deficiencies that allegedly allowed 24 suspected or convicted criminals to move €41.9 million through the bank without Revolut filing any suspicious transaction reports."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-11-19",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html?utm_source=tldrnewsletter",
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "summary": "Anthropic sold about 980 million shares priced at $83 per share at its IPO on Wednesday. The AI lab raised $81.3 billion and now has a fully diluted market cap of around $1.5 trillion. The stock is expected to begin trading on the Nasdaq on Thursday under the ticker symbol 'ANT'. OpenAI's IPO will likely debut in 2027."
+    },
+    {
+      "url": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/?utm_source=tldrnewsletter",
+      "title": "A Tesla Model Y Without A Steering Wheel Is Coming",
+      "summary": "Tesla plans to create a fully autonomous vehicle that can seat more than two people. It is developing an autonomous version of the Model Y without a steering wheel or pedals. The vehicle will be designed for transporting groups of people and will be able to seat up to six or seven passengers. Tesla will continue to manufacture regular Model Ys with steering wheels for the foreseeable future."
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802?utm_source=tldrnewsletter",
+      "title": "Unblockable communication with gravity",
+      "summary": "All modern wireless communication technologies are based on electromagnetism, which is readily susceptible to screening and blocking. Gravity is a viable platform for practically unblockable communication. This study proposes and implements a wireless communication protocol where a broadcaster encodes a binary message by moving a mass, and a receiver detects the resulting gravitational signal with an off-the-shelf, hand-held gravimeter."
+    },
+    {
+      "url": "https://unchartedterritories.tomaspueyo.com/p/hardware-is-software?utm_source=tldrnewsletter",
+      "title": "Hardware Is Software",
+      "summary": "Most hardware engineering is actually software engineering in disguise. Everything is a calculation, and calculation is software. The industry is currently doing these calculations essentially by hand, as if it were doing arithmetic without having yet discovered algebra. Hardware engineers need to design algorithms for designing their hardware. This allows small teams to build big things."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/?utm_source=tldrnewsletter",
+      "title": "AWS announces ExtendDB 1.0",
+      "summary": "ExtendDB is a production-ready Amazon DynamoDB-compatible adapter. It is fully compatible with the DynamoDB API and can run on PostgreSQL, SQLite, Cassandra, and MongoDB. ExtendDB allows developers and infrastructure teams to run DynamoDB workloads in on-premise data centers, in private or public clouds, and at the edge, without rewriting application code. It is open source under the Apache 2.0 license."
+    },
+    {
+      "url": "https://jacobtomlinson.dev/posts/2026/foundation-software/?utm_source=tldrnewsletter",
+      "title": "Foundation Software",
+      "summary": "Open source projects are being flooded with PRs thanks to AI. Instead of submitting these PRs, developers should publish forks with no expectation of merging. Maintainers could then search through the forks and see what other people are building, then choose which changes to make upstream. This search could be done with agents hunting for patterns."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrnewsletter",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html?utm_source=tldrnewsletter",
+      "title": "Nvidia interim CEO Kress tells employees ‘let's move forward' at first all-hands meeting since Jensen Huang exit",
+      "summary": "Nvidia recently held its first all-hands meeting since its founder, Jensen Huang, resigned. The meeting opened with a message about moving forward.  Executives announced that pay rises and the yearly review process will be moved up from March to December. There appears to be division in the company about whether to reinstate Huang, but the company's newly appointed board chair has said that the board does not intend to do so."
+    },
+    {
+      "url": "https://azhdarchid.com/notes/waymo-safety-2026-11-18/?utm_source=tldrnewsletter",
+      "title": "On Waymos and their safety record",
+      "summary": "Waymo has little incentive to prioritize road safety beyond a self-determined limit. Once the company captures a significant market share, a board will decide what an acceptable level of road fatalities is. The company can eat any amount of fine payments. Waymo cannot solve road safety - it can only shift the locus of policy around road safety away from the government into an unaccountable corporation."
+    },
+    {
+      "url": "https://betterthangood.xyz/blog/scarcity-migration/?utm_source=tldrnewsletter",
+      "title": "Scarcity migration",
+      "summary": "Every major economic era tells a story about what was scarce, where that scarcity moved, and how long companies and institutions took to respond."
+    },
+    {
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/?utm_source=tldrnewsletter",
+      "title": "We Need Smart People Who Give a Shit",
+      "summary": "The world runs on complex systems that depend on smart people who give a shit - take those people away, and the systems collapse."
+    },
+    {
+      "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons?utm_source=tldrnewsletter",
+      "title": "Fewer slides, more dragons",
+      "summary": "AI lets you make interesting presentations with much less effort."
+    },
+    {
+      "url": "https://www.testingcatalog.com/google-launches-gemini-4-neon-on-gemini-antigravity-and-apis/?utm_source=tldrnewsletter",
+      "title": "Google launches Gemini 4 Neon on Gemini, Antigravity, and APIs",
+      "summary": "Gemini 5 Neon has a 1 million token context window and costs $3 per million input tokens and $15 per million output tokens, with cached input at $0.15."
+    },
+    {
+      "url": "https://aifoc.us/my-chrome-extensions-are-just-prompts/?utm_source=tldrnewsletter",
+      "title": "My Chrome extensions are just prompts",
+      "summary": "Prompt in a Box is a Chrome extension that dynamically changes its behavior depending on the prompt it is given."
+    },
+    {
+      "url": "https://www.clemsau.com/posts/agents-are-here-to-stay-what-does-that-means-for-tech-companies/?utm_source=tldrnewsletter",
+      "title": "Agents are here to stay. How can companies really go faster?",
+      "summary": "Agents increase what each person can produce, but not their ability to align with everyone else."
+    }
+  ]
+}

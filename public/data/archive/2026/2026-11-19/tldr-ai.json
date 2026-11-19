@@ -1,0 +1,93 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-11-19",
+  "articleCount": 17,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=tldrai",
+      "title": "Gemini 4 Neon",
+      "summary": "Google introduced Gemini 4 Neon, a fast, frontier-level model for complex coding, knowledge work, and science tasks. It scored 61 on the Artificial Analysis Intelligence Index and is priced at $3 per million input tokens and $15 per million output tokens."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/?utm_source=tldrai",
+      "title": "Genie 4",
+      "summary": "Google opened Genie 4, its model for generating interactive worlds, to eligible Google AI Ultra subscribers in Project Genie. Users can edit a world by typing prompts while exploring it."
+    },
+    {
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/?utm_source=tldrai",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "summary": "In a private benchmark, Gemini 4 Carbon spent close to an hour on bug fixes that Claude Opus 5.5 and GPT-6 Astra finished in minutes. Carbon took about seven times as many steps as Astra, and half were unnecessary."
+    },
+    {
+      "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast/?utm_source=tldrai",
+      "title": "Why Antigravity Eats Weekly Quota Fast - and What I Measured",
+      "summary": "Google Antigravity wipes users' prompt caches if there is a 5-minute pause. Refreshing the cache just before expiry works, but only for 3 pings. Even a 5-word prompt starts with 13,800 to 16,800+ tokens of system instructions, MCP schemas, and skills. Disabling unused MCP servers and plugins shrinks cold turns and cache misses."
+    },
+    {
+      "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem?utm_source=tldrai",
+      "title": "Switching LLMs mid-conversation is a ski-rental problem",
+      "summary": "Most work on routing between language models is centered on making sure the right model handles the right request. A classifier scores the request, then the request is routed to a cheap model if it is easy, and a frontier model if it is hard. For coding agents, this is only half of the problem. The second half of the problem is knowing when a running session should change model. This problem, which this post discusses, has a classic form: the ski-rental problem."
+    },
+    {
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/?utm_source=tldrai",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "Design changes proposed by OpenAI's models cut the circuit area of key parts of its Jalapeño AI chip by an estimated 10% to 13%. With AMD, the same approach delivered up to 14% improvements on AMD's flagship GPU designs."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+      "title": "Become a founding member of TLDR's AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier/?utm_source=tldrai",
+      "title": "An update on the state of research acceleration at OpenAI",
+      "summary": "OpenAI's agents now complete nearly half of two-to-four-hour research tasks on their own. However, humans are still central to AI development. Agent use is surging, and the heaviest users are pulling further ahead. Researchers are devoting increasing human effort to Safety and alignment."
+    },
+    {
+      "url": "https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page?utm_source=tldrai",
+      "title": "Context API extracts full context from any web page",
+      "summary": "The Perplexity Context API can extract the full context from any webpage and return clean Markdown, links, and relevant passages. It can read up to 10 URLs at once. Agents can specify the freshness of each request and validate the source of each result. Every successful result also includes metadata for the page such as the title, description, language, author, and date of publication."
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/introducing-model-factory?utm_source=tldrai",
+      "title": "Introducing Model Factory",
+      "summary": "Model Factory is a training loop that lets any company train, deploy, and continuously improve models in production. It brings reinforcement learning, supervised fine-tuning, pre-training, and inference together into one control plane. It also offers health checks, automatic node replacement, and recovery from the latest checkpoint for long-running experiments. Model Factory has already been deployed for teams working on finance automation, computer use, scientific discovery, chip design, and other industries."
+    },
+    {
+      "url": "https://thezvi.substack.com/p/quickly-theres-no-time?utm_source=tldrai",
+      "title": "Quickly, There's No Time",
+      "summary": "Many things point to the substantial possibility of superintelligence arriving next year. Any plan to prepare for this has to be ready for the full automation of AI R&D, which will result in the rapid advancement of AI abilities beyond human levels. It will need to include mechanisms to slow down the resulting growth in capabilities."
+    },
+    {
+      "url": "https://www.hyperdimensional.co/p/the-silent-consensus?utm_source=tldrai",
+      "title": "The Silent Consensus",
+      "summary": "The most common vision for the future that AI brings isn't totally positive. It is often left unsaid, discernible only by implication, a silent consensus. The decisions humans make will likely lead to a world in which people have forfeited effective authority over much of our civilization. Even if we make extraordinary progress on AI safety and alignment, we could still find ourselves having submitted to a machine entity."
+    },
+    {
+      "url": "https://openai.com/index/inside-the-codex-sandbox/?utm_source=tldrai",
+      "title": "Inside the Codex sandbox",
+      "summary": "The Codex sandbox lets OpenAI's coding agent run commands on a user's own machine within file and network limits the user controls."
+    },
+    {
+      "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/?utm_source=tldrai",
+      "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+      "summary": "Meta uses AI agents to efficiently propagate ML technique improvements across diverse ads ranking models."
+    },
+    {
+      "url": "https://resolve.ai/news/introduces-SRE-1-model-and-primary-on-call?utm_source=tldrai",
+      "title": "ResolveAI Introduces SRE-1, the Most Accurate Model for Production at Every Budget",
+      "summary": "SRE-1 offers unmatched accuracy for production across various budgets."
+    },
+    {
+      "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth?utm_source=tldrai",
+      "title": "Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x",
+      "summary": "Anthropic spent nearly $10 billion on compute and infrastructure in the third quarter of 2026."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/?utm_source=tldrai",
+      "title": "Introducing Stitch Loop: A new way to build and evolve products",
+      "summary": "Stitch Loop is a new tool from Google Labs designed to facilitate iterative product development."
+    }
+  ]
+}
