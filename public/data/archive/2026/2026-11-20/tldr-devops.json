@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-11-20",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk?utm_source=tldrdevops",
+      "title": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
+      "summary": "CVE-2026-114938 is a critical 9.2 severity RCE vulnerability in OpenJDK's AVX-512 Base64 decoding that causes heap memory corruption. It affects OpenJDK 17.0.6 and later on x86-64 hardware and enables pre-auth RCE in applications like Jenkins, Confluence, and Tomcat. Users should upgrade OpenJDK or disable Base64 intrinsics immediately."
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-mtls-for-network-load-balancer/?utm_source=tldrdevops",
+      "title": "Introducing mTLS for Network Load Balancer",
+      "summary": "AWS Network Load Balancer can now authenticate clients using mutual TLS, offloading certificate validation from backend services. This walkthrough configures a trust store, revocation checks, and certificate identity filters, then tests connections from trusted and untrusted clients."
+    },
+    {
+      "url": "https://www.harness.io/blog/flaky-test-tooling-landscape-2026?utm_source=tldrdevops",
+      "title": "The 2026 Flaky-Test Tooling Landscape: An Honest Comparison",
+      "summary": "Harness compares seven flaky-test tools and argues vendors differ more in quarantine, recovery, and adoption cost than in detection. It cites an IEEE study of 8.8 billion test executions where 9.8% to 16.3% of failed runs involved missed flaky failures."
+    },
+    {
+      "url": "https://incident.io/blog/is-ai-just-another-third-party-dependency-yes-right-up-until-it-isnt?utm_source=tldrdevops",
+      "title": "Is AI just another third-party dependency? Yes, right up until it isn't",
+      "summary": "incident.io asks whether AI models should be managed like any other third-party dependency, and two engineers answer mostly yes. SLAs, SLOs, and observability still apply, but measuring model quality and debugging are harder, and deterministic code sometimes lowers risk."
+    },
+    {
+      "url": "https://github.com/openvinotoolkit/openvino?utm_source=tldrdevops",
+      "title": "OpenVINO (GitHub Repo)",
+      "summary": "OpenVINO is an open source toolkit for optimizing and deploying AI inference across CPUs, GPUs, and NPUs. It boosts deep learning performance for computer vision and generative AI without requiring original frameworks for deployment."
+    },
+    {
+      "url": "https://github.com/Tracer-Cloud/opensre?utm_source=tldrdevops",
+      "title": "OpenSRE (GitHub Repo)",
+      "summary": "OpenSRE is an open-source CLI agent that automates CI/CD reliability by investigating failed runs, tracing causes, and pushing fixes for review. It runs self-hosted with your own models to keep data private. The tool separates CI-caused failures from code-caused ones to ensure engineers fix the right problem."
+    },
+    {
+      "url": "http://brooker.co.za/blog/2026/11/18/workload-mix.html?utm_source=tldrdevops",
+      "title": "Traffic mix matters",
+      "summary": "Microsoft's preliminary report on last week's M365 outage blames a failure to detect the issue on the specific traffic mix and SKUs used in testing labs. Throughput can vary by multiple orders of magnitude depending on key skew, meaning load tests must match production traffic patterns to be valid."
+    },
+    {
+      "url": "https://www.together.ai/blog/road-to-together-compiler?utm_source=tldrdevops",
+      "title": "Last year we built megakernels. This year we deleted them: The road to Together Compiler",
+      "summary": "Together AI built Together Compiler, which uses AI agents to rewrite and fuse GPU kernels and beats its hand-written megakernels by about 28% on B200, at 2,118 versus 1,649 tokens per second on Llama 3.2 1B. CUDA Graphs on default Inductor kernels already recovered about 98% of megakernel performance."
+    },
+    {
+      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli/?utm_source=tldrdevops",
+      "title": "Wait for pull request events with GitHub CLI",
+      "summary": "GitHub CLI's new gh event commands let scripts wait for reviews, pull request changes, and completed check suites instead of repeatedly polling. The commands require CLI 2.105.0 or later and access to the Event Streams preview through its waitlist."
+    },
+    {
+      "url": "https://www.elastic.co/blog/how-security-leaders-see-ai-being-used-in-the-soc?utm_source=tldrdevops",
+      "title": "How security leaders see AI being used in the SOC",
+      "summary": "Elastic's survey of more than 400 security professionals found that 96% of teams use AI, but only 18% have enforced governance frameworks."
+    },
+    {
+      "url": "https://docs.gitlab.com/releases/19/gitlab-19-6-released/?utm_source=tldrdevops",
+      "title": "GitLab 19.6 released",
+      "summary": "GitLab 19.6 introduces Rapid Diffs, a rewrite that renders merge request diffs on the server and streams them to the browser, cutting first file load time to about 1.5 seconds."
+    },
+    {
+      "url": "https://www.hashicorp.com/blog/from-exposed-secrets-to-managed-credentials?utm_source=tldrdevops",
+      "title": "From exposed secrets to managed credentials: Reducing credential risk across the application lifecycle",
+      "summary": "HashiCorp argues that exposed secrets need remediation and centralized management with HCP Vault Radar and Vault."
+    }
+  ]
+}

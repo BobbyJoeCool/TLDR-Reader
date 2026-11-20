@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Hardware",
+  "date": "2026-11-20",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.blueorigin.com/news/google-selects-new-glenn-for-project-suncatcher?utm_source=tldrhardware",
+      "title": "Google books a dedicated New Glenn launch in Q1 2029 for Project Suncatcher, its orbital TPU compute constellation",
+      "summary": "Each Suncatcher satellite carries roughly a data center rack's worth of computing and runs on solar power in sun-synchronous orbit, forming an interconnected network of TPUs for machine learning compute. The mission is Google's first dedicated heavy-lift launch for the project, using New Glenn's large payload volume. The booking is for 2029 even though New Glenn's hotfire anomaly investigation is still ongoing."
+    },
+    {
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models?utm_source=tldrhardware",
+      "title": "OpenAI's models rewrite RTL for up to 14% PPA gains on AMD's flagship GPU IP and 10 to 13% smaller blocks on its Jalapeño chip",
+      "summary": "The models rewrote SystemVerilog for AMD's already-optimized GPU blocks, with some changes in a design sent for manufacturing and single-digit gains verified on its next flagship CPU. On Jalapeño, the matrix and SIMD blocks shrank 10% to 13%, confirmed in silicon, partly by rewriting adders and multipliers, including a multiplier cut from two cycles to one. OpenAI is also training GPT-Synopsys with Synopsys to drive EDA tools directly."
+    },
+    {
+      "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116?utm_source=tldrhardware",
+      "title": "Relativity finishes Terran R second-stage testing and interstage structural qualification as stage one integration nears completion",
+      "summary": "The second stage hot-fired at NASA Stennis's A2 stand, and the interstage passed structural testing on Long Beach's “Tender Loving Crusher” rig. The thrust structure, housing all 13 Aeon R engines, fluid lines, and avionics, is being mated to stage one. At LC-16, the launch table framing is done and a second pad lift cylinder has arrived. Relativity still targets a late 2026 debut, though observers expect 2027."
+    },
+    {
+      "url": "https://semiengineering.com/detachable-fiber-connectors-pose-new-challenges-for-photonics?utm_source=tldrhardware",
+      "title": "Detachable fiber connectors are emerging for CPO and NPO because standard fibers can't be reworked, tray-handled, or tested at volume",
+      "summary": "Fibers bonded to photonic chips can't be reworked if one breaks, dangle during pick-and-place, and eat die-edge shoreline, since 125 µm cladding adds up across 16 fibers. Designs now bring light out at the edge or through a 45° mirror, with lenses, snap-fit alignment, or magnets replacing active alignment. Senko and Advantest demonstrated a test connector surviving 10,000 matings with little loss variation, but there's still no standard interface."
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.24585?utm_source=tldrhardware",
+      "title": "SHAPE trains a VLA on egocentric human video with discrete action tokens and two parallel action streams for a bimanual robot with 22-DoF hands",
+      "summary": "Human video only gives retargeted end-effector actions, not the joint commands robots need. SHAPE's Qwen3-VL-4B backbone predicts discrete EEF action tokens as an auxiliary task, while a shared flow-matching expert outputs separate EEF and joint streams. Joint readout scores 0.80 across six tasks versus 0.63 for π0.5, and EEF readout via IK transfers better from humans. After human-data pretraining, it learns new tasks from human demos with no task-specific robot data."
+    },
+    {
+      "url": "https://today.ucsd.edu/story/the-fastest-soft-robot-ever-built-doesnt-need-electronics-to-function?utm_source=tldrhardware",
+      "title": "A 3D-printed, electronics-free soft hexapod hits 4.72 m/s by reusing compressed air like a compound steam engine",
+      "summary": "Higher air pressure speeds up a pneumatic robot but wastes energy, so the team routes air through small high-pressure chambers that power the valves, then through larger low-pressure chambers that move the legs, as in a compound steam engine. The six-legged robot is printed in one piece from one soft material and runs about 100 times faster than the 2022 version, over sand, mulch, and concrete, and in water. It's still tethered to an air compressor."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html?utm_source=tldrhardware",
+      "title": "California's attorney general subpoenas Nvidia over whether advanced chips or confidential information reached China",
+      "summary": "AG Rob Bonta served an investigative subpoena asking whether Nvidia's chips or confidential data ended up in China, and whether Nvidia misled investors about that risk under California securities law. The probe follows Jensen Huang's resignation and centers on Megaspeed, the Singapore data center operator suspected of diverting restricted chips, plus how Nvidia reports overseas revenue. Nvidia's market value has dropped over $1 trillion in two weeks, and it hasn't commented yet."
+    },
+    {
+      "url": "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business?utm_source=tldrhardware",
+      "title": "Meta reportedly prices its pocket-sized Muse Charm at $300 with a free year of Verizon 5G, delaying its smartwatch to 2027",
+      "summary": "Charm has a roughly 2-inch screen navigated with a thumb and a customizable Muse character at its center, and it carries the Muse AI agent into the real world. The bundled 5G data, up to 12 months from Verizon, is meant to speed Muse's responses away from Wi-Fi. Meta plans a December launch and pushed its smartwatch to 2027 to make room, and it didn't deny the pricing report."
+    },
+    {
+      "url": "https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions?utm_source=tldrhardware",
+      "title": "Fabs can use AI to search huge recipe spaces and flag defects, but autonomous process control is blocked by data gaps, agent governance, and the cost of requalifying models that keep learning",
+      "summary": "AI found better etch recipes in months where a year of manual work stalled, but each of the thousands of candidates still needs an expensive silicon experiment to validate."
+    },
+    {
+      "url": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html?utm_source=tldrhardware",
+      "title": "BepiColombo's MIXS delivers its first X-ray images after eight years in transit, ahead of Mercury orbit insertion on November 21",
+      "summary": "The Leicester-built Mercury Imaging X-ray Spectrometer imaged one of the sky's brightest X-ray sources as a calibration test."
+    },
+    {
+      "url": "https://payloadspace.com/sophia-space-tests-orbital-compute-software-on-kepler-constellation?utm_source=tldrhardware",
+      "title": "Sophia Space's orbital OS self-deploys across Kepler relay satellites using Kubernetes and triple redundancy",
+      "summary": "An alpha of SOOS copied itself across three of four Jetson Orin processors on one Kepler satellite, then hopped the optical link to a second satellite and repeated, with managed Kubernetes spreading jobs between spacecraft."
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns?utm_source=tldrhardware",
+      "title": "IEA says datacenter electricity use doubles by 2030 while US gas and Chinese coal push emissions up 70%",
+      "summary": "The IEA projects data centers going from about 120 GW today to roughly 1,000 TWh a year by 2030."
+    }
+  ]
+}

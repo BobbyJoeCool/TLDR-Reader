@@ -1,0 +1,63 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-20",
+  "articleCount": 11,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open?utm_source=tldrit",
+      "title": "Palo Alto Networks strikes $4.5 billion deal for Applied Compute",
+      "summary": "Palo Alto Networks agreed to acquire Applied Compute for $4.5 billion in stock, adding tools for training and serving customized open-weight AI models. The deal is expected to close in its fiscal third quarter of 2027 and will support deployments across public and sovereign clouds."
+    },
+    {
+      "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure?utm_source=tldrit",
+      "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
+      "summary": "Microsoft and Intel have announced an expansion of their collaboration under a long-term agreement to advance Azure cloud and AI infrastructure. Microsoft will become the first company to use Intel Foundry's EMIB advanced packaging technology for its first-party silicon and secure multi-year Intel Xeon supply capacity, including the upcoming Diamond Rapids server CPUs. The partnership also covers system-level optimizations using CXL memory, Intel QuickAssist Technology, and Intel Trust Domain Extensions for confidential computing."
+    },
+    {
+      "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Advances-EU-Sovereign-Cloud-with-New-EU-Based-Operating-Company-and-Added-Safeguards-for-Customer-Data-and-Services/default.aspx?utm_source=tldrit",
+      "title": "Workday creates European entity to govern sovereign cloud",
+      "summary": "Workday plans to establish an Ireland-based company with an EU-citizen board to operate its EU Sovereign Cloud, keeping governance and operational decisions in Europe. The service runs on AWS European Sovereign Cloud, with the new entity and additional safeguards expected to become operational in early 2027."
+    },
+    {
+      "url": "https://federalnewsnetwork.com/commentary/2026/11/when-the-legacy-software-meant-to-delivery-ai-becomes-a-trap/?utm_source=tldrit",
+      "title": "Legacy software may be holding back enterprise AI",
+      "summary": "Google Cloud's Jeanette Manfra argues that maintenance burdens and vendor lock-in are limiting organizations' AI ambitions. She cites Google-commissioned research in which 78% of surveyed technology leaders said maintaining legacy systems diverts resources from AI, and advocates greater vendor choice and stronger security requirements in procurement."
+    },
+    {
+      "url": "https://federalnewsnetwork.com/it-modernization/2026/11/it-leaders-are-deciding-which-decisions-machines-can-make-on-their-own/?utm_source=tldrit",
+      "title": "IT leaders are deciding which decisions machines can make on their own",
+      "summary": "IT leaders and chief information officers are navigating the challenges of deploying autonomous IT and generative AI tools in high-security environments. While rules-based automation and large language models help synthesize large volumes of data and accelerate cybersecurity defenses, agencies face significant hurdles regarding data readiness, over-trust in AI results, and classifying sensitive information. Organizations are addressing these challenges by establishing localized large language models, data governance structures, and strict human-in-the-loop checkpoints."
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs?utm_source=tldrit",
+      "title": "Nvidia expands Azure infrastructure and on-premises AI options",
+      "summary": "Nvidia and Microsoft are expanding access to Azure virtual machines powered by Vera Rubin systems and adding more model customization capabilities through Microsoft Foundry. Planned Azure Local support for additional Nvidia GPUs and Jetson platforms will extend deployment options to on-premises and industrial environments."
+    },
+    {
+      "url": "https://www.cloudcomputing-news.net/news/ovhcloud-cloud-ai-products-europe-sovereignty/?utm_source=tldrit",
+      "title": "OVHcloud announces 55 cloud and AI products",
+      "summary": "OVHcloud unveiled 55 cloud and AI offerings spanning infrastructure, networking, development tools, and enterprise applications at its Paris summit. The announcements include plans to add Nvidia Blackwell B300 and Rubin R200 GPUs as the company expands its European-hosted services."
+    },
+    {
+      "url": "https://commandline.microsoft.com/introducing-agent-controls-an-enterprise-control-plane-for-agent-behavior/?utm_source=tldrit",
+      "title": "Introducing agent controls: An enterprise control plane for agent behavior",
+      "summary": "Microsoft has introduced agent controls, a managed Azure service designed to help enterprises centrally define, manage, and evaluate policies governing AI agent behavior. Built on the open-source Agent Control Specification and Agent Hooks, the service brings runtime governance to heterogeneous AI agent fleets without requiring organizations to build custom policy infrastructure. It evaluates agent actions and content using content safety classifiers, LLM judges, and deterministic Rego rules."
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system?utm_source=tldrit",
+      "title": "Sashiko: Lessons from building an agentic code review system for Linux",
+      "summary": "Google's AI and Infrastructure team built Sashiko, an open-source, agentic code review system powered by Gemini designed to help maintainers review Linux kernel patches. The system separates bug finding from verification using parallel specialist sessions and per-bug deep checks. Data from seven months of production use on kernel mailing lists show that Sashiko completes about 1,200 reviews daily and correlates with a 35 percent drop in 60-day follow-up fixes for merged commits."
+    },
+    {
+      "url": "https://siliconangle.com/2026/11/19/enterprise-ai-pushing-cloud-infrastructure-beyond-gpu-kubeconna/?utm_source=tldrit",
+      "title": "Enterprise AI needs more than GPUs",
+      "summary": "AI agents also need CPUs, networking, storage, and isolated environments to execute code and interact with enterprise systems."
+    },
+    {
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-functions-network-calls/?utm_source=tldrit",
+      "title": "Amazon CloudFront Functions now supports network calls",
+      "summary": "Amazon CloudFront Functions now supports network calls, allowing lightweight JavaScript running at edge locations to make API requests and act on the responses in real time."
+    }
+  ]
+}

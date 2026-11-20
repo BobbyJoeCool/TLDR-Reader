@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Crypto",
+  "date": "2026-11-20",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://thedefiant.io/news/cefi/kraken-parent-payward-agrees-to-acquire-tribe-capital?utm_source=tldrcrypto",
+      "title": "Kraken Parent Payward Acquires Tribe Capital to Enter Private Markets",
+      "summary": "Payward, Kraken's parent, agreed to acquire Tribe Capital, a venture firm managing $2.7 billion chaired by Payward and Kraken co-CEO Arjun Sethi, with closing expected in Q1 2027 at an undisclosed price. The deal adds private-market investing to a vertical buildout that also includes the pending purchase of derivatives exchange Bitnomial, a $600 million acquisition of stablecoin payments firm Reap, and the buyout of Magic Labs' wallet business. Sethi's concurrent role as Tribe chair and Payward co-CEO positions the transaction as a formal consolidation of an already-integrated executive relationship rather than a standard external acquisition."
+    },
+    {
+      "url": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530?utm_source=tldrcrypto",
+      "title": "Ledger expands hardware hack investigation to Germany and UAE",
+      "summary": "Ledger says new tampered devices in Berlin and Dubai are the same incident as the Southeast Asia campaign, with extra hardware that captures the recovery phrase during setup, and one case involves the newer Nano Gen5. It says there is no flaw in its chip or OS and no confirmed case from ledger.com. Two users claim a combined $604,000 in losses from a Dubai-authorized reseller, and Bitquery reports about $1.68M stolen from 16 wallets in Dubai and Berlin, after earlier claims of $102M from 335 wallets in Southeast Asia. Ledger has not confirmed loss amounts and expects more devices to surface."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2122736333177360564.html?utm_source=tldrcrypto",
+      "title": "Lightspark Launches Agent Accounts for AI Agents",
+      "summary": "Lightspark announced Agent Accounts, dedicated financial accounts that give AI agents the ability to hold balances and transact autonomously across multiple payment rails and currencies. The product targets developers building agents that need native payment capabilities, positioning Lightspark's Lightning-based infrastructure as the broadest multi-method solution for agent-to-agent and agent-to-human payments."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586?utm_source=tldrcrypto",
+      "title": "Ant International launches protocol for real-time settlement",
+      "summary": "The Whale Orchestration Protocol runs on Ant's WhaleRTP platform and enables delivery-versus-payment between tokenized deposits and tokenized money market funds, developed under MAS's BLOOM initiative. Pilots with DBS and Franklin Templeton are complete. Separately, MAS issued S$100M of tokenized MAS Bills on November 6, Standard Chartered expanded tokenized deposits across Singapore and Hong Kong, and StraitsX, OCBC, and Standard Chartered finished an interoperability trial."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2122466008292090214.html?utm_source=tldrcrypto",
+      "title": "The Everything-App Race: Stickiness, Rev-Sharing, and Cross-Margin",
+      "summary": "Robinhood, Polymarket, Kalshi, Coinbase, Kraken, and Pump.fun are each expanding beyond their originating verticals, converging on a shared product surface spanning stocks, crypto spot, perps, prediction markets, and memecoins from divergent starting points across TradFi and crypto-native distribution. Three decisive factors: customer retention depth, rev-sharing structures that attract new users and retain whales, and cross-margin capability across the full product stack. No clear differentiation thesis has emerged."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2122828517385859267.html?utm_source=tldrcrypto",
+      "title": "Kalshi vs. Polymarket: Domain Experts Win",
+      "summary": "Kalshi and Polymarket launched within months of each other, but Kalshi now posts roughly 4x the volume at 3x the valuation, with a $65B raise in talks versus Polymarket's unannounced $21B round. Kalshi's MIT math founders, with prior finance careers, sued the CFTC, won regulatory standing, then expanded into single-stock perps on 50+ companies, indices, and AI compute futures this year. Polymarket became a tab inside a memecoin application, sitting beside memecoins and perps, its standalone-exchange identity absorbed into a retail crypto product. Founder background drove the split: quant-finance founders built toward prediction markets as a regulated asset class, while operator-type founders built toward distribution as the product."
+    },
+    {
+      "url": "https://x.com/Stacks/status/2123100057188852077?utm_source=tldrcrypto",
+      "title": "Why Bitcoin needs capital markets and how Stacks is building them",
+      "summary": "Bitcoin lacks yield, credit, and trading markets, and holders shouldn't have to hand over BTC to earn. Stacks' Bitcoin staking is live, with bonds targeting 3% annual yield paid in BTC from miners' Proof of Transfer commitments. The first two bonds drew 735 BTC, with Bullish staking in Bond 3 and Anchorage offering custody. In 2027, Stacks plans an open auction through PoX-6 and borrowing stablecoins against staked BTC. STX is required at 5% of the BTC value, and SIP-034 raised block capacity up to 30x, with a 100x goal."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2123121413733109813.html?utm_source=tldrcrypto",
+      "title": "Morpho and Aave are in a full BD war",
+      "summary": "Onchain lending now depends on distribution, partnerships, and integrations through neobanks, wallets, and exchanges, not just a good app. Morpho is plugging into apps people already use: Coinbase Borrow in New York, OKX Wallet on X Layer, earn products at Ledger, Bitso, Pulsar, Abra, and Deel, Robinhood Stock Tokens as collateral, and new APIs. Aave is pursuing infrastructure partners and new collateral through V4: Circle Mint, Privy, and Base for fintechs, Ethena Pay's Earn+, cirBTC, PAXGy, mWIN, and Coinbase tokenized stocks, plus the Avon acquisition for fixed-rate lending. V3 Core going blue-chip only pushes new assets to V4. The real race is owning tokenized non-crypto assets through early issuer partnerships, and most onchain lending will likely run on one of the two."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2123362003746222129.html?utm_source=tldrcrypto",
+      "title": "Hong Kong SFC adds Hyperliquid to its suspicious platforms alert list",
+      "summary": "On November 18, the SFC added Hyperliquid and Hyperliquid Hong Kong to its “Suspicious Virtual Asset Trading Platforms” list."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2123129147434185136.html?utm_source=tldrcrypto",
+      "title": "Derpetual Launches Abstract Market Launcher Tool",
+      "summary": "Derpetual launched the Abstract Market Launcher, a self-serve tool that lets users create peer-to-peer futures markets on any asset."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2123359429508665510.html?utm_source=tldrcrypto",
+      "title": "Europe regulated crypto, but can crypto businesses pay their bills?",
+      "summary": "MiCA authorisation does not guarantee access to a fiat payment account, so even authorised, funded firms can struggle to pay staff, suppliers, and advisers."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2123105249497919814.html?utm_source=tldrcrypto",
+      "title": "How long it takes to empty a crypto card",
+      "summary": "In checking withdrawal times by card, MetaMask takes no time to withdraw, ether.fi takes 10 seconds to an hour, Exa up to a minute, and Gnosis Pay 3 minutes with the card locked."
+    }
+  ]
+}

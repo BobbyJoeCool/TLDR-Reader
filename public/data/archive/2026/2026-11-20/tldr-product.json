@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-11-20",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://amycmitchell.substack.com/p/product-leadership-initiative-summary?utm_source=tldrproduct",
+      "title": "When Product Work Outgrows the Plan",
+      "summary": "When product work outgrows its original plan, PMs can use a Leadership Initiative Summary to reconnect tasks with customer value, build milestone plans, and present clear, actionable decisions to leadership."
+    },
+    {
+      "url": "https://www.aakashg.com/technical-skills-for-product-managers?utm_source=tldrproduct",
+      "title": "Tech for Product Managers: How Technical You Need to Be in 2026",
+      "summary": "PMs can build technical confidence via a four-level builder ladder starting with tools like Lovable and Claude Code. By testing on personal projects first, non-technical PMs can create internal prototypes without learning to code from scratch."
+    },
+    {
+      "url": "https://dpereira.substack.com/p/empowered-but?utm_source=tldrproduct",
+      "title": "Empowered, But…",
+      "summary": "Merging roles into AI-empowered \"product engineers\" risks creating a feature factory detached from strategy. PMs should prioritize business decisions and direct customer insight over speed."
+    },
+    {
+      "url": "https://naildrivin5.com/blog/2026/11/18/the-answer-to-slop-is-accountability.html?utm_source=tldrproduct",
+      "title": "The Answer to Slop is Accountability",
+      "summary": "Software engineering often lacks accountability for low-quality AI output. Holding product managers directly responsible for software performance helps reduce subpar AI integrations."
+    },
+    {
+      "url": "https://itamargilad.com/ice-antipatterns?utm_source=tldrproduct",
+      "title": "5 Ways You're Misusing ICE Scoring",
+      "summary": "ICE scoring is frequently misused, leading to poor prioritization. This post highlights five common anti-patterns, such as inflating confidence scores, and provides practical solutions to fix them."
+    },
+    {
+      "url": "https://boagworld.com/emails/planning-ai-features/?utm_source=tldrproduct",
+      "title": "Planning an AI feature people will actually use",
+      "summary": "This practical framework plans AI features by targeting specific user friction points rather than deploying generic chatbots. Teams should map value against risk and write capability briefs before prototyping."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/app-value-paywall?utm_source=tldrproduct",
+      "title": "6 Ways to deliver value before the paywall and settle the paywall placement debate",
+      "summary": "The paywall placement debate stems from unclear definitions of user value. This post shares six ways apps can deliver pre-paywall value effectively."
+    },
+    {
+      "url": "https://itnext.io/when-the-boss-starts-shipping-product-leaders-ai-and-the-codebase-8145d06b7df9?source=rss----5b301f10ddcd---4&amp;utm_source=tldrproduct",
+      "title": "When the Boss Starts Shipping: Product Leaders, AI and the Codebase",
+      "summary": "When leaders use AI tools to ship code directly to production, it creates hidden tech debt. Establishing separate sandbox and production lanes ensures leadership follows standard testing processes."
+    },
+    {
+      "url": "https://www.robin-cannon.com/p/the-ai-pm-is-a-decision-rights-job?utm_source=tldrproduct",
+      "title": "The AI PM is a decision-rights job",
+      "summary": "AI PM work should be structured around explicit decision rights rather than routine tasks."
+    },
+    {
+      "url": "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products?utm_source=tldrproduct",
+      "title": "Friction worth protecting when shaping products",
+      "summary": "While AI automates intent friction, teams must preserve \"problem friction\" - the hard work of exploring user needs."
+    }
+  ]
+}
