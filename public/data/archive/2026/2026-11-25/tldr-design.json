@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-11-25",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent/?utm_source=tldrdesign",
+      "title": "Google's Latest Home Page Redesign Makes Gemini Even More Prominent",
+      "summary": "Google's AI Mode now has a collapsible sidebar listing recent searches, both AI and organic, so users can jump back to earlier queries. The addition pushes Gemini further into desktop search despite complaints from users and employees. Google appears focused on keeping its AI search lead over rivals like ChatGPT and Claude."
+    },
+    {
+      "url": "https://petapixel.com/2026/11/24/new-york-times-prohibits-photographers-from-using-photoshop-2027/?utm_source=tldrdesign",
+      "title": "New York Times Prohibits Photographers From Using Photoshop 2027",
+      "summary": "The New York Times has instructed freelance photographers and contributors not to use Photoshop 2027 on Times assignments because some of its editing features incorporate generative AI without making that sufficiently apparent to users. The concern is not simply the presence of AI but the difficulty of distinguishing conventional photo editing from generative manipulation. The publication's strict ethical standards require photographs to accurately represent real events, prohibiting the addition, removal, or alteration of people and objects while allowing minimal color adjustments."
+    },
+    {
+      "url": "https://www.figma.com/release-notes/?title=figmas-agent-is-now-in-figjam-and-slides&amp;utm_source=tldrdesign",
+      "title": "Figma's Agent is Now in FigJam and Slides",
+      "summary": "Figma's agent is now generally available in FigJam and Figma Slides on all paid plans, with connectors and attachments supported in both. It pulls context from tools like Hex, Slack, and Asana to generate boards, diagrams, and decks. Messy FigJam boards become organized Specs, and decks can start from a Spec outline and brand template."
+    },
+    {
+      "url": "https://blog.ronbronson.com/forward-deployed-design-as-plumbing?utm_source=tldrdesign",
+      "title": "Forward-Deployed Design As Plumbing",
+      "summary": "Forward-deployed design positions designers as hands-on problem solvers who address underlying organizational and operational issues rather than simply improving interfaces. As AI makes software development more accessible, the greatest obstacles to improving public services increasingly involve coordination between institutions, governance, permissions, and competing responsibilities. Experimental public-service prototypes developed in a University of Michigan classroom demonstrate how designers can use functional software to expose these institutional barriers and explore practical solutions."
+    },
+    {
+      "url": "https://karlkoch.me/writing/connecting-the-tools-is-becoming-the-work/?utm_source=tldrdesign",
+      "title": "Connecting the Tools is Becoming the Work",
+      "summary": "With DuckDuckGo engineering now running a shared AI coding harness, the constraint has shifted to manual handoffs between separate AI design and engineering tools. A small machine-readable design spec at each stage, carrying the chosen direction, screenshots, strings, and tokens, would give the next stage enough to act on. A design check would then run inside the coding agent's loop and again in CI, flagging low scores for a designer."
+    },
+    {
+      "url": "https://uxforai.com/p/the-ai-problems-nobody-has-solved-yet?utm_source=tldrdesign",
+      "title": "The AI Problems Nobody Has Solved Yet",
+      "summary": "An internal UX assessment of Meta AI across Facebook, Instagram, and WhatsApp revealed fundamental challenges in evaluating experiences that produce unpredictable responses. Traditional usability methods struggle to accommodate inconsistent outputs, variable response times, and hallucinations that appear just as convincing as accurate information. Designing effective AI experiences requires new approaches to evaluating model performance, communicating uncertainty, managing user expectations, and establishing responsibility for detecting errors."
+    },
+    {
+      "url": "https://tegaki.ink/?utm_source=tldrdesign",
+      "title": "Handwriting Animation Library & Generator for Any Font (Website)",
+      "summary": "An open-source handwriting animation library for any font. Tegaki extracts each glyph's strokes, their order and width, and draws them stroke by stroke on a canvas over real, selectable text."
+    },
+    {
+      "url": "https://ui.watermelon.sh/?utm_source=tldrdesign",
+      "title": "Free React Components, Blocks & Dashboards (Website)",
+      "summary": "600+ free, open-source UI components crafted for the design community."
+    },
+    {
+      "url": "https://mermaid.ai/?utm_source=tldrdesign",
+      "title": "AI-Powered Diagramming & Text-to-Chart Tool (Website)",
+      "summary": "Prompt inside the canvas, drop in a doc, or write it in code, and watch the diagram build itself."
+    },
+    {
+      "url": "https://www.creativebloq.com/news/this-beautiful-logo-design-was-created-to-grow-like-nature?utm_source=tldrdesign",
+      "title": "This beautiful logo design was created to grow like nature",
+      "summary": "Philadelphia-based Smith & Diction has redesigned the Pennsylvania Horticultural Society's identity ahead of its 200th anniversary, replacing a generic tree emblem with a dynamic representation of plant life. The new PHS lettermark acts as a root system from which different native plants grow, with illustrations by Summer McClure arranged within rectangles inspired by Philadelphia's street grid. Frame-by-frame animations by Henrique Barone depict plants growing from the letterforms, while additional animations and a printed flipbook bring the identity's organic movement to life."
+    },
+    {
+      "url": "https://designworklife.com/how-material-constraints-sharpen-design-thinking-for-physical-projects/?utm_source=tldrdesign",
+      "title": "How Material Constraints Sharpen Design Thinking for Physical Projects",
+      "summary": "Budget, environment, and lifespan give designers concrete criteria for revisiting choices made on screen before anything goes to production. Pentagram's bronze drain covers, PUMA's Clever Little Bag with 65% less cardboard than a shoebox, and the Eames plywood chair show constraints shaping form. Full-size samples, each testing one defined question, settle what flat layouts and renderings leave open."
+    },
+    {
+      "url": "https://blog.maximeheckel.com/posts/lighting-that-feels-just-right/?utm_source=tldrdesign",
+      "title": "Lighting That Feels Just Right",
+      "summary": "Real-time global illumination supplies what simple Blinn-Phong lighting lacks: light that bounces, bleeds color, and tints neighboring surfaces. Screen-Space Global Illumination comes first, followed by a more practical probe-based approach to estimating indirect light in browser-based 3D scenes. Reflections, sky light, volumetric lighting, and atmospheric scattering are then layered on for the finished look."
+    },
+    {
+      "url": "https://www.creativebloq.com/news/i-dare-apple-to-make-this-delightful-airpods-design-a-reality?utm_source=tldrdesign",
+      "title": "I Dare Apple to Make this Delightful AirPods Design a Reality",
+      "summary": "Concept artist Anand Krishnavi's \"AirPods G3\" are based on the iMac G3 and use colorful translucent plastic that shows the parts inside, unlike Apple's white-only in-ear AirPods."
+    },
+    {
+      "url": "https://www.designboom.com/art/when-bees-humans-make-art-together/?utm_source=tldrdesign",
+      "title": "Inside Ava Roth's Artistic Collaboration with Thousands of Tiny Bee Workers",
+      "summary": "Artist Ava Roth places broken ceramics, frames, textiles, and embroidery hoops inside beehives, where bees bind the pieces together with honeycomb."
+    },
+    {
+      "url": "https://www.creativebloq.com/features/font-vs-typeface?utm_source=tldrdesign",
+      "title": "Font vs typeface: the ultimate guide",
+      "summary": "A typeface describes a shared visual design across a family of characters, while a font traditionally refers to a particular weight, width, and style or its corresponding digital file, although variable fonts have blurred this distinction by combining multiple styles within a single file."
+    }
+  ]
+}

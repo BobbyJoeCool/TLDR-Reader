@@ -2,6 +2,12 @@
   "year": 2026,
   "weeks": [
     {
+      "weekStart": "2026-11-23",
+      "days": {
+        "wednesday": "2026-11-25"
+      }
+    },
+    {
       "weekStart": "2026-11-16",
       "days": {
         "monday": "2026-11-16",

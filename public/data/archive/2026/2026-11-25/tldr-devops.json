@@ -1,0 +1,68 @@
+{
+  "name": "TLDR DevOps",
+  "date": "2026-11-25",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://openai.com/index/introducing-shirudo?utm_source=tldrdevops",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "Shirudo is an open-source runtime that protects running Linux systems without requiring patches or restarts. It uses eBPF to block vulnerable code paths, allowing services to continue operating while security teams apply temporary safeguards. OpenAI and Cisco released Shirudo under a BSD 2-Clause license."
+    },
+    {
+      "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/?utm_source=tldrdevops",
+      "title": "Kubernetes v1.38 Sneak Peek",
+      "summary": "Kubernetes v1.38 is expected to change how kubelets obtain their cgroup driver, requiring container runtimes to report it through CRI by default. The release also removes kubectl's WebSocket opt-out environment variables and drops the deprecated name alias from stable kuberc credential-plugin allowlists. Operators should check runtime compatibility and continue migrating nodes to cgroup v2 ahead of its eventual requirement."
+    },
+    {
+      "url": "https://fly.io/blog/holding-the-door-for-agents/?utm_source=tldrdevops",
+      "title": "Holding the Door for Agents",
+      "summary": "Agents now perform at least 55% of deployments to Fly.io, and bots recently surpassed humans in web traffic for the first time. Fly.io now supports auth.md for agent signup and the Machine Payments Protocol, which lets agents top up accounts without human intervention."
+    },
+    {
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/?utm_source=tldrdevops",
+      "title": "Probing DNS at Cloudflare",
+      "summary": "A scheduling bug left DNS record changes unpublished for hours while Cloudflare's service health checks stayed green. Cloudflare extended its Flamingo testing framework to continuously update timestamped TXT records and query authoritative nameservers and 1.1.1.1 from every data center. These propagation measurements now inform release and rollback decisions."
+    },
+    {
+      "url": "https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding?utm_source=tldrdevops",
+      "title": "Why you shouldn't do application-level sharding",
+      "summary": "Application-level sharding embeds routing logic in application code, but creates operational burdens like difficult resharding and cross-shard queries. The article details how companies like Intercom, Etsy, and Slack faced complexities including manual data migrations, reliance on single lookup tables that risked outages, and underutilized infrastructure to avoid difficult splits."
+    },
+    {
+      "url": "https://github.com/mvanhorn/last30days-skill?utm_source=tldrdevops",
+      "title": "Last30days-skill (GitHub Repo)",
+      "summary": "Last30days-skill is an AI agent that researches topics across Reddit, X, YouTube, and other platforms to synthesize a summary. It ranks results by social engagement metrics like upvotes and likes rather than SEO."
+    },
+    {
+      "url": "https://github.com/nklmilojevic/sofka?utm_source=tldrdevops",
+      "title": "sofka (GitHub Repo)",
+      "summary": "sofka is a Kubernetes terminal interface written in Rust with built-in Flux CD and Argo CD actions, custom resource browsing, and background port forwarding. Its evidence-based incident view explains unhealthy resources without an AI service, while read-only mode and configurable guardrails restrict destructive actions."
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_source=tldrdevops",
+      "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
+      "summary": "Mad Labs CEO Manju Rajashekhar told QCon San Francisco 2026 that the harness around a model, not the model itself, determines what an agent can do safely. He mapped harness components such as context, tools, and permissions onto operating system functions."
+    },
+    {
+      "url": "https://newrelic.com/blog/observability/govern-observability-spend?utm_source=tldrdevops",
+      "title": "Govern Your Observability Spend So Your Teams Can Keep Building",
+      "summary": "New Relic argues that teams need visible, estimable, and controllable observability spend so cost does not discourage use. It proposes governing Data and Compute meters through a four-stage loop of Set Up, Control, Track, and Optimize."
+    },
+    {
+      "url": "https://www.harness.io/blog/is-your-jenkins-pipeline-ready-for-what-cursor-just-handed-you?utm_source=tldrdevops",
+      "title": "Jenkins CI Bottlenecks: How Harness Helps Teams Scale CI",
+      "summary": "AI coding tools like Cursor raise pull request volume enough to overload Jenkins build queues."
+    },
+    {
+      "url": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai?utm_source=tldrdevops",
+      "title": "Engineering vitals in the age of AI",
+      "summary": "Teams should measure delivery and quality vitals before business value."
+    },
+    {
+      "url": "https://grafana.com/blog/find-the-log-line-that-matters-faster-with-full-text-search-in-grafana-cloud-logs/?utm_source=tldrdevops",
+      "title": "Find the log line that matters faster with full-text search in Grafana Cloud Logs",
+      "summary": "Grafana Labs made full-text search generally available in Grafana Cloud Logs, built on technology it acquired in April."
+    }
+  ]
+}

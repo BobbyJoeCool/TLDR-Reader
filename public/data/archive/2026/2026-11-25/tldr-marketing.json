@@ -1,0 +1,68 @@
+{
+  "name": "TLDR Marketing",
+  "date": "2026-11-25",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.accenture.com/content/dam/accenture/final/accenture-com/document-fy27/q1/LifeTrends-FY27-Report.pdf?utm_source=tldrmarketing",
+      "title": "Accenture Life Trends 2027",
+      "summary": "Consumers are embracing innovation while seeking more human connection and control. AI-generated content is driving interest in human-made media and private communities. Concerns about technology's impact on local communities are increasing demand for transparency and accountability. Biotech breakthroughs are raising healthcare expectations while AI and digital platforms help people build independent income streams. Meanwhile, wellness culture is fueling fatigue as constant self-improvement becomes exhausting."
+    },
+    {
+      "url": "https://growtika.com/blog/wikipedia-traffic-study?utm_source=tldrmarketing",
+      "title": "Wikipedia explainers lost a median 40% of views since 2022, biographies lost 9%",
+      "summary": "Explainer pages that an AI answer can cover in two lines lost the most traffic, while pages about people held up. For instance, photosynthesis fell from 79,000 monthly views to 45,000, and Napoleon only slipped from 365,000 to 346,000. Nearly all of the topic decline came in the two years after Google launched AI Overviews, and the pre-2022 trend of about 5% drop a year explains only half of it."
+    },
+    {
+      "url": "https://block.xyz/inside/why-many-people-who-can-pay-upfront-are-choosing-to-pay-over-time?utm_source=tldrmarketing",
+      "title": "Why many people who can pay upfront are choosing to pay over time",
+      "summary": "Consumers increasingly use buy now, pay later products to manage cash flow and preserve savings, even when they can afford to pay upfront. In the survey, 58% of deferred-payment users had used these products to keep money in savings or investments, while 47% of financed transactions could have been paid upfront. Fixed payment schedules also appeal to consumers, as 57% prefer predictable payments over flexible, open-ended credit. These patterns show how credit products can serve different financial needs, from avoiding credit card interest to covering expenses while waiting for a paycheck."
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/your-ai-already-has-brand-doc-heres-why-drafts-still-generic-nathan-3kqec/?utm_source=tldrmarketing",
+      "title": "Your AI already has your brand doc. Here's why the drafts are still generic",
+      "summary": "AI drafts often sound generic because brand guidelines rely on vague adjectives instead of specific customer and product knowledge. Build a one-page “Brand Brain” with customer pain points in their own words and value propositions backed by proof. Include what your product does and doesn't do alongside an unedited writing sample. Test it by running the same prompt with and without this context. Compare the results and refine the document wherever the output still sounds generic or makes unsupported claims."
+    },
+    {
+      "url": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/?_bhlid=69388f73d490a56550c8fc8572ae2fa34ceae003&amp;utm_source=tldrmarketing",
+      "title": "Google's ‘Top 10' Line for CMOs Points at Generic Tips Posts",
+      "summary": "Google is urging brands to replace generic ‘tips' posts with content built on first-hand expertise. Its example contrasts a generic “Top 10 Things to Consider” article with a detailed analysis of why a specific customer's running shoes failed. The guidance also encourages brands to optimize for conversational searches rather than just keywords and measure performance through leads and sales instead of proxy metrics. Google Search's own AI guide makes the same distinction between common knowledge and original experience."
+    },
+    {
+      "url": "https://www.snipd.app/?utm_source=tldrmarketing",
+      "title": "Snipd (Website)",
+      "summary": "Snipd helps users capture and revisit insights while listening. Tapping your headphones saves a podcast segment with its audio, transcript, and AI-generated summary. Users can also chat with episodes to find specific information and get answers. Highlights can be exported to tools like Notion, Readwise, and Obsidian for future reference."
+    },
+    {
+      "url": "https://app.sciencesays.com/p/made-with-ai-ads-hurt-your-brand?utm_source=tldrmarketing",
+      "title": "“Made with AI” ads hurt your brand",
+      "summary": "AI disclosure labels can hurt ad performance and brand perception, especially when brands explain why they used AI. Across three experiments, 82% to 92% of people who noticed an AI label assumed the company used AI primarily to benefit itself, such as cutting costs. Explanations about improving quality or benefiting consumers did little to change that perception and made people rate ads less favorably. Avoid using AI for emotional brand messaging, where consumers are 24.6% less likely to recommend the brand, and use it instead to refine creative ideas or support post-production. If disclosure is required, keep the label simple rather than explaining your reasons for using AI."
+    },
+    {
+      "url": "https://phys.org/news/2026-11-consumers-oblivious-online-ads.html?utm_source=tldrmarketing",
+      "title": "Consumers, oblivious of being targeted, find online ads helpful",
+      "summary": "Telling people why they're seeing an ad made them feel more watched, even when the ad wasn't retargeted at all. Retargeting itself mostly landed as helpful, raising click intention as ads for a product viewed earlier followed people across sites. The more sites those ads appeared on, though, the stronger the sense of surveillance and the worse people felt about ads. Offering controls over ad topics alongside the explanation could offset that effect."
+    },
+    {
+      "url": "https://learn.thedesignsystem.guide/p/craft-first-ai-second?utm_source=tldrmarketing",
+      "title": "Craft first, AI second",
+      "summary": "AI should support design craft rather than replace it. Start by sketching ideas and refining features before turning to AI for building and iteration. Too many tools and constant reviewing can create cognitive overload. A focused workflow with 2-3 tools is more manageable. Better results also come from precise prompts instead of vague instructions. Build a library of inspiring screenshots and interactions. Save feedback and design decisions to help AI better match your taste and reduce back-and-forth."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/cspenn_as-you-have-no-doubt-seen-everyone-and-their-share-7530752403898503168-WzM7/?utm_source=tldrmarketing",
+      "title": "Download LinkedIn connections before Dec. 2",
+      "summary": "Download your LinkedIn connections before December 2 to preserve job titles and company data, and save an unmodified copy for future reference."
+    },
+    {
+      "url": "https://www.systm.co/post/why-confusing-ads-still-work?utm_source=tldrmarketing",
+      "title": "Why confusing ads still work",
+      "summary": "Viewers who see their own problem in an ad want to learn more even when they can't say what the product does, so copy should describe the customer's situation rather than the company."
+    },
+    {
+      "url": "https://wersm.com/airlines-turning-passenger-data-into-media-networks/?utm_source=tldrmarketing",
+      "title": "Airlines Are Turning Their Passenger Data Into Media Networks",
+      "summary": "Knowing where and when passengers travel makes airline audiences valuable to brands, but the same precision risks making passengers feel followed."
+    }
+  ]
+}

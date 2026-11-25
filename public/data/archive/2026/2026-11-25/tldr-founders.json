@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-25",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://blog.galratner.com/p/ai-is-a-customer-repellent?utm_source=tldrfounders",
+      "title": "AI Is a Customer Repellent",
+      "summary": "Companies have significantly raised AI spending in customer service without much return. People are more likely to take their problems to third-party AI providers than to talk to company-owned chatbots. Use AI where it makes things better without asking anyone to talk to it."
+    },
+    {
+      "url": "https://www.focusedchaos.co/p/inside-the-pay-per-job-ai-business?utm_source=tldrfounders",
+      "title": "Inside the Pay-Per-Job AI Business Model",
+      "summary": "Startups selling AI work have to decide who pays for retries and unusable results. An operator building an AI research product compares charging for effort against charging for a delivered output or a successful outcome. Candor bills per synthetic interview while buyers think in studies of 15 to 24 interviews, so the cost unit differs from what customers buy. True gross profit per paid job must include retries and free trials alongside model costs and human review. Repeat demand follows a natural cycle, so teams should wait that full window before judging a cohort."
+    },
+    {
+      "url": "https://operatorsnotebook.beehiiv.com/p/the-ai-slop-era-rewards-one-thing?utm_source=tldrfounders",
+      "title": "The AI slop era rewards one thing…",
+      "summary": "Picking creators by follower count often misses real engagement in feeds full of AI content. Cal AI evaluated more than 10,000 creators and signed over 300. The company looked for real conversations in a creator's comments rather than follower count or emoji replies. Cal AI paid creators fully upfront to earn their trust. Test hooks cheaply with AI-generated creative and then film the winning concepts with real people before scaling."
+    },
+    {
+      "url": "https://www.systm.co/post/why-confusing-ads-still-work?utm_source=tldrfounders",
+      "title": "Why confusing ads still work",
+      "summary": "Ads and landing pages can still spark interest even when readers do not fully understand them. A growth firm reanalyzed user-test responses and measured whether people wanted to learn more. Actual understanding explained 3% of the variation in interest, while relatability explained 58%. Relatability was the strongest predictor in these tests, so audit your copy by counting sentences about your company against sentences about the customer's situation. Then show the message to a small group of target customers and ask who they think it is for."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME",
+      "title": "Become a founding member of TLDR’s AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://claude.com/resources/articles/install-as-app?utm_source=tldrfounders",
+      "title": "Turn artifacts into Mac and Windows apps",
+      "summary": "Claude artifacts can now be used to create, run, and share desktop apps. Artifacts get their own icon and open in their own window when installed as a Mac or Windows app. Each app can use Claude and connectors, and they update automatically when the underlying artifact is edited. The new update simplifies the process for building and maintaining apps for both knowledge workers and developers."
+    },
+    {
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more?utm_source=tldrfounders",
+      "title": "MCP servers can now ship skills, run tasks, and more with Claude (Tool)",
+      "summary": "Claude now lets MCP servers ship workflow skills in public beta for jobs like updating a Shopify store, enabled by default for Pro/Max/Ultra and available to Team after admin enablement. Tasks for long-running work and Elicitation for requesting user input or approval are generally available in Claude and Claude Code on Pro/Max/Ultra as rollout continues to Team and Enterprise."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html?utm_source=tldrfounders",
+      "title": "Simplifying agent access while keeping organizations in control: MCP servers, CLI, standardized usage tiers, and admin policies (Tool)",
+      "summary": "Google Workspace is rolling out generally available MCP servers and its official CLI across apps like Gmail and Drive over two weeks. Standard usage is free within published quotas, while agents must switch from direct REST APIs to MCP by February 1, 2027, with Scaled tier billing starting April 1, 2027."
+    },
+    {
+      "url": "https://community.tldr.tech/t/what-new-work-habits-have-you-picked-up-as-you-ve-started-using-ai-mor?utm_source=tldrfounders",
+      "title": "What new work habits have you picked up as you've started using AI more? (TLDR Community)",
+      "summary": "10-minute walks when a coding agent starts going in circles, foot pedals to screenshot bugs, rambling voice notes that then get edited down. Add yours →"
+    },
+    {
+      "url": "https://www.elliotcsmith.com/saas-that-survives/?utm_source=tldrfounders",
+      "title": "SaaS that Survives",
+      "summary": "There's always been a category of software that existed to only serve the niche of 'software skill gap'. People buy software to get a job done when the ROI on figuring out the task themselves never really pays off. AI now makes it possible for people to build their own solutions. While the game has certainly changed, there's still plenty of opportunity to build software companies."
+    },
+    {
+      "url": "https://www.jeremyutley.com/blog/your-worst-managed-employee-will-never-quit?utm_source=tldrfounders",
+      "title": "Your Worst-Managed Employee Will Never Quit",
+      "summary": "A writer canceled a virtual assistant's contract after failing to give enough context for social posts or review the drafts."
+    },
+    {
+      "url": "https://newsletter.angularventures.com/p/the-forest-found-me?utm_source=tldrfounders",
+      "title": "The forest found me",
+      "summary": "Venture capitalists are fighting yesterday's war with yesterday's models and tools."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/after-token-leaderboards-and-spending-caps-snowflake-has-a-third-idea-keep-the-cap-then-learn-from-whoever-breaks-it?utm_source=tldrfounders",
+      "title": "After token leaderboards and spending caps, Snowflake has a third idea: Keep the cap, then learn from whoever breaks it",
+      "summary": "The overrun is a possible lead on a workflow that other employees could copy."
+    },
+    {
+      "url": "https://marcrandolph.substack.com/p/love-is-not-a-business-model?utm_source=tldrfounders",
+      "title": "Love Is Not a Business Model",
+      "summary": "A career-exploration startup copied Duolingo's daily-use features but lost its happiest users once they chose a career and no longer needed it."
+    },
+    {
+      "url": "https://crewai.com/newsletter/youre-overpaying-for-ai-heres-why?utm_source=tldrfounders",
+      "title": "You're Overpaying for AI. Here's Why",
+      "summary": "Enterprises are overspending on AI as agentic workflows require excessive token consumption, unlike simpler chat models."
+    }
+  ]
+}
