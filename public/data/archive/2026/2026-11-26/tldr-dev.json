@@ -1,0 +1,88 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-26",
+  "articleCount": 16,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms?utm_source=tldrdev",
+      "title": "Scaling Swarms to Thousands of Agents",
+      "summary": "Hugging Face grew a swarm to 1,000 DeepSeek agents over nine days to build PyBot, a pure Python chatbot that matched SmolLM-360M on everyday conversations in its evaluation. The run generated 175,000 messages and more than 8,500 merged pull requests, exposing bottlenecks in inference, tool calls, and Git."
+    },
+    {
+      "url": "https://useautumn.com/blog/moving-credit-deductions-off-redis-and-onto-kafka?utm_source=tldrdev",
+      "title": "We got rid of Redis and made our API 4x faster",
+      "summary": "Autumn replaced its Redis write-behind cache with an ordered Kafka log and a single balance writer per customer, with Postgres catching up in batches. After rollout, p99 latency for tracking requests fell from 108 ms to 25 ms while weekly check and track volume rose 28%."
+    },
+    {
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust?utm_source=tldrdev",
+      "title": "Migrating our Messages API to Rust",
+      "summary": "Anthropic shadowed live traffic to verify that its Rust Messages API matched the Python version, replaying the same model output through both implementations to isolate differences. The migration cut CPU usage per request by about 70% and median time to first token by about 20% without downtime or a feature freeze."
+    },
+    {
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools?utm_source=tldrdev",
+      "title": "Smart People Who Give a Shit Use Tools",
+      "summary": "LLMs amplify engineers' existing habits, making it easier to write formal specs, trace callers through a monorepo, and test edge cases, while also making it easier to ship code nobody understands. Teams should judge AI-assisted work by how thoroughly engineers verify it and who takes responsibility when it breaks."
+    },
+    {
+      "url": "https://www.seangoedecke.com/party-tricks/?utm_source=tldrdev",
+      "title": "Crushing JIRA tickets is a party trick, not a path to impact",
+      "summary": "Engineers can create more impact by shipping projects tied to company priorities than by maximizing ticket count. Help with visible incidents, unblock teammates, and check what would get a priority project shipped before pulling another ticket from the board."
+    },
+    {
+      "url": "https://scottaaronson.blog/?p=10379&amp;utm_source=tldrdev",
+      "title": "HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT",
+      "summary": "AI labs are reporting results on longstanding math problems, including matching upper and lower bounds for matrix multiplication and the Fourier transform. Lower bounds are a particularly striking sign of progress. A proof of P ≠ NP may soon be within reach."
+    },
+    {
+      "url": "https://blog.cloudflare.com/search-for-agents?utm_source=tldrdev",
+      "title": "Introducing Search for Agents",
+      "summary": "Cloudflare's Search for Agents toggle crawls and indexes a website and exposes a discoverable search endpoint on the site's own domain. The endpoint accepts keyword or natural language queries and returns matching content in Markdown with source references."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME",
+      "title": "Become a founding member of TLDR’s AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://github.com/tianma-if/edgeever?utm_source=tldrdev",
+      "title": "EdgeEver (GitHub Repo)",
+      "summary": "EdgeEver is a self-hosted note-taking and knowledge base app with cross-device sync, a browser clipper that saves articles as Markdown, and an MCP endpoint for AI agents. It can run on Cloudflare Workers or in Docker."
+    },
+    {
+      "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/?utm_source=tldrdev",
+      "title": "The beauty of CSS mixins",
+      "summary": "Native CSS mixins let developers reuse blocks of declarations and nested rules, with support for parameters, defaults, and conditional rules. A theming demo shows how mixins can give customers styling hooks while the site controls its markup, and it runs behind an experimental flag in Chromium."
+    },
+    {
+      "url": "https://x.com/RampLabs/status/2125625946229064118?utm_source=tldrdev",
+      "title": "Speculative Encoding: Many-to-Many Cache Translation",
+      "summary": "Ramp Labs trained one translator to map hidden states across 42 directions between seven models, letting the receiving model build its key-value cache without rereading the source text. On 32,000-token documents, the receiving model began answering four times faster than with native prefill and retained over 90% of its accuracy."
+    },
+    {
+      "url": "https://huggingface.co/spaces/dlouapre/looped-transformers?utm_source=tldrdev",
+      "title": "Looped Transformers: Thinking twice with the same weights",
+      "summary": "Inkling 2 Mini and GLM-5.4 run some transformer layers multiple times per token, adding computation without adding weights. In a small chain-following experiment, increasing from one to six passes raised the longest chain solved at 90% accuracy from 7 to 36 hops, while extra passes did little for factual recall."
+    },
+    {
+      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/?utm_source=tldrdev",
+      "title": "When in doubt, flail about",
+      "summary": "When the path forward is unclear, try several small experiments, pay close attention to feedback, and quickly drop ideas that show little promise."
+    },
+    {
+      "url": "https://zarar.dev/software-factory/?utm_source=tldrdev",
+      "title": "What does your software factory cost? (Website)",
+      "summary": "An interactive simulator estimates the cost per shipped feature over six months as you vary staffing, coding agents, review capacity, and bug rates."
+    },
+    {
+      "url": "https://modaic.dev/blog/latency-doesnt-lie?utm_source=tldrdev",
+      "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B!",
+      "summary": "Modaic used tokenizer, latency, and throughput tests to infer that TypeSafe's Jev likely runs on Qwen3.5-35B-A3B."
+    },
+    {
+      "url": "https://brycewatson.com/research/rauch-software-factory/?utm_source=tldrdev",
+      "title": "Guillermo Rauch's software factory and the agent internet",
+      "summary": "Interview notes describe Vercel's approach to turning support tickets and other customer feedback into agent-written product changes."
+    }
+  ]
+}

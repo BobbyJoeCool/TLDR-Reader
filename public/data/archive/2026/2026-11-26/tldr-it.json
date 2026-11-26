@@ -1,0 +1,68 @@
+{
+  "name": "TLDR IT",
+  "date": "2026-11-26",
+  "articleCount": 12,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24/?utm_source=tldrit",
+      "title": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast",
+      "summary": "HPE shares fell about 16% after lower margin expectations overshadowed an improved fiscal 2027 revenue-growth forecast of 27–35%. Fourth-quarter revenue increased 50% to $14.55 billion, helped by strong AI server demand. CFO Marie Myers said component costs are rising faster than selling prices, with further margin pressure expected as AI server shipments increase in the second half of the fiscal year."
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/?utm_source=tldrit",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "summary": "Rackspace will permanently discontinue its Spot Kubernetes service on December 8 at 5 PM Central following a security breach. Customers must migrate workloads and download their data before that deadline, when remaining workloads will be terminated and stored data will become inaccessible. All Spot customers are being told to treat API tokens, kubeconfigs, and Kubernetes Secrets as potentially compromised, even if they did not receive an earlier breach notification. Rackspace says it has found no evidence that the incident extended to its core infrastructure or other customer environments."
+    },
+    {
+      "url": "https://www.itpro.com/artificial-intelligence/ai-infrastructure/european-it-spending-set-for-9-9-percent-surge-in-2027-amid-ai-optimized-server-boom?utm_source=tldrit",
+      "title": "European IT spending set for 9.9% surge in 2027 amid AI-optimized server boom",
+      "summary": "Gartner expects European IT spending to reach $1.57 trillion in 2027, up 9.9% from 2026. Data-center spending is forecast to reach $167.6 billion, while software spending climbs 13.3% to $385.2 billion. AI infrastructure demand and higher server prices are driving much of the increase. Gartner also expects software purchasing to shift from individual AI agents toward systems that coordinate workflows across multiple business functions."
+    },
+    {
+      "url": "https://www.cio.com/article/4252566/do-legacy-systems-wear-out.html?utm_source=tldrit",
+      "title": "Do legacy systems wear out?",
+      "summary": "This post examines how maintenance and vendor support shape the reliability of aging infrastructure. Hardware components deteriorate, but replacement parts, monitoring, and redundancy can keep an older platform operating reliably. Software presents a different challenge: changing workloads, missing patches, and the end of vendor support can make a functioning system increasingly risky. Upgrade or retire software before support ends, while maintaining the skills and parts needed to operate older hardware."
+    },
+    {
+      "url": "https://www.cio.com/article/4252552/i-built-an-ai-agent-it-broke-my-assumptions-about-my-own-team.html?utm_source=tldrit",
+      "title": "I built an AI agent. It broke my assumptions about my own team",
+      "summary": "CTO Matthew Finlayson describes building four versions of an agent to route customer issues to engineering teams. The project revealed that assignments depended on undocumented ownership rules, exceptions, and judgment that managers explained through reviewing real cases. He reports that their feedback helped improve routing accuracy from about 60% to 95%. The experience also shaped how he evaluated the project, including access to the right systems, ongoing validation, operating costs, and the amount of manual work removed."
+    },
+    {
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more?utm_source=tldrit",
+      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "summary": "Anthropic has launched Skills over MCP in public beta for Claude, allowing Model Context Protocol servers to publish specific workflows and guidance alongside their tools. Additionally, the company announced that Tasks and Elicitation features are now generally available to support long-running, interactive work and user sign-offs, with File Uploads rolling out soon."
+    },
+    {
+      "url": "https://www.datadoghq.com/blog/bits-maintenance/?utm_source=tldrit",
+      "title": "Introducing Bits Maintenance, your AI teammate for infrastructure patching and upgrades",
+      "summary": "Datadog is introducing Bits Maintenance, an AI teammate designed to automate infrastructure patching and upgrades for open source software. Currently available in preview, the tool tracks releases and vulnerabilities, analyzes changes against environment configurations, generates tailored upgrade plans, and executes pull requests based on user-defined guardrails."
+    },
+    {
+      "url": "https://www.computerweekly.com/news/366654875/Interview-Rani-Johnson-CIO-Workday?utm_source=tldrit",
+      "title": "How Workday's CIO Is Preparing IT for the AI Era",
+      "summary": "Workday CIO Rani Johnson discusses rebuilding the company's data lake, identity infrastructure, and Salesforce environment to create a stronger foundation for AI. She describes aligning IT roadmaps with business priorities and agreeing on how the value of investments will be measured. Johnson says partnering with learning and development helped raise enterprise AI adoption from below 50% to over 96% by addressing skills and behavior changes. She also argues that CIOs should actively create career opportunities for their teams as technology changes the work they perform."
+    },
+    {
+      "url": "https://techcommunity.microsoft.com/blog/devicemanagementmicrosoft/modernizing-retail-kiosks-with-windows-autopilot-and-microsoft-intune/4576553?utm_source=tldrit",
+      "title": "Modernizing Retail Kiosks with Windows Autopilot and Microsoft Intune",
+      "summary": "Microsoft outlines how it moved retail checkout devices from domain-joined, Configuration Manager-managed builds to Windows Autopilot and Intune. The new setup uses Windows 11 Enterprise LTSC, Microsoft Entra join, and provisioning without an individual user account. The team registered existing devices before cutover, separated pilot and production deployments, and used device certificates for Wi-Fi access. The case study also explains how the checkout application replaces the standard Windows desktop and how application servicing accommodates store operations."
+    },
+    {
+      "url": "https://workspaceupdates.googleblog.com/2026/11/rooms-more-actions-panel-reordering.html?utm_source=tldrit",
+      "title": "Rooms \"More actions\" Panel Reordering",
+      "summary": "Google Meet room-controller menus will prioritize frequently used controls, with Early Preview rollout starting December 2 and wider rollout starting December 11."
+    },
+    {
+      "url": "https://www.openproject.org/blog/itzbund-jira-alternative-openproject/?utm_source=tldrit",
+      "title": "From Jira to OpenProject: A major milestone for digital sovereignty in Germany",
+      "summary": "Germany's central federal IT provider, ITZBund, chose OpenProject as an open-source alternative to Atlassian Jira."
+    },
+    {
+      "url": "https://leaddev.com/ai/inside-capital-ones-multi-agent-system?utm_source=tldrit",
+      "title": "Inside Capital One's multi-agent system",
+      "summary": "Capital One cut human edit rates for AI-generated customer support summaries by about 80% with its MACAW agent system."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-11-26",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/?utm_source=tldrdesign",
+      "title": "Figma Employee Sues, Alleging Company Forced Her to Confront Harassers",
+      "summary": "A Figma engineer is suing the company and CEO Dylan Field, alleging managers and HR repeatedly told her to confront the people she accused of harassment. The suit ties that response to Figma's culture of \"direct feedback\" and also alleges racial and gender discrimination. Figma calls the claims meritless, saying it tolerates neither harassment nor extortion."
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/google-brings-15-second-clips-and-scene-extension-to-flow-with-omni-1-2/?utm_source=tldrdesign",
+      "title": "Google brings 15-second clips and scene extension to Flow with Omni 1.2",
+      "summary": "Google has upgraded its AI filmmaking tool Flow with Gemini Omni 1.2 Flash, enabling users to generate continuous video clips up to 15 seconds long. New capabilities include extending existing clips by up to 10 seconds per prompt, introducing characters or props through image references, and restaging scenes while preserving their composition. Free users receive 50 daily credits with shorter generation limits, while paid subscribers unlock longer clips, extensions, and upscaling to 1080p or 4K."
+    },
+    {
+      "url": "https://www.creativeboom.com/news/carlings-new-identity-is-a-badge-of-belonging-inspired-by-football-clubs/?utm_source=tldrdesign",
+      "title": "Carling's new identity is a badge of belonging inspired by its football ties",
+      "summary": "BrandOpus has redesigned Carling's visual identity around a football-inspired crest that celebrates the lager brand's brewing heritage and longstanding connection to British football culture. The badge incorporates illustrations of the historic Carling Brewery, Burton Bridge, barley sprigs, and the signature Black Label banner. A flexible visual system of illustrations, murals, and stadium advertising adapts to individual football clubs, reinforcing Carling's positioning around community, friendship, and belonging."
+    },
+    {
+      "url": "https://alvaromontoro.com/blog/68117/teach-a-practical-hierarchy-for-styling-design-systems?utm_source=tldrdesign",
+      "title": "TEACH: A Practical Hierarchy for Styling Design Systems",
+      "summary": "TEACH orders design-system styling into five layers — tokens, elements, attributes, classes, and high-level components — starting with what the browser already provides. Native elements and attributes like [aria-expanded] or :user-invalid can carry much of the look and state before any custom class exists. Components sit at the top, packaging the lower layers into reusable building blocks that need considerably less custom CSS."
+    },
+    {
+      "url": "https://learn.thedesignsystem.guide/p/craft-first-ai-second?utm_source=tldrdesign",
+      "title": "Craft First, AI Second",
+      "summary": "Designers risk becoming reviewers of AI output unless they keep sketching, iterating, and defining how things should look before handing work to agents. Automating easy tasks makes the hard parts harder. A Harvard Business Review survey found 14% of AI-using workers reporting \"AI brain fry.\" Precise prompts, saved decisions, and a personal collection of references help close the gap between taste and execution."
+    },
+    {
+      "url": "https://jakobnielsenphd.substack.com/p/ai-ux-progress-rate?utm_source=tldrdesign",
+      "title": "What UX Tasks Will AI Be Able to Do, and When?",
+      "summary": "AI will outperform humans at every UX task with a verifiable outcome by 2030, including interface design, research, and usability evaluation. AI masters tasks in order of how easily and inexpensively their results can be verified, with UX development estimated to trail coding by approximately one year. As design execution becomes increasingly automated, human designers will focus more on identifying worthwhile problems, setting direction, aligning stakeholders, and validating outcomes with real users."
+    },
+    {
+      "url": "https://www.hydrilla.ai/?utm_source=tldrdesign",
+      "title": "AI-Powered 3D Generation for Creators, Studios, and Platforms (Website)",
+      "summary": "Hydrilla is built for creators, studios, and teams who need fast generation of production-ready 3D assets for games, film, architecture, and digital products."
+    },
+    {
+      "url": "https://ui-feed.dev/?utm_source=tldrdesign",
+      "title": "Inspiration for Your Next UI (Website)",
+      "summary": "A feed of live interface components. Scroll through and try each one."
+    },
+    {
+      "url": "https://jakub.kr/writing/the-era-of-personal-software?utm_source=tldrdesign",
+      "title": "The Era of Personal Software",
+      "summary": "A custom health web app, first deployed in about 30 minutes and now used daily, shows how accessible personal software has become. Hourly exports feed a PlanetScale Postgres database, while a Grok Bot agent researches and logs meal calories through an endpoint. Building for yourself changes the process, since decisions no longer need to work for anyone else."
+    },
+    {
+      "url": "https://www.designweek.co.uk/interstate-unveils-unapologetically-british-redesign-for-byron-burgers/?utm_source=tldrdesign",
+      "title": "Interstate unveils “unapologetically British” redesign for Byron Burgers",
+      "summary": "Interstate Creative Partners has rebranded Byron Burgers around a distinctly British personality, moving away from the American-inspired conventions dominating the burger restaurant category. The redesign combines expressive typography, hand-drawn illustrations, bold blue-and-white graphics, and locally adaptable packaging with a conversational tone of voice. The repositioning extends to a simplified menu inspired by British culinary traditions, supporting the company's ambition to expand from seven to 25 UK locations."
+    },
+    {
+      "url": "https://abduzeedo.com/how-someone-reimagined-co-op-brand-identity?utm_source=tldrdesign",
+      "title": "How SomeOne Reimagined the Co-op brand identity",
+      "summary": "SomeOne has refreshed Co-op's brand identity by breaking its recognizable cloverleaf logo into five versatile Membershapes that symbolize the organization's member-owned structure. The visual system introduces Co-op Headline, a bespoke typeface developed with F37, alongside textured letterpress-inspired graphics and expressive icons. Designed to work across Co-op's food, insurance, funeral, and legal services, the identity connects its heritage with an ambition to grow membership from five million to eight million by 2030."
+    },
+    {
+      "url": "https://www.wallpaper.com/art/music/rem-album-artwork-chris-bilheimer?utm_source=tldrdesign",
+      "title": "A Journey through 30 Years of R.E.M. Album Design",
+      "summary": "Chris Bilheimer, who first met Michael Stipe at a Kinko's in Athens, Georgia, has spent 30 years shaping R.E.M.'s album artwork."
+    },
+    {
+      "url": "https://designworklife.com/how-legal-action-against-social-platforms-holds-designers-liable/?utm_source=tldrdesign",
+      "title": "How Legal Action against Social Platforms Holds Designers Liable",
+      "summary": "Social media lawsuits over infinite feeds, autoplay, and alerts must tie specific design choices to a documented injury, not just heavy app use."
+    },
+    {
+      "url": "https://www.creativebloq.com/news/this-optical-illusion-has-stumped-scientists-for-decades-and-things-just-got-weirder?utm_source=tldrdesign",
+      "title": "This optical illusion has stumped scientists for decades, and things just got weirder",
+      "summary": "New research challenges the longstanding theory that the Müller-Lyer optical illusion stems from growing up around straight lines and sharp angles in industrialized societies, as even people born blind can experience the illusion after gaining sight."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "TLDR",
+  "date": "2026-11-26",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/?utm_source=tldrnewsletter",
+      "title": "Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients",
+      "summary": "Neuralink has received permission from the FDA to launch a trial for its LINK brain-computer interface. The study will be open to a limited number of patients with ALS in the US. It will evaluate patients' ability to control digital devices through thought and assess the system's long-term safety and reliability. If the technology proves to be safe, the trial may allow Neuralink to apply for more advanced trials and eventually release LINK onto the market."
+    },
+    {
+      "url": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?st=5CveM7&amp;reflink=desktopwebshare_permalink&amp;utm_source=tldrnewsletter",
+      "title": "SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers",
+      "summary": "The FCC has granted SpaceX approval to launch a million data centers into space. Anthropic and Google have already committed to paying billions of dollars in fees to rent capacity from the network. Proponents of orbital data centers say offloading advanced computing to orbit will allow developers of AI tools to avoid the headaches they are facing on Earth. There are still numerous hurdles to overcome for SpaceX to deploy data centers in space. The FCC authorization gives SpaceX until 2033 to launch and operate the first satellite and until 2040 to launch the full constellation."
+    },
+    {
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/?utm_source=tldrnewsletter",
+      "title": "The short age of dragon riders",
+      "summary": "AI models available to the public have passed a threshold in August this year. They are now stronger than most theoretical physicists at most technical tasks. Models are now able to carry out complex analytical calculations, work out lengthy proofs, and turn well-posed problems into code with minimal input. There will still be joy in discoveries even if it is not only humans that push them."
+    },
+    {
+      "url": "https://blog.caseyhandmer.com/2026/11/25/spacex-is-not-a-monopoly-tech-incumbents-obviously-lack-urgency-and-other-harsh-truths/?utm_source=tldrnewsletter",
+      "title": "SpaceX is not a monopoly, tech incumbents obviously lack urgency, and other Harsh Truths",
+      "summary": "The US space industry is generally unhealthy. The legacy industry lacks vigor. SpaceX's announced intention to gracefully sunset Falcon three years from now has induced a deep, spiraling panic among industry insiders who understand that there is no alternative. The company is uniquely positioned to put compute in space, and it has been investing heavily in this direction for more than a decade. Other tech giants have largely run out of ideas to invest for future growth. Due to this lack of vision, some have resorted to dividends and stock buybacks."
+    },
+    {
+      "url": "https://benjamincongdon.me/blog/2026/11/25/Late-Mid-Game-Software-Engineering/?utm_source=tldrnewsletter",
+      "title": "Late Mid-Game Software Engineering",
+      "summary": "There is a growing frontier of work that can be fully black-box automated. There is still some work that seems resistant to being automated, but once you have a reasonably verifiable target, then the work to get to that target largely falls to agent teams/swarms/factories. Agents' ability to do problem selection, intent, and taste is improving. This means a continuous rediscovery of what pieces require human input, and what can be fully given over, is required."
+    },
+    {
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools?utm_source=tldrnewsletter",
+      "title": "Smart People Who Give a Shit Use Tools",
+      "summary": "Lumping AI-using engineers in with the executives hollowing out their companies does real harm. Companies lose smart people who give a shit when they strip away ownership, punish dissent, and reward shipping volume over reliability. Give those same people real stakes, and a good model, and they won't check out. They will build the guardrails, proofs, and fixes they never had the hours to build before."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME",
+      "title": "Become a founding member of TLDR’s AI community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join."
+    },
+    {
+      "url": "https://mhdempsey.substack.com/p/the-business-of-anthropic?utm_source=tldrnewsletter",
+      "title": "The Business of Anthropic",
+      "summary": "Anthropic's business is incredibly simple. It points tens of billions of dollars of compute toward persistently shifting goalposts to sell frontier lead time (and performance). Anthropic is best understood as a leveraged utility with an R&D department. It can maintain margins while under pressure from near-frontier models because of an increasing demand for frontier intelligence."
+    },
+    {
+      "url": "https://www.julian.com/guide/angel/intro?utm_source=tldrnewsletter",
+      "title": "Angel Investing",
+      "summary": "Angel investing is a rare bet where a small check can grow a thousandfold. Life also gets more interesting once you begin startup investing. It's possible to start angel investing with just $5,000. This post shows beginners how to start making those bets: where to find great founders before VC funds do, how to pick the ones worth backing, what to pay, and how much money to put in."
+    },
+    {
+      "url": "https://www.astralcodexten.com/p/anima-bicameral?utm_source=tldrnewsletter",
+      "title": "Anima, Bicameral",
+      "summary": "Bicameral Labs' founder believes that it's possible to create neural networks while ensuring that they aren't conscious, or at least minimize the chance of them developing consciousness."
+    },
+    {
+      "url": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html?utm_source=tldrnewsletter",
+      "title": "A shallow dive into open-source chip design",
+      "summary": "This post, aimed at those used to a more 'pure-software' view of the computing world, provides an introduction to the open-source chip design stack."
+    },
+    {
+      "url": "https://scottaaronson.blog/?p=10379&amp;utm_source=tldrnewsletter",
+      "title": "HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT",
+      "summary": "OpenAI claims to have proven that ω, the exponent of matrix multiplication, is exactly 9/4."
+    },
+    {
+      "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/?utm_source=tldrnewsletter",
+      "title": "The beauty of CSS mixins",
+      "summary": "A CSS mixin is a named piece of CSS code that developers can define once and reuse elsewhere in a style sheet."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/?utm_source=tldrnewsletter",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "summary": "Ladybird's rendering engine and its LibJS JavaScript engine were written from scratch."
+    },
+    {
+      "url": "https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=tldrnewsletter",
+      "title": "Has Jevons paradox broken down?",
+      "summary": "Cheaper tokens get you more usage within a step, but moving up a step is an organizational problem, not a pricing one."
+    }
+  ]
+}

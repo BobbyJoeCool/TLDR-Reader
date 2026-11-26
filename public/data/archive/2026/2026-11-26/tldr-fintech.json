@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Fintech",
+  "date": "2026-11-26",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.axios.com/2026/11/23/gtcr-global-payments-worldpay?utm_source=tldrfintech",
+      "title": "GTCR explores roughly $50B take-private of Global Payments",
+      "summary": "GTCR confirmed it is working on a potential take-private of Global Payments, where it already owns a 16.35% stake received through the Worldpay sale. A deal could reportedly value Global Payments at around $50 billion and would likely require additional partners, as GTCR appears to be betting that the market is undervaluing the combined Global Payments-Worldpay business or its integration potential."
+    },
+    {
+      "url": "https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?st=qixAJn&amp;reflink=desktopwebshare_permalink?utm_source=tldrfintech",
+      "title": "Stripe valuation set to top $200B in new tender offer",
+      "summary": "Stripe is discussing a new employee tender offer that would value the payments company at more than $200 billion, with the transaction expected to close early next year. The annual liquidity program lets employees sell shares without requiring Stripe to go public, while marking another step-up in the company's private-market valuation."
+    },
+    {
+      "url": "https://fintech.global/2026/11/24/crowdstrikes-43-9bn-zscaler-deal-redraws-network-security/?utm_source=tldrfintech",
+      "title": "CrowdStrike to acquire Zscaler for $43.9B in all-stock deal",
+      "summary": "CrowdStrike agreed to acquire Zscaler for about $43.9 billion, combining CrowdStrike's endpoint and workload security with Zscaler's zero-trust network platform as AI agents create new security risks across cloud traffic. The combined company would start with more than $10 billion of ARR, target roughly $1 billion of annual revenue synergies, and expand CrowdStrike into a network security market it says adds more than $185 billion of addressable opportunity by 2029."
+    },
+    {
+      "url": "https://x.com/anagh_prasad/status/2125185276087529799?a=7QOA3UqAZH81AvR0nQk&s=20&utm_source=tldrfintech",
+      "title": "Why most AI services startups won't create venture-scale returns",
+      "summary": "AI-native services can produce venture-scale outcomes, but only in categories where AI is core to delivery, adoption is slow enough to create a temporary advantage, and pricing does not quickly deflate as competitors adopt the same tools. In sticky markets such as accounting, cybersecurity, and wealth management, the stronger model may be an AI-enabled roll-up that acquires existing firms and transforms them with a proprietary agentic platform, rather than building a new services business from scratch."
+    },
+    {
+      "url": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498?utm_source=tldrfintech",
+      "title": "Payward's Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+      "summary": "Krak's secured card would let customers pledge 350–5,000 in USDC while earning up to 4% APY on that collateral, connecting stablecoin balances to everyday consumer credit. First Electronic Bank will issue both planned cards, with Cardless managing the programs and rewards paid in dollars or bitcoin."
+    },
+    {
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-launches-stablecoin-spending-card-in-26-markets?utm_source=tldrfintech",
+      "title": "Deel launches stablecoin spending card across 26 markets",
+      "summary": "Deel launched a Stripe-powered Visa card that lets eligible contractors spend DLUSD balances directly without first transferring funds to a bank, with merchants receiving local currency as usual. The rollout covers 26 markets across Latin America, the Caribbean, and Africa, builds on more than $45 million already held in DLUSD, and extends stablecoins from payroll storage into everyday spending."
+    },
+    {
+      "url": "https://www.adyen.com/press-and-media/4fgxvm?utm_source=tldrfintech",
+      "title": "Adyen co-founder Pieter van der Does to retire as co-CEO",
+      "summary": "Adyen co-founder Pieter van der Does will retire as co-CEO at the end of 2026, with Ingo Uytdehaage becoming sole CEO after serving alongside him since 2023. Van der Does will remain an advisor. Adyen says the leadership transition does not change its financial objectives as it enters its next phase."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTY5MzkxNCwiZXhwIjoxNzk2Mjk4NzE0LCJhcnRpY2xlSWQiOiJUUDM5WE1LSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.XXnstQtBgDw2CMsg6eIgavarrD4vPGfkpV3i3861yyE?utm_source=tldrfintech",
+      "title": "WorldRemit founder launches Odola to build a broader banking platform for migrants",
+      "summary": "Odola Group is a fintech aimed at serving migrant workers with a fuller financial account rather than a standalone remittance product. It plans to let users receive salary, spend through a Visa debit card, and send money abroad from the same account, targeting a global remittance market approaching $1 trillion annually."
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/?utm_source=tldrfintech",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Backed by a seed round led by Adjacent, Supertake turns investment ideas expressed in everyday language into shareable portfolio strategies connected to accounts at providers such as Robinhood and Coinbase."
+    },
+    {
+      "url": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030?utm_source=tldrfintech",
+      "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
+      "summary": "Rialto combines onchain market-making and trade routing to improve execution for crypto and more than 200 Robinhood Stock Tokens, distributing access through its app and a Swap API."
+    }
+  ]
+}
