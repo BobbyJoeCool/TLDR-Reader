@@ -1,0 +1,58 @@
+{
+  "name": "TLDR Product",
+  "date": "2026-11-27",
+  "articleCount": 10,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.hfsresearch.com/research/blast-open-the-bottleneck-ai-production/?utm_source=tldrproduct",
+      "title": "Blast open the bottleneck between your AI ideas and production",
+      "summary": "While AI has lowered the cost of generating ideas, expert judgment to safely validate and deploy them has become the main bottleneck. Enterprises must shift focus to trust engineering and validation frameworks. Otherwise, they will realize minimal value from their agentic AI investments."
+    },
+    {
+      "url": "https://www.revenuecat.com/blog/growth/multi-step-paywall?utm_source=tldrproduct",
+      "title": "Multi-step paywalls: why they can convert better and how to test your own",
+      "summary": "This article explores multi-step paywalls for subscription apps, showing how sequential screens reduce cognitive load and build trust. Citing industry data, it explains how multi-page flows outperform single-screen options in conversion, outlines key design patterns, and highlights metrics like lifetime value and refunds."
+    },
+    {
+      "url": "https://www.scrum.org/resources/blog/customer-representative-difference-between-hobby-product-and-something-others-might-use?utm_source=tldrproduct",
+      "title": "The Difference Between a Hobby Product and Something Others Might Use?",
+      "summary": "The creator of Paper Drum teaches product owners how to listen to users, yet caught himself pitching features and troubleshooting during user interviews intended for product testing."
+    },
+    {
+      "url": "https://newsletter.posthog.com/p/user-interviews?utm_source=tldrproduct",
+      "title": "Stop asking users what they want",
+      "summary": "Product engineers should avoid asking users what features they want, focusing instead on uncovering underlying problems through targeted interviews. Drawing on user research, this article details questioning techniques to understand user context, actual behavior, core motivations, and the true value of features."
+    },
+    {
+      "url": "https://evalcode.com/handbook/scoping/?utm_source=tldrproduct",
+      "title": "From Problem to Feature: Scoping Work",
+      "summary": "This guide outlines a practical approach to scoping software development by breaking problems into independent, valuable features rather than monolithic tasks. It explains how to define business problems, write implementation-independent acceptance criteria, and handle edge cases like technical debt and estimation."
+    },
+    {
+      "url": "https://falkster.com/blog/evals-for-product-managers?utm_source=tldrproduct",
+      "title": "Evals for Product Managers: Write the Bar, Then the Product",
+      "summary": "For AI products, product managers should use structured evals as primary specifications instead of vague requirements. This approach involves defining quality standards, establishing clear pass-or-fail criteria, setting numerical launch bars before reviewing scores, and maintaining a human-in-the-loop evaluation process."
+    },
+    {
+      "url": "https://mikefisher.substack.com/p/jammed-typewriters?utm_source=tldrproduct",
+      "title": "Jammed Typewriters",
+      "summary": "While AI speeds up development, legacy processes designed to ration engineering time now create bottlenecks. Citing Faros AI data on rising task completions but slower deployments, the author compares outdated rituals to the QWERTY keyboard and urges teams to re-evaluate their workflows."
+    },
+    {
+      "url": "https://amycmitchell.substack.com/p/writing-about-product-management?utm_source=tldrproduct",
+      "title": "What Changed This Year",
+      "summary": "Amy Mitchell reset her product management writing to focus on personal learning and real-world problem-solving. Integrating AI tools transformed how she investigates challenges, leading her to abandon daily notes and paid content to explore the practical realities of product work."
+    },
+    {
+      "url": "https://threadreaderapp.com/thread/2125945305958904126.html?utm_source=tldrproduct",
+      "title": "The Best Products Start with Awkward Customer Behavior",
+      "summary": "Customers who use your product incorrectly may be pointing toward what you should build next."
+    },
+    {
+      "url": "https://marcrandolph.substack.com/p/love-is-not-a-business-model?utm_source=tldrproduct",
+      "title": "Love Is Not a Business Model",
+      "summary": "Founders often focus on whether users like their product instead of how long they will need it."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "TLDR Founders",
+  "date": "2026-11-27",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://selinasstack.substack.com/p/auditing-enterprise-network-effects?utm_source=tldrfounders",
+      "title": "Auditing Enterprise Network Effects",
+      "summary": "Software founders often rely on network effects to protect B2B products from AI rivals. Those defenses depend on whether customers contribute proprietary data or features that competitors can recreate cheaply. Equifax's proprietary credit data is harder to reproduce than ZoomInfo's publicly available contacts. AI makes thin marketplace features easier to build, so an app ecosystem like Salesforce AppExchange provides less protection. Networks connecting business partners combine proprietary data with distribution because each customer brings counterparties onto the platform, as Nominal does with hardware test data."
+    },
+    {
+      "url": "https://openrouter.ai/blog/insights/is-jevons-paradox-holding/?utm_source=tldrfounders",
+      "title": "Is Jevons Paradox holding?",
+      "summary": "Cheaper AI models are often expected to push total spending higher as usage grows. OpenRouter's paid token volume grew 44 times this year while total spend grew 7.6 times. Usage kept climbing after early October while spend barely moved, so buyers were getting more output without substantially increasing budgets. Enterprises appeared more cost-conscious than AI-native scale-ups in this paid-usage dataset excluding free models and reseller traffic. Similar slowdowns late in earlier years reversed after new model launches."
+    },
+    {
+      "url": "https://otsokarvinen.fi/blog/ai-market-research?utm_source=tldrfounders",
+      "title": "AI and market research: how I use it and where it still fails",
+      "summary": "Founders are testing AI tools to speed up market research and cut routine admin work. Marketing agency Parvi records every client meeting so an AI agent can write CRM notes and follow-up tasks from actual conversations. Parvi reports that an AI-assisted audit found a B2B account spending roughly 50% more on LinkedIn than competitors while showing the same people ads about 50 times a quarter. The agency rejects synthetic respondents as a replacement for customer interviews and builds its research around real source material."
+    },
+    {
+      "url": "https://x.com/itsalexvacca/status/2125650039456559166?utm_source=tldrfounders",
+      "title": "How To Run Your GTM In 2027 (Do These 9 Things First)",
+      "summary": "Outbound teams are tempted to point AI agents at thousands of accounts on day one. The founder of an outbound agency first tests each account list and email sequence by hand on 25 similar accounts. Each week he picks about 20 high-signal accounts per client and contacts several people at each one personally. Repeatable steps run as fixed n8n workflows, since sending the same job through an AI model on every run costs far more, by his estimate."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrfounders",
+      "title": "Become a founding member of TLDR's community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. Apply here to join."
+    },
+    {
+      "url": "https://blog.cloudflare.com/search-for-agents?utm_source=tldrfounders",
+      "title": "Introducing Search for Agents",
+      "summary": "Cloudflare's Search for Agents helps websites set up an AI search without having to manually create and configure it initially. It completes all of the integration work required to get a search endpoint available from the site domain, and it makes sure agents know where to find the index and how to use it. The tool automatically creates an index and exposes APIs that any AI agent can discover and use to search your website, under your domain, all done at the network level. Search for Agents can be enabled using the Cloudflare API or through the zone page dashboard."
+    },
+    {
+      "url": "https://ui.effect.website/?utm_source=tldrfounders",
+      "title": "Introducing Effect UI (Website)",
+      "summary": "Effect UI is a frontend library built on Effect and the Elm Architecture. It provides Components with explicit state transitions and side effects as values. Components are self-contained and can provide their own services and load in their own chunk. If a Component fails, the rest of the app keeps running. Effect UI is currently in public preview."
+    },
+    {
+      "url": "https://thenextweb.com/news/marc-berg-statista-ai-crawlers-data-tnw-podcast?utm_source=tldrfounders",
+      "title": "Statista gave up most of its 35 million monthly search users to keep its data away from AI",
+      "summary": "Publishing free pages for Google search used to bring data companies steady traffic. Statista says it drew about 35 million monthly search users before AI crawlers pulled its data into chatbot answers. Customers questioned paying for access, so Statista put almost everything behind a registration wall and saw search users fall to about 8 million. Some smaller customers left because chatbot answers were sufficient, while its enterprise business is growing. Statista now sells licensed data access through an API and MCP server that connect to customers' AI tools."
+    },
+    {
+      "url": "https://www.saastr.com/the-3-financial-plans-you-need-for-next-year-c-90-c-60-and-c-10/?utm_source=tldrfounders",
+      "title": "The 3 Financial Plans You Need for The Year: C-90, C-60 and C-10",
+      "summary": "A C-60 Plan is one where you have a 60% confidence rate you can hit. This is your base plan. A C-10 plan is a variant of the C-60 plan that you think you can maybe hit - this is the stretch plan. A C-90 plan is used to figure out how long a business' cash can last if the next year is harder than planned. Businesses need to make sure they have enough cash to support the C-90 plan, especially during a tougher economy."
+    },
+    {
+      "url": "https://x.com/wadefoster/status/2125590135227957619?s=12&utm_source=tldrfounders",
+      "title": "Refounding Zapier means answering a lot of hard questions",
+      "summary": "Zapier should be used together with agents to complete real actions in the tools businesses use."
+    },
+    {
+      "url": "https://x.com/philipqiu5/status/2126018685018235029?utm_source=tldrfounders",
+      "title": "Predictions for what will happen in agentic commerce this Black Friday",
+      "summary": "Volumes won't be as high as people expect, except in the travel sector."
+    },
+    {
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/?utm_source=tldrfounders",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "summary": "Company culture can not be manufactured: it emerges organically."
+    },
+    {
+      "url": "https://www.farzinbuilds.com/articles/sports-excitement-cto-lessons?utm_source=tldrfounders",
+      "title": "What 4 Months as CTO Taught Me About Leading Engineers vs. Building Software",
+      "summary": "This post highlights the challenges of balancing leadership and engineering as a new CTO."
+    },
+    {
+      "url": "https://ethanflow.com/writing/what-broke-ai-agent-team/?utm_source=tldrfounders",
+      "title": "What broke in 27 days of running a team of AI agents on real work",
+      "summary": "A solo builder who has run a daily Claude Code coordinator session with worker agents since October 31 lists what broke in 27 days."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Dev",
+  "date": "2026-11-27",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://threadreaderapp.com/thread/2125913331915784509.html?utm_source=tldrdev",
+      "title": "There are six layers to a working agentic system",
+      "summary": "This post lays out six layers for production agents, from event triggers and workflow state to tools, trusted context, evaluation, and runtime controls. It recommends checkpointing runs in Postgres, putting deterministic logic behind typed tools, and requiring human approval for high-impact actions. A shared model gateway can enforce spend caps and keep traces across providers."
+    },
+    {
+      "url": "https://jurajb.dev/main-session-manager/?utm_source=tldrdev",
+      "title": "My main Claude Code session writes almost no code",
+      "summary": "A main Claude Code session plans work and delegates implementation to agents running in separate Git worktrees through Herdr. The developer approves plans and tests betas, while the manager checks commits, tests, simulator recordings, and Release builds before merging and shipping. The workflow produced 37 TestFlight builds in five days, up from nine in the previous five."
+    },
+    {
+      "url": "https://voiceinthemachine.com/2026/11/26/the-ai-illusion/?utm_source=tldrdev",
+      "title": "The AI Illusion",
+      "summary": "Drawing on the history of speech recognition, this essay examines five areas where AI claims can outrun the evidence, from agent autonomy to market readiness. In one travel-planning experiment, a single agent matched several multi-agent setups at equal compute. The piece argues for shared metrics, explicit verification, and deterministic code for checks with clear rules."
+    },
+    {
+      "url": "https://www.philschmid.de/mcp-2027?utm_source=tldrdev",
+      "title": "Why I'm Bullish on MCP for 2027",
+      "summary": "MCP is becoming more useful as clients use Code Mode to chain tool calls and process intermediate results outside the model's context. Use the protocol's asynchronous tasks and events to coordinate long-running work across agents."
+    },
+    {
+      "url": "https://janlukas.blog/posts/ai-self-hosting?utm_source=tldrdev",
+      "title": "AI made self-hosting fun again",
+      "summary": "Coding agents make it easier to experiment with self-hosting when Docker Compose files, scripts, and system configuration already live in Git. The essay describes how to set up NixOS on a home server, build a Debian bootc image for VPSes, and use Renovate and CI to automate routine updates."
+    },
+    {
+      "url": "https://kevinak.se/blog/3602153a-3f9c-4ce0-8a4b-fc8e0abceb4f?utm_source=tldrdev",
+      "title": "Why is every agent orchestrator the exact same app?",
+      "summary": "Many coding agent orchestrators pair Git worktrees with terminal panes and diff viewers, leaving engineers to review and integrate several streams of code by hand. Use alternatives, such as disposable environments with separate database state and notifications, when work passes automated checks or gets stuck."
+    },
+    {
+      "url": "https://github.com/awslabs/cli-agent-orchestrator?utm_source=tldrdev",
+      "title": "CLI Agent Orchestrator (GitHub Repo)",
+      "summary": "AWS Labs' CLI Agent Orchestrator runs tools such as Claude Code, Kiro, and Codex in separate tmux sessions. A local server gives a supervisor agent tools to delegate work to those sessions in parallel or in sequence."
+    },
+    {
+      "url": "https://vite.dev/blog/announcing-vite8-4?utm_source=tldrdev",
+      "title": "Vite 8.4 is out!",
+      "summary": "Vite 8.4 adds an opt-in dev server allowlist that limits file serving to assets and modules referenced by the project's entry points. The release also detects duplicate dev servers, supports package subpath imports in CSS URLs, and retries CSS loading when a failed dynamic import is retried in a supported browser."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME",
+      "title": "Become a founding member of TLDR’s community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. Apply here to join."
+    },
+    {
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/?utm_source=tldrdev",
+      "title": "OpenAI may be in cost control mode",
+      "summary": "In a benchmark of head-to-head work tasks, GPT-6.2 Astra and Sol used fewer reasoning and output tokens relative to their opponents than earlier versions did. The results suggest a shift toward lower inference costs, though the benchmark does not establish OpenAI's intent."
+    },
+    {
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/?utm_source=tldrdev",
+      "title": "Google Will Make AI Agents Use Its Workspace MCP Servers. The Gmail One Can't Send Email",
+      "summary": "Google's new Workspace terms require AI agents accessing Workspace data to use its MCP servers starting on February 1. The publicly available Gmail tools support search and draft creation, while sending, replying, forwarding, and editing drafts require partner access."
+    },
+    {
+      "url": "https://olumino.app/?utm_source=tldrdev",
+      "title": "Olumino (Website)",
+      "summary": "Olumino combines Markdown notes and flashcards, using FSRS-7 to schedule reviews based on how well you recall each card."
+    },
+    {
+      "url": "https://openrouter.ai/blog/insights/is-jevons-paradox-holding/?utm_source=tldrdev",
+      "title": "Is Jevons Paradox holding?",
+      "summary": "OpenRouter reports that paid token usage grew 44-fold in 2026 as average token prices fell 83%, while spending has barely risen since early October."
+    },
+    {
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/?utm_source=tldrdev",
+      "title": "Curiosity Is No Solo Act",
+      "summary": "An excerpt from Curious Minds argues that curiosity takes shape through relationships, tracing how Indigenous botany and early cabinets of curiosities reveal the people and places behind a discovery."
+    },
+    {
+      "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html?utm_source=tldrdev",
+      "title": "Your Model Is a Dependency",
+      "summary": "Treat production LLMs like software dependencies by pinning model versions, prompts, and tools in a lockfile, testing upgrades on the same cases across repeated runs, and keeping a tested fallback for model retirements."
+    }
+  ]
+}

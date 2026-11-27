@@ -1,0 +1,83 @@
+{
+  "name": "TLDR Design",
+  "date": "2026-11-27",
+  "articleCount": 15,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.digitaltrends.com/social-media/instagrams-edits-app-is-now-on-ipad-and-it-gives-you-a-larger-canvas-to-edit-on-the-go/?utm_source=tldrdesign",
+      "title": "Instagram's Edits Lands on iPad with a Larger Canvas, and a Native Threads App is Rolling out Soon",
+      "summary": "Instagram's Edits video editor, previously limited to phones and Mac, now runs on iPad with a larger canvas for the timeline and tools, just over two weeks after its Mac launch. The iPad version adds trimming before import, background caption generation, custom .cube LUT support in Labs, three new filters, and more than 1,600 new stickers. A native Threads app for iPad is coming soon, according to Instagram's @clips account."
+    },
+    {
+      "url": "https://gizmodo.com/dont-look-now-but-anthropic-just-released-an-im-feeling-lucky-button-for-vibe-coders-2000844438?utm_source=tldrdesign",
+      "title": "Don't Look Now but Anthropic Just Released an ‘I'm Feeling Lucky' Button for Vibe Coders",
+      "summary": "Anthropic's new Claude Ship bundles three AI agents that take a pull request from review to fixes to approval, working like an \"I'm Feeling Lucky\" button for vibe coders. Code Review hunts for problems such as security holes, PR Steward applies the flagged fixes, and Claude Approvals checks the code against a rules document. Merging can then happen with no human involved if an organization's GitHub rules allow it, and Anthropic suggests starting in observe-only mode."
+    },
+    {
+      "url": "https://9to5mac.com/2026/11/25/ios-27-3-introduces-design-changes-for-these-apple-apps/?utm_source=tldrdesign",
+      "title": "iOS 27.3 introduces design changes for these Apple apps",
+      "summary": "Apple is introducing design updates to four built-in apps with iOS 27.3, scheduled for release in December. Health will receive the most significant overhaul, with new Insights, Longevity, and Browse tabs, while Calendar will move key controls to the bottom of the screen for easier one-handed use. Safari will introduce optional vertical tabs, and Apple Music will allow animated album artwork to blend seamlessly into the scrolling lyrics interface in landscape mode."
+    },
+    {
+      "url": "https://uxpamagazine.org/beyond-the-prompt-designing-ai-interfaces-for-creative-tools/?utm_source=tldrdesign",
+      "title": "Beyond the Prompt: Designing AI Interfaces for Creative Tools",
+      "summary": "Creative AI tools that confine visual, spatial, or sound work to a text box create a gap between what people imagine and what they can express. Visual cards, sketches, sliders, and painting directly on objects let users show intent instead of spelling it out, while language still wins for negation, comparison, and exception. Seemingly simple interfaces risk automation bias and all-or-nothing results, so tools should reveal their assumptions and allow small tweaks, rather than demanding better prompts."
+    },
+    {
+      "url": "https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?utm_source=tldrdesign",
+      "title": "Futures thinking as an everyday design practice",
+      "summary": "The accelerating pace of AI-driven change is making strategic foresight an increasingly important part of everyday design practice rather than an occasional innovation exercise. The Three Horizons framework helps organizations understand the relationship between established systems, emerging approaches, and possible future operating models. Design leaders can use futures thinking to challenge organizational assumptions, experiment with new working relationships, and develop human capabilities alongside technological advances."
+    },
+    {
+      "url": "https://uxdesign.cc/who-draws-the-in-betweens-3b61d1957efe?utm_source=tldrdesign",
+      "title": "Who draws the in-betweens?",
+      "summary": "Controversy surrounding Sylvain Chomet's animated holiday film for Dior, which used automated interpolation for some frames, highlights the difficulty of defining creative authorship in the age of AI. Animation has historically involved delegating repetitive execution to assistants, with creative ownership resting on decisions about movement, timing, and expression. As AI lowers technical barriers to creative production, judgment, taste, and intentionality become increasingly important differentiators."
+    },
+    {
+      "url": "https://aisuite.zoom.com/slides?utm_source=tldrdesign",
+      "title": "Zoom Slides (Website)",
+      "summary": "Create, edit, present, and share your story with Zoom Slides."
+    },
+    {
+      "url": "https://mockreel-app.web.app/?utm_source=tldrdesign",
+      "title": "Turn a Screen Recording into a 3D Device Mockup Video (Website)",
+      "summary": "Drop a recording or a screenshot into a 3D iPhone or MacBook, add a camera move, and download the clip."
+    },
+    {
+      "url": "https://curates.io/?utm_source=tldrdesign",
+      "title": "All-in-One Media Platform for Creatives (Website)",
+      "summary": "Curates is a home for your client work. Share it, get feedback on every frame, keep your files in order, and show the best of it."
+    },
+    {
+      "url": "https://bradfrost.com/blog/post/making-better-products-with-design-systems/?utm_source=tldrdesign",
+      "title": "Putting AI & Design Systems to Work",
+      "summary": "Fresh off the stage at Detach! Conference in Fortaleza, Brazil, Brad Frost explains how he put AI and design systems to work across his business. After a roughly 18-month push to make AI use it faithfully, his Eddie design system now powers all 20+ of his business websites, and the system and the products keep improving each other. He also shares free course lessons and skills he's developing to help others build better products with their design systems."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=tldrdesign",
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "summary": "AI-generated designs met 77.9% of scorecard criteria from synthesized findings and recommendations, versus 69.5% from raw user comments, an 8.4-point gap. Raw comments describe problems but rarely say what to build, while synthesis adds the interpretation and design decisions AI tools struggle to make alone. Teams should not assume raw research data is enough context, and the data here was small and cleaner than typical feedback."
+    },
+    {
+      "url": "https://hackernoon.com/baskerville-the-typeface-that-was-too-perfect-for-its-time?utm_source=tldrdesign",
+      "title": "Baskerville: The Typeface That Was Too Perfect for Its Time",
+      "summary": "John Baskerville revolutionized eighteenth-century typography by developing a typeface with pronounced stroke contrast, refined serifs, and vertical stress, supported by innovations in ink, paper, and printing techniques. Initially criticized by English readers for its excessive sharpness, Baskerville eventually became an influential transitional serif, inspiring numerous revivals, including Zuzana Licko's Mrs Eaves. Its longstanding association with scholarly publishing and established institutions gives the typeface a sense of authority, with a 2012 experiment even suggesting that it can influence readers' perceived credibility of written statements."
+    },
+    {
+      "url": "https://mydesignside.substack.com/p/designers-get-your-hands-dirty-again?utm_source=tldrdesign",
+      "title": "Designers, Get Your Hands Dirty Again",
+      "summary": "Product designers who have risen to the point of barely designing, their days lost to meetings and decisions, may face a rough few years."
+    },
+    {
+      "url": "https://9to5mac.com/2026/11/26/check-out-this-beautiful-wallpaper-to-celebrate-the-opening-of-the-latest-apple-store/?utm_source=tldrdesign",
+      "title": "Check out this beautiful wallpaper to celebrate the opening of the latest Apple Store",
+      "summary": "Apple has released an exclusive wallpaper for iPhone, iPad, and Mac to celebrate the December 10 opening of Apple Kukatpally in Hyderabad, its seventh retail store in India."
+    },
+    {
+      "url": "https://www.deque.com/blog/inside-the-ai-software-factory-where-accessibility-is-won-or-lost/?utm_source=tldrdesign",
+      "title": "Inside the AI Software Factory: Where Accessibility is Won or Lost",
+      "summary": "Accessibility has to be built into AI software factories at every stage, the way privacy and security are, or it brings risk, cost, and rework."
+    }
+  ]
+}

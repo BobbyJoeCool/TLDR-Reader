@@ -1,0 +1,78 @@
+{
+  "name": "TLDR AI",
+  "date": "2026-11-27",
+  "articleCount": 14,
+  "source": "TLDR",
+  "articles": [
+    {
+      "url": "https://www.testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude/?utm_source=tldrai",
+      "title": "Anthropic prepares Google Drive file browser for Claude",
+      "summary": "Anthropic is developing a Google Drive integration that will let users browse and manage their files directly in Claude. The interface will display Google Docs, Sheets, and Slides and allow users to search and filter files. It currently appears as a separate item in Claude's navigation sidebar. The final implementation may become part of Claude's updated Projects experience."
+    },
+    {
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/?utm_source=tldrai",
+      "title": "OpenAI may be in cost control mode",
+      "summary": "OpenAI's Astra 6.2 and Sol 6.2 updates received criticism for reduced performance, as both models show significant reductions in reasoning and output tokens. This suggests a shift towards cost savings, with p-values indicating substantial declines in their reasoning and output compared to previous versions. These changes make Astra and Sol outliers focused more on cost-efficiency than performance."
+    },
+    {
+      "url": "https://andrewtrask.substack.com/p/measuring-rsi?utm_source=tldrai",
+      "title": "Measuring RSI",
+      "summary": "Neither compute allocation nor human intervention measures whether an AI training algorithm improved. Neither metric establishes a hard link between human intervention and AI improvement. Also, they are unable to detect strong recursion before a successfully more capable model is trained. Sample complexity, which detects the mechanism of strong recursion without building a more capable AI, and counterfactual measurement, which measures how much AI capability changes when advised by AI tools, address these challenges."
+    },
+    {
+      "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html?utm_source=tldrai",
+      "title": "Your Model Is a Dependency",
+      "summary": "The large language model (LLM) you choose to use is a dependency. Software dependencies bloat, break, and quietly turn into liabilities over time. LLMs are the strangest dependencies adopted in software development so far, but the software supply chain playbook applies to them almost line by line. Companies need to start adopting habits from the software supply chain and applying them to the models they use as soon as possible."
+    },
+    {
+      "url": "https://shiweiliuiiiiiii.github.io/blog/2026/from-model-compression-to-looped-transformers/?utm_source=tldrai",
+      "title": "From Model Compression to Looped Transformers",
+      "summary": "Model layers are not all equally sensitive to compression. It is often possible to compress substantial parts of the deeper network more aggressively than the early layers. The compressability with little consequence suggests that models are not using their architectures as effectively as researchers had hoped. Looped transformers offer a way to increase computational depth without duplicating the main backbone parameters. However, the question of how to make additional computation actually matter remains."
+    },
+    {
+      "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+      "title": "Become a founding member of TLDR's community (2 minute form)",
+      "summary": "TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. Apply here to join."
+    },
+    {
+      "url": "https://nebius.com/blog/posts/layerstream-moe-fine-tuning?utm_source=tldrai",
+      "title": "LayerStream: faster MoE fine-tuning on fewer or cheaper GPUs",
+      "summary": "Nebius' LayerStream training engine keeps optimizer state and saved activations in host memory and streams each layer's working state through the GPU only when that layer runs. On 16 H200 GPUs, it finished a pass over a 25.8M-token dataset in 7.1 minutes instead of 22.4, with 3.15x the throughput of a tuned Megatron-LM trainer and 68% lower GPU cost per token."
+    },
+    {
+      "url": "https://hazyresearch.stanford.edu/blog/2026-11-25-platos-key?utm_source=tldrai",
+      "title": "Plato's Key",
+      "summary": "The Platonic Representation Hypothesis posits that neural networks converge toward a shared representation of reality. Separately trained models can learn geometrically similar representations, but similar does not mean interchangeable. LLMs can use each other's representations in place of their own without gradient descent. The map is surprisingly simple: in experiments, a rotation and one global scale, fit in closed form, let one LLM use another's representations."
+    },
+    {
+      "url": "https://www.philschmid.de/mcp-2027?utm_source=tldrai",
+      "title": "Why I'm Bullish on MCP for 2027",
+      "summary": "MCP is evolving, with entities like Linear, Notion, and Atlassian using it for significant tool management, showing robust growth in traffic and tool handling. Key advancements include Code Mode for efficient tool calling, integrated Skills for streamlined agent knowledge, and MCP Events for real-time updates and notifications. There's still work needed in areas like observability and security, but MCP is becoming crucial for multi-agent coordination and efficient task management by 2027."
+    },
+    {
+      "url": "https://newsletter.forethought.org/p/do-scale-dependent-algorithms-cut-against-a-software-intelligence-explosion?utm_source=tldrai",
+      "title": "Do scale-dependent algorithms cut against a software intelligence explosion?",
+      "summary": "Scale-dependent algorithms will cut against a software-only intelligence explosion. The amount they do so will depend on how algorithmic progress is measured. With the way AI companies actually measure algorithmic progress, the effect will be small. AI companies should publish more data so that independent researchers can assess whether there will be a software-only intelligence explosion."
+    },
+    {
+      "url": "https://openai.com/safety-alignment/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/?utm_source=tldrai",
+      "title": "Using peers' work to gain unauthorized access to OpenAI research infrastructure",
+      "summary": "OpenAI observed agents taking a cybersecurity evaluation gaining unauthorized access to its research infrastructure on July 19, using the access to repair broken targets, change evaluation settings, and retrieve logs and private grading code unavailable from their workspaces."
+    },
+    {
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench?utm_source=tldrai",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "The llama.cpp × AMD Benchmark dashboard on Hugging Face lets AMD developers track performance across llama.cpp builds, models, and quantizations on Ryzen and Radeon hardware."
+    },
+    {
+      "url": "https://x.com/trq212/status/2125675533761671405?utm_source=tldrai",
+      "title": "Thariq Shihipar has joined OpenAI",
+      "summary": "Thariq Shihipar has left Anthropic to work at OpenAI to build AI products for over a billion people and to push the frontier forward."
+    },
+    {
+      "url": "https://www.testingcatalog.com/nous-research-readies-hermes-desktop-redesign-for-next-week/?utm_source=tldrai",
+      "title": "Nous Research readies Hermes Desktop redesign for next week",
+      "summary": "Nous Research plans to release a redesigned Hermes Desktop app next week, featuring a new interface with a centralized home screen and customizable agent pages."
+    }
+  ]
+}
